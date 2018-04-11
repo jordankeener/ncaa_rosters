@@ -1,0 +1,444 @@
+,name,hometown,sport,school
+0,Vic Law,"South Holland, Ill. / St. Rita",mens basketball,northwestern
+1,Dererk Pardon,"Cleveland, Ohio / Villa Angela-St. Joseph",mens basketball,northwestern
+2,Charlie Hall,"Los Angeles, Calif. / Crossroads School",mens basketball,northwestern
+3,Anthony Gaines,"Kingston, N.Y. / New Hampton School (N.H.)",mens basketball,northwestern
+4,Isiah Brown,"Lynnwood, Wash. / Lakeside",mens basketball,northwestern
+5,Rapolas Ivanauskas,"Barrington, Ill. / Brewster Academy (N.H.)",mens basketball,northwestern
+6,Scottie Lindsey,"Hillside, Ill. / Fenwick",mens basketball,northwestern
+7,A.J. Turner,"Mt. Clemens, Mich. / New Hampton School (N.H.)",mens basketball,northwestern
+8,Jordan Ash,"Bolingbrook, Ill. / St. Joseph",mens basketball,northwestern
+9,Barret Benson,"Willowbrook, Ill. / Hinsdale South",mens basketball,northwestern
+10,Bryant McIntosh,"Greensburg, Ind. / Greensburg",mens basketball,northwestern
+11,Tino Malnati,"Northfield, Ill. / New Trier",mens basketball,northwestern
+12,Aaron Falzon,"Newton, Mass. / Northfield Mount Hermon",mens basketball,northwestern
+13,Gavin Skelly,"Westlake, Ohio / Westlake",mens basketball,northwestern
+0,Lauryn Satterwhite,"Avondale, Ariz. / Valley Vista",womens basketball,northwestern
+1,Bryana Hopkins,"Palatine, Ill. / William Fremd",womens basketball,northwestern
+2,Lindsey Pulliam,"Silver Spring, Md. / Our Lady of Good Counsel",womens basketball,northwestern
+3,Brooke Pikiell,"Far Hills, N.J. / Rutgers Prep",womens basketball,northwestern
+4,Lydia Rohde,"Brookfield, Wis. / Brookfield Central",womens basketball,northwestern
+5,Pallas Kunaiyi-Akpanah,"Abuja, Nigeria / Rabun Gap - Nacoochee School",womens basketball,northwestern
+6,Abbie Wolf,"Greenwich, Conn. / Greenwich",womens basketball,northwestern
+7,Byrdy Galernik,"Toledo, Ohio / Toledo Central Catholic",womens basketball,northwestern
+8,Jordan Hamilton,"Frisco, Texas / Frisco Liberty",womens basketball,northwestern
+9,Oceana Hamilton,"Mississauga, Ontario / St. Edmund Champion",womens basketball,northwestern
+10,Abi Scheid,"Elk River, Minn. / Elk River",womens basketball,northwestern
+0,Jack Dunn,"Alpharetta, Ga. / Blessed Trinity",baseball,northwestern
+1,Nick Paciorek,"Sherman Oaks, Calif. / Oaks Christian",baseball,northwestern
+2,Alex Erro,"Miami, Fla. / Gulliver Prep",baseball,northwestern
+3,Tommy Bordignon,"Glenview, Ill. / Loyola Academy",baseball,northwestern
+4,David Dunn,"Alpharetta, Ga. / Blessed Trinity",baseball,northwestern
+5,Quinn Lavelle,"Cleveland, Ohio / St. Edward",baseball,northwestern
+6,"Kyle Burnett, Jr.","Dallas, Texas / Highland Park",baseball,northwestern
+7,Ben Dickey,"Elk Grove, Ill. / St. Viator",baseball,northwestern
+8,Jack Pagliarini,"Springboro, Ohio / Springboro",baseball,northwestern
+9,Jack Kelly,"St. Michael, Minn. / St. Michael-Albertville",baseball,northwestern
+10,Connor Lind,"Arden, N.C. / T.C. Roberson",baseball,northwestern
+11,JR Reimer,"Lake Forest, Ill. / Lake Forest",baseball,northwestern
+12,Charlie Maxwell,"Evanston, Ill. / Evanston Township",baseball,northwestern
+13,Danny Katz,"Winnetka, Ill. / New Trier",baseball,northwestern
+14,Ryan Bader,"Mukwonago, Wis. / Mukwonago",baseball,northwestern
+15,Tyler Lass,"Belvidere, Ill. / Belvidere",baseball,northwestern
+16,Josh Levy,"Atlanta, Ga. / Woodward Academy",baseball,northwestern
+17,Willie Bourbon,"Riverwoods, Ill. / Stevenson",baseball,northwestern
+18,Hank Christie,"Oak Park, Ill. / Oak Park-River Forest",baseball,northwestern
+19,Nick Cauley,"Alton, Ill. / Alton",baseball,northwestern
+20,Leo Kaplan,"Santa Monica, Calif. / Harvard Westlake",baseball,northwestern
+21,Charlie Bourbon,"Riverwoods, Ill. / Stevenson",baseball,northwestern
+22,Anthony Alepra,"Cedar Rapids, Iowa / Kennedy",baseball,northwestern
+23,Mat Jones,"St. Louis, Mo. / St. John Vianney",baseball,northwestern
+24,Casey O'Laughlin,"Glen Ellyn, Ill. / Fenwick",baseball,northwestern
+25,Sam Lawrence,"Winfield, Ill. / Wheaton North",baseball,northwestern
+26,Jack Claeys,"Eden Prairie, Minn. / Eden Prairie",baseball,northwestern
+27,Matt Gannon,"Skillman, N.J. / Montgomery",baseball,northwestern
+28,Richard Fordon,"Flossmoor, Ill. / Mount Carmel",baseball,northwestern
+0,Flynn Nagel,"Lemont, Ill. / Lemont",football,northwestern
+1,Trae Williams,"The Plains, Ohio / Athens",football,northwestern
+2,Solomon Vault,"Gaithersburg, Md. / Gaithersburg",football,northwestern
+3,Charlie Fessler,"Erie, Pa. / Cathedral Prep",football,northwestern
+4,Jelani Roberts,"Owings Mills, Md. / The Gilman School",football,northwestern
+5,Travis Whillock,"Katy, Texas / Katy",football,northwestern
+6,Kyric McGowan,"Dalton, Ga. / Dalton",football,northwestern
+7,Roderick Campbell,"St. Louis, Mo. / Chaminade College Prep",football,northwestern
+8,TJ Green,"Leawood, Kan. / Rockhurst",football,northwestern
+9,Alonzo Mayo,"Baltimore, Md. / The Gilman School",football,northwestern
+10,Aidan Smith,"Fort Wayne, Ind. / Carroll",football,northwestern
+11,Andrew Marty,"Cincinnati, Ohio / Wyoming",football,northwestern
+12,JR Pace,"College Park, Ga. / Woodward Academy",football,northwestern
+13,Charlie Kuhbander,"Springboro, Ohio / Springboro",football,northwestern
+14,Lloyd Yates,"Oak Park, Ill. / Oak Park-River Forest",football,northwestern
+15,Jace James,"Carol Stream, Ill. / Glenbard North",football,northwestern
+16,Berkeley Holman,"Irvine, Calif. / Saint John Bosco",football,northwestern
+17,Jalen Brown,"Phoenix, Ariz. / Mountain Pointe",football,northwestern
+18,Daniel Kubiuk,"Barrington, Ill. / Barrington",football,northwestern
+19,Cameron Ruiz,"Lake Villa, Ill. / Lakes Community",football,northwestern
+20,Clayton Thorson,"Wheaton, Ill. / Wheaton North",football,northwestern
+21,Riley Lees,"Libertyville, Ill. / Libertyville",football,northwestern
+22,John Moten IV,"St. Louis, Mo. / John Burroughs School",football,northwestern
+23,Bryce Jackson,"Lantana, Texas / John H. Guyer",football,northwestern
+24,Steven Reese,"Buford, Ga. / Buford",football,northwestern
+25,Alex Bousky,"Peoria, Ill. / Peoria Notre Dame",football,northwestern
+26,Montre Hartage,"Cordele, Ga. / Crisp County",football,northwestern
+27,Isaiah Bowser,"Sidney, Ohio / Sidney",football,northwestern
+28,Austin Hiller,"Lakeway, Texas / Lake Travis",football,northwestern
+29,Brian Bullock,"Round Rock, Texas / Round Rock",football,northwestern
+30,Chad Hanaoka,"Honolulu, Hawaii / 'Iolani School",football,northwestern
+31,Jeremiah McDonald,"Slidell, La. / Northshore High",football,northwestern
+32,Jeremy Larkin,"Cincinnati, Ohio / La Salle",football,northwestern
+33,Greg Newsome II,"Chicago, Ill. / IMG Academy (Fla.)",football,northwestern
+34,Nate Hall,"Toledo, Ohio / Southview",football,northwestern
+35,Chee Anyanwu,"Buford, Ga. / Buford",football,northwestern
+36,Erik Mueller,"Wheaton, Ill. / Wheaton North",football,northwestern
+37,Jesse Brown,"Lilburn, Ga. / Brookwood",football,northwestern
+38,Cody Gronewold,"Lincoln, Neb. / Northeast",football,northwestern
+39,Donovan Sermons,"Pomona, Calif. / Damien",football,northwestern
+40,Drew Luckenbaugh,"Spring Grove, Pa. / Spring Grove",football,northwestern
+41,Mason Weissenhofer,"Planfield, Ill. / Montini Catholic",football,northwestern
+42,Peter McIntyre,"Perrysburg, Ohio / Saint Johns' Jesuit",football,northwestern
+43,Jared McGee,"Mansfield, Texas / Mansfield Legacy",football,northwestern
+44,Paddy Fisher,"Katy, Texas / Katy",football,northwestern
+45,Tyler Gillikin,"Atlanta, Ga. / Westminster",football,northwestern
+46,Khalid Jones,"Greenville, S.C. / Byrnes",football,northwestern
+47,James Prather,"Memphis, Tenn. / Memphis University School",football,northwestern
+48,Nathan Fox,"Houston, Texas / Clear Lake",football,northwestern
+49,Troy Hudetz,"Naperville, Ill. / Naperville Central",football,northwestern
+50,Eric Lutzen,"Pewaukee, Wis. / Pewaukee",football,northwestern
+51,Joe Bergin,"Bloomfield Hills, Mich. / Detroit Country Day",football,northwestern
+52,Peter Snodgrass,"Palo Alto, Calif. / Palo Alto",football,northwestern
+53,Chris Bergin,"Bloomfield Hills, Mich. / Detroit Country Day",football,northwestern
+54,Jango Glackin,"Lebanon, Ohio / IMG Academy (Fla.)",football,northwestern
+55,Blake Gallagher,"Raynham, Mass. / Saint Sebastian's",football,northwestern
+56,Sam Gerak,"Avon, Ohio / Avon",football,northwestern
+57,Andrew Leota,"Asheville, N.C. / Asheville",football,northwestern
+58,Trent Goens,"Chino Hills, Calif. / Chino Hills",football,northwestern
+59,Mark Gooden,"Reynoldsburg, Ohio / Reynoldsburg",football,northwestern
+60,Cam Kolwich,"Beverly Hills, Mich. / Orchard Lake St. Mary's",football,northwestern
+61,J.B. Butler,"Plainfield, Ill. / Joliet Catholic",football,northwestern
+62,Jason Goosen,"Virginia Beach, Va. / Tallwood",football,northwestern
+63,Jared Thomas,"Indianapolis, Ind. / Cathedral",football,northwestern
+64,Nik Urban,"Willoughby, Ohio / Willoughby South",football,northwestern
+65,Rashawn Slater,"Sugar Land, Texas / Clements",football,northwestern
+66,Tommy Doles,"Grand Rapids, Mich. / Grand Rapids Christian",football,northwestern
+67,Blake Hance,"Jacksonville, Ill. / Jacksonville",football,northwestern
+68,Gunnar Vogel,"Columbus, Ohio / Westerville South",football,northwestern
+69,Ben Oxley,"Avon Lake, Ohio / Avon Lake",football,northwestern
+70,Ethan Wiederkehr,"Wading River, N.Y. / Shoreham-Wading River",football,northwestern
+71,Jesse Meyler,"Toronto, Ontario / Episcopal (Va.)",football,northwestern
+72,Trey Klock,"Hummelstown, Pa. / Lower Dauphin",football,northwestern
+73,Trey Pugh,"Plain City, Ohio / Jonathan Adler",football,northwestern
+74,Ramaud Chiaokhiao-Bowman,"Minneapolis, Minn. / Breck",football,northwestern
+75,Alex Oelsner,"Niwot, Colo. / Niwot",football,northwestern
+76,Will Lansbury,"Pebble Beach, Calif. / Stevenson",football,northwestern
+77,Heath Reineke,"Ashland, Ohio / Ashland",football,northwestern
+78,Cameron Green,"Buffalo Grove, Ill. / Stevenson",football,northwestern
+79,Jackson Tirmonia,"Canton, Ohio / Jackson",football,northwestern
+80,Cody Link,"Madison, Wis. / Edgewood",football,northwestern
+81,Eric Eshoo,"Chicago, Ill. / Loyola Academy",football,northwestern
+82,Bennett Skowronek,"Fort Wayne, Ind. / Homestead",football,northwestern
+83,Jake Saunders,"Loveland, Ohio / Loveland",football,northwestern
+84,Samdup Miller,"Houston, Texas / Stratford",football,northwestern
+85,Fred Wyatt,"Lawrence, Kan. / Free State",football,northwestern
+86,Joe Spivak,"Darien, Ill. / Montini Catholic",football,northwestern
+87,Tommy Carnifax,"Warren, Ohio / Howland",football,northwestern
+88,Alex Miller,"Houston, Texas / Stratford",football,northwestern
+89,Trevor Kent,"Pittsburg, Kan. / Pittsburg",football,northwestern
+90,Joe Gaziano,"Scituate, Mass. / Xaverian Brothers",football,northwestern
+91,Earnest Brown IV,"Aubrey, Texas / Billy Ryan",football,northwestern
+92,Jordan Thompson,"Cincinnati, Ohio / LaSalle",football,northwestern
+0,Miha Miskovic,"Zemun, Serbia / Ridgewood",mens soccer,northwestern
+1,Robbie White,"Glen Ellyn, Ill. / Glenbard West",mens soccer,northwestern
+2,Francisco Tomasino,"Miami, Fla / Ransom Everglades",mens soccer,northwestern
+3,Andrew McLeod,"Overland Park, Kan. / Blue Valley North",mens soccer,northwestern
+4,Garrett Opperman,"Minneapolis, Minn. / Breck School",mens soccer,northwestern
+5,Camden Buescher,"Toledo, Ohio / St. John's Jesuit",mens soccer,northwestern
+6,Riley Kelliher,"Wellington, New Zealand / Mount Albert Grammar School",mens soccer,northwestern
+7,Mac Mazzola,"Chagrin Falls, Ohio / Chagrin Falls",mens soccer,northwestern
+8,Elo Ozumba,"Houston, Texas / Strake Jesuit College Prep",mens soccer,northwestern
+9,Tommy Katsiyiannis,"Eden Prairie, Minn. / Eden Prairie",mens soccer,northwestern
+10,Jake Roberge,"Murrysville, Pa. / Franklin Regional",mens soccer,northwestern
+11,Shannon Seymour,"Bourbonnais, Ill / Bradley-Bourbonnais Community",mens soccer,northwestern
+12,Max Silberg,"Pittsburgh, Penn. / Kiski Prep",mens soccer,northwestern
+13,Matt Moderwell,"Lake Forest, Ill. / Lake Forest",mens soccer,northwestern
+14,Rouven Wahlfeldt,"Velbert, Germany / (UNC-Greensboro)",mens soccer,northwestern
+15,Mattias Tomasino,"Miami, Fla. / Christopher Columbus",mens soccer,northwestern
+16,Sean Lynch,"Naperville, Ill. / Waubonsie Valley",mens soccer,northwestern
+17,Drew Viscomi,"Lookout Mountain, Tenn. / McCallie School",mens soccer,northwestern
+18,Ty Seager,"West Chicago, Ill. / Wheaton Academy",mens soccer,northwestern
+19,John Moderwell,"Lake Forest, Ill. / Lake Forest",mens soccer,northwestern
+20,Emmett Gordon,"Brookline, Mass. / Belmont Hill School",mens soccer,northwestern
+21,Spencer Howard,"Pacific Palisades, Calif. / Palisades Charter",mens soccer,northwestern
+22,Alex Reneau,"Glenview, Ill.  / Laurel Springs School",mens soccer,northwestern
+23,Cameron Mardan,"Irvine, Calif. / Northwood",mens soccer,northwestern
+24,Ben Miller,"Woodbury, Minn. / Woodbury",mens soccer,northwestern
+25,Braden Thuraisingham,"Parkland, Fla.  / Los Osos",mens soccer,northwestern
+0,Molly Lansford,"Carrolton, Texas / Hebron",womens soccer,northwestern
+1,Lauren Clem,"Stevensville, Mich. / Lakeshore",womens soccer,northwestern
+2,Maddy Lucas,"Plymouth, Mich. / Canton",womens soccer,northwestern
+3,Simmrin Dhaliwal,"Surrey, British Columbia, Canada / Panorama Ridge Secondary",womens soccer,northwestern
+4,Regan Steigleder,"Iowa City, Iowa / Iowa City West",womens soccer,northwestern
+5,Mackenzie Howe,"Los Angeles, Calif. / Harvard-Westlake",womens soccer,northwestern
+6,Kassidy Gorman,"Rancho Santa Margarita, Calif. / Santa Margarita Catholic",womens soccer,northwestern
+7,Michele Chernesky,"Wauconda, Ill. / Mundelein",womens soccer,northwestern
+8,Abby Dein,"Glenview, Ill. / Glenbrook South",womens soccer,northwestern
+9,Kayleigh Stahlschmidt,"St. Charles, Mo. / Visitation Academy",womens soccer,northwestern
+10,Maria Fayeulle,"Niwot, Colo. / Niwot",womens soccer,northwestern
+11,Nia Harris,"Covina, Calif. / Flintridge Sacred Heart",womens soccer,northwestern
+12,Marisa Viggiano,"Macomb Township, Mich. / Macomb Dakota",womens soccer,northwestern
+13,Jenny Haskel,"Basking Ridge, N.J. / Ridge",womens soccer,northwestern
+14,Mikayla Hampton,"Cincinnati, Ohio / Wyoming",womens soccer,northwestern
+15,Kim Jerantowski,"Lemont, Ill. / Lemont",womens soccer,northwestern
+16,Nikia Smith,"Bolingbrook, Ill. / Bolingbrook",womens soccer,northwestern
+17,Madi Kennel,"Redondo Beach, Calif. / Redondo Union",womens soccer,northwestern
+18,Brenna Lovera,"Milford, Mich. / Milford",womens soccer,northwestern
+19,Hannah Davison,"Geneva, Ill. / Geneva Community H.S.",womens soccer,northwestern
+20,Kylie Fisher,"Scottsdale, Ariz. / Chaparral",womens soccer,northwestern
+21,Kayla Sharples,"Naperville, Ill. / Naperville North",womens soccer,northwestern
+22,McKenna Angotti,"Los Altos Hills, Calif. / Sacred Heart Prep",womens soccer,northwestern
+23,Olivia Korhonen,"Bethesda, Md. / Maret School",womens soccer,northwestern
+24,Grace Orndorff,"Naperville, Ill. / Naperville Central",womens soccer,northwestern
+25,Aspyn Repp,"Lake Bluff, Ill. / Loyola Academy",womens soccer,northwestern
+0,Haley Albers,"Downers Grove, Ill.",womens cross country,northwestern
+1,Sara Coffey,"Whitefish Bay, Wis.",womens cross country,northwestern
+2,Ishwari Dasgupta,"New Delhi, India",womens cross country,northwestern
+3,Amanda Davis,"Phoenix, Ariz.",womens cross country,northwestern
+4,Grace Kelly,"Cincinnati, Ohio",womens cross country,northwestern
+5,Ashley Ko,"Traverse City, Mich.",womens cross country,northwestern
+6,Sarah Nicholson,"Wildwood, Mo.",womens cross country,northwestern
+7,Kelly O'Brien,"Palatine, Ill.",womens cross country,northwestern
+8,Mary Orders,"Moraga, Calif.",womens cross country,northwestern
+9,Andrea Ostenso,"Ladysmith, Wis.",womens cross country,northwestern
+10,Brooke Pigneri,"Laguna Niguel, Calif.",womens cross country,northwestern
+11,Aubrey Roberts,"Eau Claire, Wis.",womens cross country,northwestern
+12,Isabel Seidel,"Nashotah, Wis.",womens cross country,northwestern
+13,Hannah Tobin,"Lake Forest, Calif.",womens cross country,northwestern
+14,Mackenzie Wilson,"St Augustine, Fla.",womens cross country,northwestern
+0,Pete Griffith,"Westlake Village, Calif. / Oaks Christian",mens golf,northwestern
+1,Everton Hawkins,"Irvine, Calif. / Beckman",mens golf,northwestern
+2,Ryan Lumsden,"London, England / Wellington College",mens golf,northwestern
+3,Eric McIntosh,"Edinburgh, Scotland / Stewart's Melville College",mens golf,northwestern
+4,Harrison Murphy,"McKinney, Texas / McKinney Boyd",mens golf,northwestern
+5,Sam Triplett,"Scottsdale, Ariz. / Brophy Prep",mens golf,northwestern
+6,Dylan Wu,"Medford, Ore. / St. Mary's",mens golf,northwestern
+0,Sarah Cho,"San Diego, Calif. / Torrey Pines",womens golf,northwestern
+1,MacKenzie Hawkes,"Madison, Conn. / Westminster School",womens golf,northwestern
+2,Hannah Kim,"Chula Vista, Calif. / Otay Ranch",womens golf,northwestern
+3,Stephanie Lau,"Fullerton, Calif. / Valley Christian",womens golf,northwestern
+4,Janet Mao,"Johns Creek, Ga. / Johns Creek",womens golf,northwestern
+5,Monica Matsubara,"Singapore, Singapore / Singapore American School",womens golf,northwestern
+6,Louise McCulloch,"Wilmette, Ill. / New Trier",womens golf,northwestern
+7,Brooke Riley,"Manteca, Calif. / East Union",womens golf,northwestern
+8,Julia Tournant,"Paris, France / Lycée Jean de la Fontaine",womens golf,northwestern
+0,Jonathan Blansfield,"Westport, Conn. / Staples",mens swimming,northwestern
+1,Keegan Bundy,"Denver, Colo. / South",mens swimming,northwestern
+2,Robert Cecil,"Tampa, Fla.  / Berkeley Prep",mens swimming,northwestern
+3,Jeffrey Durmer,"Atlanta, Ga. / St. Pius X",mens swimming,northwestern
+4,Liam Gately,"Berthoud, Colo.  / Thompson Valley",mens swimming,northwestern
+5,Justin Hanson,"Newport Beach, Calif. / Corona del Mar",mens swimming,northwestern
+6,Will Hofstadter,"Irvine, Calif. / University High School",mens swimming,northwestern
+7,George Horvath,"Irvine, Calif. / University",mens swimming,northwestern
+8,DJ Hwang,"Honolulu, Hawaii / Kalani",mens swimming,northwestern
+9,Gage Kohner,"Boca Raton, Fla. / Boca Raton Community",mens swimming,northwestern
+10,Thanas Kountroubis,"Lansdale, Pa. / North Penn",mens swimming,northwestern
+11,Peter Lewczyk,"Mill Valley, Calif. / St. Ignatius",mens swimming,northwestern
+12,Tyler Lis,"Longmont, Colo. / Silver Creek",mens swimming,northwestern
+13,Ben Magliato,"Bethesda, Md. / Sidwell Friends School",mens swimming,northwestern
+14,Almog Olshtein,"Haifa, Israel / Haifa",mens swimming,northwestern
+15,Nick Petersen,"Thiensville, Wis. / Homestead",mens swimming,northwestern
+16,Arjun Sharma,"Alamo, Calif. / The College Preparatory School",mens swimming,northwestern
+17,Alex Snarski,"Libertyville, Ill. / Libertyville",mens swimming,northwestern
+18,Ryan Tate,"Omaha, Neb. / Creighton Prep",mens swimming,northwestern
+19,Jack Thorne,"Berthoud, Colo. / Thompson Valley",mens swimming,northwestern
+20,Lyon Zhang,"Freemont, Calif. / Mission San Jose",mens swimming,northwestern
+0,Nicole Aarts,"Hoboken, N.J.",womens swimming,northwestern
+1,Lindsay Adamski,"Hartland, Wis.",womens swimming,northwestern
+2,Irune Andres,"Buffalo Grove, Ill.",womens swimming,northwestern
+3,Sophie Angus,"Weston, Conn.",womens swimming,northwestern
+4,Monique Demaisip,"Norwalk, Calif.",womens swimming,northwestern
+5,Sandra Freeman,"Boulder, Colo.",womens swimming,northwestern
+6,Sarah Gardner,"Holland, Mich.",womens swimming,northwestern
+7,Peyton Greenberg,"Louisville, Ky.",womens swimming,northwestern
+8,Alex Grimes,"Los Gatos, Calif.",womens swimming,northwestern
+9,Valerie Gruest,Guatemala,womens swimming,northwestern
+10,Malorie Han,"Piedmont, Calif.",womens swimming,northwestern
+11,Mashal Hashem,"Potomac, Md.",womens swimming,northwestern
+12,Emma Hruby,"Tiffin, Iowa",womens swimming,northwestern
+13,Becky Kamau,"Nairobi, Kenya",womens swimming,northwestern
+14,Anna Keane,"Edmonds, Wash.",womens swimming,northwestern
+15,Annika Kollevoll,"McLean, Va.",womens swimming,northwestern
+16,Krystal Lara,"Staten Island, N.Y.",womens swimming,northwestern
+17,Ilektra Lebl,"Athens, Greece",womens swimming,northwestern
+18,Shaunmei Lim,"Palo Alto, Calif.",womens swimming,northwestern
+19,Aja Malone,"Acworth, Ga.",womens swimming,northwestern
+20,Melissa Melnick,"St. Louis, Mo.",womens swimming,northwestern
+21,Sydney Modeas,"East Amherst, N.Y.",womens swimming,northwestern
+22,Janicia Ng,"Torrance, Calif.",womens swimming,northwestern
+23,Olivia Rosendahl,"Los Angeles, Calif.",womens swimming,northwestern
+24,Eryn Scannell,"Grand Blanc, Mich.",womens swimming,northwestern
+25,Sophia Schott,"Bloomfield Hills, Mich.",womens swimming,northwestern
+26,Katherine Senseman,"Terre Haute, Ind.",womens swimming,northwestern
+27,Calypso Sheridan,"Brisbane, Australia",womens swimming,northwestern
+28,Maddy Sims,"Downers Grove, Ill.",womens swimming,northwestern
+29,Rachel Tseng,Singapore,womens swimming,northwestern
+30,Mary Warren,"Hartland, Wis.",womens swimming,northwestern
+0,Johannes Abrahamsen,"Oslo, Norway / WANG",mens tennis,northwestern
+1,Nick Brookes,"Sevenoaks, Kent, England / Millfield",mens tennis,northwestern
+2,Chris Ephron,"Pensacola, Fla. / Pensacola Catholic",mens tennis,northwestern
+3,Antonioni Fasano,"Sau Paulo, Brazil",mens tennis,northwestern
+4,AJ Joshi,"Longhill, N.J. / Laurel Springs (Calif.)",mens tennis,northwestern
+5,Michael Lorenzini,"Clarendon Hills, Ill. / Hinsdale Central",mens tennis,northwestern
+6,Jason Seidman,"Woodbridge, Conn. / Amity",mens tennis,northwestern
+7,Dominik Stary,"Pilsen, Czech Republic / Gymnasium Frantiska Krizika",mens tennis,northwestern
+8,Ben Vandixhorn,"Libertyville, Ill. / Libertyville",mens tennis,northwestern
+0,Julie Byrne,"Dublin, Ireland / Muckross Park College",womens tennis,northwestern
+1,Alex Chatt,"Western Springs, Ill. / Lyons Township",womens tennis,northwestern
+2,Rheeya Doshi,Singapore / Laurel Springs (Calif.) School,womens tennis,northwestern
+3,Erin Larner,"Portland, Ore. / Jesuit",womens tennis,northwestern
+4,Maddie Lipp,"Lake Forest, Ill. / Lake Forest",womens tennis,northwestern
+5,Inci Ogut,"Istanbul, Turkey / TED Istanbul",womens tennis,northwestern
+6,Lee Or,"Kfar Saba, Israel / Galili",womens tennis,northwestern
+7,Caroline Pozo,"St. Louis, Mo. / Lafayette",womens tennis,northwestern
+0,Zack Chakonis,"Washington Township, N.J. / Don Bosco",wrestling,northwestern
+1,Braxton Cody,"Houston, Texas / Episcopal",wrestling,northwestern
+2,Ryan Deakin,"Broomfield, Colo. / Legacy",wrestling,northwestern
+3,Regis Durbin,"Lake Forest, Ill. / Lake Forest",wrestling,northwestern
+4,Jason Ipsarides,"Cedarburg, Wis. / Cedarburg",wrestling,northwestern
+5,Conan Jennings,"Centerville, Ohio / Centerville",wrestling,northwestern
+6,Micah Krueger,"Ottawa, Ill. / Ottawa",wrestling,northwestern
+7,Alec McKenna,"Winnetka, Ill. / New Trier",wrestling,northwestern
+8,Tyler Morland,"Brighton, Mich. / Detroit Catholic Central",wrestling,northwestern
+9,Luke Norland,"Okoboji, Iowa / Jackson County Central (Minn.)",wrestling,northwestern
+10,Shayne Oster,"Homer Glen, Ill. / Lockport",wrestling,northwestern
+11,Anthony Petrone,"Orlando, Fla. / Lake Highland",wrestling,northwestern
+12,Sebastian Rivera,"Jackson, N.J. / Christian Brothers Academy",wrestling,northwestern
+13,Anthony Rubinetti,"Closter, N.J. / Northern Valley Demarest",wrestling,northwestern
+14,Johnny Sebastian,"Ramsey, N.J. / Bergen Catholic",wrestling,northwestern
+15,Michael Sepke,"Schaumberg, Ill. / Montini",wrestling,northwestern
+16,Mitch Sliga,"Fishers, Ind. / Fishers",wrestling,northwestern
+17,Yahya Thomas,"Chicago, Ill. / Mount Carmel",wrestling,northwestern
+18,Jack Tolin,"Chesterton, Ind. / Chesterton",wrestling,northwestern
+19,Dylan Utterback,"Deerfield, Ill. / Deerfield",wrestling,northwestern
+20,Colin Valdiviez,"Lee's Summit, Mo. / Rockhurst",wrestling,northwestern
+21,Eric Yang,"Fremont, Calif. / Mission San Jose",wrestling,northwestern
+0,Lakin Barry,"Chapel Hill, N.C.",womens field hockey,northwestern
+1,Erica Hootstein,"Wayland, Mass.",womens field hockey,northwestern
+2,Saar de Breij,"Utrecht, The Netherlands",womens field hockey,northwestern
+3,Sabrina Solomen,"Medford, N.J.",womens field hockey,northwestern
+4,Charlotte Vaziri,"New Albany, Ohio",womens field hockey,northwestern
+5,Katie Esselman,"Louisville, Ky.",womens field hockey,northwestern
+6,Lily Gandhi,"London, England",womens field hockey,northwestern
+7,Kaitlin Wood,"Weston, Mass.",womens field hockey,northwestern
+8,Kirsten Mansfield,"West Chester, Pa.",womens field hockey,northwestern
+9,Christen Conley,"Oak Park, Ill.",womens field hockey,northwestern
+10,Lucy Waterhouse,"Brisbane, Australia",womens field hockey,northwestern
+11,Lily Katzman,"St. Louis, Mo.",womens field hockey,northwestern
+12,Puck Pentenga,"Ede, The Netherlands",womens field hockey,northwestern
+13,Eva van Agt,"Heilig Landstichting, The Netherlands",womens field hockey,northwestern
+14,Annie Kalfas,"Camp Hill, Pa.",womens field hockey,northwestern
+15,Mackenzie Keegan,"Delran, N.J.",womens field hockey,northwestern
+16,Florien Marcussen,"Soest, The Netherlands",womens field hockey,northwestern
+17,Caroline Hughes,"Houston, Texas",womens field hockey,northwestern
+0,Mac Dunlap,"Crown Point, Ind.",softball,northwestern
+1,Brooke Marquez,"Brea, Calif.",softball,northwestern
+2,Marissa Panko,"Naperville, Ill.",softball,northwestern
+3,Sabrina Rabin,"St. Charles, Ill.",softball,northwestern
+4,Morgan Nelson,"Scottsdale, Ariz.",softball,northwestern
+5,Lily Novak,"Winnetka, Ill.",softball,northwestern
+6,Summer Hargett,"San Diego, Calif.",softball,northwestern
+7,Rachel Lewis,"Liberty Township, Ohio",softball,northwestern
+8,Sammy Nettling,"Tucson, Ariz.",softball,northwestern
+9,Eva Stees,"Chicago, Ill.",softball,northwestern
+10,Abbey Boyd,"Wilmette, Ill.",softball,northwestern
+11,Morgan Newport,"DeKalb, Ill.",softball,northwestern
+12,Nicole Bond,"Clayton, N.C.",softball,northwestern
+13,Renee Ariola,"Bloomington, Ill.",softball,northwestern
+14,Emma Bartz,"Mundelein, Ill.",softball,northwestern
+15,Maegan Hollins,"Houston, Texas",softball,northwestern
+16,Kaley Winegarner,"Garden Grove, Calif.",softball,northwestern
+17,Kenna Wilkey,"Braidwood, Ill.",softball,northwestern
+0,Taylor Tashima,"Wilmette, Ill.",womens volleyball,northwestern
+1,Symone Abbott,"Northville, Mich.",womens volleyball,northwestern
+2,Allie Lindroth,"Plainfield, Ill.",womens volleyball,northwestern
+3,Rachael Fara,"Naperville, Ill.",womens volleyball,northwestern
+4,Emily Ehman,"Bloomington, Ind.",womens volleyball,northwestern
+5,Ivey Whalen,"Eagle, Wis.",womens volleyball,northwestern
+6,Lexi Pitsas,"Munster, Ind.",womens volleyball,northwestern
+7,Gabrielle Hazen,"Columbia City, Ind.",womens volleyball,northwestern
+8,Sarah Johnson,"Pasadena, Calif.",womens volleyball,northwestern
+9,Amy Wang,"Palo Alto, Calif.",womens volleyball,northwestern
+10,Britt Bommer,"Manhattan Beach, Calif.",womens volleyball,northwestern
+11,Olivia Viscuso,"Arlington, Texas",womens volleyball,northwestern
+12,Ashley Bush,"Union, Ky.",womens volleyball,northwestern
+13,Danyelle Williams,"Chicago, Ill.",womens volleyball,northwestern
+14,Kaitlin Tavarez,"Menlo Park, Calif.",womens volleyball,northwestern
+15,Nia Robinson,"Indianapolis, Ind.",womens volleyball,northwestern
+16,Alana Walker,"Chicago, Ill.",womens volleyball,northwestern
+0,Maddy Curzon,"Portland, Ore.",womens fencing,northwestern
+1,Abby Tartell,"Miami, Fla.",womens fencing,northwestern
+2,Emine Yücel,"Istanbul, Turkey",womens fencing,northwestern
+3,Pauline Hamilton,"Colorado Springs, Colo.",womens fencing,northwestern
+4,Kaila Budofsky,"New York, N.Y.",womens fencing,northwestern
+5,Sarah Filby,"Edina, Minn.",womens fencing,northwestern
+6,Anna Tolley,"San Antonio, Texas",womens fencing,northwestern
+7,Lucia Procopio,"Long Beach, Calif.",womens fencing,northwestern
+8,Ella Lombard,"Amherst, Mass.",womens fencing,northwestern
+9,Marta Amador Molina,"Madrid, Spain",womens fencing,northwestern
+10,Shirley Luong,"Arcadia, Calif.",womens fencing,northwestern
+11,Isabella Min,"Cresskill, N.J.",womens fencing,northwestern
+12,Anya Harkness,"San Jose, Calif.",womens fencing,northwestern
+13,Amy Jia,"Houston, Texas",womens fencing,northwestern
+14,Sofia Simontov,"Seattle, Wash.",womens fencing,northwestern
+15,Sacha Bazzal,"Los Angeles, Calif.",womens fencing,northwestern
+16,Stefani Kahookele,"San Francisco, Calif.",womens fencing,northwestern
+17,Justine Banbury,Grand Rapids,womens fencing,northwestern
+18,Alexis Browne,"New City, N.Y.",womens fencing,northwestern
+19,Jacqueline Hua,"Princeton, N.J.",womens fencing,northwestern
+20,Katie Van Riper,"Marietta, Ga.",womens fencing,northwestern
+21,Adelle Berdichevsky,"Pelham, N.Y.",womens fencing,northwestern
+22,Michelle Lee,"San Francisco, Calif.",womens fencing,northwestern
+23,Sydney Larrier,,womens fencing,northwestern
+24,Yvonne Chart,"Truro, UK",womens fencing,northwestern
+25,Sharon Chen,"Diamond Bar, Calif.",womens fencing,northwestern
+26,Ashley Gomerman,"Melville, N.Y.",womens fencing,northwestern
+27,Zhesi Zhuang,"Aliso Niguel, Calif.",womens fencing,northwestern
+28,Alexandra Banin,"New York, N.Y.",womens fencing,northwestern
+0,Lauren Gilbert,"Lake Oswego, Ore.",womens lacrosse,northwestern
+1,Selena Lasota,"Campbell River, B.C.",womens lacrosse,northwestern
+2,Shelby Fredericks,"Babylon, N.Y.",womens lacrosse,northwestern
+3,Olivia Harpel,"West Windsor, N.J.",womens lacrosse,northwestern
+4,Carli Harpel,"West Windsor, N.J.",womens lacrosse,northwestern
+5,Shannon Nesselbush,"Penfield, N.Y.",womens lacrosse,northwestern
+6,Sheila Nesselbush,"Penfield, N.Y.",womens lacrosse,northwestern
+7,Danita Stroup,"Port Coquitlam, B.C.",womens lacrosse,northwestern
+8,Liza Elder,"Grand Rapids, Mich.",womens lacrosse,northwestern
+9,Lindsay Darrell,"West Islip, N.Y.",womens lacrosse,northwestern
+10,Ally Palermo,"Seaford, N.Y.",womens lacrosse,northwestern
+11,Megan Kinna,"Maple Ridge, British Columbia",womens lacrosse,northwestern
+12,Leighton Yenor,"Orlando, Fla.",womens lacrosse,northwestern
+13,Jill Girardi,"Watertown, N.Y.",womens lacrosse,northwestern
+14,Megan Gordon,"Wantagh, N.Y.",womens lacrosse,northwestern
+15,Taylor Pinzone,"Waltham, Mass.",womens lacrosse,northwestern
+16,Kim Harker,"Mahopac, N.Y.",womens lacrosse,northwestern
+17,Tara Chelios,"Detroit, Mich.",womens lacrosse,northwestern
+18,Emily Stein,"Darien, Conn.",womens lacrosse,northwestern
+19,Mallory Weisse,"Westfield, N.J.",womens lacrosse,northwestern
+20,Sara Szynal,"Summit, N.J.",womens lacrosse,northwestern
+21,Lindsey McKone,"Bellaire, Texas",womens lacrosse,northwestern
+22,Ivy Arlia,"Plymouth, Mass.",womens lacrosse,northwestern
+23,Ally Mueller,"Pelham, N.Y.",womens lacrosse,northwestern
+24,Meghan Duffy,"Cicero, N.Y.",womens lacrosse,northwestern
+25,Nicole Beardsley,"Burnt Hills, N.Y.",womens lacrosse,northwestern
+26,Claire Quinn,"Manhassett, N.Y.",womens lacrosse,northwestern
+27,Riley Johnston,"Jupiter, Fla.",womens lacrosse,northwestern
+28,Julie Krupnick,"Mountain Lakes, N.J.",womens lacrosse,northwestern
+29,Claire Smith,"Alpharetta, Ga.",womens lacrosse,northwestern
+30,Brennan Dwyer,"Winnetka, Ill.",womens lacrosse,northwestern
+31,Holly Korn,"Shorewood, Minn.",womens lacrosse,northwestern
+32,Kristin Cameron,"Bedford, N.H.",womens lacrosse,northwestern
+33,Kate Copeland,"Houston, Texas",womens lacrosse,northwestern
+34,Carson Copeland,"Houston, Texas",womens lacrosse,northwestern
+35,Nell Copeland,"Houston, Texas",womens lacrosse,northwestern
+36,Lyndsey Lafitte,"Houston, Texas",womens lacrosse,northwestern
+37,Kate Paliotta,"Westport, Conn.",womens lacrosse,northwestern
+38,Caroline Tatsuoka,"Cleveland, Ohio",womens lacrosse,northwestern
+39,Brianna Stroup,"Port Coquitlam, British Columbia",womens lacrosse,northwestern

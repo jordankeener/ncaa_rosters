@@ -1,0 +1,784 @@
+,name,hometown,sport,school
+0,zemgulis deivis,"Kaunas, Lithuania",mens basketball,penn_state
+1,pierce satchel,"Barberton, Ohio",mens basketball,penn_state
+2,bostick nazeer,"Philadelphia, Pa.",mens basketball,penn_state
+3,wheeler jamari,"Live Oak, Fla.",mens basketball,penn_state
+4,carr tony,"Philadelphia, Pa.",mens basketball,penn_state
+5,stevens lamar,"North Wales, Pa.",mens basketball,penn_state
+6,nussbaum taylor,"South Salem, N.Y.",mens basketball,penn_state
+7,harrar john,"Wallingford, Pa.",mens basketball,penn_state
+8,hazle grant,"Kingwood, Texas",mens basketball,penn_state
+9,reaves josh,"Fairfax, Va.",mens basketball,penn_state
+10,watkins mike,"Philadelphia, Pa.",mens basketball,penn_state
+11,garner shep,"Chester, Pa.",mens basketball,penn_state
+12,buttrick trent,"Bloomsburg, Pa.",mens basketball,penn_state
+13,moore julian,"Philadelphia, Pa.",mens basketball,penn_state
+0,smith alisia,"Lansing, Mich./Waverly",womens basketball,penn_state
+1,carter amari,"Washington, D.C./St. John's College",womens basketball,penn_state
+2,frazier siyeh,"Detroit, Mich./Renaissance",womens basketball,penn_state
+3,mcdaniel kamaria,"Inkster, Mich./Dearborn Heights Robichaud",womens basketball,penn_state
+4,page teniya,"Chicago, Ill./Marian Catholic",womens basketball,penn_state
+5,semion kayleigh,"Dunmore, Pa./Dunmore",womens basketball,penn_state
+6,knizner leah,"Greensburg, Pa./Hempfield Area",womens basketball,penn_state
+7,williams jaylen,"Easton, Mass./Archbishop Williams",womens basketball,penn_state
+8,breen sam,"Gibsonia, Pa./Cardinal Wuerl North Catholic",womens basketball,penn_state
+9,travascio-green jaida,"Lisle, Ill./Downers Grove North",womens basketball,penn_state
+10,mcmurtry sarah,"Pittsburgh, Pa./Upper St. Clair",womens basketball,penn_state
+11,boykin de'janae,"Springdale, Md./C.H. Flowers/Connecticut",womens basketball,penn_state
+0,hughes conlin,"Holly Springs, N.C./Holly Springs",baseball,penn_state
+1,bartels cole,"Belmont, Mass./Belmont",baseball,penn_state
+2,klemann connor,"Royersford, Pa./Spring-Ford",baseball,penn_state
+3,gibson tommy,"Williamstown, N.J./Williamstown",baseball,penn_state
+4,goodnight logan,"Wheeling, W. Va./The Linsly School",baseball,penn_state
+5,distasio nick,"Oley, Pa./Oley Valley",baseball,penn_state
+6,larkin conor,"Royersford, Pa./Spring-Ford Area",baseball,penn_state
+7,hendershot parker,"Barton, N.Y./Tioga Central",baseball,penn_state
+8,lehman taylor,"Pittsburgh, Pa./Keystone Oaks",baseball,penn_state
+9,sloniger ryan,"Punxsutawney, Pa./Punxsutawney Area",baseball,penn_state
+10,mock eric,"Shillington, Pa./Governor Mifflin",baseball,penn_state
+11,bowersox jordan,"Winter Springs, Fla./Winter Springs",baseball,penn_state
+12,hippenhammer mac,"Fort Wayne, Ind./R. Nelson Snider",baseball,penn_state
+13,riggins austin,"Greer, S.C./Riverside",baseball,penn_state
+14,robison curtis,"Dillsburg, Pa./Northern York",baseball,penn_state
+15,mellott mason,"State College, Pa./State College Area",baseball,penn_state
+16,nadeau mason,"Lansdale, Pa./North Penn",baseball,penn_state
+17,taylor jeff,"Lancaster, Pa./Penn Manor",baseball,penn_state
+18,orndorff derek,"Mill Run, Pa./Connellsville Area",baseball,penn_state
+19,giavedoni braxton,"Punxsutawney, Pa./Punxsutawney Area",baseball,penn_state
+20,weisenseel joe,"Strongsville, Ohio/St. Edward",baseball,penn_state
+21,pilewicz jake,"Sewickley, Pa./Quaker Valley",baseball,penn_state
+22,boricich marko,"Chicago, Ill./Mount Carmel",baseball,penn_state
+23,triebold tucker,"State College, Pa./State College Area",baseball,penn_state
+24,sbranti shea,"Oakley, Calif./Freedom/San Joaquin Delta",baseball,penn_state
+25,mccutcheon matt,"Apollo, Pa./Kiski Area",baseball,penn_state
+26,hagenman justin,"Voorhees, N.J./Bishop Eustace",baseball,penn_state
+27,gayman myles,"Greencastle, Pa./Greencastle-Antrim",baseball,penn_state
+28,macon colin,"Freedom, Pa./Freedom Area",baseball,penn_state
+29,kremer kris,"Hershey, Pa./Hershey",baseball,penn_state
+30,biasi dante,"Hazle Township, Pa./Hazleton Area",baseball,penn_state
+31,hodgens blake,"Tampa, Fla./Gaither",baseball,penn_state
+32,virbitsky kyle,"Media, Pa./Episcopal Academy",baseball,penn_state
+33,gambino ralph,"Freehold, N.J./Freehold Township",baseball,penn_state
+34,dees bailey,"Charlotte, N.C./Hough",baseball,penn_state
+0,allen mark,"Hyattsville, Md./DeMatha Catholic",football,penn_state
+1,arcangelo joe,"Clarks Summit, Pa./Abington Heights",football,penn_state
+2,barber damion,"Harrisburg/Harrisburg, Pa.",football,penn_state
+3,bates ryan,"Warrington, Pa./Archbishop Wood",football,penn_state
+4,blair will,"Lancaster, Pa./Hempfield",football,penn_state
+5,bolds corey,"Paterson, N.J./Paramus Catholic",football,penn_state
+6,bowers nick,"Kittanning, Pa./Kittanning Senior",football,penn_state
+7,brooks ellis,"Mechanicsville, Va./Benedictine College Prep",football,penn_state
+8,brown cam,"Burtonsville, Md./Bullis School",football,penn_state
+9,brown dj,"College Park, Ga./Creekside",football,penn_state
+10,brown journey,"Meadville, Pa./Meadville",football,penn_state
+11,brown torrence,"Tuscaloosa, Ala./Tuscaloosa Academy",football,penn_state
+12,buchholz ryan,"Malvern, Pa./Great Valley",football,penn_state
+13,butler jabari,"Potomac, Md./Bishop Gorman (Nev.)",football,penn_state
+14,calcagno joe,"Elmhurst, Ill./Fenwick",football,penn_state
+15,castro-fields tariq,"Upper Marlboro, Md./Riverdale Baptist School",football,penn_state
+16,chizmar max,"Mars, Pa./Mars Area",football,penn_state
+17,clifford sean,"Cincinnati, Ohio/Saint Xavier",football,penn_state
+18,cooper jake,"Doylestown, Pa./Archbishop Wood",football,penn_state
+19,curry mike,"Phillipsburg, N.J./Phillipsburg",football,penn_state
+20,dalton danny,"Marshfield, Mass./Marshfield",football,penn_state
+21,darien dae'lun,"Baltimore, Md./Dunbar",football,penn_state
+22,di leo frank,"Elmhurst, Ill./Saint Ignatius College Prep",football,penn_state
+23,dix donnell,"Salisbury, Md./Wicomico",football,penn_state
+24,dumond joe,"Philadelphia, Pa./St. Joseph's Prep",football,penn_state
+25,eury nick,"Shavertown, Pa./Lake-Lehman",football,penn_state
+26,faison-walden brelin,"Greensboro, N.C./Grimsley",football,penn_state
+27,farmer koa,"Lake View Terrace, Calif./Notre Dame",football,penn_state
+28,franklin brailyn,"Arlington, Texas/Battlefield (Va.)",football,penn_state
+29,fries will,"Cranford, N.J./Cranford",football,penn_state
+30,gellerstedt alex,"Dublin, Ohio/Dublin Coffman",football,penn_state
+31,gillikin blake,"Smyrna, Ga./The Westminster Schools",football,penn_state
+32,givens kevin,"Altoona, Pa./Altoona Area",football,penn_state
+33,gonzalez steven,"Union City, N.J./Union City",football,penn_state
+34,gordon trent,"Spring, Texas/Manvel",football,penn_state
+35,gross-matos yetur,"Spotsylvania, Va./Chancellor",football,penn_state
+36,hamler kj,"Pontiac, Mich./IMG Academy (Fla.)",football,penn_state
+37,hansard fred,"Burlington, N.J./The Hun School",football,penn_state
+38,hartlaub drew,"Hanover, Pa./South Western",football,penn_state
+39,hippenhammer mac,"Fort Wayne, Ind./R. Nelson Snider",football,penn_state
+40,hoenstine alex,"East Freedom, Pa./Central",football,penn_state
+41,holland jonathan,"Brandywine, Md./The Bullis School",football,penn_state
+42,holmes des,"Norristown, Pa./Cardinal O'Hara",football,penn_state
+43,humphries isaiah,"Rowlett, Texas/Sachse",football,penn_state
+44,iyke immanuel,"Hackettstown, N.J./Parsippany Hills",football,penn_state
+45,jenkins sterling,"Pittsburgh, Pa./Baldwin",football,penn_state
+46,johnson donovan,"Detroit, Mich./Cass Tech",football,penn_state
+47,johnson jan,"Mohnton, Pa./Governor Mifflin",football,penn_state
+48,johnson juwan,"Glassboro, N.J./Glassboro",football,penn_state
+49,jordan ellison,"Upper Marlboro, Md./Gilman School",football,penn_state
+50,joseph daniel,"Brampton, Ontario, Canada/Lake Forest Academy (Ill.)",football,penn_state
+51,kelly hunter,"Langhorne, Pa./Neshaminy",football,penn_state
+52,kuntz zack,"Camp Hill, Pa./Camp Hill",football,penn_state
+53,landis carson,"Macungie, Pa./Emmaus",football,penn_state
+54,luketa jesse,"Ottawa, Ontario/Mercyhurst Prep (Pa.)",football,penn_state
+55,lutz isaac,"Reading, Pa./Berks Catholic",football,penn_state
+56,martin robbie,"Sparta, N.J./Saint Joseph Regional",football,penn_state
+57,maxwell colton,"Northampton, Pa./Northampton",football,penn_state
+58,mcgovern connor,"Larksville, Pa./Lake-Lehman",football,penn_state
+59,mcphearson zech,"Columbia, Md./Riverdale Baptist School",football,penn_state
+60,mcsorley trace,"Ashburn, Va./Briar Woods",football,penn_state
+61,menet michal,"Birdsboro, Pa./Exeter Township Senior",football,penn_state
+62,miller jarvis,"Suffield, Conn./Windsor Locks/Suffield/East Granby",football,penn_state
+63,miller shareef,"Philadelphia, Pa./George Washington",football,penn_state
+64,miranda mike,"Stow, Ohio/Stow-Munroe",football,penn_state
+65,monroe ayron,"Largo, Md./Saint Johns College H.S.",football,penn_state
+66,neff justin,"Mill Hall, Pa./Central Mountain",football,penn_state
+67,oruwariye amani,"Tampa, Fla./Gaither",football,penn_state
+68,parsons micah,"Harrisburg, Pa./Harrisburg",football,penn_state
+69,petrishen john,"Lower Burrell, Pa./Pittsburgh Central Catholic",football,penn_state
+70,polk brandon,"Ashburn, Va./Briar Woods",football,penn_state
+71,presta evan,"Erie, Pa./Cathedral Prep",football,penn_state
+72,reid john,"Mount Laurel, N.J./St. Joseph's Prep",football,penn_state
+73,sanders miles,"Pittsburgh, Pa./Woodland Hills",football,penn_state
+74,scott nick,"Fairfax, Va./Fairfax",football,penn_state
+75,shelton antonio,"Westerville, Ohio/Westerville-North",football,penn_state
+76,shoop tyler,"Nashville, Tenn./Father Ryan",football,penn_state
+77,shuman charlie,"Pittsford, N.Y./Pittsford Sutherland",football,penn_state
+78,shuster michael,"Camp Hill, Pa./Camp Hill",football,penn_state
+79,simmons shane,"Laurel, Md./DeMatha",football,penn_state
+80,simpson zach,"Hollidaysburg, Pa./Hollidaysburg Area",football,penn_state
+81,stevens tommy,"Indianapolis, Ind./Decatur Central",football,penn_state
+82,stoll chris,"Westerville, Ohio/St. Francis DeSales",football,penn_state
+83,sullivan-brown cam,"Bowie, Md./Saint Vincent Pallotti",football,penn_state
+84,sutherland jonathan,"Ottawa, Ontario, Canada/Episcopal (Va.)",football,penn_state
+85,tarburton nick,"Green Lane, Pa./Pennridge",football,penn_state
+86,taylor garrett,"Richmond, Va./Saint Christopher's",football,penn_state
+87,thomas johnathan,"Peabody, Mass./St. John's Prep",football,penn_state
+88,thompkins deandre,"Hubert, N.C./Swansboro",football,penn_state
+89,thorpe c.j.,"Glenshaw, Pa./Central Catholic",football,penn_state
+90,toney shaka,"Philadelphia, Pa./Imhotep Charter",football,penn_state
+91,vasey dan,"Lackawaxen, Pa./Wallenpaupack",football,penn_state
+92,vasey kyle,"Lackawaxen, Pa./Wallenpaupack",football,penn_state
+93,vranic jason,"Wheatfield, N.Y./Niagara-Wheatfield",football,penn_state
+94,wade lamont,"Clairton, Pa./Clairton",football,penn_state
+95,welde christopher,"Newtown, Pa./Council Rock North",football,penn_state
+96,weller justin,"Sinking Spring, Pa./Wilson",football,penn_state
+97,windsor robert,"Fond Du Lac, Wis./Fond Du Lac",football,penn_state
+98,wright chasz,"Woodbridge, Va./Milford Academy",football,penn_state
+99,zembiec jake,"Rochester, N.Y./Aquinas Institute",football,penn_state
+0,ammann arie,"Round Hill, Va./Woodgrove",mens soccer,penn_state
+1,hackenberg brandon,"Palmyra, Va./Fluvanna County",mens soccer,penn_state
+2,ireland brennan,"Annapolis, Md./Fox Chapel",mens soccer,penn_state
+3,pritchatt callum,"Kinghurst, Birmingham/Sandwell Academy",mens soccer,penn_state
+4,conneh mikey,"Sheffield, Yorkshire, England/Meadowhead School",mens soccer,penn_state
+5,molloy aaron,"Dublin, Ireland/Keiser University",mens soccer,penn_state
+6,maloney austin,"Harrisburg, Pa./Bishop McDevitt",mens soccer,penn_state
+7,beckford ethan,"Manchester, England/St. Maximillian Colbe CHS",mens soccer,penn_state
+8,reedy pierre,"Kutztown, Pa./Kutztown Area",mens soccer,penn_state
+9,rieple nick,"Kirtland, Ohio/Lake Catholic",mens soccer,penn_state
+10,holland ryan,"Leicestershire, United Kingdom/Loughborough Grammar School",mens soccer,penn_state
+11,curran mac,"York, Pa./Dallastown",mens soccer,penn_state
+12,bringolf mitchel,"Montreal, Quebec, Canada/John Rennie",mens soccer,penn_state
+13,marks dani,"Ra'anana, Israel/International School of Berne (Switzerland)",mens soccer,penn_state
+14,gallagher ryan,"Pine Bush, N.Y./Don Bosco Prep (N.J.)",mens soccer,penn_state
+15,kenney stephen,"State College, Pa./State College Area",mens soccer,penn_state
+16,pilato noah,"Oak Hill, Va./Oakton",mens soccer,penn_state
+17,gonzalez daniel,"San Jose, Costa Rica/Forest Trail Academy",mens soccer,penn_state
+18,perno kyle,"New Hyde Park, N.Y./Kellenberg Memorial",mens soccer,penn_state
+19,sload christian,"Reading, Pa./Wilson",mens soccer,penn_state
+20,keil travis,"Bear Creek, Pa./James M. Coughlin",mens soccer,penn_state
+21,levine josh,"Rockville Centre, N.Y./South Side",mens soccer,penn_state
+22,bergevin wes,"Hinsdale, Ill./Hinsdale",mens soccer,penn_state
+0,valenti sarafina,"Bechtelsville, Pa.",womens soccer,penn_state
+1,dennis amanda,"San Diego, Calif.",womens soccer,penn_state
+2,abello kerry,"Batavia, Ill.",womens soccer,penn_state
+3,riehl kaleigh,"Fairfax Station, Va.",womens soccer,penn_state
+4,elliston maddie,"Omaha, Neb.",womens soccer,penn_state
+5,schnurr kristin,"Bristow, Va.",womens soccer,penn_state
+6,ogle emily,"Strongsville, Ohio",womens soccer,penn_state
+7,williams charlotte,"Rochester, N.Y.",womens soccer,penn_state
+8,jean ellie,"Coventry, Conn.",womens soccer,penn_state
+9,hamilton becca,"Howell, N.J.",womens soccer,penn_state
+10,ortega jurado alina,"Waldgirmes, Germany",womens soccer,penn_state
+11,moyer shea,"Wyomissing, Pa.",womens soccer,penn_state
+12,tagliaferri frankie,"Colts Neck, N.J.",womens soccer,penn_state
+13,freigang laura,"Oppenheim, Germany",womens soccer,penn_state
+14,ballow casey,"Ijamsville, Md.",womens soccer,penn_state
+15,thomson emma,"Park Ridge, Ill.",womens soccer,penn_state
+16,campbell-phipps taylor,"Orlando, Fla.",womens soccer,penn_state
+17,sheva marissa,"Sellersville, Pa.",womens soccer,penn_state
+18,chandler rose,"Atlanta, Ga.",womens soccer,penn_state
+19,suero laura,"Royersford, Pa.",womens soccer,penn_state
+20,asman katherine,"Roswell, Ga.",womens soccer,penn_state
+21,beiler kelli,"Mount Pleasant Mills, Pa.",womens soccer,penn_state
+22,haislip caitlin,"Munster, Ind.",womens soccer,penn_state
+23,myers maddie,"Grand Rapids, Mich.",womens soccer,penn_state
+24,schlegel ally,"Parker, Colo.",womens soccer,penn_state
+25,wasserman rachel,"Dallas, Texas",womens soccer,penn_state
+0,abert colin,"Easton, Pa.",mens cross country,penn_state
+1,abrahams james,"Havertown, Pa.",mens cross country,penn_state
+2,ashenfelter william,"Needham, MA",mens cross country,penn_state
+3,barton ryan,"Downingtown, Pa.",mens cross country,penn_state
+4,bobbitt brady,"Batavia, Ill.",mens cross country,penn_state
+5,bumgarner ben,"Waynesburg, Pa.",mens cross country,penn_state
+6,freed vail,"Middletown, DE",mens cross country,penn_state
+7,harris isaiah,"Lewiston, Maine",mens cross country,penn_state
+8,hill bobby,"Wellsboro, Pa.",mens cross country,penn_state
+9,hontz brandon,"West Chester, Pa.",mens cross country,penn_state
+10,loevner william,"Allison Park, Pa.",mens cross country,penn_state
+11,logue joey,"Blooming Glen, Pa.",mens cross country,penn_state
+12,louro tommy,"Holtsville, N.Y.",mens cross country,penn_state
+13,makins jordan,"Perth, Australia",mens cross country,penn_state
+14,mcdevitt billy,"Newtown Square, Pa",mens cross country,penn_state
+15,mcgowan john,"Northport, N.Y.",mens cross country,penn_state
+16,mcgowan timothy,"Northport, N.Y.",mens cross country,penn_state
+17,perretta domenic,"Beaver Falls, Pa.",mens cross country,penn_state
+18,ross gary,"Fort Washington, Md.",mens cross country,penn_state
+19,tomasko alex,"Mechanicsburg, Pa.",mens cross country,penn_state
+20,wagner nick,"Export, Pa.",mens cross country,penn_state
+21,wing owen,"State College, Pa.",mens cross country,penn_state
+0,banks rachel,"Chardon, Ohio",womens cross country,penn_state
+1,barrett tessa,"Waverly, Pa.",womens cross country,penn_state
+2,bennatan lisa,"Lake Forest, Ill.",womens cross country,penn_state
+3,bull frances,"Mentor, Ohio",womens cross country,penn_state
+4,chikotas elizabeth,"Hellertown, Pa.",womens cross country,penn_state
+5,crawford victoria,"State College, Pa.",womens cross country,penn_state
+6,deichert marisa,"Uniontown, Pa.",womens cross country,penn_state
+7,fedkina natasha,"State College, Pa.",womens cross country,penn_state
+8,guerra julia,"Oakland, N.J.",womens cross country,penn_state
+9,hunsberger jillian,"Pittsburgh, Pa.",womens cross country,penn_state
+10,kearns tess,"Scranton, Pa.",womens cross country,penn_state
+11,lindsley greta,"Lancaster, Pa.",womens cross country,penn_state
+12,munks kathryn,"Chester, N.Y.",womens cross country,penn_state
+13,noullet noemie,"Pittsburgh, Pa.",womens cross country,penn_state
+14,o'donnell nicole,"Harleysville, Pa.",womens cross country,penn_state
+15,o'shea moira,"Greensburg, Pa.",womens cross country,penn_state
+16,rivers danae,"Derby, CT",womens cross country,penn_state
+17,tachinski victoria,"Winnipeg, Manitoba",womens cross country,penn_state
+18,trucilla grace,"Erie, Pa.",womens cross country,penn_state
+19,williams jordan,"Sharon, Pa.",womens cross country,penn_state
+20,willingmyre alison,"Wernersville, Pa.",womens cross country,penn_state
+0,bard alec,"New Hartford, N.Y. (New Hartford)",mens golf,penn_state
+1,clark lukas,"Holland, Pa. (Council Rock South)",mens golf,penn_state
+2,davis ryan,"Berkeley Heights, N.J. (Governor Livingston)",mens golf,penn_state
+3,dornes ryan,"Lancaster, Pa. (Manheim Township)",mens golf,penn_state
+4,hughes jd,"Carlisle, Pa. (Carlisle)",mens golf,penn_state
+5,huntzinger charles,"Duluth, Ga. (Peachtree Ridge)",mens golf,penn_state
+6,martinez daniel,"Austin, Texas (Vandegrift)",mens golf,penn_state
+7,mchugh james,"Rye, N.Y. (Rye)",mens golf,penn_state
+8,miller cole,"New Tripoli, Pa. (Northwestern Lehigh)",mens golf,penn_state
+9,raeman connor,"Canandaigua, N.Y. (McQuaid Jesuit)",mens golf,penn_state
+0,basso cara,"Downingtown, Pa./Villa Maria Academy",womens golf,penn_state
+1,coyle diez ariana,"Mount Merrion, Dublin, Ireland/St. Conleths College",womens golf,penn_state
+2,dhruva ashni,"Katy, Tx./Seven Lakes",womens golf,penn_state
+3,herr maddy,"New Hope, Pa./Council Rock North",womens golf,penn_state
+4,mclean megan,"Lebanon, N.J./Voorhees",womens golf,penn_state
+5,rogowicz jackie,"Yardley, Pa./Pennsbury",womens golf,penn_state
+6,taylor kamerine,"Dublin, Ohio/Dublin Coffman",womens golf,penn_state
+7,waller lauren,"Canonsburg, Pa./Canon-McMillan",womens golf,penn_state
+8,zambruno olivia,"Mt. Pleasant, Pa./Greensburg Central Catholic",womens golf,penn_state
+0,bledsoe nathaniel,"Carmel, Ind./Carmel",mens swimming,penn_state
+1,cassell gunther,"Huntington, N.Y./Huntington",mens swimming,penn_state
+2,castano gabe,"Allentown, Pa./Allentown Central Catholic",mens swimming,penn_state
+3,cervone joao,"Sao Paulo, Brazil/Colegio Lourenco Castanho",mens swimming,penn_state
+4,crow jack,"Bethesda, Md./Bethesda Chevy Chase",mens swimming,penn_state
+5,deckman jacob,"Mechanicsburg, Pa./Cumberland Valley",mens swimming,penn_state
+6,dickson robbie,"Greenwich, N.J./Salesianum",mens swimming,penn_state
+7,dikos sterg,"Mohnton, Pa./The Hill School",mens swimming,penn_state
+8,dinunzio matthew,"Murrysville, Pa./Pittsburgh Central Catholic",mens swimming,penn_state
+9,fenstermacher auckie,"DuBois, Pa./DuBois Area",mens swimming,penn_state
+10,freund kaelan,"Lethbridge, Alberta, Canada/Chinook",mens swimming,penn_state
+11,garcia boissier hector,"Las Palmas de Gran Canaria, Sp/IES Politecnico Las Palmas",mens swimming,penn_state
+12,gosieniecki juliusz,"Leszno, Wielkopolska, Poland/Copernicus",mens swimming,penn_state
+13,harlow hayden,"Bentonville, Ark./Bentonville",mens swimming,penn_state
+14,hoch bryce,"Hatfield, Pa./North Penn",mens swimming,penn_state
+15,johnson brad,"Doylestown, Pa./Central Bucks West",mens swimming,penn_state
+16,johnson dale,"Doylestown, Pa./Central Bucks West",mens swimming,penn_state
+17,krigger eben,"Pittsburgh, Pa./North Allegheny",mens swimming,penn_state
+18,nunez john,"Hackensack, N.J./Paramus Catholic",mens swimming,penn_state
+19,o'neill ryan,"Howell, N.J./Freehold Twp.",mens swimming,penn_state
+20,popovich matthew,"Sterling, Va./Dominion",mens swimming,penn_state
+21,roberson william,"Fulshear, Texas/Foster",mens swimming,penn_state
+22,scanlon connor,"Laurel, Md./Atholton",mens swimming,penn_state
+23,schiffmann nathan,France,mens swimming,penn_state
+24,veregin liam,"Ottawa, Ontario, Canada/Lisgar Collegiate Institute",mens swimming,penn_state
+25,wilson austin,"Grove City, Pa./Grove City Area",mens swimming,penn_state
+26,zamir tomer,"Gesher Haziv, Israel/Hof Asharon",mens swimming,penn_state
+0,barry camryn,"Westlake Village, Calif./Briar Woods (Va.)",womens swimming,penn_state
+1,blaser hannah,"Doylestown, Pa./Gwynedd Mercy Academy",womens swimming,penn_state
+2,cooke maddie,"Phoenixville, Pa./Phoenixville Area",womens swimming,penn_state
+3,crowell christina,"Bedford Hills, N.Y./Fox Lane",womens swimming,penn_state
+4,dillione tommie,"Newtown, Pa./Council Rock North",womens swimming,penn_state
+5,donahue jane,"Charlotte, N.C./Christ the King Catholic",womens swimming,penn_state
+6,faerber elaina,"Potomac, Md./Winston Churchill",womens swimming,penn_state
+7,fried carly,"New York, N.Y./Trevor Day School",womens swimming,penn_state
+8,gaspari elizabeth,"Reading, Pa./Reading/Berks Catholic",womens swimming,penn_state
+9,glenn amber,"Ventnor, N.J./Ocean City",womens swimming,penn_state
+10,harper hannah,"Charlottesville, Va./Albemarle",womens swimming,penn_state
+11,harris emily,"Downington, Pa./Downington STEM Academy",womens swimming,penn_state
+12,hart carly,"Canton, Ohio/Walsh Jesuit",womens swimming,penn_state
+13,hart maddie,"Bryn Mawr, Pa./Haverford",womens swimming,penn_state
+14,hellman emma,"Cincinnati, Ohio/Summit Country Day",womens swimming,penn_state
+15,johnson annalee,"Stafford, Va./Mountain View",womens swimming,penn_state
+16,kuhn katrina,"Piscataway, N.J./Bishop George Ahr",womens swimming,penn_state
+17,macdougall heather,"La Crescenta, Calif./Crescenta Valley",womens swimming,penn_state
+18,magri kelly,"Doylestown, Pa./Central Bucks",womens swimming,penn_state
+19,manson kyra,"Flemington, N.J./Moravian Academy",womens swimming,penn_state
+20,marlin erika,"Paoli, Pa./West Chester B. Reed Henderson",womens swimming,penn_state
+21,mawn mckayla,"Kennett Square, Pa./Unionville",womens swimming,penn_state
+22,mchugh ally,"Philadelphia, Pa./Little Flower Catholic",womens swimming,penn_state
+23,price niki,"Manchester, Pa./Northeastern",womens swimming,penn_state
+24,salvaggio siena,"Allentown, Pa./Parkland",womens swimming,penn_state
+25,stewart sydni,"Philadelphia, Pa./Philadelphia Montgomery Christian Academy",womens swimming,penn_state
+26,szekely stephanie,"Doylestown, Pa./Gwynedd Mercy Academy",womens swimming,penn_state
+27,tolan ann,"Bath, Maine/Morse",womens swimming,penn_state
+28,treble cara,"Massapequa, N.Y./Massapequa",womens swimming,penn_state
+29,tulacz aleksandra,"Shrewsbury, Mass./Notre Dame Academy",womens swimming,penn_state
+30,umbel kamryn,"Potomac, Md./Richard Montgomery",womens swimming,penn_state
+0,antonopoulos christos,"Athens, Greece/",mens tennis,penn_state
+1,de la bassetiere constant,"Reims, France/National Institute of Sport and Physical Education",mens tennis,penn_state
+2,galush matt,"Cary, N.C./Cardinal Gibbons High School",mens tennis,penn_state
+3,gordon henry,"New Braunfels, Texas//Texas A&M",mens tennis,penn_state
+4,kuhnle chris,"Shoreham, N.Y./Shoreham-Wading River High School",mens tennis,penn_state
+5,lakoseljac christian,"King City, Ontario, Canada/",mens tennis,penn_state
+6,lieb ben,"Newtown Square, Pa./The Haverford School",mens tennis,penn_state
+7,lieb zach,"Newtown Square, Pa./The Haverford School",mens tennis,penn_state
+8,nemeth gabriel,"Brasilia, Brazil/",mens tennis,penn_state
+9,sentay alp,"Izmar, Turkey/Isikkent High School",mens tennis,penn_state
+10,sutter noah,"New York, N.Y./The Bolles School",mens tennis,penn_state
+0,dunn bennett,"Orlando, Fla.",womens tennis,penn_state
+1,hanley shannon,"Kensington, Maryland",womens tennis,penn_state
+2,kratky hannah,"Greenwich, Conn.",womens tennis,penn_state
+3,o'gorman gabby,"Gunnedah, N.S. Wales,Australia",womens tennis,penn_state
+4,rohrbacher olivia,"Sandusky, Ohio",womens tennis,penn_state
+5,shukow taylor,"Boca Raton, Florida",womens tennis,penn_state
+6,smith samantha,"Cary, N.C.",womens tennis,penn_state
+7,svarre frederikke,"Copenhagen, Denmark",womens tennis,penn_state
+8,wikberg hanna,"Stockholm, Sweden",womens tennis,penn_state
+9,xu liyin,"Chengdu, China",womens tennis,penn_state
+0,abert colin,"Easton, Pa./Easton",mens track,penn_state
+1,abrahams james,"Havertown, Pa./Haverford Township",mens track,penn_state
+2,alston darian,"West Chester, Pa./Downingtown West High School",mens track,penn_state
+3,ashenfelter william,"Needham, MA/Needham",mens track,penn_state
+4,barton ryan,"Downington, Pa./Downington West",mens track,penn_state
+5,biddle michael,"Williamsburg, Pa/Living Water Christian Academy",mens track,penn_state
+6,bobbitt brady,"Batavia, Ill./Marmion Academy",mens track,penn_state
+7,bojalad tom,"Saint Marys, Pa./St. Mary's",mens track,penn_state
+8,bradham devin,"Williamstown, N.J./Williamstown",mens track,penn_state
+9,bumgarner ben,"Waynesburg, Pa./Waynesburg Central",mens track,penn_state
+10,campbell austin,"Denver, Colorado/Regis Jesuit High School",mens track,penn_state
+11,chisena dan,"Downington, Pa./Downingtown-East",mens track,penn_state
+12,daman tristan,"State College, Pa./State College",mens track,penn_state
+13,freed vail,"Middletown, DE/Appoquinimink",mens track,penn_state
+14,grodeska luke,"Neptune, N.J./St. Rose",mens track,penn_state
+15,harris isaiah,"Lewiston, Maine/Lewiston",mens track,penn_state
+16,hay spencer,"Palmerton, Pa./Palmerton Area",mens track,penn_state
+17,henderson will,"Baltimore, Md./Baltimore Polytechnic Inst.",mens track,penn_state
+18,hontz brandon,"West Chester, Pa./Bayard Rustin",mens track,penn_state
+19,ifedi chisom,"Columbus, Ohio/Centennial",mens track,penn_state
+20,laird terrance,"Coatesville, Pa./Coatesville",mens track,penn_state
+21,loevner william,"Allison Park, Pa./Winchester Thurston",mens track,penn_state
+22,logue joey,"Blooming Glen, Pa./Pennridge",mens track,penn_state
+23,louro tommy,"Holtsville, N.Y./St. Anthony's",mens track,penn_state
+24,lucas david,"Lititz, Pa./Warwick",mens track,penn_state
+25,makins jordan,"Perth, Australia//Aquinas College",mens track,penn_state
+26,mcdevitt billy,"Newtown Square, Pa./Malvern Prep",mens track,penn_state
+27,mcgowan john,"Northport, N.Y./Northport/Roger Williams",mens track,penn_state
+28,mcgowan timothy,"Northport, N.Y./Northport/Roger Williams",mens track,penn_state
+29,miner kier,"Mechanicsburg, Pa./Mechanicsburg/Shippensburg",mens track,penn_state
+30,moffett malik,"Erie, Pa.//PSU - Behrend",mens track,penn_state
+31,nawrocki matt,"Moscow, Pa./North Pocono",mens track,penn_state
+32,perretta domenic,"Beaver Falls, Pa./Big Beaver Falls",mens track,penn_state
+33,peterson ben,"Solon, Ohio/Solon",mens track,penn_state
+34,porter anton,"Bronx, N.Y./Mount St. Michael",mens track,penn_state
+35,porter mark,"Reading, Mass./Reading Memorial",mens track,penn_state
+36,rarig luke,"Catawissa, Pa./Southern Columbia",mens track,penn_state
+37,reiser samuel,"Melbourne, Australia/Geelong Grammar School",mens track,penn_state
+38,ross iii gary,"Fort Washington, Md./Oxon Hill",mens track,penn_state
+39,sell andrew,"Minneapolis, Minn./Washburn",mens track,penn_state
+40,shigo morgan,"Blandon, Pa./Fleetwood Area",mens track,penn_state
+41,smith xavier,"Douglassville, Pa./Daniel Boone",mens track,penn_state
+42,swaby noah,"Pittsburgh, Pa./Taylor Allderdice",mens track,penn_state
+43,tomasko alex,"Mechanicsburg, Pa./Mechanicsburg",mens track,penn_state
+44,wagner nick,"Export, Pa./Penn-Trafford",mens track,penn_state
+45,williams bryce,"State College, Pa./State College Area",mens track,penn_state
+46,williams darien,"Blue Bell, Pa./Wissahickon",mens track,penn_state
+47,wing owen,"State College, Pa./State College",mens track,penn_state
+48,yohman jon,"New Wilmington, Pa./Wilmington",mens track,penn_state
+49,zimmerman jack,"Briarcliff Manor, N.Y./Briarcliff",mens track,penn_state
+0,albury keianna,"Eleuthera, Bahamas/St. Augustine's College",womens track,penn_state
+1,barrett tessa,"Waverly, Pa./Abington Heights",womens track,penn_state
+2,bennatan lisa,"Lake Forest, Ill./Lake Forest",womens track,penn_state
+3,bull frances,"Mentor, Ohio/Lake Catholic",womens track,penn_state
+4,campbell rosemary,"Erie, Pa/Iroquois",womens track,penn_state
+5,chikotas elizabeth,"Hellertown, Pa./Saucon Valley",womens track,penn_state
+6,costa lauren,"North Fayette Township, Pa./West Allegheny",womens track,penn_state
+7,crawford victoria,"State College, Pa./State College Area/Indiana University of Pennsylvania",womens track,penn_state
+8,dale quenee,"Ypsilanti, Mich./Saline",womens track,penn_state
+9,davis deja,"Shelby Charter Township, Mich./Utica",womens track,penn_state
+10,dececco rachael,"Mechanicsburg, Pa./Cumberland Valley",womens track,penn_state
+11,deichert marisa,"Uniontown, Pa./Laurel Highlands",womens track,penn_state
+12,fedkina natasha,"State College, Pa./State College Area",womens track,penn_state
+13,frew madeline,"Pine Grove, Pa./Pine Grove",womens track,penn_state
+14,fry megan,"State College, Pa./State College Area",womens track,penn_state
+15,giambra olivia,"Pittston, Pa./Pittston Area",womens track,penn_state
+16,guerra julia,"Oakland, N.J./Indian Hills",womens track,penn_state
+17,gumbrecht greer,"Easton, Pa.//West Virginia",womens track,penn_state
+18,holmberg maddie,"Greensburg, Pa./Hempfield Area",womens track,penn_state
+19,howard julia,"Greensburg, Pa./Greensburg Salem",womens track,penn_state
+20,hunsberger jillian,"Pittsburgh, Pa./Mount Lebanon",womens track,penn_state
+21,jones katie,"Williamsport, Pa./South Williamsport",womens track,penn_state
+22,kearns tess,"Scranton, Pa/Holy Cross",womens track,penn_state
+23,koopman audra,"Fort Collins, Colo./Fort Collins",womens track,penn_state
+24,lester kiara,"Wenonah, N.J./Deptford Township",womens track,penn_state
+25,lindsley greta,"Lancaster, Pa./Penn Manor",womens track,penn_state
+26,masterson lexi,"Jeannette, Pa./Hempfield Area",womens track,penn_state
+27,mccloskey megan,"Lower Gwynedd, Pa./Germantown Academy",womens track,penn_state
+28,mccloy grayson,"Mill Hall, Pa./Central Moutain",womens track,penn_state
+29,mulhern hannah,"Altoona, Pa./Altoona Area",womens track,penn_state
+30,munks kathryn,"Chester, N.Y./Monroe- Woodbury",womens track,penn_state
+31,noullet noemie,Pittsburgh/McDonogh,womens track,penn_state
+32,o'donnell nicole,"Harleysville, Pa./Souderton",womens track,penn_state
+33,o'shea moira,"Greensburg, Pa./Greensburg Central Catholic",womens track,penn_state
+34,parks alexa,"Pipersville, Pa./Palisades",womens track,penn_state
+35,rivers danae,"Derby, CT/Wilbur Cross",womens track,penn_state
+36,sheva marissa,"Sellersville, Pa./Pennridge",womens track,penn_state
+37,sievers steph,"Douglassville, Pa./Daniel Boone",womens track,penn_state
+38,skerpon elyse,"Sayre, Pa./Sayre Area",womens track,penn_state
+39,smith madison,"New Oxford, Pa./New Oxford",womens track,penn_state
+40,stultz abigail,"Frederick, Md./Oakdale",womens track,penn_state
+41,tachinski victoria,"Winnipeg, Manitoba/Vincent Massey",womens track,penn_state
+42,trucilla grace,"Erie, Pa./Villa Maria Academy",womens track,penn_state
+43,vieira kelsey,"Hillsborough, N.J./Hillsborough",womens track,penn_state
+44,williams brooke-lynn,"Norton, Mass./Norton",womens track,penn_state
+45,williams jordan,"Sharon, Pa./Sharon",womens track,penn_state
+46,willingmyre alison,"Wernersville, Pa./Wilson",womens track,penn_state
+47,yeboah-kodie alyssa,"Hicksville, N.Y./St. Anthony's",womens track,penn_state
+0,berge brady,"Mantorville, Minn./Kasson-Mantorville",wrestling,penn_state
+1,bisono francisco,"Hauppauge, N.Y./Hauppauge",wrestling,penn_state
+2,blumer joey,"Leechburg, Pa./Kiski Area",wrestling,penn_state
+3,carpenter george,"Chapel Hill, N.C./Carrboro",wrestling,penn_state
+4,cassar anthony,"Rocky Hill, N.J./Montgomery",wrestling,penn_state
+5,clabaugh austin,"York Springs, Pa./Bermudian Springs",wrestling,penn_state
+6,cortez jered,"Carol Stream, Ill./Glenbard North",wrestling,penn_state
+7,friery brian,"Lewisburg, Pa./Lewisburg",wrestling,penn_state
+8,gardner luke,"Pottsville, Pa./Pottsville",wrestling,penn_state
+9,giannangeli dominic,"Murrysville, Pa./Franklin Regional",wrestling,penn_state
+10,hall mark,"Apple Valley, Minn./Apple Valley",wrestling,penn_state
+11,higgins patrick,"Monroeville, N.J./Woodstown",wrestling,penn_state
+12,hoeg james,"Mattituck, N.Y./Mattituck",wrestling,penn_state
+13,johnson jan,"Mohnton, Pa./Governor Mifflin",wrestling,penn_state
+14,joseph vincenzo,"Pittsburgh, Pa./Central Catholic",wrestling,penn_state
+15,keener corey,"Schuylkill Haven, Pa./Blue Mountain",wrestling,penn_state
+16,kuhn carson,"Sandy, Utah/Alta",wrestling,penn_state
+17,lee nick,"Evansville, Ind.",wrestling,penn_state
+18,lindenmuth mason,"Brockway, Pa./Brockway",wrestling,penn_state
+19,lopez justin,"Yonkers, N.Y./Yonkers",wrestling,penn_state
+20,manville mason,"Lorton, Va./Wyoming Seminary",wrestling,penn_state
+21,mcclanahan richie,"Panama City Beach, Fla./J.R. Arnold",wrestling,penn_state
+22,mccutcheon matt,"Apollo, Pa./Kiski Area",wrestling,penn_state
+23,nevills nick,"Clovis, Calif./Clovis",wrestling,penn_state
+24,nicholas alex,"Allentown, Pa./Salisbury Twp.",wrestling,penn_state
+25,nickal bo,"Allen, Texas/Allen",wrestling,penn_state
+26,nolf jason,"Yatesboro, Pa./Kittanning",wrestling,penn_state
+27,obendorfer scott,"Germantown, Md./Damascus",wrestling,penn_state
+28,pipher bo,"Paonia, Colo./Paonia",wrestling,penn_state
+29,rasheed shakur,"Coram, N.Y./Longwood",wrestling,penn_state
+30,retherford zain,"Benton, Pa./Benton",wrestling,penn_state
+31,schnupp devin,"Lititz, Pa./Warwick",wrestling,penn_state
+32,stossel scott,"Pittsburgh, Pa./North Allegheny",wrestling,penn_state
+33,tuohey benjamin,"Chadds Ford, Pa./Malvern Prep",wrestling,penn_state
+34,van cura devon,"Washington, N.C./Washington",wrestling,penn_state
+35,verkleeren jarod,"Greensburg, Pa./Hempfield",wrestling,penn_state
+36,wissler ethan,"Holtwood, Pa./Penn Manor",wrestling,penn_state
+37,yanovich kenneth,"Effort, Pa./Pleasant Valley",wrestling,penn_state
+0,dreisigmeyer syd,"Hummelstown, Pa./Lower Dauphin",womens field hockey,penn_state
+1,klingler emily,"Selinsgrove, Pa./Selinsgrove",womens field hockey,penn_state
+2,horst alexis,"Port Trevorton, Pa./Selinsgrove",womens field hockey,penn_state
+3,spisak emma,"Boiling Springs, Pa./Boiling Springs",womens field hockey,penn_state
+4,rizzo jenny,"Hershey, Pa./Hershey",womens field hockey,penn_state
+5,bednarski bree,"Wyoming, Pa./Wyoming Area",womens field hockey,penn_state
+6,morano maddie,"Hammonton, NJ/Eastern Regional",womens field hockey,penn_state
+7,winters lisa,"Hershey, Pa./Hershey",womens field hockey,penn_state
+8,mcnally lauren,"Marmora, N.J./Ocean City",womens field hockey,penn_state
+9,fretz skyler,"Oley, Pa./Oley Valley",womens field hockey,penn_state
+10,higgins delani,"Hummelstown, Pa./Lower Dauphin",womens field hockey,penn_state
+11,kline cassie,"Millersville, Pa./Penn Manor",womens field hockey,penn_state
+12,conley cori,"Oak Park, Ill./Oak Park and River Forest",womens field hockey,penn_state
+13,cannon shay,"Wilmington, Del./The Tatnall School",womens field hockey,penn_state
+14,putsch moira,"Media, Pa./Academy of Notre Dame",womens field hockey,penn_state
+15,smith mary nell,"Dauphin, Pa./Central Dauphin",womens field hockey,penn_state
+16,hutson madison,"Gloucester Point, VA/Gloucester",womens field hockey,penn_state
+17,conway colleen,"Franklin Lakes, N.J./Oak Knoll School",womens field hockey,penn_state
+18,myers abby,"Hartland, WI/Arrowhead",womens field hockey,penn_state
+19,meijer aurelia,"Hattem, Netherlands/Gymnasium Celeanum",womens field hockey,penn_state
+20,bramley gini,"Elizabethtown, Pa./Lower Dauphin",womens field hockey,penn_state
+21,dembrowski katie,"Palmyra, Pa./Palmyra",womens field hockey,penn_state
+0,cummings jessica,"Owings, Md./Northern",softball,penn_state
+1,grieco amanda,"Basking Ridge, N.J./Union Catholic Regional",softball,penn_state
+2,wagner christa,"Plainville, Mass./King Phillip",softball,penn_state
+3,legg kennedy,"Keller, Texas/Keller",softball,penn_state
+4,shaffer madison,"New Castle, Pa./Neshannock",softball,penn_state
+5,fey dani,"Bangor, Pa./Bangor",softball,penn_state
+6,dubois tori,"Mt. Vernon, N.H./Bishop Guertin",softball,penn_state
+7,hudgins emily,"Wadsworth, Ill/Warren Township",softball,penn_state
+8,murray erin,"Great Falls, Va./Paul VI Catholic",softball,penn_state
+9,mensinger ashton,"Nescopeck, Pa./Berwick",softball,penn_state
+10,johnson paige,"Clarksville, Tenn./Montgomery Central",softball,penn_state
+11,smith madey,"Washington, N.J./Warren Hills Regional",softball,penn_state
+12,arrizurieta gianna,"Pembroke Pines, Fla./American Heritage Plantation",softball,penn_state
+13,vallejos haley,"Chandler, Ariz./Corona Del Sol",softball,penn_state
+14,elling delaney,"Washington, Pa./Trinity",softball,penn_state
+15,hackenberg tori,"Mifflinburg, Pa./Mifflinburg Area",softball,penn_state
+16,weber destiny,"Grafton, Ohio/Keystone",softball,penn_state
+17,polk toni,"Niagara Falls, N.Y./Niagara Falls",softball,penn_state
+18,williams meghan,"Bethlehem, Pa./Salisbury",softball,penn_state
+0,cather kathryn,"Hoover, Ala./Hoover/Ole Miss",womens volleyball,penn_state
+1,farrell allison,"Lombard, Ill./Glenbard East",womens volleyball,penn_state
+2,gorrell tori,"Oakville, Ontario/Abbey Park",womens volleyball,penn_state
+3,holcomb keeton,"Bellville, Texas/Bellville",womens volleyball,penn_state
+4,krause kristin,"Allentown, Pa./Parkland",womens volleyball,penn_state
+5,may cami,"Katy, Texas/Cinco Ranch",womens volleyball,penn_state
+6,reed nia,"Fort Lee, N.J./Immaculate Heart",womens volleyball,penn_state
+7,sciorra emily,"Chantilly, Va./Chantilly",womens volleyball,penn_state
+8,weiskircher bryanna,"Rockford, Ill./Boylan Catholic",womens volleyball,penn_state
+9,white kendall,"Indianapolis, Ind./Cathedral",womens volleyball,penn_state
+0,andrade alejandro,"Quito, Ecuador",mens fencing,penn_state
+1,barnett stephen,"Clinton, Conn.",mens fencing,penn_state
+2,beaty chad,"State College, Pa.",mens fencing,penn_state
+3,bicego sebastiano,"Vicenza, Italy",mens fencing,penn_state
+4,cohen samuel,"Kensington, Md.",mens fencing,penn_state
+5,cole joshua,"Chappaqua, N.Y.",mens fencing,penn_state
+6,dolegiewicz marcel,"Park Ridge, Ill.",mens fencing,penn_state
+7,farfan-bayerl inti,"Morrison, Colo.",mens fencing,penn_state
+8,fevry julian,"St. Albans, N.Y.",mens fencing,penn_state
+9,galeno alfred,"Queens, N.Y.",mens fencing,penn_state
+10,grass andrew,"Burke,Va.",mens fencing,penn_state
+11,hassan mohamed,"Saint Louis, Mo.",mens fencing,penn_state
+12,huey brandon,"Foster City, Calif.",mens fencing,penn_state
+13,iverson shane,"Basking Ridge, N.J.",mens fencing,penn_state
+14,jackson stephen,Stony Brook N.Y.,mens fencing,penn_state
+15,jiang yixing,"Wuxi, Jiangsu",mens fencing,penn_state
+16,koeck tomas,"Fairfield, Conn.",mens fencing,penn_state
+17,konert alex,"Bristol, R.I.",mens fencing,penn_state
+18,lara eduardo,"Queretaro, Mexico",mens fencing,penn_state
+19,lewicki matthew,"Oakland, N.J.",mens fencing,penn_state
+20,lewis jarrett,"Montclair, N.J.",mens fencing,penn_state
+21,mackiewicz andrew,"Westwood, Mass.",mens fencing,penn_state
+22,mansoor matthew,"Cambridge, Mass.",mens fencing,penn_state
+23,mateja maksymilian,"Arlington Heights, Ill.",mens fencing,penn_state
+24,matthews stephen,"Denver, Colo.",mens fencing,penn_state
+25,metryka karol,"Linden, N.J.",mens fencing,penn_state
+26,ostatnigrosh andrey,"Fresno, Calif.",mens fencing,penn_state
+27,pflueger chase,"Highlands Ranch, Colo.",mens fencing,penn_state
+28,piskovatskov anton,"Houston, Texas",mens fencing,penn_state
+29,popovici stefan nico,"Katy, Texas",mens fencing,penn_state
+30,pyne dylan,"Princeton, N.J.",mens fencing,penn_state
+31,rodell clinton,"Annandale,Va.",mens fencing,penn_state
+32,rosario felipe,"Maplewood, N.J.",mens fencing,penn_state
+33,turner gavin,"Rehoboth, Mass.",mens fencing,penn_state
+0,adnan hanan,"Singapore, Singapore",womens fencing,penn_state
+1,beaty carlee,"State College, Pa.",womens fencing,penn_state
+2,bicego lodovica,"Vicenza, Italy",womens fencing,penn_state
+3,chang karen,"Hong Kong, China",womens fencing,penn_state
+4,charpin kathryn,"Setauket, N.Y.",womens fencing,penn_state
+5,clark najiyyah,"Maplewood, N.J.",womens fencing,penn_state
+6,cunningham sara,"Decatur, Ga.",womens fencing,penn_state
+7,fong tyanne,"Ampang, Malaysia",womens fencing,penn_state
+8,gavazzi gina,"Warriors Park, Pa.",womens fencing,penn_state
+9,gillis alexandra,"Dix Hills, N.Y",womens fencing,penn_state
+10,gozali alissa,"Singapore, Singapore",womens fencing,penn_state
+11,higson julia,"State College, Pa.",womens fencing,penn_state
+12,hofmann alissa,"Cambridge, Mass.",womens fencing,penn_state
+13,iverson kasey,"Basking Ridge, N.J.",womens fencing,penn_state
+14,kalonji anastasia,"Rennes, France",womens fencing,penn_state
+15,li jiajing,"Jiangsu, China",womens fencing,penn_state
+16,luongo alexandra,"Melville, N.Y",womens fencing,penn_state
+17,mccarthy medora,"Los Altos Hills, Calif.",womens fencing,penn_state
+18,mcgoff-medero sofia,"Gurabo, Puerto Rico",womens fencing,penn_state
+19,mcloughlin erin,"San Jose, Costa Rica",womens fencing,penn_state
+20,moss zara,"Cranberry Township, Pa.",womens fencing,penn_state
+21,oliver deana,"Montclair, N.J.",womens fencing,penn_state
+22,ribardiere juliette,"San Jose, Calif.",womens fencing,penn_state
+23,rowland jade,"Princeton Junction, N.J.",womens fencing,penn_state
+24,vanbenthuysen barbara,"Spring, Texas",womens fencing,penn_state
+25,vigna nicolette,"Thornwood, N.Y.",womens fencing,penn_state
+26,wang yumin,"Monmouth Junction, N.J.",womens fencing,penn_state
+27,woika isabelle,"State College, Pa.",womens fencing,penn_state
+28,wozniak kelli,"Westerville, Ohio",womens fencing,penn_state
+29,zuzulo isabella,"Newtown, Pa.",womens fencing,penn_state
+0,baldwin jack,"Mexico, N.Y./Mexico",mens gymnastics,penn_state
+1,borromeo brayden,"Littlestown, Pa./Littlestown Senior",mens gymnastics,penn_state
+2,burns michael,"Baltimore, Ohio/Liberty Union",mens gymnastics,penn_state
+3,clayton parker,"Fishers, Ind./Homeschooled",mens gymnastics,penn_state
+4,coates colin,"Emmaus, Pa./Emmaus",mens gymnastics,penn_state
+5,cooperman benjamin,"Southborough, Mass./Algonquin",mens gymnastics,penn_state
+6,frack alex,"Nazareth, Pa./Nazareth",mens gymnastics,penn_state
+7,hammett isaac,"Sacramento, Calif./Jesuit",mens gymnastics,penn_state
+8,hayden quest,"Harrisburg, Pa./Homeschooled",mens gymnastics,penn_state
+9,nedoroscik stephen,"Worcester, Mass./Worcester Technical",mens gymnastics,penn_state
+10,pantazis brennan,"Sparks, Nev./Edward C. Reed",mens gymnastics,penn_state
+11,roberson noah,"Willamsville, N.Y./Willamsville South",mens gymnastics,penn_state
+12,sands chris,"Lancaster, Pa./Lancaster Catholic",mens gymnastics,penn_state
+13,smith joshua,"Baton Rouge, La./Home-schooled",mens gymnastics,penn_state
+14,tamargo greg,"Kennett Square, Pa./Unionville",mens gymnastics,penn_state
+15,thomason alex,"Houston, Texas/James E. Taylor",mens gymnastics,penn_state
+16,tyndall wyatt,"Saskatoon, Saskatchewan/Holy Cross",mens gymnastics,penn_state
+17,valdez favian,"Kearny, N.J./Kearny",mens gymnastics,penn_state
+18,zakutney sam,"Ottawa, Ontario, Canada/E.S.C. Franco Cite",mens gymnastics,penn_state
+0,autry amber,"Rochester, Mich./West Bloomfield",womens gymnastics,penn_state
+1,bonsall alissa,"Higganum, Conn./Haddam Killingworth",womens gymnastics,penn_state
+2,bridgens lauren,"Darnestown, Md./Quince Orchard",womens gymnastics,penn_state
+3,chinnery kourtney,"Suffolk, Va./Summit Christian Academy",womens gymnastics,penn_state
+4,garcia sabrina,"Etters, Pa./Red Land",womens gymnastics,penn_state
+5,hosek mason,"Pearland, Texas/Pearland",womens gymnastics,penn_state
+6,jones jessica,"Canfield, Ohio/Canfield",womens gymnastics,penn_state
+7,laguardia gianna,"Thornton, Colo./Mountain Range",womens gymnastics,penn_state
+8,mccracken tess,"Plano, Texas/Liberty",womens gymnastics,penn_state
+9,politz kristen,"Morganville, N.J./Saint John Vianney",womens gymnastics,penn_state
+10,schuller peyton,"Erie, Pa./McDowell",womens gymnastics,penn_state
+11,tsang briannah,"Vancouver, British Columbia/Burnaby Central Secondary",womens gymnastics,penn_state
+12,verdeflor ava,"Allen, Texas/Allen",womens gymnastics,penn_state
+13,waddell mikayla,"Ridgewood, N.J./Ridgewood",womens gymnastics,penn_state
+0,hults cole,"Stoughton, Wis.",mens hockey,penn_state
+1,myllari kris,"Kanata, Ontario",mens hockey,penn_state
+2,kerr kevin,"Bensalem, Pa.",mens hockey,penn_state
+3,gobetz james,"St. James, N.Y.",mens hockey,penn_state
+4,robinson james,"Cochrane, Alberta",mens hockey,penn_state
+5,berger chase,"St. Louis, Mo.",mens hockey,penn_state
+6,limoges alex,"Winchester, Va.",mens hockey,penn_state
+7,biro brandon,"Sherwood Park, Alberta",mens hockey,penn_state
+8,hamilton trevor,"Grosse Pointe Farms, Mich.",mens hockey,penn_state
+9,pavlychev nikita,"Yaroslavl, Russia",mens hockey,penn_state
+10,sucese nate,"Fairport, N.Y.",mens hockey,penn_state
+11,sturtz andrew,"Buffalo, N.Y.",mens hockey,penn_state
+12,barratt evan,"Bristol, Pa.",mens hockey,penn_state
+13,murray brett,"Bolton, Ontario",mens hockey,penn_state
+14,hamilton derian,"Port McNeill, British Columbia",mens hockey,penn_state
+15,autio erik,"Espoo, Finland",mens hockey,penn_state
+16,mendelson matt,"Pittsburgh, Pa.",mens hockey,penn_state
+17,stevens alex,"Plymouth, Minn.",mens hockey,penn_state
+18,gober blake,"Colleyville, Tx.",mens hockey,penn_state
+19,pilewicz adam,"Sewickley, Pa.",mens hockey,penn_state
+20,smirnov denis,"Moscow, Russia",mens hockey,penn_state
+21,folkes liam,"Scarborough, Ontario",mens hockey,penn_state
+22,sternschein sam,"Syosset, N.Y.",mens hockey,penn_state
+23,marsh alec,"Bridgewater, N.J.",mens hockey,penn_state
+24,erlichman matt,"Bedford, Pa.",mens hockey,penn_state
+25,jones peyton,"Langhorne, Pa.",mens hockey,penn_state
+26,funkey chris,"Orland Park, Ill.",mens hockey,penn_state
+0,ehresmann hannah,"Minnetonka, Minn.",womens hockey,penn_state
+1,nelson shea,"Evanston, Ill.",womens hockey,penn_state
+2,kiroplis irene,"Georgetown, Ontario",womens hockey,penn_state
+3,madsen brooke,"Eagan, Minn.",womens hockey,penn_state
+4,crow kelsey,"Minnetonka, Minn.",womens hockey,penn_state
+5,vetter christi,"Lakeville, Minn.",womens hockey,penn_state
+6,rolph morgan,"Mitchell, Ontario",womens hockey,penn_state
+7,welch abby,"East Amherst, N.Y.",womens hockey,penn_state
+8,sutton bella,"Shoreview, Minn.",womens hockey,penn_state
+9,england hannah,"Simi Valley, Calif.",womens hockey,penn_state
+10,hardy aly,"St. Albans, Vt.",womens hockey,penn_state
+11,mcmillan katie,"Minnetonka, Minn.",womens hockey,penn_state
+12,slattery sophie,"Edina, Minn.",womens hockey,penn_state
+13,rankin katie,"Kanata, Ontario",womens hockey,penn_state
+14,heising natalie,"Maple Grove, Minn.",womens hockey,penn_state
+15,villani olivia,"Pittsburgh, Pa.",womens hockey,penn_state
+16,rydland kate,"Eden Prairie, Minn.",womens hockey,penn_state
+17,samuelsson victoria,"Leksand, Sweden",womens hockey,penn_state
+18,mcleod amanda,"Okotoks, Alberta",womens hockey,penn_state
+19,meilleur meike,"Winnipeg, Manitoba",womens hockey,penn_state
+20,forrest caileah,"Ottawa, Ontario",womens hockey,penn_state
+21,leonard cam,"Cary, N.C.",womens hockey,penn_state
+22,burke chantal,"Saskatoon, Saskatchewan",womens hockey,penn_state
+23,paniccia daniela,"Oakville, Ontario",womens hockey,penn_state
+0,ament grant,"Doylestown, Pa./The Haverford School",mens lacrosse,penn_state
+1,connellan tj,"Cazenovia, N.Y./Cazenovia",mens lacrosse,penn_state
+2,o'keefe mac,"Syosset, N.Y./Syosset",mens lacrosse,penn_state
+3,isenberg chris,"Glen Mills, Pa./Malvern Prep",mens lacrosse,penn_state
+4,hill kevin,"Webster, N.Y./Webster Thomas",mens lacrosse,penn_state
+5,stern brandon,"Cherry Hill, N.J./Cherry Hill East",mens lacrosse,penn_state
+6,peck tanner,"Lincoln University, Pa./Avon Grove",mens lacrosse,penn_state
+7,shinske mike,"Medford, N.J./Shawnee",mens lacrosse,penn_state
+8,schaefer mitch,"Canandaigua, N.Y./Canandaigua Academy",mens lacrosse,penn_state
+9,nostrant john,"Haverford, Pa./The Haverford School",mens lacrosse,penn_state
+10,donnelly matt,"Sewell, N.J./Clearview Regional",mens lacrosse,penn_state
+11,butler tyler,"Doylestown, Pa./Central Bucks East",mens lacrosse,penn_state
+12,spillane nick,"Franklin Square, N.Y./Carey",mens lacrosse,penn_state
+13,foulds dylan,"Port Coquitlam, B.C. (Canada)/Terry Fox Secondary",mens lacrosse,penn_state
+14,black robby,"Lutherville, Md./McDonogh School",mens lacrosse,penn_state
+15,keenan ryan,"Smithtown, N.Y./Smithtown West",mens lacrosse,penn_state
+16,aronow mike,"Holbrook, N.Y./Sachem North",mens lacrosse,penn_state
+17,soran joey,"Aurora, Colo./Regis Jesuit",mens lacrosse,penn_state
+18,schreiner will,"Kemblesville, Pa./Avon Grove",mens lacrosse,penn_state
+19,pearl hunter,"Reisterstown, Md./St. Paul's",mens lacrosse,penn_state
+20,mcevoy nick,"Washington, D.C./Gonzaga College HS",mens lacrosse,penn_state
+21,sperzel sean,"Westwood, Mass./Xaverian Brothers",mens lacrosse,penn_state
+22,wright tommy,"Garden City, N.Y./Garden City",mens lacrosse,penn_state
+23,smith conor,"West Islip, N.Y./West Islip",mens lacrosse,penn_state
+24,sabia chris,"Harleysville, Pa./The Haverford School",mens lacrosse,penn_state
+25,reaume dan,"Beverly Hills, Mich./Brother Rice",mens lacrosse,penn_state
+26,sutley barrett,"Owings Mills, Md./McDonogh School",mens lacrosse,penn_state
+27,willard cole,"Cazenovia, N.Y./Cazenovia",mens lacrosse,penn_state
+28,kelly jack,"Scarbrough, Ontario, Canada/Birchmount Park, C.I.",mens lacrosse,penn_state
+29,glatz jake,"Shrewsbury, Pa./Boys' Latin",mens lacrosse,penn_state
+30,fox kevin,"Annapolis, Md./St. Mary's",mens lacrosse,penn_state
+31,lamela dean,"Brick, N.J./The Lawrenceville School",mens lacrosse,penn_state
+32,traynor tripp,"Downingtown, Pa./Malvern Prep",mens lacrosse,penn_state
+33,kneese colby,"Dallas, Texas/Highland Park",mens lacrosse,penn_state
+34,townsend brian,"Silver Spring, Md./Gonzaga College HS",mens lacrosse,penn_state
+35,burns bobby,"Smithtown, N.Y./Smithtown East",mens lacrosse,penn_state
+36,sulzbach dylan,"Pittsford, N.Y./Salisbury School",mens lacrosse,penn_state
+37,arceri gerard,"St. James, N.Y./Smithtown East",mens lacrosse,penn_state
+38,scollins trevor,"Marshfield, Mass./Marshfield",mens lacrosse,penn_state
+39,nowoswiat jimmy,"Kennett Square, Pa./Unionville",mens lacrosse,penn_state
+40,cardile nick,"West Grove, Pa./Avon Grove",mens lacrosse,penn_state
+41,peck brayden,"West Grove, Pa./Avon Grove",mens lacrosse,penn_state
+42,mccaughan jake,"Medford, N.J./St. Augustine Prep",mens lacrosse,penn_state
+0,carroll kenzie,"Naples, Fla.",womens lacrosse,penn_state
+1,schluederberg katie,"Elkridge, Md.",womens lacrosse,penn_state
+2,nicolai quinn,"Moorestown, N.J.",womens lacrosse,penn_state
+3,roberto kristin,"Miller Place, N.Y.",womens lacrosse,penn_state
+4,o'donnell katie,"West Chester, Pa.",womens lacrosse,penn_state
+5,hamood yasmain,"Hinsdale, Ill.",womens lacrosse,penn_state
+6,dolan brittany,"Ashburn, Va.",womens lacrosse,penn_state
+7,helgeson sammy,"Landisville, Pa.",womens lacrosse,penn_state
+8,del viscio samantha,"Langhorne, Pa.",womens lacrosse,penn_state
+9,gallagher maggie,"Bel Air, Md.",womens lacrosse,penn_state
+10,daggett kelly,"Bainbridge, Pa.",womens lacrosse,penn_state
+11,love kate,"Dallas, Tx.",womens lacrosse,penn_state
+12,vengilio emily,"Mount Sinai, N.Y.",womens lacrosse,penn_state
+13,chakey bridget,"Havertown, Pa.",womens lacrosse,penn_state
+14,dolder allie,"Bay Shore, N.Y.",womens lacrosse,penn_state
+15,lowe lucy,"Cockeysville, Md.",womens lacrosse,penn_state
+16,deagostine hayley,"West Chester, Pa.",womens lacrosse,penn_state
+17,brisolari kayla,"Crofton, Md.",womens lacrosse,penn_state
+18,wallace kait,"Horsham, Pa.",womens lacrosse,penn_state
+19,day madison,"Bushwood, Md.",womens lacrosse,penn_state
+20,cunningham madison,"Davie, Fla.",womens lacrosse,penn_state
+21,haubold lucy,"Malvern, Pa.",womens lacrosse,penn_state
+22,triandafils sophia,"Wading River, N.Y.",womens lacrosse,penn_state
+23,carter madison,"Davidsonville, Md.",womens lacrosse,penn_state
+24,auth maria,"Street, Md.",womens lacrosse,penn_state
+25,moore shannon,"West Chester, Pa.",womens lacrosse,penn_state
+26,rosen rachel,"Port Washington, N.Y.",womens lacrosse,penn_state
+27,garvey katie,"West Chester, Pa.",womens lacrosse,penn_state
+28,wells shelby,"Timonium, Md.",womens lacrosse,penn_state
+29,muldoon delaney,"Silver Spring, Md.",womens lacrosse,penn_state
+30,rich alex,"Lebanon, Pa.",womens lacrosse,penn_state
+31,sloane alyssa,"Millstone Township, N.J.",womens lacrosse,penn_state
+32,masterson reilly,"Radnor, Pa.",womens lacrosse,penn_state
+0,pierce declan,"Buffalo, N.Y./Eden High School",mens volleyball,penn_state
+1,goedken jack,"Carlsbad,Calif./Carlsbad High School",mens volleyball,penn_state
+2,melvin frank,"Mohrsville, Pa./Schuylkill Valley",mens volleyball,penn_state
+3,braswell luke,"Manchester, Pa./Northeastern School District",mens volleyball,penn_state
+4,smith nathan,"Los Altos, Calif./Los Altos",mens volleyball,penn_state
+5,clemens royce,"York, Pa./Central York",mens volleyball,penn_state
+6,wilden bobby,"Ashburn, Virginia/Briar Woods High School",mens volleyball,penn_state
+7,donorovich jason,"Lockport, N.Y./Lockport",mens volleyball,penn_state
+8,smith lee,"Sewickley, Pa./Ambridge",mens volleyball,penn_state
+9,payne henry,"Clarence Center, N.Y./Clarence High School",mens volleyball,penn_state
+10,bartus cameron,"West Seneca, N.Y./West Seneca West",mens volleyball,penn_state
+11,gear kevin,"Rochester, N.Y./Gates-Chili",mens volleyball,penn_state
+12,mclaren matthew,"Aurora, Colo./Cherokee Trail",mens volleyball,penn_state
+13,penrose jalen,"Cambridge, Mass./Cambridge Ridge and Latin School",mens volleyball,penn_state
+14,albrecht aidan,"Old Bridge, N.J./Old Bridge",mens volleyball,penn_state
+15,mende calvin,"Redlands, Calif./Redlands",mens volleyball,penn_state
+16,gagnon mathew,"Cranberry Township, Pa./Seneca Valley",mens volleyball,penn_state
+17,mackiewicz kyle,"Edison, N.J./John P. Stevens High School",mens volleyball,penn_state
+18,murray louis,"Los Angeles, Calif./Loyola High School",mens volleyball,penn_state
+19,bantle will,"Pacific Palisades, Calif./Loyola High School",mens volleyball,penn_state
+20,lauten henrik falck,"Drammen, Norway/Wang Toppidrett",mens volleyball,penn_state

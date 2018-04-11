@@ -1,0 +1,732 @@
+,name,hometown,sport,school
+0,ahrens kyle,"Versailles, Ohio/Versailles",mens basketball,michigan_state
+1,langford joshua,"Huntsville, Ala./Madison Academy",mens basketball,michigan_state
+2,jackson jr. jaren,"Carmel, Ind./La Lumiere",mens basketball,michigan_state
+3,winston cassius,"Detroit, Mich./Univ. of Detroit Jesuit",mens basketball,michigan_state
+4,hoiberg jack,"Burr Ridge, Ill./Hinsdale Central",mens basketball,michigan_state
+5,nairn jr. lourawls 'tum tum',Nassau Bahamas/Sunrise Christian Academy,mens basketball,michigan_state
+6,carter ben,"Las Vegas, Nev./Bishop Gorman (UNLV/Oregon)",mens basketball,michigan_state
+7,washington brock,"Southfield, Mich./Southfield Christian",mens basketball,michigan_state
+8,mcquaid matt,"Duncanville, Texas/Duncanville",mens basketball,michigan_state
+9,bridges miles,"Flint, Mich./Huntington Prep (Huntington, W.V.)",mens basketball,michigan_state
+10,tillman xavier,"Grand Rapids, Mich./Grand Rapids Christian",mens basketball,michigan_state
+11,goins kenny,"Troy, Mich./Warren Mott",mens basketball,michigan_state
+12,schilling gavin,"Chicago, Ill./Findlay Prep",mens basketball,michigan_state
+13,burke braden,"Stevensville, Mich./Lakeshore (Robert Morris)",mens basketball,michigan_state
+14,george conner,"Okemos, Mich./Okemos",mens basketball,michigan_state
+15,ward nick,"Gahanna, Ohio/Lincoln",mens basketball,michigan_state
+0,colley shay,"Brampton, Ontario, Canada/South Carolina",womens basketball,michigan_state
+1,cooks sidney,"Kenosha, Wis./St. Joseph High School",womens basketball,michigan_state
+2,cook mardrekia,"Muskegon, Mich./Muskegon High School",womens basketball,michigan_state
+3,mccutcheon taryn,"East Lansing, Mich./East Lansing High School",womens basketball,michigan_state
+4,hendrickson claire,"Wyoming, Mich./Wyoming High School",womens basketball,michigan_state
+5,agee branndais,"Detroit, Mich./Cass Technical",womens basketball,michigan_state
+6,dambo nathy,"Fort-de-France, Martinique/Junipero Serra High School",womens basketball,michigan_state
+7,hollie nia,"Minneapolis, Minn./Hopkins High School",womens basketball,michigan_state
+8,gaines victoria,"Merrillville, Ind./Merrillville High School",womens basketball,michigan_state
+9,carter kiara,"Homewood, Ill./Homewood Flossmoor",womens basketball,michigan_state
+10,gussert lexi,"Crystal Falls, Mich./Forest Park High School",womens basketball,michigan_state
+11,reimer taya,"Fishers, Ind./Notre Dame",womens basketball,michigan_state
+12,allen jenna,"Bedford, Ind./North Lawrence High School",womens basketball,michigan_state
+13,johnson kennedy,"Galloway, N.J./Wildwood Catholic High School",womens basketball,michigan_state
+0,gleaves danny,"Homer Glen, Ill.",baseball,michigan_state
+1,bechina marty,"Chicago, Ill.",baseball,michigan_state
+2,mccauley riley,"Sterling Heights, Mich.",baseball,michigan_state
+3,stewart joe,"Portage, Mich.",baseball,michigan_state
+4,landon ethan,"Sioux Falls, S.D.",baseball,michigan_state
+5,benschoter sam,"Tecumseh, Mich",baseball,michigan_state
+6,king ryan,"Munster, Ill.",baseball,michigan_state
+7,salter will,"Bloomfield Hills, Mich.",baseball,michigan_state
+8,lowery jake,"Howell, Mich.",baseball,michigan_state
+9,ando royce,"Mississauga, Ontario",baseball,michigan_state
+10,baar keegan,"Jenison, Mich.",baseball,michigan_state
+11,ahn peter,"Delafield, Wis.",baseball,michigan_state
+12,kelley bryce,"Rockford, Mich.",baseball,michigan_state
+13,antoncic justin,"Westerville, Ohio",baseball,michigan_state
+14,young kory,"Rockford, Mich.",baseball,michigan_state
+15,mokma mike,"Holland, Mich.",baseball,michigan_state
+16,chmielewski dan,"Shelby Township, Mich.",baseball,michigan_state
+17,peterson bailey,"Grandville, Mich.",baseball,michigan_state
+18,roskelly chad,"Macomb, Mich.",baseball,michigan_state
+19,regan brendan,"Northfield, Ohio",baseball,michigan_state
+20,bianucci zac,"Naperville, Ill.",baseball,michigan_state
+21,lacayo nic,"Colorado Springs, Colo.",baseball,michigan_state
+22,proctor adam,"St. Johns, Mich.",baseball,michigan_state
+23,erla mason,"Cass City, Mich.",baseball,michigan_state
+24,iverson zach,"Charlotte, N.C.",baseball,michigan_state
+25,gonzalez andrew,"Wixom, Mich.",baseball,michigan_state
+26,combs scott,"Northville, Mich.",baseball,michigan_state
+27,tyranski mitchell,"Birmingham, Mich.",baseball,michigan_state
+28,clark matt,"Onsted, Mich.",baseball,michigan_state
+29,sleeman caleb,"Alto, Mich.",baseball,michigan_state
+30,flohr evan,"Northville, Mich.",baseball,michigan_state
+31,heikkinen jesse,"Holt, Mich.",baseball,michigan_state
+32,mcguire zack,"Sterling Heights, Mich.",baseball,michigan_state
+0,alexander dillon,"Forsyth, Ga. - Lambert",football,michigan_state
+1,alexander javez,"Sandusky, Ohio - Sandusky",football,michigan_state
+2,alexander justice,"Macedonia, Ohio - Nordonia",football,michigan_state
+3,allen matt,"Hinsdale, Ill. - Hinsdale Central",football,michigan_state
+4,andrews austin,"Columbus, Ohio - St. Francis DeSales",football,michigan_state
+5,arcuri aj,"Powell, Ohio - Olentangy Liberty",football,michigan_state
+6,armour ryan,"Traverse City, Mich. - St. Francis",football,michigan_state
+7,bachie joe,"Brook Park, Ohio - Berea-Midpark",football,michigan_state
+8,barton khylin,"Zeeland, Mich. - Zeeland East",football,michigan_state
+9,beedle david,"Clarkston, Mich. - Clarkston",football,michigan_state
+10,beesley drew,"Rochester Hills, Mich. - Warren De La Salle",football,michigan_state
+11,bridges weston,"Copley, Ohio - Copley",football,michigan_state
+12,brown shakur,"Stockbridge, Ga. - Woodland",football,michigan_state
+13,bueter blake,"Howell, Mich. - Detroit Catholic Central",football,michigan_state
+14,bullough byron,"Traverse City, Mich. - St. Francis",football,michigan_state
+15,burton reid,"East Lansing, Mich. - East Lansing",football,michigan_state
+16,butler josh,"Mesquite, Texas - West Mesquite",football,michigan_state
+17,caflisch collin,"Canton, Mich. - Canton",football,michigan_state
+18,campbell luke,"Lewis Center, Ohio - Olentangy",football,michigan_state
+19,camper jack,"Virginia Beach, Va. - IMG Academy",football,michigan_state
+20,carrick matt,"Minerva, Ohio - Perry",football,michigan_state
+21,chambers cam,"Sicklerville, N.J. - Timber Creek Regional",football,michigan_state
+22,chewins cole,"Clarkston, Mich. - Clarkston",football,michigan_state
+23,coghlin matt,"Cincinnati, Ohio - Archbishop Moeller",football,michigan_state
+24,davis iii felton,"Richmond, Va. - Highland Springs",football,michigan_state
+25,davis noah,"Cincinnati, Ohio - St. Xavier",football,michigan_state
+26,day theo,"Canton, Mich. - Divine Child",football,michigan_state
+27,dotson matt,"Kenwood, Ohio - Archbishop Moeller",football,michigan_state
+28,douglas dimitri,"Saline, Mich. - Saline",football,michigan_state
+29,dowell andrew,"North Ridgeville, Ohio - St. Edward",football,michigan_state
+30,dowell david,"North Ridgeville, Ohio - St. Edward",football,michigan_state
+31,flowers emmanuel,"Chino Hills, Calif. - Ayala",football,michigan_state
+32,gervin kalon,"Detroit, Mich. - Cass Technical",football,michigan_state
+33,gianacakos chase,"St. Charles, Ill. - St. Charles North",football,michigan_state
+34,hahn cole,"West Des Moines, Iowa - Valley",football,michigan_state
+35,hallock tanner,"Grand Rapids, Mich. - Forest Hills Central",football,michigan_state
+36,hartbarger jake,"Waterville, Ohio - Anthony Wayne",football,michigan_state
+37,harvey noah,"Hartland, Wis. - Arrowhead",football,michigan_state
+38,hayes c.j.,"Bowling Green, Ky. - South Warren",football,michigan_state
+39,henderson xavier,"Reynoldsburg, Ohio - Pickerington Central",football,michigan_state
+40,henrichs jack,"Thiensville, Wis. - Homestead",football,michigan_state
+41,heyward connor,"Duluth, Ga. - Peachtree Ridge",football,michigan_state
+42,higby tyler,"Houston, Texas - The Kinkaid School",football,michigan_state
+43,hill-hunt mufi,"Sandy, Utah - Taylorsville",football,michigan_state
+44,hunt tyler,"Gobles, Mich. - Gobles",football,michigan_state
+45,jarvis kevin,"Chicago, Ill. - Maine South",football,michigan_state
+46,jones naquan,"Mount Prospect, Ill. - Evanston Township",football,michigan_state
+47,khaleefah mustafa,"Dearborn Heights, Mich. - Dearborn",football,michigan_state
+48,krumm nick,"Commerce Township, Mich. - Walled Lake Central",football,michigan_state
+49,layne justin,"Cleveland, Ohio - Benedictine",football,michigan_state
+50,lewandowski davis,"Okemos, Mich. - Okemos",football,michigan_state
+51,lewerke brian,"Phoenix, Ariz. - Pinnacle",football,michigan_state
+52,liesveld tommy,"Bloomfield Hills, Mich. - Saginaw Valley State",football,michigan_state
+53,line ben,"Oxford, Mich. - Robert Morris",football,michigan_state
+54,listermann noah,"Cincinnati, Ohio - Winton Woods",football,michigan_state
+55,lombardi rocky,"Cliva, Iowa - Valley",football,michigan_state
+56,long dominique,"Westerville, Ohio - Westerville South",football,michigan_state
+57,lucas collin,"Avon Lake, Ohio - Avon Lake",football,michigan_state
+58,macius mickey,"Arlington Heights, Ill. - Austin Peay",football,michigan_state
+59,major julian,"Pittsburgh, Pa. - Penn Hills",football,michigan_state
+60,mandryk jack,"Hudsonville, Mich. - Hudsonville",football,michigan_state
+61,mckenna jack,"Commerce Township, Mich. - Walled Lake Northern",football,michigan_state
+62,miller grayson,"Georgetown, Ky. - Scott",football,michigan_state
+63,morrissey matt,"Lincolnshire, Ill. - Adlai E. Stevenson",football,michigan_state
+64,mossburg brent,"Carleton, Mich. - Airport",football,michigan_state
+65,nelson laress,"Fort Lauderdale, Fla. - American Heritage",football,michigan_state
+66,norman jiah,"Houston, Texas - Hotchkiss School",football,michigan_state
+67,owens gerald,"Thorofare, N.J. - West Deptford",football,michigan_state
+68,panasiuk jacub,"Roselle, Ill. - Lake Part West",football,michigan_state
+69,panasiuk mike,"Roselle, Ill. - Lake Park West",football,michigan_state
+70,person tre,"Atlanta, Ga. - Westlake",football,michigan_state
+71,pryor corey,"Jackson, Mich. - Jackson",football,michigan_state
+72,randle brandon,"Battle Creek, Mich. - Battle Creek Central",football,michigan_state
+73,razzano dante,"Niles, Mich. - Edwardsburg",football,michigan_state
+74,reid jordan,"Mt. Clemens, Mich. - Detroit Cass Tech",football,michigan_state
+75,rosenthal max,"Winnetka, Ill. - New Trier Township Winnetka",football,michigan_state
+76,sargent noah,"Fenton, Mich. - Saginaw Valley State",football,michigan_state
+77,scott josiah,"Hamilton, Ohio - Fairfield",football,michigan_state
+78,scott lj,"Hubbard, Ohio - Hubbard",football,michigan_state
+79,seybert matt,"Traverse City, Mich. - Buffalo",football,michigan_state
+80,simmons antjuan,"Ann Arbor, Mich. - Pioneer",football,michigan_state
+81,smith tyson,"Southfield, Mich. - Orchard Lake St. Mary's",football,michigan_state
+82,sokol matt,"Rochester, Mich. - Adams",football,michigan_state
+83,sokol mitchell,"Rochester, Mich. - Orchard Lake St. Mary's",football,michigan_state
+84,sowards brandon,"Wyandotte, Mich. - Roosevelt",football,michigan_state
+85,stewart jr. darrell,"Houston, Texas - Nimitz",football,michigan_state
+86,thomas alante,"Detroit, Mich. - Saginaw Valley State",football,michigan_state
+87,thompson tyriq,"Detroit, Mich. - Martin Luther King",football,michigan_state
+88,todd deari,"Lorain, Ohio - Clearview",football,michigan_state
+89,warinner edward,"Powell, Ohio - Olentangy Liberty",football,michigan_state
+90,watts jahz,"Belleville, Mich. - Belleville",football,michigan_state
+91,welch andre,"East Kentwood, Mich. - East Kentwood",football,michigan_state
+92,white cody,"Novi, Mich. - Walled Lake Western",football,michigan_state
+93,wilker bryce,"Belding, Mich. - Belding Area",football,michigan_state
+94,willekes kenny,"Rockford, Mich. - NorthPointe Christian",football,michigan_state
+95,williams raequan,"Chicago, Ill. - DePaul College Prep",football,michigan_state
+96,willis khari,"Jackson, Mich. - Lumen Christi",football,michigan_state
+0,hague jimmy,"Walled Lake, Mich./Walled Lake Western",mens soccer,michigan_state
+1,scott ryan,"Grand Rapids, Mich./Forest Hills Eastern",mens soccer,michigan_state
+2,fiscus jimmy,"Novi, Mich./Northville",mens soccer,michigan_state
+3,woodruff nick,"Attleboro, Mass./Bishop Feehan",mens soccer,michigan_state
+4,pimlott michael,"Farmington Hills, Mich./Farmington",mens soccer,michigan_state
+5,jones dejuan,"Lansing, Mich./East Lansing",mens soccer,michigan_state
+6,barone hunter,"Grandville, Mich./East Kentwood",mens soccer,michigan_state
+7,centala brad,"Grosse Pointe Woods, Mich./Grosse Pointe Woods North",mens soccer,michigan_state
+8,marcantognini michael,"Sudbury, Ontario/St. Andrews College",mens soccer,michigan_state
+9,barone giuseppe,"Grandville, Mich./East Kentwood",mens soccer,michigan_state
+10,sierakowski ryan,"McHenry, Ill./McHenry West",mens soccer,michigan_state
+11,freitag john,"Arlington Heights, Ill./DePaul",mens soccer,michigan_state
+12,cort robbie,"Bloomfield Hills, Mich./Brother Rice",mens soccer,michigan_state
+13,shterenberg alex,"Westwood, Mass./Westwood",mens soccer,michigan_state
+14,thompson trey,"Arlington, Va./Courtland",mens soccer,michigan_state
+15,corrigan connor,"Fishers, Ind./Hamilton Southeastern",mens soccer,michigan_state
+16,wetungu michael,"Rochester Hill, Mich./Adams",mens soccer,michigan_state
+17,miller michael,"Normal, Ill./Normal Community",mens soccer,michigan_state
+18,sweatte cody,"Bluemont, Va./Virginia Commonwealth",mens soccer,michigan_state
+19,beckett michael,"Holly, Mich./St Mary's Prep",mens soccer,michigan_state
+20,krolicki ken,"Plymouth, Mich./Canton",mens soccer,michigan_state
+21,menne luke,"Grand Ledge, Mich./Grand Ledge",mens soccer,michigan_state
+22,wineman connor,"Petoskey, Mich./Petoskey",mens soccer,michigan_state
+23,kovan zach,"Okemos, Mich./Okemos",mens soccer,michigan_state
+24,stair philip,"Flint, Mich./Powers Catholic",mens soccer,michigan_state
+25,morse hunter,"Belleville, Mich./Huron",mens soccer,michigan_state
+0,wojtanowski savanna,"Traverse City, Mich./Ferris State",womens soccer,michigan_state
+1,ott reilley,"Grapevine, Texas/Grapevine",womens soccer,michigan_state
+2,krause amy,"Brighton, Mich./Brighton",womens soccer,michigan_state
+3,stephan danielle,"DeWitt, Mich./DeWitt",womens soccer,michigan_state
+4,kovacs michaela,"Hudsonville, Mich./Hudsonville",womens soccer,michigan_state
+5,madrigal kassidy,"Scottsdale, Ariz./Notre Dame Prep",womens soccer,michigan_state
+6,franks lydia,"Kentwood, Mich./East Kentwood",womens soccer,michigan_state
+7,duncan madison,"Troy, Mich./Louisiana-Lafayette",womens soccer,michigan_state
+8,fisher sofanit,"White Lake, Mich./Walled Lake Northern",womens soccer,michigan_state
+9,jodzis bella,"Macomb, Mich./Utica Eisenhower",womens soccer,michigan_state
+10,yewah kristelle,"East Lansing, Mich./Okemos",womens soccer,michigan_state
+11,crowe julia,"Ann Arbor, Mich./Akron",womens soccer,michigan_state
+12,marx sabrina,"Spring, Texas/The Woodlands",womens soccer,michigan_state
+13,biondi athena,"Penn Trafford, Pa./Penn Trafford",womens soccer,michigan_state
+14,warner lexy,"Ypsilanti, Mich./Father Gabriel Richard",womens soccer,michigan_state
+15,cheslik jamie,"Northville, Mich./Northville",womens soccer,michigan_state
+16,thomas alexandra,"Dryden, Mich./Lapeer",womens soccer,michigan_state
+17,jones hannah,"Port Huron, Mich./Northern",womens soccer,michigan_state
+18,childers lexi,"Grand Blanc, Mich./Grand Blanc",womens soccer,michigan_state
+19,gappy marta,"Woodbridge, Va./Osborn Park",womens soccer,michigan_state
+20,oatis celia,"Maumee, Ohio/St. Ursula",womens soccer,michigan_state
+21,jaqua devin,"Kalamazoo, Mich./Portage Central",womens soccer,michigan_state
+22,leon brielle,"La Quinta, Calif./La Quinta",womens soccer,michigan_state
+23,tanner brittany,"Caledonia, Mich./East Kentwood",womens soccer,michigan_state
+24,misiewicz sadie,"Holland, Mich./Holland",womens soccer,michigan_state
+25,herring michelle,"Freeland, Mich./Freeland",womens soccer,michigan_state
+26,vandyke madison,"Hudsonville, Mich./Unity Christian",womens soccer,michigan_state
+27,cockerill brenna,"Brighton, Mich./Ferris State",womens soccer,michigan_state
+28,mckerchie morgan,"Clio, Mich./Flint Powers",womens soccer,michigan_state
+29,clem madison,"Okemos, Mich./Williamston",womens soccer,michigan_state
+30,argeros olivia,"Oakland Twp., Mich./Rochester Adams",womens soccer,michigan_state
+0,beadlescomb morgan,"Algonac, Mich./Algonac",mens cross country,michigan_state
+1,beauchamp luke,"Bellevue, Wash./Interlake",mens cross country,michigan_state
+2,benoit max,"Royal Oak, Mich./Royal Oak",mens cross country,michigan_state
+3,buckley ty,"Brighton, Mich./Detroit Catholic Central",mens cross country,michigan_state
+4,burnand nathan,"Waterford, Mich./Waterford Mott",mens cross country,michigan_state
+5,cady benjamin,"Okemos, Mich./Okemos",mens cross country,michigan_state
+6,crowley robert,"Carlow, Ireland/Knochbeg College",mens cross country,michigan_state
+7,felty avery,"Novi, Mich./Detroit Catholic Central",mens cross country,michigan_state
+8,gove john,"Leominster, Mass./Leominster",mens cross country,michigan_state
+9,hersha jesse,"Concord, Mich./Concord",mens cross country,michigan_state
+10,hirschenberger nicholas,"Traverse City, Mich./Traverse City West",mens cross country,michigan_state
+11,kettle brian,"Milford, Mich./Milford",mens cross country,michigan_state
+12,kiprotich justine,"Kentwood, Mich./East Kentwood",mens cross country,michigan_state
+13,kroth dan,"Okemos, Mich./Okemos",mens cross country,michigan_state
+14,law brayden,"Fort Wayne, Ind./Homestead",mens cross country,michigan_state
+15,middleton andrew,"Holt, Mich./Holt",mens cross country,michigan_state
+16,noah luke,"Middleville, Mich./Thornapple Kellogg",mens cross country,michigan_state
+17,o'connor andrew,"Croswell, Mich./Croswell-Lexington",mens cross country,michigan_state
+18,osika tommy,"Waterford, Mich./Waterford Mott",mens cross country,michigan_state
+19,petruno john,"Wixom, Mich.",mens cross country,michigan_state
+20,rambo lance,"Marquette, Mich./Marquette",mens cross country,michigan_state
+21,riordan joe,"Solon, Ohio/Solon",mens cross country,michigan_state
+22,robinson ryan,"West Bloomfield, Mich./West Bloomfield",mens cross country,michigan_state
+23,romeyn winter,"Ellsworth, Mich./Ellsworth",mens cross country,michigan_state
+24,ruiz clark,"Big Rapids, Mich./Big Rapids",mens cross country,michigan_state
+25,schram matt,"Rochester Hills, Mich./Rochester Adams",mens cross country,michigan_state
+26,sims dan,"Northville, Mich./Northville",mens cross country,michigan_state
+27,stine steven,"Sterling Heights, Mich./Fraser",mens cross country,michigan_state
+28,stintzi cameron,"Adrian, Mich.",mens cross country,michigan_state
+29,thomas matthew,"Port Huron, Mich./Port Huron Northern",mens cross country,michigan_state
+30,wright-fisher zacary,"Muskegon, Mich./Mason County Central",mens cross country,michigan_state
+0,arbic courtney,"Sault Ste. Marie, Mich.",womens cross country,michigan_state
+1,arteaga carlyn,"Grand Haven, Mich./Spring Lake",womens cross country,michigan_state
+2,beazley kennedy,"Ypsilanti, Mich./Saline",womens cross country,michigan_state
+3,blake bridget,"Orlando, Fla./Dr. Phillips",womens cross country,michigan_state
+4,brouwer claire,"Grand Rapids, Mich./Grand Rapids Christian",womens cross country,michigan_state
+5,bullough holly,"Traverse City, Mich./Traverse City St. Francis",womens cross country,michigan_state
+6,clement nichole,"Saginaw, Mich./Heritage",womens cross country,michigan_state
+7,farrell maggie,"Battle Creek, Mich.",womens cross country,michigan_state
+8,fleischmann morgan,"Munger, Mich./Reese",womens cross country,michigan_state
+9,fuller annie,"Manistee, Mich./Manistee",womens cross country,michigan_state
+10,george amanda,"Flint, Mich./Davison",womens cross country,michigan_state
+11,girardot patricia,"Birmingham, Mich./Seaholm",womens cross country,michigan_state
+12,goethals jessica,"Rochester, Mich./Rochester",womens cross country,michigan_state
+13,gram lynsie,"Clarkston, Mich./Clarkston",womens cross country,michigan_state
+14,hanson nicole,"Clarkston, Mich./Clarkston",womens cross country,michigan_state
+15,hanson samantha,"Sterling Heights, Mich./Sterling Heights Stevenson",womens cross country,michigan_state
+16,jagielski andrea,"Hillsdale, Mich./Hillsdale Academy",womens cross country,michigan_state
+17,jenkins lauren,"Saugatuck, Mich./Saugatuck",womens cross country,michigan_state
+18,johnson bailey,"Gradville, Mich.",womens cross country,michigan_state
+19,johnson india,"Hilliard, Ohio",womens cross country,michigan_state
+20,kaliszewski lauren,"Rochester Hills, Mich./Rochester",womens cross country,michigan_state
+21,kavulich kayla,"Plymouth, Mich./Salem",womens cross country,michigan_state
+22,kettel sarah,"Brighton, Mich./Capitol Homeschool",womens cross country,michigan_state
+23,kiprotich faith,"Kentwood, Mich./East Kentwood",womens cross country,michigan_state
+24,magness jenna,"Grand Ledge, Mich./Grand Ledge",womens cross country,michigan_state
+25,martella carlie,"Gaylord, Mich.",womens cross country,michigan_state
+26,mcclintock dillon,"Owosso, Mich./Owosso",womens cross country,michigan_state
+27,mcdonald erin,"Midland, Mich./Dow",womens cross country,michigan_state
+28,monroe natalie,"Brighton, Mich./Brighton",womens cross country,michigan_state
+29,mossholder casey,DeWitt/DeWitt,womens cross country,michigan_state
+30,poe jeralyn,"Lincoln, Neb./Lincoln North Star",womens cross country,michigan_state
+31,rogers jenny,"Farmington, Mich./Farmington",womens cross country,michigan_state
+32,rudden lindsey,"Marquette, Mich./Marquette",womens cross country,michigan_state
+33,rustmann julia,"Grosse Pointe, Mich./Grosse Pointe North",womens cross country,michigan_state
+34,rustmann sarah,"Grosse Pointe, Mich./Grosse Pointe North",womens cross country,michigan_state
+35,schwartz kelsie,"Grosse Point, Mich./Grosse Point South",womens cross country,michigan_state
+36,smith karrigan,"St. Johns, Mich./St. John's",womens cross country,michigan_state
+37,steffke emily,"Beal City, Mich./Beal City",womens cross country,michigan_state
+38,vanis stephanie,"East Lansing, Mich./East Lansing",womens cross country,michigan_state
+39,way amber,"Charlevoix, Mich./Charlevoix",womens cross country,michigan_state
+40,weiler mackenzie,"Cedar Springs, Mich./Cedar Springs",womens cross country,michigan_state
+41,welch kelcy,"Carmel, Ind./Carmel",womens cross country,michigan_state
+42,wiitala kayla,"Colorado Springs, Colo./Air Academy",womens cross country,michigan_state
+43,wilberding aubrey,"Birmingham, Mich./Seaholm",womens cross country,michigan_state
+0,deogun devin,"Bloomfield Hills, Mich./Cranbrook Kingswood",mens golf,michigan_state
+1,deogun dylan,"Bloomfield Hills, Mich./Cranbrook Kingswood/Mercer",mens golf,michigan_state
+2,dunsire scott,"Naperville, Ill./Naperville Central",mens golf,michigan_state
+3,green charlie,"Ann Arbor, Mich./Detroit Catholic Central",mens golf,michigan_state
+4,jenner austin,"West Branch, Mich./Skeels Christian",mens golf,michigan_state
+5,johnson kaleb,"Naples, Fla./Gulf Coast",mens golf,michigan_state
+6,piot glenn,"Canton, Mich./Detroit Catholic Central",mens golf,michigan_state
+7,piot james,"Canton, Mich./Detroit Catholic Central",mens golf,michigan_state
+8,rosendale zach,St. John's Mich./St. John's,mens golf,michigan_state
+9,sharp michael,"Kendallville, Ind./East Noble",mens golf,michigan_state
+10,varekois a.j.,"Rockford, Mich./Rockford",mens golf,michigan_state
+11,walker andrew,"Battle Creek, Mich./Battle Creek Lakeview",mens golf,michigan_state
+0,burnham sarah,"Maple Grove, Minn./Wayzata High School",womens golf,michigan_state
+1,clausen greer,"Bloomfield Hills, Mich./Cranbrook Kingswood",womens golf,michigan_state
+2,geer allyson,"Brighton, Mich./Home School",womens golf,michigan_state
+3,harding caroline,"South Lyon, Mich./South Lyon",womens golf,michigan_state
+4,harding priscilla,"South Lyon, Mich./South Lyon",womens golf,michigan_state
+5,marfa sans paz,"Barcelona, Spain/Colegio de Fomento",womens golf,michigan_state
+6,mcevoy catherine,"Greenwich, Conn./Greenwich",womens golf,michigan_state
+7,otter logan,"St. Peters, Missouri/John Burroughs",womens golf,michigan_state
+8,robinson sybil,"Dublin, Ohio/Dublin Jerome",womens golf,michigan_state
+9,setas jacqueline,"East Lansing, Mich./Lansing Catholic Central",womens golf,michigan_state
+10,sharp katie,"Kendallville, Ind./East Noble",womens golf,michigan_state
+11,tanida yurika,"Kanagawa, Japan/Morningside Academy (Fla.)",womens golf,michigan_state
+0,duffy alex,"Bartlett, Ill./South Elgin",mens swimming,michigan_state
+1,farley aidan,"Indianapolis, Ind./Carl Sandburg",mens swimming,michigan_state
+2,gutenschwager nolan,"Wyandotte, Mich./Roosevelt High School",mens swimming,michigan_state
+3,hanani tal,"Beit Lehem Haglilit, Israel/ORT Tivon",mens swimming,michigan_state
+4,henneman john,Washington D.C./Gonzaga College,mens swimming,michigan_state
+5,kost michael,"Norfolk, Va./Stone Bridge High",mens swimming,michigan_state
+6,lamb connor,"Naperville, Ill./Naperville Central",mens swimming,michigan_state
+7,lantow josh,"Homer Glen, Ill./Lockport Township",mens swimming,michigan_state
+8,leshok nick,"Farmington Hills, Mich./North Farmington",mens swimming,michigan_state
+9,mcleish lachie,"Melbourne, Australia/Ivanhoe Grammar School",mens swimming,michigan_state
+10,meffert phillip,"Chesterfield, Va./Cosby",mens swimming,michigan_state
+11,mork nehemiah,"Midland, Mich./Herbert Henry Dow",mens swimming,michigan_state
+12,moskovich guy,"Haifa, Israel/ORT kiryat motzKin",mens swimming,michigan_state
+13,pascua josh,"Wixom, Mich./Walled Lake Central",mens swimming,michigan_state
+14,piper scott,"Naperville, Ill./Naperville Central",mens swimming,michigan_state
+15,ryan charlie,"Philadelphia, Pa./The Haverford School",mens swimming,michigan_state
+16,saczawa jack,"Powell, Ohio/Olentangy Liberty",mens swimming,michigan_state
+17,schoof tim,"Michigan City, Ind./Michigan City",mens swimming,michigan_state
+18,schwers michael,"Aurora, Ill./Waubonsie Valley",mens swimming,michigan_state
+19,smiarowski lucas,"Chicago, Ill./Amos Alonzo Stagg",mens swimming,michigan_state
+20,strahlman mitch,"Chicago, Ill./Brother Rice",mens swimming,michigan_state
+21,szczupakiewicz joe,"Muskego, Wis./Muskego",mens swimming,michigan_state
+22,trompke alex,"Eagle, Idaho/Rocky Mountain",mens swimming,michigan_state
+23,whitaker gabe,"Carmel, Ohio/Carmel",mens swimming,michigan_state
+24,woods payton,"Champaign, Ill./Champaign Central",mens swimming,michigan_state
+25,youngblood weston,Houston/South Mecklenburg,mens swimming,michigan_state
+0,armstrong cathryn,"Monroe, Wash./Monroe",womens swimming,michigan_state
+1,arnold taylor,"Grand Rapids, Mich./Jenison",womens swimming,michigan_state
+2,aycock courtney,"Knoxville, Tenn./Hardin Valley Academy",womens swimming,michigan_state
+3,brunett emily,"Farmington Hills, Mich./Harrison",womens swimming,michigan_state
+4,bukowski racheal,"Crown Point, Ind./Crown Point",womens swimming,michigan_state
+5,chick olivia,"Yellow Springs, Ohio/Yellow Springs",womens swimming,michigan_state
+6,contino taylor,"Cincinnati, Ohio/Turpin",womens swimming,michigan_state
+7,coronel anna,"Brecksville, Ohio/Brecksville Broadview Heights University",womens swimming,michigan_state
+8,dickson marie,"Greenwich, N.J./Ursuline Academy",womens swimming,michigan_state
+9,hannon rebecca,"Long Grove, Ill./Stevenson",womens swimming,michigan_state
+10,heineman allie,"Williamston, Mich./Williamston",womens swimming,michigan_state
+11,kari brina,"Edina, Minn./Hastings",womens swimming,michigan_state
+12,keshemberg natalie,"Grafton, Wis./Grafton",womens swimming,michigan_state
+13,kornburger haley,"Oxford, Mich./Oxford",womens swimming,michigan_state
+14,ling amanda,"Southfield, Mich./Walled Lake Central",womens swimming,michigan_state
+15,meldrum dominique,"Ann Arbor, Mich./Brighton",womens swimming,michigan_state
+16,moore maison,"Bloomfield Hills, Mich./West Bloomfield",womens swimming,michigan_state
+17,mullins madison,"Chandler, Ariz./Hamilton",womens swimming,michigan_state
+18,neely erin,"Urbana, Ill./Forest Hills Central",womens swimming,michigan_state
+19,neveling abbey,"Voorhees, N.J./Haddonfield Memorial",womens swimming,michigan_state
+20,nowak madison,"Wyckoff, N.J./Ramapo",womens swimming,michigan_state
+21,oppedisano julia,"Strongsville, Ohio/Strongsville",womens swimming,michigan_state
+22,roche ellie,"Fargo, N.D./Fargo North",womens swimming,michigan_state
+23,schultz gretchen,"Dexter, Mich./Dexter",womens swimming,michigan_state
+24,sortland ana,"Maplewood, Minn./Woodbury",womens swimming,michigan_state
+25,stephens anna,"East Grand Rapids, Mich./East Grand Rapids",womens swimming,michigan_state
+26,szara erin,"Northville, Mich./Northville",womens swimming,michigan_state
+27,truex kennedy,"Pleasanton, Calif./Foothill",womens swimming,michigan_state
+28,turke elise,"Grand Rapids, Mich./Forest Hills Northern",womens swimming,michigan_state
+29,wellenzohn morgan,"Amherst, N.Y./Orchard Park",womens swimming,michigan_state
+30,wolff iana,"Evanston, Ill./Evanston Township",womens swimming,michigan_state
+31,yockey rosalie,"DeWitt, Mich./DeWitt",womens swimming,michigan_state
+0,carlin john,"Ft Myers, Fla./Fort Myers",mens tennis,michigan_state
+1,dube michael,"Livonia, Mich./Detroit Catholic Central",mens tennis,michigan_state
+2,forman brett,"Troy, Mich./Troy",mens tennis,michigan_state
+3,harvey colin,"Lake Forest, Ill./Stevenson",mens tennis,michigan_state
+4,koenen jasper,"Baton Rouge, La./St. Charles East, St. Charles, Ill.",mens tennis,michigan_state
+5,mukherjee josh,"Bloomfield Hills, Mich./Bloomfield Hills",mens tennis,michigan_state
+6,rakic ivan,"Ann Arbor, Mich./Pioneer",mens tennis,michigan_state
+7,shisler billy,"Naples, Fla./Gulf Coast",mens tennis,michigan_state
+8,winkler jack,"Birmingham, Mich./Brother Rice",mens tennis,michigan_state
+9,wong davis,"West Bloomfield, Mich./West Bloomfield",mens tennis,michigan_state
+0,baylis lexi,"Clarkston, Mich./Clarkston",womens tennis,michigan_state
+1,chua aslina,"Kuching, Malaysia/International Virtual Learning Academy",womens tennis,michigan_state
+2,fenn julia,"Sheridan, Wyo./Sheridan",womens tennis,michigan_state
+3,kuuttila sara,"Albuquerque, N.M.",womens tennis,michigan_state
+4,memije samantha,"Monroeville, Pa./Gateway High School",womens tennis,michigan_state
+5,metcalf emily,"Jonesboro, Ark./Valley View",womens tennis,michigan_state
+6,nguyen davina,"Utica, Mich./Utica",womens tennis,michigan_state
+7,shaker habiba,"Cairo, Egypt/West Virginia",womens tennis,michigan_state
+8,szabo caroline,"Midland, Mich./H.H. Dow",womens tennis,michigan_state
+9,thielman ava,"Shelby Township, Mich./Utica Eisenhower",womens tennis,michigan_state
+0,agodu will,"Taylor, Mich./Taylor Harry S Truman",mens track,michigan_state
+1,beadlescomb morgan,"Algonac, Mich./Algonac",mens track,michigan_state
+2,beauchamp luke,"Bellevue, Wash./Interlake",mens track,michigan_state
+3,benoit max,"Royal Oak, Mich./Royal Oak",mens track,michigan_state
+4,binkowski sam,"Flushing, Mich./Flushing",mens track,michigan_state
+5,buckley ty,"Brighton, Mich./Detroit Catholic Central",mens track,michigan_state
+6,burton noah,"Bloomfield Hills, Mich./Avondale",mens track,michigan_state
+7,cady benjamin,"Okemos, Mich./Okemos",mens track,michigan_state
+8,clarke antonio,"Lansing, Mich./East Lansing",mens track,michigan_state
+9,crowley robert,"Carlow, Ireland/Knochbeg College",mens track,michigan_state
+10,dasilva earvin,"Morgan Hill, Calif./Bellarmine Prep",mens track,michigan_state
+11,durkin james,"Oakland, Mich./Notre Dame Prep",mens track,michigan_state
+12,edwards jon,"Milan, Mich./Lincoln Senior",mens track,michigan_state
+13,ehrhardt tim,"Addison, Ill./Lake Park",mens track,michigan_state
+14,evans jerimiah,"Auburn Hills, Mich./Avondale",mens track,michigan_state
+15,felty avery,"Novi, Mich./Detroit Catholic Central",mens track,michigan_state
+16,fife jonathan,"Flint, Mich./Flint Southwestern Academy",mens track,michigan_state
+17,gary noah,"Dexter, Mich./Dexter",mens track,michigan_state
+18,gove john,"Leominster, Mass./Leominster",mens track,michigan_state
+19,guerrant nick,"Portage, Mich./Portage Northern",mens track,michigan_state
+20,hall kharon,"Parker, Colo./Lutheran",mens track,michigan_state
+21,hartman evan,"Niles, Mich./Brandywine",mens track,michigan_state
+22,hersha jesse,"Concord, Mich./Concord",mens track,michigan_state
+23,hirschenberger nicholas,"Traverse City, Mich./Traverse City West",mens track,michigan_state
+24,homik ryan,"West Olive, Mich./West Ottawa",mens track,michigan_state
+25,jones elijah,,mens track,michigan_state
+26,kettle brian,"Milford, Mich./Milford",mens track,michigan_state
+27,kiprotich justine,"Kentwood, Mich./East Kentwood",mens track,michigan_state
+28,knoblock max,"Traverse City, Mich./Traverse City Central",mens track,michigan_state
+29,kramer nick,"Fruitport, Mich./Fruitport",mens track,michigan_state
+30,kroth daniel,"Okemos, Mich./Okemos",mens track,michigan_state
+31,law brayden,"Fort Wayne, Ind./Homestead",mens track,michigan_state
+32,litch evan,"Brighton, Mich./Brighton",mens track,michigan_state
+33,mckinney devin,"Kentwood, Mich./East Kentwood",mens track,michigan_state
+34,middleton andrew,"Holt, Mich./Holt",mens track,michigan_state
+35,monteleone paul,/John Jay,mens track,michigan_state
+36,moore nicholas,"Beverly Hills, Mich./Birmingham Groves",mens track,michigan_state
+37,morgan savalas,"Detroit, Mich./Cass Tech",mens track,michigan_state
+38,noah luke,"Middleville, Mich./Thornapple Kellogg",mens track,michigan_state
+39,nouhan kyle,"Saline, Mich./Saline",mens track,michigan_state
+40,o'connor andrew,"Croswell, Mich./Croswell-Lexington",mens track,michigan_state
+41,o'hare sean,/Concordia International School Shanghai,mens track,michigan_state
+42,odom xzavier,"East Lansing, Mich.",mens track,michigan_state
+43,osika tommy,"Waterford, Mich./Waterford Mott",mens track,michigan_state
+44,petruno john,"Wixom, Mich./Walled Lake Western",mens track,michigan_state
+45,rambo lance,"Marquette, Mich./Marquette",mens track,michigan_state
+46,riordan joe,"Solon, Ohio/Solon",mens track,michigan_state
+47,robinson ryan,"West Bloomfield, Mich./Waterford Mott",mens track,michigan_state
+48,romeyn winter,"Ellsworth, Mich./Ellsworth Community",mens track,michigan_state
+49,ruiz clark,"Big Rapids, Mich./Big Rapids",mens track,michigan_state
+50,schram matt,"Rochester Hills, Mich./Rochester Adams",mens track,michigan_state
+51,sims dan,"Northville, Mich./Northville",mens track,michigan_state
+52,stemple cody,"White Lake, Mich./Lakeland",mens track,michigan_state
+53,stine steven,"Sterling Heights, Mich./Fraser",mens track,michigan_state
+54,stintzi cameron,"Adrian, Mich./Adrian",mens track,michigan_state
+55,stone dan,"Frankenmuth, Mich./Frankenmuth",mens track,michigan_state
+56,thomas matthew,"Portage, Mich./Port Huron Northern",mens track,michigan_state
+57,wallace danny,"Milford, Mich./Milford",mens track,michigan_state
+58,welch andre,"East Kentwood, Mich./East Kentwood",mens track,michigan_state
+59,whitting nathan,"Freeland, Mich./Freeland",mens track,michigan_state
+60,wiater alec,"New Baltimore, Mich./Anchor Bay",mens track,michigan_state
+61,wright-fisher zacary,"Muskegon, Mich./Mason County Central",mens track,michigan_state
+62,zalapi noah,"Farmington Hills, Mich./North Farmington",mens track,michigan_state
+0,allen shelby,"Oak Park, Mich./Berkley",womens track,michigan_state
+1,andrews charley,"Battle Creek, Mich./Harper Creek",womens track,michigan_state
+2,arbic courtney,"Sault Ste. Marie, Mich.",womens track,michigan_state
+3,arteaga carlyn,"Spring Lake, Mich./Spring Lake",womens track,michigan_state
+4,beazley kennedy,"Ypsilanti, Mich./Saline",womens track,michigan_state
+5,bertrand alaias,"Strongsville, Ohio/Strongsville",womens track,michigan_state
+6,blake bridget,"Orlando, Fla.",womens track,michigan_state
+7,bogan brooke,"Ann Arbor, Mich./Ann Arbor Huron",womens track,michigan_state
+8,brouwer claire,"Grand Rapids, Mich./Grand Rapids Christian",womens track,michigan_state
+9,brown kynihay,"Muskegon, Mich./Muskegon",womens track,michigan_state
+10,bullough holly,"Traverse City, Mich./Traverse City St. Francis",womens track,michigan_state
+11,clement nichole,"Saginaw, Mich./Heritage",womens track,michigan_state
+12,coleman drew,"Southfield, Mich./Oak Park",womens track,michigan_state
+13,daniels katelyn,"Lewis Center, Ohio/Olentangy Orange",womens track,michigan_state
+14,dipietro ellen,"Marshfield, Mass./Marshfield",womens track,michigan_state
+15,farrell maggie,"Battle Creek, Mich./Battle Creek Lakeview",womens track,michigan_state
+16,fleischmann morgan,"Munger, Mich./Reese",womens track,michigan_state
+17,franklin sophia,"Okemos, Mich./Okemos",womens track,michigan_state
+18,fuller annie,"Manistee, Mich./Manistee",womens track,michigan_state
+19,george amanda,"Flint, Mich./Davison",womens track,michigan_state
+20,girardot patricia,"Birmingham, Mich./Seaholm",womens track,michigan_state
+21,goethals jessica,"Rochester, Mich./Rochester",womens track,michigan_state
+22,gram lynsie,"Clarkston, Mich./Clarkston",womens track,michigan_state
+23,hanson nicole,"Clarkston, Mich./Clarkston",womens track,michigan_state
+24,hanson samantha,"Sterling Heights, Mich./Sterling Heights Stevenson",womens track,michigan_state
+25,hopp taylor,"Jenison, Mich./Jenison",womens track,michigan_state
+26,jagielski andrea,"Hillsdale, Mich./Hillsdale Academy",womens track,michigan_state
+27,janevski kayla,"Plymouth, Mich./Salem",womens track,michigan_state
+28,jefferson libby,"Hatfield, Pa./Springside Chestnut Hill Academy",womens track,michigan_state
+29,jenkins lauren,"Saugatuck, Mich./Saugatuck",womens track,michigan_state
+30,johnson bailey,"Grandville, Mich./Jenison",womens track,michigan_state
+31,johnson india,"Hilliard, Ohio/Hilliard Davidson",womens track,michigan_state
+32,johnson kayli,"Detroit, Mich./Grosse Pointe South",womens track,michigan_state
+33,johnson morgan,"Hayward, Wis./Hayward",womens track,michigan_state
+34,kaliszewski lauren,"Rochester Hills, Mich./Rochester",womens track,michigan_state
+35,kavulich kayla,"Plymouth, Mich/Salem",womens track,michigan_state
+36,keller erin,"White Lake, Mich./Lakeland",womens track,michigan_state
+37,kettel sarah,"Brighton, Mich./Capitol Homeschool",womens track,michigan_state
+38,kiprotich faith,"Kentwood, Mich./East Kentwood",womens track,michigan_state
+39,leroux gabriella,"Muskegon, Mich./Spring Lake",womens track,michigan_state
+40,madison jade,"New Buffalo, Mich./New Buffalo",womens track,michigan_state
+41,magness jenna,"Grand Ledge, Mich./Grand Ledge",womens track,michigan_state
+42,mammel rebecca,"Tecumseh, Mich./Tecumseh",womens track,michigan_state
+43,martella carlie,"Gaylord, Mich./Gaylord",womens track,michigan_state
+44,mcclintock dillon,"Owosso, Mich./Owosso",womens track,michigan_state
+45,mcdonald erin,"Midland, Mich./Dow",womens track,michigan_state
+46,monroe natalie,"Brighton, Mich./Brighton",womens track,michigan_state
+47,mossholder casey,"DeWitt, Mich./DeWitt",womens track,michigan_state
+48,mullins taylor,"Clarkston, Mich./Clarkston",womens track,michigan_state
+49,pajot steph,"Auburn, Mich./Bay City Western",womens track,michigan_state
+50,pangori andrea,"Clarkston, Mich./Notre Dame Prep",womens track,michigan_state
+51,poe jeralyn,"Lincoln, Neb./Lincoln North Star",womens track,michigan_state
+52,powell kamie,"Ann Arbor, Mich./Dexter",womens track,michigan_state
+53,rathwell haley,"Commerce, Mich./Lakeland",womens track,michigan_state
+54,reynolds asya,"Cleveland, Ohio/Brush",womens track,michigan_state
+55,roberts maya,"Farmington Hills, Mich./Harrison",womens track,michigan_state
+56,robinson autumn,Washington D.C./Elizabeth Seton,womens track,michigan_state
+57,roethlisberger sarah,"Shepherd, Mich./Shepherd",womens track,michigan_state
+58,rogers jenny,"Farmington, Mich./Farmington",womens track,michigan_state
+59,rudden lindsey,"Marquette, Mich./Marquette",womens track,michigan_state
+60,rustmann julia,"Grosse Pointe, Mich./Grosse Pointe North",womens track,michigan_state
+61,rustmann sarah,"Grosse Pointe, Mich./Grosse Pointe North",womens track,michigan_state
+62,sargent niki,"Fenton, Mich./Flint Powers Catholic",womens track,michigan_state
+63,schwartz kelsie,"Grosse Pointe, Mich./Grosse Pointe South",womens track,michigan_state
+64,smallegan heather,"Holland, Mich./Zeeland East",womens track,michigan_state
+65,smith karrigan,"St. Johns, Mich./St. Johns",womens track,michigan_state
+66,spann denise,"Coconut Creek, Fla./Boyd Anderson",womens track,michigan_state
+67,spreng rachel,"Lansing, Mich./Okemos",womens track,michigan_state
+68,steffke emily,"Beal City, Mich./Beal City",womens track,michigan_state
+69,vanis stephanie,"East Lansing, Mich./East Lansing",womens track,michigan_state
+70,way amber,"Charlevoix, Mich./Charlevoix",womens track,michigan_state
+71,weiler mackenzie,"Cedar Springs, Mich./Cedar Springs",womens track,michigan_state
+72,welch kelcy,"Carmel, Ind./Carmel",womens track,michigan_state
+73,wiitala kayla,"Colorado Springs, Co./Air Academy",womens track,michigan_state
+74,wilberding aubrey,"Birmingham, Mich./Seaholm",womens track,michigan_state
+0,atienza nathan,"Livonia, Mich./Franklin",wrestling,michigan_state
+1,beard chase,"Allegan, Mich./Allegan",wrestling,michigan_state
+2,black brendan,"Hobart, Ind./Hobart",wrestling,michigan_state
+3,britton jwan,"Muskegon, Mich./Whitehall",wrestling,michigan_state
+4,caffey cameron,"Carbondale, Ill./Carbondale",wrestling,michigan_state
+5,curtin ethan,"Holland, Mich./West Ottawa",wrestling,michigan_state
+6,eicher austin,"Fenton, Mich./Northern Illinois",wrestling,michigan_state
+7,ellis nathan,"Holly, Mich./Lake Erie",wrestling,michigan_state
+8,enriquez jaden,"Tulare, Calif./Tulare",wrestling,michigan_state
+9,foley rayvon,"Ann Arbor, Mich./Pioneer",wrestling,michigan_state
+10,gasca javier,"Kingsburg, Calif./Kingsburg",wrestling,michigan_state
+11,griffin logan,"Erie Township, Mich./Erie Mason",wrestling,michigan_state
+12,hiles austin,"Brecksville, Ohio/Brecksville",wrestling,michigan_state
+13,hrisopoulos alex,"Shelby Township, Mich./Oxford",wrestling,michigan_state
+14,hughes drew,"Lowell, Ind./Lowell",wrestling,michigan_state
+15,koenig kevin,"Laingsburg, Mich./Laingsburg",wrestling,michigan_state
+16,krauss kole,"Grand Rapids, Mich./Grand Rapids Catholic Central",wrestling,michigan_state
+17,kruse danny,"Lowell, Mich./Lowell",wrestling,michigan_state
+18,lloyd matt,"Lansing, Mich./Grand Ledge",wrestling,michigan_state
+19,malczewski austen,"Washington, Mich./Romeo",wrestling,michigan_state
+20,may nick,"Kalamazoo, Mich./Loy Norrix",wrestling,michigan_state
+21,muscato jimmy,"Pinckney, Mich./Pinckney",wrestling,michigan_state
+22,nye cole,"Harrisburg, Pa./Bishop McDevitt",wrestling,michigan_state
+23,okaiye matt,"Waterford, Mich./Waterford Kettering",wrestling,michigan_state
+24,rebottaro christian,"Scotts Valley, Calif./Monte Vista Christian",wrestling,michigan_state
+25,renicker jackson,"Brighton, Mich./Brighton",wrestling,michigan_state
+26,ritchie logan,"New Boston, Mich./Huron",wrestling,michigan_state
+27,ross jackson,"Brighton, Mich./Detroit Catholic Central",wrestling,michigan_state
+28,saldana julian,"Melvindale, Mich./Melvindale",wrestling,michigan_state
+29,santos matt,"Saginaw, Mich./Swan Valley",wrestling,michigan_state
+30,shadaia shwan,"Rochester Hills, Mich./Rochester",wrestling,michigan_state
+31,smith clay,"Stafford, Va./Colonial Forge",wrestling,michigan_state
+32,stanfield warren,"Walled Lake, Mich./Central",wrestling,michigan_state
+33,thompson austin,"Marysville, Mich./Marysville",wrestling,michigan_state
+34,tucker jake,"Lowell, Ind./Mt. Carmel (Ill.)",wrestling,michigan_state
+35,wilton brad,"Mason, Mich./Mason",wrestling,michigan_state
+0,fletcher mairi,"Glasgow, Scotland/Hutchesons' Grammar School",womens field hockey,michigan_state
+1,miller katie,"Country Kildare, Ireland/The King's Hospital",womens field hockey,michigan_state
+2,santi grace,"Oceanport, NJ/Shore Regional",womens field hockey,michigan_state
+3,siegel samantha,"Bedminster, NJ/Bernards High School",womens field hockey,michigan_state
+4,robinson amanda,"Mount Joy, Pa./Donegal High School",womens field hockey,michigan_state
+5,sinisi lia,"North Caldwell, N.J./West Essex High School",womens field hockey,michigan_state
+6,cole meghan,"Chelsea, Mich./Chelsea",womens field hockey,michigan_state
+7,cole maggie,"Chelsea, Mich./Chelsea",womens field hockey,michigan_state
+8,macadré sophie,"Wellington, New Zealand/Queen Margaret College",womens field hockey,michigan_state
+9,brown makenzie,"Glasgow, Scotland/Kelvinside Academy",womens field hockey,michigan_state
+10,o'neill madison,"Hummelstown, Pa./Lower Dauphin High School",womens field hockey,michigan_state
+11,higgins bailey,"Louisville, KY/Assumption High School",womens field hockey,michigan_state
+12,vann maddie,"Yorktown, VA/Tabb High School",womens field hockey,michigan_state
+13,ackers hannah,"White Haven, Pa./Crestwood",womens field hockey,michigan_state
+14,vagnoni simone,"Collegeville, Pa./Spring-Ford",womens field hockey,michigan_state
+15,post sawyer,"Oceanside, California/Vista High School",womens field hockey,michigan_state
+16,anderson kendal,"Shaker Heights, Ohio/Shaker Heights",womens field hockey,michigan_state
+17,mahon jillian,"Wilton, Conn./Wilton",womens field hockey,michigan_state
+18,bonshak cara,"Whitehall, Pa./Whitehall High School",womens field hockey,michigan_state
+19,ross meredith,"Berwyn, Pa./Conestoga High School",womens field hockey,michigan_state
+20,keener kelsey,"Millerstown, Pa./Greenwood",womens field hockey,michigan_state
+21,bonness lauren,"State College, Pa./State College Area",womens field hockey,michigan_state
+0,bagley madelyn,"Waterford, Mich/Our Lady of the Lakes",womens rowing,michigan_state
+1,becker jordan,"Flower Mound, Texas/Flower Mound",womens rowing,michigan_state
+2,bender molly,"Allen Park, Mich./Allen Park",womens rowing,michigan_state
+3,bushey kari,"Caseville, Mich./Laker",womens rowing,michigan_state
+4,butts violet,"Rockford, Mich./Rockford",womens rowing,michigan_state
+5,cantu annie,"Plano, Texas/Plano Senior",womens rowing,michigan_state
+6,carless sarah,"Kalamazoo, Mich./Homeschool",womens rowing,michigan_state
+7,connery danielle,"Middlesborough, UK/Yarm School",womens rowing,michigan_state
+8,daniels cameron,"Clarklake, Mich./Columbia Central",womens rowing,michigan_state
+9,doyle paige,"Cassopolis, Mich./Hartland",womens rowing,michigan_state
+10,eberhard caroline,,womens rowing,michigan_state
+11,faucher meaghan,"Brighton, Mich./Detroit Country Day",womens rowing,michigan_state
+12,gassman emma,"Avon, Ohio/Saint Joseph's Academy",womens rowing,michigan_state
+13,glatz madison,"Waxhaw, NC/Union County Early College",womens rowing,michigan_state
+14,gmeiner jennifer,"Grosse Pointe, Mich./Grosse Pointe North",womens rowing,michigan_state
+15,hampton abigail,"Portland, Mich./Portland",womens rowing,michigan_state
+16,harmon becca,"Coldwater, Mich./Coldwater",womens rowing,michigan_state
+17,hartigan emma,"Westminster, Calif./Mater Dei",womens rowing,michigan_state
+18,hayes rachel,"Sterling Heights, Mich./Cousino",womens rowing,michigan_state
+19,hentgen hannah,"Shelby Township, Mich./Lutheran North",womens rowing,michigan_state
+20,hesseltine claire,"Ann Arbor, Mich./Pioneer",womens rowing,michigan_state
+21,higgins kasidy,"Lake Orion, Mich./Lake Orion",womens rowing,michigan_state
+22,hojnaski julia,"Tampa, Fla./Academy of Holy Names",womens rowing,michigan_state
+23,inman mia,"Arlington Heights, Ill./Buffalo Grove",womens rowing,michigan_state
+24,jabara samantha,"Chelsea, Mich./Chelsea",womens rowing,michigan_state
+25,johnson kelsey,"Grandville, Mich./Jenison",womens rowing,michigan_state
+26,kennedy mary martha,"Mount Vision, N.Y./Cooperstown Central",womens rowing,michigan_state
+27,kingma cassie,"Grand Rapids, Mich./Western Michigan Christian",womens rowing,michigan_state
+28,kinney gigi,"Canton, Ohio/Jackson",womens rowing,michigan_state
+29,klei lindsey,"Shelby Township, Mich./Notre Dame Prep",womens rowing,michigan_state
+30,klein sophia,"Ann Arbor, Mich./Skyline",womens rowing,michigan_state
+31,koenig emilee,"Dayton, Ohio/Oakwood",womens rowing,michigan_state
+32,lindsey megan,"East Lansing, Mich./East Lansing",womens rowing,michigan_state
+33,mall emily,"Belleville, Mich./Belleville",womens rowing,michigan_state
+34,marek nicole,"Grosse Ile, Mich./Grosse Ile",womens rowing,michigan_state
+35,mcclelland mackenzie,"Lansing, Mich./Okemos",womens rowing,michigan_state
+36,mcconnell colleen,"Wilmette, Ill./New Trier",womens rowing,michigan_state
+37,menzel teresa,"White Lake, Mich./Lakeland",womens rowing,michigan_state
+38,nguyen caroline,"Caledonia, Mich./East Kentwood",womens rowing,michigan_state
+39,nielsen halle,"Ada, Mich./Forest Hills Central",womens rowing,michigan_state
+40,novar cameron,"Ann Arbor, Mich./Pioneer",womens rowing,michigan_state
+41,peel micah,"Whitehall, Mich./Rheeths-Puffer",womens rowing,michigan_state
+42,puidokas amy,"Grand Blanc, Mich./Grand Blanc",womens rowing,michigan_state
+43,richards nicky,"Rochester, Mich./Rochester Adams",womens rowing,michigan_state
+44,robinson emmy,"Novi, Mich./Novi",womens rowing,michigan_state
+45,rogers samantha,"Grand Rapids, Mich./GR Catholic Central",womens rowing,michigan_state
+46,rohde noelle,"Olivet, Mich./Olivet",womens rowing,michigan_state
+47,romero luisa,"LaPuente, Calif./Schurr",womens rowing,michigan_state
+48,schaekel madison,"Belleville, Mich./Belleville",womens rowing,michigan_state
+49,sherman kelsey,"Escondido, Calif./Romona",womens rowing,michigan_state
+50,smith ally,"Monroe, Mich./Monroe",womens rowing,michigan_state
+51,sturm madison,"Downers Grove, Ill./Downers Grove North",womens rowing,michigan_state
+52,sutka clare,"Wyandotte, Mich./Theodore Roosevelt",womens rowing,michigan_state
+53,uckele johanna,"South Haven, Mich./South Haven",womens rowing,michigan_state
+54,uebele becca,"Zionsville, Indiana/Zionsville Community",womens rowing,michigan_state
+55,vantine arianna,"Durand, Mich./Carman-Ainsworth",womens rowing,michigan_state
+56,willis katherine,"London, England/Hills Road Sixth-Form College",womens rowing,michigan_state
+57,wimbush monica,"Oak Park, Mich./Berkley",womens rowing,michigan_state
+58,wolski cailyn,"Victoria, B.C./Claremont Secondary",womens rowing,michigan_state
+59,worth hannah,"Auckland, New Zealand/Epsom Girls Grammar School",womens rowing,michigan_state
+60,zettler madison,"Macomb, Mich./Eisenhower",womens rowing,michigan_state
+0,foerster lea,"Portage, Mich/Portage Central",softball,michigan_state
+1,zalewski kristina,"Ann Arbor, Mich./Saline",softball,michigan_state
+2,echols ebonee,"Newnan, Ga./Northgate",softball,michigan_state
+3,quinlan katie,"Granger, Ind./Penn",softball,michigan_state
+4,joyner laney,"Woodstock, Ga./Auburn",softball,michigan_state
+5,davis jordan,"Glenview, Ill./Glenbrook South",softball,michigan_state
+6,watson jordan,"Franklin, Ga./Heard County",softball,michigan_state
+7,eveland kaitlyn,"Anaheim, Calif./Loara",softball,michigan_state
+8,bartz joanna,"Mattawan, Mich./Mattawan",softball,michigan_state
+9,ladd caitie,"Los Alamitos, Calif./Los Alamitos",softball,michigan_state
+10,zackrison kelly,"Hudsonville, Mich./Hudsonville",softball,michigan_state
+11,white lexi,"New Boston, Mich./Huron",softball,michigan_state
+12,shipp leah,"Woodbridge, Va./Brentsville District",softball,michigan_state
+13,carrasco kelcey,"Woodlake, Calif./Tulare Western",softball,michigan_state
+14,callahan summer,"New Boston, Mich./Huron",softball,michigan_state
+15,besson lindsey,"San Rafael, Calif./San Rafael",softball,michigan_state
+16,baccay melanie,"Elk Grove, Calif./St. Francis",softball,michigan_state
+17,long mckenzie,"Alta Loma, Calif./Los Osos",softball,michigan_state
+18,gregory mckenna,"Benicia, Calif./Benicia",softball,michigan_state
+19,paxson riley,"Nashport, Ohio/Tri-Valley",softball,michigan_state
+20,rainey bridgette,"Acworth, Ga./Harrison",softball,michigan_state
+21,hendershott katelyn,"Ortonville, Mich./Lake Superior State",softball,michigan_state
+0,bailey autumn,"Burlington, Ontario/Marquette",womens volleyball,michigan_state
+1,norris meredith,"Owosso, Mich./Corunna",womens volleyball,michigan_state
+2,cox jamye,"Oregon, Ohio/St. Ursula",womens volleyball,michigan_state
+3,tompkins megan,"Petoskey, Mich./Petoskey",womens volleyball,michigan_state
+4,midgette maggie,"Westlake, Ohio/Magnificat",womens volleyball,michigan_state
+5,hatcher julia,"Lexington, Ky./Lexington Catholic",womens volleyball,michigan_state
+6,haggerty maddie,"Glen Ellyn, Ill./Central Florida",womens volleyball,michigan_state
+7,monson abby,"Lakeville, Minn./Lakeville North",womens volleyball,michigan_state
+8,chronowski alyssa,"Munster, Indiana/Munster",womens volleyball,michigan_state
+9,minarick rachel,"Naperville, Ill./Waubonsie Valley",womens volleyball,michigan_state
+10,kranda brooke,"Westfield, Ind./Westfield",womens volleyball,michigan_state
+11,swartz lauren,"Pittsburgh, Penn./North Allegheny",womens volleyball,michigan_state
+12,legarza bella,"San Francisco, Calif./St. Ignatius College Prep",womens volleyball,michigan_state
+13,garvelink alyssa,"Holland, Mich./Holland Christian",womens volleyball,michigan_state
+14,toliver holly,"Berrien Springs, Mich./Berrien Springs",womens volleyball,michigan_state
+15,mclean samantha,"Grand Rapids, Mich./Grand Rapids Christian",womens volleyball,michigan_state
+0,beatty ashley,"Macomb Township, Mich./Utica Academy for International Studies",womens gymnastics,michigan_state
+1,brown tristan,"Dewitt, Mich./Dewitt High School",womens gymnastics,michigan_state
+2,chappell brittini,"Grand Blanc, Mich./Grand Blanc",womens gymnastics,michigan_state
+3,douglas gabriella,"Mississauga, Ontario/Christ the King Catholic Secondary School",womens gymnastics,michigan_state
+4,gamelo anna,"Toronto, Ontario/Northview Heights Secondary School",womens gymnastics,michigan_state
+5,hendershot drew,"Winston Salem, N.C./Forest Trail Academy",womens gymnastics,michigan_state
+6,hoerner o'malley molly,"Farmington Hills, Mich./North Farmington High School",womens gymnastics,michigan_state
+7,hoyer alexandra,"Grayslake, Ill./Grayslake North",womens gymnastics,michigan_state
+8,huehn victoria,"Ann Arbor, Mich./Huron",womens gymnastics,michigan_state
+9,jaranowski tessa,"Milford, Mich./Texas Woman's University",womens gymnastics,michigan_state
+10,ling jessica,"Wixom, Mich./Walled Lake Central",womens gymnastics,michigan_state
+11,lupinetti michelina,"Harrisburg, Pa./Bishop McDevitt High School",womens gymnastics,michigan_state
+12,maxim anne,"Clinton Township, Mich./Chippewa Valley High School",womens gymnastics,michigan_state
+13,mchale madison,"Naperville, Ill./Waubonsie Valley High School",womens gymnastics,michigan_state
+14,mitchell lea,"Boynton Beach, Fla./Boynton Beach Community High School",womens gymnastics,michigan_state
+15,shirley roya,"Virginia Beach, Va./Kempsiville High School",womens gymnastics,michigan_state
+16,westney hailee,"Milton, Ontario/Mount Carmel Secondary",womens gymnastics,michigan_state
+17,wittebort isabelle,"Clarkston, Mich./Clarkston High School",womens gymnastics,michigan_state
+0,osburn zach,"Plymouth, Mich.",mens hockey,michigan_state
+1,scarsella anthony,"White Lake, Mich.",mens hockey,michigan_state
+2,chrcek damian,"Marysville, Mich.",mens hockey,michigan_state
+3,lewandowski mitchell,"Clarkston, Mich.",mens hockey,michigan_state
+4,saliba sam,"Lincolnshire, Ill.",mens hockey,michigan_state
+5,apap tommy,"Bloomfield Hills, Mich.",mens hockey,michigan_state
+6,miller tommy,"West Bloomfield, Mich.",mens hockey,michigan_state
+7,sanford brennan,"East Lansing, Mich.",mens hockey,michigan_state
+8,pavelek dylan,"Marysville, Mich.",mens hockey,michigan_state
+9,stevens brody,"Ann Arbor, Mich.",mens hockey,michigan_state
+10,hirose taro,"Calgary, Alberta",mens hockey,michigan_state
+11,gatt carson,"South Lyon, Mich.",mens hockey,michigan_state
+12,keefer david,"Brighton, Mich.",mens hockey,michigan_state
+13,smith jake,"East Amherst, N.Y.",mens hockey,michigan_state
+14,milan cody,"White Lake, Mich.",mens hockey,michigan_state
+15,kamer austin,"Grand Rapids, Mich.",mens hockey,michigan_state
+16,esteves gianluca,"Winnipeg, Manitoba",mens hockey,michigan_state
+17,lethemon john,"Northville, Mich.",mens hockey,michigan_state
+18,wright spencer,"Farmington Hills, Mich.",mens hockey,michigan_state
+19,ghafari butrus,"West Bloomfield, Mich.",mens hockey,michigan_state
+20,minney ed,"Wind Gap, Pa.",mens hockey,michigan_state
+21,khodorenko patrick,"Walnut Creek, Calif.",mens hockey,michigan_state
+22,rosburg jerad,"Clarksville, Md.",mens hockey,michigan_state
+23,lambdin logan,"Newport, Mich.",mens hockey,michigan_state

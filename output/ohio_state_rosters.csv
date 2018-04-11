@@ -1,0 +1,934 @@
+,name,hometown,sport,school
+0,potter micah,"Mentor, Ohio (Montverde Academy)",mens basketball,ohio_state
+1,tate jae'sean,"Pickerington, Ohio (Pickerington Central)",mens basketball,ohio_state
+2,jallow musa,"Bloomington, Ind. (North)",mens basketball,ohio_state
+3,jackson c.j.,"Charlotte, N.C. (Eastern Florida State)",mens basketball,ohio_state
+4,dakich andrew,"Zionsville, Ind. (University of Michigan)",mens basketball,ohio_state
+5,lane joey,"Deerfield, Ill. (Deerfield)",mens basketball,ohio_state
+6,williams kam,"Baltimore, Md. (Mount St. Joseph's)",mens basketball,ohio_state
+7,wesson andre,"Westerville, Ohio (South)",mens basketball,ohio_state
+8,young kyle,"Massillon, Ohio (Jackson)",mens basketball,ohio_state
+9,bates-diop keita,"Normal, Ill. (University High)",mens basketball,ohio_state
+10,wesson kaleb,"Westerville, Ohio (South)",mens basketball,ohio_state
+11,hummer danny,"Upper Arlington, Ohio (Air Force Academy)",mens basketball,ohio_state
+12,lehmann matt,"Columbus, Ohio (Bishop Watterson)",mens basketball,ohio_state
+13,fulton connor,"Salt Lake City, Utah (Alta)",mens basketball,ohio_state
+0,mavunga stephanie,"Brownsburg, Ind. (North Carolina)",womens basketball,ohio_state
+1,mitchell kelsey,"Cincinnati, Ohio (Princeton)",womens basketball,ohio_state
+2,calhoun sierra,"Brooklyn, N.Y. (Duke)",womens basketball,ohio_state
+3,mitchell chelsea,"Cincinnati, Ohio (Princeton)",womens basketball,ohio_state
+4,jayaraman savitha,"Powell, Ohio (Olentangy Liberty)",womens basketball,ohio_state
+5,cronin karlie,"Oakton, Va. (Oakton)",womens basketball,ohio_state
+6,harper linnae,"Chicago, Ill. (Kentucky)",womens basketball,ohio_state
+7,doss asia,"Detroit, Mich. (Country Day School)",womens basketball,ohio_state
+8,hart alexa,"Columbus, Ohio (Africentric)",womens basketball,ohio_state
+9,waterman makayla,"Kettering, Ohio (Fairmont)",womens basketball,ohio_state
+10,caretti jensen,"Clarington, Ohio (River)",womens basketball,ohio_state
+0,barnwell jacob,"Catlettsburg, Ky. (Boyd County)",baseball,ohio_state
+1,canzone dominic,"Sagamore Hills, Ohio (Walsh Jesuit)",baseball,ohio_state
+2,carpenter matt,"Aurora, Ohio (Aurora)",baseball,ohio_state
+3,cherry brady,"Pendleton, Ind. (Lapel)",baseball,ohio_state
+4,coolen bo,"Honolulu, Hawaii (Cypress College)",baseball,ohio_state
+5,cowles tyler,"Grove City, Ohio (Sinclair CC)",baseball,ohio_state
+6,curlis connor,"Findlay, Ohio (Findlay)",baseball,ohio_state
+7,dingler dillon,"Massillon, Ohio (Jackson)",baseball,ohio_state
+8,duermit luke,"Fishers, Ind. (Fishers)",baseball,ohio_state
+9,feltner ryan,"Hudson, Ohio (Walsh Jesuit)",baseball,ohio_state
+10,fishel andrew,"Charlotte, N.C. (Providence)",baseball,ohio_state
+11,foppe kobie,"Phoenix, Ariz. (South Mountain CC)",baseball,ohio_state
+12,irving curtiss,"Greenfield, Ind. (Central)",baseball,ohio_state
+13,jahn jonathan,"Augusta, Ga. (South Carolina)",baseball,ohio_state
+14,jones malik,"Richardson, Texas (Weatherford CC)",baseball,ohio_state
+15,jourdan dustin,"Austin, Texas (McLennan CC)",baseball,ohio_state
+16,kinker seth,"Huntington, W.Va. (Cabell-Midland)",baseball,ohio_state
+17,lonsway seth,"Celina, Ohio (Celina)",baseball,ohio_state
+18,magno andrew,"Dublin, Ohio (Scioto)",baseball,ohio_state
+19,mcgowan noah,"Houston, Texas (McLennan CC)",baseball,ohio_state
+20,michalik kyle,"Brunswick, Ohio (Brunswick)",baseball,ohio_state
+21,niemeyer adam,"Minster, Ohio (Minster)",baseball,ohio_state
+22,pavlopoulos yianni,"Homer Glen, Ill. (Providence Catholic)",baseball,ohio_state
+23,pohl conner,"Arcanum, Ohio (Arcanum)",baseball,ohio_state
+24,romans nate,"Canton, Ohio (Meridian College)",baseball,ohio_state
+25,ruby jake,"Groveport, Ohio (Bishop Hartley)",baseball,ohio_state
+26,seymour scottie,"Holland, Ohio (Springfield)",baseball,ohio_state
+27,smith griffan,"Cincinnati, Ohio (Cincinnati Hills Christian Academy)",baseball,ohio_state
+28,theis alex,"New Riegel, Ohio (New Riegel)",baseball,ohio_state
+29,vance jake,"Canton, Ohio (Central Catholic)",baseball,ohio_state
+30,waning thomas,"Maple City, Mich. (Lincoln Trail)",baseball,ohio_state
+31,west noah,"Westerville, Ohio (Westerville Central)",baseball,ohio_state
+32,winand ridge,"Butler, Ohio (Clear Fork)",baseball,ohio_state
+33,woodby austin,"Cincinnati, Ohio (Cincinnati)",baseball,ohio_state
+0,dixon johnnie,"West Palm Beach, Fla. (Dwyer)",football,ohio_state
+1,okudah jeffrey,"Grand Prairie, Texas (South Grand Prairie)",football,ohio_state
+2,dobbins j.k.,"La Grange, Texas (La Grange)",football,ohio_state
+3,young chase,"Upper Marlboro, Md. (DeMatha Catholic)",football,ohio_state
+4,fuller jordan,"Norwood, N.J. (Old Tappan)",football,ohio_state
+5,browning baron,"Fort Worth, Texas (Kennedale)",football,ohio_state
+6,curtis kory,"Cape Coral, Fla. (Island Coast)",football,ohio_state
+7,haskins dwayne,"Potomac, Md. (Bullis School)",football,ohio_state
+8,sheffield kendall,"Missouri City, Texas",football,ohio_state
+9,cornell jashon,"St. Paul, Minn. (Cretin-Derham Hall)",football,ohio_state
+10,victor binjimen,"Pompano Beach, Florida (Coconut Creek)",football,ohio_state
+11,burrow joe,"The Plains, Ohio (Athens)",football,ohio_state
+12,riep amir,Cincinnati (Colerain),football,ohio_state
+13,mack austin,"Fort Wayne, Ind. (Bishop Luers)",football,ohio_state
+14,baldwin matthew,"Austin, Texas (Lake Travis)",football,ohio_state
+15,banks sevyn,"Orlando, Fla. (Jones)",football,ohio_state
+16,johnson tyreke,"Jacksonville, Fla. (Trinity Christian Academy)",football,ohio_state
+17,hill k.j.,"Little Rock, Ark. (North Little Rock)",football,ohio_state
+18,pryor isaiah,"Lawrenceville, Ga. (IMG Academy)",football,ohio_state
+19,davis wayne,"Norfolk, Va (Lake Taylor H.S.)",football,ohio_state
+20,harris jaylen,Cleveland (Cleveland Heights),football,ohio_state
+21,jones keandre,"Olney, Md. (Good Counsel)",football,ohio_state
+22,cooper jonathon,"Gahanna, Ohio (Lincoln)",football,ohio_state
+23,martell tate,"Las Vegas, Nevada (Bishop Gorman)",football,ohio_state
+24,gant dallas,"Toledo, Ohio (St. John's Jesuit)",football,ohio_state
+25,metzer jake,"Doylestown, Pa. (Central Bucks West)",football,ohio_state
+26,sinclair darryl,"Solon, Ohio (Solon)",football,ohio_state
+27,werner pete,Indianapolis (Catherdral),football,ohio_state
+28,campbell parris,Akron (St. Vincent-St. Mary),football,ohio_state
+29,williamson marcus,"Westerville, Ohio (IMG Academy)",football,ohio_state
+30,white de'shawn,"Canton, Ohio (McKinley)",football,ohio_state
+31,wint jahsen,"Brooklyn, N.Y. (Erasmus Hall)",football,ohio_state
+32,wade shaun,"Jacksonville, Florida (Trinity Christian Academy)",football,ohio_state
+33,weber mike,"Detroit, Mich. (Cass Tech)",football,ohio_state
+34,white brendon,"Powell, Ohio (Olentangy Liberty)",football,ohio_state
+35,blanton michael,"Cincinnati, Ohio",football,ohio_state
+36,williams antonio,"New London, N.C. (North Stanly)",football,ohio_state
+37,demaccio dominic,"Columbus, Ohio (DeSales)",football,ohio_state
+38,knight jeremiah,"Jefferson, Ohio (Jefferson Area)",football,ohio_state
+39,dever kevin,"Cleveland, Ohio (St. Edward's)",football,ohio_state
+40,mccall demario,"North Ridgeville, Ohio (North Ridgeville H.S.)",football,ohio_state
+41,borland tuf,"Bolingbrook, Ill. (Bolingbrook)",football,ohio_state
+42,booker dante,Akron (St. Vincent-St. Mary),football,ohio_state
+43,teague master,"Murfreesboro, Tenn. (Blackman)",football,ohio_state
+44,rossi mitch,"Franklin, Tenn. (Franklin)",football,ohio_state
+45,backenstoe alex,"Hilliard, OH (Davidson)",football,ohio_state
+46,malone derrick,"Dayton, Ohio (Thurgood Marshall H.S.)",football,ohio_state
+47,beck alex,"Hudson, Ohio (Hudson)",football,ohio_state
+48,berry rashod,"Lorain, Ohio (Lorain)",football,ohio_state
+49,harrison malik,"Columbus, Ohio (Walnut Ridge)",football,ohio_state
+50,jester hayden,"Cincinnati, Ohio (LaSalle)",football,ohio_state
+51,robinson bradley,"Troy, Mich. (Athens)",football,ohio_state
+52,mcmahon amari,"Dublin, Ohio (Scioto)",football,ohio_state
+53,arnette damon,"Fort Lauderdale, Fla. (St. Thomas Aquinas)",football,ohio_state
+54,hilliard justin,"Cincinnati, Ohio (St. Xavier)",football,ohio_state
+55,duarte tate,"Poland, Ohio (Poland)",football,ohio_state
+56,mccullough liam,"Columbus, Ohio (Worthington Kilbourne)",football,ohio_state
+57,brock nathan,"Powell, Ohio (Olentangy Liberty)",football,ohio_state
+58,jackson antwuan,"Ellenwood, Ga. (Cedar Grove)",football,ohio_state
+59,davis wyatt,"Bellflower, Calif. (St. John Bosco)",football,ohio_state
+60,hamilton davon,"Pickerington, Ohio (Central)",football,ohio_state
+61,jones matthew,"Brooklyn, N.Y. (Erasmus Hall)",football,ohio_state
+62,barrow malik,"Tampa, Fla. (Catholic & IMG Academy)",football,ohio_state
+63,cox aaron,"Mantua, Ohio (Crestwood)",football,ohio_state
+64,alabi joshua,"Detroit, Mich. (Cass Tech)",football,ohio_state
+65,prince isaiah,"Greenbelt, Md. (Eleanor Roosevelt)",football,ohio_state
+66,pfenning blake,"Wapakoneta, Ohio (Wapakoneta)",football,ohio_state
+67,cupp gavin,"Leipsic, Ohio (Leipsic H.S.)",football,ohio_state
+68,pahl brandon,"Cutler, Ohio (Warren)",football,ohio_state
+69,woidke kevin,"Cleveland, Ohio (St. Ignatius)",football,ohio_state
+70,thomas phillip,"Louisville, Ohio (Louisville)",football,ohio_state
+71,pridgeon malcolm,"Central Islip, N.Y (Central Islip H.S.)",football,ohio_state
+72,landers robert,"Dayton, Ohio (Huber Heights Wayne)",football,ohio_state
+73,hamdan zaid,"Mason, Ohio (Mason)",football,ohio_state
+74,burrell matthew,"Woodbridge, Va. (Hylton)",football,ohio_state
+75,donald noah,"Uniontown, Ohio (Walsh Jesuit)",football,ohio_state
+76,myers josh,"Miamisburg, Ohio (Miamisburgh)",football,ohio_state
+77,togiai tommy,"Pocatello, Idaho (Highland)",football,ohio_state
+78,jordan michael,"Canton, Mich. (Plymouth)",football,ohio_state
+79,wray max,"Franklin, Tenn. (Franklin)",football,ohio_state
+80,munford thayer,"Cincinnati, Ohio (Massillon Washington)",football,ohio_state
+81,bowen branden,"Draper, Utah (Corner Canyon)",football,ohio_state
+82,knox demetrius,"Fort Worth, Texas (All Saints Episcopal)",football,ohio_state
+83,taylor brady,"Columbus, Ohio (Bishop Ready)",football,ohio_state
+84,saunders c.j.,"Dublin, Ohio (Coffman H.S)",football,ohio_state
+85,hausmann jake,"Cincinnati, Ohio (Archbishop Moeller)",football,ohio_state
+86,prater garyn,"Cincinnati, Ohio (Wyoming)",football,ohio_state
+87,mclaurin terry,Indianapolis (Cathedral),football,ohio_state
+88,davin brock,"Cincinnati, Ohio (St. Xavier)",football,ohio_state
+89,jones dre'mont,"Cleveland, Ohio (St. Ignatius)",football,ohio_state
+90,gardiner ellijah,"Kemp, Texas (Kemp)",football,ohio_state
+91,farrell luke,"Perry, Ohio (Perry H.S.)",football,ohio_state
+92,kristan bryan,"Canfield, Ohio (Canfield)",football,ohio_state
+93,chrisman drue,"Cincinnati, Ohio (Cincinnati LaSalle H.S.)",football,ohio_state
+94,garrett haskell,"Las Vegas, Nev. (Bishop Gorman)",football,ohio_state
+95,haubeil blake,"Buffalo, N.Y. (Canisius)",football,ohio_state
+96,nuernberger sean,"Buckner, Ky. (Oldham Co.)",football,ohio_state
+97,bosa nick,"Fort Lauderdale, Fla. (St. Thomas Aquinas)",football,ohio_state
+98,cage jerron,"Cincinnati, OH (Winton Woods)",football,ohio_state
+0,siegfried parker,"Granville, Ohio (Granville)",mens soccer,ohio_state
+1,blackwood kevin,"Kingston, Jamaica (Cleveland State)",mens soccer,ohio_state
+2,swann john,"Seattle, Wash. (O'Dea)",mens soccer,ohio_state
+3,blackwell brady,"Dublin, Ohio (San Diego State)",mens soccer,ohio_state
+4,logue niall,"Derry, Northern Ireland (Yavapai Junior College)",mens soccer,ohio_state
+5,robertson hunter,"Westerville, Ohio (Westerville Central)",mens soccer,ohio_state
+6,duska jacob,"Erie, Pa. (Michigan)",mens soccer,ohio_state
+7,prosuk michael,"Westfield, N.J. (St. John's)",mens soccer,ohio_state
+8,jackson-ketchup joshua,"Margate, Fla. (Montverde Academy)",mens soccer,ohio_state
+9,hirschman will,"Carmel, Ind. (Brebeuf Jesuit Preparatory)",mens soccer,ohio_state
+10,goyen jacob,"Frisco, Texas (Lone Star)",mens soccer,ohio_state
+11,mccrary marcus,"Madison, Wis. (Madison LaFollette)",mens soccer,ohio_state
+12,nichols alex,"Fishers, Ind. (Fishers)",mens soccer,ohio_state
+13,kossaka leo,"Sherbrooke, Quebec (Saint-Exupery Secondary School)",mens soccer,ohio_state
+14,alexis theo,"London, England (Canons)",mens soccer,ohio_state
+15,holland jack,"Dublin, Ohio (Dublin Coffman)",mens soccer,ohio_state
+16,dichlian michael,"Copley, Ohio (Copley)",mens soccer,ohio_state
+17,etling devyn,"Ashland, Ohio (Ashland)",mens soccer,ohio_state
+18,scheper jake,"Cincinnati, Ohio (DePaul)",mens soccer,ohio_state
+19,abonce david,"Colony, Texas (Colony)",mens soccer,ohio_state
+20,harter christian,"Copley, Ohio (Copley)",mens soccer,ohio_state
+21,mohamed abdi,"Westerville, Ohio (Westerville Central)",mens soccer,ohio_state
+22,kohl nate,Hilliard Darby (Michigan),mens soccer,ohio_state
+23,kennedy xavier,"Montclair, N.J. (Montclair)",mens soccer,ohio_state
+24,kiley matt,"Dublin, Ohio (Dublin Coffman)",mens soccer,ohio_state
+25,carraher chase,"McKinney, Texas (McKinney North)",mens soccer,ohio_state
+26,bergman mitch,"Canal Winchester, Ohio (Bishop Hartley)",mens soccer,ohio_state
+27,davis brennon,"Dublin, Ohio (Dublin Jerome)",mens soccer,ohio_state
+28,harms gabe,"Berwyn, Pa. (Conestoga)",mens soccer,ohio_state
+0,baumbick alyssa,"Avon Lake, Ohio (University of Florida)",womens soccer,ohio_state
+1,birzon marissa,"East Amherst, N.Y. (Williamsville East)",womens soccer,ohio_state
+2,bowers riley,"Clarence Center, N.Y. (Clarence Senior)",womens soccer,ohio_state
+3,cason nya,"Worthington, Ohio (Thomas Worthington)",womens soccer,ohio_state
+4,dudley sydney,"Loveland, Ohio (Loveland)",womens soccer,ohio_state
+5,edwards sammy,"Dublin, Ohio (Coffman)",womens soccer,ohio_state
+6,gabriel eleanor,"Louisville, Ky. (University of Tennessee)",womens soccer,ohio_state
+7,gazmarian brianna,"La Canada Flintridge, Calif. (Harvard Westlake)",womens soccer,ohio_state
+8,gazmarian courtney,"La Canada Flintridge, Calif. (Harvard Westlake)",womens soccer,ohio_state
+9,holden arden,"Las Vegas, Nev. (Centennial)",womens soccer,ohio_state
+10,kammerdeiner meghan,"South Riding, Va. (Freedom)",womens soccer,ohio_state
+11,karsh kaylee,"Mission Viejo, Calif. (Capistrano Valley)",womens soccer,ohio_state
+12,kerr devon,"Barrie, Ontario (Bill Crothers Secondary School)",womens soccer,ohio_state
+13,knight kylie,"Plymouth, Mich. (Salem)",womens soccer,ohio_state
+14,kolinski bailey,"Derry, N.H. (Brewster Academy)",womens soccer,ohio_state
+15,lipsey lexxe,"Southfield, Mich. (Wylie E. Groves)",womens soccer,ohio_state
+16,lisevick taylor,"Avon, Conn. (Avon)",womens soccer,ohio_state
+17,lowe maddy,"Webster, N.Y. (Webster Schroeder)",womens soccer,ohio_state
+18,mousset marike,"Montreal, Quebec",womens soccer,ohio_state
+19,patton caitlyn,"Canton, Ohio (Jackson)",womens soccer,ohio_state
+20,poncsak grace,"Lewis Center, Ohio (Olentangy Liberty)",womens soccer,ohio_state
+21,roberts sarah,"Aliso Viejo, Calif. (Aliso Niguel)",womens soccer,ohio_state
+22,rodriguez izzy,"Canton, Mich. (Salem)",womens soccer,ohio_state
+23,samanich maggie,"Brighton, Mich. (Brighton)",womens soccer,ohio_state
+24,vickery selina,"Friendswood, Texas (Friendswood)",womens soccer,ohio_state
+25,walker courtney,"Waxhaw, N.C. (Cuthbertson)",womens soccer,ohio_state
+26,walker-robinson haley,"Vista, Calif. (Rancho Buena Vista)",womens soccer,ohio_state
+27,walts nikki,"Scottsdale, Ariz. (Desert Mountain)",womens soccer,ohio_state
+28,wangsness emma,"Redwood City, Calif. (St. Francis)",womens soccer,ohio_state
+29,wolcott morgan,"Milford, Ohio (Milford)",womens soccer,ohio_state
+0,bauers steven,"Winchester, Ohio (Pickerington)",mens cross country,ohio_state
+1,bete paul,"Dayton, Ohio",mens cross country,ohio_state
+2,blank kevin,"Solon, Ohio (Solon)",mens cross country,ohio_state
+3,bowie clayton,"Indianapolis, Ind. (Southport)",mens cross country,ohio_state
+4,corbett noah,"Westerville, Ohio",mens cross country,ohio_state
+5,fajardo tyrese,"Glen Burnie, Md. (North County)",mens cross country,ohio_state
+6,hayden peter,"Bexley, Ohio (Bexley)",mens cross country,ohio_state
+7,hendriks aidin,"Egg Harbor Township, N.J. (Egg Harbor Township)",mens cross country,ohio_state
+8,johnson anthony,"Newark, Ohio (Newark)",mens cross country,ohio_state
+9,kunkel patrick,"McDonald, Ohio (San Francisco)",mens cross country,ohio_state
+10,landis luke,"Norwalk, Ohio (Norwalk)",mens cross country,ohio_state
+11,leitch mitch,"Columbus, Ohio (Dublin Jerome)",mens cross country,ohio_state
+12,lomong alex,"Fork Union, Va. (Fork Union Military Academy)",mens cross country,ohio_state
+13,mandel jake,"Columbus, Ohio (Dublin Jerome)",mens cross country,ohio_state
+14,stifel evan,"Cincinnati, Ohio (Belmont)",mens cross country,ohio_state
+15,wood aaron,"Lancaster, Ohio (William V. Fisher)",mens cross country,ohio_state
+0,atkinson brittany,"Liberty Center, Ohio (Liberty Center)",womens cross country,ohio_state
+1,ayoub aziza,"Plain City, Ohio (Jonathan Alder)",womens cross country,ohio_state
+2,clody courtney,"Perrysburg, Ohio (Perrysburg)",womens cross country,ohio_state
+3,figler mary,"Akron, Ohio (Walsh Jesuit)",womens cross country,ohio_state
+4,frederick christine,"Cincinnati, Ohio (Ursuline Academy)",womens cross country,ohio_state
+5,gyurke erin,"Oregon, Ohio (Clay-Oregon)",womens cross country,ohio_state
+6,hoellrich emma,"Rockbridge, Ohio (Fairfield Union)",womens cross country,ohio_state
+7,kanney sarah,"Coldwater, Ohio (NC State)",womens cross country,ohio_state
+8,leahy devon,"Westfield, Ind. (Westfield)",womens cross country,ohio_state
+9,millican caroline,"Cleveland, Ohio (Hathaway Brown)",womens cross country,ohio_state
+10,nichols abby,"Ketterington, Ohio (Archbishop Alter)",womens cross country,ohio_state
+11,passwater jessica,"Columbus, Ohio (Bishop Watterson)",womens cross country,ohio_state
+12,rizk julia,"Blacklick, Ohio (UCLA)",womens cross country,ohio_state
+13,robinson vanessa,"Dublin, Ohio (Cincinnati)",womens cross country,ohio_state
+14,sandlin kelsey,"Gahanna, Ohio (Lincoln)",womens cross country,ohio_state
+15,saniel-banrey lilly,"Hilliard, Ohio (Davidson)",womens cross country,ohio_state
+16,smith olivia,"Tiffin, Ohio (Tiffin-Calvert)",womens cross country,ohio_state
+17,soehnlen kacee,"Canton, Ohio (St. Thomas Aquinas)",womens cross country,ohio_state
+18,soehnlen kalee,"Canton, Ohio (St. Thomas Aquinas)",womens cross country,ohio_state
+19,stoodley emily,"Columbus, Ohio (Worthington Kilbourne)",womens cross country,ohio_state
+20,studebaker lainey,"Dayton, Ohio (Centerville)",womens cross country,ohio_state
+21,thomas grace,"Columbus, Ohio (Bishop Watterson)",womens cross country,ohio_state
+22,ubbing annie,"Avon Lake, Ohio (Magnificat)",womens cross country,ohio_state
+23,wiles claire,"Powell, Ohio (Olentangy Liberty)",womens cross country,ohio_state
+24,woods maddie,"Mishawaka, Ind. (Penn)",womens cross country,ohio_state
+0,alford jonerik,"Johns Creek, Ga. (Mount Pisgah Christian School)",mens golf,ohio_state
+1,coughlin iii jeg,"Delaware, Ohio (Village Academy)",mens golf,ohio_state
+2,grimmer will,"Cincinnati, Ohio (Mariemont H.S.)",mens golf,ohio_state
+3,mancinotti jack,"Toledo, Ohio (St. John's Jesuit H.S.)",mens golf,ohio_state
+4,orewiler caden,"Caledonia, Ohio (River Valley H.S.)",mens golf,ohio_state
+5,ramirez caleb,"Blythe, Calif. (Mount Olive Christian H.S.)",mens golf,ohio_state
+6,stone kevin,"Carmel, Ind. (Carmel H.S.)",mens golf,ohio_state
+7,voetsch will,"New Vernon, N.J. (Rice University)",mens golf,ohio_state
+8,wetterich daniel,"Cincinnati, Ohio (Xavier University)",mens golf,ohio_state
+9,wick josh,"Upper Arlington, Ohio (Upper Arlington H.S.)",mens golf,ohio_state
+10,wick justin,"Upper Arlington, Ohio (Upper Arlington H.S.)",mens golf,ohio_state
+0,lee jaclyn,"Calgary, Alberta (Central Memorial H.S.)",womens golf,ohio_state
+1,long lexie,"Dublin, Ohio (Coffman)",womens golf,ohio_state
+2,sakuma alanis,"Kapolei, Hawaii (Island Pacific Academy)",womens golf,ohio_state
+3,schroeder niki,"Avon Lake, Ohio (Avon Lake H.S.)",womens golf,ohio_state
+4,seldemirova sofia,"Sofia, Bulgaria (Russian School)",womens golf,ohio_state
+5,shears adeena,"Parkersburg, W.Va. (Parkersburg South H.S.)",womens golf,ohio_state
+6,watanabe rio,"Kamagaya City, Japan (Bentleigh Secondary (Australia))",womens golf,ohio_state
+7,wright alex,"Midlothian, Va. (IMG Academy)",womens golf,ohio_state
+0,abeysinghe matt,"Dehiwala, Sri Lanka",mens swimming,ohio_state
+1,barone jack,"Toledo, Ohio",mens swimming,ohio_state
+2,belanger mark,"Akron, Ohio (Firestone HS)",mens swimming,ohio_state
+3,burt carson,"Cincinnati, Ohio (Wyoming)",mens swimming,ohio_state
+4,canova joseph,"Gaithersburg, Md.",mens swimming,ohio_state
+5,chavez mossimo,"Chicago, Ill. (Whitney Young)",mens swimming,ohio_state
+6,chavez teo,"Chicago, Ill. (Whitney Young)",mens swimming,ohio_state
+7,christian nathan,"Shaker Heights, Ohio",mens swimming,ohio_state
+8,daniels-freeman aaron,"Durham, N.C.",mens swimming,ohio_state
+9,delakis paul,"Eau Claire, Wisc. (Eau Claire Memorial)",mens swimming,ohio_state
+10,deval quinlan,"Apex, N.C.",mens swimming,ohio_state
+11,dillmann alex,"Naperville, Ill. (Metea Valley)",mens swimming,ohio_state
+12,dunn justin,"North Caldwell, N.J. (Seton Hall Preperatory School)",mens swimming,ohio_state
+13,eaton michael,"St. Clairsville, Ohio",mens swimming,ohio_state
+14,fronczak brandon,"Glen Mills, Pa. (Malvern Prep)",mens swimming,ohio_state
+15,gloude daniel,"Ladera Ranch, Calif.",mens swimming,ohio_state
+16,harry dom,"Dayton, Ohio (Carroll)",mens swimming,ohio_state
+17,hogsed nick,"Sharpsburg, Ga. (Arizona)",mens swimming,ohio_state
+18,hopkins justin,"Findlay, Ohio",mens swimming,ohio_state
+19,isings connor,"Beaconsfield, Quebec",mens swimming,ohio_state
+20,jackman clark,"Dublin, Calif.",mens swimming,ohio_state
+21,jager wyatt,"Moscow, Id. (Moscow)",mens swimming,ohio_state
+22,jahan alex,"Greenwich, Conn.",mens swimming,ohio_state
+23,knabb oliver,"Reading, Pa. (Exeter)",mens swimming,ohio_state
+24,koethke kalvin,"Grove City, Ohio",mens swimming,ohio_state
+25,law christo,"San Antonio, Texas",mens swimming,ohio_state
+26,lense noah,"Clearwater, Fla.",mens swimming,ohio_state
+27,lim ching hwang,"Selangor, Malaysia",mens swimming,ohio_state
+28,lindstrom andrew,"Madison, Wis. (West)",mens swimming,ohio_state
+29,loy andrew,"Normal, Ill.",mens swimming,ohio_state
+30,lynch michael,"Brecksville, Ohio",mens swimming,ohio_state
+31,matz william,"Latham, N.Y.",mens swimming,ohio_state
+32,mcdermott colin,"Granville, Ohio (Granville)",mens swimming,ohio_state
+33,mcfadden evan,"Oreland, Penn. (William Penn)",mens swimming,ohio_state
+34,mcgraw j. reed,"Dublin, Ohio (Village Academy)",mens swimming,ohio_state
+35,mortimer austin,"Murrysville, Pa.",mens swimming,ohio_state
+36,musterait kevin,"Souderton, Pa.",mens swimming,ohio_state
+37,nymberg greg,"Cincinnati, Ohio",mens swimming,ohio_state
+38,painhas henrique,"Belo Horizonte, Brazil",mens swimming,ohio_state
+39,rich justin,"Midlothian, Va.",mens swimming,ohio_state
+40,romanik stephen,"Northfield, Ohio",mens swimming,ohio_state
+41,salazar michael,"El Cajon, Calif.",mens swimming,ohio_state
+42,seal brayden,"Frisco, Texas",mens swimming,ohio_state
+43,shannon brad,"Leonardtown, Md. (Leonardtown)",mens swimming,ohio_state
+44,siler jacob,"Knoxville, Tenn.",mens swimming,ohio_state
+45,stankivicz sam,"Rocky River, Ohio (Rocky River)",mens swimming,ohio_state
+46,stapp evan,"Tipp City, Ohio (Tippecanoe)",mens swimming,ohio_state
+47,sugar ben,"Columbus, Ohio (Saint Charles)",mens swimming,ohio_state
+48,trace thomas,"Upper Arlington, Ohio",mens swimming,ohio_state
+49,vander meulen ryan,"Ann Arbor, Mich. (Skyline)",mens swimming,ohio_state
+50,wagner ryan,"New City, N.Y.",mens swimming,ohio_state
+51,white clay,"Pickerington, Ohio (Pickerington North)",mens swimming,ohio_state
+52,worobetz noah,"Lebanon, Ohio",mens swimming,ohio_state
+0,angerame genevieve,"The Woodlands, Texas (The Woodlands)",womens swimming,ohio_state
+1,antal katie,"Slippery Rock, Pa. (Slippery Rock)",womens swimming,ohio_state
+2,auckley elizabeth,"Bay Village, Ohio (Bay Village)",womens swimming,ohio_state
+3,bailey meg,"Merewether, NSW, Australia (St. Francis Xaviers College)",womens swimming,ohio_state
+4,banks laura,"Rocky River, Ohio (Rocky River)",womens swimming,ohio_state
+5,barker alexis,"Castle Rock, Colo.",womens swimming,ohio_state
+6,bradley rebekah,"Auckland, New Zealand (North Texas)",womens swimming,ohio_state
+7,cook kathleen,"Atlanta, Ga. (Woodward Academy)",womens swimming,ohio_state
+8,coy maria,"Willoughby, Ohio (Mentor)",womens swimming,ohio_state
+9,demler kathrin,"Bottrop, Germany (Elsa BrandstrÃ¶m Realschule)",womens swimming,ohio_state
+10,ferrara kendyl,"Cincinnati, Ohio (St. Ursula Academy)",womens swimming,ohio_state
+11,fike quinn,"Dublin, Ohio (Dublin Jerome)",womens swimming,ohio_state
+12,fish emma,"Suwanee, Ga. (Lambert)",womens swimming,ohio_state
+13,fye nicole,"Ashburn, Va. (Rock Ridge)",womens swimming,ohio_state
+14,glesenkamp brooke,"Delaware, Ohio (Rutherford B. Hayes)",womens swimming,ohio_state
+15,gresser hanna,"Akron, Ohio (Walsh Jesuit)",womens swimming,ohio_state
+16,house alexandra,"Newark, N.Y.",womens swimming,ohio_state
+17,jaspeado natalia,"Scottsdale, Ariz. (Desert Mountain)",womens swimming,ohio_state
+18,jurkovic lucija,Croatia,womens swimming,ohio_state
+19,kahmann marianne,"Dayton, Ohio (Springboro)",womens swimming,ohio_state
+20,kowal molly,"Merchantville, N.J. (Nazareth Academy)",womens swimming,ohio_state
+21,kurzydlo lauren,"Deerfield, Ill. (Deerfield)",womens swimming,ohio_state
+22,landstra devin,"Cincinnati, Ohio (Indian Hill)",womens swimming,ohio_state
+23,li liz,"Shenyang, China (Ohio Dominican)",womens swimming,ohio_state
+24,lingard ginger,"Madison, Wisc.",womens swimming,ohio_state
+25,luft rebecca,"Dillsburg, Penn. (Northern)",womens swimming,ohio_state
+26,manifold brittany,"Oro Valley, Ariz. (Ironwood Ridge)",womens swimming,ohio_state
+27,mcnichols macie,"Brecksville, Ohio (Gilmour Academy)",womens swimming,ohio_state
+28,mcnulty amanda,"Greenville, S.C. (J.L. Mann)",womens swimming,ohio_state
+29,mcpherson camryn,"Saline, Mich.",womens swimming,ohio_state
+30,meek cheyenne,"Port Clinton, Ohio (Port Clinton)",womens swimming,ohio_state
+31,murphy mikayla,"Holland, Ohio (St. Ursula Academy)",womens swimming,ohio_state
+32,petrak taylor,"Ellwood, Penn. (Lincoln)",womens swimming,ohio_state
+33,rayner freya,"Sunderland, United Kingdom (Southmoor Community School)",womens swimming,ohio_state
+34,romano kristen,"Long Beach, New York (Long Beach)",womens swimming,ohio_state
+35,sperber sarah,"Xenia, Ohio (Beavercreek)",womens swimming,ohio_state
+36,tarvit lara,"Melbourne, Australia",womens swimming,ohio_state
+37,trace katie,"Columbus, Ohio (Upper Arlington)",womens swimming,ohio_state
+38,vargo kerrigan,"Sandusky, Ohio (Sandusky)",womens swimming,ohio_state
+39,whiteley hannah,"Springboro, Ohio (Springboro)",womens swimming,ohio_state
+40,wright katie,"Wexford, Penn. (North Allegheny)",womens swimming,ohio_state
+0,joyce martin,"Hinsdale, Ill. (Hinsdale)",mens tennis,ohio_state
+1,kobelt alex,"New Albany, Ohio (New Albany)",mens tennis,ohio_state
+2,mcnally john,"Cincinnati, Ohio (Madeira)",mens tennis,ohio_state
+3,mendez matt,"Mount Pleasant, S.C. (Heritage Academy)",mens tennis,ohio_state
+4,reist riley,"Hamilton, Ohio (Hamilton High School)",mens tennis,ohio_state
+5,seelig kyle,"Hatfield, Pa. (Plumstead Christian School)",mens tennis,ohio_state
+6,seibert tim,"Pulheim, Germany (Abtei Gymnasium Brauweiler)",mens tennis,ohio_state
+7,thomas joseph,"Canton, Ohio (Jackson)",mens tennis,ohio_state
+8,torpegaard mikael,"Virum, Denmark (Virum Gymnasium)",mens tennis,ohio_state
+9,tubert hunter,"Huntington, W.V. (Huntington)",mens tennis,ohio_state
+10,wareti jacob,"Columbus, Ohio (Columbus Academy)",mens tennis,ohio_state
+11,wolf jj,"Cincinnati, Ohio (Cincinnati Country Day)",mens tennis,ohio_state
+0,ballinger andrea,"Columbus, Ohio (Columbus Academy)",womens tennis,ohio_state
+1,cseplo hannah,"Concord, Ohio (West Virginia)",womens tennis,ohio_state
+2,decoste emma,"Stuart, Fla.",womens tennis,ohio_state
+3,fukuda shiori,"Tokyo, Japan (Hinode High School)",womens tennis,ohio_state
+4,hurley mary beth,"Novi, Mich. (IMG Academy)",womens tennis,ohio_state
+5,sanford anna,"Westerville, Ohio (Olentangy Orange)",womens tennis,ohio_state
+6,sneed olivia,"Prairie Village, Kansas (Shawnee Mission East)",womens tennis,ohio_state
+7,tyrina maria,"Moscow, Russia (K12 International Academy)",womens tennis,ohio_state
+8,wolf danielle,"Cincinnati, Ohio (Indiana)",womens tennis,ohio_state
+0,arter jacob,"Lancaster, Ohio",mens track,ohio_state
+1,asemota duan,"Ajax, Ontario (Coffeyville Community College)",mens track,ohio_state
+2,ballenger jared,"Fremont, Ohio (Fremont Ross)",mens track,ohio_state
+3,bauers steven,"Winchester, Ohio (Pickerington High School)",mens track,ohio_state
+4,bazile zack,"Montvale, N.J. (St. Joseph)",mens track,ohio_state
+5,beacham keilan,"Columbus, Ohio (Beechcroft High School)",mens track,ohio_state
+6,bete paul,"Dayton, Ohio",mens track,ohio_state
+7,blank kevin,"Solon, Ohio (Solon)",mens track,ohio_state
+8,bowie clayton,"Indianapolis, Ind. (Southport)",mens track,ohio_state
+9,bramwell drelan,,mens track,ohio_state
+10,browley reggie,"Mentor, Ohio (Mentor)",mens track,ohio_state
+11,burke asa,"Columbus, Ohio (East High School (Columbus))",mens track,ohio_state
+12,carroll brent,"Charlotte, N.C. (Phillip O. Berry Academy)",mens track,ohio_state
+13,cobb coty,"Middletown, Ohio (Madison-Middletown)",mens track,ohio_state
+14,cooper jr. joseph,"Reynoldsburg, Ohio",mens track,ohio_state
+15,corbett noah,"Westerville, Ohio",mens track,ohio_state
+16,demaline nick,"Swanton, Ohio (Western Kentucky)",mens track,ohio_state
+17,dyke dylan,"Waverly, Ohio (Waverly)",mens track,ohio_state
+18,ehrnsberger chance,"Sandusky, Ohio (Sandusky High School)",mens track,ohio_state
+19,fajardo tyrese,"Glen Burnie, Md. (North County)",mens track,ohio_state
+20,fisher davion,"Sandusky, Ohio (Sandusky High School)",mens track,ohio_state
+21,gorski cole,"Tontogany, Ohio (Otsego)",mens track,ohio_state
+22,gray nick,"Pickerington, Ohio (Pickerington North)",mens track,ohio_state
+23,gross jacob,"Solon, Ohio (Solon)",mens track,ohio_state
+24,harrington ryan,"San Diego, Calif.",mens track,ohio_state
+25,harrison jr. eric,"Washington, D.C. (St. Johns High School)",mens track,ohio_state
+26,hayden peter,"Bexley, Ohio (Bexley)",mens track,ohio_state
+27,hendriks aidin,"Egg Harbor Township, N.J. (Egg Harbor Township)",mens track,ohio_state
+28,hulon jr. jeffery,"Beaumont, Texas (West Brook)",mens track,ohio_state
+29,hurley matthew,"Wheeling, W.V. (Linsly)",mens track,ohio_state
+30,jackson jerry,"Pascagoula, Miss. (Pascagoula)",mens track,ohio_state
+31,jeff andre,"Savannah, Ga. (New Hampstead)",mens track,ohio_state
+32,johnson anthony,"Newark, Ohio (Newark)",mens track,ohio_state
+33,johnson terry,"Columbus, Ohio (Eastmoor Academy)",mens track,ohio_state
+34,kunkel patrick,"McDonald, Ohio (University of San Francisco)",mens track,ohio_state
+35,landis luke,"Norwalk, Ohio (Norwalk)",mens track,ohio_state
+36,leitch mitch,"Columbus, Ohio (Dublin Jerome)",mens track,ohio_state
+37,lomong alex,"Fork Union, Va. (Fork Union Military Academy)",mens track,ohio_state
+38,mandel jake,"Columbus, Ohio (Dublin Jerome)",mens track,ohio_state
+39,mastropaolo daniel,"Middletown, N.J.",mens track,ohio_state
+40,mckinney kyle,"Dayton, Ohio (Chaminade Julienne)",mens track,ohio_state
+41,morman blake,"Baltimore, Ohio (Liberty Union)",mens track,ohio_state
+42,mott tavonte,The Bahamas,mens track,ohio_state
+43,oswald robby,"Cincinnati, Ohio",mens track,ohio_state
+44,seipel max,"Avon Lake, Ohio (Avon Lake)",mens track,ohio_state
+45,seward dajuan,"Ebony, Va. (Brunswick)",mens track,ohio_state
+46,sheffield kendall,"Missouri City, Texas (Blinn College)",mens track,ohio_state
+47,soehnlen daniel,"Louisville, Ohio",mens track,ohio_state
+48,stifel evan,"Cincinnati, Ohio (Belmont)",mens track,ohio_state
+49,wood aaron,"Lancaster, Ohio (William V. Fisher High School)",mens track,ohio_state
+50,zedella aaron,"Cleveland, Ohio (St. Edward)",mens track,ohio_state
+0,aquilla adelaide,"Rocky River, Ohio",womens track,ohio_state
+1,atkinson brittany,"Liberty Center, Ohio (Liberty Center)",womens track,ohio_state
+2,ayoub aziza,"Plain City, Ohio (Jonathan Alder)",womens track,ohio_state
+3,azenabor grace,"Grand Prairie, Texas (South Grand Prairie)",womens track,ohio_state
+4,barlow halimah,"Atlanta, Ga. (Frederick Douglass High School)",womens track,ohio_state
+5,barrie maggie,"Columbus, Ohio (Xavier)",womens track,ohio_state
+6,battle anavia,"Wayne, Mich.",womens track,ohio_state
+7,bell deja,"Washington, D.C. (Bishop McNamara)",womens track,ohio_state
+8,clody courtney,"Perrysburg, Ohio (Perrysburg)",womens track,ohio_state
+9,deaton kate,"Eaton, Ohio (National Trail)",womens track,ohio_state
+10,deloach taylor,"Savannah, Ga. (St. Vincent's Academy)",womens track,ohio_state
+11,diller lyne'a,"Columbus Grove, Ohio (Columbus Grove High School)",womens track,ohio_state
+12,dowdy alexis,"Van Wert, Ohio (Van Wert)",womens track,ohio_state
+13,ellery kyla,"Fairfield, Ohio",womens track,ohio_state
+14,elliott lailah,"St. Louis, Mo.",womens track,ohio_state
+15,figler mary,"Akron, Ohio (Walsh Jesuit)",womens track,ohio_state
+16,frederick christine,"Cincinnati, Ohio (Ursuline Academy)",womens track,ohio_state
+17,froehlich lindsey,"Bellaire, Ohio (St. John Central High School)",womens track,ohio_state
+18,gyurke erin,"Oregon, Ohio (Clay-Oregon)",womens track,ohio_state
+19,hannan beatrice,"Dublin, Ohio (Dublin Coffman)",womens track,ohio_state
+20,hoellrich emma,"Rockbridge, Ohio (Fairfield Union)",womens track,ohio_state
+21,hoffman megan,"Louisville, Ohio (St. Thomas Aquinas High School)",womens track,ohio_state
+22,holloway brianna,"Detroit, Mich. (Oak Park High School)",womens track,ohio_state
+23,kanney sarah,"Coldwater, Ohio (NC State)",womens track,ohio_state
+24,leahy devon,"Westfield, Ind. (Westfield High School)",womens track,ohio_state
+25,mangas brooke,"Ottoville, Ohio (Ottoville)",womens track,ohio_state
+26,nichols abby,"Ketterington, Ohio (Archbishop Alter High School)",womens track,ohio_state
+27,okeafor sarah,"Broadview Heights, Ohio (Brecksville-Broadview Heights High School)",womens track,ohio_state
+28,olatoye sade,"Dublin, Ohio (Dublin Coffman)",womens track,ohio_state
+29,passwater jessica,"Columbus, Ohio (Bishop Watterson)",womens track,ohio_state
+30,pflaumer olivia,"Chillicothe, Ohio (Zane Trace)",womens track,ohio_state
+31,pyles alexus,"Clarksburg, Md. (Clarksburg High School)",womens track,ohio_state
+32,ray chantel,"Hampton, Va. (Hampton)",womens track,ohio_state
+33,richardson syaira,"Suffolk, Va. (Nansemond River)",womens track,ohio_state
+34,rizk julia,"Blacklick, Ohio (Columbus Academy)",womens track,ohio_state
+35,roberts julian,,womens track,ohio_state
+36,roberts madison,"Elma, N.Y. (Iroquois)",womens track,ohio_state
+37,robinson vanessa,"Dublin, Ohio (Dublin Scioto)",womens track,ohio_state
+38,sam martha,"Silver Spring, Md. (James Hubert Blake)",womens track,ohio_state
+39,saniel-banrey lilly,"Hilliard, Ohio (Davidson)",womens track,ohio_state
+40,schlachter izzy,"Orange Village, Ohio (Orange)",womens track,ohio_state
+41,seibert mikaela,"Waxhaw, N.C. (Cuthbertson)",womens track,ohio_state
+42,senior karimah,"Brooklyn, N.Y. (Medgar Evers)",womens track,ohio_state
+43,simmons allyson,"Fairless, Ohio (Fairless)",womens track,ohio_state
+44,small olivia,"Sunbury, Ohio (Big Walnut)",womens track,ohio_state
+45,smith olivia,"Tiffin, Ohio (Tiffin-Calvert)",womens track,ohio_state
+46,soehnlen kacee,"Canton, Ohio (St. Thomas Aquinas)",womens track,ohio_state
+47,soehnlen kalee,"Canton, Ohio (St. Thomas Aquinas)",womens track,ohio_state
+48,soleyn bliss,"St. John's, Antigua (Christ the King)",womens track,ohio_state
+49,stanley sarah,"South Park, Pa. (South Park)",womens track,ohio_state
+50,stoodley emily,"Columbus, Ohio (Worthington Kilbourne)",womens track,ohio_state
+51,studebaker lainey,"Dayton, Ohio (Centerville High School)",womens track,ohio_state
+52,thomas grace,"Columbus, Ohio (Bishop Watterson High School)",womens track,ohio_state
+53,ubbing annie,"Avon Lake, Ohio (Magnificat High School)",womens track,ohio_state
+54,white grace,"Marion, Ohio (Pleasant)",womens track,ohio_state
+55,wiles claire,"Powell, Ohio (Olentangy Liberty)",womens track,ohio_state
+56,wilson tamani,"Tallahassee, Fla. (Lincoln High School)",womens track,ohio_state
+57,winters karrington,"Reynoldsburg, Ohio (New Albany)",womens track,ohio_state
+58,woods maddie,"Mishawaka, Ind. (Penn)",womens track,ohio_state
+0,burcher cody,"Gnadenhutten, Ohio (Claymont)",wrestling,ohio_state
+1,caldwell troy,"Plain City, Ohio (Jonathan Alder)",wrestling,ohio_state
+2,campbell te'shan,"Pittsburgh, Pa. (Penn Hills)",wrestling,ohio_state
+3,cleary elijah,"Winter Park, Fla. (Lake Highland Prep)",wrestling,ohio_state
+4,decarlo anthony,"Springfield, Ohio (Springfield Catholic Central)",wrestling,ohio_state
+5,dingess cody,"London, Ohio (West Jefferson)",wrestling,ohio_state
+6,ferro ryan,"Warwick, N.Y. (Warwick Valley)",wrestling,ohio_state
+7,fitzgerald brendan,"Columbus, Ohio (Grandview Heights)",wrestling,ohio_state
+8,harris ryan,"Beachwood, Ohio (Beachwood)",wrestling,ohio_state
+9,hayes ke-shawn,"Kansas City, Mo. (Park Hill)",wrestling,ohio_state
+10,hood jaimen,"Mason, Ohio (Mason)",wrestling,ohio_state
+11,jordan bo,"St. Paris, Ohio (St. Paris Graham)",wrestling,ohio_state
+12,jordan micah,"St. Paris, Ohio (St. Paris Graham)",wrestling,ohio_state
+13,koontz brady,"Plover, Wis. (Stevens Point Area Senior)",wrestling,ohio_state
+14,koontz dylan,"Plover, Wis. (Stevens Point Area Senior)",wrestling,ohio_state
+15,lucas hunter,"Cridersville, Ohio (Lima Central Catholic)",wrestling,ohio_state
+16,martin myles,"Penns Grove, N.J. (McDonogh School)",wrestling,ohio_state
+17,mckenna joey,"Towaco, N.J. (Blair Academy)",wrestling,ohio_state
+18,mead brakan,"Powell, Ohio (Olentangy Liberty)",wrestling,ohio_state
+19,mendicino luke,"Granville, Ohio (Granville)",wrestling,ohio_state
+20,moore kollin,"Burbank, Ohio (Norwayne)",wrestling,ohio_state
+21,pletcher luke,"Latrobe, Pa. (Greater Latrobe)",wrestling,ohio_state
+22,ragon clay,"Williamston, Mich. (Dansville)",wrestling,ohio_state
+23,rehfeldt aaron,"Brighton, Mich. (Detroit Central Catholic)",wrestling,ohio_state
+24,romero kaleb,"Mechanicsburg, Ohio (Mechanicsburg)",wrestling,ohio_state
+25,rozema jack,"Wyoming, Mich. (Wyoming)",wrestling,ohio_state
+26,ryan jake,"Powell, Ohio (Olentangy Liberty)",wrestling,ohio_state
+27,schierl fritz,"Stevens Point, Wis. (Stevens Point)",wrestling,ohio_state
+28,singletary chase,"Naples, Fla. (Blair Academy (N.J.))",wrestling,ohio_state
+29,smith ethan,"Latrobe, Pa. (Sparrows Point (Md.))",wrestling,ohio_state
+30,snyder kevin,"Woodbine, Md. (Our Lady of Good Counsel)",wrestling,ohio_state
+31,snyder kyle,"Woodbine, Md. (Our Lady of Good Counsel)",wrestling,ohio_state
+32,steiner zach,"Creston, Ohio (Norwayne)",wrestling,ohio_state
+33,tomasello nathan,"Parma, Ohio (Cuyahoga Valley Christian Academy)",wrestling,ohio_state
+34,traub gary,"Cincinnati, Ohio (Sycamore)",wrestling,ohio_state
+0,bongers maartje,"Nuenen, The Netherlands (University Utrecht)",womens field hockey,ohio_state
+1,cabello yolanda,"Madrid, Spain",womens field hockey,ohio_state
+2,carroll lauren,"Lancaster, Pa. (Lancaster Catholic)",womens field hockey,ohio_state
+3,clotet alsina esther,"Barcelona, Spain (Institut Matadepera)",womens field hockey,ohio_state
+4,cole casey,"Nuangola, Pa. (Crestwood)",womens field hockey,ohio_state
+5,daniels courtney,"Virginia Beach, Va. (Frank W. Cox)",womens field hockey,ohio_state
+6,duquesne juliette,"Brussels, Belgium (Saint-Pierre College)",womens field hockey,ohio_state
+7,faust natalie,"Lutherville, Md. (Roland Park Country School)",womens field hockey,ohio_state
+8,haramis sofia,"Roseland, N.J. (West Essex)",womens field hockey,ohio_state
+9,harris whitney,"Collegeville, Pa. (The Shipley School)",womens field hockey,ohio_state
+10,humphrey maddy,"Virginia Beach, Va. (Frank W. Cox)",womens field hockey,ohio_state
+11,hunter mara,"Powell, Ohio (Olentangy Liberty)",womens field hockey,ohio_state
+12,jonovich jennica,"Wycombe, Pa. (Council Rock North)",womens field hockey,ohio_state
+13,kile morgan,"Mountain Top, Pa. (Crestwood)",womens field hockey,ohio_state
+14,nolan kelsey,"Lancaster, Pa. (Yale)",womens field hockey,ohio_state
+15,pany hannah,"Schnecksville, Pa. (Parkland)",womens field hockey,ohio_state
+16,penzone adelaide,"Powell, Ohio (St. Francis DeSales)",womens field hockey,ohio_state
+17,penzone genevieve,"Powell, Ohio (St. Francis DeSales)",womens field hockey,ohio_state
+18,rath caroline,"Greenville, Del. (Archmere Academy)",womens field hockey,ohio_state
+19,stone sammy,"Herndon, Va. (Herndon)",womens field hockey,ohio_state
+20,sweeney julianna,"Stroudsburg, Pa. (Stroudsburg)",womens field hockey,ohio_state
+21,tamburro liz,"Phoenixville, Pa. (Owen J. Roberts)",womens field hockey,ohio_state
+22,trzaska nikki,"Yardley, Pa. (Villa Joseph Marie)",womens field hockey,ohio_state
+23,vergroesen carolina,"Amsterdam, Netherlands (Rider University)",womens field hockey,ohio_state
+24,westfall ellen,"Worthington, Ohio",womens field hockey,ohio_state
+0,binkley michayla,,womens rowing,ohio_state
+1,blair sophie,,womens rowing,ohio_state
+2,bravo magdalena,,womens rowing,ohio_state
+3,carr rose,"Newark, Del.",womens rowing,ohio_state
+4,chapman hannah,,womens rowing,ohio_state
+5,cydrus sierra,"Chillicothe, Ohio (Chillicothe High School)",womens rowing,ohio_state
+6,engel rachel,"Glen Iris, Australia (Caulfield Grammar School)",womens rowing,ohio_state
+7,ernst abby,"Edmonds, Washington",womens rowing,ohio_state
+8,fernandes anjali,"Perrysburg, Ohio (Notre Dame Academy)",womens rowing,ohio_state
+9,fishel simone,,womens rowing,ohio_state
+10,frendberg maddie,,womens rowing,ohio_state
+11,gase stephanie,"Pickerington, Ohio (Pickerington Central)",womens rowing,ohio_state
+12,gibson meghan,,womens rowing,ohio_state
+13,gottschalk hanna,"Cincinnati, Ohio (Cincinnati Country Day)",womens rowing,ohio_state
+14,harpool chelsea,"Orlando, Fla. (Florida State)",womens rowing,ohio_state
+15,hatton alexandra,,womens rowing,ohio_state
+16,heuer leonie,,womens rowing,ohio_state
+17,hites hannah,"Fairport Harbor, Ohio (Fairport Harding)",womens rowing,ohio_state
+18,hoying kristin,,womens rowing,ohio_state
+19,hummel morgan,"Chesterfield, Mo. (Marquette)",womens rowing,ohio_state
+20,jachthuber annie,"Atlanta, Ga. (The Westminster Schools)",womens rowing,ohio_state
+21,johnson cassandra,"Eden Prairie, Minn. (Southwest Christian High School)",womens rowing,ohio_state
+22,koker kaylee,"Athens, Ohio (Alexander)",womens rowing,ohio_state
+23,kruse ida,"Munster, Germany (Freiherr-vom-Stein Gymnasium)",womens rowing,ohio_state
+24,kwiecinski olivia,,womens rowing,ohio_state
+25,ley ashtyn,,womens rowing,ohio_state
+26,libben grace,,womens rowing,ohio_state
+27,massier kendell,"Regina, Saskatchewan (Campbell Collegiate High School)",womens rowing,ohio_state
+28,mckeone madalyn,,womens rowing,ohio_state
+29,mcnutt catherine,"Beavercreek, Ohio (Beavercreek)",womens rowing,ohio_state
+30,miklasevich julia,,womens rowing,ohio_state
+31,montesano alessandra,,womens rowing,ohio_state
+32,northdurft alexandra,,womens rowing,ohio_state
+33,o'toole cailly,,womens rowing,ohio_state
+34,parker rachel,"South Vienna, Ohio (Northeastern)",womens rowing,ohio_state
+35,perrett maddie,"Ann Arbor, Mich.",womens rowing,ohio_state
+36,petersen ida,,womens rowing,ohio_state
+37,piloseno bianca,"Baltimore, Ohio (Liberty Union)",womens rowing,ohio_state
+38,riley alice,"Christchurch, New Zealand (USC)",womens rowing,ohio_state
+39,saba ashley,"Pittsburgh, Pa. (Seton-LaSalle High School)",womens rowing,ohio_state
+40,schmidt abigail,,womens rowing,ohio_state
+41,schodorf bridget,"Columbus, Ohio (Upper Arlington High School)",womens rowing,ohio_state
+42,serafy rachel,"Columbus, Ohio (Hilliard Davidson)",womens rowing,ohio_state
+43,sheahan madison,,womens rowing,ohio_state
+44,smiley stephanie,,womens rowing,ohio_state
+45,somes karen,"Kirtland, Ohio (Kirtland)",womens rowing,ohio_state
+46,sudhoff helen,"Alexandria, Va. (Mount Vernon High School)",womens rowing,ohio_state
+47,tiede sierra,,womens rowing,ohio_state
+48,wahlers willow,,womens rowing,ohio_state
+49,warns emma,"Pickerington, Ohio (Pickerington North High School)",womens rowing,ohio_state
+50,warriner kimberleigh,"Gauteng, South Africa (St. Stithians Girls College)",womens rowing,ohio_state
+0,balich amy,"Palos Park, Ill. (Mother McAuley)",softball,ohio_state
+1,betschel bri,"Anaheim, Calif. (Canyon)",softball,ohio_state
+2,boren kallie,"Pickerington, Ohio (Pickerington Central)",softball,ohio_state
+3,carver niki,"Gainesville, Ga. (North Hall)",softball,ohio_state
+4,choinacky megan,"Greenwood, Ind. (Roncalli)",softball,ohio_state
+5,clark emily,"Prospect, Ohio (North Union)",softball,ohio_state
+6,duvall katya,"Seal Beach, Calif. (Los Alamitos)",softball,ohio_state
+7,farrah andi,"Pickerington, Ohio (Pickerington Central)",softball,ohio_state
+8,gaskill carley,"West Hills, Calif. (El Camino Real)",softball,ohio_state
+9,gavin becca,"Gahanna, Ohio (Gahanna Lincoln)",softball,ohio_state
+10,goodwin ashley,"Riverside, Calif. (Norco)",softball,ohio_state
+11,hayward skylar,"Buford, Ga. (Mill Creek)",softball,ohio_state
+12,james mj,"San Diego, Calif. (Patrick Henry)",softball,ohio_state
+13,marotti maddie,"Dublin, Ohio (Notre Dame)",softball,ohio_state
+14,mccombs shelby,"Newark, Ohio (Louisville)",softball,ohio_state
+15,mcmenemy megan,"Westerville, Ohio (Westerville Central)",softball,ohio_state
+16,nicholson claire,"Mt. Gilead, Ohio (River Valley)",softball,ohio_state
+17,piper lilli,"Norton, Ohio (Akron)",softball,ohio_state
+18,ray morgan,"Frenchtown, Mt. (Frenchtown)",softball,ohio_state
+19,sansom spencer,"Clovis, Calif. (Buchanan)",softball,ohio_state
+20,stevens taylor,"Hebron, Ind. (Boone Grove)",softball,ohio_state
+21,sturgeon bailee,"Ashville, Ohio (Teays Valley)",softball,ohio_state
+22,vargas alex,"Chula Vista, Calif. (Bonita Vista)",softball,ohio_state
+23,white taylor,"Granada Hills, Calif. (Chaminade Prep)",softball,ohio_state
+0,mauer becca,"Houston, Texas (Jersey Village H.S.)",womens volleyball,ohio_state
+1,smeathers madison,"Bargersville, Ind. (Center Grove H.S.)",womens volleyball,ohio_state
+2,gruensfelder hannah,"Weldon Spring, Mo. (St. Joseph Academy)",womens volleyball,ohio_state
+3,appold audra,"Perrysburg, Ohio (Perrysburg H.S.)",womens volleyball,ohio_state
+4,swan ayanna,"Richmond, Va. (Mills E. Goodwin H.S.)",womens volleyball,ohio_state
+5,fry jordan,"Cincinnati, Ohio (Kentucky)",womens volleyball,ohio_state
+6,witte lauren,"Mentor, Ohio (Lake Catholic H.S.)",womens volleyball,ohio_state
+7,halm camry,"Apopka, Fla. (Apopka H.S.)",womens volleyball,ohio_state
+8,franklin ana beatriz,"Rio de Janeiro, Brazil (Centro Educacional da Lagoa)",womens volleyball,ohio_state
+0,baneux julien,"Ithaca, N.Y. (Lansing)",mens fencing,ohio_state
+1,blais belanger marc-antoine,"Montreal, Quebec (College Jean-de-Brebeuf)",mens fencing,ohio_state
+2,bradford jack,"Erie, Colo.",mens fencing,ohio_state
+3,caldwell robert,"Highland Mills, N.Y. (Don Bosco Preparatory School)",mens fencing,ohio_state
+4,cao leon,"West Chester, Ohio (Lakota West)",mens fencing,ohio_state
+5,chastanet maximilien,"Nice, France (International School of Nice)",mens fencing,ohio_state
+6,comes matthew,"Bothell, Wash.",mens fencing,ohio_state
+7,crotchett kaiden,"Hillsboro, Ore.",mens fencing,ohio_state
+8,culpepper john,"Bentonville, Ark. (Haas Hall Academy)",mens fencing,ohio_state
+9,diaz-miranda jax,"New York, N.Y. (NEST+m)",mens fencing,ohio_state
+10,ditullio frank,"Bexley, Ohio (Bexley)",mens fencing,ohio_state
+11,edwards ethan,"McCordsville, Ind.",mens fencing,ohio_state
+12,florencia hector,"Dallas, Texas (Rockwall)",mens fencing,ohio_state
+13,gaziano william,"Basking Ridge, N.J.",mens fencing,ohio_state
+14,guinan iii joseph,"Chicago, Ill. (Fenwick)",mens fencing,ohio_state
+15,hayes matthew,"Dublin, O.H.",mens fencing,ohio_state
+16,herczak andrew,"Randolph, N.J. (Morris County School of Technology)",mens fencing,ohio_state
+17,hu james,"Bloomfield, Mich. (West Bloomfield)",mens fencing,ohio_state
+18,koch domenik,"Dormagen, Germany (Bettina-von-Arnim)",mens fencing,ohio_state
+19,koch frederik,"Dormagen, Germany",mens fencing,ohio_state
+20,lauron sean,"Apple Valley, Calif.",mens fencing,ohio_state
+21,marcus benjamin,"Columbus, O.H.",mens fencing,ohio_state
+22,pouliquen nicolas,"Eden Prairie, Minn. (Eden Prairie)",mens fencing,ohio_state
+23,shindler oliver,"Chicago, Ill. (Walter Payton College Prep)",mens fencing,ohio_state
+24,sirito nicola,"Pearland, Texas (Glenda Dawson)",mens fencing,ohio_state
+25,sudilovsky stas,"Haifa, Israel",mens fencing,ohio_state
+26,tomlinson ryan,"Portland, Ore.",mens fencing,ohio_state
+27,weiss lewis,"Houston, Texas (Bellaire H.S.)",mens fencing,ohio_state
+0,alpy alexandria,"Huntington, N.Y. (Walt Whitman)",womens fencing,ohio_state
+1,bosetti maddalena,"Zambana, Italy",womens fencing,ohio_state
+2,cecchini gabriela,"East Williston, NY",womens fencing,ohio_state
+3,chen joanne,,womens fencing,ohio_state
+4,falkowski natalia,"Wappingers Falls, N.Y. (John Jay)",womens fencing,ohio_state
+5,kolmykova aleksandra,"St. Peterburg, Russia",womens fencing,ohio_state
+6,laskaris alexa,"Park Ridge, Ill. (Maine South)",womens fencing,ohio_state
+7,leccese gabriella,"East Williston, N.Y. (Wheatley)",womens fencing,ohio_state
+8,merza sarah,"Wayne, N.J. (Wayne Hills)",womens fencing,ohio_state
+9,moreira-brown caira,"New York, N.Y. (St. John's University)",womens fencing,ohio_state
+10,mzhen morgan,"Sykesville, Md. (Beth Tfiloh)",womens fencing,ohio_state
+11,petronchak eva,"Hackettstown, NJ (Hackettstown High School)",womens fencing,ohio_state
+12,rivano camilla,"Rapallo, Italy",womens fencing,ohio_state
+13,verret alexanne,"Quebec City, Quebec (CEGEP Champlain St. Lawrence)",womens fencing,ohio_state
+14,von dadelszen emma,"Vancouver, British Columbia (Magee)",womens fencing,ohio_state
+0,andryushchenko max,"Mt. Prospect, Ill.",mens gymnastics,ohio_state
+1,bluemel evan,"Strongsville, Ohio (Strongsville High School)",mens gymnastics,ohio_state
+2,bonanno joey,"Fitchburg, Mass. (Oakmont Regional High School)",mens gymnastics,ohio_state
+3,brower andrew,"Old Bridge, N.J. (Old Bridge High School)",mens gymnastics,ohio_state
+4,chan michael,"Louisville, Ky. (Trinity High School)",mens gymnastics,ohio_state
+5,coombs chris,"Louisville, Ky. (Eastern)",mens gymnastics,ohio_state
+6,costea robert,"Charlotte, N.C. (East Mecklenburg High School)",mens gymnastics,ohio_state
+7,cummings trevor,"Terry Town, La.",mens gymnastics,ohio_state
+8,delbridge seth,"Floyds Knobs, Ind. (Christian Academy of Indiana)",mens gymnastics,ohio_state
+9,dewitt samuel,"Annapolis, Md. (Annapolis High School)",mens gymnastics,ohio_state
+10,gricar jacob,"Wickliffe, Ohio",mens gymnastics,ohio_state
+11,hurwitz josh,"Solon, Ohio (Solon High School)",mens gymnastics,ohio_state
+12,mcgee jr. paris,"New Haven, Conn. (Cooperative Arts & Humanities High School)",mens gymnastics,ohio_state
+13,melton sean,"Orlando, Fla. (Freedom/First Academy High School)",mens gymnastics,ohio_state
+14,neighbarger sean junior,"Virginia Beach, Va.",mens gymnastics,ohio_state
+15,seltzer josh,"Deerfield, Ill.",mens gymnastics,ohio_state
+16,smith joey,"Columbus, Ohio (Bishop Ready High School)",mens gymnastics,ohio_state
+17,stodghill coleson,"Evergreen, Colo. (Golden High School)",mens gymnastics,ohio_state
+18,szarvas david,"Shreveport, La. (Airline High School)",mens gymnastics,ohio_state
+19,williams meyer,"Dallas, Texas (Highland Park High School)",mens gymnastics,ohio_state
+20,wilmot joey,"Littleton, Colo.",mens gymnastics,ohio_state
+21,wilson alex,"Sugar Land, Texas (St. Thomas High School)",mens gymnastics,ohio_state
+22,yoder alec,"Indianapolis, Ind. (Northpoint Homeschool)",mens gymnastics,ohio_state
+0,abanto danica,"Tyler, Texas (East Texas Christian)",womens gymnastics,ohio_state
+1,adamski nevin,"Virginia Beach, Va. (Princess Anne)",womens gymnastics,ohio_state
+2,aepli olivia,"Dublin, Ohio (Jerome)",womens gymnastics,ohio_state
+3,chesney brooke,"Cincinnati, Ohio (Oak Hills)",womens gymnastics,ohio_state
+4,gast leonie,"San Antonio, Texas (Earl Warren)",womens gymnastics,ohio_state
+5,harrison taylor,"Suffolk, Va. (Tabb)",womens gymnastics,ohio_state
+6,hinterberger peyton,"Fairport, N.Y. (Fairport)",womens gymnastics,ohio_state
+7,hofland kaitlyn,"Georgetown, Ontario (Christ the King)",womens gymnastics,ohio_state
+8,huang amanda,"Roswell, Ga. (Montverde Academy)",womens gymnastics,ohio_state
+9,lowe morgan,"Dallas, Texas (Spring Creek)",womens gymnastics,ohio_state
+10,mattern alexis,"Harrisburg, Pa. (Bishop McDevitt)",womens gymnastics,ohio_state
+11,mcclelland janelle,"Bidwell, Ohio (River Valley)",womens gymnastics,ohio_state
+12,merkle stefanie,"Petersburg, Ontario (KCI)",womens gymnastics,ohio_state
+13,schierl kali,"Stevens Point, Wis. (Stevens Point)",womens gymnastics,ohio_state
+14,stone jamie,"Chesapeake, Va. (Western Branch)",womens gymnastics,ohio_state
+15,swartzentruber jenna,"Centerburg, Ohio (Ohio Connections)",womens gymnastics,ohio_state
+0,ege wyatt,"Elk River, Minn.",mens hockey,ohio_state
+1,fadyeyev eugene,"Kiev, Ukraine",mens hockey,ohio_state
+2,fidler miguel,"Edina, Minn.",mens hockey,ohio_state
+3,gabriele grant,"Brighton, Mich.",mens hockey,ohio_state
+4,gerard freddy,"Rocky River, Ohio",mens hockey,ohio_state
+5,hein ronnie,"Chelsea, Mich.",mens hockey,ohio_state
+6,jobst mason,"Speedway, Ind.",mens hockey,ohio_state
+7,joshua dakota,"Dearborn, Mich.",mens hockey,ohio_state
+8,joyaux matt,"Bloomingdale, Ill.",mens hockey,ohio_state
+9,kearney brendon,"Northville, Mich.",mens hockey,ohio_state
+10,laczynski tanner,"Shorewood, Ill.",mens hockey,ohio_state
+11,lampasso christian,"Amherst, N.Y.",mens hockey,ohio_state
+12,larocque sasha,"Calgary, Alberta",mens hockey,ohio_state
+13,möser janik,"Mannheim, Germany",mens hockey,ohio_state
+14,mccormick sam,"De Pere, Wis.",mens hockey,ohio_state
+15,miller kevin,"Stony Plain, Alberta",mens hockey,ohio_state
+16,miller matt,"East Palestine, Ohio",mens hockey,ohio_state
+17,moyse evan,"Olmsted Falls, Ohio",mens hockey,ohio_state
+18,myer gordi,"Toledo, Ohio",mens hockey,ohio_state
+19,nappier tommy,"St. Louis, Mo.",mens hockey,ohio_state
+20,parran tommy,"Shaker Heights, Ohio",mens hockey,ohio_state
+21,pooley austin,"Dublin, Ohio",mens hockey,ohio_state
+22,romeo sean,"Cary, N.C.",mens hockey,ohio_state
+23,rounds michael,"Mt. Pleasant, Mich.",mens hockey,ohio_state
+24,stork luke,"Pittsburgh, Pa.",mens hockey,ohio_state
+25,weis matthew,"Freehold, N.J.",mens hockey,ohio_state
+26,wiitala john,"Lakeville, Minn.",mens hockey,ohio_state
+0,cory maggie,"Lino Lakes, Minn.",womens hockey,ohio_state
+1,riemenschneider elise,"Rocky River, Ohio",womens hockey,ohio_state
+2,reeves jacyn,"Holmen, Wis.",womens hockey,ohio_state
+3,dahlquist charly,"Eden Prairie, Minn.",womens hockey,ohio_state
+4,boyle lauren,"Los Gatos, Calif.",womens hockey,ohio_state
+5,zarzecki grace,"Chicago, Ill.",womens hockey,ohio_state
+6,sadek dani,"Lakeville, Minn.",womens hockey,ohio_state
+7,halvorson liv,"Richfield, Minn.",womens hockey,ohio_state
+8,langermeier erin,"Westlake, Ohio",womens hockey,ohio_state
+9,skaggs tatum,"Hartland, Wis.",womens hockey,ohio_state
+10,field maddy,"Oakville, Ontario",womens hockey,ohio_state
+11,bouley samantha,"Stittsville, Ontario",womens hockey,ohio_state
+12,freiburger rebecca,"Rochester, Minn.",womens hockey,ohio_state
+13,maltais emma,"Burlington, Ontario",womens hockey,ohio_state
+14,iafallo julianna,"Eden, N.Y.",womens hockey,ohio_state
+15,soares olivia,"Hanover, Mass.",womens hockey,ohio_state
+16,schepers liz,"Mound, Minn.",womens hockey,ohio_state
+17,bruno lisa,"Whitby, Ontario",womens hockey,ohio_state
+18,wesloh mckenna,"Elk River, Minn.",womens hockey,ohio_state
+19,spring lauren,"Kelowna, British Columbia",womens hockey,ohio_state
+20,wallace lynsey,"Seven Hills, Ohio",womens hockey,ohio_state
+21,zeglen amanda,"Calgary, Alberta",womens hockey,ohio_state
+22,sauve kassidy,"Whitby, Ontario",womens hockey,ohio_state
+23,dunne jincy,"O'Fallon, Mo.",womens hockey,ohio_state
+0,barco hunter,"Plain City, Ohio",mens lacrosse,ohio_state
+1,barger brendan,"Baldwin, Md.",mens lacrosse,ohio_state
+2,barker brandon,"Pittsford, N.Y.",mens lacrosse,ohio_state
+3,barker colby,"Pittsford, N.Y.",mens lacrosse,ohio_state
+4,bethke hank,"Medina, Wash.",mens lacrosse,ohio_state
+5,borges matt,"Garden City, N.Y.",mens lacrosse,ohio_state
+6,buckley lukas,"Walpole, Mass.",mens lacrosse,ohio_state
+7,bugliosi jt,"Forest Hill, Md.",mens lacrosse,ohio_state
+8,bunce chase,"San Jose, Calif.",mens lacrosse,ohio_state
+9,burgdorf alex,"Cincinnati, Ohio",mens lacrosse,ohio_state
+10,chell colin,"Bel Air, Md.",mens lacrosse,ohio_state
+11,deberry omari,"Woodstock, Md.",mens lacrosse,ohio_state
+12,evans erik,"Baldwin, Md.",mens lacrosse,ohio_state
+13,feliziani christian,"Boothwyn, Pa.",mens lacrosse,ohio_state
+14,freibott freddy,"Wilmington, Del.",mens lacrosse,ohio_state
+15,henrick jeff,"Orangeville, Ontario",mens lacrosse,ohio_state
+16,hodgins trevor,"Spencerport, N.Y.",mens lacrosse,ohio_state
+17,hughes griffin,"Powell, Ohio",mens lacrosse,ohio_state
+18,inacio justin,"Oakville, Ontario",mens lacrosse,ohio_state
+19,jasinski jack,"Birmingham, Ala.",mens lacrosse,ohio_state
+20,kelly john,"Towson, Md.",mens lacrosse,ohio_state
+21,kirson josh,"Newton, Mass.",mens lacrosse,ohio_state
+22,kistler carter,"Columbus, Ohio",mens lacrosse,ohio_state
+23,lang brian,"Hicksville, N.Y.",mens lacrosse,ohio_state
+24,leclaire tre,"Surrey, British Columbia",mens lacrosse,ohio_state
+25,lori bo,"Hudson, Ohio",mens lacrosse,ohio_state
+26,maccani logan,"Shoreview, Minn.",mens lacrosse,ohio_state
+27,mahoney caleb,"Holliston, Mass.",mens lacrosse,ohio_state
+28,manning jed,"Cockeysville, Md.",mens lacrosse,ohio_state
+29,marks paxton,"Dallas, Texas",mens lacrosse,ohio_state
+30,musci nick,"Westerville, Ohio",mens lacrosse,ohio_state
+31,randall ben,"Mason, Ohio",mens lacrosse,ohio_state
+32,reid jackson,"Guelph, Ontario",mens lacrosse,ohio_state
+33,rennillo jack,"Westland, Ohio",mens lacrosse,ohio_state
+34,riss evan,"Columbia, Md.",mens lacrosse,ohio_state
+35,salisbury joey,"Damascus, Md.",mens lacrosse,ohio_state
+36,sallade matt,"Lancaster, Pa.",mens lacrosse,ohio_state
+37,seiple austin,"Dublin, Ohio",mens lacrosse,ohio_state
+38,smidt matthew,"Smithtown, N.Y.",mens lacrosse,ohio_state
+39,smith colby,"Lancaster, Pa.",mens lacrosse,ohio_state
+40,smith jackson,"Ashburn, Va.",mens lacrosse,ohio_state
+41,sowder cullen,"Savage, Minn.",mens lacrosse,ohio_state
+42,terefenko ryan,"Sinking Spring, Pa.",mens lacrosse,ohio_state
+43,thorpe gale,"Elbridge, N.Y.",mens lacrosse,ohio_state
+44,wallace brendan,"Herndon, Va.",mens lacrosse,ohio_state
+0,wise abigail,"Cincinnati, Ohio/Sycamore",womens lacrosse,ohio_state
+1,rizzo jill,"Queensbury, N.Y./Queensbury",womens lacrosse,ohio_state
+2,parrott baley,"Airmont, N.Y./Suffern",womens lacrosse,ohio_state
+3,beekhuizen ali,"Ft. Lauderdale, Fla./St. Thomas Aquinas",womens lacrosse,ohio_state
+4,baez sophie,"Milton, Ga./Milton",womens lacrosse,ohio_state
+5,mackrides caroline,"Newton Square, Pa./Villa Maria Academy",womens lacrosse,ohio_state
+6,george sarah,"Monmouth Beach, N.J./Shore Regional",womens lacrosse,ohio_state
+7,mager carli,"Yorktown Heights, N.Y./Yorktown",womens lacrosse,ohio_state
+8,conti mckayla,"Oakhurst, N.J./Ocean Township/Louisville",womens lacrosse,ohio_state
+9,keselman erika,"Colts Neck, N.J./Colts Neck",womens lacrosse,ohio_state
+10,mcelveen katie,"Loveland, Ohio/Loveland",womens lacrosse,ohio_state
+11,camden meg,"Downington, Pa./West",womens lacrosse,ohio_state
+12,hernandez liza,"New Albany, Ohio/New Albany",womens lacrosse,ohio_state
+13,castelein madison,"Alamo, Calif./Carondelet",womens lacrosse,ohio_state
+14,vander molen alex,"Ada, Mich./Rockford",womens lacrosse,ohio_state
+15,nagle erin,"Baldwinsville, N.Y./C.W. Baker",womens lacrosse,ohio_state
+16,dickinson sara,"Wilton, Conn./Wilton",womens lacrosse,ohio_state
+17,darling sage,"Lakefield, Ontario/District Secondary",womens lacrosse,ohio_state
+18,epstein lindsay,"Marietta, Ga./Walton",womens lacrosse,ohio_state
+19,brink hannah,"Eden Prairie, Minn./Eden Prairie",womens lacrosse,ohio_state
+20,burgee katie,"Churchville, Md./C. Milton Wright",womens lacrosse,ohio_state
+21,matey meghan,"Phoenixville, Pa./John Carroll",womens lacrosse,ohio_state
+22,sherry lauren,"Orlando, Fla./Timber Creek",womens lacrosse,ohio_state
+23,gantt hannah,"Houston, Texas/Lamar",womens lacrosse,ohio_state
+24,seanor anna,"Canton, Ohio/Jackson",womens lacrosse,ohio_state
+25,maring mackenzie,"Penfield, N.Y./Penfield",womens lacrosse,ohio_state
+26,doty regina,"St. Louis, Mo./Kirkwood",womens lacrosse,ohio_state
+27,mongno emalee,"Yorktown Heights, N.Y./Yorktown",womens lacrosse,ohio_state
+28,apuzzo kimberly,"Leawood, Kan./Blue Valley North",womens lacrosse,ohio_state
+29,skrzypczak emily,"Burke, Va./Robinson Secondary",womens lacrosse,ohio_state
+30,ewing riley,"Marietta, Ga./Walton",womens lacrosse,ohio_state
+31,wood molly,"Skaneateles, N.Y./Skaneateles",womens lacrosse,ohio_state
+32,perkins jaclyn,"Charlotte, N.C./Charlotte Country Day",womens lacrosse,ohio_state
+33,rosati shannon,"Shoreham, N.Y./Wading River",womens lacrosse,ohio_state
+34,amorison alyssa,"Huntington, N.Y./Huntington",womens lacrosse,ohio_state
+35,moxley jaclen,"Granville, Ohio/Granville",womens lacrosse,ohio_state
+36,postalwait paige,"Baldwinsville, N.Y./CW Baker",womens lacrosse,ohio_state
+0,dahmen zachary,"North Royalton, Ohio",mens pistol,ohio_state
+1,delagrange robbie,"Hartville, Ohio",mens pistol,ohio_state
+2,gens samuel,"Andover, Mass.",mens pistol,ohio_state
+3,marrinan con,"Montville, Conn.",mens pistol,ohio_state
+4,mccollum anthony,"Purdin, Mo.",mens pistol,ohio_state
+5,melus bernard,"Lake Zurich, Ill.",mens pistol,ohio_state
+6,soklaski mike,"Ringoes, N.J.",mens pistol,ohio_state
+0,andrianova irina,"Schaumburg, Ill.",womens pistol,ohio_state
+1,moody kara,"West Blocton, Ala.",womens pistol,ohio_state
+2,nothnagle emily,"Hershey, Pa.",womens pistol,ohio_state
+3,rust emily,"Northfield, Ohio",womens pistol,ohio_state
+0,black joshua,"Richmond, Va. (Homeschool)",mixed rifle,ohio_state
+1,buchanan jacob,"Spring, Texas (Homeschooled)",mixed rifle,ohio_state
+2,cheezum drew,"Centreville, Md. (Queen Anne's County)",mixed rifle,ohio_state
+3,dutton elizabeth,"Derry, N.H. (Virtual Learning Academy Charter School)",mixed rifle,ohio_state
+4,harr mica,"Harrisburg, Pa. (Susquehanna Township High School)",mixed rifle,ohio_state
+5,kissell alli,"Portage, Penn. (Portage Area)",mixed rifle,ohio_state
+6,lekhavanija wynn,"Ellicott City, Md. (Centennial High School)",mixed rifle,ohio_state
+7,matheny mark,"Middletown, Del. (Homeschool)",mixed rifle,ohio_state
+8,minor jared,"Circleville, Ohio (Westfall High School)",mixed rifle,ohio_state
+9,pruden paige,"Katy, Texas (Tompkins High School)",mixed rifle,ohio_state
+10,sardo patrick,"Coventry, Conn. (Tolland)",mixed rifle,ohio_state
+11,steinel michael,"Marietta, Ohio",mixed rifle,ohio_state
+12,travis rhiann,"Springtown, Texas (Weatherford Christian School)",mixed rifle,ohio_state
+13,urbach bailey,"Hudson, N.H. (Alvirne)",mixed rifle,ohio_state
+14,whitaker brendan,"Bridgeport, Mass.",mixed rifle,ohio_state
+15,wilcoxson megan,"Shelton, Conn. (Academy of Our Lady of Mercy Lauralton Hall)",mixed rifle,ohio_state
+16,wotring quintin,"Kingsport, Tenn.",mixed rifle,ohio_state
+0,samarin aaron,"Clovis, Calif. (Buchanan H.S.)",mens volleyball,ohio_state
+1,hillman andrew,"Allentown, Pa. (Parkland H.S.)",mens volleyball,ohio_state
+2,thomas sanil,"Tinley Park, Ill. (Victor J. Andrew H.S.)",mens volleyball,ohio_state
+3,meidel luke,"O'Fallon, Ill. (O'Fallon Township H.S.)",mens volleyball,ohio_state
+4,lallemand martin,"Antwerp, Belgium (Athenee Royal de Hannut H.S.)",mens volleyball,ohio_state
+5,hughes shawn,"St. Louis, Mo. (St. Louis University H.S.)",mens volleyball,ohio_state
+6,devilbiss reese,"Manchester, Pa. (Northeastern H.S.)",mens volleyball,ohio_state
+7,szerszen nicolas,"Conflans Ste Hne, France (Lycee International)",mens volleyball,ohio_state
+8,hervoir maxime,"Royan, France (IUT Informatique Montpellier)",mens volleyball,ohio_state
+9,leeson blake,"Mequon, Wis. (Homestead H.S.)",mens volleyball,ohio_state
+10,laffin nick,"Holbrook, N.Y. (Sachem East H.S.)",mens volleyball,ohio_state
+11,alter tyler,"Laguna Beach, Calif. (Laguna Beach H.S.)",mens volleyball,ohio_state
+12,murphy robbie,"Glen Ellyn, Ill. (Glenbard West H.S.)",mens volleyball,ohio_state
+13,lawrence spencer,"Costa Mesa, Calif. (Newport Harbor H.S.)",mens volleyball,ohio_state
+14,hanes jake,"Orland Park, Ill. (Carl Sandburg H.S.)",mens volleyball,ohio_state
+15,moothart chase,"Irvine, Calif. (Orange Coast College)",mens volleyball,ohio_state
+16,herget todd,"Darien, Conn. (Darien H.S.)",mens volleyball,ohio_state
+17,henken paul,"St. Louis, Mo. (St. Louis University H.S.)",mens volleyball,ohio_state
+18,bruggemann jason,"Cincinnati, Ohio (Archbishop Moeller H.S.)",mens volleyball,ohio_state
+19,wolmering jamie,Fairport N.Y. (SUNY Oswego),mens volleyball,ohio_state
+20,pieper casey,"Cincinnati, Ohio (University of Dayton)",mens volleyball,ohio_state
+0,carboun kaitlyn,"Mesa, AZ (Red Mountain High School)",womens synchro swimming,ohio_state
+1,coffin phoebe,"San Jose, CA (Presentation High School)",womens synchro swimming,ohio_state
+2,connor quinn,"Cincinnati, Ohio",womens synchro swimming,ohio_state
+3,deng wenjing,"Whitby, Ontario (Sinclair Secondary School)",womens synchro swimming,ohio_state
+4,farrell katie,"Greenwich, Conn. (Sacred Heart Greenwich)",womens synchro swimming,ohio_state
+5,giannuzzi jessica,"Noblesville, Ind.",womens synchro swimming,ohio_state
+6,hernandez elizabeth,"Powell, Ohio",womens synchro swimming,ohio_state
+7,hoying alyssa,"Indianapolis, Ind.",womens synchro swimming,ohio_state
+8,huric laila,"Milano, Italy (Sinclair Secondary School)",womens synchro swimming,ohio_state
+9,jager rachel,"Williamsville, NY (Northgate High School)",womens synchro swimming,ohio_state
+10,malone breanna,Coral Springs Florida (Coral Glades),womens synchro swimming,ohio_state
+11,meredith-le roux alex,"Superior, Colo. (Valley Christen)",womens synchro swimming,ohio_state
+12,ramsey shea,"Playa Del Ray, Calif.",womens synchro swimming,ohio_state
+13,st. john noelle,"Dublin, Ohio",womens synchro swimming,ohio_state
+14,starrett lane,"Mequon, Wisc. (Homestead)",womens synchro swimming,ohio_state
+15,stehlik renee,"Pleasant Hill, CA (College Park High School)",womens synchro swimming,ohio_state
+16,thielemann stephanie,"Bozeman, Mont. (Archbishop Mitty)",womens synchro swimming,ohio_state
+17,torba daria,"Orinda, CA (Miramonte High School)",womens synchro swimming,ohio_state
+18,velazquez-stiak monica,"Scottsdale, Ariz.",womens synchro swimming,ohio_state
+19,walsh elizabeth,"Cincinnati, Ohio (Mount Notre Dame)",womens synchro swimming,ohio_state
+20,walsh sarah,"Cincinnati, OH (Mount Notre Dame High School)",womens synchro swimming,ohio_state
+21,warren rachel,"Palos Verdes Estates, Calif. (Palos Verdes Estates)",womens synchro swimming,ohio_state
+22,welzien lizzie,"San Ramon, Calif.",womens synchro swimming,ohio_state
