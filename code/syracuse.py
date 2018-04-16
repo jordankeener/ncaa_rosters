@@ -13,34 +13,32 @@ myopener = MyOpener()
 
 outdir = '../output'
 
-
-#####  #################
+## womens soccer, womens rowing, and track have hometown under another level
+## just leaving as missing for now
+##### syracuse #################
 full_df = pd.DataFrame()
-school = ''
-url_template = ''
+school = 'syracuse'
+url_template = 'https://cuse.com/roster.aspx?path={sporturl}'
 classname = 'sidearm-roster-players'
 
 sports_dict = lookups.get_sports_dict()
 # sport_id: [sporturl, sport_table]
-# sports_dict['baseball'] = ['baseball']
-# sports_dict['mens basketball'] = ['mbball']
-# sports_dict['womens basketball'] = ['wbball']
-# sports_dict['football'] = ['football']
-# sports_dict['womens soccer'] = ['wsoc']
-# sports_dict['womens golf'] = ['wgolf']
-# sports_dict['mens swimming'] = ['swim']
-# sports_dict['womens swimming'] = ['swim']
-# sports_dict['mens tennis'] = ['mten']
-# sports_dict['womens tennis'] = ['wten']
-# sports_dict['mens track'] = ['track']
-# sports_dict['womens track'] = ['track']
-# sports_dict['womens volleyball'] = ['wvball']
-# sports_dict['mens cross country'] = ['cross']
-# sports_dict['womens cross country'] = ['cross']
-# sports_dict['womens rowing'] = ['wrow']
-# sports_dict['wrestling'] = ['wrestling']
-# sports_dict['softball'] = ['softball']
-
+sports_dict['mens basketball'] = ['mbasket']
+sports_dict['womens basketball'] = ['wbasket']
+sports_dict['football'] = ['football']
+sports_dict['mens soccer'] = ['msoccer']
+sports_dict['womens soccer'] = ['wsoccer']
+sports_dict['softball'] = ['softball']
+sports_dict['womens tennis'] = ['tennis']
+sports_dict['mixed track'] = ['trun']
+sports_dict['womens volleyball'] = ['vball']
+sports_dict['mixed cross country'] = ['ccountry']
+sports_dict['mens rowing'] = ['crew']
+sports_dict['womens rowing'] = ['rowing']
+sports_dict['mens lacrosse'] = ['mlacrosse']
+sports_dict['womens lacrosse'] = ['wlacrosse']
+sports_dict['womens field hockey'] = ['fhockey']
+sports_dict['womens hockey'] = ['wice']
 
 # remove empty sports
 for (key, value) in sports_dict.copy().items():

@@ -1,7 +1,7 @@
 # ncaa_rosters
 
 Scrapes the name and hometown of all athletes for schools in the Power 5
-(Big Ten, Big 12, ACC, SEC, Pac-12) from rosters provided by each school
+(Big Ten, Big 12, ACC, SEC, Pac-12) from rosters provided by each school.
 
 Rosters were scraped in April 2018 and correspond to the roster posted on
 each schools athletics website at that time. This is generally the roster

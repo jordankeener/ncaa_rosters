@@ -14,16 +14,30 @@ myopener = MyOpener()
 outdir = '../output'
 
 
-##### school #################
+##### georgia tech #################
 full_df = pd.DataFrame()
-school = ''
-url_template = ''
-tableid_template = ''
+school = 'georgia_tech'
+url_template = 'http://www.ramblinwreck.com/sports/{sporturl}/mtt/geot-{sporturl}-mtt.html'
+tableid_template = 'sortable_roster'
 
 # bring in sports dictionary (sports: empty list)
 sports_dict = lookups.get_sports_dict()
 # sport_id: [sporturl, sport_table]
-sports_dict[''] = ['']
+sports_dict['mens basketball'] = ['m-baskbl']
+sports_dict['womens basketball'] = ['w-baskbl']
+sports_dict['football'] = ['m-footbl']
+sports_dict['mens cross country'] = ['m-xc']
+sports_dict['womens cross country'] = ['w-xc']
+sports_dict['baseball'] = ['m-basebl']
+sports_dict['mens golf'] = ['m-golf']
+sports_dict['mens swimming'] = ['c-swim']
+sports_dict['womens swimming'] = ['c-swim']
+sports_dict['mens tennis'] = ['m-tennis']
+sports_dict['womens tennis'] = ['w-tennis']
+sports_dict['mens track'] = ['m-track']
+sports_dict['womens track'] = ['w-track']
+sports_dict['softball'] = ['w-softbl']
+sports_dict['womens volleyball'] = ['w-volley']
 
 
 # remove empty sports
@@ -31,14 +45,14 @@ for (key, value) in sports_dict.copy().items():
 	if value == []:
 		del sports_dict[key]
 
-# # change table names where necessary
-# for (key, value) in sports_dict.items():
-# 	if key in ['mens cross country', 'mens track']:
-# 		value.append(tableid_template + "_M")
-# 	elif key in ['womens cross country', 'womens track']:
-# 		value.append(tableid_template + "_F")
-# 	else:
-# 		value.append(tableid_template)
+# change table names where necessary
+for (key, value) in sports_dict.items():
+	if key in ['mens swimming']:
+		value.append(tableid_template + "_M")
+	elif key in ['womens swimming']:
+		value.append(tableid_template + "_F")
+	else:
+		value.append(tableid_template)
 
 # collect roster for each sport
 find_cols = ['name', 'hometown']

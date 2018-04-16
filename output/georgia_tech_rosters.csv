@@ -1,0 +1,445 @@
+,name,hometown,sport,school
+0,moore justin,"San Diego, Calif./Mission Bay HS",mens basketball,georgia_tech
+1,jackson tadric,"Tifton, Ga./Tift County HS",mens basketball,georgia_tech
+2,phillips shembari,"Atlanta, Ga./Wheeler HS/Tucker HS/Tennessee",mens basketball,georgia_tech
+3,cole evan,"Cumming, Ga./South Forsyth HS",mens basketball,georgia_tech
+4,alston brandon,"Vienna, Va./Herndon HS/Lehigh",mens basketball,georgia_tech
+5,okogie josh,"Snellville, Ga./Shiloh HS",mens basketball,georgia_tech
+6,alvarado jose,"Brooklyn, N.Y./Christ the King HS",mens basketball,georgia_tech
+7,jester evan,"Fayetteville, Ga./Sandy Creek HS",mens basketball,georgia_tech
+8,wright moses,"Raleigh, N.C./William G. Enloe HS",mens basketball,georgia_tech
+9,haywood ii curtis,"Oklahoma City, Okla./Mustang HS/Brewster Academy, N.H.",mens basketball,georgia_tech
+10,brown jon,"Miami, Fla./Sports Leadership and Management Academy",mens basketball,georgia_tech
+11,ogbonda sylvester,"Port Harcourt, Nigeria/National Christian Academy (Fort Washington, Md.)",mens basketball,georgia_tech
+12,schafer avi,"Osaka, Japan/Brewster Academy (Wolfeboro, N.H.)",mens basketball,georgia_tech
+13,gueye abdoulaye,"Dakar, Senegal/Central Park Christian (Birmingham, Ala.)",mens basketball,georgia_tech
+14,lammers ben,"San Antonio, Texas/Alamo Heights HS",mens basketball,georgia_tech
+15,rice malachi,"Indianapolis, Ind./Brebeuf Jesuit Preparatory School",mens basketball,georgia_tech
+0,tilford imani,"Greenburgh, N.Y.",womens basketball,georgia_tech
+1,pugh kaylan,"Memphis, Tenn.",womens basketball,georgia_tech
+2,cummings taja,"Alpharetta, Ga.",womens basketball,georgia_tech
+3,diouf anne francoise,"Dakar, Senegal",womens basketball,georgia_tech
+4,jefferson daijah,"Hopewell, Va.",womens basketball,georgia_tech
+5,brown breanna,"Oakland, Calif.",womens basketball,georgia_tech
+6,cubaj lorela,"Terni, Italy",womens basketball,georgia_tech
+7,o'neil zaire,"Newark, N.J.",womens basketball,georgia_tech
+8,scott chanin,"Charlotte, N.C.",womens basketball,georgia_tech
+9,pan francesca,"Bassano del Grappa, Italy",womens basketball,georgia_tech
+10,fletcher kierra,"Warren, Mich.",womens basketball,georgia_tech
+11,fortune martine,"Philadelphia, Pa.",womens basketball,georgia_tech
+12,peresson antonia,"Pordenone, Italy",womens basketball,georgia_tech
+0,curry xzavion,"Atlanta, Ga./Mays",baseball,georgia_tech
+1,hall carter,"Alpharetta, Ga./Wesleyan School",baseball,georgia_tech
+2,bailey wade,"Villa Rica, Ga./Villa Rica",baseball,georgia_tech
+3,neuber cole,"Alpharetta, Ga./Johns Creek",baseball,georgia_tech
+4,hall colin,"Alpharetta, Ga./Wesleyan School",baseball,georgia_tech
+5,guldberg michael,"Marietta, Ga./Walton",baseball,georgia_tech
+6,waddell luke,"Loveland, Ohio/Loveland",baseball,georgia_tech
+7,hughes jonathan,"Flowery Branch, Ga./Flowery Branch",baseball,georgia_tech
+8,bart joey,"Buford, Ga./Buford",baseball,georgia_tech
+9,murray chase,"Cincinnati, Ohio/Cincinnati Hills Christian Academy",baseball,georgia_tech
+10,english tristin,"Williamson, Ga./Pike County",baseball,georgia_tech
+11,schniederjans ben,"Powder Springs, Ga./Harrison",baseball,georgia_tech
+12,wilhite austin,"Buford, Ga./Buford",baseball,georgia_tech
+13,chapman hugh,"Smyrna, Ga./Holy Innocents' Episcopal",baseball,georgia_tech
+14,mccann kyle,"Suwanee, Ga./Lambert",baseball,georgia_tech
+15,turley cameron,"Dacula, Ga./Mill Creek",baseball,georgia_tech
+16,taylor jamie,"Johns Creek, Ga./Marist School",baseball,georgia_tech
+17,hurter brant,"Canton, Ga./Woodstock",baseball,georgia_tech
+18,radcliff baron,"Peachtree Corners, Ga./Norcross",baseball,georgia_tech
+19,serratos oscar,"Lawrenceville, Ga./Grayson",baseball,georgia_tech
+20,lee jake,"Brooks, Ga./Whitewater",baseball,georgia_tech
+21,johnson kel,"Palmetto, Ga./Home Schooled",baseball,georgia_tech
+22,rigby paxton,"Altamonte Springs, Fla./Lake Brantley",baseball,georgia_tech
+23,wiseman patrick,"Roswell, Ga./Pope",baseball,georgia_tech
+24,datoc jared,"Atlanta, Ga./Pace Academy",baseball,georgia_tech
+25,combs bailey,"Smyrna, Ga./Whitefield Academy",baseball,georgia_tech
+26,wilhite nick,"Buford, Ga./Buford",baseball,georgia_tech
+27,mannelly joseph,"Atlanta, Ga./Marist School",baseball,georgia_tech
+28,shirah will,"Blue Ridge, Ga./Fannin County",baseball,georgia_tech
+29,gooden garrett,"Decatur, Ga./St. Pius X Catholic",baseball,georgia_tech
+30,crawford sam,"Raleigh, N.C./St. David's",baseball,georgia_tech
+31,gibson keyton,"Buford, Ga./Buford",baseball,georgia_tech
+32,winborne robert,"Atlanta, Ga./The Lovett School",baseball,georgia_tech
+33,brace jake,"Suwanee, Ga./North Gwinnett",baseball,georgia_tech
+34,carpenter micah,"Jefferson, Ga./Jefferson",baseball,georgia_tech
+35,thomas connor,"Omega, Ga./Tift County",baseball,georgia_tech
+36,archer andy,"Duluth, Ga./Wesleyan School",baseball,georgia_tech
+0,searcy qua,"Barnesville, Ga./Lamar County",football,georgia_tech
+1,swilling tre,"New Orleans, La./Brother Martin",football,georgia_tech
+2,fletcher carson,"Flowery Branch, Ga./Flowery Branch",football,georgia_tech
+3,gray a.j.,"Sandersville, Ga./Washington County",football,georgia_tech
+4,simmons lamont,"Jacksonville, Fla./Raines/USC",football,georgia_tech
+5,johnson lucas,"San Diego, Ca./Mount Carmel",football,georgia_tech
+6,alexander victor,"Jacksonville, Fla./Trinity Christian School",football,georgia_tech
+7,hemingway keegan,"Boyds, Md./Poolesville",football,georgia_tech
+8,campbell christian,"Ponchatoula, La./Ponchatoula",football,georgia_tech
+9,smith devin,"Acworth, Ga./Harrison",football,georgia_tech
+10,jordan-swilling bruce,"New Orleans, La./Brother Martin",football,georgia_tech
+11,showell avery,"Cartersville, Ga./Cartersville",football,georgia_tech
+12,rew mark,"Columbia, S.C./Ben Lippen",football,georgia_tech
+13,howard jerry,"Rock Hill, S.C./Northwestern",football,georgia_tech
+14,marshall taquon,"Hamilton, Ga./Harris County",football,georgia_tech
+15,oliver tobias,"Warner Robins, Ga./Northside",football,georgia_tech
+16,macrina joseph,"Suwanee, Ga./Northview",football,georgia_tech
+17,lynch clinton,"Norcross, Ga./Norcross",football,georgia_tech
+18,davis melvin,"Madison, Ga./Morgan County",football,georgia_tech
+19,johnson jalen,"Oneonta, Ala./Oneonta",football,georgia_tech
+20,ponchez-mason jordan,"Gallatin, Tenn./Gallatin",football,georgia_tech
+21,jackson tre',"Valdosta, Ga./Lowndes",football,georgia_tech
+22,blancato josh,"Marietta, Ga./Kell",football,georgia_tech
+23,harvin iii pressley,"Alcolu, S.C./Sumter",football,georgia_tech
+24,carpenter tariq,"Ludowici, Ga./Long County",football,georgia_tech
+25,benson kirvonte,"Marietta, Ga./Marietta",football,georgia_tech
+26,cottrell nathan,"Knoxville, Tenn./Knoxville West",football,georgia_tech
+27,curry david,"Buford, Ga./Buford",football,georgia_tech
+28,askew jaytlin,"Douglasville, Ga./McEachern",football,georgia_tech
+29,bonds gentry,"Murfreesboro, Tenn./Riverdale",football,georgia_tech
+30,cole jarett,"Norcross, Ga./Norcross",football,georgia_tech
+31,jarrett omahri,"Douglasville, Ga./New Manchester",football,georgia_tech
+32,king brenton,"Auburn, Ga./Mill Creek",football,georgia_tech
+33,kerr ajani,"Powder Springs, Ga./McEachern",football,georgia_tech
+34,nash austin,"Grayson, Ga./Grayson",football,georgia_tech
+35,williams dameon,"Norcross, Ga./Norcross",football,georgia_tech
+36,oliver kaleb,"Murfreesboro, Tenn./Oakland",football,georgia_tech
+37,henderson jaquan,"Covington, Ga./Newton",football,georgia_tech
+38,cooksey tyler,"Suwanee, Ga./Greater Atlanta Christian School",football,georgia_tech
+39,jackson quez,"Fort Valley, Ga./Peach County",football,georgia_tech
+40,thomas charlie,"Thomasville, Ga./Thomasville",football,georgia_tech
+41,gantt xavier,"Buford, Ga./Buford",football,georgia_tech
+42,underwood shea,"Young Harris, Ga./Towns County",football,georgia_tech
+43,brashear jakob,"Dacula, Ga./Dacula",football,georgia_tech
+44,marshall andrew,"Cumming, Ga./West Forsyth",football,georgia_tech
+45,mitchell brant,"Knoxville, Tenn./Webb School",football,georgia_tech
+46,lee jahaziel,"Ponchatoula, La./Ponchatoula",football,georgia_tech
+47,cerge-henderson kyle,"Tampa, Fla./Plant",football,georgia_tech
+48,cooper kenny,"Calhoun, Ga./Sonoraville",football,georgia_tech
+49,hansen connor,"Tallahassee, Fla./Chiles",football,georgia_tech
+50,minihan mikey,"Honolulu, Hawai'i/Saint Louis",football,georgia_tech
+51,patelles lucas,"Fayetteville, Ga./Starr's Mill",football,georgia_tech
+52,tufele boe,"Harbor City, Calif./Narbonne",football,georgia_tech
+53,abee jerrod,"Gainesville, Ga./Lakeview Academy",football,georgia_tech
+54,morgan scott,"Woodstock, Ga./Etowah",football,georgia_tech
+55,morgan brad,"Woodstock, Ga./Etowah",football,georgia_tech
+56,ivemeyer bailey,"Snellville, Ga./Brookwood",football,georgia_tech
+57,lagod chet,"Marietta, Ga./Marist",football,georgia_tech
+58,hunt cheyenne,"Springfield, Ga./Effingham County",football,georgia_tech
+59,coco jack,"Johns Creek, Ga./Johns Creek",football,georgia_tech
+60,stickler jake,"Bradenton, Fla./Manatee",football,georgia_tech
+61,gibbs hamp,"Augusta, Ga./Augusta Prep",football,georgia_tech
+62,bryan will,"Lavonia, Ga./Franklin County",football,georgia_tech
+63,clark charlie,"Atlanta, Ga./Marist",football,georgia_tech
+64,quinney zach,"Savannah, Ga./Savannah Christian Prep",football,georgia_tech
+65,white josh,"Marietta, Ga./Walton",football,georgia_tech
+66,braun parker,"Hallsville, Tex./Hallsville",football,georgia_tech
+67,brooks djimon,"Sandersville, Ga./Washington County",football,georgia_tech
+68,mallard antonio,"Ellenwood, Ga./Stockbridge/Clark Atlanta",football,georgia_tech
+69,defoor jack,"Calhoun, Ga./Calhoun/Ole Miss",football,georgia_tech
+70,lay william,"Hartwell, Ga./Hart County",football,georgia_tech
+71,tukes josh,"Covington, Ga./Newton",football,georgia_tech
+72,camp jalen,"Cumming, Ga./South Forsyth",football,georgia_tech
+73,sanders adonicas,"North Charleston, S.C./Fort Dorchester",football,georgia_tech
+74,stewart brad,"Savannah, Ga./Benedictine Military School",football,georgia_tech
+75,dolphus stephen,"Macon, Ga./Westside",football,georgia_tech
+76,bussoletti alan,"Buford, Ga./Buford",football,georgia_tech
+77,hawkins-anderson jair,"Suwanee, Ga./Northview",football,georgia_tech
+78,davis shawn,"McDonough, Ga./Union Grove",football,georgia_tech
+79,byrne liam,"Woodstock, Ga./Woodstock",football,georgia_tech
+80,owens antwan,"Tallahassee, Fla./Godby",football,georgia_tech
+81,adams brandon,"Brentwood, Tenn./Brentwood Academy",football,georgia_tech
+82,dawson kelton,"Stockbridge, Ga./Stockbridge",football,georgia_tech
+83,chimedza t.k.,"Dacula, Ga./IMG Academy",football,georgia_tech
+84,saint-amour anree,"Suwanee, Ga./North Gwinnett",football,georgia_tech
+85,merriweather tyler,"Demopolis, Ala./Demopolis",football,georgia_tech
+86,martin chris,"Loganville, Ga./Grayson",football,georgia_tech
+87,glanton brentavious,"Albany, Ga./Monroe Comprehensive",football,georgia_tech
+88,vernon tyler,"Hoschton, Ga./Mill Creek",football,georgia_tech
+89,branch desmond,"Rio Rancho, N.M./Cleveland/Trinity Valley Community College",football,georgia_tech
+90,carter malachi,"Lawrenceville, Ga./Mountain View",football,georgia_tech
+91,dingle justice,"Bowling Green, Ky./Bowling Green",football,georgia_tech
+92,domineck jordan,"Lakeland, Fla./George Jenkins",football,georgia_tech
+93,graham james,"Fitzgerald, Ga./Fitzgerald",football,georgia_tech
+94,griffin quon,"Rome, Ga./Rome",football,georgia_tech
+95,harris peje',"Newnan, Ga./Newnan",football,georgia_tech
+96,jackson jaylen,"Brunswick, Ga./Brunswick",football,georgia_tech
+97,johns luke,"Dalton, Ga./Southeast Whitfield",football,georgia_tech
+98,jump harrison,"Statham, Ga./Prince Avenue Christian School",football,georgia_tech
+99,king jaylon,"La Vergne, Tenn./Ensworth",football,georgia_tech
+100,malloy christian,"Lilburn, Ga./Parkview",football,georgia_tech
+101,maye michael,"Hoover, Ala./Hoover",football,georgia_tech
+102,mckeehan zakk,"St. Francisville, La./West Feliciana",football,georgia_tech
+103,smith austin,"McDonough, Ga./Ola",football,georgia_tech
+104,smith dontae,"Spring Hill, Tenn./Spring Hill",football,georgia_tech
+105,thomas juanyeh,"Niceville, Fla./Niceville",football,georgia_tech
+106,walton zamari,"Melbourne, Fla./Melbourne Central Catholic",football,georgia_tech
+107,whatley tijai,"Rome, Ga./Darlington School",football,georgia_tech
+0,bartlett avery,"Tallahassee, Fla.",mens cross country,georgia_tech
+1,bowles christian,"Martinez, Ga.",mens cross country,georgia_tech
+2,collins braeden,"Villa Rica, Ga.",mens cross country,georgia_tech
+3,costa sam,"Buford, Ga.",mens cross country,georgia_tech
+4,darosa gabriel,"Fort Lauderdale, Fla.",mens cross country,georgia_tech
+5,fleming patrick,"Ball Ground, Ga.",mens cross country,georgia_tech
+6,gangemi jag,"Smyrna, Ga.",mens cross country,georgia_tech
+7,grady alex,"Covington, Ga.",mens cross country,georgia_tech
+8,hillier bennett,"Bonney Lake, Wash.",mens cross country,georgia_tech
+9,kent andrew,"Atlanta, Ga.",mens cross country,georgia_tech
+10,littig andres,"Suwanee, Ga.",mens cross country,georgia_tech
+11,lyons john,"Lake Mary, Fla.",mens cross country,georgia_tech
+12,matson andrew,"Ashburn, Va.",mens cross country,georgia_tech
+13,mcbrien matt,"Hinsdale, Ill.",mens cross country,georgia_tech
+14,mccoy eamon,"Wilmington, Del.",mens cross country,georgia_tech
+15,miller ryan,"Gainesville, Va.",mens cross country,georgia_tech
+16,munns matt,"Marietta, Ga.",mens cross country,georgia_tech
+17,peck ryan,"Marietta, Ga.",mens cross country,georgia_tech
+18,penman isaac,"Lawrenceville, Ga.",mens cross country,georgia_tech
+19,pittman frank,"Atlanta, Ga.",mens cross country,georgia_tech
+20,reilly michael,"Setauket, N.Y.",mens cross country,georgia_tech
+21,sanders mitchell,"Marietta, Ga.",mens cross country,georgia_tech
+22,shaw tanner,"Danville, Calif.",mens cross country,georgia_tech
+23,solomon nahom,"Snellville, Ga.",mens cross country,georgia_tech
+24,teasley corson,"Gainesville, Ga.",mens cross country,georgia_tech
+25,whorton tyler,"Douglasville, Ga.",mens cross country,georgia_tech
+0,anderson haley,"Cumming, Ga.",womens cross country,georgia_tech
+1,dow rebecca,"Marietta, Ga.",womens cross country,georgia_tech
+2,edouard kendria,"Douglasville, Ga.",womens cross country,georgia_tech
+3,entrekin rebecca,"Tucker, Ga.",womens cross country,georgia_tech
+4,fairey kristin,"Mount Pleasant, S.C.",womens cross country,georgia_tech
+5,fegans nicole,"Douglasville, Ga.",womens cross country,georgia_tech
+6,flanagan-rosario rhiannon,"Evanston, Ill.",womens cross country,georgia_tech
+7,flood ellen,"Brownsburg, Ind.",womens cross country,georgia_tech
+8,folio samantha,"Melbourne, Fla.",womens cross country,georgia_tech
+9,galarza liz,"Cumming, Ga.",womens cross country,georgia_tech
+10,gant erin,"Roswell, Ga.",womens cross country,georgia_tech
+11,gollnick hailey,"Peachtree City, Ga.",womens cross country,georgia_tech
+12,gusmerotti gabrielle,"Norcross, Ga.",womens cross country,georgia_tech
+13,herndon hana,"Winter Park, Fla.",womens cross country,georgia_tech
+14,melehan alexandra,"Canton, Ga.",womens cross country,georgia_tech
+15,naser courtney,"Havertown, Pa.",womens cross country,georgia_tech
+16,nelson kendall,"Decatur, Ga.",womens cross country,georgia_tech
+17,pardo juanita,"Alpharetta, Ga.",womens cross country,georgia_tech
+18,petit hannah,"Braselton, Ga.",womens cross country,georgia_tech
+19,powell brittany,"Roswell, Ga.",womens cross country,georgia_tech
+20,prouty mary,"Charlotte, N.C.",womens cross country,georgia_tech
+21,repasy marie,"Alpharetta, Ga.",womens cross country,georgia_tech
+22,ruiz amy,"Milton, Ga.",womens cross country,georgia_tech
+23,smith corrie,"Atlanta, Ga.",womens cross country,georgia_tech
+24,solomon mary claire,"Johns Creek, Ga.",womens cross country,georgia_tech
+25,stephens charlotte,"Maitland, Fla.",womens cross country,georgia_tech
+26,stumvoll haley,"Oakton, Va.",womens cross country,georgia_tech
+27,thorne rachel,"Alpharetta, Ga.",womens cross country,georgia_tech
+28,zaubi nicole,"Peachtree City, Ga.",womens cross country,georgia_tech
+0,clark james,"Columbus, Ga./Brookstone HS",mens golf,georgia_tech
+1,dickson will,"Providence, R.I./Moses Brown HS",mens golf,georgia_tech
+2,joiner jacob,"Leesburg, Ga./home schooled",mens golf,georgia_tech
+3,joiner tyler,"Leesburg, Ga./home schooled",mens golf,georgia_tech
+4,norton noah,"Chico, Calif./Pleasant Valley HS",mens golf,georgia_tech
+5,ogletree andy,"Little Rock, Miss./Union HS",mens golf,georgia_tech
+6,petefish chris,"Danville, Calif./Scottsdale [Ariz.] Christian Academy",mens golf,georgia_tech
+7,pisciotta michael,"Alpharetta, Ga./Alpharetta HS/National HS",mens golf,georgia_tech
+8,schniederjans luke,"Powder Springs, Ga./Harrison HS",mens golf,georgia_tech
+9,serafini anton,"Lake Mary, Fla./Lake Mary Prep",mens golf,georgia_tech
+10,smith ben,"Novi, Mich./Detroit Catholic Central",mens golf,georgia_tech
+11,strafaci tyler,"Davie, Fla./American Heritage School",mens golf,georgia_tech
+0,brook aidan,"Athens, Ga. (Oconee County)",mens swimming,georgia_tech
+1,carman henry,"Madison, Wis. (Monona Grove)",mens swimming,georgia_tech
+2,casillas matt,"Orange, Calif. (El Modena)",mens swimming,georgia_tech
+3,correia rodrigo,"Belo Horizonte, Brazil",mens swimming,georgia_tech
+4,daniel austin,"Milton, Ga. (Cambridge)",mens swimming,georgia_tech
+5,day brennan,"Evans, Ga. (Greenbrier)",mens swimming,georgia_tech
+6,ferraro christian,"Altivole, Italy (Istituto Statale d'Istruzione Superiore)",mens swimming,georgia_tech
+7,harasz noah,"St. Petersburg, Fla. (Lakewood)",mens swimming,georgia_tech
+8,hering clay,"Greensboro, N.C. (Page)",mens swimming,georgia_tech
+9,kimpel alex,"Orlando, Fla. (Timber Creek)",mens swimming,georgia_tech
+10,koski joonas,"Johns Creek, Ga. (Northview)",mens swimming,georgia_tech
+11,kreider jacob,"Arlington, Va. (Yorktown)",mens swimming,georgia_tech
+12,loschi moises,"Venegazzu, Italy (Instituto Statale Di Istruzione Superiore)",mens swimming,georgia_tech
+13,mallet nolan,"Jupiter, Fla. (Alexander W. Dreyfoos School of the Arts)",mens swimming,georgia_tech
+14,miles corben,"Acton, Mass. (Acton Boxborough Regional)",mens swimming,georgia_tech
+15,murray jeffrey,"Charlotte, N.C. (Marvin Ridge)",mens swimming,georgia_tech
+16,oberg brad,"Spartanburg, S.C. (Spartanburg)",mens swimming,georgia_tech
+17,pastel aidan,"Springfield, Va. (West Springfield)",mens swimming,georgia_tech
+18,portillo joseph,"Duluth, Ga. (Duluth)",mens swimming,georgia_tech
+19,pumputis caio,"Sao Paulo, Brazil (Colegio Avanco de Ensino Programado)",mens swimming,georgia_tech
+20,reyes franco,"Burr Ridge, Ill. (Hinsdale Central)",mens swimming,georgia_tech
+21,slanschek tim,"Sennwald, Switzerland (Liechtensteinisches Gymnasium Vaduz)",mens swimming,georgia_tech
+22,talley quentin,"Trabuco Canyon, Calif. (St.  Margaret's Episcopal School)",mens swimming,georgia_tech
+23,vater jonathan,"Alpharetta, Ga. (Alpharetta)",mens swimming,georgia_tech
+24,waln davis,"Atlanta, Ga. (The Galloway School)",mens swimming,georgia_tech
+25,warnakulasuriya leon,"League City, Texas (Clear Springs)",mens swimming,georgia_tech
+26,whalen austin,"Southlake, Texas (Carroll Senior)",mens swimming,georgia_tech
+27,williamson colt,"Johns Creek, Ga. (Johns Creek)",mens swimming,georgia_tech
+28,yang jonathan,"Lawrenceville, Ga. (Peachtree Ridge)",mens swimming,georgia_tech
+29,zhi albert,"Honolulu, Hawai'i (Maryknoll School)",mens swimming,georgia_tech
+0,al khatib sara,"Beirut, Lebanon (Immaculate (Conn.))",womens swimming,georgia_tech
+1,best lila,"Atlanta, Ga. (Riverwood International Charter School)",womens swimming,georgia_tech
+2,branton laura,"Oakton, Va. (Oakton)",womens swimming,georgia_tech
+3,de bruyn kira,"Marietta, Ga. (Walton)",womens swimming,georgia_tech
+4,doi carly,"San Diego, Calif. (Rancho Bernardo)",womens swimming,georgia_tech
+5,dykstra emily,"Apex, N.C. (Cardinal Gibbons)",womens swimming,georgia_tech
+6,gilbert sara,"Atlanta, Ga. (St. Pius X Catholic)",womens swimming,georgia_tech
+7,gohr paige,"Laguna Niguel, Calif. (Santa Margarita Catholic)",womens swimming,georgia_tech
+8,gonen tamir,"London, United Kingdom (Plymouth College)",womens swimming,georgia_tech
+9,hansen megan,"Snellville, Ga. (Brookwood)",womens swimming,georgia_tech
+10,hepler kristen,"Katy, Texas (Seven Lakes)",womens swimming,georgia_tech
+11,hidalgo camryn,"Mission Viejo, Calif. (Capistrano Valley)",womens swimming,georgia_tech
+12,ilgenfritz emily,"York, Pa. (Central York)",womens swimming,georgia_tech
+13,ilie florina,"Ploiesti, Romania (CN Nichita Stanescu)",womens swimming,georgia_tech
+14,kitchens kaitlin,"Alpharetta, Ga. (Johns Creek)",womens swimming,georgia_tech
+15,lee caroline,"Leesburg, Va. (Heritage)",womens swimming,georgia_tech
+16,long camille,"Hendersonville, N.C. (T.C. Roberson)",womens swimming,georgia_tech
+17,lyons morgan,"Alpharetta, Ga. (Alpharetta)",womens swimming,georgia_tech
+18,macgregor catriona,"Austin, Texas (Westlake)",womens swimming,georgia_tech
+19,mauldin grace,"Athens, Ga. (Clarke Central)",womens swimming,georgia_tech
+20,miller chloe,"Jacksonville, Fla. (The Bolles School)",womens swimming,georgia_tech
+21,nilsson alexandra,"Saltsjobaden, Sweden (Sjolins Gymnasium)",womens swimming,georgia_tech
+22,nugent celine,"North Bethesda, Md. (Walter Johnson)",womens swimming,georgia_tech
+23,oliver maddie,"Aldie, Va. (John Champe)",womens swimming,georgia_tech
+24,paschal allie,"LaGrange, Ga. (LaGrange)",womens swimming,georgia_tech
+25,sak jordyn,"Atlanta, Ga. (Lakeside)",womens swimming,georgia_tech
+26,shuford julia,"Atlanta, Ga. (Lakeside)",womens swimming,georgia_tech
+27,wallace lindsay,"Augusta, Ga. (Davidson Fine Arts)",womens swimming,georgia_tech
+28,wang iris,"Xiamen, China (Shenzhen Huaqiaocheng)",womens swimming,georgia_tech
+29,williams kayla,"Alpharetta, Ga. (Chattahoochee)",womens swimming,georgia_tech
+30,yates abbey,"Dunwoody, Ga. (Dunwoody)",womens swimming,georgia_tech
+31,young megan,"Woodstock, Ga. (Etowah)",womens swimming,georgia_tech
+0,bauer zummy,"Suwanee, Ga.",mens tennis,georgia_tech
+1,divar carlos,"Vitoria, Spain",mens tennis,georgia_tech
+2,freestone brandon,"Roswell, Ga.",mens tennis,georgia_tech
+3,gresk phillip,"Warsaw, Poland",mens tennis,georgia_tech
+4,kay michael,"Alpharetta, Ga.",mens tennis,georgia_tech
+5,li andrew,"Hong Kong, China",mens tennis,georgia_tech
+6,melendez elijah,"Suwanee, Ga.",mens tennis,georgia_tech
+7,yun chris,"Marietta, Ga.",mens tennis,georgia_tech
+8,yun daniel,"Marietta, Ga.",mens tennis,georgia_tech
+0,flores victoria,"Fort Dodge, Iowa/Kansas Connections Academy",womens tennis,georgia_tech
+1,gizdova nadia,"Columbia, Md./Laurel Springs School",womens tennis,georgia_tech
+2,hourigan paige,"Turakina, New Zealand/St. Kentigern College",womens tennis,georgia_tech
+3,jarlskog ida,"Lund, Sweden/Bastad",womens tennis,georgia_tech
+4,jones kenya,"Memphis, Tenn./White Station",womens tennis,georgia_tech
+5,otsuka nami,"Norcross, Ga./Duluth",womens tennis,georgia_tech
+6,renaud johnnise,"North Miami, Fla./Florida Virtual",womens tennis,georgia_tech
+0,bartlett avery,"Tallahassee, Fla./Chiles",mens track,georgia_tech
+1,bowles christian,"Martinez, Ga./Lakeside-Evans",mens track,georgia_tech
+2,brooks ty,"Augusta, Ga./Evans",mens track,georgia_tech
+3,collins braeden,/,mens track,georgia_tech
+4,costa sam,"Buford, Ga./Mill Creek",mens track,georgia_tech
+5,darosa gabriel,"Fort Lauderdale, Fla./St. Thomas Aquinas",mens track,georgia_tech
+6,fleming patrick,"Ball Ground, Ga./Pope",mens track,georgia_tech
+7,gangemi jag,"Smyrna, Ga./Westminister",mens track,georgia_tech
+8,grady alex,"Covington, Ga./Newton",mens track,georgia_tech
+9,hillier bennett,"Bonney Lake, Wash./Bonney Lake",mens track,georgia_tech
+10,jean benjamin,/Grovetown,mens track,georgia_tech
+11,jones lionel,"Fayetteville, Ga./Whitewater",mens track,georgia_tech
+12,kent andrew,"Atlanta, Ga./Lakeside-Dekalb",mens track,georgia_tech
+13,kimura smith mark,"Marietta, Ga./Walton",mens track,georgia_tech
+14,littig andres,"Suwanee, Ga./North Gwinnett",mens track,georgia_tech
+15,lyons john,"Lake Mary, Fla./Lake Mary",mens track,georgia_tech
+16,matson andrew,"Ashburn, Va./Stone Bridge",mens track,georgia_tech
+17,mcbrien matt,"Hinsdale, Ill./Hinsdale Central",mens track,georgia_tech
+18,mccoy eamon,"Wilmington, Del./Brandywine",mens track,georgia_tech
+19,miller ryan,"Gainesville, Va./Battlefield",mens track,georgia_tech
+20,munns matt,"Marietta, Ga./Blessed Trinity",mens track,georgia_tech
+21,peck ryan,"Marietta, Ga./Wheeler",mens track,georgia_tech
+22,penman isaac,"Lawrenceville, Ga./Peachtree Ridge",mens track,georgia_tech
+23,pietsch daniel,"Wailuku, Hawaii/Seabury Hall/Emory",mens track,georgia_tech
+24,pittman frank,"Atlanta, Ga./Marist School",mens track,georgia_tech
+25,reilly mike,"Setauket, N.Y./Ward Melville",mens track,georgia_tech
+26,sanders mitchell,"Marietta, Ga./Walton",mens track,georgia_tech
+27,shaw tanner,"Danville, Calif./Athenian School",mens track,georgia_tech
+28,simpson maurice,"Milwaukee, Wisc./Rufus King/Kentucky",mens track,georgia_tech
+29,smith preston,"Pembroke, Ga./Southeast Bulloch",mens track,georgia_tech
+30,solomon nahom,"Snellville, Ga./Shiloh",mens track,georgia_tech
+31,solomon william,"Rialto, Calif./Los Osos",mens track,georgia_tech
+32,spears tyson,"Roswell, Ga./Roswell",mens track,georgia_tech
+33,steets anthony,"Roseland, N.J./West Essex Regional",mens track,georgia_tech
+34,stone brandon,"Fayetteville, Ga./Landmark Christian",mens track,georgia_tech
+35,thomas ryan,"Milford, Del./Milford",mens track,georgia_tech
+36,ward andreas,"Statesboro, Ga./Statesboro",mens track,georgia_tech
+37,watkins dwayne,/Woodward Academy,mens track,georgia_tech
+38,"watkins, jr. wesley","Jonesboro, Ga./Westlake/Kennesaw State",mens track,georgia_tech
+39,white william,"Athens, Ga./Clarke Central",mens track,georgia_tech
+40,whorton tyler,"Douglasville, Ga./Alexander",mens track,georgia_tech
+0,anderson haley,"Cumming, Ga./West Forsyth",womens track,georgia_tech
+1,bauman marinice,"Galena, Ohio/Olentangy",womens track,georgia_tech
+2,carter anika,"Douglasville, Ga./New Manchester/Georgia Southern",womens track,georgia_tech
+3,collins kenya,"Jonesboro, Ga./Mundy's Mill",womens track,georgia_tech
+4,dow rebecca,"Marietta, Ga./Marietta",womens track,georgia_tech
+5,edouard kendria,"Douglasville, Ga./Chapel Hill",womens track,georgia_tech
+6,entrekin rebecca,"Tucker, Ga./St. Pius X",womens track,georgia_tech
+7,fairey kristin,"Mount Pleasant, S.C./Academic Magnet",womens track,georgia_tech
+8,fegans nicole,"Douglasville, Ga./Landmark Christian",womens track,georgia_tech
+9,flood ellen,"Brownsburg, Ind./Cathedral",womens track,georgia_tech
+10,folio samantha,"Melbourne, Fla./Holy Trinity Episcopal Academy",womens track,georgia_tech
+11,forbes ebony,"Covington, N.J./Newton",womens track,georgia_tech
+12,galarza liz,"Cumming, Ga./West Forsyth",womens track,georgia_tech
+13,gant erin,"Roswell, Ga./Roswell",womens track,georgia_tech
+14,gollnick hailey,"Peachtree City, Ga./Starr's Mill",womens track,georgia_tech
+15,gusmerotti gabrielle,"Norcross, Ga./Norcross",womens track,georgia_tech
+16,hall domonique,"Worcester, Mass./Shrewsbury",womens track,georgia_tech
+17,hammond madeline,"Peachtree City, Ga./Starr's Mill",womens track,georgia_tech
+18,hayden brianna,"Covington, Ga./Newton",womens track,georgia_tech
+19,henderson angelica,"Stone Mountain, Ga./Chamblee",womens track,georgia_tech
+20,herndon hana,"Winter Park, Fla./Winter Park",womens track,georgia_tech
+21,hightower anna,"Cartersville, Ga./Cartersville",womens track,georgia_tech
+22,innis shannon,"Cumming, Ga./Blessed Trinity",womens track,georgia_tech
+23,matthews bria,"Morrow, Ga./Forest Park",womens track,georgia_tech
+24,melehan alexandra,"Canton, Ga./Woodstock",womens track,georgia_tech
+25,naser courtney,"Havertown, Pa./Haverford",womens track,georgia_tech
+26,nelson kendall,"Decatur, Ga./Marist",womens track,georgia_tech
+27,novikova ksenia,"St. Petersburg, Russia/Saint Petersburg #164",womens track,georgia_tech
+28,o'neal pharist,"Upper Marlboro, Md./Charles Flowers",womens track,georgia_tech
+29,pardo juanita,"Alpharetta, Ga./Milton",womens track,georgia_tech
+30,petit hannah,"Braselton, Ga./Mill Creek",womens track,georgia_tech
+31,powell brittany,"Roswell, Ga./Pope",womens track,georgia_tech
+32,prouty mary,"Charlotte, N.C./Myers Park",womens track,georgia_tech
+33,repasy marie,"Milton, Ga./Milton",womens track,georgia_tech
+34,ruiz amy,"Milton, Ga./Milton",womens track,georgia_tech
+35,smith corrie,"Tucker, Ga./Lakeside-DeKalb",womens track,georgia_tech
+36,smith dasia,"Hiram, Ga./Hiram",womens track,georgia_tech
+37,solomon mary claire,"Johns Creek, Ga./Blessed Trinity",womens track,georgia_tech
+38,stewart raven,"Guntersville, Ala./Guntersville/Auburn",womens track,georgia_tech
+39,stumvoll haley,"Oakton, Va./Jefferson Science & Technology",womens track,georgia_tech
+40,thorne rachel,"Alpharetta, Ga./Alpharetta",womens track,georgia_tech
+41,wheeler lindsey,"Charlotte, N.C./Ardrey Kell",womens track,georgia_tech
+42,williams jeanine,"Kingston, Jamaica/Immaculate/Auburn",womens track,georgia_tech
+43,woode denise,"Gaithersburg, Md./Damascus",womens track,georgia_tech
+44,zaubi nicole,"Peachtree City, Ga./McIntosh/Kennesaw State",womens track,georgia_tech
+0,stavro sydney,"Buford, Ga.",softball,georgia_tech
+1,bates samantha,"Charlotte, N.C.",softball,georgia_tech
+2,mora bianca,"Cumming, Ga.",softball,georgia_tech
+3,prairie rebecca,"Valdosta, Ga.",softball,georgia_tech
+4,barfield brooke,"Pembroke, Ga.",softball,georgia_tech
+5,dickerson naomi,"Whittier, Calif.",softball,georgia_tech
+6,bell malea,"Kennesaw, Ga.",softball,georgia_tech
+7,chadwick kendall,"Atlanta, Ga.",softball,georgia_tech
+8,stanford cameron,"Alpharetta, Ga.",softball,georgia_tech
+9,ellebracht kaylee,"Los Alamitos, Calif.",softball,georgia_tech
+10,chisholm kelsey,"Jacksonville, Fla.",softball,georgia_tech
+11,pye saige,"Stockton, Calif.",softball,georgia_tech
+12,puckett drew,"Buford, Ga.",softball,georgia_tech
+13,huckabay crosby,"Chattanooga, Tenn.",softball,georgia_tech
+14,krzus katie,"Orland Park, Ill.",softball,georgia_tech
+15,roper breanna,"Woodstock, Ga.",softball,georgia_tech
+16,many isabella,"Annandale, N.J.",softball,georgia_tech
+17,von behren jaydra,"Dunwoody, Ga.",softball,georgia_tech
+18,brandvold allison,"Heath, Texas",softball,georgia_tech
+19,hooper lilly,"Cataula, Ga.",softball,georgia_tech
+20,webb skye,"Temecula, Calif.",softball,georgia_tech
+21,anderson emily,"LaGrange, Ga.",softball,georgia_tech
+22,sonnon draven,"Sugar Hill, Ga.",softball,georgia_tech
+0,comby kodie,"Houston, Texas (Cypress Falls)",womens volleyball,georgia_tech
+1,washington dominique,"Chicago, Ill. (St. Edward Central Catholic)",womens volleyball,georgia_tech
+2,frerking lauren,"Johns Creek, Ga. (Wesleyan High School)",womens volleyball,georgia_tech
+3,wilson sydney,"Fayetteville, Ga. (Sandy Creek High School)",womens volleyball,georgia_tech
+4,wilson kendall,"Fayetteville, Ga. (Sandy Creek)",womens volleyball,georgia_tech
+5,kazaroff coral,Apex N.C. (Apex),womens volleyball,georgia_tech
+6,knapp sam,"Orlando, Fla. (Bishop Moore Catholic)",womens volleyball,georgia_tech
+7,benda gabby,"Raleigh, N.C. (Wakefield HS)",womens volleyball,georgia_tech
+8,becker emily,"Tucker, Ga. (Greater Atlanta Christian School)",womens volleyball,georgia_tech
+9,stavnetchei gabriela,"Curitiba, Brazil (Francisco Mazzola)",womens volleyball,georgia_tech
+10,clifton cori,"Williamsburg, Va. (Warhill)",womens volleyball,georgia_tech
+11,spencer simone,"Smyrna, Ga. (Campbell High School)",womens volleyball,georgia_tech
+12,del romano alessia,"Bologna, Italy (Istituto Paradisi)",womens volleyball,georgia_tech
+13,dowd mikaila,"Naperville, Ill. (Metea Valley)",womens volleyball,georgia_tech
+14,askin ashley,"Louisville, Ky. (Sacred Heart Academy)",womens volleyball,georgia_tech
+15,rigsbee grace,"Suwanee, Ga. (North Gwinnett)",womens volleyball,georgia_tech

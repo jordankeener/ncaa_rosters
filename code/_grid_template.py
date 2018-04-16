@@ -13,6 +13,7 @@ myopener = MyOpener()
 
 outdir = '../output'
 
+
 ##### school ###########################
 full_df = pd.DataFrame()
 school = ''

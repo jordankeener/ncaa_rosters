@@ -14,33 +14,44 @@ myopener = MyOpener()
 outdir = '../output'
 
 
-#####  #################
+##### boston college #################
 full_df = pd.DataFrame()
-school = ''
-url_template = ''
+school = 'boston_college'
+url_template = 'http://bceagles.com/roster.aspx?path={sporturl}'
 classname = 'sidearm-roster-players'
 
 sports_dict = lookups.get_sports_dict()
 # sport_id: [sporturl, sport_table]
-# sports_dict['baseball'] = ['baseball']
-# sports_dict['mens basketball'] = ['mbball']
-# sports_dict['womens basketball'] = ['wbball']
-# sports_dict['football'] = ['football']
-# sports_dict['womens soccer'] = ['wsoc']
-# sports_dict['womens golf'] = ['wgolf']
-# sports_dict['mens swimming'] = ['swim']
-# sports_dict['womens swimming'] = ['swim']
-# sports_dict['mens tennis'] = ['mten']
-# sports_dict['womens tennis'] = ['wten']
-# sports_dict['mens track'] = ['track']
-# sports_dict['womens track'] = ['track']
-# sports_dict['womens volleyball'] = ['wvball']
-# sports_dict['mens cross country'] = ['cross']
-# sports_dict['womens cross country'] = ['cross']
-# sports_dict['womens rowing'] = ['wrow']
-# sports_dict['wrestling'] = ['wrestling']
-# sports_dict['softball'] = ['softball']
-
+sports_dict['baseball'] = ['baseball']
+sports_dict['mens basketball'] = ['mbball']
+sports_dict['womens basketball'] = ['wbball']
+sports_dict['football'] = ['football']
+sports_dict['mens soccer'] = ['msoc']
+sports_dict['womens soccer'] = ['wsoc']
+sports_dict['mens golf'] = ['mgolf']
+sports_dict['womens golf'] = ['wgolf']
+sports_dict['mens swimming'] = ['swim']
+sports_dict['womens swimming'] = ['swim']
+sports_dict['softball'] = ['softball']
+sports_dict['mens tennis'] = ['mten']
+sports_dict['womens tennis'] = ['wten']
+sports_dict['mens track'] = ['mxctrack']
+sports_dict['womens track'] = ['wxctrack']
+sports_dict['womens volleyball'] = ['wvball']
+sports_dict['football'] = ['football']
+sports_dict['mens cross country'] = ['mcross']
+sports_dict['womens cross country'] = ['wcross']
+sports_dict['womens rowing'] = ['wrow']
+sports_dict['mens fencing'] = ['fence']
+sports_dict['womens fencing'] = ['fence']
+sports_dict['womens field hockey'] = ['fhockey']
+sports_dict['mens hockey'] = ['mhockey']
+sports_dict['womens hockey'] = ['whockey']
+sports_dict['womens lacrosse'] = ['wlax']
+sports_dict['mens sailing'] = ['sail']
+sports_dict['womens sailing'] = ['sail']
+sports_dict['mens skiing'] = ['ski']
+sports_dict['womens skiing'] = ['ski']
 
 # remove empty sports
 for (key, value) in sports_dict.copy().items():
@@ -49,7 +60,8 @@ for (key, value) in sports_dict.copy().items():
 
 # change list number if not first ul of given classname on page
 for (key, value) in sports_dict.items():
-	if key in []:
+	if key in ['womens swimming', 'womens fencing',
+				'womens sailing', 'womens skiing']:
 		value.append(2)
 	else:
 		value.append(1)

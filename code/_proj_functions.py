@@ -9,6 +9,7 @@ class MyOpener(FancyURLopener):
     version = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11)'
 myopener = MyOpener()
 
+
 def select_cols(table, colnames):
     # BeautifulSoup table, list of strings --> list of lists
     # for given table and list of column names,
@@ -70,12 +71,18 @@ def get_table(url, tableid):
     return table
 
 
-def get_list(url, classname):
+def get_list(url, classname, numlists=1):
     # for when rosters are stored in unordered list objects
     # url (str), list class (str) --> BeautifulSoup list
     html = myopener.open(url)
     soup = BeautifulSoup(html, 'lxml')
-    mylist = soup.find('ul', class_ = classname)
+    if numlists == 1:
+        mylist = soup.find('ul', class_ = classname)
+    elif numlists > 1:
+        slice = numlists - 1
+        mylist = soup.find_all('ul', class_ = classname)[slice]
+    else:
+        mylist = []
     return mylist
 
 

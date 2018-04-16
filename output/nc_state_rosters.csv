@@ -1,0 +1,514 @@
+,name,hometown,sport,school
+0,Abdul-Malik Abu,"Boston, Mass. / Kimball Union Academy",mens basketball,nc_state
+1,Lennard Freeman,"Washington, D.C. / Oak Hill Academy (Va.)",mens basketball,nc_state
+2,Torin Dorn,"Charlotte, N.C. / Vance",mens basketball,nc_state
+3,"Lavar Batts, Jr.","Concord, N.C. / Jay M. Robinson",mens basketball,nc_state
+4,Darius Hicks,"Quitman, Miss. / 22 Feet Academy",mens basketball,nc_state
+5,Braxton Beverly,"Hazard, Ky. / Hargrave Military Academy (Va.)",mens basketball,nc_state
+6,Markell Johnson,"Cleveland, Ohio / East Tech",mens basketball,nc_state
+7,Allerik Freeman,"Charlotte, N.C. / Findlay Prep (Nev.)",mens basketball,nc_state
+8,C.J. Bryce,"Charlotte, N.C. / North Mecklenburg",mens basketball,nc_state
+9,Omer Yurtseven,"Istanbul, Turkey",mens basketball,nc_state
+10,Sam Hunt,"Greensboro, N.C. / Dudley",mens basketball,nc_state
+11,Devon Daniels,"Battle Creek, Mich. / Justin-Siena (Calif.)",mens basketball,nc_state
+12,Spencer Newman,"Daphne, Ala. / Bayside Academy",mens basketball,nc_state
+0,Aislinn Konig,"Surrey, British Columbia / Brookswood Secondary",womens basketball,nc_state
+1,Kaila Ealey,"Raleigh, N.C. / Needham Broughton",womens basketball,nc_state
+2,Kai Crutchfield,"Raleigh, N.C. / Millbrook",womens basketball,nc_state
+3,Chelsea Nelson,"Antioch, Tenn. / John Overton HS",womens basketball,nc_state
+4,Kiara Leslie,"Holly Springs, N.C. / Holly Springs",womens basketball,nc_state
+5,DD Rogers,"Charlotte, N.C. / Myers Park HS",womens basketball,nc_state
+6,Grace Hunter,"Raleigh, N.C. / Athens Drive",womens basketball,nc_state
+7,Erika Cassell,"Marietta, Ga. / Holy Innocents",womens basketball,nc_state
+8,Kayla Jones,"Jamesville, N.C. / Riverside",womens basketball,nc_state
+9,Akela Maize,"Greensboro, N.C. / New Hope Christian Academy",womens basketball,nc_state
+10,Katie Wadsworth,"Raleigh, N.C. / Needham Broughton",womens basketball,nc_state
+11,Nae Nae Cole,"Gainesville, Va. / Paul VI HS",womens basketball,nc_state
+12,Armani Hawkins,"Mesa, Ariz. / Mountain View",womens basketball,nc_state
+0,Terrell Tatum,"Collierville, Tenn.",baseball,nc_state
+1,David Vazquez,"Hialeah, Fla.",baseball,nc_state
+2,Devonte Brown,"Newnan, Ga.",baseball,nc_state
+3,Patrick Bailey,"Greensboro, N.C.",baseball,nc_state
+4,Brett Kinneman,"York, Pa.",baseball,nc_state
+5,Stephen Pitarra,"Cary, N.C.",baseball,nc_state
+6,Will Wilson,"Kings Mountain, N.C.",baseball,nc_state
+7,David Harrison,"Rocky Mount, N.C.",baseball,nc_state
+8,Lawson McArthur,"Charlotte, N.C.",baseball,nc_state
+9,Brad Debo,"Durham, N.C.",baseball,nc_state
+10,Brock Deatherage,"Burlington, N.C.",baseball,nc_state
+11,Josh McLain,"Hiddenite, N.C.",baseball,nc_state
+12,Shane Shepard,"Wilmington, N.C.",baseball,nc_state
+13,Dillon Cooper,"Raleigh, N.C.",baseball,nc_state
+14,Evan Edwards,"Greensboro, N.C.",baseball,nc_state
+15,Dalton Feeney,"Bismarck, N.D.",baseball,nc_state
+16,Austin Staley,"North Wilkesboro, N.C.",baseball,nc_state
+17,Jack Conley,"Raleigh, N.C.",baseball,nc_state
+18,Brady Gulakowski,"Pittsburgh, Pa.",baseball,nc_state
+19,Michael Bienlien,"Chesapeake, Va.",baseball,nc_state
+20,James Vaughan,"West Palm Beach, Fla.",baseball,nc_state
+21,Reid Johnston,"Enfield, N.C.",baseball,nc_state
+22,Mathieu Gauthier,"Candiac, Quebec",baseball,nc_state
+23,Hunter Baker,"Huntersville, N.C.",baseball,nc_state
+24,Steven Oakley,"Durham, N.C.",baseball,nc_state
+25,Johnny Piedmonte,"Davidson, N.C.",baseball,nc_state
+26,Evan Justice,"Richmond, Va.",baseball,nc_state
+27,Cameron Cotter,"Summerfield, N.C.",baseball,nc_state
+28,Brian Brown,"Glenmoore, Pa.",baseball,nc_state
+29,Nolan Clenney,"Novi, Mich.",baseball,nc_state
+30,Joe O'Donnell,"Wilmington, N.C.",baseball,nc_state
+31,J.T. Jarrett,"Greensboro, N.C.",baseball,nc_state
+32,Connor Centala,"Tampa, Fla.",baseball,nc_state
+33,Kent Klyman,"Williamsburg, Va.",baseball,nc_state
+34,Josh Pike,"Summerfield, N.C.",baseball,nc_state
+35,Nick Swiney,"Huntersville, N.C.",baseball,nc_state
+36,Cole Hooper,"Sylva, N.C.",baseball,nc_state
+0,"Louis, Stephen","West Palm Beach, Fla.",football,nc_state
+1,"Acceus, Louis","Spring Valley, N.Y.",football,nc_state
+2,"Harmon, Kelvin","Palmyra, N.J.",football,nc_state
+3,"Pratt, Germaine","High Point, N.C.",football,nc_state
+4,"McCloud, Nick","Rock Hill, S.C.",football,nc_state
+5,"Rhem, Damontay","Wendell, N.C.",football,nc_state
+6,"Saunders, Raven","Riviera Beach, Fla.",football,nc_state
+7,"McKay, Matt","Raleigh, N.C.",football,nc_state
+8,"Phillips, Jr., Freddie","Pelion, S.C.",football,nc_state
+9,"Trowell, Maurice","Durham, N.C.",football,nc_state
+10,"Leon, Micah","Boynton Beach, Fla.",football,nc_state
+11,"Meyers, Jakobi","Lithonia, Ga.",football,nc_state
+12,"Wilson, Payton","Hillsborough, N.C.",football,nc_state
+13,"Perkins, Jory","Sanford, N.C.",football,nc_state
+14,"Morrison, Stephen","Weddington, N.C.",football,nc_state
+15,"Cornwell, Woody","Lake Junaluska, N.C.",football,nc_state
+16,"Wright, Dexter","Wilson, N.C.",football,nc_state
+17,"Finley, Ryan","Phoenix, Ariz.",football,nc_state
+18,"Ingram, Chris","Mooresville, N.C.",football,nc_state
+19,"Riley, C.J.","Coconut Creek, Fla.",football,nc_state
+20,"Person, Jr., Ricky","Wake Forest, N.C.",football,nc_state
+21,"Collins, Erin","Tampa, Fla.",football,nc_state
+22,"Griffin, Stephen","Charlotte, N.C.",football,nc_state
+23,"Stallings, Isaiah","Fayetteville, N.C.",football,nc_state
+24,"Graves, De'Von","Appomattox, Va.",football,nc_state
+25,"Robinson, Jr., Nakia","Miami, Fla.",football,nc_state
+26,"Gallaspy II, Reggie","High Point, N.C.",football,nc_state
+27,"Grier, Vernon","Charlotte, N.C.",football,nc_state
+28,"Miller, Kishawn","Buffalo, N.Y.",football,nc_state
+29,"Parham, Dylan","Raleigh, N.C.",football,nc_state
+30,"Braxton, Marquise","Greenville, N.C.",football,nc_state
+31,"Valdez, Markel","Orangeburg, S.C.",football,nc_state
+32,"Dabbs, Tyler","Eden, N.C.",football,nc_state
+33,"Morehead, Jarius","Whitsett, N.C.",football,nc_state
+34,"Dunn, Christopher","Lexington, N.C.",football,nc_state
+35,"Bodine, Brady","Camp Lejeune, N.C.",football,nc_state
+36,"Counts, Dalton","Raleigh, N.C.",football,nc_state
+37,"Kidd-Glass, Tim","Danville, Va.",football,nc_state
+38,"Brown, III, William","Raleigh, NC",football,nc_state
+39,"Miller, Brock","Port St. Lucie, Fla.",football,nc_state
+40,"Malit, Jessie","Concord, N.C.",football,nc_state
+41,"Dabbs, Will","Eden, N.C.",football,nc_state
+42,"Wise, Carson","Blacksburg, Va.",football,nc_state
+43,"Smith-Williams, James","Raleigh, N.C.",football,nc_state
+44,"Eason, Will","Charlotte, N.C.",football,nc_state
+45,"Moore, Isaiah","Chester, Va.",football,nc_state
+46,"Autenrieth, Dylan","Dallas, Ga.",football,nc_state
+47,"Blakeman, Danny","Raleigh, N.C.",football,nc_state
+48,"Pierson, David","Wendell, N.C.",football,nc_state
+49,"Babros, Joe","Mission Viejo, Calif.",football,nc_state
+50,"Roseboro, Darian","Lincolnton, N.C.",football,nc_state
+51,"Bowditch, II, Preston","Raleigh, N.C.",football,nc_state
+52,"Czesak, Cayman","Wilmington, N.C.",football,nc_state
+53,"Darden, Damien","Pikeville, N.C.",football,nc_state
+54,"Christophe, Christian","Fayetteville, N.C.",football,nc_state
+55,"Thompson, Jr., A.J.","Raleigh, N.C.",football,nc_state
+56,"Jennette, Ezekiel","Durham, N.C.",football,nc_state
+57,"Quiggle, Jackson","Sanford, N.C.",football,nc_state
+58,"Brown, Kendall","Jacksonville, Fla.",football,nc_state
+59,"Kante, Ibrahim","New York, N.Y.",football,nc_state
+60,"Jones, Tyler","Stone Mountain, Ga.",football,nc_state
+61,"Bellamy, Evin","Leland, N.C.",football,nc_state
+62,"Holden, Deonte","Landover, Md.",football,nc_state
+63,"Riley, Tyrone","Savannah, Ga.",football,nc_state
+64,"Byers, Kollin","Shelby, N.C.",football,nc_state
+65,"Griffiths, Tyler","Indian Trail, N.C.",football,nc_state
+66,"Newhouse, Sam","Concord, N.C.",football,nc_state
+67,"Ryan, Liam","Cary, N.C.",football,nc_state
+68,"Speas, Bryson","Greensboro, N.C.",football,nc_state
+69,"Bradbury, Garrett","Charlotte, N.C.",football,nc_state
+70,"Fedd-Jackson, Joshua","Montvale, N.J.",football,nc_state
+71,"Witt, Justin","Chicago, Ill.",football,nc_state
+72,"Fletcher, Charles","Greenville, N.C.",football,nc_state
+73,"Prescod, Terronne","Decatur, Ga.",football,nc_state
+74,"Sculthorpe, Joe","Hampstead, N.C.",football,nc_state
+75,"Walton, Jr., Philip","Charlotte, N.C.",football,nc_state
+76,"Chase, Justin","Chesapeake, Va.",football,nc_state
+77,"Gibson, Grant","Charlotte, N.C.",football,nc_state
+78,"McGirt, Jr., Emanuel","Durham, N.C.",football,nc_state
+79,"Strickland, Jalynn","Waycross, Ga.",football,nc_state
+80,"Gee, Harrison","Burlington, N.C.",football,nc_state
+81,"Fisher, Max","Upper Marlboro, Md.",football,nc_state
+82,"Collins, Eric","Tampa, Fla.",football,nc_state
+83,"Emezie, Emeka","Waxhaw, N.C.",football,nc_state
+84,"Thomas, Thayer","Wake Forest, N.C.",football,nc_state
+85,"Boselli, Adam","Ponte Vedra, Fla.",football,nc_state
+86,"Ruocchio, Thomas","Raleigh, N.C.",football,nc_state
+87,"Cole III, A.J.","College Park, Ga.",football,nc_state
+88,"Frazier, Shug","Buford, Ga.",football,nc_state
+89,"Bryant, Eurndraus","North Charleston, S.C.",football,nc_state
+90,"Bambard, Kyle","Wixom, Mich.",football,nc_state
+91,"Murchison, Larrell","Elizabethtown, N.C.",football,nc_state
+92,"Giroux, Noah","Garner, N.C.",football,nc_state
+93,"Johnson, Dante","Apopka, Fla.",football,nc_state
+94,"Lyas, Xavier","Plant City, Fla.",football,nc_state
+95,"Boletepeli, Joseph","Raleigh, N.C.",football,nc_state
+96,"Gill, Trenton","Hillsborough, N.C.",football,nc_state
+0,Manny Perez,"Garner, N.C.",mens soccer,nc_state
+1,David Norris,"Winter Park, Fla.",mens soccer,nc_state
+2,Stephen Elias,"Rye, N.Y.",mens soccer,nc_state
+3,Christoph Schneuwly,"Schmitten, Switzerland",mens soccer,nc_state
+4,Tanner Roberts,"Huntersville, N.C.",mens soccer,nc_state
+5,Brad Sweeney,"Birmingham, England",mens soccer,nc_state
+6,Ade Taiwo,"Raleigh, N.C.",mens soccer,nc_state
+7,David Loera,"Orlando, Fla.",mens soccer,nc_state
+8,Tyler Gabarra,"Arnold, Md.",mens soccer,nc_state
+9,Vincent Durand,"Cary, N.C.",mens soccer,nc_state
+10,Simon Blotko,"Dusseldorf, Germany",mens soccer,nc_state
+11,Clayton Sparks,"Jacksonville, N.C.",mens soccer,nc_state
+12,Nick Retzlaff,"Wake Forest, N.C.",mens soccer,nc_state
+13,Willy Ramirez,"Garner, N.C.",mens soccer,nc_state
+14,Mac Gourlay,"Asheville, N.C.",mens soccer,nc_state
+15,Jose Morales Jr.,"Sanford, N.C.",mens soccer,nc_state
+16,Nick Cournoyer,"Charlotte, N.C.",mens soccer,nc_state
+17,Harry Adanuty,"Cary, N.C.",mens soccer,nc_state
+18,Leon Krapf,"Gochsheim, Germany",mens soccer,nc_state
+0,Grayson Cameron,"Hickory, N.C.",womens soccer,nc_state
+1,Tziarra King,"Sicklerville, N.J.",womens soccer,nc_state
+2,Krissi Schuster,"Polling, Germany",womens soccer,nc_state
+3,Hannah Keogh,"San Diego, Calif.",womens soccer,nc_state
+4,Lexi Moore,"Jacksonville, N.C.",womens soccer,nc_state
+5,Lulu Guttenberger,"Velburg, Germany",womens soccer,nc_state
+6,Ricci Walkling,"Obergriesbach, Germany",womens soccer,nc_state
+7,Kia Rankin,"Bowie, Md.",womens soccer,nc_state
+8,Maxine Blackwood,"Somerville, N.J.",womens soccer,nc_state
+9,Courtney Walker,"Waxhaw, N.C.",womens soccer,nc_state
+10,Michaella van Maanen,"Woodbridge, Va.",womens soccer,nc_state
+11,Sydney Wootten,"San Diego, Calif.",womens soccer,nc_state
+12,Ella Bonner,"Chesapeake, Va.",womens soccer,nc_state
+13,Taylor Porter,"San Diego, Calif.",womens soccer,nc_state
+14,Mikhail Johnson,"Williamsburg, Va.",womens soccer,nc_state
+15,Frances Henshall,"Greensboro, NC",womens soccer,nc_state
+16,Mia Thillet,"Charlotte, N.C.",womens soccer,nc_state
+17,Paige Griffiths,"Raleigh, N.C.",womens soccer,nc_state
+18,Kursten von Klahr,"Concord, N.C.",womens soccer,nc_state
+19,Tea Smith,"Longmont, Colo.",womens soccer,nc_state
+20,Naomi Powell,"Charlotte, N.C.",womens soccer,nc_state
+21,Hope McQueen,"San Diego, Calif.",womens soccer,nc_state
+22,Jessica Berlin,"Burke, Va.",womens soccer,nc_state
+0,Tanis Baldwin,"Hendersonville, N.C.",mens cross country,nc_state
+1,Ben Barrett,"Norman, Okla.",mens cross country,nc_state
+2,Tim Bason,"West Windsor, N.J.",mens cross country,nc_state
+3,Joe Bistritz,"Chagrin Falls, Ohio",mens cross country,nc_state
+4,Kyle Christ,"Raleigh, N.C.",mens cross country,nc_state
+5,Gavin Gaynor,"Hudson, Ohio",mens cross country,nc_state
+6,Noah Graham,"Brevard, N.C.",mens cross country,nc_state
+7,Jack Hagood,"Wilmington, Del.",mens cross country,nc_state
+8,Philip Hall,"Fayetteville, N.C.",mens cross country,nc_state
+9,Brendan Johnson,"Waldorf, Md.",mens cross country,nc_state
+10,Elijah Moskowitz,"Amherst, N.H.",mens cross country,nc_state
+11,Aubrey Myjer,"Mountain View, Calif.",mens cross country,nc_state
+12,Edwin Rutto,"Newark, N.J.",mens cross country,nc_state
+13,Ian Shanklin,"Greensboro, N.C.",mens cross country,nc_state
+14,Patrick Sheehan,"Mooresville, N.C.",mens cross country,nc_state
+15,Aaron Thomas,"Brentwood, Tenn.",mens cross country,nc_state
+16,Alec Thomas,"Brentwood, Tenn.",mens cross country,nc_state
+17,Eric Walz,"Timonium, Md.",mens cross country,nc_state
+0,Dejah Arnold,"Fort Wayne, Ind.",womens cross country,nc_state
+1,Rachel Bartolomeo,"Cary, N.C.",womens cross country,nc_state
+2,Bianca Bishop,"Charlotte, N.C.",womens cross country,nc_state
+3,Izzy Carron,"Skerries, Dublin, Ireland",womens cross country,nc_state
+4,Dominique Clairmonte,"Lexington, Ohio",womens cross country,nc_state
+5,Mary Grace Doggett,"Raleigh, N.C.",womens cross country,nc_state
+6,Ryen Frazier,"Raleigh, N.C.",womens cross country,nc_state
+7,Wesley Frazier,"Raleigh, N.C.",womens cross country,nc_state
+8,Gianna Frontera,"Newburgh, N.Y.",womens cross country,nc_state
+9,Rebekah Greengrass,"Cary, N.C.",womens cross country,nc_state
+10,Janay Hall,"Hope Mills, N.C.",womens cross country,nc_state
+11,Elly Henes,"Cary, N.C.",womens cross country,nc_state
+12,Casey Kendall,"Herndon, Va.",womens cross country,nc_state
+13,Rachel Koon,"Asheville, N.C.",womens cross country,nc_state
+14,Taylor McClay,"Eastport, N.Y.",womens cross country,nc_state
+15,Bethany Neeley,"Greentown, Ind.",womens cross country,nc_state
+16,Tiana Patillo,"Raleigh, N.C.",womens cross country,nc_state
+17,Annie Pierce,"Cary, N.C.",womens cross country,nc_state
+18,Megan Rempel,"Ontario, Canada",womens cross country,nc_state
+19,Alyssa Rudawsky,"Garnet Valley, Pa.",womens cross country,nc_state
+20,Beth Taye,"Silver Springs, Md.",womens cross country,nc_state
+21,Megan Vaughn,"Raleigh, N.C.",womens cross country,nc_state
+22,Anna Vess,"Fairview, N.C.",womens cross country,nc_state
+23,Julia Zachgo,"Clifton Park, N.Y.",womens cross country,nc_state
+24,Isabel Zimmermann,"Clemmons, N.C.",womens cross country,nc_state
+0,Dwight Cauthen,"Columbia, S.C. / Home Schooled",mens golf,nc_state
+1,Stephen Franken,"Raleigh, N.C. / Millbrook",mens golf,nc_state
+2,Justin Hood,"St. Matthews, S.C. / Calhoun Academy",mens golf,nc_state
+3,Nolan Mills Jr.,"Charlotte, N.C. / Myers Park",mens golf,nc_state
+4,Easton Paxton,"Riverton, Wyoming / Riverton",mens golf,nc_state
+5,Harrison Rhoades,"Raleigh, N.C. / Broughton",mens golf,nc_state
+6,Davis Richards,"China Grove, N.C. / South Rowan",mens golf,nc_state
+7,Christian Salzer,"Sumter, S.C. / Wilson Hall",mens golf,nc_state
+8,Benjamin Shipp,"Duluth, Ga. / Great Atlanta Christian",mens golf,nc_state
+0,India Clyburn,"Cleethorpes, England",womens golf,nc_state
+1,Monika Hartl,"Bamberg, Germany",womens golf,nc_state
+2,Crystal Huang,"ShunDe GuangDong, China",womens golf,nc_state
+3,Naomi Ko,"Victoria, Canada",womens golf,nc_state
+4,Laura Kowohl,"Kronau, Germany",womens golf,nc_state
+5,Christina Lu,"Yunnan, China",womens golf,nc_state
+6,Cecily Overbey,"High Point, N.C.",womens golf,nc_state
+7,Mim Sangkapong,"Nonthaburi, Thailand",womens golf,nc_state
+0,James Brady,"Chapel Hill, N.C.",mens swimming,nc_state
+1,James Bretscher,"Knoxville, Tenn.",mens swimming,nc_state
+2,Parker Campbell,"Shelby, N.C.",mens swimming,nc_state
+3,Danny Erlenmeyer,"Bradenton, Fla.",mens swimming,nc_state
+4,Daniel Forndal,"Forserum, Sweden",mens swimming,nc_state
+5,Cobe Garcia,"Burlington, Kansas",mens swimming,nc_state
+6,Daniel Graber,"Morrison, Colo.",mens swimming,nc_state
+7,Holt Gray,"Raleigh, N.C.",mens swimming,nc_state
+8,Ryan Held,"Springfield, Ill.",mens swimming,nc_state
+9,Noah Hensley,"Winter Springs, Fla.",mens swimming,nc_state
+10,Anton Ipsen,"Birkerod, Denmark",mens swimming,nc_state
+11,Giovanni Izzo,"Bologna, Italy",mens swimming,nc_state
+12,Jacob Johnson,"Chester, Va.",mens swimming,nc_state
+13,Gil Kiesler,"Haifa, Israel",mens swimming,nc_state
+14,Eric Knowles,"Dayton, Ohio",mens swimming,nc_state
+15,Lucca Martins,"Cupertino, Calif.",mens swimming,nc_state
+16,Mark McGlaughlin,"Iowa City, Iowa",mens swimming,nc_state
+17,Jack McIntyre,"West Windsor, NJ",mens swimming,nc_state
+18,Harrison Mitchell,"Davidson, N.C.",mens swimming,nc_state
+19,Jacob Molacek,"Omaha, Neb.",mens swimming,nc_state
+20,Matt O'Donnell,"Bradenton, Fla.",mens swimming,nc_state
+21,Justin Ress,"Cary, N.C.",mens swimming,nc_state
+22,Mason Revis,"Higganum, Conn.",mens swimming,nc_state
+23,Tyler Rice,"Jacksonville, Fla.",mens swimming,nc_state
+24,Patrik Schwarzenbach,"Salenstein, TG, Switzerland",mens swimming,nc_state
+25,Luke Sobolewski,"Cincinnati, Ohio",mens swimming,nc_state
+26,Stewart Spanbauer,"Cincinnati, Ohio",mens swimming,nc_state
+27,Coleman Stewart,"York, Pa.",mens swimming,nc_state
+28,Hennessey Stuart,"Denver, Colo.",mens swimming,nc_state
+29,Quinlan Stuart,"Denver, Colo.",mens swimming,nc_state
+30,Andreas Vazaios,"Athens, Greece",mens swimming,nc_state
+0,Vasiliki Baka,"Kalamata, Greece",womens swimming,nc_state
+1,Emmie Barnhill,"Greenville, N.C.",womens swimming,nc_state
+2,Rachel Burston,"Stamford, Conn.",womens swimming,nc_state
+3,Courtney Caldwell,"Lawrence, Kan.",womens swimming,nc_state
+4,Olivia Calegan,"Lincoln, Neb.",womens swimming,nc_state
+5,Jacqueline Clabeaux,"Fairfax, Va.",womens swimming,nc_state
+6,Krista Duffield,"Tucson, Ariz.",womens swimming,nc_state
+7,Caroline Estep,"Wilmington, N.C.",womens swimming,nc_state
+8,Ariel Finke,"Clearwater, Florida",womens swimming,nc_state
+9,Olivia Fisher,"Mechanicsville, Va.",womens swimming,nc_state
+10,Mackenzie Glover,"Winnipeg, Canada",womens swimming,nc_state
+11,Elise Haan,"Naples, Fla.",womens swimming,nc_state
+12,Tamila Holub,"Cherkasy, Ukraine",womens swimming,nc_state
+13,Jessica Horomanski,"Greer, S.C.",womens swimming,nc_state
+14,Danika Huizinga,"Toronto, Canada",womens swimming,nc_state
+15,Anna Jahns,"Lilburn, Ga.",womens swimming,nc_state
+16,Madeline Kline,"Damascus, Md.",womens swimming,nc_state
+17,Olga Lapteva,"Vladivostok, Russia",womens swimming,nc_state
+18,Lexie Lupton,"Kingwood, Texas",womens swimming,nc_state
+19,Rozhina McClanahan,"Charlotte, N.C.",womens swimming,nc_state
+20,Hannah Moore,"Cary, N.C.",womens swimming,nc_state
+21,Kathleen Moore,"Cary, N.C.",womens swimming,nc_state
+22,Maddie Morello,"Newport News, Va.",womens swimming,nc_state
+23,Lindsay Morrow,Evergreen. Colo.,womens swimming,nc_state
+24,Carlie Perkins,"Avondale, Pa.",womens swimming,nc_state
+25,Ky-lee Perry,"Norwalk, Conn.",womens swimming,nc_state
+26,Julia Poole,"Cary, N.C.",womens swimming,nc_state
+27,Bailey Revels,"Chapel Hill, N.C.",womens swimming,nc_state
+28,Sirena Rowe,"Charlotte, N.C.",womens swimming,nc_state
+29,Brooke Rubendall,"Cary, N.C.",womens swimming,nc_state
+30,Anna Shumate,"Alexandria, Va.",womens swimming,nc_state
+0,Tadas Babelis,"Vilnius, Lithuania / Vilnius Ozo Gimnazija",mens tennis,nc_state
+1,Alexis Galarneau,"Laval, Canada / Academie les Estacades",mens tennis,nc_state
+2,Morgan Lohan,"Tramore, Ireland / Ardscoil Na Mara",mens tennis,nc_state
+3,Georgiy Malyshev,"Kirov, Russia / Rg Maroltingergasse 69-71",mens tennis,nc_state
+4,Michael Ogden,"Salisbury, N.C. / Salisbury HS",mens tennis,nc_state
+5,Igor Saveljic,"Podgorica, Montenegro / Gimnazija Crnjanski",mens tennis,nc_state
+6,Ivan Saveljic,"Podgorica, Montenegro / Gimnazija Crnjanski",mens tennis,nc_state
+7,Joseph Schrader,"Brevard, N.C. / Brevard HS",mens tennis,nc_state
+8,Collin Shick,"Greensboro, N.C. / Laurel Springs",mens tennis,nc_state
+9,Tristan Smith,"Wilmington, N.C. / Laurel Springs",mens tennis,nc_state
+10,Robert Turzak,"Košice, Slovakia / Gymnazium Trebisouska",mens tennis,nc_state
+0,Taylor Bridges,"Mesa, Ariz.",womens tennis,nc_state
+1,Bianca Moldovan,"Livonia, Mich.",womens tennis,nc_state
+2,Adriana Reami,"Miami, Fla.",womens tennis,nc_state
+3,Amanda Rebol,"Cumming, Ga.",womens tennis,nc_state
+4,Anna Rogers,"Stamford, Conn.",womens tennis,nc_state
+5,Tayla Stenta,"Melbourne, Australia",womens tennis,nc_state
+6,Claudia Wiktorin,"Davidson, N.C.",womens tennis,nc_state
+0,Tanis Baldwin,"Hendersonville, N.C. / East Henderson",mens track,nc_state
+1,Ben Barrett,"Norman, Okla. / Norman North",mens track,nc_state
+2,Tim Bason,"West Windsor, N.J. / Plainsboro South",mens track,nc_state
+3,Joe Bistritz,"Chagrin Falls, Ohio / Chagrin Falls",mens track,nc_state
+4,Cravont Charleston,"Charlotte, N.C. / Mallard Creek",mens track,nc_state
+5,Kyle Christ,"Raleigh, N.C. / West Johnson",mens track,nc_state
+6,Quashawn Cunningham,"Charlotte, N.C. / Mallard Creek HS",mens track,nc_state
+7,Joshua Davis,"Pelham, N.C. / Bartlett Yancey HS",mens track,nc_state
+8,Von Douglas,"Alpharetta, Ga. / Chattahoochee",mens track,nc_state
+9,Junpai Dowdy,"Mint Hill, N.C. / South Mecklenburg",mens track,nc_state
+10,Tyson Fortenberry,"Gastonia, N.C. / Ashbrook",mens track,nc_state
+11,Christopher Garrick,"Waxhaw, N.C. / Marvin Ridge",mens track,nc_state
+12,Gavin Gaynor,"Hudson, Ohio / Hudson",mens track,nc_state
+13,Noah Graham,"Brevard, N.C. / Brevard",mens track,nc_state
+14,Jack Hagood,"Wilmington, Del. / Tatnall HS",mens track,nc_state
+15,Philip Hall,"Fayetteville, N.C. / South View HS",mens track,nc_state
+16,Nyheim Hines,"Garner, N.C. / Garner",mens track,nc_state
+17,Will Hoffmann,"Cary, N.C. / Green Hope",mens track,nc_state
+18,Brendan Johnson,"Waldorf, Md. / Thomas Stone",mens track,nc_state
+19,J Johnson Jr.,"Morrisville, N.C.  / Panther Creek",mens track,nc_state
+20,Abdur Rahmaan Kelly,"Washington, DC / T. Roosevelt Senior HS",mens track,nc_state
+21,Gabriel King,"Mount Airy, N.C. / Mount Airy",mens track,nc_state
+22,Sam Krehnbrink,"Denver, NC / East Lincoln HS",mens track,nc_state
+23,Wyatt Maxey,"Charlotte, N.C. / Providence HS",mens track,nc_state
+24,Elijah Moskowitz,"Amherst, N.H. / Souhegan",mens track,nc_state
+25,Aubrey Myjer,"Mountain View, Calif. / Columbia",mens track,nc_state
+26,Shannon Patterson,"Winston Salem, N.C. / Mt. Tabor HS",mens track,nc_state
+27,Dylan Peebles,"Raleigh, N.C. / Wakefield",mens track,nc_state
+28,"JaTory ""JT"" Reid","Monroe, N.C. / Piedmont",mens track,nc_state
+29,Grant Rivers,"Hendersonville, N.C. / Hendersonville HS",mens track,nc_state
+30,Edwin Rutto,"Newark, N.J. / St. Benedict's",mens track,nc_state
+31,Ian Shanklin,"Greensboro, N.C. / Page",mens track,nc_state
+32,Patrick Sheehan,"Mooresville, N.C. / Lake Norman HS",mens track,nc_state
+33,Aaron Thomas,"Brentwood, Tenn. / Brentwood HS",mens track,nc_state
+34,Alec Thomas,"Brentwood, Tenn. / Brentwood HS",mens track,nc_state
+35,Alex Williams,"Wilson, N.C. / Fike",mens track,nc_state
+0,Javonne Antoine,"Beltsville, Md. / Elizabeth Seton HS",womens track,nc_state
+1,Dejah Arnold,"Fort Wayne, Ind. / Northrop HS",womens track,nc_state
+2,Rachel Bartolomeo,"Cary, N.C. / Cardinal Gibbons",womens track,nc_state
+3,Bianca Bishop,"Charlotte, N.C. / Providence HS",womens track,nc_state
+4,Izzy Carron,"Skerries, Dublin, Ireland / Skerries Community College",womens track,nc_state
+5,Dominique Clairmonte,"Lexington, Ohio / Lexington",womens track,nc_state
+6,Michelle Cobb,"Asheville, N.C. / T.C. Roberson",womens track,nc_state
+7,Mikieja Covington,"Wendell, N.C. / East Wake",womens track,nc_state
+8,Gabriele Cunningham,"Charlotte, N.C. / Mallard Creek",womens track,nc_state
+9,Mary Grace Doggett,"Raleigh, N.C. / Cardinal Gibbons",womens track,nc_state
+10,Lauren Evans,"Fayetteville, N.C. / Pine Forest HS",womens track,nc_state
+11,Ryen Frazier,"Raleigh, N.C. / Ravenscroft",womens track,nc_state
+12,Wesley Frazier,"Raleigh, N.C. / Duke",womens track,nc_state
+13,Gianna Frontera,"Newburgh, N.Y. / Newburgh Free Academy",womens track,nc_state
+14,Grace Gaudin,"Woodbridge, Va. / Forest Park",womens track,nc_state
+15,Rebekah Greengrass,"Cary, N.C. / Panther Creek",womens track,nc_state
+16,Jada Griffin,,womens track,nc_state
+17,Janay Hall,"Hope Mills, N.C. / South View",womens track,nc_state
+18,Sharmani Hall,"Raleigh, N.C. / Southeast Raleigh HS",womens track,nc_state
+19,Jersey Harris,"Atlantic City, N.J. / Page",womens track,nc_state
+20,Elly Henes,"Cary, N.C. / Green Hope",womens track,nc_state
+21,Nyah Hines,"Raleigh, N.C. / Garner Magnet HS",womens track,nc_state
+22,Ashley Ho,"Piqua, Ohio / Piqua",womens track,nc_state
+23,Erika Kemp,"Mount Holly, N.J. / Rancocas Valley Regional HS",womens track,nc_state
+24,Casey Kendall,"Herndon, Va. / Oakton",womens track,nc_state
+25,Rachel Koon,"Asheville, N.C. / T.C. Roberson",womens track,nc_state
+26,Nevada Mareno,"Raleigh, N.C.  / Leesville Road",womens track,nc_state
+27,Imari McLean,"Durham, N.C. / Hillside HS",womens track,nc_state
+28,Bethany Neeley,"Greentown, Ind. / Indiana",womens track,nc_state
+29,Janel Pate,"Nashville, Tenn. / Hillsboro",womens track,nc_state
+30,Tiana Patillo,"Raleigh, N.C. / Wakefield HS",womens track,nc_state
+31,Annie Pierce,"Cary, N.C. / Cardinal Gibbons",womens track,nc_state
+32,Alexis Postell,"Owings, Md. / Bullis School",womens track,nc_state
+33,Megan Rempel,"Ontario, Canada / E.L. Crossley Secondary School",womens track,nc_state
+34,Alyssa Rudawsky,"Garnet Valley, Pa. / Garnet Valley HS",womens track,nc_state
+35,Hannah Stokes,"Weddington, NC / Weddington",womens track,nc_state
+36,Beth Taye,"Silver Springs, Md. / Paint Branch",womens track,nc_state
+37,Nicole Teague,"Atlanta, Ga. / The Lovett School",womens track,nc_state
+38,Megan Vaughn,"Raleigh, N.C. / Cardinal Gibbons",womens track,nc_state
+39,Anna Vess,"Fairview, N.C. / AC Reynolds",womens track,nc_state
+40,Lauren White,"Raleigh, N.C. / Rolesville",womens track,nc_state
+41,Hannah Williams,"San Rafael, Calif. / Sir Francis Drake HS",womens track,nc_state
+42,Kylia Wright,"Raleigh, N.C. / Southeast Raleigh",womens track,nc_state
+43,Julia Zachgo,"Clifton Park, N.Y. / Shenendehowa",womens track,nc_state
+44,Isabel Zimmermann,"Clemmons, N.C. / Ronald Wilson Reagan",womens track,nc_state
+0,P.J. Bernstein,"Raleigh, N.C.",wrestling,nc_state
+1,Michael Boykin,"Coatesville, Pa.",wrestling,nc_state
+2,Daniel Bullard,"Lawrenceville, Ga.",wrestling,nc_state
+3,Thomas Bullard,"Lawrenceville, Ga.",wrestling,nc_state
+4,Will Clark,"Cary, N.C.",wrestling,nc_state
+5,Tommy Cox,"Deer Park, N.Y.",wrestling,nc_state
+6,Roderick Davis,"Powder Springs, Ga.",wrestling,nc_state
+7,Jake DeAngelo,"Burlington, N.C.",wrestling,nc_state
+8,John Devine,"East Greenbush, N.Y.",wrestling,nc_state
+9,Kellen Devlin,"Amherst, N.Y.",wrestling,nc_state
+10,Beau Donahue,"Centreville, Va.",wrestling,nc_state
+11,Trevor Edwards,"Mattoon, Ill.",wrestling,nc_state
+12,Sean Fausz,"Alexandria, Ky.",wrestling,nc_state
+13,Nicky Hall,"Coram, N.Y.",wrestling,nc_state
+14,Brian Hamann,"Jackson, N.J.",wrestling,nc_state
+15,Hayden Hidlay,"Lewistown, Pa.",wrestling,nc_state
+16,Kevin Jack,"Danbury, Conn.",wrestling,nc_state
+17,Tyler Johnson,"Lockport, Ill.",wrestling,nc_state
+18,A.J. Leitten,"Fort Mill, S.C.",wrestling,nc_state
+19,Charlie Lenox,"Erie, Pa.",wrestling,nc_state
+20,Michael Macchiavello,"Monroe, N.C.",wrestling,nc_state
+21,Malik McDonald,"Hope Mills, N.C.",wrestling,nc_state
+22,Sam Melikian,"Mohegan Lake, N.Y.",wrestling,nc_state
+23,Jamal Morris,"Fort Lauderdale, Fla.",wrestling,nc_state
+24,Jamel Morris,"Fort Lauderdale, Fla.",wrestling,nc_state
+25,Nick Reenan,"Dallas, Texas",wrestling,nc_state
+26,Pete Renda,"Topton, Pa.",wrestling,nc_state
+27,Robbie Rizzolino,"Easton, Pa.",wrestling,nc_state
+28,Zurich Storm,"New Oxford, Pa.",wrestling,nc_state
+29,Tariq Wilson,"Steubenville, Ohio",wrestling,nc_state
+0,Jessica Moore,"Northridge, Calif.",softball,nc_state
+1,Sam Russ,"Charlotte, N.C.",softball,nc_state
+2,Jade Caraway,"Winter Garden, Fla.",softball,nc_state
+3,Lily Bishop,"Riverside, Calif.",softball,nc_state
+4,Madeline Curtis,"Graham, N.C.",softball,nc_state
+5,Chandley Garner,"Lawsonville, N.C.",softball,nc_state
+6,Natalie Jones,"Stedman, N.C.",softball,nc_state
+7,Harli Hubbard,"Camas, Wash.",softball,nc_state
+8,Haley Finn,"Riverside, Calif.",softball,nc_state
+9,Kama Woodall,"Spring Hill, Fla.",softball,nc_state
+10,Brittany Nimmo,"Springfield, Mo.",softball,nc_state
+11,Alyssa Compton,"Irvine, Calif.",softball,nc_state
+12,Timberlyn Shurbutt,"Alexandria, Ala.",softball,nc_state
+13,Macauley Prickett,"Petaluma, Calif.",softball,nc_state
+14,Devin Wallace,"Raleigh, N.C.",softball,nc_state
+15,Cheyenne Balzer,"Temecula, Calif.",softball,nc_state
+16,Angie Rizzi,"Tuckahoe, N.Y.",softball,nc_state
+17,Haylee Kobziak,"Waxhaw, N.C.",softball,nc_state
+0,Kaylee Frazier,"The Woodlands, Texas",womens volleyball,nc_state
+1,Grace Irvin,"Raleigh, N.C.",womens volleyball,nc_state
+2,Melissa Evans,"Lone Tree, Colo.",womens volleyball,nc_state
+3,Kylie Pickrell,"Coppell, Texas",womens volleyball,nc_state
+4,Keira Moore,"Spartanburg, S.C.",womens volleyball,nc_state
+5,Kassie Kasper,"Algonquin, Ill.",womens volleyball,nc_state
+6,Jasmine Evans,"Lone Tree, Colo.",womens volleyball,nc_state
+7,Makenzie Kuchmaner,"Waxhaw, N.C.",womens volleyball,nc_state
+8,Sarah Konchan,"Kenosha, Wis.",womens volleyball,nc_state
+9,Kristen Chatman,"Columbus, Ohio",womens volleyball,nc_state
+10,Erin Chatman,"Columbus, Ohio",womens volleyball,nc_state
+11,Jessica Kemp,"Fort Mill, S.C.",womens volleyball,nc_state
+12,Nina Sharpton,"Palm Beach, Fla.",womens volleyball,nc_state
+13,Lauryn Terry,"Columbia, Md.",womens volleyball,nc_state
+14,Nailah Gordon,"Southlake, Texas",womens volleyball,nc_state
+15,Teni Sopitan,"Laurel, Md.",womens volleyball,nc_state
+0,Alexis Beucler,"Findlay, Ohio",womens gymnastics,nc_state
+1,Melissa Brooker,"Charlotte, N.C.",womens gymnastics,nc_state
+2,Katie Cox,"Fuquay Varina, N.C.",womens gymnastics,nc_state
+3,Caitlyn Fillard,"Centereach, N.Y.",womens gymnastics,nc_state
+4,Drew Grantham,"Durham, N.C.",womens gymnastics,nc_state
+5,Olivia Hunter,"Hampstead, N.C.",womens gymnastics,nc_state
+6,Mackenzie Itcush,"Calgary, Alberta, Canada",womens gymnastics,nc_state
+7,Lauren Kent,"Willow Springs, N.C.",womens gymnastics,nc_state
+8,Chelsea Knight,"Waldorf, Md.",womens gymnastics,nc_state
+9,Hailey Mesmer,"Oak Ridge, Tenn.",womens gymnastics,nc_state
+10,Taylor Murphy,"Irvine, Calif",womens gymnastics,nc_state
+11,Kasey Nelson,"Marietta, Ga.",womens gymnastics,nc_state
+12,Alexa Phillips,"Athens, Ga.",womens gymnastics,nc_state
+13,Paris Phillips,"Athens, Ga.",womens gymnastics,nc_state
+14,Victoria Prati,"Winter Haven, Fla.",womens gymnastics,nc_state
+15,Maggie Tamburro,"Hummelstown, Pa.",womens gymnastics,nc_state
+16,Sara Watson,"Tabor City, N.C.",womens gymnastics,nc_state
+17,Nicole Wild,"Waxhaw, N.C.",womens gymnastics,nc_state
+0,Zach Eisenberg,"Burke, Va.",mixed rifle,nc_state
+1,Kendra Jacobs,"Trent, S.D.",mixed rifle,nc_state
+2,Tyler Lefebvre,"Uxbridge, Mass.",mixed rifle,nc_state
+3,Will Marciniak,"Sewaren, N.J.",mixed rifle,nc_state
+4,Derya Pekari,"Rota, Spain",mixed rifle,nc_state
+5,Lauren Phillips,"Seabeck, Wash.",mixed rifle,nc_state
+6,Claire Spina,"Clifton, Va.",mixed rifle,nc_state
+7,Claire Zanti,"Norfolk, Va.",mixed rifle,nc_state

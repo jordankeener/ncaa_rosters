@@ -1,6 +1,5 @@
 
 # dictionary from our sport names to default URL
-
 # def get_sports_url_dict():
 #     sports_url_dict = {'mens basketball':'mbball',
 #                   'womens basketball': 'wbball',
@@ -77,7 +76,15 @@ def get_sports_list():
          'mixed cross country',
          'womens beach volleyball',
          'womens bowling',
-         'womens rifle']
+         'womens rifle',
+         'mixed fencing',
+         'mixed swimming',
+         'mens sailing',
+         'womens sailing',
+         'mens skiing',
+         'womens skiing',
+         'mens squash',
+         'womens squash']
     return x
 
 def get_sports_dict():
