@@ -14,16 +14,34 @@ myopener = MyOpener()
 outdir = '../output'
 
 
-##### school #################
+##### florida #################
 full_df = pd.DataFrame()
-school = ''
-url_template = ''
-tableid_template = ''
+school = 'florida'
+url_template = 'http://floridagators.com/roster.aspx?path={sporturl}'
+tableid_template = 'ctl00_cplhMainContent_dgrdRoster'
 
 # bring in sports dictionary (sports: empty list)
 sports_dict = lookups.get_sports_dict()
 # sport_id: [sporturl, sport_table]
-sports_dict[''] = ['']
+sports_dict['baseball'] = ['baseball']
+sports_dict['mens basketball'] = ['basketball-men']
+sports_dict['womens basketball'] = ['basketball-women']
+sports_dict['mens cross country'] = ['crosscountry']
+sports_dict['womens cross country'] = ['crosscountry']
+sports_dict['football'] = ['football']
+sports_dict['mens golf'] = ['golf-men']
+sports_dict['womens golf'] = ['golf-women']
+sports_dict['mens swimming'] = ['swimmingdiving-men']
+sports_dict['womens swimming'] = ['swimmingdiving-women']
+sports_dict['mens tennis'] = ['tennis-men']
+sports_dict['womens tennis'] = ['tennis-women']
+sports_dict['womens gymnastics'] = ['gymnastics']
+sports_dict['womens lacrosse'] = ['lacrosse']
+sports_dict['womens soccer'] = ['soccer']
+sports_dict['softball'] = ['softball']
+sports_dict['mens track'] = ['trackfield']
+sports_dict['womens track'] = ['trackfield']
+sports_dict['womens volleyball'] = ['volleyball']
 
 
 # remove empty sports
@@ -33,9 +51,9 @@ for (key, value) in sports_dict.copy().items():
 
 # change table names where necessary
 for (key, value) in sports_dict.items():
-	if key in []:
+	if key in ['mens cross country', 'mens track']:
 		value.append(tableid_template + "_M")
-	elif key in []:
+	elif key in ['womens cross country', 'womens track']:
 		value.append(tableid_template + "_F")
 	else:
 		value.append(tableid_template)

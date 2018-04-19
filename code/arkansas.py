@@ -14,16 +14,32 @@ myopener = MyOpener()
 outdir = '../output'
 
 
-##### school #################
+##### arkansas #################
 full_df = pd.DataFrame()
-school = ''
-url_template = ''
-tableid_template = ''
+school = 'arkansas'
+url_template = 'http://www.arkansasrazorbacks.com/sport/{sporturl}/roster/'
+tableid_template = 'sorttable'
 
 # bring in sports dictionary (sports: empty list)
 sports_dict = lookups.get_sports_dict()
 # sport_id: [sporturl, sport_table]
-sports_dict[''] = ['']
+sports_dict['mens basketball'] = ['m-baskbl']
+sports_dict['womens basketball'] = ['w-baskbl']
+sports_dict['football'] = ['m-footbl']
+sports_dict['mens cross country'] = ['m-xc']
+sports_dict['womens cross country'] = ['w-xc']
+sports_dict['baseball'] = ['m-basebl']
+sports_dict['womens soccer'] = ['w-soccer']
+sports_dict['mens golf'] = ['m-golf']
+sports_dict['womens golf'] = ['w-golf']
+sports_dict['womens swimming'] = ['w-swim']
+sports_dict['mens tennis'] = ['m-tennis']
+sports_dict['womens tennis'] = ['w-tennis']
+sports_dict['mens track'] = ['m-track']
+sports_dict['womens track'] = ['w-track']
+sports_dict['softball'] = ['w-softbl']
+sports_dict['womens volleyball'] = ['w-volley']
+sports_dict['womens gymnastics'] = ['w-gym']
 
 
 # remove empty sports
@@ -50,7 +66,10 @@ for (sport_id, sport_info) in sports_dict.items():
 
 	table = proj.get_table(url, table_id)
 	print(sport_id + '\n')
-	roster = proj.select_cols(table, find_cols)
+	if sport_id == 'baseball':
+		roster = proj.select_cols(table, ['name', 'high school'])
+	else:
+		roster = proj.select_cols(table, find_cols)
 
 	x = pd.DataFrame(roster, columns = find_cols)
 	x['sport'] = sport_id

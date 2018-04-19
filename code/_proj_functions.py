@@ -21,7 +21,7 @@ def select_cols(table, colnames):
     header = header.find_all('th')
     header_items = []
     for item in header:
-        x = item.get_text()
+        x = item.get_text().strip()
         header_items.append(x)
 
     indexes_ordered = []

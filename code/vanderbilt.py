@@ -14,17 +14,30 @@ myopener = MyOpener()
 outdir = '../output'
 
 
-##### school #################
+##### vanderbilt #################
 full_df = pd.DataFrame()
-school = ''
-url_template = ''
-tableid_template = ''
+school = 'vanderbilt'
+url_template = 'http://www.vucommodores.com/sports/{sporturl}/mtt/vand-{sporturl}-mtt.html'
+tableid_template = 'sortable_roster'
 
 # bring in sports dictionary (sports: empty list)
 sports_dict = lookups.get_sports_dict()
 # sport_id: [sporturl, sport_table]
-sports_dict[''] = ['']
-
+sports_dict['mens basketball'] = ['m-baskbl']
+sports_dict['womens basketball'] = ['w-baskbl']
+sports_dict['football'] = ['m-footbl']
+sports_dict['mens cross country'] = ['m-xc']
+sports_dict['womens cross country'] = ['w-xc']
+sports_dict['baseball'] = ['m-basebl']
+sports_dict['womens soccer'] = ['w-soccer']
+sports_dict['mens golf'] = ['m-golf']
+sports_dict['womens golf'] = ['w-golf']
+sports_dict['mens tennis'] = ['m-tennis']
+sports_dict['womens tennis'] = ['w-tennis']
+sports_dict['womens track'] = ['w-track']
+sports_dict['womens swimming'] = ['w-swim']
+sports_dict['womens bowling'] = ['w-bowl']
+sports_dict['womens lacrosse'] = ['w-lacros']
 
 # remove empty sports
 for (key, value) in sports_dict.copy().items():

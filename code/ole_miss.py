@@ -13,17 +13,33 @@ myopener = MyOpener()
 
 outdir = '../output'
 
+# cross country not formatted consistently - 4/17/2018
 
-##### school #################
+##### ole miss #################
 full_df = pd.DataFrame()
-school = ''
-url_template = ''
-tableid_template = ''
+school = 'ole_miss'
+url_template = 'http://www.olemisssports.com/sports/{sporturl}/mtt/ole-{sporturl}-mtt.html'
+tableid_template = 'sortable_roster'
 
 # bring in sports dictionary (sports: empty list)
 sports_dict = lookups.get_sports_dict()
 # sport_id: [sporturl, sport_table]
-sports_dict[''] = ['']
+sports_dict['mens basketball'] = ['m-baskbl']
+sports_dict['womens basketball'] = ['w-baskbl']
+sports_dict['football'] = ['m-footbl']
+# sports_dict['mens cross country'] = ['c-xc']
+# sports_dict['womens cross country'] = ['c-xc']
+sports_dict['baseball'] = ['m-basebl']
+sports_dict['womens soccer'] = ['w-soccer']
+sports_dict['mens golf'] = ['m-golf']
+sports_dict['womens golf'] = ['w-golf']
+sports_dict['mens tennis'] = ['m-tennis']
+sports_dict['womens tennis'] = ['w-tennis']
+sports_dict['mens track'] = ['c-track']
+sports_dict['womens track'] = ['c-track']
+sports_dict['softball'] = ['w-softbl']
+sports_dict['womens volleyball'] = ['w-volley']
+sports_dict['womens rifle'] = ['w-rifle']
 
 
 # remove empty sports
@@ -33,9 +49,9 @@ for (key, value) in sports_dict.copy().items():
 
 # change table names where necessary
 for (key, value) in sports_dict.items():
-	if key in []:
+	if key in ['mens cross country', 'mens track']:
 		value.append(tableid_template + "_M")
-	elif key in []:
+	elif key in ['womens cross country', 'womens track']:
 		value.append(tableid_template + "_F")
 	else:
 		value.append(tableid_template)
