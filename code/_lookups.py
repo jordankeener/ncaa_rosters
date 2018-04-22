@@ -85,7 +85,8 @@ def get_sports_list():
          'womens skiing',
          'mens squash',
          'womens squash',
-         'womens equestrian']
+         'womens equestrian',
+         'womens acrobatics']
     return x
 
 def get_sports_dict():

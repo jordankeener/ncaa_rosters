@@ -80,7 +80,9 @@ def get_list(url, classname, numlists=1):
         mylist = soup.find('ul', class_ = classname)
     elif numlists > 1:
         slice = numlists - 1
-        mylist = soup.find_all('ul', class_ = classname)[slice]
+        mylist = soup.find_all('ul', class_ = classname)
+        print(len(mylist))
+        mylist = mylist[slice]
     else:
         mylist = []
     return mylist
