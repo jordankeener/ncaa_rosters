@@ -1,0 +1,847 @@
+,name,hometown,sport,school
+0,KZ Okpala,"Orange County, Calif.",mens basketball,stanford
+1,Daejon Davis,"Seattle, Wash.",mens basketball,stanford
+2,Robert Cartwright,"Pasadena, Calif.",mens basketball,stanford
+3,Isaac White,"Adelaide, Australia",mens basketball,stanford
+4,Kodye Pugh,"Baltimore, Md.",mens basketball,stanford
+5,Michael Humphrey,"Phoenix, Ariz.",mens basketball,stanford
+6,Dorian Pickens,"Phoenix, Ariz.",mens basketball,stanford
+7,Oscar  da silva,"Munich, Germany",mens basketball,stanford
+8,Marcus Sheffield,"Alpharetta, Ga.",mens basketball,stanford
+9,Rodney Herenton,"Chicago, Ill.",mens basketball,stanford
+10,Josh Sharma,"Lexington, Mass.",mens basketball,stanford
+11,Cameron Walker,"Santa Maria, Calif.",mens basketball,stanford
+12,Reid Travis,"Minneapolis, Minn.",mens basketball,stanford
+13,Blake Pagon,"Haymarket, Va.",mens basketball,stanford
+14,Trevor Stanback,"Pasadena, Calif.",mens basketball,stanford
+15,Shannon Coffee,"Dayton, Ohio",womens basketball,stanford
+16,Anna Wilson,"Seattle, Wash.",womens basketball,stanford
+17,Nadia Fingall,"Navarre, Fla.",womens basketball,stanford
+18,Kaylee Johnson,"Casper, Wyo.",womens basketball,stanford
+19,Alyssa Jerome,"Toronto, Ontario, Canada",womens basketball,stanford
+20,Alanna Smith,"Melbourne, Victoria, Australia",womens basketball,stanford
+21,Brittany McPhee,"Normandy Park, Wash.",womens basketball,stanford
+22,Marta Sniezek,"McLean, Va.",womens basketball,stanford
+23,Mikaela Brewer,"Barrie, Ontario, Canada",womens basketball,stanford
+24,Maya Dodson,"Alpharetta, Ga.",womens basketball,stanford
+25,Estella Moschkau,"Madison, Wis.",womens basketball,stanford
+26,DiJonai Carrington,"San Diego, Calif.",womens basketball,stanford
+27,Alexa Romano,"Albuquerque, N.M.",womens basketball,stanford
+28,Kiana Williams,"San Antonio, Texas",womens basketball,stanford
+29,Christian Molfetta,"Laguna Beach, Calif.",baseball,stanford
+30,Daniel Bakst,"New York, N.Y.",baseball,stanford
+31,Nico Hoerner,"Oakland, Calif.",baseball,stanford
+32,Beau Branton,"Honolulu, Hawaii",baseball,stanford
+33,Kyle Stowers,"El Cajon, Calif.",baseball,stanford
+34,Jesse Kuet,"Huntington Beach, Calif.",baseball,stanford
+35,Maverick Handley,"Lakewood, Colo.",baseball,stanford
+36,Alec Wilson,"Cumming, Ga.",baseball,stanford
+37,Duke Kinamon,"Peachtree City, Ga.",baseball,stanford
+38,John Henry Styles,"Houston, Texas",baseball,stanford
+39,Matthew Decker,"Portland, Ore.",baseball,stanford
+40,Zach Sehgal,"La Jolla,Calif.",baseball,stanford
+41,Will Matthiessen,"West Linn, Ore.",baseball,stanford
+42,Brendan Beck,"Corona, Calif.",baseball,stanford
+43,Tim Tawa,"West Linn, Ore.",baseball,stanford
+44,Nickolas Oar,"Pleasant Hill, Calif.",baseball,stanford
+45,Nick Brueser,"Chandler, Ariz.",baseball,stanford
+46,Andrew Daschbach,"Atherton, Calif.",baseball,stanford
+47,Erik Miller,"Wildwood, Mo.",baseball,stanford
+48,Carson Rudd,"Agoura Hills, Calif.",baseball,stanford
+49,Bryce Carter,"Tulsa, Okla.",baseball,stanford
+50,Brandon Wulff,"Las Vegas, Nev.",baseball,stanford
+51,Zach Grech,"Las Vegas, Nev.",baseball,stanford
+52,Nick Bellafronto,"San Jose, Calif.",baseball,stanford
+53,Jack Little,"Las Vegas, Nev.",baseball,stanford
+54,Tristan Beck,"Corona, Calif.",baseball,stanford
+55,Kris Bubic,"San Jose, Calif.",baseball,stanford
+56,Luke Sleeper,"Haslett, Mich.",baseball,stanford
+57,Ben Baggett,"Fayetteville, Ga.",baseball,stanford
+58,Jacob Palisch,"Richardson, Texas",baseball,stanford
+59,Austin Weiermiller,"Milton, Ga.",baseball,stanford
+60,Christian Robinson,"Melbourne, Fla.",baseball,stanford
+61,Jonathan Worley,"San Diego, Calif.",baseball,stanford
+62,Michael Boden,"Atlanta, Ga.",baseball,stanford
+63,Trenton Irwin,"Valencia, Calif.",football,stanford
+64,Brandon Simmons,"Mansfield, Texas",football,stanford
+65,Malik Antoine,"Baton Rouge, La.",football,stanford
+66,K.J. Costello,"Coto de Caza, Calif.",football,stanford
+67,Alameen Murphy,"Fort Washington, Md.",football,stanford
+68,Jay Tyler,"Gretna, La.",football,stanford
+69,Frank Buncom,"San Diego, Calif.",football,stanford
+70,Connor Wedington,"Lake Tapps, Wash.",football,stanford
+71,Treyjohn Butler,"Rancho Cucamonga, Calif.",football,stanford
+72,Reagan Williams,"Jackson, Ohio",football,stanford
+73,Donald Stewart,"Hillside, N.J.",football,stanford
+74,Ben Edwards,"Jacksonville, Fla.",football,stanford
+75,Jordan Fox,"Plainfield, N.J.",football,stanford
+76,Harry Schwartz,"Los Angeles, Calif.",football,stanford
+77,Alijah Holder,"Oceanside, Calif.",football,stanford
+78,Jake Bailey,"Solana Beach, Calif.",football,stanford
+79,Davis Mills,"Duluth, Ga.",football,stanford
+80,Jordan Perez,"Carlsbad, Calif.",football,stanford
+81,Paulson Adebo,"Mansfield, Texas",football,stanford
+82,Stuart Head,"Woodstock, Ga.",football,stanford
+83,Jack Richardson,"Salinas, Calif.",football,stanford
+84,JJ Arcega-Whiteside,"Inman, S.C.",football,stanford
+85,Noah Williams,"Phoenix, Ariz.",football,stanford
+86,Bryce Love,"Wake Forest, N.C.",football,stanford
+87,Bobby Okereke,"Santa Ana, Calif.",football,stanford
+88,Isaiah Brandt-Sims,"Wenatchee, Wash.",football,stanford
+89,Curtis Robinson,"Irvine, Calif.",football,stanford
+90,Obi Eboh,"Southlake, Texas",football,stanford
+91,Cameron Scarlett,"Portland, Ore.",football,stanford
+92,Ryan Johnson,"Axis, Ala.",football,stanford
+93,Trevor Speights,"McAllen, Texas",football,stanford
+94,Hannes Bohning,"Larchmont, N.Y.",football,stanford
+95,Andrew Pryts,"Hermitage, Pa.",football,stanford
+96,J.J. Parson,"Chandler, Ariz.",football,stanford
+97,Jet Toner,"Honolulu, Hawaii",football,stanford
+98,Sean Barton,"North Salt Lake, Utah",football,stanford
+99,Charlie Beall,"Newport Coast, Calif.",football,stanford
+100,Dorian Maddox,"Bowie, Md.",football,stanford
+101,Mustafa Branch,"Bellevue, Wash.",football,stanford
+102,Joey Alfieri,"Portland, Ore.",football,stanford
+103,Houston Heimuli,"Woods Cross, Utah",football,stanford
+104,Collin Riccitelli,"San Marcos, Calif.",football,stanford
+105,Anthony Trinh,"Duluth, Ga.",football,stanford
+106,Caleb Phillips,"Encinitas, Calif.",football,stanford
+107,Ryan Beecher,"Fresno, Calif.",football,stanford
+108,Sidhart Krishnamurthi,"Saratoga, Calif.",football,stanford
+109,Lewis Burik,"Chicago, Ill.",football,stanford
+110,Dalyn Wade-Perry,"Englewood, N.J.",football,stanford
+111,Drew Dalman,"Salinas, Calif.",football,stanford
+112,Jovan Swann,"Greenwood, Ind.",football,stanford
+113,Casey Toohill,"San Diego, Calif.",football,stanford
+114,Nick Wilson,"Milton, Ga.",football,stanford
+115,Dylan Powell,"New London, Mo.",football,stanford
+116,Michael Williams,"Fort Worth, Texas",football,stanford
+117,Dylan Boles,"Adel, Iowa",football,stanford
+118,Austin Maihen,"Dove Canyon, Calif.",football,stanford
+119,Nate Herbig,"Kalaheo, Hawaii",football,stanford
+120,Brian Chaffin,"Harrisburg, N.C.",football,stanford
+121,Richard McNitzky,"San Antonio, Texas",football,stanford
+122,Brandon Fanaika,"Pleasant Grove, Utah",football,stanford
+123,Walker Little,"Houston, Texas",football,stanford
+124,Jesse Burkett,"St. Augustine, Fla.",football,stanford
+125,Devery Hamilton,"Ellicott City, Md.",football,stanford
+126,A.T. Hall,"Glendale, Ariz.",football,stanford
+127,Jack Dreyer,"San Mateo, Calif.",football,stanford
+128,Thunder Keck,"Northfield, N.H.",football,stanford
+129,Henry Hattis,"Rio Rancho, N.M.",football,stanford
+130,Foster Sarell,"Graham, Wash.",football,stanford
+131,Scooter Harrington,"Riverside, Conn.",football,stanford
+132,Osiris St. Brown,"Brea, Calif.",football,stanford
+133,Kaden Smith,"Flower Mound, Texas",football,stanford
+134,Cameron Buzzell,"Neah Bay, Washington",football,stanford
+135,Colby Parkinson,"Simi Valley, Calif.",football,stanford
+136,Kyle McCombs,"Laguna Beach, Calif.",football,stanford
+137,Ben Snyder,"Crystal Bay, Nev.",football,stanford
+138,Tucker Fisk,"Davis, Calif.",football,stanford
+139,Gabe Reid,"American Fork, Utah",football,stanford
+140,Thomas Schaffer,"Vienna, Austria",football,stanford
+141,Dylan Jackson,"Maryville, Tenn.",football,stanford
+142,Bo Peek,"Tampa, Fla.",football,stanford
+143,Tanner Beason,"Winston-Salem, N.C.",mens soccer,stanford
+144,Adam Mosharrafa,"Paradise Valley, Ariz.",mens soccer,stanford
+145,Jared Gilbey,"New York, N.Y.",mens soccer,stanford
+146,Arda Bulut,"Los Gatos, Calif.",mens soccer,stanford
+147,Amir Bashti,"Cupertino, Calif.",mens soccer,stanford
+148,Kei Tomozawa,"Bellevue, Wash.",mens soccer,stanford
+149,Zach Ryan,"Chatham, N.J.",mens soccer,stanford
+150,Rhys De Sota,"Aurora, Colo.",mens soccer,stanford
+151,Andrew Aprahamian,"Malvern, Pa.",mens soccer,stanford
+152,Charlie Wehan,"Laguna Niguel, Calif.",mens soccer,stanford
+153,Marc Joshua,"Menlo Park, Calif.",mens soccer,stanford
+154,Jack O'Brien,"Broomfield, Colo.",mens soccer,stanford
+155,Charlie Furrer,"Georgetown, Texas",mens soccer,stanford
+156,Collin Liberty,"Van Nuys, Calif.",mens soccer,stanford
+157,Logan Panchot,"St. Louis, Mo.",mens soccer,stanford
+158,Kyle Casey,"Fairfield, Conn.",mens soccer,stanford
+159,Derek Waldeck,"Newhall, Calif.",mens soccer,stanford
+160,Andrew Thomas,"London, England",mens soccer,stanford
+161,Eduardo Palacios Fabre,"Madrid, Spain",mens soccer,stanford
+162,Matt Frank,"Bloomfield, Mich.",mens soccer,stanford
+163,Ryan Ludwick,"York, Pa.",mens soccer,stanford
+164,Kyle Orciuch,"Saint John, Ind.",mens soccer,stanford
+165,Will Richmond,"Piedmont, Calif.",mens soccer,stanford
+166,Tyler Shaver,"Riverside, Conn.",mens soccer,stanford
+167,Jaye Boissiere,"Los Altos Hills, Calif.",womens soccer,stanford
+168,Belle Briede,"Alpharetta, Ga.",womens soccer,stanford
+169,Averie Collins,"Bozeman, Mont.",womens soccer,stanford
+170,Alana Cook,"Far Hills, N.J.",womens soccer,stanford
+171,Tierna Davidson,"Menlo Park, Calif.",womens soccer,stanford
+172,Jordan DiBiasi,"Highlands Ranch, Colo.",womens soccer,stanford
+173,Ceci Gee,"Orinda, Calif.",womens soccer,stanford
+174,Beattie Goad,"Melbourne, Australia",womens soccer,stanford
+175,Madison Haley,"Dallas, Texas",womens soccer,stanford
+176,Jojo Harber,"Bellevue, Wash.",womens soccer,stanford
+177,Sam Hiatt,"Newcastle, Wash.",womens soccer,stanford
+178,Alison Jahansouz,"Huntington Beach, Calif.",womens soccer,stanford
+179,Logan Karam,"Long Beach, Calif.",womens soccer,stanford
+180,Civana Kuhlmann,"Centennial, Colo.",womens soccer,stanford
+181,Catarina Macario,"San Diego, Calif.",womens soccer,stanford
+182,Carly  Malatskey,"Newport Beach, Calif.",womens soccer,stanford
+183,Tegan McGrady,"San Jose, Calif.",womens soccer,stanford
+184,Kiki Pickett,"Santa Barbara, Calif.",womens soccer,stanford
+185,Brooke Redington,"Manhattan Beach, Calif.",womens soccer,stanford
+186,Lauren Rood,"Camas, Wash.",womens soccer,stanford
+187,Sophia Serafin,"Glendora, Calif.",womens soccer,stanford
+188,Sam  Tran,"Tracy, Calif.",womens soccer,stanford
+189,Michelle Xiao,"Omaha, Neb.",womens soccer,stanford
+190,Callum Bolger,"San Luis Obispo, Calif.",mens cross country,stanford
+191,Daniel Book,"Greenwood Village, Colo.",mens cross country,stanford
+192,Scott Buttinger,"Waterloo, Ontario, Canada",mens cross country,stanford
+193,Isaac Cortes,"Temecula, Calif.",mens cross country,stanford
+194,Tom Coyle,"Lansdale, Pa.",mens cross country,stanford
+195,Tai Dinger,"Washington, D.C.",mens cross country,stanford
+196,Steven Fahy,"Carlsbad, Calif.",mens cross country,stanford
+197,Grant Fisher,"Grand Blanc, Mich.",mens cross country,stanford
+198,Steven Grolle,"Sonora, Calif.",mens cross country,stanford
+199,Blair Hurlock,"Tracy, Calif.",mens cross country,stanford
+200,Jack Keelan,"La Grange Park, Ill.",mens cross country,stanford
+201,Nathaniel Kucera,"Elburn, Ill.",mens cross country,stanford
+202,Connor Lane,"Raleigh, N.C.",mens cross country,stanford
+203,Will Lauer,"Sioux Falls, S.D.",mens cross country,stanford
+204,Brandon McGorty,"Fairfax, Va.",mens cross country,stanford
+205,Alex Ostberg,"Darien, Conn.",mens cross country,stanford
+206,Alek Parsons,"Ogden, Utah",mens cross country,stanford
+207,Patrick Perrier,"O'Fallon, Ill.",mens cross country,stanford
+208,DJ Principe,"Johnston, R.I.",mens cross country,stanford
+209,Thomas Ratcliffe,"Concord, Mass.",mens cross country,stanford
+210,Hari Sathyamurthy,"Indianapolis, Ind.",mens cross country,stanford
+211,Brian Smith,"Amstelveen, Netherlands",mens cross country,stanford
+212,Michael Vernau,"Davis, Calif.",mens cross country,stanford
+213,Sam Wharton,"Tipp City, Ohio",mens cross country,stanford
+214,Christian White,"Charlotte, N.C.",mens cross country,stanford
+215,Christina Aragon,"Billings, Mont.",womens cross country,stanford
+216,Maddy Berkson,"Providence, R.I.",womens cross country,stanford
+217,Elise Cranny,"Niwot, Colo.",womens cross country,stanford
+218,Hannah DeBalsi,"Westport, Conn.",womens cross country,stanford
+219,Ella Donaghu,"Portland, Ore.",womens cross country,stanford
+220,Vanessa Fraser,"Scotts Valley, Calif.",womens cross country,stanford
+221,Julia Heymach,"Houston, Texas",womens cross country,stanford
+222,Anna Laman,"Sydney, Australia",womens cross country,stanford
+223,Jessica Lawson,"Addison, N.Y.",womens cross country,stanford
+224,Hannah Long,"Pacific, Mo.",womens cross country,stanford
+225,Julia Maxwell,"Ross, Calif.",womens cross country,stanford
+226,Abbie McNulty,"Cumberland, R.I.",womens cross country,stanford
+227,Fiona O'Keeffe,"Davis, Calif.",womens cross country,stanford
+228,Jordan Oakes,"Seattle, Wash.",womens cross country,stanford
+229,Catherine Pagano,"Allendale, N.J.",womens cross country,stanford
+230,Kaitlin Ryan,"Tuckahoe, N.Y.",womens cross country,stanford
+231,Claire Smith,"Ottawa, Ontario, Canada",womens cross country,stanford
+232,Courtney  Smith,"West Chester, Pa.",womens cross country,stanford
+233,Sarah Walker,"Lower Gynedd Township, Pa.",womens cross country,stanford
+234,Ashwin Arasu,"San Diego, Calif.",mens golf,stanford
+235,Franklin Huang,"Poway, Calif.",mens golf,stanford
+236,Bradley Knox,"Menlo Park, Calif.",mens golf,stanford
+237,Dakota McNealy,"Portola Valley, Calif.",mens golf,stanford
+238,Nate Menon,"Wyomissing, Pa.",mens golf,stanford
+239,Chris Meyers,"Oro Valley, Ariz.",mens golf,stanford
+240,Isaiah Salinda,"South San Francisco, Calif.",mens golf,stanford
+241,Henry Shimp,"Charlotte, N.C.",mens golf,stanford
+242,David Snyder,"McAllen, Texas",mens golf,stanford
+243,Jeffrey Swegle,"West Des Moines, Iowa",mens golf,stanford
+244,Brandon Wu,"Danville, Calif.",mens golf,stanford
+245,Shannon Aubert,"Stuart, Fla.",womens golf,stanford
+246,Madie Chou,"Santa Ana, Calif.",womens golf,stanford
+247,Jisoo Keel,"Coquitlam, B.C.",womens golf,stanford
+248,Sierra Kersten,"Spokane, Wash.",womens golf,stanford
+249,Andrea Lee,"Hermosa Beach, Calif.",womens golf,stanford
+250,Mika  Liu,"Beverly Hills, Calif.",womens golf,stanford
+251,Calli Ringsby,"Cherry Hills Village, Colo.",womens golf,stanford
+252,Albane Valenzuela,"Geneva, Switzerland",womens golf,stanford
+253,Ziyi Wang,"Beijing, China",womens golf,stanford
+254,Kelsey Zeng,"Orlando, Fla.",womens golf,stanford
+255,Tarek Abdelghany,"Ladera Ranch, Calif.",mens swimming,stanford
+256,Matt Anderson,"Scottsdale, Ariz.",mens swimming,stanford
+257,Johannes Calloni,"Jersey City, N.J.",mens swimming,stanford
+258,Cole Cogswell,"Valencia, Calif.",mens swimming,stanford
+259,Patrick Conaton,"Bronxville, N.Y.",mens swimming,stanford
+260,Glen Cowand,"Katy, Texas",mens swimming,stanford
+261,Abrahm DeVine,"Seattle, Wash.",mens swimming,stanford
+262,Ryan Dudzinski,"Pittsburgh, Pa.",mens swimming,stanford
+263,Liam Egan,"Boston, Mass.",mens swimming,stanford
+264,Jordan Greenberg,"Eden Prairie, Minn.",mens swimming,stanford
+265,Matthew Hirschberger,"Northern Bethesda, MD.",mens swimming,stanford
+266,Benjamin Ho,"Los Altos, Calif.",mens swimming,stanford
+267,Andrew Liang,"Palo Alto, Calif.",mens swimming,stanford
+268,Alex Liang,"Palo Alto, Calif.",mens swimming,stanford
+269,William Macmillan,"Carrboro, N.C.",mens swimming,stanford
+270,Alberto Mestre,"Dorado, Puerto Rico",mens swimming,stanford
+271,Ted Miclau,"San Francisco, Calif.",mens swimming,stanford
+272,James Murphy,"Clifton, Va.",mens swimming,stanford
+273,Curtis Ogren,"Menlo Park, Calif.",mens swimming,stanford
+274,Brennan Pastorek,"Savannah, GA",mens swimming,stanford
+275,Sam Perry,"Hamilton, New Zealand",mens swimming,stanford
+276,Hank Poppe,"Danville, Calif.",mens swimming,stanford
+277,Grant Shoults,"Laguna Hills, Calif.",mens swimming,stanford
+278,True Sweetser,"Gainesville, Fla.",mens swimming,stanford
+279,Jack Walsh,"Ann Arbor, Mich.",mens swimming,stanford
+280,Brad Zdroik,"Hillsborough, N.J.",mens swimming,stanford
+281,Hannah Boyd,"Lexington, Ill.",womens swimming,stanford
+282,Megan Byrnes,"Fairfax, Va.",womens swimming,stanford
+283,Kassidy Cook,"The Woodlands, Texas",womens swimming,stanford
+284,Katie Drabot,"Cedarburg, Wis.",womens swimming,stanford
+285,Ella Eastin,"Irvine, Calif.",womens swimming,stanford
+286,Lindsey Engel,"Trabuco Canyon, Calif.",womens swimming,stanford
+287,Haley Farnsworth,"San Clemente, Calif.",womens swimming,stanford
+288,Brooke Forde,"Louisville, Ky.",womens swimming,stanford
+289,Sammy Gallagher,"Margarita, Calif.",womens swimming,stanford
+290,Abby Gardner,"Peachtree Corners, Ga.",womens swimming,stanford
+291,Katie Glavinovich,"Laguna Beach, Calif.",womens swimming,stanford
+292,Lauren Green,"San Jose, Calif.",womens swimming,stanford
+293,Ally Howe,"Portola Valley, Calif.",womens swimming,stanford
+294,Janet Hu,"Vienna, Va.",womens swimming,stanford
+295,Hannah Kukurugya,"Crown Point, Ind.",womens swimming,stanford
+296,Katie Ledecky,"Bethesda, Md.",womens swimming,stanford
+297,Gracia Leydon Mahoney,"Newton, Mass.",womens swimming,stanford
+298,Simone Manuel,"Sugar Land, Texas",womens swimming,stanford
+299,Alexandra Meyers,"Fox Point, Wis.",womens swimming,stanford
+300,Mia Paulsen,"Atherton, Calif.",womens swimming,stanford
+301,Lauren Pitzer,"Fort Worth, Texas",womens swimming,stanford
+302,Brooke Stenstrom,"Highlands Ranch, Colo.",womens swimming,stanford
+303,Leah Stevens,"Louisville, Ky.",womens swimming,stanford
+304,Allie Szekely,"Doylestown, Pa.",womens swimming,stanford
+305,Ashley Volpenhein,"Mason, Ohio",womens swimming,stanford
+306,Erin Voss,"Northampton, Mass.",womens swimming,stanford
+307,Kim Williams,"Bellevue, Wash.",womens swimming,stanford
+308,Grace Zhao,"Palo Alto, Calif.",womens swimming,stanford
+309,Jack Barber,"La Jolla, Calif.",mens tennis,stanford
+310,Nikita  Demir,"Bethesda, Md.",mens tennis,stanford
+311,Tom Fawcett,"Winnetka, Ill.",mens tennis,stanford
+312,Eric Fomba,"Paris, France",mens tennis,stanford
+313,Axel Geller,"Buenos Aires, Argentina",mens tennis,stanford
+314,Michael Genender,"Los Angeles, Calif.",mens tennis,stanford
+315,William  Genesen,"Tulsa, Okla.",mens tennis,stanford
+316,Christian Kontaxis,"Rancho Mirage, Calif.",mens tennis,stanford
+317,Sameer Kumar,"Carmel, Ind.",mens tennis,stanford
+318,Kento Perera,"Santa Barbara, Calif.",mens tennis,stanford
+319,Timothy Sah,"San Diego, Calif.",mens tennis,stanford
+320,Sam Turchetta,"Pound Ridge, New York",mens tennis,stanford
+321,David Wilczynski,"Richboro, Pa.",mens tennis,stanford
+322,Emily Arbuthnott,"Harpenden, Hertfordshire, England",womens tennis,stanford
+323,Michaela Gordon,"Saratoga, Calif.",womens tennis,stanford
+324,Emma  Higuchi,"Los Angeles, Calif.",womens tennis,stanford
+325,Taylor Lallas,"Los Angeles, Calif.",womens tennis,stanford
+326,Caroline Lampl,"Leesburg, Va.",womens tennis,stanford
+327,Melissa Lord,"Bloomfield, Conn.",womens tennis,stanford
+328,Naomie Rosenberg,"Los Angeles, Calif.",womens tennis,stanford
+329,Janice Shin,N/A,womens tennis,stanford
+330,Paulette Wolak,"Los Altos Hills, Calif.",womens tennis,stanford
+331,Elizabeth Yao,"Sunnyvale, Calif.",womens tennis,stanford
+332,Kimberly Yee,"Las Vegas, Nev.",womens tennis,stanford
+333,Terrence Alexander,"New Orleans, La.",mens track,stanford
+334,Julian Body,"Portland, Ore.",mens track,stanford
+335,Callum Bolger,"San Luis Obispo, Calif.",mens track,stanford
+336,Daniel Book,"Greenwood Village, Colo.",mens track,stanford
+337,Daniel Brady,"Toronto, Ontario, Canada",mens track,stanford
+338,Dion Brandt-Sims,"Wenatchee, Wash.",mens track,stanford
+339,Isaiah Brandt-Sims,"Wenatchee, Wash.",mens track,stanford
+340,Scott Buttinger,"Waterloo, Ontario, Canada",mens track,stanford
+341,Liam Christensen,"Mount Pleasant, S.C.",mens track,stanford
+342,Isaac Cortes,"Temecula, Calif.",mens track,stanford
+343,Tom Coyle,"Lansdale, Pa.",mens track,stanford
+344,Trevor Danielson,"Newberg, Ore.",mens track,stanford
+345,Tai Dinger,"Washington, D.C.",mens track,stanford
+346,Colin Dolese,"Missoula, Mont.",mens track,stanford
+347,Lucas Ege,"Hampshire, Ill.",mens track,stanford
+348,Landon Ellingson,"Jefferson, Wis.",mens track,stanford
+349,Steven Fahy,"Carlsbad, Calif.",mens track,stanford
+350,Grant Fisher,"Grand Blanc, Mich.",mens track,stanford
+351,Steven Grolle,"Sonora, Calif.",mens track,stanford
+352,Jack Herkert,"Verona, Wis.",mens track,stanford
+353,Blair Hurlock,"Tracy, Calif.",mens track,stanford
+354,Jack Keelan,"La Grange Park, Ill.",mens track,stanford
+355,Will Kingsfield,"Sandy Springs, Ga.",mens track,stanford
+356,Jake Koffman,"Orono, Maine",mens track,stanford
+357,Nathaniel Kucera,"Elburn, Ill.",mens track,stanford
+358,Frank Kurtz,"Brentwood, Calif.",mens track,stanford
+359,Connor Lane,"Raleigh, N.C.",mens track,stanford
+360,Will Lauer,"Sioux Falls, S.D.",mens track,stanford
+361,Sean McGorty,"Fairfax, Va.",mens track,stanford
+362,Brandon McGorty,"Fairfax, Va.",mens track,stanford
+363,Gabriel Navarro,"El Paso, Texas",mens track,stanford
+364,Tristen Newman,"The Woodlands, Texas",mens track,stanford
+365,Fisayo Omilana,"Palm Desert, Calif.",mens track,stanford
+366,Alex Ostberg,"Darien, Conn.",mens track,stanford
+367,Michael  Painter,"Norwich, England",mens track,stanford
+368,Alek Parsons,"Ogden, Utah",mens track,stanford
+369,Patrick Perrier,"O'Fallon, Ill.",mens track,stanford
+370,DJ Principe,"Johnston, R.I.",mens track,stanford
+371,Thomas Ratcliffe,"Concord, Mass.",mens track,stanford
+372,Trevor Rex,"Highlands Ranch, Colo.",mens track,stanford
+373,Hari Sathyamurthy,"Indianapolis, Ind.",mens track,stanford
+374,Brian Smith,"Amstelveen, Netherlands",mens track,stanford
+375,Louis Stenmark,"St. Ignatius' College, Riverview",mens track,stanford
+376,Jaak Uudmae,"Tallinn, Estonia",mens track,stanford
+377,Michael Vernau,"Davis, Calif.",mens track,stanford
+378,Isaac Westlund,"Snohomish, Wash.",mens track,stanford
+379,Sam Wharton,"Tipp City, Ohio",mens track,stanford
+380,Christian White,"Charlotte, N.C.",mens track,stanford
+381,Harrison Williams,"Memphis, Tenn.",mens track,stanford
+382,Valarie Allman,"Longmont, Colo.",womens track,stanford
+383,Christina Aragon,"Billings, Mont.",womens track,stanford
+384,Olivia Baker,"South Orange, N.J.",womens track,stanford
+385,Maddy Berkson,"Providence, R.I.",womens track,stanford
+386,Ashlan Best,"Guelph, Ontario, Canada",womens track,stanford
+387,Elise Cranny,"Niwot, Colo.",womens track,stanford
+388,Michaela Crunkleton Wilson,"Tucson, Ariz.",womens track,stanford
+389,Hannah DeBalsi,"Westport, Conn.",womens track,stanford
+390,Ella Donaghu,"Portland, Ore.",womens track,stanford
+391,Vanessa Fraser,"Scotts Valley, Calif.",womens track,stanford
+392,Daryth Gayles,"Merritt Island, Fla.",womens track,stanford
+393,Gaby Gayles,"Merritt Island, Fla.",womens track,stanford
+394,Giana Gayles,"Merritt Island, Fla.",womens track,stanford
+395,Lena Giger,"Highland, Ill.",womens track,stanford
+396,Jenna Gray,"Shawnee, Kan.",womens track,stanford
+397,Julia Heymach,"Houston, Texas",womens track,stanford
+398,Taylore Jaques,"San Jose, Calif.",womens track,stanford
+399,Marisa Kwiatkowski,"Sunnyvale, Calif.",womens track,stanford
+400,Hannah Labrie-Smith,"Encinitas, Calif.",womens track,stanford
+401,Jessica Lawson,"Addison, N.Y.",womens track,stanford
+402,Amber Lewis,"Roswell, Ga.",womens track,stanford
+403,Mackenzie Little,"Roseville, NSW, Australia",womens track,stanford
+404,Hannah Long,"Pacific, Mo.",womens track,stanford
+405,Erika Malaspina,"Santa Cruz, Calif.",womens track,stanford
+406,Julia Maxwell,"Ross, Calif.",womens track,stanford
+407,Brittany McGee,"Brandon, Fla.",womens track,stanford
+408,Abbie McNulty,"Cumberland, R.I.",womens track,stanford
+409,Jackie McNulty,"Frederick, Md.",womens track,stanford
+410,Kaitlyn Merritt,"Trabuco Canyon, Calif.",womens track,stanford
+411,Virginia Miller,"Vashon, Wash.",womens track,stanford
+412,Missy Mongiovi,"Santee, Calif.",womens track,stanford
+413,Fiona O'Keeffe,"Davis, Calif.",womens track,stanford
+414,Jordan Oakes,"Seattle, Wash.",womens track,stanford
+415,Catherine Pagano,"Allendale, N.J.",womens track,stanford
+416,Valerie Przekop,"Jamison, Pa.",womens track,stanford
+417,Rachel Reichenbach,"Pleasanton, Calif.",womens track,stanford
+418,Kaitlin Ryan,"Tuckahoe, N.Y.",womens track,stanford
+419,Jaimi Salone,"Minneapolis, Minn.",womens track,stanford
+420,Samantha Seaton,"Simi Valley, Calif.",womens track,stanford
+421,Aria Small,"Bridgetown, Barbados",womens track,stanford
+422,Courtney  Smith,"West Chester, Pa.",womens track,stanford
+423,Claire Smith,"Ottawa, Ontario, Canada",womens track,stanford
+424,Nicole Summersett,"Austin, Texas",womens track,stanford
+425,Sarah Walker,"Lower Gynedd Township, Pa.",womens track,stanford
+426,Carolyn Wilson,"Thousand Oaks, Calif.",womens track,stanford
+427,Steven Abbate,"Tracy, Calif.",wrestling,stanford
+428,Jake Barry,"New York, N.Y.",wrestling,stanford
+429,Nathan Butler,"Leavenworth, Kan.",wrestling,stanford
+430,Nainoa Calvo,"Maite, Guam",wrestling,stanford
+431,Brandon Dallavia,"Youngstown, N.Y.",wrestling,stanford
+432,Walker Dempsey,"Greenwich, Conn.",wrestling,stanford
+433,Cole DePasquale,"Clifton, Va.",wrestling,stanford
+434,Judah Duhm,"Lookout Mountain, Ga.",wrestling,stanford
+435,Austin Flores,"Clovis, Calif.",wrestling,stanford
+436,Paul Fox,"Gilroy, Calif.",wrestling,stanford
+437,Jared Hill,"Clovis, Calif.",wrestling,stanford
+438,Brandon Kier,"Alpine, Calif.",wrestling,stanford
+439,Anthony Le,"Laguna Niguel, Calif.",wrestling,stanford
+440,Isaiah Locsin,"Morgan Hill, Calif.",wrestling,stanford
+441,Haydn Maley,"Roseburg, Ore.",wrestling,stanford
+442,Cody Maly,"Columbia, Mo.",wrestling,stanford
+443,Dominick Mandarino,"Paramus, N.J.",wrestling,stanford
+444,Matt Mills,"Forest Hills, Mich.",wrestling,stanford
+445,Mason Pengilly,"Porterville, Calif.",wrestling,stanford
+446,Jack Ramalia,"Granite Bay, Calif.",wrestling,stanford
+447,Trevor Rasmussen,"Prineville, Ore.",wrestling,stanford
+448,Brian Rossi,"Homer Glen, Ill.",wrestling,stanford
+449,Connor Schram,"Cannonsburg, Pa.",wrestling,stanford
+450,David Showunmi,"Langhorne, Pa.",wrestling,stanford
+451,Keaton Subjeck,"El Dorado Hills, Calif.",wrestling,stanford
+452,Gabriel Townsell,"Oak Park, Ill.",wrestling,stanford
+453,Nathan Traxler,"St. Charles, Ill.",wrestling,stanford
+454,Requir van der Merwe,"Mountain Lakes, N.J.",wrestling,stanford
+455,Ethan Woods,"Manchester, Mich.",wrestling,stanford
+456,Dalton Young,"Nine Mile Falls, Wash.",wrestling,stanford
+457,Kelsey Bing,"Houston, Texas",womens field hockey,stanford
+458,Maddy Belin,"Encinitas, Calif.",womens field hockey,stanford
+459,Millie Stefanowicz,"Lansdale, Pa.",womens field hockey,stanford
+460,Emma Christus,"Bernardsville, N.J.",womens field hockey,stanford
+461,Sarah Helgeson,"Lancaster, Pa.",womens field hockey,stanford
+462,Frances Carstens,"Somerset West, Cape Town, South Africa",womens field hockey,stanford
+463,Jordan Barry,"Chapel Hill, N.C.",womens field hockey,stanford
+464,Kennedy Schumacher,"Greenwood Village, Colo.",womens field hockey,stanford
+465,Katie Keyser,"Garnet Valley, Pa.",womens field hockey,stanford
+466,Corinne Zanolli,"Newtown Square, Pa.",womens field hockey,stanford
+467,Kaylie  Mings,"Houston, Texas",womens field hockey,stanford
+468,Kristina Bassi,"Mountain View, Calif.",womens field hockey,stanford
+469,Sarah Johnson,"Oxford, Pa.",womens field hockey,stanford
+470,Julia DiTosto,"Princeton, N.J.",womens field hockey,stanford
+471,Maddy Connell,"West Vancouver, BC",womens field hockey,stanford
+472,Emma Alderton,"Christchurch, New Zealand",womens field hockey,stanford
+473,Marissa Cicione,"Havertown, Pa.",womens field hockey,stanford
+474,Emily Surgent,"Wall, N.J.",womens field hockey,stanford
+475,Jessica  Welch,"West Long Branch, NJ",womens field hockey,stanford
+476,Nina  Randolph,"Carlsbad, Calif.",womens field hockey,stanford
+477,Phoebe Crosthwaite,"Edinburgh, Scotland",womens field hockey,stanford
+478,Hailey Szybunka,"North Vancouver, BC",womens field hockey,stanford
+479,Hannah Schofield,"Moorpark, Calif.",womens field hockey,stanford
+480,Erin Barry,"Bushmills, Northern Ireland",womens rowing,stanford
+481,Ashley Baxter,"San Francisco, Calif.",womens rowing,stanford
+482,Isabel Bogart,"Piedmont, Calif.",womens rowing,stanford
+483,Sophia Boyd-Fliegel,"Seattle, Wash.",womens rowing,stanford
+484,Anika Christofferson,"Mercer Island, Wash.",womens rowing,stanford
+485,Lindy Clute,"Alamo, Calif.",womens rowing,stanford
+486,Sarah Commesso,"Tiburon, Calif.",womens rowing,stanford
+487,Julia Cornacchia,"Darien, Conn.",womens rowing,stanford
+488,Megan Cvitanovic,"Alameda, Calif.",womens rowing,stanford
+489,Emily Delleman,"Davenport, Iowa",womens rowing,stanford
+490,Stephanie Grauer,"Vancouver, British Columbia",womens rowing,stanford
+491,Ashley Hannah,N/A,womens rowing,stanford
+492,Mariko Kelly,"Del Mar, Calif.",womens rowing,stanford
+493,Maria Kent,"Oak Park, Ill.",womens rowing,stanford
+494,Karli Kirk,"Arlington, Texas",womens rowing,stanford
+495,Madi Kist,"Maple Glen, Pa.",womens rowing,stanford
+496,Kaitlyn Kynast,"Ridgefield, Conn.",womens rowing,stanford
+497,Maddy Lauinger,"Philadelphia, Pa.",womens rowing,stanford
+498,Tassica Lim,"Bellaire, TX",womens rowing,stanford
+499,Sophia Lynn,"Venice, Calif.",womens rowing,stanford
+500,Grace McGinley,"Westport, Conn.",womens rowing,stanford
+501,Devin Norder,"Osprey, Fla.",womens rowing,stanford
+502,Miranda Nykolyn,"Huntington, N.Y.",womens rowing,stanford
+503,Sarah Ondak,"Edmond, Okla.",womens rowing,stanford
+504,Alexandra Reeves,"Toronto, Ont., Canada",womens rowing,stanford
+505,India Robinson,"Oakland, Calif.",womens rowing,stanford
+506,Alie Rusher,"Glenview, Ill.",womens rowing,stanford
+507,Meg Saunders,"London, United Kingdom",womens rowing,stanford
+508,Nicki Schindler,"Pacific Palisades, Calif.",womens rowing,stanford
+509,Margaret Seaton,"Mercer Island, Wash.",womens rowing,stanford
+510,Elizabeth Sharis,"Bettendorf, Iowa",womens rowing,stanford
+511,Maria Shcherbakova,"Luxembourg City, Luxembourg",womens rowing,stanford
+512,Chase Shepley,"Crystal Lake, Ill.",womens rowing,stanford
+513,Sheridan Stephenson,"Seattle, Wash.",womens rowing,stanford
+514,Abby Tarquinio,"Nashville, Tenn.",womens rowing,stanford
+515,Jade Thornton,"Denver, Colo.",womens rowing,stanford
+516,Leigh Warner,"Portland, Ore.",womens rowing,stanford
+517,Rena White,"Princeton, N.J.",womens rowing,stanford
+518,Anja Zehfuss,"Chicago, Ill.",womens rowing,stanford
+519,Lauren Wegner,"Omaha, Neb.",softball,stanford
+520,Victoria Molina,"Pleasanton, Calif.",softball,stanford
+521,Alyssa Horeczko,"Huntington Beach, Calif.",softball,stanford
+522,Lauren Frost,"Eagle River, Alaska",softball,stanford
+523,Carolyn Lee,"San Ramon, Calif.",softball,stanford
+524,Nikki Bauer,"Sebewaing, Mich.",softball,stanford
+525,Hannah Howell,"Corona, Calif.",softball,stanford
+526,Montana Dixon,"Lakewood, Calif.",softball,stanford
+527,Arden Pettit,"Jupiter, Fla.",softball,stanford
+528,Kayler Detmer,"Twin Falls, Idaho",softball,stanford
+529,Molly Fowkes,"Loomis, Calif.",softball,stanford
+530,Kiana Pancino,"Huntington Beach, Calif.",softball,stanford
+531,Kristina Inouye,"Huntington Beach, Calif.",softball,stanford
+532,Teaghan Cowles,"Ridgefield, Wash.",softball,stanford
+533,Carmina  Nicolas,"San Diego, Calif.",softball,stanford
+534,Whitney Burks,"Fairfax Station, Va.",softball,stanford
+535,Maya Jackson,"Cerritos, Calif.",softball,stanford
+536,Maddy  Dwyer,"Orange, Calif.",softball,stanford
+537,Jenna Gray,"Shawnee, Kan.",womens volleyball,stanford
+538,Kathryn Plummer,"Aliso Viejo, Calif.",womens volleyball,stanford
+539,Meghan McClure,"Rancho Santa Margarita, Calif.",womens volleyball,stanford
+540,Blake Sharp,"Orinda, Calif.",womens volleyball,stanford
+541,Tami Alade,"Sherwood Park, Alberta, Canada",womens volleyball,stanford
+542,Michaela Keefe,"Pacific Palisades, Calif.",womens volleyball,stanford
+543,Morgan Hentz,"Lakeside Park, Ky.",womens volleyball,stanford
+544,Payton Chang,"Newport Beach, Calif.",womens volleyball,stanford
+545,Kate Formico,"Saratoga, Calif.",womens volleyball,stanford
+546,Audriana Fitzmorris,"Overland Park, Kan.",womens volleyball,stanford
+547,Merete Lutz,"Houston, Texas",womens volleyball,stanford
+548,Alexis Froistad,"Aromas, Calif.",womens volleyball,stanford
+549,Caitlin Keefe,"Pacific Palisades, Calif.",womens volleyball,stanford
+550,Sidney Wilson,"Toronto, Ontario, Canada",womens volleyball,stanford
+551,Courtney Bowen,"Brooklyn, N.Y.",womens volleyball,stanford
+552,Nicholas Campbell-Kruger,"Los Angeles, Calif.",mens fencing,stanford
+553,Robin Cheong,"San Antonio, Texas",mens fencing,stanford
+554,Andre Cornman,"Tiburon, Calif.",mens fencing,stanford
+555,Jeffrey Dalli,"San Carlos, CA.",mens fencing,stanford
+556,Ty Hunter,"Seattle, WA.",mens fencing,stanford
+557,Justin Kang,"Fullerton, Calif.",mens fencing,stanford
+558,Tristan Krueger,"Bend, Oregon",mens fencing,stanford
+559,Darren Mei,"Redwood City, Calif.",mens fencing,stanford
+560,Lucas Orts,"Burlingame, Calif.",mens fencing,stanford
+561,Sajan Patel,"Clearwater, FL",mens fencing,stanford
+562,Jose Recinto,"Palo Alto, Calif.",mens fencing,stanford
+563,Mitchell So,"Dallas, Texas",mens fencing,stanford
+564,Logan Spear,"West Linn, Ore.",mens fencing,stanford
+565,Sean Strong,"Goleta, Calif.",mens fencing,stanford
+566,Royce Wang,"San Jose, CA",mens fencing,stanford
+567,Gabe Weininger,"Northbrook, Ill.",mens fencing,stanford
+568,Rose Adams,"Sacramento, Calif.",womens fencing,stanford
+569,Nicole Aw,N/A,womens fencing,stanford
+570,Caroline Baker,"Seattle, Wash.",womens fencing,stanford
+571,Christie Dawson,N/A,womens fencing,stanford
+572,Camille  Dawson,"Houston, Texas",womens fencing,stanford
+573,Amanda Han,"Las Vegas, NV.",womens fencing,stanford
+574,Anna Lee,"Old Tappan, N.J.",womens fencing,stanford
+575,Madeline Liao,"Fresno, Ca.",womens fencing,stanford
+576,Caroline Moon,N/A,womens fencing,stanford
+577,Annika Norquist,N/A,womens fencing,stanford
+578,Becca Rose,"Chicago, Ill.",womens fencing,stanford
+579,Cindy Torma,"Oxford, Mississippi",womens fencing,stanford
+580,Carly Weber-Levine,"East Setauket, N.Y.",womens fencing,stanford
+581,Anna Widder,"Clayton, MO.",womens fencing,stanford
+582,Adrienne Yang,"Colts Neck, N.J.",womens fencing,stanford
+583,Claire Zau,N/A,womens fencing,stanford
+584,Jacob Barrus,"Dallas, Texas",mens gymnastics,stanford
+585,Andrew Bitner,"Hoschton, Ga.",mens gymnastics,stanford
+586,Grant Breckenridge,"Libertyville, Ill.",mens gymnastics,stanford
+587,Drew Burton,"Elizabeth, Colo.",mens gymnastics,stanford
+588,Trevor DiGerolamo,"Charleston, S.C.",mens gymnastics,stanford
+589,Josiah Eng,"New Berlin, Wisc.",mens gymnastics,stanford
+590,David Jessen,"Plantation, Fla.",mens gymnastics,stanford
+591,Thomas Lee,"San Mateo, Calif.",mens gymnastics,stanford
+592,Connor Lewis,"Grove City, Ohio",mens gymnastics,stanford
+593,Robert Neff,"Brookfield, Wis.",mens gymnastics,stanford
+594,Bailey Perez,"Glen Ellyn, Ill.",mens gymnastics,stanford
+595,Bryan  Perla,"West Boylston, Mass.",mens gymnastics,stanford
+596,Joey Ringer,"Las Flores, Calif.",mens gymnastics,stanford
+597,Ryan Sheppard,"Murphy, Texas",mens gymnastics,stanford
+598,Blake Sun,"San Antonio, Texas",mens gymnastics,stanford
+599,Ben Swartout,"Katy, Texas",mens gymnastics,stanford
+600,Barrett Weiss,"Pasadena, Calif.",mens gymnastics,stanford
+601,Gareth Weiss,"Pasadena, Calif.",mens gymnastics,stanford
+602,Kyla Bryant,"Lake Oconee, Ga.",womens gymnastics,stanford
+603,Kaylee Cole,"Flower Mound, Texas",womens gymnastics,stanford
+604,Taryn Fitzgerald,"Houston, Texas",womens gymnastics,stanford
+605,Rachael  Flam,"Houston, Texas",womens gymnastics,stanford
+606,Grace Garcia,"New York, N.Y.",womens gymnastics,stanford
+607,Hailee Hoffman,"Salt Lake City, Utah",womens gymnastics,stanford
+608,Nicole Hoffman,"Bedford, N.Y.",womens gymnastics,stanford
+609,Taylor Lawson,"Macungie, Pa.",womens gymnastics,stanford
+610,Lauren  Navarro,"La Verne, Calif.",womens gymnastics,stanford
+611,Elizabeth Price,"Coopersburg, Pa.",womens gymnastics,stanford
+612,Catherine  Rogers,"Sandy, Utah",womens gymnastics,stanford
+613,Ashley Tai,"El Dorado Hills, Calif.",womens gymnastics,stanford
+614,Aleeza Yu,"Toronto, Canada",womens gymnastics,stanford
+615,Chelsea Trattner,"Ridgewood, N.J.",womens lacrosse,stanford
+616,Kira Lopes,"Mendham, N.J.",womens lacrosse,stanford
+617,Trudie Grattan,"Richmond, Va.",womens lacrosse,stanford
+618,Areta Buness,"Paradise Valley, Ariz.",womens lacrosse,stanford
+619,Anna Santulli,"Hinsdale, Ill.",womens lacrosse,stanford
+620,Libby Muir,"Stanford, Calif.",womens lacrosse,stanford
+621,Julia Persche,"Summit, N.J.",womens lacrosse,stanford
+622,Kyra Pelton,"Redwood City, Calif.",womens lacrosse,stanford
+623,Monika Sivilli,"Greenlawn, N.Y.",womens lacrosse,stanford
+624,Cameron Park,"Walpole, Mass.",womens lacrosse,stanford
+625,Kelly Myers,"Alexandria, Va.",womens lacrosse,stanford
+626,Maggie Nick,"Chicago, Ill.",womens lacrosse,stanford
+627,Ali Baiocco,"Harding, N.J.",womens lacrosse,stanford
+628,Sydney  Shaw,"Delmar, N.Y.",womens lacrosse,stanford
+629,Hannah Dudley,"Concord, Mass.",womens lacrosse,stanford
+630,Madison O'Leary,"Gainesville, Fla.",womens lacrosse,stanford
+631,Katherine Gjertsen,"Winnetka, Ill.",womens lacrosse,stanford
+632,Julia Massaro,"Purchase, N.Y.",womens lacrosse,stanford
+633,Taylor Scornavacco,"San Diego, Calif.",womens lacrosse,stanford
+634,Genesis Lucero,"Encinitas, Calif.",womens lacrosse,stanford
+635,Kelsey Murray,"Wilmette, Ill.",womens lacrosse,stanford
+636,Sandy Smith,"Germantown, Tenn.",womens lacrosse,stanford
+637,Shelby Parks,"Denver, Colo.",womens lacrosse,stanford
+638,Emma Knaus,"Ross, Calif.",womens lacrosse,stanford
+639,Mikaela  Watson,"Philadelphia, Pa.",womens lacrosse,stanford
+640,Gabby Noto,"Atherton, Calif.",womens lacrosse,stanford
+641,Marianna Salvatori,"Baltimore, Md.",womens lacrosse,stanford
+642,Alex Tsai,"La Jolla,Calif.",womens lacrosse,stanford
+643,Daniella McMahon,"Bardonia, N.Y.",womens lacrosse,stanford
+644,Jacie Lemos,"Rye, N.H.",womens lacrosse,stanford
+645,Galen Lew,"Glen Ridge, N.J.",womens lacrosse,stanford
+646,Allie DaCar,"Dublin, Calif.",womens lacrosse,stanford
+647,Dillon Schoen,"Darien, Conn.",womens lacrosse,stanford
+648,Kyle Dagostino,"Tampa, Fla.",mens volleyball,stanford
+649,Paul Bischoff,"Wheaton, Ill.",mens volleyball,stanford
+650,Eric Beatty,"Huntington Beach, Calif.",mens volleyball,stanford
+651,JP Reilly,"Manhattan Beach, Calif.",mens volleyball,stanford
+652,Russell Dervay,"Virginia Beach, Va.",mens volleyball,stanford
+653,Mason Tufuga,"Costa Mesa, Calif.",mens volleyball,stanford
+654,Leo Henken,"Webster Groves, Mo.",mens volleyball,stanford
+655,Stephen Moye,"El Segundo, Calif.",mens volleyball,stanford
+656,Evan Enriques,"Punalu'u, Hawai'i",mens volleyball,stanford
+657,Chris Moore,"Lake Mary, Fla.",mens volleyball,stanford
+658,Jordan Ewert,"Antioch, Calif.",mens volleyball,stanford
+659,Kevin Rakestraw,"Newport Beach, Calif.",mens volleyball,stanford
+660,Kyler Presho,"San Clemente, Calif.",mens volleyball,stanford
+661,Matt Klassen,"Elm Grove, Wis.",mens volleyball,stanford
+662,Eli Wopat,"Santa Barbara, Calif.",mens volleyball,stanford
+663,Jacob Thoenen,"St. Charles, Mo.",mens volleyball,stanford
+664,Cole Paullin,"Manhattan Beach, Calif.",mens volleyball,stanford
+665,Jaylen Jasper,"Annapolis, Md.",mens volleyball,stanford
+666,Jake Stuebner,"Los Altos, Calif.",mens volleyball,stanford
+667,Elle Billman,"Palo Alto, CA.",womens synchro swimming,stanford
+668,Gillian Brassil,"Andover, Ma.",womens synchro swimming,stanford
+669,Natalie Fletcher,"Concord, Calif.",womens synchro swimming,stanford
+670,Dylan Harding,"Gormley, Ontario, Canada",womens synchro swimming,stanford
+671,Rachel Hyon,"Cypress, Calif.",womens synchro swimming,stanford
+672,Caitlin Klauer,"Andover, Mass.",womens synchro swimming,stanford
+673,Joanna Langner,"Lafayette, Calif.",womens synchro swimming,stanford
+674,Karen Li,"San Jose, Calif.",womens synchro swimming,stanford
+675,Jacklyn Luu,"Milpitas, Calif.",womens synchro swimming,stanford
+676,Clare McGovern,"Toronto, Ontario",womens synchro swimming,stanford
+677,Sandra Ortellado,"Walnut Creek, Calif.",womens synchro swimming,stanford
+678,Lily Randhawa,"Mesa, Az.",womens synchro swimming,stanford
+679,Erica Slavin,"Calgary, Alberta",womens synchro swimming,stanford
+680,Sophia  Susac,"Sacramento, Calif.",womens synchro swimming,stanford
+681,Amanda Urke,"Medina, Minn.",womens synchro swimming,stanford
+682,Simon Acker,"Seattle, Wash.",mens rowing,stanford
+683,Martin Amethier,"Stockholm, Sweden",mens rowing,stanford
+684,Diego Baugh,"Norwalk, Conn.",mens rowing,stanford
+685,Ryan Buchanan,"Harleysville, Pa.",mens rowing,stanford
+686,Ryan Cardiff,"Petaluma, Calif.",mens rowing,stanford
+687,John Cirenza,"London, England",mens rowing,stanford
+688,John Coffey,"Folsom, Calif.",mens rowing,stanford
+689,Jonathan Cogan,"Atherton, Calif.",mens rowing,stanford
+690,David Dunn,N/A,mens rowing,stanford
+691,Max Evans,"Oyster Bay, N.Y.",mens rowing,stanford
+692,Hassan Fahmy,"Maadi, Cairo, Egypt",mens rowing,stanford
+693,Gordon Holterman,"Hillsborough, Calif.",mens rowing,stanford
+694,Allen Hosler,"Piedmont, Calif.",mens rowing,stanford
+695,Chris Hull,"Olympia, Wash.",mens rowing,stanford
+696,Nick Kingsley,"New York, N.Y.",mens rowing,stanford
+697,Nikita Lilichenko,"Orinda, Calif.",mens rowing,stanford
+698,Jason Lin,"Eau Claire, Wisc.",mens rowing,stanford
+699,David Ludeke,N/A,mens rowing,stanford
+700,Joseph Matan,"San Jose, Calif.",mens rowing,stanford
+701,Isabelle Morris,"Tampa, Fla.",mens rowing,stanford
+702,Will Nuelle,"Chicago, Ill.",mens rowing,stanford
+703,Pranav Padode,"Bangalore, Karnataka",mens rowing,stanford
+704,Matthew Park,"Piedmont, Calif.",mens rowing,stanford
+705,Allen Reitz,"Long Beach, Calif.",mens rowing,stanford
+706,Jaisel Sandhu,"Palo Alto, Calif.",mens rowing,stanford
+707,Bart Scherpbier,"Fort Washington, Pa.",mens rowing,stanford
+708,Daniel Schmid,"Santa Ana, Calif.",mens rowing,stanford
+709,Cameron  Slovic,"Portland, Ore.",mens rowing,stanford
+710,Will Spencer,"Redmond, Wash.",mens rowing,stanford
+711,John Spencer,"Bellvue, Wash.",mens rowing,stanford
+712,Jovanni Stefani,"San Francisco, Calif.",mens rowing,stanford
+713,Julius  Stener,"Dallas, Texas",mens rowing,stanford
+714,Drew  Taylor,"Dallas, Texas",mens rowing,stanford
+715,Sarah  Taylor,"Dallas, Texas",mens rowing,stanford
+716,Brennan Wertz,"Mill Valley, Calif.",mens rowing,stanford
+717,Guy Wuollet,"Bryn Mawr, Pa.",mens rowing,stanford
+718,Andrew Ying,N/A,mens rowing,stanford
+719,Carlos Zambrano,"Monterrey, Mexico",mens rowing,stanford
+720,Caroline Beckman,"Washington, DC",womens rowing light,stanford
+721,Grace Cotter,"Seattle, Wash.",womens rowing light,stanford
+722,Shea Cours,"Rossmoor, Calif.",womens rowing light,stanford
+723,Reagan Damoose,"Harbor Springs, Mich.",womens rowing light,stanford
+724,Samantha Dore,"Bainbridge Island, Wash.",womens rowing light,stanford
+725,Isabella Duan,"Hillsborough, Calif.",womens rowing light,stanford
+726,Johanna Francis,"Santa Monica, Calif.",womens rowing light,stanford
+727,Isabella Garcia-Camargo,"Seattle, Wash.",womens rowing light,stanford
+728,Elan Halpern,"Carpinteria, Calif.",womens rowing light,stanford
+729,Keagan Hanley,"Manhasset, N.Y.",womens rowing light,stanford
+730,Serena Harber,"Bellevue, Wash.",womens rowing light,stanford
+731,Taylor Harris,"Des Moines, Wash.",womens rowing light,stanford
+732,Haley Hauser,"Cincinnati, OH",womens rowing light,stanford
+733,Kate Hickey,"Yardley, Pa.",womens rowing light,stanford
+734,Ally Hinson,"Menlo Park, Calif.",womens rowing light,stanford
+735,Caitlin Hogan,N/A,womens rowing light,stanford
+736,Michele Holtkamp,"Nashville, Tenn.",womens rowing light,stanford
+737,Kira Jan,N/A,womens rowing light,stanford
+738,Marie Johnson,"Lafayette, Calif.",womens rowing light,stanford
+739,Hannah Levy,"Long Beach, Calif.",womens rowing light,stanford
+740,Diba Massihpour,"Cupertino, Calif.",womens rowing light,stanford
+741,Tiffany Ong,"Woodland Hills, Calif.",womens rowing light,stanford
+742,Krithi Reddy,N/A,womens rowing light,stanford
+743,Jordana Reist,"Larchmont, N.Y.",womens rowing light,stanford
+744,Anne Ryschon,N/A,womens rowing light,stanford
+745,Skyler Samuelson,"Freeport, Maine",womens rowing light,stanford
+746,Brigitte Schmittlein,"Newton, Mass.",womens rowing light,stanford
+747,Sarah Siegel,"Washington, D.C.",womens rowing light,stanford
+748,Claire Smythe,N/A,womens rowing light,stanford
+749,Laura Stickells,"Bishop, Calif.",womens rowing light,stanford
+750,Allison Tielking,"St. Louis, Mo.",womens rowing light,stanford
+751,Micah Trautwein,"Jarabacoa, Dominican Republic",womens rowing light,stanford
+752,Hillary Umphrey,"Concord, Mass.",womens rowing light,stanford
+753,Jennifer Vu,N/A,womens rowing light,stanford
+754,Kat Anderson,"Everett, Wash.",womens beach volleyball,stanford
+755,Courtney Bowen,"Brooklyn, N.Y.",womens beach volleyball,stanford
+756,Payton Chang,"Newport Beach, Calif.",womens beach volleyball,stanford
+757,Jennifer DiSanto,"Portola Valley, CA",womens beach volleyball,stanford
+758,Kate Formico,"Saratoga, Calif",womens beach volleyball,stanford
+759,Morgan Hentz,"Lakeside Park, Ky.",womens beach volleyball,stanford
+760,Caitlin Keefe,"Pacific Palisades, Calif.",womens beach volleyball,stanford
+761,Kathryn Plummer,"Aliso Viejo, Calif.",womens beach volleyball,stanford
+762,Catherine Raquel,"Los Angeles, Calif.",womens beach volleyball,stanford
+763,Chelsea Red-Horse Mohl,"Huntington Beach, Calif.",womens beach volleyball,stanford
+764,Shannon Richardson,"Los Gatos, Calif.",womens beach volleyball,stanford
+765,Blake Sharp,"Orinda, Calif.",womens beach volleyball,stanford
+766,Amelia Smith,"San Jose, Calif.",womens beach volleyball,stanford
+767,Sunny Villapando,"Manhattan Beach, Calif.",womens beach volleyball,stanford
+768,Nestor Cano,"Alella, Spain",mens sailing,stanford
+769,Will La Dow,"San Diego, CA",mens sailing,stanford
+770,William Marshall,"Auburndale, MA",mens sailing,stanford
+771,Luke Muller,"Fort Pierce, Fla.",mens sailing,stanford
+772,Jack Parkin,"Riverside, Conn.",mens sailing,stanford
+773,Jacob Rosenberg,"Huntington Beach, Calif.",mens sailing,stanford
+774,Romain Screve,"Ross, Calif.",mens sailing,stanford
+775,Kathryn Booker,"St. Petersburg, Fla.",womens sailing,stanford
+776,Madeline Bubb,"Newport Beach, Calif.",womens sailing,stanford
+777,Mimi El-Khazindar,"Lymington, United Kingdom",womens sailing,stanford
+778,Haley Fox,"Fort Lauderdale, Fla.",womens sailing,stanford
+779,Meg Gerli,"Science, Technology and Society",womens sailing,stanford
+780,Olivia Gugliemini,"Manahawkin, N.J.",womens sailing,stanford
+781,Stephanie Houck,"Annapolis, Md.",womens sailing,stanford
+782,Taylor Kirkpatrick,"Portsmouth, R.I.",womens sailing,stanford
+783,Julia Lambert,"Portland, ME",womens sailing,stanford
+784,Cassie Obel,"Marina del Rey, Calif.",womens sailing,stanford
+785,Kennedy Placek,"San Francisco, CA",womens sailing,stanford
+786,Christina Sakellaris,"Milton, Mass.",womens sailing,stanford
+787,Sophia Sole,"Houston, Texas",womens sailing,stanford
+788,Victoria Thompson,"Newport Beach, Calif.",womens sailing,stanford
+789,Elena VandenBerg,"Annapolis, MD",womens sailing,stanford
+790,Sarah Bell,"Boston, Mass.",womens squash,stanford
+791,Chloe Chemtob,"Winter Park, Fla.",womens squash,stanford
+792,Tatyanna Dadabbo,"Bloomfield Hills, Mich.",womens squash,stanford
+793,Julia Gillette,"Lake Forest, Ill.",womens squash,stanford
+794,Christie Huchro,"Scarborough, N.Y.",womens squash,stanford
+795,Caroline Kimmel,"Rye, N.Y.",womens squash,stanford
+796,Juliette Love,"San Carlos, Calif.",womens squash,stanford
+797,Anna Marie Manning,"Wynnewood, Pa.",womens squash,stanford
+798,Grayson Melby,"Wyndmoor, PA.",womens squash,stanford
+799,Sumrin P. Mudgil,"Newtown Square, Pa.",womens squash,stanford
+800,Caroline Neave,"Rye, N.Y.",womens squash,stanford
+801,Lucy Rowe,"Bryn Mawr, Pa.",womens squash,stanford
+802,Tara Shannon,"Calgary, Alberta",womens squash,stanford
+803,Casey Wong,"Ruxton, Md.",womens squash,stanford
+804,Andrew Chun,"La Jolla, Calif.",mens water polo,stanford
+805,Drew Holland,"Orinda, Calif.",mens water polo,stanford
+806,Jackson Kimbell,"Long Beach, Calif.",mens water polo,stanford
+807,Mitchell Mendoza,"Newport Beach, Calif.",mens water polo,stanford
+808,Tyler Abramson,"Orinda, Calif.",mens water polo,stanford
+809,Nelson Perla-Ward,"Palo Alto, Calif.",mens water polo,stanford
+810,Ben Hallock,"Studio City, Calif.",mens water polo,stanford
+811,Connor Stapleton,"Davis, Calif.",mens water polo,stanford
+812,Blake Parrish,"Goleta, Calif.",mens water polo,stanford
+813,Cody Smith,"San Diego, Calif.",mens water polo,stanford
+814,Justin Roberto,"Danville, Calif.",mens water polo,stanford
+815,Reid Chase,"Corona del Mar, Calif.",mens water polo,stanford
+816,Dylan Woodhead,"San Anselmo, Calif.",mens water polo,stanford
+817,Harrison Enright,"San Mateo, Calif.",mens water polo,stanford
+818,Sam Pfeil,"Laguna Niguel, Calif.",mens water polo,stanford
+819,Bennett Williams,"Laguna Niguel, Calif.",mens water polo,stanford
+820,Marco Stanchi,"Bellevue, Wash.",mens water polo,stanford
+821,Parker  Killion,"Irvine, Calif.",mens water polo,stanford
+822,Zack  LaGrange,"La Jolla, Calif.",mens water polo,stanford
+823,Oliver Lewis,"Honolulu, Hawaii",mens water polo,stanford
+824,Duncan Mactavish,"Palos Verdes Estates, Calif.",mens water polo,stanford
+825,Spencer Nelson,"Escondido, Calif.",mens water polo,stanford
+826,Josh  Orrick,"Orange, Calif.",mens water polo,stanford
+827,Emalia Eichelberger,"Honolulu, Hawaii",womens water polo,stanford
+828,Julia Hermann,"Solana Beach, Calif.",womens water polo,stanford
+829,Katrina Sturm,"Davis, Calif.",womens water polo,stanford
+830,Kayla Constandse,"Santa Ana, Calif.",womens water polo,stanford
+831,Mackenzie Wiley,"Coronado, Calif.",womens water polo,stanford
+832,Katie Dudley,"Okemos, Mich.",womens water polo,stanford
+833,Lauren Bywater,"Riverside, Calif.",womens water polo,stanford
+834,Hannah Shabb,"Seattle, Wash.",womens water polo,stanford
+835,Jordan Raney,"Manhattan Beach, Calif.",womens water polo,stanford
+836,Cassidy Wiley,"Coronado, Calif.",womens water polo,stanford
+837,Aria Fischer,"Laguna Beach, Calif.",womens water polo,stanford
+838,Kat Klass,"Danville, Calif.",womens water polo,stanford
+839,Makenzie Fischer,"Laguna Beach, Calif.",womens water polo,stanford
+840,Shannon Cleary,"Goleta, Calif.",womens water polo,stanford
+841,Madison Berggren,"Tualatin, Ore.",womens water polo,stanford
+842,Sarah Klass,"Danville, Calif.",womens water polo,stanford
+843,Bella Baldridge,"Laguna Beach, Calif.",womens water polo,stanford
+844,Sophie Maguy,"Redondo Beach, Calif.",womens water polo,stanford
+845,Anna Rajaratnam,"Cupertino, Calif.",womens water polo,stanford
