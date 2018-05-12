@@ -16,570 +16,556 @@
 14,De'Quon Lake,"Charlotte, Amalie, St. Thomas (US Virgin Islands)",mens basketball,arizona_state
 15,Kodi Justice,"Mesa, Ariz.",mens basketball,arizona_state
 16,Reili  Richardson,"Brea, Calif.",womens basketball,arizona_state
-17,Sabrina Haines,"Phoenix, Ariz.",womens basketball,arizona_state
-18,Kiara Russell,"Minneapolis, Minn.",womens basketball,arizona_state
-19,Robbi Ryan,"Sheridan, Wyo.",womens basketball,arizona_state
-20,Sophia Elenga,"Nogent Sur Oise, France",womens basketball,arizona_state
-21,Courtney Ekmark,"Arcadia, Ariz.",womens basketball,arizona_state
-22,Bre’yanna Sanders,"Fresno, Calif.",womens basketball,arizona_state
-23,Charnea Johnson-Chapman,"Moreno Valley, Calif.",womens basketball,arizona_state
-24,Kianna Ibis,"Omaha, Neb.",womens basketball,arizona_state
-25,Eva Rubin,"Flossmoor, Ill.",womens basketball,arizona_state
-26,Jamie Ruden,"Rochester, Minn.",womens basketball,arizona_state
-27,Chaz Montoya,"Glendale, Ariz.",baseball,arizona_state
-28,Alika Williams,"San Diego, Calif.",baseball,arizona_state
-29,Drew Swift,"Chandler, Ariz.",baseball,arizona_state
-30,Alec Marsh,"Milwaukee, Wis.",baseball,arizona_state
-31,Sam Ferri,"Norridge, Ill.",baseball,arizona_state
-32,Jeremy McCuin,"Gilbert, Ariz.",baseball,arizona_state
-33,Connor Higgins,"Orefield, Pa.",baseball,arizona_state
-34,Gage Canning,"Ramona, Calif.",baseball,arizona_state
-35,Gage Workman,"Queen Creek, Ariz.",baseball,arizona_state
-36,Eli Lingos,"Temecula, Calif.",baseball,arizona_state
-37,Zach Hogueisson,"El Cajon, Calif.",baseball,arizona_state
-38,Ryan Hingst,"El Paso, Texas",baseball,arizona_state
-39,Trevor Hauver,"Chandler, Ariz.",baseball,arizona_state
-40,Boyd Vander Kooi,"Mesa, Ariz.",baseball,arizona_state
-41,Spencer Torkelson,"Petaluma, Calif.",baseball,arizona_state
-42,Carter Aldrete,"Monterey, Calif.",baseball,arizona_state
-43,Fitz Stadler,"Glenview, Ill.",baseball,arizona_state
-44,Jake Godfrey,"New Lenox, Ill.",baseball,arizona_state
-45,Hunter Bishop,"Palo Alto, Calif.",baseball,arizona_state
-46,Zane Strand,"Chandler, Ariz.",baseball,arizona_state
-47,Sam Romero,"Phoenix, Ariz.",baseball,arizona_state
-48,Lyle Lin,"Taipei, Taiwan",baseball,arizona_state
-49,Scott Mehan,"Scottsdale, Ariz.",baseball,arizona_state
-50,Grant Schneider,"Austin, Texas",baseball,arizona_state
-51,Brady Corrigan,"Plainfield, Ill.",baseball,arizona_state
-52,Drake Davis,"Highlands Ranch, Colo.",baseball,arizona_state
-53,Adisyn Coffey,"Albany, Ind.",baseball,arizona_state
-54,Colby Davis,"Scottsdale, Ariz.",baseball,arizona_state
-55,Myles Denson,"Las Vegas, Nev.",baseball,arizona_state
-56,Hunter Jump,"Aliso Viejo, Calif.",baseball,arizona_state
-57,Luke Leisenring,"Golden, Colo.",baseball,arizona_state
-58,Dellan Raish,"Cave Creek, Ariz.",baseball,arizona_state
-59,Spencer Van Scoyoc,"Cedar Rapids, Iowa",baseball,arizona_state
-60,Taylor Lane,"Chesapeake, Va.",baseball,arizona_state
-61,N'Keal Harry,"Chandler, Ariz.",football,arizona_state
-62,Brandon Ruiz,"Gilbert, Ariz.",football,arizona_state
-63,Brandon Aiyuk,"Rocklin, Calif.",football,arizona_state
-64,Darius  Slade,"Montclair, N.J.",football,arizona_state
-65,Eno Benjamin,"Wylie, Texas",football,arizona_state
-66,Koron Crump,"St. Louis, Mo.",football,arizona_state
-67,Manny Wilkins,"Novato, Calif.",football,arizona_state
-68,Kobe Williams,"Long Beach, Calif.",football,arizona_state
-69,Evan Fields,"Oklahoma City, Okla.",football,arizona_state
-70,Dominique Harrison,"Houston, Texas",football,arizona_state
-71,Blake  Barnett,"Corona, Calif.",football,arizona_state
-72,Merlin  Robertson,"Gardena, Calif.",football,arizona_state
-73,Jay Jay Wilson,"Valencia, Calif.",football,arizona_state
-74,K.J.  Jarrell,"Scottsdale, Ariz.",football,arizona_state
-75,Kyle Williams,"Murrieta, Calif.",football,arizona_state
-76,Cody French,"Roswell, N.M.",football,arizona_state
-77,John Humphrey,"League City, Texas",football,arizona_state
-78,Darien Cornay,"Los Alamitos, Calif.",football,arizona_state
-79,Ryan Jenkins,"Marietta, Ga.",football,arizona_state
-80,Ryan Kelley,"Chandler, Ariz.",football,arizona_state
-81,Cam  Phillips,"Houston, Texas",football,arizona_state
-82,Dillon Sterling-Cole,"Houston, Texas",football,arizona_state
-83,Kevin Brown,"Mission Viejo, Calif.",football,arizona_state
-84,Aashari Crosswell,"Long Beach, Calif.",football,arizona_state
-85,Ryan Newsome,"Aledo, Texas",football,arizona_state
-86,Langston Frederick,"League City, Texas",football,arizona_state
-87,Matthew Bazarevitsch,"Pasadena, Calif.",football,arizona_state
-88,Terrell Chatman,"Baton Rouge, La.",football,arizona_state
-89,Khaylan Thomas,"Rancho Cucamonga, Calif.",football,arizona_state
-90,Terin Adams,"Kirkland, Wash.",football,arizona_state
-91,Mark Cosgrove,"Mullica Hill, N.J.",football,arizona_state
-92,Nick Ralston,"Argyle, Texas",football,arizona_state
-93,Tyler Whiley,"Scottsdale, Ariz.",football,arizona_state
-94,Chase Lucas,"Chandler, Ariz.",football,arizona_state
-95,Preston Liger,"Miami, Fla.",football,arizona_state
-96,Trelon Smith,"Houston, Texas",football,arizona_state
-97,Ty Thomas,"Lubbock, Texas",football,arizona_state
-98,Demonte King,"Bellflower, Calif.",football,arizona_state
-99,A.J.  Carter,"Many, La.",football,arizona_state
-100,Brandon LaMarche,"Santa Ana, Calif.",football,arizona_state
-101,Dasmond Tautalatasi,"Concord, Calif.",football,arizona_state
-102,Isaiah Floyd,"Pleasanton, Calif.",football,arizona_state
-103,Abe Thompson,"Yuma, Ariz.",football,arizona_state
-104,Kyle Soelle,"Scottsdale, Ariz.",football,arizona_state
-105,Brock Sturges,"Allen, Texas",football,arizona_state
-106,Michael Sleep-Dalton,"Geelong, Victoria, Australia",football,arizona_state
-107,Joey Bryant,"Liliha, Hawaii",football,arizona_state
-108,Deion Guignard,"Euless, Texas",football,arizona_state
-109,Malik Lawal,"Temecula, Calif.",football,arizona_state
-110,Tyler Johnson,"Gilbert, Ariz.",football,arizona_state
-111,Jalen Harvey,"El Cerrito, Calif.",football,arizona_state
-112,John O'Brien,N/A,football,arizona_state
-113,Tyler Cosgrove,"Mullica Hill, N.J.",football,arizona_state
-114,George Lea,"New Orleans, La.",football,arizona_state
-115,Christian Zendejas,"Chandler, Ariz.",football,arizona_state
-116,Demetrious Flowers,"Bellflower, Calif.",football,arizona_state
-117,Caleb McShanag,"Phoenix, Ariz.",football,arizona_state
-118,Loren  Mondy,"Mansfield, Texas",football,arizona_state
-119,Ely Doyle,"Mission Hills, Calif.",football,arizona_state
-120,Jalen Russell,"Murrietta, Calif.",football,arizona_state
-121,Kordell Caldwell,"Houston, Texas",football,arizona_state
-122,Jarrett Bell,"Norco, Calif.",football,arizona_state
-123,Ochuko Duke,"Allen, Texas",football,arizona_state
-124,Kyle Jones,"Burlington, Wisc.",football,arizona_state
-125,Zach Robertson,"Bellflower, Calif.",football,arizona_state
-126,Reggie  Hughes,"Calabasas, Calif.",football,arizona_state
-127,Stanley Lambert,"San Antonio, Texas",football,arizona_state
-128,Casey Tucker,"Gilbert, Ariz.",football,arizona_state
-129,Alex Losoya,"Santa Ana, Calif.",football,arizona_state
-130,Benjamin Winans,"Murfreesboro, Tenn.",football,arizona_state
-131,Jordan Hoyt,"Chandler, Ariz.",football,arizona_state
-132,Parker Higgins,"Honolulu, Hawaii",football,arizona_state
-133,Tyson Rising,"Ventura, Calif.",football,arizona_state
-134,Quinn Bailey,"Gilbert, Ariz.",football,arizona_state
-135,Kyle Breed,"Tuscon, Ariz.",football,arizona_state
-136,Joseph Reeves,"Buckeye, Ariz.",football,arizona_state
-137,Jesse Cozens,"Tempe, Ariz.",football,arizona_state
-138,Riley John,"Appleton, Wis.",football,arizona_state
-139,Mason Schell,"Vancouver, Wash.",football,arizona_state
-140,Anthony Nicastro,"Tempe, Ariz.",football,arizona_state
-141,Jonathan Sanchez,"Mesa, Ariz.",football,arizona_state
-142,Michael Tate,"Gilbert, Ariz.",football,arizona_state
-143,Steven Miller,"Gilbert, Ariz.",football,arizona_state
-144,Cade Cote,"Gilbert, Ariz.",football,arizona_state
-145,Cohl Cabral,"Rancho Cucamonga, Calif.",football,arizona_state
-146,Corey Stephens,"Scottsdale, Ariz.",football,arizona_state
-147,Spencer Lovell,"For Collins, Colo.",football,arizona_state
-148,Mason Walter,"Temecula, Calif.",football,arizona_state
-149,Ralph Frias,"Safford, Ariz,",football,arizona_state
-150,Mark Walton,"Yuma, Ariz.",football,arizona_state
-151,Jared Bubak,"Lincoln, Neb.",football,arizona_state
-152,Jeremy Smith,"Missouri City, Texas",football,arizona_state
-153,Geordon  Porter,"Rancho Cucamonga, Calif.",football,arizona_state
-154,Frank Darby,"Jersey City, N.J.",football,arizona_state
-155,Trevor Russell,"Casa Grande, Ariz.",football,arizona_state
-156,Curtis Hodges,"Mesa, Ariz.",football,arizona_state
-157,Tommy Hudson,"San Jose, Calif.",football,arizona_state
-158,Ceejhay French-Love,"Long Beach, Calif.",football,arizona_state
-159,Daniel Sanders-Effiong,"Chicago, Ill.",football,arizona_state
-160,Jermayne Lole,"Long Beach, Calif.",football,arizona_state
-161,Josh Pokraka,"Honolulu, Hawaii",football,arizona_state
-162,Michael  Matus,"Katy, Texas",football,arizona_state
-163,Kyle Remo,"Mahwah, N.J.",football,arizona_state
-164,Michael Gombert,"Scottsdale, Ariz.",football,arizona_state
-165,Jamie Diaz,"East Los Angeles, Calif.",football,arizona_state
-166,Renell Wren,"St. Louis, Mo.",football,arizona_state
-167,Jalen Bates,"Kaplan, La.",football,arizona_state
-168,Shannon Forman,"Baton Rouge, La.",football,arizona_state
-169,D.J.  Davidson,"Mesa, Ariz.",football,arizona_state
-170,Dougladson Subtyl,"Bunnell, Fla.",football,arizona_state
-171,Darien Butler,N/A,football,arizona_state
-172,Christian LaValle,"Mission Viejo, Calif.",football,arizona_state
-173,Sydney Day,"Monroe, Wash.",womens soccer,arizona_state
-174,Megan Delaney,"Las Vegas, Nev.",womens soccer,arizona_state
-175,Christina Edwards,"Bend, Ore.",womens soccer,arizona_state
-176,Kylie Miniefield,"Chandler, Ariz.",womens soccer,arizona_state
-177,Madison Kmetko,"Phoenix, Ariz.",womens soccer,arizona_state
-178,Lara Barbieri,"Monte Mor, Sao Paolo, BRazil",womens soccer,arizona_state
-179,Adriana Orozco,"Buckeye, Ariz.",womens soccer,arizona_state
-180,Keeley Gormley,"Calgary, Alberta, Canada",womens soccer,arizona_state
-181,Jessica Raybe,"Lodi, Calif.",womens soccer,arizona_state
-182,Jazmarie Mader,"Chandler, Ariz.",womens soccer,arizona_state
-183,Jemma Purfield,"Cottingham, England",womens soccer,arizona_state
-184,Devyn Kelsey,"Rancho Cucamonga, Calif.",womens soccer,arizona_state
-185,Olive Jones,"Phoenix, Ariz.",womens soccer,arizona_state
-186,Madison Wolf,"Chandler, Ariz.",womens soccer,arizona_state
-187,Melinda Gutierrez,"Gilbert, Ariz.",womens soccer,arizona_state
-188,Hailey Zerbel,"West Covina, Calif.",womens soccer,arizona_state
-189,Sam  Hobert,"San Clemente, Calif.",womens soccer,arizona_state
-190,Nikki Panas,"Edmonton, Alberta, Canada",womens soccer,arizona_state
-191,Madison Stark,"Claremont, Calif.",womens soccer,arizona_state
-192,Aubree Incardone,"Mesa, Ariz.",womens soccer,arizona_state
-193,Amanda  Jones,"Long Beach, Calif.",womens soccer,arizona_state
-194,Natalie Stephens,"Phoenix, Ariz.",womens soccer,arizona_state
-195,Gabrielle Briseno,"Gilbert, Ariz.",womens soccer,arizona_state
-196,Jadyn Nogues,"Las Vegas, Nev.",womens soccer,arizona_state
-197,Taylor Coon,"Portland, Ore.",womens soccer,arizona_state
-198,Jessica Hale,"Phoenix, Ariz.",womens soccer,arizona_state
-199,Angela Boyle,"Anthem, Ariz.",womens soccer,arizona_state
-200,Ashley March,"Gilbert, Ariz.",womens soccer,arizona_state
-201,Oscar Amaya,"Rio Rico, Ariz.",mens cross country,arizona_state
-202,Brandon Boys,"Gilbert, Ariz.",mens cross country,arizona_state
-203,Nick Dale,"Glendale, Ariz.",mens cross country,arizona_state
-204,Erik Gonzalez,"Riverside, Calif.",mens cross country,arizona_state
-205,Jackson Lewis,"Waukee, Iowa",mens cross country,arizona_state
-206,Bernie Montoya,"Yuma, Ariz.",mens cross country,arizona_state
-207,J.P. Nelson,"Eau Claire, Wis.",mens cross country,arizona_state
-208,Ryan Normand,"Chandler, Ariz.",mens cross country,arizona_state
-209,John Reniewicki,"Scottsdale, Ariz.",mens cross country,arizona_state
-210,Michael Renner,"Brentwood, Tenn.",mens cross country,arizona_state
-211,Kyle Shinn,"Wyomissing, Pa.",mens cross country,arizona_state
-212,Alexander Stevens,"Redmond, Ore.",mens cross country,arizona_state
-213,Chelsey Albertson,"Santa Clarita, Calif.",womens cross country,arizona_state
-214,Melese Crozier,"Fresno, Calif.",womens cross country,arizona_state
-215,Chamique Duboise,"Fort Defiance, Ariz.",womens cross country,arizona_state
-216,Billie Jo Dytrt,"Mesa, Ariz.",womens cross country,arizona_state
-217,Emily Gallegos-Francksen,"Lakewood, Colo.",womens cross country,arizona_state
-218,Lauren Gavulic,"Miami, Florida",womens cross country,arizona_state
-219,Anastasia Hancock,"Tolleson, Ariz.",womens cross country,arizona_state
-220,Daan Haven,"Ganado, Ariz.",womens cross country,arizona_state
-221,Cecile Lejeune,N/A,womens cross country,arizona_state
-222,Courtney Lewis,"Flagstaff, Ariz.",womens cross country,arizona_state
-223,Alethia Marrero,N/A,womens cross country,arizona_state
-224,Alexis Nichols,"Gilbert, Ariz.",womens cross country,arizona_state
-225,Samantha Ortega,"Santa Clarita, Calif.",womens cross country,arizona_state
-226,Anna Pruter,"Palos Verdes Estates, Calif.",womens cross country,arizona_state
-227,Megan Reniewicki,"Scottsdale, Ariz.",womens cross country,arizona_state
-228,Angela Saitta,"Fayetteville, Ark.",womens cross country,arizona_state
-229,Glynis Sim,"Canoe, B.C., Canada",womens cross country,arizona_state
-230,Bianca Tinoco,"Santa Clarita, Calif.",womens cross country,arizona_state
-231,Christine Williford,"Peoria, Ariz.",womens cross country,arizona_state
-232,Chun An Yu,"Taoyuan, Taiwan",mens golf,arizona_state
-233,Mason Andersen,"Chandler, Ariz.",mens golf,arizona_state
-234,Paul Chaplet,"San José, Costa Rica",mens golf,arizona_state
-235,Alex del Rey,"Madrid, Spain",mens golf,arizona_state
-236,Ryan Douglass,"Leesburg, Va.",mens golf,arizona_state
-237,Tobias Eden,"Karlstad, Sweden",mens golf,arizona_state
-238,Koichiro Ishika,"Kakogawa, Hyogo (Japan)",mens golf,arizona_state
-239,Jino Sohn,"Honolulu, Hawaii",mens golf,arizona_state
-240,Anthony Truong,"Ho Chi Minh City, Vietnam",mens golf,arizona_state
-241,Blake Wagoner,"Cornelius, N.C.",mens golf,arizona_state
-242,Madison Kerley,"Phoenix, Ariz.",womens golf,arizona_state
-243,Roberta Liti,"Siena, Italy",womens golf,arizona_state
-244,Olivia Mehaffey,"Belfast, Ireland",womens golf,arizona_state
-245,Raquel Olmos,"Torre-Pacheco, Murcia, Spain",womens golf,arizona_state
-246,Sophia Zeeb,"Stuttgart, Germany",womens golf,arizona_state
-247,Aaron Beauchamp,"Phoenix, Ariz.",mens swimming,arizona_state
-248,Kevin Benavidez,"Placitas, New Mexico",mens swimming,arizona_state
-249,Dylan Boyd,"Raleigh, N.C.",mens swimming,arizona_state
-250,Evan Carlson,"Portland, Ore.",mens swimming,arizona_state
-251,Daniel Comforti,"Brentwood, Calif.",mens swimming,arizona_state
-252,Cameron Craig,"Monroe, MI",mens swimming,arizona_state
-253,Jack Dalmolin,"Cumming, Ga.",mens swimming,arizona_state
-254,Mihalis Deliyiannis,"Roswell, Ga.",mens swimming,arizona_state
-255,Zach Dienstbier,"Round Rock, Texas.",mens swimming,arizona_state
-256,Reid Elliott,"Austin, Texas",mens swimming,arizona_state
-257,David Hoffer,"Littleton, Colo.",mens swimming,arizona_state
-258,Grant House,"Maineville, Ohio",mens swimming,arizona_state
-259,Sidney Kao,"Fullerton, Calif.",mens swimming,arizona_state
-260,Christian Lorenz,"Avon, Ind.",mens swimming,arizona_state
-261,Heikki Makikallio,"Oulu, Finland",mens swimming,arizona_state
-262,Warren McElroy,"Tempe, Ariz.",mens swimming,arizona_state
-263,Cristian Musterait,"Souderton, Pa.",mens swimming,arizona_state
-264,Ben Olszewski,"Scottsdale, Ariz.",mens swimming,arizona_state
-265,Patrick Park,"Plainsboro, N.J.",mens swimming,arizona_state
-266,Andrew Porter,"Santa Cruz, Calif.",mens swimming,arizona_state
-267,Zach Poti,"Orlando, Fla.",mens swimming,arizona_state
-268,Youssef Selim,"Cairo, Egypt",mens swimming,arizona_state
-269,Josh Vedder,"Phoenix, Ariz.",mens swimming,arizona_state
-270,Mara Aiacoboae,"Bacau, Romania",womens swimming,arizona_state
-271,Sarah Bathe,"Saint Charles, Mo.",womens swimming,arizona_state
-272,Camryn Curry,"Midlothian, Va.",womens swimming,arizona_state
-273,Kendall  Dawson,"Winter Garden, Fla.",womens swimming,arizona_state
-274,Rebecca Deacon,"Sherwood Park, AB, Canada",womens swimming,arizona_state
-275,Nora Deleske,"Huntington Beach, Calif.",womens swimming,arizona_state
-276,Sam Fazio,"Scottsdale, Ariz.",womens swimming,arizona_state
-277,Claire Fisch,"Riverside, Calif.",womens swimming,arizona_state
-278,Kaylee Gassen,"Parker, Colo.",womens swimming,arizona_state
-279,Emily  Glinecke,"Pottstown, Pa.",womens swimming,arizona_state
-280,Bentley Hulshof,"Leawood, Kan.",womens swimming,arizona_state
-281,Chloe Isleta,"San Jose, Calif.",womens swimming,arizona_state
-282,Frida Kaellgren,"Malmo, Sweden",womens swimming,arizona_state
-283,Silja Kansakoski,"Oulu, Finland",womens swimming,arizona_state
-284,Krista Kolkebeck,"Anthem, AZ",womens swimming,arizona_state
-285,Erica Laning,"Knoxville, Tenn.",womens swimming,arizona_state
-286,Ashley McCool,"Cochrane, Alberta, Canada",womens swimming,arizona_state
-287,Ivana Ninkovic,"Trebinje, Bosnia & Herzegovina",womens swimming,arizona_state
-288,Emma Nordin,"Carmel, Ind.",womens swimming,arizona_state
-289,Kaya Philapil,"San Ramon, CA",womens swimming,arizona_state
-290,Gillian Rieth,"Scottsdale, Ariz.",womens swimming,arizona_state
-291,Marlies Ross,"Pretoria, South Africa",womens swimming,arizona_state
-292,Cameron Smith,"Seattle, Wash.",womens swimming,arizona_state
-293,Fanny Teijonsalo,"Espoo, Finland",womens swimming,arizona_state
-294,Katherine Wagner,"Chatsworth, Calif.",womens swimming,arizona_state
-295,Caitlyn Wilson,"Tigard, Ore.",womens swimming,arizona_state
-296,Andrea Bolla,"Aldo Mora, Nola",mens tennis,arizona_state
-297,Pierre Louis Dodens,"Geneva, Switzerland",mens tennis,arizona_state
-298,Michael Geerts,"Antwerp, Belgium",mens tennis,arizona_state
-299,Benjamin Hannestad,"Vedbaek, Denmark",mens tennis,arizona_state
-300,William Kirkman,"Cabarete, Dominican Republic",mens tennis,arizona_state
-301,Makey Rakotomalala,"Creteil, France",mens tennis,arizona_state
-302,Tim Ruehl,"Waldshut-Tiengen, Germany",mens tennis,arizona_state
-303,Carsyn  Smith,"Scottsdale, Ariz.",mens tennis,arizona_state
-304,Thomas Wright,"Beckenham, Great Britain",mens tennis,arizona_state
-305,Kelley Anderson,"Roanoke, Texas",womens tennis,arizona_state
-306,Nicole Fossa Huergo,"Bologna, Italy",womens tennis,arizona_state
-307,Sammi Hampton,"Vancouver, Wash.",womens tennis,arizona_state
-308,Ilze Hattingh,"Pretoria, South Africa",womens tennis,arizona_state
-309,Lauryn John-Baptiste,"London, England",womens tennis,arizona_state
-310,Sasa Klanecek,"Maribor, Slovenia",womens tennis,arizona_state
-311,Tereza Kolarova,"Frýdek-Místek, Czech Republic",womens tennis,arizona_state
-312,Savannah Slaysman,"Phoenix, Ariz.",womens tennis,arizona_state
-313,Oscar Amaya,"Rio Rico, Ariz.",mens track,arizona_state
-314,Ryan Bright,N/A,mens track,arizona_state
-315,Joseph Bryant,"Liliha, HI",mens track,arizona_state
-316,Reed Bussey,"Queen Creek, AZ",mens track,arizona_state
-317,Holland Cabara,N/A,mens track,arizona_state
-318,Michael Chadwick,N/A,mens track,arizona_state
-319,Matthew Eckles,"Tempe, Ariz.",mens track,arizona_state
-320,Gregory Fernandez,N/A,mens track,arizona_state
-321,Mason Ford,"Chandler, Ariz.",mens track,arizona_state
-322,Erik Gonzalez,"Riverside, Calif.",mens track,arizona_state
-323,Ronny Hall,"Carson, Calif.",mens track,arizona_state
-324,Nathan Hiett,"Chandler, AZ",mens track,arizona_state
-325,Ivan Hinson,"Goodyear, Ariz.",mens track,arizona_state
-326,Marcus Howard,N/A,mens track,arizona_state
-327,Elijah Hughes,"Riverside, CA",mens track,arizona_state
-328,Hudson Keffer,"Central Kitsap, Wash.",mens track,arizona_state
-329,Jackson Lewis,"Waukee, Iowa",mens track,arizona_state
-330,Paul Lucas,"Phoenix, Ariz.",mens track,arizona_state
-331,C.J. Maree,"Marlboro, N.J.",mens track,arizona_state
-332,Adam Meyer,"Mesa, Ariz.",mens track,arizona_state
-333,J.P. Nelson,"Eau Claire, Wis.",mens track,arizona_state
-334,Ryan Normand,"Chandler, Ariz.",mens track,arizona_state
-335,Khalil Parris,N/A,mens track,arizona_state
-336,John Reniewicki,"Scottsdale, Ariz.",mens track,arizona_state
-337,Michael Renner,"Brentwood, Tenn.",mens track,arizona_state
-338,Cole Riddle,"Surprise, Ariz.",mens track,arizona_state
-339,Ian Schulz,"Carson City, Nev.",mens track,arizona_state
-340,Kyle Shinn,"Wyomissing, Pa.",mens track,arizona_state
-341,Grant Sisserson,"Scottsdale, Ariz.",mens track,arizona_state
-342,Alexander Stevens,"Redmond, Ore.",mens track,arizona_state
-343,Richard Thiel,"Merrillville, Ind.",mens track,arizona_state
-344,Kevin Wilkinson,N/A,mens track,arizona_state
-345,Kaylee Antill,"Zanesville, Ohio",womens track,arizona_state
-346,Jessica Barreira,"Lisbon, Portugal",womens track,arizona_state
-347,Brooke Coltelli,"Fredon, New Jersey",womens track,arizona_state
-348,Chamique Duboise,"Fort Defiance, Ariz.",womens track,arizona_state
-349,Billie Jo Dytrt,"Mesa, Ariz.",womens track,arizona_state
-350,Katie Eidem,"Rochester, Minn.",womens track,arizona_state
-351,Magdalyn Ewen,"St. Francis, Minn.",womens track,arizona_state
-352,Sha'Maya Flanagan,"Lancaster, Calif.",womens track,arizona_state
-353,Hannah Flodin,"Pinetop, Ariz.",womens track,arizona_state
-354,Haleigh Fritts,"Mesa, Ariz.",womens track,arizona_state
-355,Emily Gallegos-Francksen,"Lakewood, Colo.",womens track,arizona_state
-356,Seri Geisler,"Grand Rapids, Mich.",womens track,arizona_state
-357,Anastasia Hancock,"Tolleson, Ariz.",womens track,arizona_state
-358,Daan Haven,"Ganado, Ariz.",womens track,arizona_state
-359,Tommi Hintnaus,"Honolulu, Hawaii",womens track,arizona_state
-360,Sierra Irvin,"Hingham, Mass.",womens track,arizona_state
-361,Melanie Johnson,"Santa Maria, Calif.",womens track,arizona_state
-362,Courtney Lewis,"Flagstaff, Ariz.",womens track,arizona_state
-363,Beatrice Llano,"Bergen, Norway",womens track,arizona_state
-364,Alethia Marrero,N/A,womens track,arizona_state
-365,Kalei Matthews,N/A,womens track,arizona_state
-366,Cerah Moren,"Turlock, Calif.",womens track,arizona_state
-367,Shaunie Morrison,"Calgary, AB, Canada",womens track,arizona_state
-368,Alexis Nichols,"Gilbert, Ariz.",womens track,arizona_state
-369,Samantha Noennig,"Hartford, Wisc.",womens track,arizona_state
-370,Courtnee Oglesby,"Buckeye, Ariz.",womens track,arizona_state
-371,Samantha Ortega,"Santa Clarita, Calif.",womens track,arizona_state
-372,Maya Perkins,"Long Beach, Calif.",womens track,arizona_state
-373,Anna Pruter,"Palos Verdes Estates, Calif.",womens track,arizona_state
-374,Megan Reniewicki,"Scottsdale, Ariz.",womens track,arizona_state
-375,Angela Saitta,"Fayetteville, Ark.",womens track,arizona_state
-376,Bianca Tinoco,"Santa Clarita, Calif.",womens track,arizona_state
-377,Kristiana Warth,"Mesa, Ariz.",womens track,arizona_state
-378,Hannah Weller,"Yuma, Ariz.",womens track,arizona_state
-379,Alexandra Williams,"Ham Lake, Minn.",womens track,arizona_state
-380,Christine  Williford,"Peoria, Ariz.",womens track,arizona_state
-381,Darreyl Woodson,"Gilbert, Ariz.",womens track,arizona_state
-382,Anthony Anderson,"Irvine, Calif.",wrestling,arizona_state
-383,Cade Belshay,"Clovis, Calif.",wrestling,arizona_state
-384,Keavon Buckley,"Bozeman, Mont.",wrestling,arizona_state
-385,Austin Clayton,"Middletown, Del.",wrestling,arizona_state
-386,Brandon Courtney,"Goodyear, Ariz.",wrestling,arizona_state
-387,Cory Crooks,"Anthem, Ariz.",wrestling,arizona_state
-388,Brady Daniel,"Olney, Md.",wrestling,arizona_state
-389,Navonte Demison,"Bakersfield, Calif.",wrestling,arizona_state
-390,Michael Fujimori,"Olympia, Wash.",wrestling,arizona_state
-391,Andy Gandara,"Somerton, Ariz.",wrestling,arizona_state
-392,Tanner Hall,"Meridian, Idaho",wrestling,arizona_state
-393,Austyn Harris,"Broomfield, Colo.",wrestling,arizona_state
-394,Austin Hosegood,"Winter Haven, Fla.",wrestling,arizona_state
-395,Chance Ikei,"Scottsdale, Ariz.",wrestling,arizona_state
-396,Josh Kramer,"Buckeye, Ariz.",wrestling,arizona_state
-397,Josh Maruca,"Murrysville, Pa.",wrestling,arizona_state
-398,Ryan Millhof,"Suwanee, Ga.",wrestling,arizona_state
-399,Ali Naser,"Woodland Hills, Calif.",wrestling,arizona_state
-400,Kordell Norfleet,"Chicago, Ill.",wrestling,arizona_state
-401,Michael Oramas,"Klein, Texas",wrestling,arizona_state
-402,Christian Pagdilao,"Redlands, Calif.",wrestling,arizona_state
-403,Jacen Petersen,"Charlo, Mont.",wrestling,arizona_state
-404,William Pickren,"Panama City Beach, Fla.",wrestling,arizona_state
-405,Oliver Pierce,"Allen, Texas",wrestling,arizona_state
-406,Chad Porter,"Phoenix, Ariz.",wrestling,arizona_state
-407,Ted Rico,"Queen Creek, Ariz.",wrestling,arizona_state
-408,Josh Shields,"Murrysville, Pa.",wrestling,arizona_state
-409,Conner Small,"Issaquah, Wash.",wrestling,arizona_state
-410,Jason Tsirtsis,"Crown Point, Ind.",wrestling,arizona_state
-411,Anthony Valencia,"Bellflower, Calif.",wrestling,arizona_state
-412,Zahid Valencia,"Bellflower, Calif.",wrestling,arizona_state
-413,Nikko Villarreal,"Gilroy, Calif.",wrestling,arizona_state
-414,Kolsen Welham,"Broomfield, Colo.",wrestling,arizona_state
-415,Nick Williams,"Lisbon, Iowa",wrestling,arizona_state
-416,Skylar McCarty,"Centennial, AZ.",softball,arizona_state
-417,Brynley Steele,"Yorba Linda, Calif.",softball,arizona_state
-418,Ashley  Moss,"Fullerton, Calif.",softball,arizona_state
-419,Randi Farricker,"Glendora, Calif.",softball,arizona_state
-420,Bella Loomis,"Chandler, Ariz.",softball,arizona_state
-421,Kwyn  Cooper,"Castro Valley, Calif.",softball,arizona_state
-422,Missy Eisen,"Angelo Rodriguez, Calif.",softball,arizona_state
-423,Maddi Hackbarth,"Oakdale, Calif.",softball,arizona_state
-424,Jade Gortarez,"Riverside, Calif.",softball,arizona_state
-425,Marisa Stankiewicz,"Gilbert, Ariz.",softball,arizona_state
-426,Kindra Hackbarth,"Oakdale, Calif.",softball,arizona_state
-427,Alyssa Loza,"Torrance, Calif.",softball,arizona_state
-428,Brianna (Breezy) Wise,"Camarillo, Calif.",softball,arizona_state
-429,Taylor Becerra,"Whittier, Calif.",softball,arizona_state
-430,Rylee Maston,"in Lancaster, Calif.",softball,arizona_state
-431,Allison (Alli) Tatnall,"Windsor Hills, Calif.",softball,arizona_state
-432,DeNae Chatman,"Goodyear, Ariz.",softball,arizona_state
-433,Danielle Gibson,"Murrietta, Calif.",softball,arizona_state
-434,"Giselle ""G"" Juarez","Glendale, Ariz.",softball,arizona_state
-435,Morgan Howe,"Poway, Calif.",softball,arizona_state
-436,Nichole Chilson,"Menifee, Calif.",softball,arizona_state
-437,Dale Ryndak,"Downers Grove, Ill.",softball,arizona_state
-438,Breanna Macha,"Mesa, Ariz.",softball,arizona_state
-439,Courtney Leffel,"Flagstaff, Ariz.",womens volleyball,arizona_state
-440,Blair Robalin,"El Paso, Texas",womens volleyball,arizona_state
-441,Peyton  Grahovac,"Orange, Calif.",womens volleyball,arizona_state
-442,Carmen Unzue,"Madrid, Spain",womens volleyball,arizona_state
-443,Nicole Peterson,"Portland, Ore.",womens volleyball,arizona_state
-444,Isabel  Miller,"Phoenix, Ariz.",womens volleyball,arizona_state
-445,Shelbie  Dobmeier,"Lakewood, Calif.",womens volleyball,arizona_state
-446,Danica  Krstonošic,"Novi Sad, Serbia",womens volleyball,arizona_state
-447,Halle Harker,"Bakersfield, Calif.",womens volleyball,arizona_state
-448,Halle Johnson,"Tempe, Ariz.",womens volleyball,arizona_state
-449,Megan Beedie,"Cambridge, ON",womens volleyball,arizona_state
-450,Oluoma Okaro,"Lakewood, Calif.",womens volleyball,arizona_state
-451,Ivana Jeremic,"Gornji Milanovic, Serbia",womens volleyball,arizona_state
-452,Callie  Jones,"Phoenix, Ariz.",womens volleyball,arizona_state
-453,Griere Hughes,"Fishers, IN",womens volleyball,arizona_state
-454,Alexa LIster,"Chino Hills, Calif.",womens volleyball,arizona_state
-455,P.J. Allin,"Victoria, British Columbia",womens water polo,arizona_state
-456,Meghan Beaudet,"Albuquerque, NM.",womens water polo,arizona_state
-457,Alkistis Benekou,"Athens, Greece",womens water polo,arizona_state
-458,Sophia Burgess,"Sacramento, Calif.",womens water polo,arizona_state
-459,Kayla Casas,"Downey, Calif.",womens water polo,arizona_state
-460,Kate  Cassidy,"Boca Raton, Fla.",womens water polo,arizona_state
-461,Cassidy  Degraff,"Frankfort, Illinois",womens water polo,arizona_state
-462,Belen Ehinger,"Longwood, Fla.",womens water polo,arizona_state
-463,Rosie Huck,"Manchester, England",womens water polo,arizona_state
-464,Chelsea  Karimazondo,"Harare, Zimbabwe",womens water polo,arizona_state
-465,Maud Koopman,"Assendelft, Netherlands",womens water polo,arizona_state
-466,Lena Mihailovic,"Belgrade, Serbia",womens water polo,arizona_state
-467,Julia Reyes,"Cerritos, Calif.",womens water polo,arizona_state
-468,Bente Rogge,"Zaanstad, Netherlands",womens water polo,arizona_state
-469,Mia Rycraw,"Walnut, Calif.",womens water polo,arizona_state
-470,Catherine Simko,"Mission Viejo, Calif.",womens water polo,arizona_state
-471,Amira Van Buren,"Murrieta, Calif.",womens water polo,arizona_state
-472,Layla Waters,"San Francisco, Calif.",womens water polo,arizona_state
-473,Corinne Belkoff,"Tucson, Ariz.",womens gymnastics,arizona_state
-474,Averie Brook,"Houston, Texas",womens gymnastics,arizona_state
-475,Justine Callis,"Chesapeake, Va.",womens gymnastics,arizona_state
-476,Nichelle Christopherson,"Kansas City, Mo.",womens gymnastics,arizona_state
-477,Jessica Ginn,"Chandler, Ariz.",womens gymnastics,arizona_state
-478,Morgan Hart,"Las Vegas, Nev.",womens gymnastics,arizona_state
-479,Mekayla Jones,"Birmingham, Ala.",womens gymnastics,arizona_state
-480,Anne Kuhm,"Brumath, France",womens gymnastics,arizona_state
-481,Katelyn Lentz,"Brisbane, Calif.",womens gymnastics,arizona_state
-482,Cairo Leonard-Baker,"Oakland, Calif.",womens gymnastics,arizona_state
-483,Graycee Rushton,"Gilbert, Ariz.",womens gymnastics,arizona_state
-484,Ashley Szafranski,"Orefield, PA.",womens gymnastics,arizona_state
-485,Kaitlyn  Szafranski,"Orefield, Pa.",womens gymnastics,arizona_state
-486,Heather Udowitch,"Allen, Texas",womens gymnastics,arizona_state
-487,Maya Williams,"Reistertown, Md.",womens gymnastics,arizona_state
-488,Morgan Wilson,"Lee's Summit, Mo.",womens gymnastics,arizona_state
-489,Gvido Jansons,"Grobina, Latvia",mens hockey,arizona_state
-490,Jacob Wilson,"Ballwin, Mizz.",mens hockey,arizona_state
-491,Johnny Walker,"Phoenix, Ariz.",mens hockey,arizona_state
-492,Joe Lappin,"Geneva, Ill.",mens hockey,arizona_state
-493,Tyler Busch,"Lloydminster, Alberta, CA",mens hockey,arizona_state
-494,Jack Rowe,"Cary, Ill.",mens hockey,arizona_state
-495,Dylan Hollman,"Red Deer, Alta., Canada",mens hockey,arizona_state
-496,Riley Simpson,"Edmonton, AB, Canada",mens hockey,arizona_state
-497,Gage Mackie,"Anchorage, Alaska",mens hockey,arizona_state
-498,Gage Hough,"Omaha, Neb.",mens hockey,arizona_state
-499,Austin Lemieux,"Sewickley, Penn.",mens hockey,arizona_state
-500,Filips Buncis,"Jelgava, Latvia",mens hockey,arizona_state
-501,Anthony Croston,"Phoenix, Ariz.",mens hockey,arizona_state
-502,David Norris,"Calgary, Alta., Canada",mens hockey,arizona_state
-503,Jake Clifford,"Brecksville, Ohio",mens hockey,arizona_state
-504,Liam McGing,"Chicago, Ill.",mens hockey,arizona_state
-505,Max Balinson,"Ancaster, Ontario, CA",mens hockey,arizona_state
-506,Brett Gruber,"Appleton, Wisc.",mens hockey,arizona_state
-507,Steenn Pasichnuk,"Bonnyville, AB, Canada",mens hockey,arizona_state
-508,Jakob Stridsberg,"Jonkoping, Sweden",mens hockey,arizona_state
-509,Ryland Pashovitz,"Saskatoon, Sask., Canada",mens hockey,arizona_state
-510,Louie Rowe,"East Lansing, Mich.",mens hockey,arizona_state
-511,Mike DePhillips,"Summit, NJ",mens hockey,arizona_state
-512,Joey Daccord,"North Andover, Mass.",mens hockey,arizona_state
-513,Dominic Garcia,"Las Vegas, Nev.",mens hockey,arizona_state
-514,Brinson Pasichnuk,"Bonnyville, AB, Canada",mens hockey,arizona_state
-515,Joey Raats,"Las Vegas, Nev.",mens hockey,arizona_state
-516,Berkeley Bonneau,"Coppell, TX",womens lacrosse,arizona_state
-517,Erin DiBernardo,"Laguna Beach, CA",womens lacrosse,arizona_state
-518,Katie Hendrix,"Newport Beach, CA",womens lacrosse,arizona_state
-519,Avery  Hamill,"Paris, ON, Canada",womens lacrosse,arizona_state
-520,Haley Gorke,"Suwanee, GA",womens lacrosse,arizona_state
-521,Taylor Carson,"Wantagh, NY",womens lacrosse,arizona_state
-522,Emily Glagolev,"Webster, NY",womens lacrosse,arizona_state
-523,Kennedy Jamieson,"Colorado Springs, CO",womens lacrosse,arizona_state
-524,Riley Purcell,"Danville, CA",womens lacrosse,arizona_state
-525,Caryn Takeuchi,"Suffern, NY",womens lacrosse,arizona_state
-526,Maura Cissel,"Annapolis, MD",womens lacrosse,arizona_state
-527,Sydney Bosmans,"Chesapeake Beach, MD",womens lacrosse,arizona_state
-528,Maria Villanti,"Hoeoye Falls, NY",womens lacrosse,arizona_state
-529,Julia Burns,"Miller Place, NY",womens lacrosse,arizona_state
-530,Kerri  Clayton,"Baltimore, MD",womens lacrosse,arizona_state
-531,Lia Willis,"Waldorf, MD",womens lacrosse,arizona_state
-532,Maddy Hunter,"Sammamish, WA",womens lacrosse,arizona_state
-533,Kristina Coppinger,"Kansas City, MO",womens lacrosse,arizona_state
-534,Kate Dougherty,"Lawrenceville, GA",womens lacrosse,arizona_state
-535,Campbell Poe,"Los Alamitos, CA",womens lacrosse,arizona_state
-536,Suzannah  Liselli,"Morrison, CO",womens lacrosse,arizona_state
-537,Hanna Schuler,"Charlottesville, VA",womens lacrosse,arizona_state
-538,Kasey Geddis,"Weston, FL",womens lacrosse,arizona_state
-539,Ashley Cusack,"Kent, WA",womens lacrosse,arizona_state
-540,Kylie Kroeger,"San Diego, CA",womens lacrosse,arizona_state
-541,Alexis Linhardt,"Centennial, CO",womens lacrosse,arizona_state
-542,Daniela Wright,"Philadelphia, PA",womens lacrosse,arizona_state
-543,Graci Fulkerson,"Apex, NC",womens lacrosse,arizona_state
-544,Carley Adams,"Fort Lauderdale, FL",womens lacrosse,arizona_state
-545,Kienan Linhardt,"Centennial, CO",womens lacrosse,arizona_state
-546,Emma Carlson,"Lusby, MD",womens lacrosse,arizona_state
-547,Madison Woodall,"Davie, FL",womens lacrosse,arizona_state
-548,Victoria Krammer,"Bloomington, MN",womens lacrosse,arizona_state
-549,Ashley McNeill,"Vancouver, British Columbia",womens lacrosse,arizona_state
-550,Mia Harp,"Coppell, TX",womens lacrosse,arizona_state
-551,Rachel Gregory,"Babylon, NY",womens lacrosse,arizona_state
-552,Logan Millican,"Fort Lauderdale, FL",womens lacrosse,arizona_state
-553,Sophia Thomas,"Mechanicsburg, PA",womens lacrosse,arizona_state
-554,Kate Baldwin,"Long Beach, Calif.",womens beach volleyball,arizona_state
-555,Sierra Ellett,"Scottsdale, Ariz.",womens beach volleyball,arizona_state
-556,Kwyn Johnson,"Kalispell, Mont.",womens beach volleyball,arizona_state
-557,Ellyson  Lundberg,"Larkspur, Calif.",womens beach volleyball,arizona_state
-558,Katie Cross,"Flagstaff, Ariz.",womens beach volleyball,arizona_state
-559,Bailey Anderson,"Las Vegas, Nev.",womens beach volleyball,arizona_state
-560,Katelyn  Carballo,"Laguna Beach, Calif.",womens beach volleyball,arizona_state
-561,Mia Rivera,"Gilbert, Arizona",womens beach volleyball,arizona_state
-562,Sydney Palmer,"Yorba Linda, Calif.",womens beach volleyball,arizona_state
-563,Frances Giedraitis,"Tucson, Ariz.",womens beach volleyball,arizona_state
-564,Kara Woodard,"Phoenix, Ariz.",womens beach volleyball,arizona_state
-565,Cierra Flood,"Phoenix, Ariz.",womens beach volleyball,arizona_state
-566,Jourdan Parnell,"San Diego, Calif.",womens beach volleyball,arizona_state
-567,Natalie Braun,"Phoenix, Ariz.",womens beach volleyball,arizona_state
-568,Halle Harker,"Bakersfield, Calif.",womens beach volleyball,arizona_state
-569,Cassidy  Schilling,"Moorpark, Calif.",womens beach volleyball,arizona_state
-570,Samantha Plaster,"Flower Mound, Texas",womens beach volleyball,arizona_state
-571,Charlotte Ahrens,"Nuremberg, Germany",womens triathlon,arizona_state
-572,Delaney Bucker,"Indianapolis, Ind.",womens triathlon,arizona_state
-573,Catherine Giuseffi,"Basking Ridge, N.J.",womens triathlon,arizona_state
-574,Katie Gorczyca,"Las Vegas, Nev.",womens triathlon,arizona_state
-575,Hannah Henry,"Victoria, B.C., Canada",womens triathlon,arizona_state
-576,Darby Middlebrook,"Boone, N.C.",womens triathlon,arizona_state
-577,Rebecca Naughton,"Des Moines, Iowa",womens triathlon,arizona_state
-578,Grace Obando,"Reston, Va.",womens triathlon,arizona_state
-579,Sarah Quintero,"Round Rock, Texas",womens triathlon,arizona_state
-580,Lillie Robinson,"Madison, Ala.",womens triathlon,arizona_state
-581,Kyla Roy,"Winnipeg, Manitoba, Canada",womens triathlon,arizona_state
-582,Kendal Williams,"Anchorage, Alaska",womens triathlon,arizona_state
-583,Kenzi Wilson,"Carmel, Ind.",womens triathlon,arizona_state
+17,Kiara Russell,"Minneapolis, Minn.",womens basketball,arizona_state
+18,Robbi Ryan,"Sheridan, Wyo.",womens basketball,arizona_state
+19,Sophia Elenga,"Nogent Sur Oise, France",womens basketball,arizona_state
+20,Courtney Ekmark,"Arcadia, Ariz.",womens basketball,arizona_state
+21,Bre’yanna Sanders,"Fresno, Calif.",womens basketball,arizona_state
+22,Charnea Johnson-Chapman,"Moreno Valley, Calif.",womens basketball,arizona_state
+23,Kianna Ibis,"Omaha, Neb.",womens basketball,arizona_state
+24,Eva Rubin,"Flossmoor, Ill.",womens basketball,arizona_state
+25,Jamie Ruden,"Rochester, Minn.",womens basketball,arizona_state
+26,Chaz Montoya,"Glendale, Ariz.",baseball,arizona_state
+27,Alika Williams,"San Diego, Calif.",baseball,arizona_state
+28,Drew Swift,"Chandler, Ariz.",baseball,arizona_state
+29,Alec Marsh,"Milwaukee, Wis.",baseball,arizona_state
+30,Sam Ferri,"Norridge, Ill.",baseball,arizona_state
+31,Jeremy McCuin,"Gilbert, Ariz.",baseball,arizona_state
+32,Connor Higgins,"Orefield, Pa.",baseball,arizona_state
+33,Gage Canning,"Ramona, Calif.",baseball,arizona_state
+34,Gage Workman,"Queen Creek, Ariz.",baseball,arizona_state
+35,Eli Lingos,"Temecula, Calif.",baseball,arizona_state
+36,Zach Hogueisson,"El Cajon, Calif.",baseball,arizona_state
+37,Ryan Hingst,"El Paso, Texas",baseball,arizona_state
+38,Trevor Hauver,"Chandler, Ariz.",baseball,arizona_state
+39,Boyd Vander Kooi,"Mesa, Ariz.",baseball,arizona_state
+40,Spencer Torkelson,"Petaluma, Calif.",baseball,arizona_state
+41,Carter Aldrete,"Monterey, Calif.",baseball,arizona_state
+42,Fitz Stadler,"Glenview, Ill.",baseball,arizona_state
+43,Jake Godfrey,"New Lenox, Ill.",baseball,arizona_state
+44,Hunter Bishop,"Palo Alto, Calif.",baseball,arizona_state
+45,Zane Strand,"Chandler, Ariz.",baseball,arizona_state
+46,Sam Romero,"Phoenix, Ariz.",baseball,arizona_state
+47,Lyle Lin,"Taipei, Taiwan",baseball,arizona_state
+48,Grant Schneider,"Austin, Texas",baseball,arizona_state
+49,Brady Corrigan,"Plainfield, Ill.",baseball,arizona_state
+50,Colby Davis,"Scottsdale, Ariz.",baseball,arizona_state
+51,Myles Denson,"Las Vegas, Nev.",baseball,arizona_state
+52,Hunter Jump,"Aliso Viejo, Calif.",baseball,arizona_state
+53,Luke Leisenring,"Golden, Colo.",baseball,arizona_state
+54,Dellan Raish,"Cave Creek, Ariz.",baseball,arizona_state
+55,Spencer Van Scoyoc,"Cedar Rapids, Iowa",baseball,arizona_state
+56,Taylor Lane,"Chesapeake, Va.",baseball,arizona_state
+57,N'Keal Harry,"Chandler, Ariz.",football,arizona_state
+58,Brandon Ruiz,"Gilbert, Ariz.",football,arizona_state
+59,Brandon Aiyuk,"Rocklin, Calif.",football,arizona_state
+60,Darius  Slade,"Montclair, N.J.",football,arizona_state
+61,Eno Benjamin,"Wylie, Texas",football,arizona_state
+62,Koron Crump,"St. Louis, Mo.",football,arizona_state
+63,Manny Wilkins,"Novato, Calif.",football,arizona_state
+64,Kobe Williams,"Long Beach, Calif.",football,arizona_state
+65,Evan Fields,"Oklahoma City, Okla.",football,arizona_state
+66,Dominique Harrison,"Houston, Texas",football,arizona_state
+67,Merlin  Robertson,"Gardena, Calif.",football,arizona_state
+68,Jay Jay Wilson,"Valencia, Calif.",football,arizona_state
+69,K.J.  Jarrell,"Scottsdale, Ariz.",football,arizona_state
+70,Kyle Williams,"Murrieta, Calif.",football,arizona_state
+71,Cody French,"Roswell, N.M.",football,arizona_state
+72,John Humphrey,"League City, Texas",football,arizona_state
+73,Darien Cornay,"Los Alamitos, Calif.",football,arizona_state
+74,Ryan Jenkins,"Marietta, Ga.",football,arizona_state
+75,Ryan Kelley,"Chandler, Ariz.",football,arizona_state
+76,Cam  Phillips,"Houston, Texas",football,arizona_state
+77,Dillon Sterling-Cole,"Houston, Texas",football,arizona_state
+78,Kevin Brown,"Mission Viejo, Calif.",football,arizona_state
+79,Aashari Crosswell,"Long Beach, Calif.",football,arizona_state
+80,Ryan Newsome,"Aledo, Texas",football,arizona_state
+81,Langston Frederick,"League City, Texas",football,arizona_state
+82,Matthew Bazarevitsch,"Pasadena, Calif.",football,arizona_state
+83,Terrell Chatman,"Baton Rouge, La.",football,arizona_state
+84,Khaylan Thomas,"Rancho Cucamonga, Calif.",football,arizona_state
+85,Terin Adams,"Kirkland, Wash.",football,arizona_state
+86,Mark Cosgrove,"Mullica Hill, N.J.",football,arizona_state
+87,Nick Ralston,"Argyle, Texas",football,arizona_state
+88,Tyler Whiley,"Scottsdale, Ariz.",football,arizona_state
+89,Chase Lucas,"Chandler, Ariz.",football,arizona_state
+90,Preston Liger,"Miami, Fla.",football,arizona_state
+91,Trelon Smith,"Houston, Texas",football,arizona_state
+92,Ty Thomas,"Lubbock, Texas",football,arizona_state
+93,Demonte King,"Bellflower, Calif.",football,arizona_state
+94,A.J.  Carter,"Many, La.",football,arizona_state
+95,Brandon LaMarche,"Santa Ana, Calif.",football,arizona_state
+96,Dasmond Tautalatasi,"Concord, Calif.",football,arizona_state
+97,Isaiah Floyd,"Pleasanton, Calif.",football,arizona_state
+98,Kyle Soelle,"Scottsdale, Ariz.",football,arizona_state
+99,Brock Sturges,"Allen, Texas",football,arizona_state
+100,Michael Sleep-Dalton,"Geelong, Victoria, Australia",football,arizona_state
+101,Joey Bryant,"Liliha, Hawaii",football,arizona_state
+102,Malik Lawal,"Temecula, Calif.",football,arizona_state
+103,Tyler Johnson,"Gilbert, Ariz.",football,arizona_state
+104,Jalen Harvey,"El Cerrito, Calif.",football,arizona_state
+105,John O'Brien,N/A,football,arizona_state
+106,Tyler Cosgrove,"Mullica Hill, N.J.",football,arizona_state
+107,George Lea,"New Orleans, La.",football,arizona_state
+108,Christian Zendejas,"Chandler, Ariz.",football,arizona_state
+109,Demetrious Flowers,"Bellflower, Calif.",football,arizona_state
+110,Caleb McShanag,"Phoenix, Ariz.",football,arizona_state
+111,Ely Doyle,"Mission Hills, Calif.",football,arizona_state
+112,Jalen Russell,"Murrietta, Calif.",football,arizona_state
+113,Jarrett Bell,"Norco, Calif.",football,arizona_state
+114,Ochuko Duke,"Allen, Texas",football,arizona_state
+115,Kyle Jones,"Burlington, Wisc.",football,arizona_state
+116,Zach Robertson,"Bellflower, Calif.",football,arizona_state
+117,Reggie  Hughes,"Calabasas, Calif.",football,arizona_state
+118,Stanley Lambert,"San Antonio, Texas",football,arizona_state
+119,Casey Tucker,"Gilbert, Ariz.",football,arizona_state
+120,Alex Losoya,"Santa Ana, Calif.",football,arizona_state
+121,Benjamin Winans,"Murfreesboro, Tenn.",football,arizona_state
+122,Jordan Hoyt,"Chandler, Ariz.",football,arizona_state
+123,Parker Higgins,"Honolulu, Hawaii",football,arizona_state
+124,Tyson Rising,"Ventura, Calif.",football,arizona_state
+125,Quinn Bailey,"Gilbert, Ariz.",football,arizona_state
+126,Kyle Breed,"Tuscon, Ariz.",football,arizona_state
+127,Joseph Reeves,"Buckeye, Ariz.",football,arizona_state
+128,Jesse Cozens,"Tempe, Ariz.",football,arizona_state
+129,Riley John,"Appleton, Wis.",football,arizona_state
+130,Mason Schell,"Vancouver, Wash.",football,arizona_state
+131,Anthony Nicastro,"Tempe, Ariz.",football,arizona_state
+132,Jonathan Sanchez,"Mesa, Ariz.",football,arizona_state
+133,Michael Tate,"Gilbert, Ariz.",football,arizona_state
+134,Steven Miller,"Gilbert, Ariz.",football,arizona_state
+135,Cade Cote,"Gilbert, Ariz.",football,arizona_state
+136,Cohl Cabral,"Rancho Cucamonga, Calif.",football,arizona_state
+137,Corey Stephens,"Scottsdale, Ariz.",football,arizona_state
+138,Spencer Lovell,"For Collins, Colo.",football,arizona_state
+139,Ralph Frias,"Safford, Ariz,",football,arizona_state
+140,Mark Walton,"Yuma, Ariz.",football,arizona_state
+141,Jared Bubak,"Lincoln, Neb.",football,arizona_state
+142,Geordon  Porter,"Rancho Cucamonga, Calif.",football,arizona_state
+143,Frank Darby,"Jersey City, N.J.",football,arizona_state
+144,Curtis Hodges,"Mesa, Ariz.",football,arizona_state
+145,Tommy Hudson,"San Jose, Calif.",football,arizona_state
+146,Ceejhay French-Love,"Long Beach, Calif.",football,arizona_state
+147,Daniel Sanders-Effiong,"Chicago, Ill.",football,arizona_state
+148,Jermayne Lole,"Long Beach, Calif.",football,arizona_state
+149,Josh Pokraka,"Honolulu, Hawaii",football,arizona_state
+150,Michael  Matus,"Katy, Texas",football,arizona_state
+151,Michael Gombert,"Scottsdale, Ariz.",football,arizona_state
+152,Renell Wren,"St. Louis, Mo.",football,arizona_state
+153,Jalen Bates,"Kaplan, La.",football,arizona_state
+154,Shannon Forman,"Baton Rouge, La.",football,arizona_state
+155,D.J.  Davidson,"Mesa, Ariz.",football,arizona_state
+156,Dougladson Subtyl,"Bunnell, Fla.",football,arizona_state
+157,Darien Butler,N/A,football,arizona_state
+158,Christian LaValle,"Mission Viejo, Calif.",football,arizona_state
+159,Sydney Day,"Monroe, Wash.",womens soccer,arizona_state
+160,Megan Delaney,"Las Vegas, Nev.",womens soccer,arizona_state
+161,Christina Edwards,"Bend, Ore.",womens soccer,arizona_state
+162,Kylie Miniefield,"Chandler, Ariz.",womens soccer,arizona_state
+163,Madison Kmetko,"Phoenix, Ariz.",womens soccer,arizona_state
+164,Lara Barbieri,"Monte Mor, Sao Paolo, BRazil",womens soccer,arizona_state
+165,Adriana Orozco,"Buckeye, Ariz.",womens soccer,arizona_state
+166,Keeley Gormley,"Calgary, Alberta, Canada",womens soccer,arizona_state
+167,Jessica Raybe,"Lodi, Calif.",womens soccer,arizona_state
+168,Jazmarie Mader,"Chandler, Ariz.",womens soccer,arizona_state
+169,Jemma Purfield,"Cottingham, England",womens soccer,arizona_state
+170,Devyn Kelsey,"Rancho Cucamonga, Calif.",womens soccer,arizona_state
+171,Olive Jones,"Phoenix, Ariz.",womens soccer,arizona_state
+172,Madison Wolf,"Chandler, Ariz.",womens soccer,arizona_state
+173,Melinda Gutierrez,"Gilbert, Ariz.",womens soccer,arizona_state
+174,Hailey Zerbel,"West Covina, Calif.",womens soccer,arizona_state
+175,Sam  Hobert,"San Clemente, Calif.",womens soccer,arizona_state
+176,Nikki Panas,"Edmonton, Alberta, Canada",womens soccer,arizona_state
+177,Madison Stark,"Claremont, Calif.",womens soccer,arizona_state
+178,Aubree Incardone,"Mesa, Ariz.",womens soccer,arizona_state
+179,Amanda  Jones,"Long Beach, Calif.",womens soccer,arizona_state
+180,Natalie Stephens,"Phoenix, Ariz.",womens soccer,arizona_state
+181,Gabrielle Briseno,"Gilbert, Ariz.",womens soccer,arizona_state
+182,Jadyn Nogues,"Las Vegas, Nev.",womens soccer,arizona_state
+183,Taylor Coon,"Portland, Ore.",womens soccer,arizona_state
+184,Jessica Hale,"Phoenix, Ariz.",womens soccer,arizona_state
+185,Angela Boyle,"Anthem, Ariz.",womens soccer,arizona_state
+186,Ashley March,"Gilbert, Ariz.",womens soccer,arizona_state
+187,Oscar Amaya,"Rio Rico, Ariz.",mens cross country,arizona_state
+188,Brandon Boys,"Gilbert, Ariz.",mens cross country,arizona_state
+189,Nick Dale,"Glendale, Ariz.",mens cross country,arizona_state
+190,Erik Gonzalez,"Riverside, Calif.",mens cross country,arizona_state
+191,Jackson Lewis,"Waukee, Iowa",mens cross country,arizona_state
+192,Bernie Montoya,"Yuma, Ariz.",mens cross country,arizona_state
+193,J.P. Nelson,"Eau Claire, Wis.",mens cross country,arizona_state
+194,Ryan Normand,"Chandler, Ariz.",mens cross country,arizona_state
+195,John Reniewicki,"Scottsdale, Ariz.",mens cross country,arizona_state
+196,Michael Renner,"Brentwood, Tenn.",mens cross country,arizona_state
+197,Kyle Shinn,"Wyomissing, Pa.",mens cross country,arizona_state
+198,Alexander Stevens,"Redmond, Ore.",mens cross country,arizona_state
+199,Chelsey Albertson,"Santa Clarita, Calif.",womens cross country,arizona_state
+200,Melese Crozier,"Fresno, Calif.",womens cross country,arizona_state
+201,Chamique Duboise,"Fort Defiance, Ariz.",womens cross country,arizona_state
+202,Billie Jo Dytrt,"Mesa, Ariz.",womens cross country,arizona_state
+203,Emily Gallegos-Francksen,"Lakewood, Colo.",womens cross country,arizona_state
+204,Lauren Gavulic,"Miami, Florida",womens cross country,arizona_state
+205,Anastasia Hancock,"Tolleson, Ariz.",womens cross country,arizona_state
+206,Daan Haven,"Ganado, Ariz.",womens cross country,arizona_state
+207,Cecile Lejeune,N/A,womens cross country,arizona_state
+208,Courtney Lewis,"Flagstaff, Ariz.",womens cross country,arizona_state
+209,Alethia Marrero,N/A,womens cross country,arizona_state
+210,Alexis Nichols,"Gilbert, Ariz.",womens cross country,arizona_state
+211,Samantha Ortega,"Santa Clarita, Calif.",womens cross country,arizona_state
+212,Anna Pruter,"Palos Verdes Estates, Calif.",womens cross country,arizona_state
+213,Megan Reniewicki,"Scottsdale, Ariz.",womens cross country,arizona_state
+214,Angela Saitta,"Fayetteville, Ark.",womens cross country,arizona_state
+215,Glynis Sim,"Canoe, B.C., Canada",womens cross country,arizona_state
+216,Bianca Tinoco,"Santa Clarita, Calif.",womens cross country,arizona_state
+217,Christine Williford,"Peoria, Ariz.",womens cross country,arizona_state
+218,Chun An Yu,"Taoyuan, Taiwan",mens golf,arizona_state
+219,Mason Andersen,"Chandler, Ariz.",mens golf,arizona_state
+220,Paul Chaplet,"San José, Costa Rica",mens golf,arizona_state
+221,Alex del Rey,"Madrid, Spain",mens golf,arizona_state
+222,Ryan Douglass,"Leesburg, Va.",mens golf,arizona_state
+223,Tobias Eden,"Karlstad, Sweden",mens golf,arizona_state
+224,Koichiro Ishika,"Kakogawa, Hyogo (Japan)",mens golf,arizona_state
+225,Jino Sohn,"Honolulu, Hawaii",mens golf,arizona_state
+226,Anthony Truong,"Ho Chi Minh City, Vietnam",mens golf,arizona_state
+227,Blake Wagoner,"Cornelius, N.C.",mens golf,arizona_state
+228,Madison Kerley,"Phoenix, Ariz.",womens golf,arizona_state
+229,Roberta Liti,"Siena, Italy",womens golf,arizona_state
+230,Olivia Mehaffey,"Belfast, Ireland",womens golf,arizona_state
+231,Raquel Olmos,"Torre-Pacheco, Murcia, Spain",womens golf,arizona_state
+232,Sophia Zeeb,"Stuttgart, Germany",womens golf,arizona_state
+233,Aaron Beauchamp,"Phoenix, Ariz.",mens swimming,arizona_state
+234,Kevin Benavidez,"Placitas, New Mexico",mens swimming,arizona_state
+235,Dylan Boyd,"Raleigh, N.C.",mens swimming,arizona_state
+236,Evan Carlson,"Portland, Ore.",mens swimming,arizona_state
+237,Daniel Comforti,"Brentwood, Calif.",mens swimming,arizona_state
+238,Cameron Craig,"Monroe, MI",mens swimming,arizona_state
+239,Jack Dalmolin,"Cumming, Ga.",mens swimming,arizona_state
+240,Mihalis Deliyiannis,"Roswell, Ga.",mens swimming,arizona_state
+241,Zach Dienstbier,"Round Rock, Texas.",mens swimming,arizona_state
+242,Reid Elliott,"Austin, Texas",mens swimming,arizona_state
+243,David Hoffer,"Littleton, Colo.",mens swimming,arizona_state
+244,Grant House,"Maineville, Ohio",mens swimming,arizona_state
+245,Sidney Kao,"Fullerton, Calif.",mens swimming,arizona_state
+246,Christian Lorenz,"Avon, Ind.",mens swimming,arizona_state
+247,Heikki Makikallio,"Oulu, Finland",mens swimming,arizona_state
+248,Warren McElroy,"Tempe, Ariz.",mens swimming,arizona_state
+249,Cristian Musterait,"Souderton, Pa.",mens swimming,arizona_state
+250,Ben Olszewski,"Scottsdale, Ariz.",mens swimming,arizona_state
+251,Patrick Park,"Plainsboro, N.J.",mens swimming,arizona_state
+252,Andrew Porter,"Santa Cruz, Calif.",mens swimming,arizona_state
+253,Zach Poti,"Orlando, Fla.",mens swimming,arizona_state
+254,Youssef Selim,"Cairo, Egypt",mens swimming,arizona_state
+255,Josh Vedder,"Phoenix, Ariz.",mens swimming,arizona_state
+256,Mara Aiacoboae,"Bacau, Romania",womens swimming,arizona_state
+257,Sarah Bathe,"Saint Charles, Mo.",womens swimming,arizona_state
+258,Camryn Curry,"Midlothian, Va.",womens swimming,arizona_state
+259,Kendall  Dawson,"Winter Garden, Fla.",womens swimming,arizona_state
+260,Rebecca Deacon,"Sherwood Park, AB, Canada",womens swimming,arizona_state
+261,Nora Deleske,"Huntington Beach, Calif.",womens swimming,arizona_state
+262,Sam Fazio,"Scottsdale, Ariz.",womens swimming,arizona_state
+263,Claire Fisch,"Riverside, Calif.",womens swimming,arizona_state
+264,Kaylee Gassen,"Parker, Colo.",womens swimming,arizona_state
+265,Emily  Glinecke,"Pottstown, Pa.",womens swimming,arizona_state
+266,Bentley Hulshof,"Leawood, Kan.",womens swimming,arizona_state
+267,Chloe Isleta,"San Jose, Calif.",womens swimming,arizona_state
+268,Frida Kaellgren,"Malmo, Sweden",womens swimming,arizona_state
+269,Silja Kansakoski,"Oulu, Finland",womens swimming,arizona_state
+270,Krista Kolkebeck,"Anthem, AZ",womens swimming,arizona_state
+271,Erica Laning,"Knoxville, Tenn.",womens swimming,arizona_state
+272,Ashley McCool,"Cochrane, Alberta, Canada",womens swimming,arizona_state
+273,Ivana Ninkovic,"Trebinje, Bosnia & Herzegovina",womens swimming,arizona_state
+274,Emma Nordin,"Carmel, Ind.",womens swimming,arizona_state
+275,Kaya Philapil,"San Ramon, CA",womens swimming,arizona_state
+276,Gillian Rieth,"Scottsdale, Ariz.",womens swimming,arizona_state
+277,Marlies Ross,"Pretoria, South Africa",womens swimming,arizona_state
+278,Cameron Smith,"Seattle, Wash.",womens swimming,arizona_state
+279,Fanny Teijonsalo,"Espoo, Finland",womens swimming,arizona_state
+280,Katherine Wagner,"Chatsworth, Calif.",womens swimming,arizona_state
+281,Caitlyn Wilson,"Tigard, Ore.",womens swimming,arizona_state
+282,Andrea Bolla,"Aldo Mora, Nola",mens tennis,arizona_state
+283,Pierre Louis Dodens,"Geneva, Switzerland",mens tennis,arizona_state
+284,Michael Geerts,"Antwerp, Belgium",mens tennis,arizona_state
+285,Benjamin Hannestad,"Vedbaek, Denmark",mens tennis,arizona_state
+286,William Kirkman,"Cabarete, Dominican Republic",mens tennis,arizona_state
+287,Makey Rakotomalala,"Creteil, France",mens tennis,arizona_state
+288,Tim Ruehl,"Waldshut-Tiengen, Germany",mens tennis,arizona_state
+289,Carsyn  Smith,"Scottsdale, Ariz.",mens tennis,arizona_state
+290,Thomas Wright,"Beckenham, Great Britain",mens tennis,arizona_state
+291,Kelley Anderson,"Roanoke, Texas",womens tennis,arizona_state
+292,Nicole Fossa Huergo,"Bologna, Italy",womens tennis,arizona_state
+293,Sammi Hampton,"Vancouver, Wash.",womens tennis,arizona_state
+294,Ilze Hattingh,"Pretoria, South Africa",womens tennis,arizona_state
+295,Lauryn John-Baptiste,"London, England",womens tennis,arizona_state
+296,Sasa Klanecek,"Maribor, Slovenia",womens tennis,arizona_state
+297,Tereza Kolarova,"Frýdek-Místek, Czech Republic",womens tennis,arizona_state
+298,Savannah Slaysman,"Phoenix, Ariz.",womens tennis,arizona_state
+299,Oscar Amaya,"Rio Rico, Ariz.",mens track,arizona_state
+300,Ryan Bright,N/A,mens track,arizona_state
+301,Joseph Bryant,"Liliha, HI",mens track,arizona_state
+302,Reed Bussey,"Queen Creek, AZ",mens track,arizona_state
+303,Holland Cabara,N/A,mens track,arizona_state
+304,Michael Chadwick,N/A,mens track,arizona_state
+305,Matthew Eckles,"Tempe, Ariz.",mens track,arizona_state
+306,Gregory Fernandez,N/A,mens track,arizona_state
+307,Mason Ford,"Chandler, Ariz.",mens track,arizona_state
+308,Erik Gonzalez,"Riverside, Calif.",mens track,arizona_state
+309,Ronny Hall,"Carson, Calif.",mens track,arizona_state
+310,Nathan Hiett,"Chandler, AZ",mens track,arizona_state
+311,Ivan Hinson,"Goodyear, Ariz.",mens track,arizona_state
+312,Marcus Howard,N/A,mens track,arizona_state
+313,Elijah Hughes,"Riverside, CA",mens track,arizona_state
+314,Hudson Keffer,"Central Kitsap, Wash.",mens track,arizona_state
+315,Jackson Lewis,"Waukee, Iowa",mens track,arizona_state
+316,Paul Lucas,"Phoenix, Ariz.",mens track,arizona_state
+317,C.J. Maree,"Marlboro, N.J.",mens track,arizona_state
+318,Adam Meyer,"Mesa, Ariz.",mens track,arizona_state
+319,J.P. Nelson,"Eau Claire, Wis.",mens track,arizona_state
+320,Ryan Normand,"Chandler, Ariz.",mens track,arizona_state
+321,Khalil Parris,N/A,mens track,arizona_state
+322,John Reniewicki,"Scottsdale, Ariz.",mens track,arizona_state
+323,Michael Renner,"Brentwood, Tenn.",mens track,arizona_state
+324,Cole Riddle,"Surprise, Ariz.",mens track,arizona_state
+325,Ian Schulz,"Carson City, Nev.",mens track,arizona_state
+326,Kyle Shinn,"Wyomissing, Pa.",mens track,arizona_state
+327,Grant Sisserson,"Scottsdale, Ariz.",mens track,arizona_state
+328,Alexander Stevens,"Redmond, Ore.",mens track,arizona_state
+329,Richard Thiel,"Merrillville, Ind.",mens track,arizona_state
+330,Kevin Wilkinson,N/A,mens track,arizona_state
+331,Kaylee Antill,"Zanesville, Ohio",womens track,arizona_state
+332,Jessica Barreira,"Lisbon, Portugal",womens track,arizona_state
+333,Brooke Coltelli,"Fredon, New Jersey",womens track,arizona_state
+334,Chamique Duboise,"Fort Defiance, Ariz.",womens track,arizona_state
+335,Billie Jo Dytrt,"Mesa, Ariz.",womens track,arizona_state
+336,Katie Eidem,"Rochester, Minn.",womens track,arizona_state
+337,Magdalyn Ewen,"St. Francis, Minn.",womens track,arizona_state
+338,Sha'Maya Flanagan,"Lancaster, Calif.",womens track,arizona_state
+339,Hannah Flodin,"Pinetop, Ariz.",womens track,arizona_state
+340,Haleigh Fritts,"Mesa, Ariz.",womens track,arizona_state
+341,Emily Gallegos-Francksen,"Lakewood, Colo.",womens track,arizona_state
+342,Seri Geisler,"Grand Rapids, Mich.",womens track,arizona_state
+343,Anastasia Hancock,"Tolleson, Ariz.",womens track,arizona_state
+344,Daan Haven,"Ganado, Ariz.",womens track,arizona_state
+345,Tommi Hintnaus,"Honolulu, Hawaii",womens track,arizona_state
+346,Sierra Irvin,"Hingham, Mass.",womens track,arizona_state
+347,Melanie Johnson,"Santa Maria, Calif.",womens track,arizona_state
+348,Courtney Lewis,"Flagstaff, Ariz.",womens track,arizona_state
+349,Beatrice Llano,"Bergen, Norway",womens track,arizona_state
+350,Alethia Marrero,N/A,womens track,arizona_state
+351,Kalei Matthews,N/A,womens track,arizona_state
+352,Cerah Moren,"Turlock, Calif.",womens track,arizona_state
+353,Shaunie Morrison,"Calgary, AB, Canada",womens track,arizona_state
+354,Alexis Nichols,"Gilbert, Ariz.",womens track,arizona_state
+355,Samantha Noennig,"Hartford, Wisc.",womens track,arizona_state
+356,Courtnee Oglesby,"Buckeye, Ariz.",womens track,arizona_state
+357,Samantha Ortega,"Santa Clarita, Calif.",womens track,arizona_state
+358,Maya Perkins,"Long Beach, Calif.",womens track,arizona_state
+359,Anna Pruter,"Palos Verdes Estates, Calif.",womens track,arizona_state
+360,Megan Reniewicki,"Scottsdale, Ariz.",womens track,arizona_state
+361,Angela Saitta,"Fayetteville, Ark.",womens track,arizona_state
+362,Bianca Tinoco,"Santa Clarita, Calif.",womens track,arizona_state
+363,Kristiana Warth,"Mesa, Ariz.",womens track,arizona_state
+364,Hannah Weller,"Yuma, Ariz.",womens track,arizona_state
+365,Alexandra Williams,"Ham Lake, Minn.",womens track,arizona_state
+366,Christine  Williford,"Peoria, Ariz.",womens track,arizona_state
+367,Darreyl Woodson,"Gilbert, Ariz.",womens track,arizona_state
+368,Anthony Anderson,"Irvine, Calif.",wrestling,arizona_state
+369,Cade Belshay,"Clovis, Calif.",wrestling,arizona_state
+370,Keavon Buckley,"Bozeman, Mont.",wrestling,arizona_state
+371,Austin Clayton,"Middletown, Del.",wrestling,arizona_state
+372,Brandon Courtney,"Goodyear, Ariz.",wrestling,arizona_state
+373,Cory Crooks,"Anthem, Ariz.",wrestling,arizona_state
+374,Brady Daniel,"Olney, Md.",wrestling,arizona_state
+375,Navonte Demison,"Bakersfield, Calif.",wrestling,arizona_state
+376,Michael Fujimori,"Olympia, Wash.",wrestling,arizona_state
+377,Andy Gandara,"Somerton, Ariz.",wrestling,arizona_state
+378,Tanner Hall,"Meridian, Idaho",wrestling,arizona_state
+379,Austyn Harris,"Broomfield, Colo.",wrestling,arizona_state
+380,Austin Hosegood,"Winter Haven, Fla.",wrestling,arizona_state
+381,Chance Ikei,"Scottsdale, Ariz.",wrestling,arizona_state
+382,Josh Kramer,"Buckeye, Ariz.",wrestling,arizona_state
+383,Josh Maruca,"Murrysville, Pa.",wrestling,arizona_state
+384,Ryan Millhof,"Suwanee, Ga.",wrestling,arizona_state
+385,Ali Naser,"Woodland Hills, Calif.",wrestling,arizona_state
+386,Kordell Norfleet,"Chicago, Ill.",wrestling,arizona_state
+387,Michael Oramas,"Klein, Texas",wrestling,arizona_state
+388,Christian Pagdilao,"Redlands, Calif.",wrestling,arizona_state
+389,Jacen Petersen,"Charlo, Mont.",wrestling,arizona_state
+390,William Pickren,"Panama City Beach, Fla.",wrestling,arizona_state
+391,Oliver Pierce,"Allen, Texas",wrestling,arizona_state
+392,Chad Porter,"Phoenix, Ariz.",wrestling,arizona_state
+393,Ted Rico,"Queen Creek, Ariz.",wrestling,arizona_state
+394,Josh Shields,"Murrysville, Pa.",wrestling,arizona_state
+395,Conner Small,"Issaquah, Wash.",wrestling,arizona_state
+396,Jason Tsirtsis,"Crown Point, Ind.",wrestling,arizona_state
+397,Anthony Valencia,"Bellflower, Calif.",wrestling,arizona_state
+398,Zahid Valencia,"Bellflower, Calif.",wrestling,arizona_state
+399,Nikko Villarreal,"Gilroy, Calif.",wrestling,arizona_state
+400,Kolsen Welham,"Broomfield, Colo.",wrestling,arizona_state
+401,Nick Williams,"Lisbon, Iowa",wrestling,arizona_state
+402,Skylar McCarty,"Centennial, AZ.",softball,arizona_state
+403,Brynley Steele,"Yorba Linda, Calif.",softball,arizona_state
+404,Ashley  Moss,"Fullerton, Calif.",softball,arizona_state
+405,Randi Farricker,"Glendora, Calif.",softball,arizona_state
+406,Bella Loomis,"Chandler, Ariz.",softball,arizona_state
+407,Kwyn  Cooper,"Castro Valley, Calif.",softball,arizona_state
+408,Missy Eisen,"Angelo Rodriguez, Calif.",softball,arizona_state
+409,Maddi Hackbarth,"Oakdale, Calif.",softball,arizona_state
+410,Jade Gortarez,"Riverside, Calif.",softball,arizona_state
+411,Marisa Stankiewicz,"Gilbert, Ariz.",softball,arizona_state
+412,Kindra Hackbarth,"Oakdale, Calif.",softball,arizona_state
+413,Alyssa Loza,"Torrance, Calif.",softball,arizona_state
+414,Brianna (Breezy) Wise,"Camarillo, Calif.",softball,arizona_state
+415,Taylor Becerra,"Whittier, Calif.",softball,arizona_state
+416,Rylee Maston,"in Lancaster, Calif.",softball,arizona_state
+417,Allison (Alli) Tatnall,"Windsor Hills, Calif.",softball,arizona_state
+418,DeNae Chatman,"Goodyear, Ariz.",softball,arizona_state
+419,Danielle Gibson,"Murrietta, Calif.",softball,arizona_state
+420,"Giselle ""G"" Juarez","Glendale, Ariz.",softball,arizona_state
+421,Morgan Howe,"Poway, Calif.",softball,arizona_state
+422,Nichole Chilson,"Menifee, Calif.",softball,arizona_state
+423,Dale Ryndak,"Downers Grove, Ill.",softball,arizona_state
+424,Breanna Macha,"Mesa, Ariz.",softball,arizona_state
+425,Courtney Leffel,"Flagstaff, Ariz.",womens volleyball,arizona_state
+426,Blair Robalin,"El Paso, Texas",womens volleyball,arizona_state
+427,Peyton  Grahovac,"Orange, Calif.",womens volleyball,arizona_state
+428,Carmen Unzue,"Madrid, Spain",womens volleyball,arizona_state
+429,Nicole Peterson,"Portland, Ore.",womens volleyball,arizona_state
+430,Isabel  Miller,"Phoenix, Ariz.",womens volleyball,arizona_state
+431,Shelbie  Dobmeier,"Lakewood, Calif.",womens volleyball,arizona_state
+432,Danica  Krstonošic,"Novi Sad, Serbia",womens volleyball,arizona_state
+433,Halle Harker,"Bakersfield, Calif.",womens volleyball,arizona_state
+434,Halle Johnson,"Tempe, Ariz.",womens volleyball,arizona_state
+435,Megan Beedie,"Cambridge, ON",womens volleyball,arizona_state
+436,Oluoma Okaro,"Lakewood, Calif.",womens volleyball,arizona_state
+437,Ivana Jeremic,"Gornji Milanovic, Serbia",womens volleyball,arizona_state
+438,Callie  Jones,"Phoenix, Ariz.",womens volleyball,arizona_state
+439,Griere Hughes,"Fishers, IN",womens volleyball,arizona_state
+440,Alexa LIster,"Chino Hills, Calif.",womens volleyball,arizona_state
+441,Corinne Belkoff,"Tucson, Ariz.",womens gymnastics,arizona_state
+442,Averie Brook,"Houston, Texas",womens gymnastics,arizona_state
+443,Justine Callis,"Chesapeake, Va.",womens gymnastics,arizona_state
+444,Nichelle Christopherson,"Kansas City, Mo.",womens gymnastics,arizona_state
+445,Jessica Ginn,"Chandler, Ariz.",womens gymnastics,arizona_state
+446,Morgan Hart,"Las Vegas, Nev.",womens gymnastics,arizona_state
+447,Mekayla Jones,"Birmingham, Ala.",womens gymnastics,arizona_state
+448,Anne Kuhm,"Brumath, France",womens gymnastics,arizona_state
+449,Katelyn Lentz,"Brisbane, Calif.",womens gymnastics,arizona_state
+450,Cairo Leonard-Baker,"Oakland, Calif.",womens gymnastics,arizona_state
+451,Graycee Rushton,"Gilbert, Ariz.",womens gymnastics,arizona_state
+452,Ashley Szafranski,"Orefield, PA.",womens gymnastics,arizona_state
+453,Kaitlyn  Szafranski,"Orefield, Pa.",womens gymnastics,arizona_state
+454,Heather Udowitch,"Allen, Texas",womens gymnastics,arizona_state
+455,Maya Williams,"Reistertown, Md.",womens gymnastics,arizona_state
+456,Morgan Wilson,"Lee's Summit, Mo.",womens gymnastics,arizona_state
+457,Gvido Jansons,"Grobina, Latvia",mens hockey,arizona_state
+458,Jacob Wilson,"Ballwin, Mizz.",mens hockey,arizona_state
+459,Johnny Walker,"Phoenix, Ariz.",mens hockey,arizona_state
+460,Joe Lappin,"Geneva, Ill.",mens hockey,arizona_state
+461,Tyler Busch,"Lloydminster, Alberta, CA",mens hockey,arizona_state
+462,Jack Rowe,"Cary, Ill.",mens hockey,arizona_state
+463,Dylan Hollman,"Red Deer, Alta., Canada",mens hockey,arizona_state
+464,Riley Simpson,"Edmonton, AB, Canada",mens hockey,arizona_state
+465,Gage Mackie,"Anchorage, Alaska",mens hockey,arizona_state
+466,Gage Hough,"Omaha, Neb.",mens hockey,arizona_state
+467,Austin Lemieux,"Sewickley, Penn.",mens hockey,arizona_state
+468,Filips Buncis,"Jelgava, Latvia",mens hockey,arizona_state
+469,Anthony Croston,"Phoenix, Ariz.",mens hockey,arizona_state
+470,David Norris,"Calgary, Alta., Canada",mens hockey,arizona_state
+471,Jake Clifford,"Brecksville, Ohio",mens hockey,arizona_state
+472,Liam McGing,"Chicago, Ill.",mens hockey,arizona_state
+473,Max Balinson,"Ancaster, Ontario, CA",mens hockey,arizona_state
+474,Brett Gruber,"Appleton, Wisc.",mens hockey,arizona_state
+475,Steenn Pasichnuk,"Bonnyville, AB, Canada",mens hockey,arizona_state
+476,Jakob Stridsberg,"Jonkoping, Sweden",mens hockey,arizona_state
+477,Ryland Pashovitz,"Saskatoon, Sask., Canada",mens hockey,arizona_state
+478,Louie Rowe,"East Lansing, Mich.",mens hockey,arizona_state
+479,Mike DePhillips,"Summit, NJ",mens hockey,arizona_state
+480,Joey Daccord,"North Andover, Mass.",mens hockey,arizona_state
+481,Dominic Garcia,"Las Vegas, Nev.",mens hockey,arizona_state
+482,Brinson Pasichnuk,"Bonnyville, AB, Canada",mens hockey,arizona_state
+483,Joey Raats,"Las Vegas, Nev.",mens hockey,arizona_state
+484,Berkeley Bonneau,"Coppell, TX",womens lacrosse,arizona_state
+485,Erin DiBernardo,"Laguna Beach, CA",womens lacrosse,arizona_state
+486,Katie Hendrix,"Newport Beach, CA",womens lacrosse,arizona_state
+487,Avery  Hamill,"Paris, ON, Canada",womens lacrosse,arizona_state
+488,Haley Gorke,"Suwanee, GA",womens lacrosse,arizona_state
+489,Taylor Carson,"Wantagh, NY",womens lacrosse,arizona_state
+490,Emily Glagolev,"Webster, NY",womens lacrosse,arizona_state
+491,Kennedy Jamieson,"Colorado Springs, CO",womens lacrosse,arizona_state
+492,Riley Purcell,"Danville, CA",womens lacrosse,arizona_state
+493,Caryn Takeuchi,"Suffern, NY",womens lacrosse,arizona_state
+494,Maura Cissel,"Annapolis, MD",womens lacrosse,arizona_state
+495,Sydney Bosmans,"Chesapeake Beach, MD",womens lacrosse,arizona_state
+496,Maria Villanti,"Hoeoye Falls, NY",womens lacrosse,arizona_state
+497,Julia Burns,"Miller Place, NY",womens lacrosse,arizona_state
+498,Kerri  Clayton,"Baltimore, MD",womens lacrosse,arizona_state
+499,Lia Willis,"Waldorf, MD",womens lacrosse,arizona_state
+500,Maddy Hunter,"Sammamish, WA",womens lacrosse,arizona_state
+501,Kristina Coppinger,"Kansas City, MO",womens lacrosse,arizona_state
+502,Kate Dougherty,"Lawrenceville, GA",womens lacrosse,arizona_state
+503,Campbell Poe,"Los Alamitos, CA",womens lacrosse,arizona_state
+504,Suzannah  Liselli,"Morrison, CO",womens lacrosse,arizona_state
+505,Hanna Schuler,"Charlottesville, VA",womens lacrosse,arizona_state
+506,Kasey Geddis,"Weston, FL",womens lacrosse,arizona_state
+507,Ashley Cusack,"Kent, WA",womens lacrosse,arizona_state
+508,Kylie Kroeger,"San Diego, CA",womens lacrosse,arizona_state
+509,Alexis Linhardt,"Centennial, CO",womens lacrosse,arizona_state
+510,Daniela Wright,"Philadelphia, PA",womens lacrosse,arizona_state
+511,Graci Fulkerson,"Apex, NC",womens lacrosse,arizona_state
+512,Carley Adams,"Fort Lauderdale, FL",womens lacrosse,arizona_state
+513,Kienan Linhardt,"Centennial, CO",womens lacrosse,arizona_state
+514,Emma Carlson,"Lusby, MD",womens lacrosse,arizona_state
+515,Madison Woodall,"Davie, FL",womens lacrosse,arizona_state
+516,Victoria Krammer,"Bloomington, MN",womens lacrosse,arizona_state
+517,Ashley McNeill,"Vancouver, British Columbia",womens lacrosse,arizona_state
+518,Mia Harp,"Coppell, TX",womens lacrosse,arizona_state
+519,Rachel Gregory,"Babylon, NY",womens lacrosse,arizona_state
+520,Logan Millican,"Fort Lauderdale, FL",womens lacrosse,arizona_state
+521,Sophia Thomas,"Mechanicsburg, PA",womens lacrosse,arizona_state
+522,Kate Baldwin,"Long Beach, Calif.",womens beach volleyball,arizona_state
+523,Sierra Ellett,"Scottsdale, Ariz.",womens beach volleyball,arizona_state
+524,Kwyn Johnson,"Kalispell, Mont.",womens beach volleyball,arizona_state
+525,Ellyson  Lundberg,"Larkspur, Calif.",womens beach volleyball,arizona_state
+526,Katie Cross,"Flagstaff, Ariz.",womens beach volleyball,arizona_state
+527,Bailey Anderson,"Las Vegas, Nev.",womens beach volleyball,arizona_state
+528,Katelyn  Carballo,"Laguna Beach, Calif.",womens beach volleyball,arizona_state
+529,Mia Rivera,"Gilbert, Arizona",womens beach volleyball,arizona_state
+530,Sydney Palmer,"Yorba Linda, Calif.",womens beach volleyball,arizona_state
+531,Frances Giedraitis,"Tucson, Ariz.",womens beach volleyball,arizona_state
+532,Kara Woodard,"Phoenix, Ariz.",womens beach volleyball,arizona_state
+533,Cierra Flood,"Phoenix, Ariz.",womens beach volleyball,arizona_state
+534,Jourdan Parnell,"San Diego, Calif.",womens beach volleyball,arizona_state
+535,Natalie Braun,"Phoenix, Ariz.",womens beach volleyball,arizona_state
+536,Halle Harker,"Bakersfield, Calif.",womens beach volleyball,arizona_state
+537,Cassidy  Schilling,"Moorpark, Calif.",womens beach volleyball,arizona_state
+538,Samantha Plaster,"Flower Mound, Texas",womens beach volleyball,arizona_state
+539,Charlotte Ahrens,"Nuremberg, Germany",womens triathlon,arizona_state
+540,Delaney Bucker,"Indianapolis, Ind.",womens triathlon,arizona_state
+541,Catherine Giuseffi,"Basking Ridge, N.J.",womens triathlon,arizona_state
+542,Katie Gorczyca,"Las Vegas, Nev.",womens triathlon,arizona_state
+543,Hannah Henry,"Victoria, B.C., Canada",womens triathlon,arizona_state
+544,Darby Middlebrook,"Boone, N.C.",womens triathlon,arizona_state
+545,Rebecca Naughton,"Des Moines, Iowa",womens triathlon,arizona_state
+546,Grace Obando,"Reston, Va.",womens triathlon,arizona_state
+547,Sarah Quintero,"Round Rock, Texas",womens triathlon,arizona_state
+548,Lillie Robinson,"Madison, Ala.",womens triathlon,arizona_state
+549,Kyla Roy,"Winnipeg, Manitoba, Canada",womens triathlon,arizona_state
+550,Kendal Williams,"Anchorage, Alaska",womens triathlon,arizona_state
+551,Kenzi Wilson,"Carmel, Ind.",womens triathlon,arizona_state
+552,P.J. Allin,"Victoria, British Columbia",womens water polo,arizona_state
+553,Meghan Beaudet,"Albuquerque, NM.",womens water polo,arizona_state
+554,Alkistis Benekou,"Athens, Greece",womens water polo,arizona_state
+555,Sophia Burgess,"Sacramento, Calif.",womens water polo,arizona_state
+556,Kayla Casas,"Downey, Calif.",womens water polo,arizona_state
+557,Kate  Cassidy,"Boca Raton, Fla.",womens water polo,arizona_state
+558,Cassidy  Degraff,"Frankfort, Illinois",womens water polo,arizona_state
+559,Belen Ehinger,"Longwood, Fla.",womens water polo,arizona_state
+560,Rosie Huck,"Manchester, England",womens water polo,arizona_state
+561,Chelsea  Karimazondo,"Harare, Zimbabwe",womens water polo,arizona_state
+562,Maud Koopman,"Assendelft, Netherlands",womens water polo,arizona_state
+563,Lena Mihailovic,"Belgrade, Serbia",womens water polo,arizona_state
+564,Julia Reyes,"Cerritos, Calif.",womens water polo,arizona_state
+565,Bente Rogge,"Zaanstad, Netherlands",womens water polo,arizona_state
+566,Mia Rycraw,"Walnut, Calif.",womens water polo,arizona_state
+567,Catherine Simko,"Mission Viejo, Calif.",womens water polo,arizona_state
+568,Amira Van Buren,"Murrieta, Calif.",womens water polo,arizona_state
+569,Layla Waters,"San Francisco, Calif.",womens water polo,arizona_state

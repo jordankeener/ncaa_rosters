@@ -60,27 +60,21 @@ for (sport_id, sport_info) in sports_dict.items():
     url = url_template.format(sporturl = sporturl)
     table = proj.get_list(url, classname, numlists=ulnum)
     players = table.find_all('li')
-
-    if sport_id in ['mens basketball']:
-        spannum = 2
-    elif sport_id in ['softball']:
-        spannum = 3
-    else:
-        spannum = 1
-
-    print(spannum)
-
     for player in players:
         name = player.find('div',
             class_ = 'sidearm-roster-player-name').find('a').getText().strip()
-        if sport_id == 'softball':
-            hometown = player.find('div', class_ = 'sidearm-roster-player-position').find_all('span')
-        else:
-            hometown = player.find('div',
-                class_ = 'sidearm-roster-player-class-hometown').find_all('span')
+        hometown_list = player.find('div',
+            class_ = 'sidearm-roster-player-class-hometown').find_all('span')
 
         try:
-            hometown = hometown[spannum].getText().strip()
+            hometown = 'N/A'
+            for item in hometown_list:
+                x = item.getText().strip()
+                if ',' in x:
+                    hometown = x
+                    break
+                else:
+                    continue
         except IndexError:
             hometown = 'N/A'
 

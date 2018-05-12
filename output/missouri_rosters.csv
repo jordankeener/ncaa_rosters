@@ -189,14 +189,14 @@
 187,Austin Hindman,"Wildwood, Mo.",mens cross country,missouri
 188,Patrick Kearns,"New York City, NY",mens cross country,missouri
 189,Sheldon Keence,"St. Charles, Mo.",mens cross country,missouri
-190,Alfred Kimaiyo,Kenya,mens cross country,missouri
+190,Alfred Kimaiyo,N/A,mens cross country,missouri
 191,Robert Kuhlmann,"Lake Villa, Ill.",mens cross country,missouri
 192,Justin Loquercio,"Mt. Prospect, Ill.",mens cross country,missouri
 193,Stephen Mugeche,"Blue Springs, Mo.",mens cross country,missouri
 194,Dylan Quisenberry,"Wildwood, Mo.",mens cross country,missouri
 195,Evan Schulte,"Columbia, Mo.",mens cross country,missouri
 196,Jacob Schweiss,"St. Louis, Mo.",mens cross country,missouri
-197,Eric Scott,Kenya,mens cross country,missouri
+197,Eric Scott,N/A,mens cross country,missouri
 198,Taylor Stephen,"Nixa, Mo.",mens cross country,missouri
 199,Michael Widmann,"Naperville, Ill.",mens cross country,missouri
 200,Cain Winebrenner,"Kansas City, Mo.",mens cross country,missouri
@@ -215,7 +215,7 @@
 213,Michaela Hackbarth,"Downers Grove, Ill.",womens cross country,missouri
 214,Emmie Hahn,"Homer Glen, Ill.",womens cross country,missouri
 215,Valeska Halamicek,"Weldon Spring, Mo.",womens cross country,missouri
-216,Vivien Jepkemoi,Kenya,womens cross country,missouri
+216,Vivien Jepkemoi,N/A,womens cross country,missouri
 217,Jamie Kempfer,"Festus, Mo.",womens cross country,missouri
 218,Jordyn Kleve,"Urbandale, Iowa",womens cross country,missouri
 219,Karina Liz,"Aurora, Ill.",womens cross country,missouri
@@ -336,20 +336,20 @@
 334,Ethan Hanson,"Palatine, Ill.",mens track,missouri
 335,Sean Harrell,"Springfield, Mo.",mens track,missouri
 336,Austin Hindman,"Wildwood, Mo.",mens track,missouri
-337,Jonathan Holder,Trinidad & Tobago,mens track,missouri
+337,Jonathan Holder,N/A,mens track,missouri
 338,Patrick Kearns,"New York City, NY",mens track,missouri
 339,Sheldon Keence,"St. Charles, Mo.",mens track,missouri
-340,Alfred Kimaiyo,Kenya,mens track,missouri
+340,Alfred Kimaiyo,N/A,mens track,missouri
 341,Robert Kuhlmann,"Lake Villa, Ill.",mens track,missouri
 342,Patrick Kunza,"Wentzville, Mo.",mens track,missouri
-343,Rauno Liitmae,Estonia,mens track,missouri
+343,Rauno Liitmae,N/A,mens track,missouri
 344,Justin Loquercio,"Mt. Prospect, Ill.",mens track,missouri
 345,Jerrad Mason,"Bridgetown, Barbados",mens track,missouri
 346,Stephen Mugeche,"Blue Springs, Mo.",mens track,missouri
 347,Dylan Quisenberry,"Wildwood, Mo.",mens track,missouri
 348,Evan Schulte,"Columbia, Mo.",mens track,missouri
 349,Jacob Schweiss,"St. Louis, Mo.",mens track,missouri
-350,Eric Scott,Kenya,mens track,missouri
+350,Eric Scott,N/A,mens track,missouri
 351,Mark Sheridan,"Ballwin, Mo.",mens track,missouri
 352,Taylor Stephen,"Nixa, Mo.",mens track,missouri
 353,Ja'Mari Ward,"Cahokia, Ill.",mens track,missouri
@@ -374,7 +374,7 @@
 372,Valeska Halamicek,"Weldon Spring, Mo.",womens track,missouri
 373,Megan Haley,"Lancaster, Mo.",womens track,missouri
 374,Gabi Jacobs,"Bloomington, Ill.",womens track,missouri
-375,Vivien Jepkemoi,Kenya,womens track,missouri
+375,Vivien Jepkemoi,N/A,womens track,missouri
 376,CeCe Johnson,"St. Louis, Mo.",womens track,missouri
 377,Tsai-Anne Joseph,"St. Augustine, Trinidad & Tob.",womens track,missouri
 378,Becky Keating,"Reading, England",womens track,missouri
@@ -442,31 +442,31 @@
 440,Dalton Voyles,"Pacific, Mo.",wrestling,missouri
 441,Taylor Watkins,"Columbus, Kan.",wrestling,missouri
 442,Dylan Wisman,"Winchester, Va.",wrestling,missouri
-443,Regan Nash,"Camden Point, Mo. (North Platte)",softball,missouri
-444,Tajiah Ellison,"Phoenix, Ariz. (Desert Vista)",softball,missouri
-445,Kendyll Bailey,"Grain Valley, Mo. (Grain Valley)",softball,missouri
-446,Paige Bange,"Jefferson City, Mo. (Helias Catholic)",softball,missouri
-447,Nalani Scates,"Pleasanton, Calif. (Ohlone CC)",softball,missouri
-448,Kolby Romaine,"Chino Hills, Calif. (Rosary)",softball,missouri
-449,Brooke Wilmes,"Johnston, Iowa (Johnston)",softball,missouri
-450,Delaney McDannold,"Columbia, Mo. (Rock Bridge)",softball,missouri
-451,Danielle Baumgartner,"Mexico, Mo. (Mexico)",softball,missouri
-452,Trenity Edwards,"Moore, Okla. (Southmoore)",softball,missouri
-453,Kara Decker,"Leitchfield, Ky. (Grayson County)",softball,missouri
-454,Raime Cohen,"St. Louis, Mo. (Clayton)",softball,missouri
-455,Lauren Rice,"Morrison, Ill. (Morrison)",softball,missouri
-456,Callie Martin,"Raymore, Mo. (Raymore-Peculiar)",softball,missouri
-457,Amanda Sanchez,"West Covina, Calif. (Bishop Amat)",softball,missouri
-458,Madi Norman,"Tipton, Mo. (Louisville)",softball,missouri
-459,Braxton Burnside,"Paragould, Ark. (Paragould)",softball,missouri
-460,Gabby Garrison,"Missouri City, Texas (Ridge Point)",softball,missouri
-461,Hatti Moore,"La Grange, Texas (La Grange)",softball,missouri
-462,Cayla Kessinger,"Saugus, Calif. (Saugus)",softball,missouri
-463,Rylee Pierce,"Visalia, Calif. (El Diamante)",softball,missouri
-464,Eli Daniel,"Locust Grove, Ga. (Brenau University)",softball,missouri
-465,Cosette Tomita,"Oak Forest, Ill. (Tinley Park)",softball,missouri
-466,Katherine Kadlec,"Columbia, Mo. (Father Tolton)",softball,missouri
-467,Abby George,"St. Louis, Mo. (Lutheran South)",softball,missouri
+443,Regan Nash,N/A,softball,missouri
+444,Tajiah Ellison,N/A,softball,missouri
+445,Kendyll Bailey,N/A,softball,missouri
+446,Paige Bange,N/A,softball,missouri
+447,Nalani Scates,N/A,softball,missouri
+448,Kolby Romaine,N/A,softball,missouri
+449,Brooke Wilmes,N/A,softball,missouri
+450,Delaney McDannold,N/A,softball,missouri
+451,Danielle Baumgartner,N/A,softball,missouri
+452,Trenity Edwards,N/A,softball,missouri
+453,Kara Decker,N/A,softball,missouri
+454,Raime Cohen,N/A,softball,missouri
+455,Lauren Rice,N/A,softball,missouri
+456,Callie Martin,N/A,softball,missouri
+457,Amanda Sanchez,N/A,softball,missouri
+458,Madi Norman,N/A,softball,missouri
+459,Braxton Burnside,N/A,softball,missouri
+460,Gabby Garrison,N/A,softball,missouri
+461,Hatti Moore,N/A,softball,missouri
+462,Cayla Kessinger,N/A,softball,missouri
+463,Rylee Pierce,N/A,softball,missouri
+464,Eli Daniel,N/A,softball,missouri
+465,Cosette Tomita,N/A,softball,missouri
+466,Katherine Kadlec,N/A,softball,missouri
+467,Abby George,N/A,softball,missouri
 468,Melanie Crow,"Wildwood, Mo.",womens volleyball,missouri
 469,Leketor Member-Meneh,"St. Louis, Mo.",womens volleyball,missouri
 470,Riley Sents,"Grundy Center, Iowa",womens volleyball,missouri

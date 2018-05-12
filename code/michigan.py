@@ -54,18 +54,37 @@ for (key, value) in sports_dict.copy().items():
     if value == []:
         del sports_dict[key]
 
+# change list number if not first ul of given classname on page
+for (key, value) in sports_dict.items():
+	if key in []:
+		value.append(2)
+	else:
+		value.append(1)
+
 for (sport_id, sport_info) in sports_dict.items():
     sporturl = sport_info[0]
+    ulnum = sport_info[1]
     print(sport_id)
     url = url_template.format(sporturl = sporturl)
-    table = proj.get_list(url, classname)
+    table = proj.get_list(url, classname, numlists=ulnum)
     players = table.find_all('li')
-
     for player in players:
         name = player.find('div',
             class_ = 'sidearm-roster-player-name').find('a').getText().strip()
-        hometown = player.find('div',
-            class_ = 'sidearm-roster-player-class-hometown').find_all('span')[1].getText().strip()
+        hometown_list = player.find('div',
+            class_ = 'sidearm-roster-player-class-hometown').find_all('span')
+
+        try:
+            hometown = 'N/A'
+            for item in hometown_list:
+                x = item.getText().strip()
+                if ',' in x:
+                    hometown = x
+                    break
+                else:
+                    continue
+        except IndexError:
+            hometown = 'N/A'
 
         player_df = proj.make_player_df(name, hometown, sport_id, school)
         full_df = full_df.append(player_df, ignore_index=True)

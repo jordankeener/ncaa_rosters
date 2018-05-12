@@ -54,7 +54,7 @@
 52,Avery Weems,"Flagstaff, Ariz.",baseball,arizona
 53,Blake Paugh,"Scottsdale, Ariz.",baseball,arizona
 54,Jake Meyer,"Scottsdale, Ariz.",baseball,arizona
-55,Preston Price,"Oceanside, Calif.",baseball,arizona
+55,Preston Price,"Vista, Calif.",baseball,arizona
 56,Cameron Haskell,"Temecula, Calif.",baseball,arizona
 57,Austin Nichols,"Queen Creek, Ariz.",baseball,arizona
 58,Juan Aguilera,"Sierra Vista, Ariz.",baseball,arizona
@@ -74,7 +74,7 @@
 72,Rhett Rodriguez,"Tucson, Ariz.",football,arizona
 73,Brian Casteel,"Pasadena, Calif.",football,arizona
 74,Shun Brown,"Shreveport, La.",football,arizona
-75,Demetrius Flannigan-Fowles,Tucson,football,arizona
+75,Demetrius Flannigan-Fowles,N/A,football,arizona
 76,Devaughn Cooper,"Los Angeles, Calif.",football,arizona
 77,Colin Schooler,"Dana Point, Calif.",football,arizona
 78,Tony Wallace,"Las Vegas, Nev.",football,arizona
@@ -169,7 +169,7 @@
 167,Zoe Barrie,"San Mateo, Calif.",womens soccer,arizona
 168,Hunter Davila,"Casper, Wyo.",mens cross country,arizona
 169,Michael Grabowski,"Smithtown, NY",mens cross country,arizona
-170,Daniel Harris,Phoenix. Ariz.,mens cross country,arizona
+170,Daniel Harris,N/A,mens cross country,arizona
 171,Vincent Huynh-Watkins,"Eugene, Ore.",mens cross country,arizona
 172,Chase McQueen,"Columbus, Ind.",mens cross country,arizona
 173,David Moreno,"Lancaster, Calif.",mens cross country,arizona
@@ -179,7 +179,7 @@
 177,Travis Thorne,"Spokane, Wash.",mens cross country,arizona
 178,Emilio Vasquez,"Tucson, Ariz.",mens cross country,arizona
 179,Carlos Villarreal,"Rio Rico, Ariz.",mens cross country,arizona
-180,Henry Weisberg,Reno. Nev.,mens cross country,arizona
+180,Henry Weisberg,N/A,mens cross country,arizona
 181,Seamus White,N/A,mens cross country,arizona
 182,Jennie Baragar-Petrash,"Winnipeg, Canada",womens cross country,arizona
 183,Sydney Belus,"Temecula, Calif.",womens cross country,arizona
@@ -268,7 +268,7 @@
 266,Mik Ranslem,"Santa Clarita, Calif.",womens swimming,arizona
 267,Mackenzie Rumrill,"Salem, Ore.",womens swimming,arizona
 268,Delaney Schnell,"Tucson, Ariz.",womens swimming,arizona
-269,Zohar Shikler,Israel,womens swimming,arizona
+269,Zohar Shikler,N/A,womens swimming,arizona
 270,Sarah Shimomura,"Santa Cruz, Calif.",womens swimming,arizona
 271,Jamie Stone,"Portland, Ore.",womens swimming,arizona
 272,Ashley Sutherland,"Buckley, Wash.",womens swimming,arizona
@@ -288,7 +288,7 @@
 286,Elena Schneider,"Mount Pleasant, S.C.",womens tennis,arizona
 287,Taylor Tamblyn,"Kenilworth, Ill.",womens tennis,arizona
 288,Sophia Thomas,"Bexley, England",womens tennis,arizona
-289,Marie Van Aelst,Belgium,womens tennis,arizona
+289,Marie Van Aelst,N/A,womens tennis,arizona
 290,Camila Wesbrooks,"McKinney, Texas",womens tennis,arizona
 291,Talya Zandberg,"Tiberias, Israel",womens tennis,arizona
 292,Austin Alexander,"Tucson, Ariz.",mens track,arizona
@@ -333,7 +333,7 @@
 331,Trevor Volpe,"Tucson, Ariz.",mens track,arizona
 332,Zakee Washington,"Las Vegas, Nev.",mens track,arizona
 333,Turner Washington,"Tucson, Ariz.",mens track,arizona
-334,Henry Weisberg,Reno. Nev.,mens track,arizona
+334,Henry Weisberg,N/A,mens track,arizona
 335,Cal Westaway,N/A,mens track,arizona
 336,Seamus White,N/A,mens track,arizona
 337,Umajesty Williams,"Scottsdale, Ariz.",mens track,arizona
@@ -389,66 +389,65 @@
 387,Dejah Mulipola,"Garden Grove, Calif.",softball,arizona
 388,Taryn Young,"Anaheim, Calif.",softball,arizona
 389,Hillary Edior,"Los Angeles, Calif.",softball,arizona
-390,Jaycee Lindley,"Mesa, Ariz.",softball,arizona
-391,Ivy Davis,"Huntington Beach, Calif.",softball,arizona
-392,Lexi Harrington,"Granite Bay, Calif.",softball,arizona
-393,Malia Martinez,"Poway, Calif.",softball,arizona
-394,Taylor McQuillin,"Mission Viejo, Calif",softball,arizona
-395,Jessie Harper,"Stevenson Ranch, Calif.",softball,arizona
-396,Hanah Bowen,"Ramona, Calif.",softball,arizona
-397,Alyssa Denham,"Alvin, Texas",softball,arizona
-398,Gina Snyder,"Tucson, Ariz.",softball,arizona
-399,Ashleigh Hughes,"Antelope, Calif.",softball,arizona
-400,Alyssa Palomino,"Mission Viejo, Calif.",softball,arizona
-401,Joelle Krist,"Petaluma, Calif.",softball,arizona
-402,Jenna Kean,"Los Alamitos, Calif.",softball,arizona
-403,Tamara Statman,"Scottsdale, Ariz.",softball,arizona
-404,Kimberly Gutierrez,"Tijuana, Mexico",womens volleyball,arizona
-405,Candice Denny,"Saratoga, Calif.",womens volleyball,arizona
-406,Shardonee Hayes,"Columbus, Ga.",womens volleyball,arizona
-407,Julia Patterson,"Los Alamitos, Calif.",womens volleyball,arizona
-408,Victoria Svorinic,"Scottsdale, Ariz.",womens volleyball,arizona
-409,Katie Smoot,"San Mateo, Calif.",womens volleyball,arizona
-410,Mackenzie Hernandez,"Bakersfield, Calif.",womens volleyball,arizona
-411,Kendra Dahlke,"Bonsall, Calif.",womens volleyball,arizona
-412,Paige Whipple,"Salem, Ore.",womens volleyball,arizona
-413,Devyn Cross,"Edwards Air Force Base, Calif.",womens volleyball,arizona
-414,Gabriella Halcovich,"Palm Springs, Calif.",womens volleyball,arizona
-415,Sara Watanabe,"Honolulu, Hawaii",womens volleyball,arizona
-416,Elizabeth Shelton,"Edwards Air Force Base, Calif.",womens volleyball,arizona
-417,McKenzie Jacobson,"Fresno, Calif.",womens volleyball,arizona
-418,Kelly O'Neil,"Louisville, Ky.",womens volleyball,arizona
-419,Makenna Martin,"Gilbert, Ariz.",womens volleyball,arizona
-420,Jade Turner,"Bakersfield, Calif.",womens volleyball,arizona
-421,Tyler Spriggs,"Los Angeles, Calif.",womens volleyball,arizona
-422,Payton Bellows,"Southwick, Mass.",womens gymnastics,arizona
-423,Christina  Berg,"Tinley Park, IL",womens gymnastics,arizona
-424,Madison Cindric,"Lantana, Tex.",womens gymnastics,arizona
-425,Courtney Cowles,"Canton, CT",womens gymnastics,arizona
-426,Sydney Freidin,"Westchester, Calif.",womens gymnastics,arizona
-427,Haylie Hendrickson,"Fort Wayne, Ind.",womens gymnastics,arizona
-428,Laura Leigh Horton,"Houston, Texas",womens gymnastics,arizona
-429,Jenny Leung,"Houston, TX",womens gymnastics,arizona
-430,Maddi Leydin,"Melbourne, VIC, AUS",womens gymnastics,arizona
-431,Lauryn Mattson,"Waconia, Minn.",womens gymnastics,arizona
-432,Victoria Ortiz,"Tucson, Ariz.",womens gymnastics,arizona
-433,Adra Parks,"West Des Moines, Iowa",womens gymnastics,arizona
-434,Kennady Schneider,"Henderson, Nev.",womens gymnastics,arizona
-435,Danielle Spencer,"Scottsdale, Ariz.",womens gymnastics,arizona
-436,Heather Swanson,"Parkland, FL",womens gymnastics,arizona
-437,Natalie Anselmo,"Los Angeles, Calif.",womens beach volleyball,arizona
-438,Makenna Martin,"Gilbert, Ariz.",womens beach volleyball,arizona
-439,Jordan Abalos,"Safford, Ariz.",womens beach volleyball,arizona
-440,Chelsey Harris,"Houston, Texas",womens beach volleyball,arizona
-441,Olivia Macdonald,"Piopio, New Zealand",womens beach volleyball,arizona
-442,Jonny Baham,"Carlsbad, Calif.",womens beach volleyball,arizona
-443,Stephany Purdue,"Mesa, Ariz.",womens beach volleyball,arizona
-444,Jaclyn Inclan,"Tucson, Ariz.",womens beach volleyball,arizona
-445,Kacey Nady,"San Diego, Calif.",womens beach volleyball,arizona
-446,Mia Mason,"Manhattan Beach, Calif.",womens beach volleyball,arizona
-447,Caroline Cordes,"Naperville, Illinois",womens beach volleyball,arizona
-448,Brooke Burling,"Naperville, Illinois",womens beach volleyball,arizona
-449,Olivia Hallaran,"Mesa, Arizona",womens beach volleyball,arizona
-450,Sara Watanabe,"Honolulu, Hawaii",womens beach volleyball,arizona
-451,Candice Denny,"Saratoga, Calif.",womens beach volleyball,arizona
-452,Hailey Devlin,"San Diego, Calif.",womens beach volleyball,arizona
+390,Ivy Davis,"Huntington Beach, Calif.",softball,arizona
+391,Lexi Harrington,"Granite Bay, Calif.",softball,arizona
+392,Malia Martinez,"Poway, Calif.",softball,arizona
+393,Taylor McQuillin,"Mission Viejo, Calif",softball,arizona
+394,Jessie Harper,"Stevenson Ranch, Calif.",softball,arizona
+395,Hanah Bowen,"Ramona, Calif.",softball,arizona
+396,Alyssa Denham,"Alvin, Texas",softball,arizona
+397,Gina Snyder,"Tucson, Ariz.",softball,arizona
+398,Ashleigh Hughes,"Antelope, Calif.",softball,arizona
+399,Alyssa Palomino,"Mission Viejo, Calif.",softball,arizona
+400,Joelle Krist,"Petaluma, Calif.",softball,arizona
+401,Jenna Kean,"Los Alamitos, Calif.",softball,arizona
+402,Tamara Statman,"Scottsdale, Ariz.",softball,arizona
+403,Kimberly Gutierrez,"Tijuana, Mexico",womens volleyball,arizona
+404,Candice Denny,"Saratoga, Calif.",womens volleyball,arizona
+405,Shardonee Hayes,"Columbus, Ga.",womens volleyball,arizona
+406,Julia Patterson,"Los Alamitos, Calif.",womens volleyball,arizona
+407,Victoria Svorinic,"Scottsdale, Ariz.",womens volleyball,arizona
+408,Katie Smoot,"San Mateo, Calif.",womens volleyball,arizona
+409,Mackenzie Hernandez,"Bakersfield, Calif.",womens volleyball,arizona
+410,Kendra Dahlke,"Bonsall, Calif.",womens volleyball,arizona
+411,Paige Whipple,"Salem, Ore.",womens volleyball,arizona
+412,Devyn Cross,"Edwards Air Force Base, Calif.",womens volleyball,arizona
+413,Gabriella Halcovich,"Palm Springs, Calif.",womens volleyball,arizona
+414,Sara Watanabe,"Honolulu, Hawaii",womens volleyball,arizona
+415,Elizabeth Shelton,"Edwards Air Force Base, Calif.",womens volleyball,arizona
+416,McKenzie Jacobson,"Fresno, Calif.",womens volleyball,arizona
+417,Kelly O'Neil,"Louisville, Ky.",womens volleyball,arizona
+418,Makenna Martin,"Gilbert, Ariz.",womens volleyball,arizona
+419,Jade Turner,"Bakersfield, Calif.",womens volleyball,arizona
+420,Tyler Spriggs,"Los Angeles, Calif.",womens volleyball,arizona
+421,Payton Bellows,"Southwick, Mass.",womens gymnastics,arizona
+422,Christina  Berg,"Tinley Park, IL",womens gymnastics,arizona
+423,Madison Cindric,"Lantana, Tex.",womens gymnastics,arizona
+424,Courtney Cowles,"Canton, CT",womens gymnastics,arizona
+425,Sydney Freidin,"Westchester, Calif.",womens gymnastics,arizona
+426,Haylie Hendrickson,"Fort Wayne, Ind.",womens gymnastics,arizona
+427,Laura Leigh Horton,"Houston, Texas",womens gymnastics,arizona
+428,Jenny Leung,"Houston, TX",womens gymnastics,arizona
+429,Maddi Leydin,"Melbourne, VIC, AUS",womens gymnastics,arizona
+430,Lauryn Mattson,"Waconia, Minn.",womens gymnastics,arizona
+431,Victoria Ortiz,"Tucson, Ariz.",womens gymnastics,arizona
+432,Adra Parks,"West Des Moines, Iowa",womens gymnastics,arizona
+433,Kennady Schneider,"Henderson, Nev.",womens gymnastics,arizona
+434,Danielle Spencer,"Scottsdale, Ariz.",womens gymnastics,arizona
+435,Heather Swanson,"Parkland, FL",womens gymnastics,arizona
+436,Natalie Anselmo,"Los Angeles, Calif.",womens beach volleyball,arizona
+437,Makenna Martin,"Gilbert, Ariz.",womens beach volleyball,arizona
+438,Jordan Abalos,"Safford, Ariz.",womens beach volleyball,arizona
+439,Chelsey Harris,"Houston, Texas",womens beach volleyball,arizona
+440,Olivia Macdonald,"Piopio, New Zealand",womens beach volleyball,arizona
+441,Jonny Baham,"Carlsbad, Calif.",womens beach volleyball,arizona
+442,Stephany Purdue,"Mesa, Ariz.",womens beach volleyball,arizona
+443,Jaclyn Inclan,"Tucson, Ariz.",womens beach volleyball,arizona
+444,Kacey Nady,"San Diego, Calif.",womens beach volleyball,arizona
+445,Mia Mason,"Manhattan Beach, Calif.",womens beach volleyball,arizona
+446,Caroline Cordes,"Naperville, Illinois",womens beach volleyball,arizona
+447,Brooke Burling,"Naperville, Illinois",womens beach volleyball,arizona
+448,Olivia Hallaran,"Mesa, Arizona",womens beach volleyball,arizona
+449,Sara Watanabe,"Honolulu, Hawaii",womens beach volleyball,arizona
+450,Candice Denny,"Saratoga, Calif.",womens beach volleyball,arizona
+451,Hailey Devlin,"San Diego, Calif.",womens beach volleyball,arizona
