@@ -42,7 +42,7 @@
 
 ****************************************************************************
 // _match_state_abbrev
-
+* attempts to merge the state variable with all possible types in state_abbrevs
 quietly {
 	preserve
 

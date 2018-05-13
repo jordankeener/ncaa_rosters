@@ -194,36 +194,31 @@
 27,William Howard,"Chester, Va. / Trinity Episcopal School",mens soccer,louisville
 28,Trey Miller,"Monson, Mass. / Monson",mens soccer,louisville
 29,Jake Gelnovatch,"Earlysville, Va. / Albemarle",mens soccer,louisville
-0,Will Meyer,"Solon, Ohio / Solon",womens soccer,louisville
-1,Ziyad Fekri,"Rabat, Morocco / André Malraux School",womens soccer,louisville
-2,Chris DeMartino,"Potomac, Md. / Our Lady of Good Counsel",womens soccer,louisville
-3,Adrien Cabon,"Lyon, France / Lycée Frédéric Fays",womens soccer,louisville
-4,Adam Wilson,"Auchterarder, Scotland / Dollar Academy",womens soccer,louisville
-5,Geoffrey Dee,"Germantown, Tenn. / Shattuck St. Mary's",womens soccer,louisville
-6,Elijah Amo,"Lothian, Md. / Southern",womens soccer,louisville
-7,Hamam El-Fitouri,"Manchester, England / Stretford",womens soccer,louisville
-8,Tate Schmitt,"Phoenix, Ariz. / Desert Vista",womens soccer,louisville
-9,Mohamed Thiaw,"Lexington, Ky. / Bryan Station",womens soccer,louisville
-10,Sawyer Edwards,"Parker, Colo. / Chaparral",womens soccer,louisville
-11,Cherif Dieye,"Dakar, Senegal / IMG Academy",womens soccer,louisville
-12,Walker Andriot,"Shelbyville, Ky. / Martha Layne Collins",womens soccer,louisville
-13,Campbell Weyland,"Pewee Valley, Ky. / St. Xavier",womens soccer,louisville
-14,Connor Brazil,"Chesterfield, Mich. / Anchor Bay",womens soccer,louisville
-15,JP Armbruster,"Nashville, Tenn. / Father Ryan",womens soccer,louisville
-16,Kotaro Umeda,"Mayfield Heights, Ohio / Mayfield",womens soccer,louisville
-17,Danny Reynolds,"Shilton, England / Hartpury College",womens soccer,louisville
-18,Alec-Michael Petrizzi,"Wellington, Fla. / Oxbridge Academy",womens soccer,louisville
-19,Cody Cochran,"Louisville, Ky. / DeSales",womens soccer,louisville
-20,Watterson Young,"Vestavia Hills, Ala. / Vestavia Hills",womens soccer,louisville
-21,Liam Bennett,"Leeds, England / Cardinal Heenan Catholic",womens soccer,louisville
-22,Izaiah Jennings,"Barrington, R.I. / Barrington",womens soccer,louisville
-23,Joey Kunkel,"Cincinnati, Ohio / Summit Country                                            Day",womens soccer,louisville
-24,Chaz Andriot,"Shelbyville, Ky. / Martha Layne Collins",womens soccer,louisville
-25,Cameron Wheeler,"Louisville, Ky. / Collegiate",womens soccer,louisville
-26,Tim Kubel,"Stuttgart, Germany / Goethe Gymnasium                                            Dortmund",womens soccer,louisville
-27,William Howard,"Chester, Va. / Trinity Episcopal School",womens soccer,louisville
-28,Trey Miller,"Monson, Mass. / Monson",womens soccer,louisville
-29,Jake Gelnovatch,"Earlysville, Va. / Albemarle",womens soccer,louisville
+0,Gabby Kouzelos,"Wadsworth, Ohio / Cuvahoga Valley Christian",womens soccer,louisville
+1,Morgan Dewey,"Johns Creek, Ga.  / Blessed Trinity Catholic HS",womens soccer,louisville
+2,Nadege L'Esperance,"Candiac, Quebec, Canada  / Saint Anne College",womens soccer,louisville
+3,Shelby Cohen,"LaGrange, Ky. / Oldham County HS",womens soccer,louisville
+4,Victoria Gabor,"White Hall, Md. / Notre Dame Prep",womens soccer,louisville
+5,Arianna Ferraro,"Manalapan, N.J. / Manalapan HS",womens soccer,louisville
+6,Sanela Hodzic,"Highlands Ranch, Colo. / Thunderridge HS",womens soccer,louisville
+7,Niamh Nelson,"San Diego, Calif. / Cathedral Catholic HS",womens soccer,louisville
+8,Mollie Rouse,"Warwichshire, England  / Stratford upon Avon School",womens soccer,louisville
+9,Emina Ekic,"Louisville, Ky.  / DuPont Manual HS",womens soccer,louisville
+10,Daryl Bell,"Sarasota, Fla.",womens soccer,louisville
+11,Bailey Florek,"Colorado Springs, Colo. / Rampart HS",womens soccer,louisville
+12,Brooklynn Rivers,"Fort Thomas, Ky. / Highlands HS",womens soccer,louisville
+13,Gabrielle Vincent,"Columbia, Md. / McDonogh School",womens soccer,louisville
+14,Callie McKinney,"Franklin, Tenn. / Franklin HS",womens soccer,louisville
+15,Sarah Feola,"Quebec, Canada / Lester B. Pearson HS",womens soccer,louisville
+16,Inger Katrine Bjerke,"Baerum, Norway / Nadderud VGS",womens soccer,louisville
+17,Lana Batson,"San Diego, Calif.  / Patrick Henry HS",womens soccer,louisville
+18,Taylor Kerwin,"Whitefish Bay, Wis.  / Whitefish Bay HS",womens soccer,louisville
+19,Alison Price,"Clemmons, N.C. / West Forsyth HS",womens soccer,louisville
+20,Morgan Everett,"Kernersville, N.C.  / East Forsyth HS",womens soccer,louisville
+21,Kaela Dickerman,"Cedar Rapids, Iowa / John F. Kennedy                                            HS",womens soccer,louisville
+22,Allison Whitfield,"Louisville, Ky.  / DuPont Manual HS",womens soccer,louisville
+23,Kennadi Carbin,"Louisville, Ky.  / Mississippi State",womens soccer,louisville
+24,TJ Anderson,"Atlanta, Ga.  / Wesleyan School",womens soccer,louisville
 0,Ben Ewert,"Beavercreek, Ohio / Beavercreek",mens cross country,louisville
 1,Daniel Fleace,"Ramsey, Ind. / North Harrison",mens cross country,louisville
 2,Albert Kosgei,"Iten, Kenya / St. Francis Kimuron",mens cross country,louisville
@@ -267,7 +262,6 @@
 6,Molly Skapik,"Miamisburg, Ohio / Miamisburg",womens golf,louisville
 7,Jordan Susce,"Birmingham, Ala. / Spain Park",womens golf,louisville
 8,Linda Trockel,"Berlin, Germany / Heritage Academy (S.C.)",womens golf,louisville
-9,Jacqueline Twitty,"Chapin, S.C. / Chapin",womens golf,louisville
 0,Marcelo Acosta,"San Salvador, El Salvador / Colegio San Francisco",mens swimming,louisville
 1,Nicolas Albiero,"Louisville, Ky. / Christian Academy of Louisville",mens swimming,louisville
 2,Abel Aulbach,"Petersburg, Alaska / Petersburg High School",mens swimming,louisville
@@ -478,36 +472,33 @@
 18,Lucie Heranova,"Prague, Czech Republic",womens rowing,louisville
 19,Grace Herbert,"Seattle, Wash.",womens rowing,louisville
 20,Perie Howard,"Lewisburg, Pa.",womens rowing,louisville
-21,Gabrielle Jenkins,"Louisville, Ky.",womens rowing,louisville
-22,Haylee Judge,"Traverse City, Mich.",womens rowing,louisville
-23,Lauren Kelly,"Alexandria, Va.",womens rowing,louisville
-24,Riley Kerber,"Marietta, Ga.",womens rowing,louisville
-25,Jordan Kraski,"Arlington, Wash.",womens rowing,louisville
-26,Violette Legrand,"Paris, France",womens rowing,louisville
-27,Madison Luette,"Louisville, Ky.",womens rowing,louisville
-28,Caroline Lynch,"Winchester, Ky.",womens rowing,louisville
-29,Maria Macaluso,"Louisville, Ky.",womens rowing,louisville
-30,Callie McGowan,"Sewickley, Pa.",womens rowing,louisville
-31,Madison Meister,"Kailua, Hawaii",womens rowing,louisville
-32,Caroline Mouser,"Henderson, Ky.",womens rowing,louisville
-33,Madison Myers,"Tallahassee, Fla.",womens rowing,louisville
-34,Elizabeth Patrick,"Dallas, Texas",womens rowing,louisville
-35,Caitlyn Pike,"Windermere, Fla.",womens rowing,louisville
-36,Sarah Podwojski,"Roswell, Ga.",womens rowing,louisville
-37,Caitlin Ponko,"Cranston, R.I.",womens rowing,louisville
-38,Hannah Richardson,"Prospect, Ky.",womens rowing,louisville
-39,Rachael Schmetzer,"Louisville, Ky.",womens rowing,louisville
-40,Sophie Schulz,"Louisville, Ky.",womens rowing,louisville
-41,Morgan Senogles,"Knoxville, Tenn.",womens rowing,louisville
-42,Samantha Stoll,"Absecon, N.J.",womens rowing,louisville
-43,Kim Streetz,"Springboro, Ohio",womens rowing,louisville
-44,Leah Stump,"Altamonte Springs, Fla.",womens rowing,louisville
-45,Kaitlin Ulbert,"Chicago, Ill.",womens rowing,louisville
-46,McKenzie Vaughn,"Milwaukee, Wis.",womens rowing,louisville
-47,Brynna Walchle,"Cincinnati, Ohio",womens rowing,louisville
-48,Tress Wiggington,"Louisville, Ky.",womens rowing,louisville
-49,Rebecca Yaklic,"Dayton, Ohio",womens rowing,louisville
-50,Allison Zimmermann,"Orlando, Fla.",womens rowing,louisville
+21,Haylee Judge,"Traverse City, Mich.",womens rowing,louisville
+22,Lauren Kelly,"Alexandria, Va.",womens rowing,louisville
+23,Riley Kerber,"Marietta, Ga.",womens rowing,louisville
+24,Jordan Kraski,"Arlington, Wash.",womens rowing,louisville
+25,Violette Legrand,"Paris, France",womens rowing,louisville
+26,Madison Luette,"Louisville, Ky.",womens rowing,louisville
+27,Caroline Lynch,"Winchester, Ky.",womens rowing,louisville
+28,Maria Macaluso,"Louisville, Ky.",womens rowing,louisville
+29,Callie McGowan,"Sewickley, Pa.",womens rowing,louisville
+30,Madison Meister,"Kailua, Hawaii",womens rowing,louisville
+31,Elizabeth Patrick,"Dallas, Texas",womens rowing,louisville
+32,Caitlyn Pike,"Windermere, Fla.",womens rowing,louisville
+33,Sarah Podwojski,"Roswell, Ga.",womens rowing,louisville
+34,Caitlin Ponko,"Cranston, R.I.",womens rowing,louisville
+35,Hannah Richardson,"Prospect, Ky.",womens rowing,louisville
+36,Rachael Schmetzer,"Louisville, Ky.",womens rowing,louisville
+37,Sophie Schulz,"Louisville, Ky.",womens rowing,louisville
+38,Morgan Senogles,"Knoxville, Tenn.",womens rowing,louisville
+39,Samantha Stoll,"Absecon, N.J.",womens rowing,louisville
+40,Kim Streetz,"Springboro, Ohio",womens rowing,louisville
+41,Leah Stump,"Altamonte Springs, Fla.",womens rowing,louisville
+42,Kaitlin Ulbert,"Chicago, Ill.",womens rowing,louisville
+43,McKenzie Vaughn,"Milwaukee, Wis.",womens rowing,louisville
+44,Brynna Walchle,"Cincinnati, Ohio",womens rowing,louisville
+45,Tress Wiggington,"Louisville, Ky.",womens rowing,louisville
+46,Rebecca Yaklic,"Dayton, Ohio",womens rowing,louisville
+47,Allison Zimmermann,"Orlando, Fla.",womens rowing,louisville
 0,Maddy Newman,"Osceola, Ind. / Penn",softball,louisville
 1,Blaire Bass,"New Roads, La. / Catholic of Pointe Coupee",softball,louisville
 2,Riley Schindler,"Borden, Ind. / Borden",softball,louisville

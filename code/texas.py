@@ -18,7 +18,7 @@ outdir = '../output'
 ##### texas #################
 full_df = pd.DataFrame()
 school = 'texas'
-url_template = 'http://texassports.com/roster.aspx?path=football'
+url_template = 'http://texassports.com/roster.aspx?path={sporturl}'
 classname = 'sidearm-roster-players'
 
 sports_dict = lookups.get_sports_dict()
@@ -35,7 +35,7 @@ sports_dict['womens swimming'] = ['wswim']
 sports_dict['mens tennis'] = ['mten']
 sports_dict['womens tennis'] = ['wten']
 sports_dict['mens track'] = ['xc_tf']
-# sports_dict['womens track'] = ['xc_tf']
+sports_dict['womens track'] = ['xc_tf']
 sports_dict['womens volleyball'] = ['wvball']
 sports_dict['womens rowing'] = ['wrow']
 sports_dict['softball'] = ['softball']

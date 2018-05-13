@@ -1,1246 +1,453 @@
 ,name,hometown,sport,school
-0,John Burt,"Tallahassee, Fla.",mens basketball,texas
-1,Kris Boyd,"Gilmer, Texas",mens basketball,texas
-2,Cameron Rising,"Ventura, Calif.",mens basketball,texas
-3,Anthony Cook,"Houston, Texas",mens basketball,texas
-4,Devin Duvernay,"Sachse, Texas",mens basketball,texas
-5,Shane Buechele,"Arlington, Texas",mens basketball,texas
-6,Caden Sterns,"Cibolo, Texas",mens basketball,texas
-7,Ryan Bujcevski,"Sydney, Australia",mens basketball,texas
-8,Casey Thompson,"Newcastle, Okla.",mens basketball,texas
-9,Collin Johnson,"San Jose, Calif.",mens basketball,texas
-10,Sam Ehlinger,"Austin, Texas",mens basketball,texas
-11,P.J. Locke III,"Beaumont, Texas",mens basketball,texas
-12,Jerrod Heard,"Denton, Texas",mens basketball,texas
-13,Chris Brown,"Houston, Texas",mens basketball,texas
-14,Davion Curtis,"Temple, Texas",mens basketball,texas
-15,Davante Davis,"Miami, Fla.",mens basketball,texas
-16,Brandon Jones,"Nacogdoches, Texas",mens basketball,texas
-17,Kyle Porter,"Katy, Texas",mens basketball,texas
-18,Jeffrey McCulloch,"Houston, Texas",mens basketball,texas
-19,John Bonney,"Houston, Texas",mens basketball,texas
-20,B.J. Foster,"Angleton, Texas",mens basketball,texas
-21,Eric Cuffee,"Waco, Texas",mens basketball,texas
-22,Donovan Duvernay,"Sachse, Texas",mens basketball,texas
-23,Jarmarquis Durst,"Conroe, Texas",mens basketball,texas
-24,Kirk Johnson,"San Jose, Calif.",mens basketball,texas
-25,Josh Thompson,"Nacogdoches, Texas",mens basketball,texas
-26,Toneil Carter,"Houston, Texas",mens basketball,texas
-27,Kyle Hrncir,"San Antonio, Texas",mens basketball,texas
-28,Malcolm Roach,"Baton Rouge, La.",mens basketball,texas
-29,Daniel Young,"Houston, Texas",mens basketball,texas
-30,Gary  Johnson,"Douglas, Ala.",mens basketball,texas
-31,Tim Yoder,"Plano, Texas",mens basketball,texas
-32,Edwin Freeman,"Arlington, Texas",mens basketball,texas
-33,Russell Hine,"Austin, Texas",mens basketball,texas
-34,Demarco Boyd,"Gilmer, Texas",mens basketball,texas
-35,Chase Moore,"Los Angeles, Calif.",mens basketball,texas
-36,Kobe Boyce,"Corinth, Texas",mens basketball,texas
-37,Jack Geiger,"San Jose, Calif.",mens basketball,texas
-38,Montrell Estell,"Hooks, Texas",mens basketball,texas
-39,Edward Pequeno,"McAllen, Texas",mens basketball,texas
-40,Ayodele Adeoye,"St. Louis, Mo.",mens basketball,texas
-41,Hank Coutoumanos,"Southlake, Texas",mens basketball,texas
-42,Tristian Houston,"Galena Park, Texas",mens basketball,texas
-43,Marqez Bimage,"Brenham, Texas",mens basketball,texas
-44,Cameron Townsend,"Missouri City, Texas",mens basketball,texas
-45,Breckyn Hager,"Austin, Texas",mens basketball,texas
-46,Chris Naggar,"Arlington, Texas",mens basketball,texas
-47,Anthony Wheeler,"Dallas, Texas",mens basketball,texas
-48,Andrew Beck,"Tampa, Fla.",mens basketball,texas
-49,Andrew Fitzgerald,"Flower Mound, Texas",mens basketball,texas
-50,Ta'Quon Graham,"Temple, Texas",mens basketball,texas
-51,Joshua Rowland,"Madison, Miss.",mens basketball,texas
-52,Hayden Bruce,"Leander, Texas",mens basketball,texas
-53,Samuel Cosmi,"Humble, Texas",mens basketball,texas
-54,Jak Holbrook,"Austin, Texas",mens basketball,texas
-55,D'Andre Christmas,"New Orleans, La.",mens basketball,texas
-56,Zach Shackelford,"Belton, Texas",mens basketball,texas
-57,Cort Jaquess,"San Antonio, Texas",mens basketball,texas
-58,Mikey Grandy,"San Jose, Calif.",mens basketball,texas
-59,Ishan Rison,"Katy, Texas",mens basketball,texas
-60,Tope Imade,"Arlington, Texas",mens basketball,texas
-61,Derek Kerstetter,"San Antonio, Texas",mens basketball,texas
-62,Austin Allsup,"Austin, Texas",mens basketball,texas
-63,J.P. Urquidez,"Copperas Cove, Texas",mens basketball,texas
-64,Elijah Rodriguez,"Houston, Texas",mens basketball,texas
-65,Patrick Hudson,"Silsbee, Texas",mens basketball,texas
-66,Patrick Vahe,"Euless, Texas",mens basketball,texas
-67,Denzel Okafor,"Lewisville, Texas",mens basketball,texas
-68,Cade Brewer,"Austin, Texas",mens basketball,texas
-69,Reese Leitao,"Jenks, Okla.",mens basketball,texas
-70,Brennan Eagles,"Houston, Texas",mens basketball,texas
-71,Michael David Poujol,"Houston, Texas",mens basketball,texas
-72,Lil'Jordan Humphrey,"Southlake, Texas",mens basketball,texas
-73,Philipp Moeller,"Plano, Texas",mens basketball,texas
-74,Jordan Pouncey,"Winter Park, Fla.",mens basketball,texas
-75,Austin Hibbetts,"Cypress, Texas",mens basketball,texas
-76,Kai Jarmon,"Los Altos, Calif.",mens basketball,texas
-77,Max Cummins,"Fort Worth, Texas",mens basketball,texas
-78,Chris Fehr,"Austin, Texas",mens basketball,texas
-79,Charles Omenihu,"Rowlett, Texas",mens basketball,texas
-80,Jamari Chisholm,"Valdosta, Ga.",mens basketball,texas
-81,Gerald Wilbon,"Saint Rose, La.",mens basketball,texas
-82,Chris Nelson,"Lakeland, Fla.",mens basketball,texas
-83,John Burt,"Tallahassee, Fla.",womens basketball,texas
-84,Kris Boyd,"Gilmer, Texas",womens basketball,texas
-85,Cameron Rising,"Ventura, Calif.",womens basketball,texas
-86,Anthony Cook,"Houston, Texas",womens basketball,texas
-87,Devin Duvernay,"Sachse, Texas",womens basketball,texas
-88,Shane Buechele,"Arlington, Texas",womens basketball,texas
-89,Caden Sterns,"Cibolo, Texas",womens basketball,texas
-90,Ryan Bujcevski,"Sydney, Australia",womens basketball,texas
-91,Casey Thompson,"Newcastle, Okla.",womens basketball,texas
-92,Collin Johnson,"San Jose, Calif.",womens basketball,texas
-93,Sam Ehlinger,"Austin, Texas",womens basketball,texas
-94,P.J. Locke III,"Beaumont, Texas",womens basketball,texas
-95,Jerrod Heard,"Denton, Texas",womens basketball,texas
-96,Chris Brown,"Houston, Texas",womens basketball,texas
-97,Davion Curtis,"Temple, Texas",womens basketball,texas
-98,Davante Davis,"Miami, Fla.",womens basketball,texas
-99,Brandon Jones,"Nacogdoches, Texas",womens basketball,texas
-100,Kyle Porter,"Katy, Texas",womens basketball,texas
-101,Jeffrey McCulloch,"Houston, Texas",womens basketball,texas
-102,John Bonney,"Houston, Texas",womens basketball,texas
-103,B.J. Foster,"Angleton, Texas",womens basketball,texas
-104,Eric Cuffee,"Waco, Texas",womens basketball,texas
-105,Donovan Duvernay,"Sachse, Texas",womens basketball,texas
-106,Jarmarquis Durst,"Conroe, Texas",womens basketball,texas
-107,Kirk Johnson,"San Jose, Calif.",womens basketball,texas
-108,Josh Thompson,"Nacogdoches, Texas",womens basketball,texas
-109,Toneil Carter,"Houston, Texas",womens basketball,texas
-110,Kyle Hrncir,"San Antonio, Texas",womens basketball,texas
-111,Malcolm Roach,"Baton Rouge, La.",womens basketball,texas
-112,Daniel Young,"Houston, Texas",womens basketball,texas
-113,Gary  Johnson,"Douglas, Ala.",womens basketball,texas
-114,Tim Yoder,"Plano, Texas",womens basketball,texas
-115,Edwin Freeman,"Arlington, Texas",womens basketball,texas
-116,Russell Hine,"Austin, Texas",womens basketball,texas
-117,Demarco Boyd,"Gilmer, Texas",womens basketball,texas
-118,Chase Moore,"Los Angeles, Calif.",womens basketball,texas
-119,Kobe Boyce,"Corinth, Texas",womens basketball,texas
-120,Jack Geiger,"San Jose, Calif.",womens basketball,texas
-121,Montrell Estell,"Hooks, Texas",womens basketball,texas
-122,Edward Pequeno,"McAllen, Texas",womens basketball,texas
-123,Ayodele Adeoye,"St. Louis, Mo.",womens basketball,texas
-124,Hank Coutoumanos,"Southlake, Texas",womens basketball,texas
-125,Tristian Houston,"Galena Park, Texas",womens basketball,texas
-126,Marqez Bimage,"Brenham, Texas",womens basketball,texas
-127,Cameron Townsend,"Missouri City, Texas",womens basketball,texas
-128,Breckyn Hager,"Austin, Texas",womens basketball,texas
-129,Chris Naggar,"Arlington, Texas",womens basketball,texas
-130,Anthony Wheeler,"Dallas, Texas",womens basketball,texas
-131,Andrew Beck,"Tampa, Fla.",womens basketball,texas
-132,Andrew Fitzgerald,"Flower Mound, Texas",womens basketball,texas
-133,Ta'Quon Graham,"Temple, Texas",womens basketball,texas
-134,Joshua Rowland,"Madison, Miss.",womens basketball,texas
-135,Hayden Bruce,"Leander, Texas",womens basketball,texas
-136,Samuel Cosmi,"Humble, Texas",womens basketball,texas
-137,Jak Holbrook,"Austin, Texas",womens basketball,texas
-138,D'Andre Christmas,"New Orleans, La.",womens basketball,texas
-139,Zach Shackelford,"Belton, Texas",womens basketball,texas
-140,Cort Jaquess,"San Antonio, Texas",womens basketball,texas
-141,Mikey Grandy,"San Jose, Calif.",womens basketball,texas
-142,Ishan Rison,"Katy, Texas",womens basketball,texas
-143,Tope Imade,"Arlington, Texas",womens basketball,texas
-144,Derek Kerstetter,"San Antonio, Texas",womens basketball,texas
-145,Austin Allsup,"Austin, Texas",womens basketball,texas
-146,J.P. Urquidez,"Copperas Cove, Texas",womens basketball,texas
-147,Elijah Rodriguez,"Houston, Texas",womens basketball,texas
-148,Patrick Hudson,"Silsbee, Texas",womens basketball,texas
-149,Patrick Vahe,"Euless, Texas",womens basketball,texas
-150,Denzel Okafor,"Lewisville, Texas",womens basketball,texas
-151,Cade Brewer,"Austin, Texas",womens basketball,texas
-152,Reese Leitao,"Jenks, Okla.",womens basketball,texas
-153,Brennan Eagles,"Houston, Texas",womens basketball,texas
-154,Michael David Poujol,"Houston, Texas",womens basketball,texas
-155,Lil'Jordan Humphrey,"Southlake, Texas",womens basketball,texas
-156,Philipp Moeller,"Plano, Texas",womens basketball,texas
-157,Jordan Pouncey,"Winter Park, Fla.",womens basketball,texas
-158,Austin Hibbetts,"Cypress, Texas",womens basketball,texas
-159,Kai Jarmon,"Los Altos, Calif.",womens basketball,texas
-160,Max Cummins,"Fort Worth, Texas",womens basketball,texas
-161,Chris Fehr,"Austin, Texas",womens basketball,texas
-162,Charles Omenihu,"Rowlett, Texas",womens basketball,texas
-163,Jamari Chisholm,"Valdosta, Ga.",womens basketball,texas
-164,Gerald Wilbon,"Saint Rose, La.",womens basketball,texas
-165,Chris Nelson,"Lakeland, Fla.",womens basketball,texas
-166,John Burt,"Tallahassee, Fla.",baseball,texas
-167,Kris Boyd,"Gilmer, Texas",baseball,texas
-168,Cameron Rising,"Ventura, Calif.",baseball,texas
-169,Anthony Cook,"Houston, Texas",baseball,texas
-170,Devin Duvernay,"Sachse, Texas",baseball,texas
-171,Shane Buechele,"Arlington, Texas",baseball,texas
-172,Caden Sterns,"Cibolo, Texas",baseball,texas
-173,Ryan Bujcevski,"Sydney, Australia",baseball,texas
-174,Casey Thompson,"Newcastle, Okla.",baseball,texas
-175,Collin Johnson,"San Jose, Calif.",baseball,texas
-176,Sam Ehlinger,"Austin, Texas",baseball,texas
-177,P.J. Locke III,"Beaumont, Texas",baseball,texas
-178,Jerrod Heard,"Denton, Texas",baseball,texas
-179,Chris Brown,"Houston, Texas",baseball,texas
-180,Davion Curtis,"Temple, Texas",baseball,texas
-181,Davante Davis,"Miami, Fla.",baseball,texas
-182,Brandon Jones,"Nacogdoches, Texas",baseball,texas
-183,Kyle Porter,"Katy, Texas",baseball,texas
-184,Jeffrey McCulloch,"Houston, Texas",baseball,texas
-185,John Bonney,"Houston, Texas",baseball,texas
-186,B.J. Foster,"Angleton, Texas",baseball,texas
-187,Eric Cuffee,"Waco, Texas",baseball,texas
-188,Donovan Duvernay,"Sachse, Texas",baseball,texas
-189,Jarmarquis Durst,"Conroe, Texas",baseball,texas
-190,Kirk Johnson,"San Jose, Calif.",baseball,texas
-191,Josh Thompson,"Nacogdoches, Texas",baseball,texas
-192,Toneil Carter,"Houston, Texas",baseball,texas
-193,Kyle Hrncir,"San Antonio, Texas",baseball,texas
-194,Malcolm Roach,"Baton Rouge, La.",baseball,texas
-195,Daniel Young,"Houston, Texas",baseball,texas
-196,Gary  Johnson,"Douglas, Ala.",baseball,texas
-197,Tim Yoder,"Plano, Texas",baseball,texas
-198,Edwin Freeman,"Arlington, Texas",baseball,texas
-199,Russell Hine,"Austin, Texas",baseball,texas
-200,Demarco Boyd,"Gilmer, Texas",baseball,texas
-201,Chase Moore,"Los Angeles, Calif.",baseball,texas
-202,Kobe Boyce,"Corinth, Texas",baseball,texas
-203,Jack Geiger,"San Jose, Calif.",baseball,texas
-204,Montrell Estell,"Hooks, Texas",baseball,texas
-205,Edward Pequeno,"McAllen, Texas",baseball,texas
-206,Ayodele Adeoye,"St. Louis, Mo.",baseball,texas
-207,Hank Coutoumanos,"Southlake, Texas",baseball,texas
-208,Tristian Houston,"Galena Park, Texas",baseball,texas
-209,Marqez Bimage,"Brenham, Texas",baseball,texas
-210,Cameron Townsend,"Missouri City, Texas",baseball,texas
-211,Breckyn Hager,"Austin, Texas",baseball,texas
-212,Chris Naggar,"Arlington, Texas",baseball,texas
-213,Anthony Wheeler,"Dallas, Texas",baseball,texas
-214,Andrew Beck,"Tampa, Fla.",baseball,texas
-215,Andrew Fitzgerald,"Flower Mound, Texas",baseball,texas
-216,Ta'Quon Graham,"Temple, Texas",baseball,texas
-217,Joshua Rowland,"Madison, Miss.",baseball,texas
-218,Hayden Bruce,"Leander, Texas",baseball,texas
-219,Samuel Cosmi,"Humble, Texas",baseball,texas
-220,Jak Holbrook,"Austin, Texas",baseball,texas
-221,D'Andre Christmas,"New Orleans, La.",baseball,texas
-222,Zach Shackelford,"Belton, Texas",baseball,texas
-223,Cort Jaquess,"San Antonio, Texas",baseball,texas
-224,Mikey Grandy,"San Jose, Calif.",baseball,texas
-225,Ishan Rison,"Katy, Texas",baseball,texas
-226,Tope Imade,"Arlington, Texas",baseball,texas
-227,Derek Kerstetter,"San Antonio, Texas",baseball,texas
-228,Austin Allsup,"Austin, Texas",baseball,texas
-229,J.P. Urquidez,"Copperas Cove, Texas",baseball,texas
-230,Elijah Rodriguez,"Houston, Texas",baseball,texas
-231,Patrick Hudson,"Silsbee, Texas",baseball,texas
-232,Patrick Vahe,"Euless, Texas",baseball,texas
-233,Denzel Okafor,"Lewisville, Texas",baseball,texas
-234,Cade Brewer,"Austin, Texas",baseball,texas
-235,Reese Leitao,"Jenks, Okla.",baseball,texas
-236,Brennan Eagles,"Houston, Texas",baseball,texas
-237,Michael David Poujol,"Houston, Texas",baseball,texas
-238,Lil'Jordan Humphrey,"Southlake, Texas",baseball,texas
-239,Philipp Moeller,"Plano, Texas",baseball,texas
-240,Jordan Pouncey,"Winter Park, Fla.",baseball,texas
-241,Austin Hibbetts,"Cypress, Texas",baseball,texas
-242,Kai Jarmon,"Los Altos, Calif.",baseball,texas
-243,Max Cummins,"Fort Worth, Texas",baseball,texas
-244,Chris Fehr,"Austin, Texas",baseball,texas
-245,Charles Omenihu,"Rowlett, Texas",baseball,texas
-246,Jamari Chisholm,"Valdosta, Ga.",baseball,texas
-247,Gerald Wilbon,"Saint Rose, La.",baseball,texas
-248,Chris Nelson,"Lakeland, Fla.",baseball,texas
-249,John Burt,"Tallahassee, Fla.",football,texas
-250,Kris Boyd,"Gilmer, Texas",football,texas
-251,Cameron Rising,"Ventura, Calif.",football,texas
-252,Anthony Cook,"Houston, Texas",football,texas
-253,Devin Duvernay,"Sachse, Texas",football,texas
-254,Shane Buechele,"Arlington, Texas",football,texas
-255,Caden Sterns,"Cibolo, Texas",football,texas
-256,Ryan Bujcevski,"Sydney, Australia",football,texas
-257,Casey Thompson,"Newcastle, Okla.",football,texas
-258,Collin Johnson,"San Jose, Calif.",football,texas
-259,Sam Ehlinger,"Austin, Texas",football,texas
-260,P.J. Locke III,"Beaumont, Texas",football,texas
-261,Jerrod Heard,"Denton, Texas",football,texas
-262,Chris Brown,"Houston, Texas",football,texas
-263,Davion Curtis,"Temple, Texas",football,texas
-264,Davante Davis,"Miami, Fla.",football,texas
-265,Brandon Jones,"Nacogdoches, Texas",football,texas
-266,Kyle Porter,"Katy, Texas",football,texas
-267,Jeffrey McCulloch,"Houston, Texas",football,texas
-268,John Bonney,"Houston, Texas",football,texas
-269,B.J. Foster,"Angleton, Texas",football,texas
-270,Eric Cuffee,"Waco, Texas",football,texas
-271,Donovan Duvernay,"Sachse, Texas",football,texas
-272,Jarmarquis Durst,"Conroe, Texas",football,texas
-273,Kirk Johnson,"San Jose, Calif.",football,texas
-274,Josh Thompson,"Nacogdoches, Texas",football,texas
-275,Toneil Carter,"Houston, Texas",football,texas
-276,Kyle Hrncir,"San Antonio, Texas",football,texas
-277,Malcolm Roach,"Baton Rouge, La.",football,texas
-278,Daniel Young,"Houston, Texas",football,texas
-279,Gary  Johnson,"Douglas, Ala.",football,texas
-280,Tim Yoder,"Plano, Texas",football,texas
-281,Edwin Freeman,"Arlington, Texas",football,texas
-282,Russell Hine,"Austin, Texas",football,texas
-283,Demarco Boyd,"Gilmer, Texas",football,texas
-284,Chase Moore,"Los Angeles, Calif.",football,texas
-285,Kobe Boyce,"Corinth, Texas",football,texas
-286,Jack Geiger,"San Jose, Calif.",football,texas
-287,Montrell Estell,"Hooks, Texas",football,texas
-288,Edward Pequeno,"McAllen, Texas",football,texas
-289,Ayodele Adeoye,"St. Louis, Mo.",football,texas
-290,Hank Coutoumanos,"Southlake, Texas",football,texas
-291,Tristian Houston,"Galena Park, Texas",football,texas
-292,Marqez Bimage,"Brenham, Texas",football,texas
-293,Cameron Townsend,"Missouri City, Texas",football,texas
-294,Breckyn Hager,"Austin, Texas",football,texas
-295,Chris Naggar,"Arlington, Texas",football,texas
-296,Anthony Wheeler,"Dallas, Texas",football,texas
-297,Andrew Beck,"Tampa, Fla.",football,texas
-298,Andrew Fitzgerald,"Flower Mound, Texas",football,texas
-299,Ta'Quon Graham,"Temple, Texas",football,texas
-300,Joshua Rowland,"Madison, Miss.",football,texas
-301,Hayden Bruce,"Leander, Texas",football,texas
-302,Samuel Cosmi,"Humble, Texas",football,texas
-303,Jak Holbrook,"Austin, Texas",football,texas
-304,D'Andre Christmas,"New Orleans, La.",football,texas
-305,Zach Shackelford,"Belton, Texas",football,texas
-306,Cort Jaquess,"San Antonio, Texas",football,texas
-307,Mikey Grandy,"San Jose, Calif.",football,texas
-308,Ishan Rison,"Katy, Texas",football,texas
-309,Tope Imade,"Arlington, Texas",football,texas
-310,Derek Kerstetter,"San Antonio, Texas",football,texas
-311,Austin Allsup,"Austin, Texas",football,texas
-312,J.P. Urquidez,"Copperas Cove, Texas",football,texas
-313,Elijah Rodriguez,"Houston, Texas",football,texas
-314,Patrick Hudson,"Silsbee, Texas",football,texas
-315,Patrick Vahe,"Euless, Texas",football,texas
-316,Denzel Okafor,"Lewisville, Texas",football,texas
-317,Cade Brewer,"Austin, Texas",football,texas
-318,Reese Leitao,"Jenks, Okla.",football,texas
-319,Brennan Eagles,"Houston, Texas",football,texas
-320,Michael David Poujol,"Houston, Texas",football,texas
-321,Lil'Jordan Humphrey,"Southlake, Texas",football,texas
-322,Philipp Moeller,"Plano, Texas",football,texas
-323,Jordan Pouncey,"Winter Park, Fla.",football,texas
-324,Austin Hibbetts,"Cypress, Texas",football,texas
-325,Kai Jarmon,"Los Altos, Calif.",football,texas
-326,Max Cummins,"Fort Worth, Texas",football,texas
-327,Chris Fehr,"Austin, Texas",football,texas
-328,Charles Omenihu,"Rowlett, Texas",football,texas
-329,Jamari Chisholm,"Valdosta, Ga.",football,texas
-330,Gerald Wilbon,"Saint Rose, La.",football,texas
-331,Chris Nelson,"Lakeland, Fla.",football,texas
-332,John Burt,"Tallahassee, Fla.",womens soccer,texas
-333,Kris Boyd,"Gilmer, Texas",womens soccer,texas
-334,Cameron Rising,"Ventura, Calif.",womens soccer,texas
-335,Anthony Cook,"Houston, Texas",womens soccer,texas
-336,Devin Duvernay,"Sachse, Texas",womens soccer,texas
-337,Shane Buechele,"Arlington, Texas",womens soccer,texas
-338,Caden Sterns,"Cibolo, Texas",womens soccer,texas
-339,Ryan Bujcevski,"Sydney, Australia",womens soccer,texas
-340,Casey Thompson,"Newcastle, Okla.",womens soccer,texas
-341,Collin Johnson,"San Jose, Calif.",womens soccer,texas
-342,Sam Ehlinger,"Austin, Texas",womens soccer,texas
-343,P.J. Locke III,"Beaumont, Texas",womens soccer,texas
-344,Jerrod Heard,"Denton, Texas",womens soccer,texas
-345,Chris Brown,"Houston, Texas",womens soccer,texas
-346,Davion Curtis,"Temple, Texas",womens soccer,texas
-347,Davante Davis,"Miami, Fla.",womens soccer,texas
-348,Brandon Jones,"Nacogdoches, Texas",womens soccer,texas
-349,Kyle Porter,"Katy, Texas",womens soccer,texas
-350,Jeffrey McCulloch,"Houston, Texas",womens soccer,texas
-351,John Bonney,"Houston, Texas",womens soccer,texas
-352,B.J. Foster,"Angleton, Texas",womens soccer,texas
-353,Eric Cuffee,"Waco, Texas",womens soccer,texas
-354,Donovan Duvernay,"Sachse, Texas",womens soccer,texas
-355,Jarmarquis Durst,"Conroe, Texas",womens soccer,texas
-356,Kirk Johnson,"San Jose, Calif.",womens soccer,texas
-357,Josh Thompson,"Nacogdoches, Texas",womens soccer,texas
-358,Toneil Carter,"Houston, Texas",womens soccer,texas
-359,Kyle Hrncir,"San Antonio, Texas",womens soccer,texas
-360,Malcolm Roach,"Baton Rouge, La.",womens soccer,texas
-361,Daniel Young,"Houston, Texas",womens soccer,texas
-362,Gary  Johnson,"Douglas, Ala.",womens soccer,texas
-363,Tim Yoder,"Plano, Texas",womens soccer,texas
-364,Edwin Freeman,"Arlington, Texas",womens soccer,texas
-365,Russell Hine,"Austin, Texas",womens soccer,texas
-366,Demarco Boyd,"Gilmer, Texas",womens soccer,texas
-367,Chase Moore,"Los Angeles, Calif.",womens soccer,texas
-368,Kobe Boyce,"Corinth, Texas",womens soccer,texas
-369,Jack Geiger,"San Jose, Calif.",womens soccer,texas
-370,Montrell Estell,"Hooks, Texas",womens soccer,texas
-371,Edward Pequeno,"McAllen, Texas",womens soccer,texas
-372,Ayodele Adeoye,"St. Louis, Mo.",womens soccer,texas
-373,Hank Coutoumanos,"Southlake, Texas",womens soccer,texas
-374,Tristian Houston,"Galena Park, Texas",womens soccer,texas
-375,Marqez Bimage,"Brenham, Texas",womens soccer,texas
-376,Cameron Townsend,"Missouri City, Texas",womens soccer,texas
-377,Breckyn Hager,"Austin, Texas",womens soccer,texas
-378,Chris Naggar,"Arlington, Texas",womens soccer,texas
-379,Anthony Wheeler,"Dallas, Texas",womens soccer,texas
-380,Andrew Beck,"Tampa, Fla.",womens soccer,texas
-381,Andrew Fitzgerald,"Flower Mound, Texas",womens soccer,texas
-382,Ta'Quon Graham,"Temple, Texas",womens soccer,texas
-383,Joshua Rowland,"Madison, Miss.",womens soccer,texas
-384,Hayden Bruce,"Leander, Texas",womens soccer,texas
-385,Samuel Cosmi,"Humble, Texas",womens soccer,texas
-386,Jak Holbrook,"Austin, Texas",womens soccer,texas
-387,D'Andre Christmas,"New Orleans, La.",womens soccer,texas
-388,Zach Shackelford,"Belton, Texas",womens soccer,texas
-389,Cort Jaquess,"San Antonio, Texas",womens soccer,texas
-390,Mikey Grandy,"San Jose, Calif.",womens soccer,texas
-391,Ishan Rison,"Katy, Texas",womens soccer,texas
-392,Tope Imade,"Arlington, Texas",womens soccer,texas
-393,Derek Kerstetter,"San Antonio, Texas",womens soccer,texas
-394,Austin Allsup,"Austin, Texas",womens soccer,texas
-395,J.P. Urquidez,"Copperas Cove, Texas",womens soccer,texas
-396,Elijah Rodriguez,"Houston, Texas",womens soccer,texas
-397,Patrick Hudson,"Silsbee, Texas",womens soccer,texas
-398,Patrick Vahe,"Euless, Texas",womens soccer,texas
-399,Denzel Okafor,"Lewisville, Texas",womens soccer,texas
-400,Cade Brewer,"Austin, Texas",womens soccer,texas
-401,Reese Leitao,"Jenks, Okla.",womens soccer,texas
-402,Brennan Eagles,"Houston, Texas",womens soccer,texas
-403,Michael David Poujol,"Houston, Texas",womens soccer,texas
-404,Lil'Jordan Humphrey,"Southlake, Texas",womens soccer,texas
-405,Philipp Moeller,"Plano, Texas",womens soccer,texas
-406,Jordan Pouncey,"Winter Park, Fla.",womens soccer,texas
-407,Austin Hibbetts,"Cypress, Texas",womens soccer,texas
-408,Kai Jarmon,"Los Altos, Calif.",womens soccer,texas
-409,Max Cummins,"Fort Worth, Texas",womens soccer,texas
-410,Chris Fehr,"Austin, Texas",womens soccer,texas
-411,Charles Omenihu,"Rowlett, Texas",womens soccer,texas
-412,Jamari Chisholm,"Valdosta, Ga.",womens soccer,texas
-413,Gerald Wilbon,"Saint Rose, La.",womens soccer,texas
-414,Chris Nelson,"Lakeland, Fla.",womens soccer,texas
-415,John Burt,"Tallahassee, Fla.",mens golf,texas
-416,Kris Boyd,"Gilmer, Texas",mens golf,texas
-417,Cameron Rising,"Ventura, Calif.",mens golf,texas
-418,Anthony Cook,"Houston, Texas",mens golf,texas
-419,Devin Duvernay,"Sachse, Texas",mens golf,texas
-420,Shane Buechele,"Arlington, Texas",mens golf,texas
-421,Caden Sterns,"Cibolo, Texas",mens golf,texas
-422,Ryan Bujcevski,"Sydney, Australia",mens golf,texas
-423,Casey Thompson,"Newcastle, Okla.",mens golf,texas
-424,Collin Johnson,"San Jose, Calif.",mens golf,texas
-425,Sam Ehlinger,"Austin, Texas",mens golf,texas
-426,P.J. Locke III,"Beaumont, Texas",mens golf,texas
-427,Jerrod Heard,"Denton, Texas",mens golf,texas
-428,Chris Brown,"Houston, Texas",mens golf,texas
-429,Davion Curtis,"Temple, Texas",mens golf,texas
-430,Davante Davis,"Miami, Fla.",mens golf,texas
-431,Brandon Jones,"Nacogdoches, Texas",mens golf,texas
-432,Kyle Porter,"Katy, Texas",mens golf,texas
-433,Jeffrey McCulloch,"Houston, Texas",mens golf,texas
-434,John Bonney,"Houston, Texas",mens golf,texas
-435,B.J. Foster,"Angleton, Texas",mens golf,texas
-436,Eric Cuffee,"Waco, Texas",mens golf,texas
-437,Donovan Duvernay,"Sachse, Texas",mens golf,texas
-438,Jarmarquis Durst,"Conroe, Texas",mens golf,texas
-439,Kirk Johnson,"San Jose, Calif.",mens golf,texas
-440,Josh Thompson,"Nacogdoches, Texas",mens golf,texas
-441,Toneil Carter,"Houston, Texas",mens golf,texas
-442,Kyle Hrncir,"San Antonio, Texas",mens golf,texas
-443,Malcolm Roach,"Baton Rouge, La.",mens golf,texas
-444,Daniel Young,"Houston, Texas",mens golf,texas
-445,Gary  Johnson,"Douglas, Ala.",mens golf,texas
-446,Tim Yoder,"Plano, Texas",mens golf,texas
-447,Edwin Freeman,"Arlington, Texas",mens golf,texas
-448,Russell Hine,"Austin, Texas",mens golf,texas
-449,Demarco Boyd,"Gilmer, Texas",mens golf,texas
-450,Chase Moore,"Los Angeles, Calif.",mens golf,texas
-451,Kobe Boyce,"Corinth, Texas",mens golf,texas
-452,Jack Geiger,"San Jose, Calif.",mens golf,texas
-453,Montrell Estell,"Hooks, Texas",mens golf,texas
-454,Edward Pequeno,"McAllen, Texas",mens golf,texas
-455,Ayodele Adeoye,"St. Louis, Mo.",mens golf,texas
-456,Hank Coutoumanos,"Southlake, Texas",mens golf,texas
-457,Tristian Houston,"Galena Park, Texas",mens golf,texas
-458,Marqez Bimage,"Brenham, Texas",mens golf,texas
-459,Cameron Townsend,"Missouri City, Texas",mens golf,texas
-460,Breckyn Hager,"Austin, Texas",mens golf,texas
-461,Chris Naggar,"Arlington, Texas",mens golf,texas
-462,Anthony Wheeler,"Dallas, Texas",mens golf,texas
-463,Andrew Beck,"Tampa, Fla.",mens golf,texas
-464,Andrew Fitzgerald,"Flower Mound, Texas",mens golf,texas
-465,Ta'Quon Graham,"Temple, Texas",mens golf,texas
-466,Joshua Rowland,"Madison, Miss.",mens golf,texas
-467,Hayden Bruce,"Leander, Texas",mens golf,texas
-468,Samuel Cosmi,"Humble, Texas",mens golf,texas
-469,Jak Holbrook,"Austin, Texas",mens golf,texas
-470,D'Andre Christmas,"New Orleans, La.",mens golf,texas
-471,Zach Shackelford,"Belton, Texas",mens golf,texas
-472,Cort Jaquess,"San Antonio, Texas",mens golf,texas
-473,Mikey Grandy,"San Jose, Calif.",mens golf,texas
-474,Ishan Rison,"Katy, Texas",mens golf,texas
-475,Tope Imade,"Arlington, Texas",mens golf,texas
-476,Derek Kerstetter,"San Antonio, Texas",mens golf,texas
-477,Austin Allsup,"Austin, Texas",mens golf,texas
-478,J.P. Urquidez,"Copperas Cove, Texas",mens golf,texas
-479,Elijah Rodriguez,"Houston, Texas",mens golf,texas
-480,Patrick Hudson,"Silsbee, Texas",mens golf,texas
-481,Patrick Vahe,"Euless, Texas",mens golf,texas
-482,Denzel Okafor,"Lewisville, Texas",mens golf,texas
-483,Cade Brewer,"Austin, Texas",mens golf,texas
-484,Reese Leitao,"Jenks, Okla.",mens golf,texas
-485,Brennan Eagles,"Houston, Texas",mens golf,texas
-486,Michael David Poujol,"Houston, Texas",mens golf,texas
-487,Lil'Jordan Humphrey,"Southlake, Texas",mens golf,texas
-488,Philipp Moeller,"Plano, Texas",mens golf,texas
-489,Jordan Pouncey,"Winter Park, Fla.",mens golf,texas
-490,Austin Hibbetts,"Cypress, Texas",mens golf,texas
-491,Kai Jarmon,"Los Altos, Calif.",mens golf,texas
-492,Max Cummins,"Fort Worth, Texas",mens golf,texas
-493,Chris Fehr,"Austin, Texas",mens golf,texas
-494,Charles Omenihu,"Rowlett, Texas",mens golf,texas
-495,Jamari Chisholm,"Valdosta, Ga.",mens golf,texas
-496,Gerald Wilbon,"Saint Rose, La.",mens golf,texas
-497,Chris Nelson,"Lakeland, Fla.",mens golf,texas
-498,John Burt,"Tallahassee, Fla.",womens golf,texas
-499,Kris Boyd,"Gilmer, Texas",womens golf,texas
-500,Cameron Rising,"Ventura, Calif.",womens golf,texas
-501,Anthony Cook,"Houston, Texas",womens golf,texas
-502,Devin Duvernay,"Sachse, Texas",womens golf,texas
-503,Shane Buechele,"Arlington, Texas",womens golf,texas
-504,Caden Sterns,"Cibolo, Texas",womens golf,texas
-505,Ryan Bujcevski,"Sydney, Australia",womens golf,texas
-506,Casey Thompson,"Newcastle, Okla.",womens golf,texas
-507,Collin Johnson,"San Jose, Calif.",womens golf,texas
-508,Sam Ehlinger,"Austin, Texas",womens golf,texas
-509,P.J. Locke III,"Beaumont, Texas",womens golf,texas
-510,Jerrod Heard,"Denton, Texas",womens golf,texas
-511,Chris Brown,"Houston, Texas",womens golf,texas
-512,Davion Curtis,"Temple, Texas",womens golf,texas
-513,Davante Davis,"Miami, Fla.",womens golf,texas
-514,Brandon Jones,"Nacogdoches, Texas",womens golf,texas
-515,Kyle Porter,"Katy, Texas",womens golf,texas
-516,Jeffrey McCulloch,"Houston, Texas",womens golf,texas
-517,John Bonney,"Houston, Texas",womens golf,texas
-518,B.J. Foster,"Angleton, Texas",womens golf,texas
-519,Eric Cuffee,"Waco, Texas",womens golf,texas
-520,Donovan Duvernay,"Sachse, Texas",womens golf,texas
-521,Jarmarquis Durst,"Conroe, Texas",womens golf,texas
-522,Kirk Johnson,"San Jose, Calif.",womens golf,texas
-523,Josh Thompson,"Nacogdoches, Texas",womens golf,texas
-524,Toneil Carter,"Houston, Texas",womens golf,texas
-525,Kyle Hrncir,"San Antonio, Texas",womens golf,texas
-526,Malcolm Roach,"Baton Rouge, La.",womens golf,texas
-527,Daniel Young,"Houston, Texas",womens golf,texas
-528,Gary  Johnson,"Douglas, Ala.",womens golf,texas
-529,Tim Yoder,"Plano, Texas",womens golf,texas
-530,Edwin Freeman,"Arlington, Texas",womens golf,texas
-531,Russell Hine,"Austin, Texas",womens golf,texas
-532,Demarco Boyd,"Gilmer, Texas",womens golf,texas
-533,Chase Moore,"Los Angeles, Calif.",womens golf,texas
-534,Kobe Boyce,"Corinth, Texas",womens golf,texas
-535,Jack Geiger,"San Jose, Calif.",womens golf,texas
-536,Montrell Estell,"Hooks, Texas",womens golf,texas
-537,Edward Pequeno,"McAllen, Texas",womens golf,texas
-538,Ayodele Adeoye,"St. Louis, Mo.",womens golf,texas
-539,Hank Coutoumanos,"Southlake, Texas",womens golf,texas
-540,Tristian Houston,"Galena Park, Texas",womens golf,texas
-541,Marqez Bimage,"Brenham, Texas",womens golf,texas
-542,Cameron Townsend,"Missouri City, Texas",womens golf,texas
-543,Breckyn Hager,"Austin, Texas",womens golf,texas
-544,Chris Naggar,"Arlington, Texas",womens golf,texas
-545,Anthony Wheeler,"Dallas, Texas",womens golf,texas
-546,Andrew Beck,"Tampa, Fla.",womens golf,texas
-547,Andrew Fitzgerald,"Flower Mound, Texas",womens golf,texas
-548,Ta'Quon Graham,"Temple, Texas",womens golf,texas
-549,Joshua Rowland,"Madison, Miss.",womens golf,texas
-550,Hayden Bruce,"Leander, Texas",womens golf,texas
-551,Samuel Cosmi,"Humble, Texas",womens golf,texas
-552,Jak Holbrook,"Austin, Texas",womens golf,texas
-553,D'Andre Christmas,"New Orleans, La.",womens golf,texas
-554,Zach Shackelford,"Belton, Texas",womens golf,texas
-555,Cort Jaquess,"San Antonio, Texas",womens golf,texas
-556,Mikey Grandy,"San Jose, Calif.",womens golf,texas
-557,Ishan Rison,"Katy, Texas",womens golf,texas
-558,Tope Imade,"Arlington, Texas",womens golf,texas
-559,Derek Kerstetter,"San Antonio, Texas",womens golf,texas
-560,Austin Allsup,"Austin, Texas",womens golf,texas
-561,J.P. Urquidez,"Copperas Cove, Texas",womens golf,texas
-562,Elijah Rodriguez,"Houston, Texas",womens golf,texas
-563,Patrick Hudson,"Silsbee, Texas",womens golf,texas
-564,Patrick Vahe,"Euless, Texas",womens golf,texas
-565,Denzel Okafor,"Lewisville, Texas",womens golf,texas
-566,Cade Brewer,"Austin, Texas",womens golf,texas
-567,Reese Leitao,"Jenks, Okla.",womens golf,texas
-568,Brennan Eagles,"Houston, Texas",womens golf,texas
-569,Michael David Poujol,"Houston, Texas",womens golf,texas
-570,Lil'Jordan Humphrey,"Southlake, Texas",womens golf,texas
-571,Philipp Moeller,"Plano, Texas",womens golf,texas
-572,Jordan Pouncey,"Winter Park, Fla.",womens golf,texas
-573,Austin Hibbetts,"Cypress, Texas",womens golf,texas
-574,Kai Jarmon,"Los Altos, Calif.",womens golf,texas
-575,Max Cummins,"Fort Worth, Texas",womens golf,texas
-576,Chris Fehr,"Austin, Texas",womens golf,texas
-577,Charles Omenihu,"Rowlett, Texas",womens golf,texas
-578,Jamari Chisholm,"Valdosta, Ga.",womens golf,texas
-579,Gerald Wilbon,"Saint Rose, La.",womens golf,texas
-580,Chris Nelson,"Lakeland, Fla.",womens golf,texas
-581,John Burt,"Tallahassee, Fla.",mens swimming,texas
-582,Kris Boyd,"Gilmer, Texas",mens swimming,texas
-583,Cameron Rising,"Ventura, Calif.",mens swimming,texas
-584,Anthony Cook,"Houston, Texas",mens swimming,texas
-585,Devin Duvernay,"Sachse, Texas",mens swimming,texas
-586,Shane Buechele,"Arlington, Texas",mens swimming,texas
-587,Caden Sterns,"Cibolo, Texas",mens swimming,texas
-588,Ryan Bujcevski,"Sydney, Australia",mens swimming,texas
-589,Casey Thompson,"Newcastle, Okla.",mens swimming,texas
-590,Collin Johnson,"San Jose, Calif.",mens swimming,texas
-591,Sam Ehlinger,"Austin, Texas",mens swimming,texas
-592,P.J. Locke III,"Beaumont, Texas",mens swimming,texas
-593,Jerrod Heard,"Denton, Texas",mens swimming,texas
-594,Chris Brown,"Houston, Texas",mens swimming,texas
-595,Davion Curtis,"Temple, Texas",mens swimming,texas
-596,Davante Davis,"Miami, Fla.",mens swimming,texas
-597,Brandon Jones,"Nacogdoches, Texas",mens swimming,texas
-598,Kyle Porter,"Katy, Texas",mens swimming,texas
-599,Jeffrey McCulloch,"Houston, Texas",mens swimming,texas
-600,John Bonney,"Houston, Texas",mens swimming,texas
-601,B.J. Foster,"Angleton, Texas",mens swimming,texas
-602,Eric Cuffee,"Waco, Texas",mens swimming,texas
-603,Donovan Duvernay,"Sachse, Texas",mens swimming,texas
-604,Jarmarquis Durst,"Conroe, Texas",mens swimming,texas
-605,Kirk Johnson,"San Jose, Calif.",mens swimming,texas
-606,Josh Thompson,"Nacogdoches, Texas",mens swimming,texas
-607,Toneil Carter,"Houston, Texas",mens swimming,texas
-608,Kyle Hrncir,"San Antonio, Texas",mens swimming,texas
-609,Malcolm Roach,"Baton Rouge, La.",mens swimming,texas
-610,Daniel Young,"Houston, Texas",mens swimming,texas
-611,Gary  Johnson,"Douglas, Ala.",mens swimming,texas
-612,Tim Yoder,"Plano, Texas",mens swimming,texas
-613,Edwin Freeman,"Arlington, Texas",mens swimming,texas
-614,Russell Hine,"Austin, Texas",mens swimming,texas
-615,Demarco Boyd,"Gilmer, Texas",mens swimming,texas
-616,Chase Moore,"Los Angeles, Calif.",mens swimming,texas
-617,Kobe Boyce,"Corinth, Texas",mens swimming,texas
-618,Jack Geiger,"San Jose, Calif.",mens swimming,texas
-619,Montrell Estell,"Hooks, Texas",mens swimming,texas
-620,Edward Pequeno,"McAllen, Texas",mens swimming,texas
-621,Ayodele Adeoye,"St. Louis, Mo.",mens swimming,texas
-622,Hank Coutoumanos,"Southlake, Texas",mens swimming,texas
-623,Tristian Houston,"Galena Park, Texas",mens swimming,texas
-624,Marqez Bimage,"Brenham, Texas",mens swimming,texas
-625,Cameron Townsend,"Missouri City, Texas",mens swimming,texas
-626,Breckyn Hager,"Austin, Texas",mens swimming,texas
-627,Chris Naggar,"Arlington, Texas",mens swimming,texas
-628,Anthony Wheeler,"Dallas, Texas",mens swimming,texas
-629,Andrew Beck,"Tampa, Fla.",mens swimming,texas
-630,Andrew Fitzgerald,"Flower Mound, Texas",mens swimming,texas
-631,Ta'Quon Graham,"Temple, Texas",mens swimming,texas
-632,Joshua Rowland,"Madison, Miss.",mens swimming,texas
-633,Hayden Bruce,"Leander, Texas",mens swimming,texas
-634,Samuel Cosmi,"Humble, Texas",mens swimming,texas
-635,Jak Holbrook,"Austin, Texas",mens swimming,texas
-636,D'Andre Christmas,"New Orleans, La.",mens swimming,texas
-637,Zach Shackelford,"Belton, Texas",mens swimming,texas
-638,Cort Jaquess,"San Antonio, Texas",mens swimming,texas
-639,Mikey Grandy,"San Jose, Calif.",mens swimming,texas
-640,Ishan Rison,"Katy, Texas",mens swimming,texas
-641,Tope Imade,"Arlington, Texas",mens swimming,texas
-642,Derek Kerstetter,"San Antonio, Texas",mens swimming,texas
-643,Austin Allsup,"Austin, Texas",mens swimming,texas
-644,J.P. Urquidez,"Copperas Cove, Texas",mens swimming,texas
-645,Elijah Rodriguez,"Houston, Texas",mens swimming,texas
-646,Patrick Hudson,"Silsbee, Texas",mens swimming,texas
-647,Patrick Vahe,"Euless, Texas",mens swimming,texas
-648,Denzel Okafor,"Lewisville, Texas",mens swimming,texas
-649,Cade Brewer,"Austin, Texas",mens swimming,texas
-650,Reese Leitao,"Jenks, Okla.",mens swimming,texas
-651,Brennan Eagles,"Houston, Texas",mens swimming,texas
-652,Michael David Poujol,"Houston, Texas",mens swimming,texas
-653,Lil'Jordan Humphrey,"Southlake, Texas",mens swimming,texas
-654,Philipp Moeller,"Plano, Texas",mens swimming,texas
-655,Jordan Pouncey,"Winter Park, Fla.",mens swimming,texas
-656,Austin Hibbetts,"Cypress, Texas",mens swimming,texas
-657,Kai Jarmon,"Los Altos, Calif.",mens swimming,texas
-658,Max Cummins,"Fort Worth, Texas",mens swimming,texas
-659,Chris Fehr,"Austin, Texas",mens swimming,texas
-660,Charles Omenihu,"Rowlett, Texas",mens swimming,texas
-661,Jamari Chisholm,"Valdosta, Ga.",mens swimming,texas
-662,Gerald Wilbon,"Saint Rose, La.",mens swimming,texas
-663,Chris Nelson,"Lakeland, Fla.",mens swimming,texas
-664,John Burt,"Tallahassee, Fla.",womens swimming,texas
-665,Kris Boyd,"Gilmer, Texas",womens swimming,texas
-666,Cameron Rising,"Ventura, Calif.",womens swimming,texas
-667,Anthony Cook,"Houston, Texas",womens swimming,texas
-668,Devin Duvernay,"Sachse, Texas",womens swimming,texas
-669,Shane Buechele,"Arlington, Texas",womens swimming,texas
-670,Caden Sterns,"Cibolo, Texas",womens swimming,texas
-671,Ryan Bujcevski,"Sydney, Australia",womens swimming,texas
-672,Casey Thompson,"Newcastle, Okla.",womens swimming,texas
-673,Collin Johnson,"San Jose, Calif.",womens swimming,texas
-674,Sam Ehlinger,"Austin, Texas",womens swimming,texas
-675,P.J. Locke III,"Beaumont, Texas",womens swimming,texas
-676,Jerrod Heard,"Denton, Texas",womens swimming,texas
-677,Chris Brown,"Houston, Texas",womens swimming,texas
-678,Davion Curtis,"Temple, Texas",womens swimming,texas
-679,Davante Davis,"Miami, Fla.",womens swimming,texas
-680,Brandon Jones,"Nacogdoches, Texas",womens swimming,texas
-681,Kyle Porter,"Katy, Texas",womens swimming,texas
-682,Jeffrey McCulloch,"Houston, Texas",womens swimming,texas
-683,John Bonney,"Houston, Texas",womens swimming,texas
-684,B.J. Foster,"Angleton, Texas",womens swimming,texas
-685,Eric Cuffee,"Waco, Texas",womens swimming,texas
-686,Donovan Duvernay,"Sachse, Texas",womens swimming,texas
-687,Jarmarquis Durst,"Conroe, Texas",womens swimming,texas
-688,Kirk Johnson,"San Jose, Calif.",womens swimming,texas
-689,Josh Thompson,"Nacogdoches, Texas",womens swimming,texas
-690,Toneil Carter,"Houston, Texas",womens swimming,texas
-691,Kyle Hrncir,"San Antonio, Texas",womens swimming,texas
-692,Malcolm Roach,"Baton Rouge, La.",womens swimming,texas
-693,Daniel Young,"Houston, Texas",womens swimming,texas
-694,Gary  Johnson,"Douglas, Ala.",womens swimming,texas
-695,Tim Yoder,"Plano, Texas",womens swimming,texas
-696,Edwin Freeman,"Arlington, Texas",womens swimming,texas
-697,Russell Hine,"Austin, Texas",womens swimming,texas
-698,Demarco Boyd,"Gilmer, Texas",womens swimming,texas
-699,Chase Moore,"Los Angeles, Calif.",womens swimming,texas
-700,Kobe Boyce,"Corinth, Texas",womens swimming,texas
-701,Jack Geiger,"San Jose, Calif.",womens swimming,texas
-702,Montrell Estell,"Hooks, Texas",womens swimming,texas
-703,Edward Pequeno,"McAllen, Texas",womens swimming,texas
-704,Ayodele Adeoye,"St. Louis, Mo.",womens swimming,texas
-705,Hank Coutoumanos,"Southlake, Texas",womens swimming,texas
-706,Tristian Houston,"Galena Park, Texas",womens swimming,texas
-707,Marqez Bimage,"Brenham, Texas",womens swimming,texas
-708,Cameron Townsend,"Missouri City, Texas",womens swimming,texas
-709,Breckyn Hager,"Austin, Texas",womens swimming,texas
-710,Chris Naggar,"Arlington, Texas",womens swimming,texas
-711,Anthony Wheeler,"Dallas, Texas",womens swimming,texas
-712,Andrew Beck,"Tampa, Fla.",womens swimming,texas
-713,Andrew Fitzgerald,"Flower Mound, Texas",womens swimming,texas
-714,Ta'Quon Graham,"Temple, Texas",womens swimming,texas
-715,Joshua Rowland,"Madison, Miss.",womens swimming,texas
-716,Hayden Bruce,"Leander, Texas",womens swimming,texas
-717,Samuel Cosmi,"Humble, Texas",womens swimming,texas
-718,Jak Holbrook,"Austin, Texas",womens swimming,texas
-719,D'Andre Christmas,"New Orleans, La.",womens swimming,texas
-720,Zach Shackelford,"Belton, Texas",womens swimming,texas
-721,Cort Jaquess,"San Antonio, Texas",womens swimming,texas
-722,Mikey Grandy,"San Jose, Calif.",womens swimming,texas
-723,Ishan Rison,"Katy, Texas",womens swimming,texas
-724,Tope Imade,"Arlington, Texas",womens swimming,texas
-725,Derek Kerstetter,"San Antonio, Texas",womens swimming,texas
-726,Austin Allsup,"Austin, Texas",womens swimming,texas
-727,J.P. Urquidez,"Copperas Cove, Texas",womens swimming,texas
-728,Elijah Rodriguez,"Houston, Texas",womens swimming,texas
-729,Patrick Hudson,"Silsbee, Texas",womens swimming,texas
-730,Patrick Vahe,"Euless, Texas",womens swimming,texas
-731,Denzel Okafor,"Lewisville, Texas",womens swimming,texas
-732,Cade Brewer,"Austin, Texas",womens swimming,texas
-733,Reese Leitao,"Jenks, Okla.",womens swimming,texas
-734,Brennan Eagles,"Houston, Texas",womens swimming,texas
-735,Michael David Poujol,"Houston, Texas",womens swimming,texas
-736,Lil'Jordan Humphrey,"Southlake, Texas",womens swimming,texas
-737,Philipp Moeller,"Plano, Texas",womens swimming,texas
-738,Jordan Pouncey,"Winter Park, Fla.",womens swimming,texas
-739,Austin Hibbetts,"Cypress, Texas",womens swimming,texas
-740,Kai Jarmon,"Los Altos, Calif.",womens swimming,texas
-741,Max Cummins,"Fort Worth, Texas",womens swimming,texas
-742,Chris Fehr,"Austin, Texas",womens swimming,texas
-743,Charles Omenihu,"Rowlett, Texas",womens swimming,texas
-744,Jamari Chisholm,"Valdosta, Ga.",womens swimming,texas
-745,Gerald Wilbon,"Saint Rose, La.",womens swimming,texas
-746,Chris Nelson,"Lakeland, Fla.",womens swimming,texas
-747,John Burt,"Tallahassee, Fla.",mens tennis,texas
-748,Kris Boyd,"Gilmer, Texas",mens tennis,texas
-749,Cameron Rising,"Ventura, Calif.",mens tennis,texas
-750,Anthony Cook,"Houston, Texas",mens tennis,texas
-751,Devin Duvernay,"Sachse, Texas",mens tennis,texas
-752,Shane Buechele,"Arlington, Texas",mens tennis,texas
-753,Caden Sterns,"Cibolo, Texas",mens tennis,texas
-754,Ryan Bujcevski,"Sydney, Australia",mens tennis,texas
-755,Casey Thompson,"Newcastle, Okla.",mens tennis,texas
-756,Collin Johnson,"San Jose, Calif.",mens tennis,texas
-757,Sam Ehlinger,"Austin, Texas",mens tennis,texas
-758,P.J. Locke III,"Beaumont, Texas",mens tennis,texas
-759,Jerrod Heard,"Denton, Texas",mens tennis,texas
-760,Chris Brown,"Houston, Texas",mens tennis,texas
-761,Davion Curtis,"Temple, Texas",mens tennis,texas
-762,Davante Davis,"Miami, Fla.",mens tennis,texas
-763,Brandon Jones,"Nacogdoches, Texas",mens tennis,texas
-764,Kyle Porter,"Katy, Texas",mens tennis,texas
-765,Jeffrey McCulloch,"Houston, Texas",mens tennis,texas
-766,John Bonney,"Houston, Texas",mens tennis,texas
-767,B.J. Foster,"Angleton, Texas",mens tennis,texas
-768,Eric Cuffee,"Waco, Texas",mens tennis,texas
-769,Donovan Duvernay,"Sachse, Texas",mens tennis,texas
-770,Jarmarquis Durst,"Conroe, Texas",mens tennis,texas
-771,Kirk Johnson,"San Jose, Calif.",mens tennis,texas
-772,Josh Thompson,"Nacogdoches, Texas",mens tennis,texas
-773,Toneil Carter,"Houston, Texas",mens tennis,texas
-774,Kyle Hrncir,"San Antonio, Texas",mens tennis,texas
-775,Malcolm Roach,"Baton Rouge, La.",mens tennis,texas
-776,Daniel Young,"Houston, Texas",mens tennis,texas
-777,Gary  Johnson,"Douglas, Ala.",mens tennis,texas
-778,Tim Yoder,"Plano, Texas",mens tennis,texas
-779,Edwin Freeman,"Arlington, Texas",mens tennis,texas
-780,Russell Hine,"Austin, Texas",mens tennis,texas
-781,Demarco Boyd,"Gilmer, Texas",mens tennis,texas
-782,Chase Moore,"Los Angeles, Calif.",mens tennis,texas
-783,Kobe Boyce,"Corinth, Texas",mens tennis,texas
-784,Jack Geiger,"San Jose, Calif.",mens tennis,texas
-785,Montrell Estell,"Hooks, Texas",mens tennis,texas
-786,Edward Pequeno,"McAllen, Texas",mens tennis,texas
-787,Ayodele Adeoye,"St. Louis, Mo.",mens tennis,texas
-788,Hank Coutoumanos,"Southlake, Texas",mens tennis,texas
-789,Tristian Houston,"Galena Park, Texas",mens tennis,texas
-790,Marqez Bimage,"Brenham, Texas",mens tennis,texas
-791,Cameron Townsend,"Missouri City, Texas",mens tennis,texas
-792,Breckyn Hager,"Austin, Texas",mens tennis,texas
-793,Chris Naggar,"Arlington, Texas",mens tennis,texas
-794,Anthony Wheeler,"Dallas, Texas",mens tennis,texas
-795,Andrew Beck,"Tampa, Fla.",mens tennis,texas
-796,Andrew Fitzgerald,"Flower Mound, Texas",mens tennis,texas
-797,Ta'Quon Graham,"Temple, Texas",mens tennis,texas
-798,Joshua Rowland,"Madison, Miss.",mens tennis,texas
-799,Hayden Bruce,"Leander, Texas",mens tennis,texas
-800,Samuel Cosmi,"Humble, Texas",mens tennis,texas
-801,Jak Holbrook,"Austin, Texas",mens tennis,texas
-802,D'Andre Christmas,"New Orleans, La.",mens tennis,texas
-803,Zach Shackelford,"Belton, Texas",mens tennis,texas
-804,Cort Jaquess,"San Antonio, Texas",mens tennis,texas
-805,Mikey Grandy,"San Jose, Calif.",mens tennis,texas
-806,Ishan Rison,"Katy, Texas",mens tennis,texas
-807,Tope Imade,"Arlington, Texas",mens tennis,texas
-808,Derek Kerstetter,"San Antonio, Texas",mens tennis,texas
-809,Austin Allsup,"Austin, Texas",mens tennis,texas
-810,J.P. Urquidez,"Copperas Cove, Texas",mens tennis,texas
-811,Elijah Rodriguez,"Houston, Texas",mens tennis,texas
-812,Patrick Hudson,"Silsbee, Texas",mens tennis,texas
-813,Patrick Vahe,"Euless, Texas",mens tennis,texas
-814,Denzel Okafor,"Lewisville, Texas",mens tennis,texas
-815,Cade Brewer,"Austin, Texas",mens tennis,texas
-816,Reese Leitao,"Jenks, Okla.",mens tennis,texas
-817,Brennan Eagles,"Houston, Texas",mens tennis,texas
-818,Michael David Poujol,"Houston, Texas",mens tennis,texas
-819,Lil'Jordan Humphrey,"Southlake, Texas",mens tennis,texas
-820,Philipp Moeller,"Plano, Texas",mens tennis,texas
-821,Jordan Pouncey,"Winter Park, Fla.",mens tennis,texas
-822,Austin Hibbetts,"Cypress, Texas",mens tennis,texas
-823,Kai Jarmon,"Los Altos, Calif.",mens tennis,texas
-824,Max Cummins,"Fort Worth, Texas",mens tennis,texas
-825,Chris Fehr,"Austin, Texas",mens tennis,texas
-826,Charles Omenihu,"Rowlett, Texas",mens tennis,texas
-827,Jamari Chisholm,"Valdosta, Ga.",mens tennis,texas
-828,Gerald Wilbon,"Saint Rose, La.",mens tennis,texas
-829,Chris Nelson,"Lakeland, Fla.",mens tennis,texas
-830,John Burt,"Tallahassee, Fla.",womens tennis,texas
-831,Kris Boyd,"Gilmer, Texas",womens tennis,texas
-832,Cameron Rising,"Ventura, Calif.",womens tennis,texas
-833,Anthony Cook,"Houston, Texas",womens tennis,texas
-834,Devin Duvernay,"Sachse, Texas",womens tennis,texas
-835,Shane Buechele,"Arlington, Texas",womens tennis,texas
-836,Caden Sterns,"Cibolo, Texas",womens tennis,texas
-837,Ryan Bujcevski,"Sydney, Australia",womens tennis,texas
-838,Casey Thompson,"Newcastle, Okla.",womens tennis,texas
-839,Collin Johnson,"San Jose, Calif.",womens tennis,texas
-840,Sam Ehlinger,"Austin, Texas",womens tennis,texas
-841,P.J. Locke III,"Beaumont, Texas",womens tennis,texas
-842,Jerrod Heard,"Denton, Texas",womens tennis,texas
-843,Chris Brown,"Houston, Texas",womens tennis,texas
-844,Davion Curtis,"Temple, Texas",womens tennis,texas
-845,Davante Davis,"Miami, Fla.",womens tennis,texas
-846,Brandon Jones,"Nacogdoches, Texas",womens tennis,texas
-847,Kyle Porter,"Katy, Texas",womens tennis,texas
-848,Jeffrey McCulloch,"Houston, Texas",womens tennis,texas
-849,John Bonney,"Houston, Texas",womens tennis,texas
-850,B.J. Foster,"Angleton, Texas",womens tennis,texas
-851,Eric Cuffee,"Waco, Texas",womens tennis,texas
-852,Donovan Duvernay,"Sachse, Texas",womens tennis,texas
-853,Jarmarquis Durst,"Conroe, Texas",womens tennis,texas
-854,Kirk Johnson,"San Jose, Calif.",womens tennis,texas
-855,Josh Thompson,"Nacogdoches, Texas",womens tennis,texas
-856,Toneil Carter,"Houston, Texas",womens tennis,texas
-857,Kyle Hrncir,"San Antonio, Texas",womens tennis,texas
-858,Malcolm Roach,"Baton Rouge, La.",womens tennis,texas
-859,Daniel Young,"Houston, Texas",womens tennis,texas
-860,Gary  Johnson,"Douglas, Ala.",womens tennis,texas
-861,Tim Yoder,"Plano, Texas",womens tennis,texas
-862,Edwin Freeman,"Arlington, Texas",womens tennis,texas
-863,Russell Hine,"Austin, Texas",womens tennis,texas
-864,Demarco Boyd,"Gilmer, Texas",womens tennis,texas
-865,Chase Moore,"Los Angeles, Calif.",womens tennis,texas
-866,Kobe Boyce,"Corinth, Texas",womens tennis,texas
-867,Jack Geiger,"San Jose, Calif.",womens tennis,texas
-868,Montrell Estell,"Hooks, Texas",womens tennis,texas
-869,Edward Pequeno,"McAllen, Texas",womens tennis,texas
-870,Ayodele Adeoye,"St. Louis, Mo.",womens tennis,texas
-871,Hank Coutoumanos,"Southlake, Texas",womens tennis,texas
-872,Tristian Houston,"Galena Park, Texas",womens tennis,texas
-873,Marqez Bimage,"Brenham, Texas",womens tennis,texas
-874,Cameron Townsend,"Missouri City, Texas",womens tennis,texas
-875,Breckyn Hager,"Austin, Texas",womens tennis,texas
-876,Chris Naggar,"Arlington, Texas",womens tennis,texas
-877,Anthony Wheeler,"Dallas, Texas",womens tennis,texas
-878,Andrew Beck,"Tampa, Fla.",womens tennis,texas
-879,Andrew Fitzgerald,"Flower Mound, Texas",womens tennis,texas
-880,Ta'Quon Graham,"Temple, Texas",womens tennis,texas
-881,Joshua Rowland,"Madison, Miss.",womens tennis,texas
-882,Hayden Bruce,"Leander, Texas",womens tennis,texas
-883,Samuel Cosmi,"Humble, Texas",womens tennis,texas
-884,Jak Holbrook,"Austin, Texas",womens tennis,texas
-885,D'Andre Christmas,"New Orleans, La.",womens tennis,texas
-886,Zach Shackelford,"Belton, Texas",womens tennis,texas
-887,Cort Jaquess,"San Antonio, Texas",womens tennis,texas
-888,Mikey Grandy,"San Jose, Calif.",womens tennis,texas
-889,Ishan Rison,"Katy, Texas",womens tennis,texas
-890,Tope Imade,"Arlington, Texas",womens tennis,texas
-891,Derek Kerstetter,"San Antonio, Texas",womens tennis,texas
-892,Austin Allsup,"Austin, Texas",womens tennis,texas
-893,J.P. Urquidez,"Copperas Cove, Texas",womens tennis,texas
-894,Elijah Rodriguez,"Houston, Texas",womens tennis,texas
-895,Patrick Hudson,"Silsbee, Texas",womens tennis,texas
-896,Patrick Vahe,"Euless, Texas",womens tennis,texas
-897,Denzel Okafor,"Lewisville, Texas",womens tennis,texas
-898,Cade Brewer,"Austin, Texas",womens tennis,texas
-899,Reese Leitao,"Jenks, Okla.",womens tennis,texas
-900,Brennan Eagles,"Houston, Texas",womens tennis,texas
-901,Michael David Poujol,"Houston, Texas",womens tennis,texas
-902,Lil'Jordan Humphrey,"Southlake, Texas",womens tennis,texas
-903,Philipp Moeller,"Plano, Texas",womens tennis,texas
-904,Jordan Pouncey,"Winter Park, Fla.",womens tennis,texas
-905,Austin Hibbetts,"Cypress, Texas",womens tennis,texas
-906,Kai Jarmon,"Los Altos, Calif.",womens tennis,texas
-907,Max Cummins,"Fort Worth, Texas",womens tennis,texas
-908,Chris Fehr,"Austin, Texas",womens tennis,texas
-909,Charles Omenihu,"Rowlett, Texas",womens tennis,texas
-910,Jamari Chisholm,"Valdosta, Ga.",womens tennis,texas
-911,Gerald Wilbon,"Saint Rose, La.",womens tennis,texas
-912,Chris Nelson,"Lakeland, Fla.",womens tennis,texas
-913,John Burt,"Tallahassee, Fla.",mens track,texas
-914,Kris Boyd,"Gilmer, Texas",mens track,texas
-915,Cameron Rising,"Ventura, Calif.",mens track,texas
-916,Anthony Cook,"Houston, Texas",mens track,texas
-917,Devin Duvernay,"Sachse, Texas",mens track,texas
-918,Shane Buechele,"Arlington, Texas",mens track,texas
-919,Caden Sterns,"Cibolo, Texas",mens track,texas
-920,Ryan Bujcevski,"Sydney, Australia",mens track,texas
-921,Casey Thompson,"Newcastle, Okla.",mens track,texas
-922,Collin Johnson,"San Jose, Calif.",mens track,texas
-923,Sam Ehlinger,"Austin, Texas",mens track,texas
-924,P.J. Locke III,"Beaumont, Texas",mens track,texas
-925,Jerrod Heard,"Denton, Texas",mens track,texas
-926,Chris Brown,"Houston, Texas",mens track,texas
-927,Davion Curtis,"Temple, Texas",mens track,texas
-928,Davante Davis,"Miami, Fla.",mens track,texas
-929,Brandon Jones,"Nacogdoches, Texas",mens track,texas
-930,Kyle Porter,"Katy, Texas",mens track,texas
-931,Jeffrey McCulloch,"Houston, Texas",mens track,texas
-932,John Bonney,"Houston, Texas",mens track,texas
-933,B.J. Foster,"Angleton, Texas",mens track,texas
-934,Eric Cuffee,"Waco, Texas",mens track,texas
-935,Donovan Duvernay,"Sachse, Texas",mens track,texas
-936,Jarmarquis Durst,"Conroe, Texas",mens track,texas
-937,Kirk Johnson,"San Jose, Calif.",mens track,texas
-938,Josh Thompson,"Nacogdoches, Texas",mens track,texas
-939,Toneil Carter,"Houston, Texas",mens track,texas
-940,Kyle Hrncir,"San Antonio, Texas",mens track,texas
-941,Malcolm Roach,"Baton Rouge, La.",mens track,texas
-942,Daniel Young,"Houston, Texas",mens track,texas
-943,Gary  Johnson,"Douglas, Ala.",mens track,texas
-944,Tim Yoder,"Plano, Texas",mens track,texas
-945,Edwin Freeman,"Arlington, Texas",mens track,texas
-946,Russell Hine,"Austin, Texas",mens track,texas
-947,Demarco Boyd,"Gilmer, Texas",mens track,texas
-948,Chase Moore,"Los Angeles, Calif.",mens track,texas
-949,Kobe Boyce,"Corinth, Texas",mens track,texas
-950,Jack Geiger,"San Jose, Calif.",mens track,texas
-951,Montrell Estell,"Hooks, Texas",mens track,texas
-952,Edward Pequeno,"McAllen, Texas",mens track,texas
-953,Ayodele Adeoye,"St. Louis, Mo.",mens track,texas
-954,Hank Coutoumanos,"Southlake, Texas",mens track,texas
-955,Tristian Houston,"Galena Park, Texas",mens track,texas
-956,Marqez Bimage,"Brenham, Texas",mens track,texas
-957,Cameron Townsend,"Missouri City, Texas",mens track,texas
-958,Breckyn Hager,"Austin, Texas",mens track,texas
-959,Chris Naggar,"Arlington, Texas",mens track,texas
-960,Anthony Wheeler,"Dallas, Texas",mens track,texas
-961,Andrew Beck,"Tampa, Fla.",mens track,texas
-962,Andrew Fitzgerald,"Flower Mound, Texas",mens track,texas
-963,Ta'Quon Graham,"Temple, Texas",mens track,texas
-964,Joshua Rowland,"Madison, Miss.",mens track,texas
-965,Hayden Bruce,"Leander, Texas",mens track,texas
-966,Samuel Cosmi,"Humble, Texas",mens track,texas
-967,Jak Holbrook,"Austin, Texas",mens track,texas
-968,D'Andre Christmas,"New Orleans, La.",mens track,texas
-969,Zach Shackelford,"Belton, Texas",mens track,texas
-970,Cort Jaquess,"San Antonio, Texas",mens track,texas
-971,Mikey Grandy,"San Jose, Calif.",mens track,texas
-972,Ishan Rison,"Katy, Texas",mens track,texas
-973,Tope Imade,"Arlington, Texas",mens track,texas
-974,Derek Kerstetter,"San Antonio, Texas",mens track,texas
-975,Austin Allsup,"Austin, Texas",mens track,texas
-976,J.P. Urquidez,"Copperas Cove, Texas",mens track,texas
-977,Elijah Rodriguez,"Houston, Texas",mens track,texas
-978,Patrick Hudson,"Silsbee, Texas",mens track,texas
-979,Patrick Vahe,"Euless, Texas",mens track,texas
-980,Denzel Okafor,"Lewisville, Texas",mens track,texas
-981,Cade Brewer,"Austin, Texas",mens track,texas
-982,Reese Leitao,"Jenks, Okla.",mens track,texas
-983,Brennan Eagles,"Houston, Texas",mens track,texas
-984,Michael David Poujol,"Houston, Texas",mens track,texas
-985,Lil'Jordan Humphrey,"Southlake, Texas",mens track,texas
-986,Philipp Moeller,"Plano, Texas",mens track,texas
-987,Jordan Pouncey,"Winter Park, Fla.",mens track,texas
-988,Austin Hibbetts,"Cypress, Texas",mens track,texas
-989,Kai Jarmon,"Los Altos, Calif.",mens track,texas
-990,Max Cummins,"Fort Worth, Texas",mens track,texas
-991,Chris Fehr,"Austin, Texas",mens track,texas
-992,Charles Omenihu,"Rowlett, Texas",mens track,texas
-993,Jamari Chisholm,"Valdosta, Ga.",mens track,texas
-994,Gerald Wilbon,"Saint Rose, La.",mens track,texas
-995,Chris Nelson,"Lakeland, Fla.",mens track,texas
-996,John Burt,"Tallahassee, Fla.",womens rowing,texas
-997,Kris Boyd,"Gilmer, Texas",womens rowing,texas
-998,Cameron Rising,"Ventura, Calif.",womens rowing,texas
-999,Anthony Cook,"Houston, Texas",womens rowing,texas
-1000,Devin Duvernay,"Sachse, Texas",womens rowing,texas
-1001,Shane Buechele,"Arlington, Texas",womens rowing,texas
-1002,Caden Sterns,"Cibolo, Texas",womens rowing,texas
-1003,Ryan Bujcevski,"Sydney, Australia",womens rowing,texas
-1004,Casey Thompson,"Newcastle, Okla.",womens rowing,texas
-1005,Collin Johnson,"San Jose, Calif.",womens rowing,texas
-1006,Sam Ehlinger,"Austin, Texas",womens rowing,texas
-1007,P.J. Locke III,"Beaumont, Texas",womens rowing,texas
-1008,Jerrod Heard,"Denton, Texas",womens rowing,texas
-1009,Chris Brown,"Houston, Texas",womens rowing,texas
-1010,Davion Curtis,"Temple, Texas",womens rowing,texas
-1011,Davante Davis,"Miami, Fla.",womens rowing,texas
-1012,Brandon Jones,"Nacogdoches, Texas",womens rowing,texas
-1013,Kyle Porter,"Katy, Texas",womens rowing,texas
-1014,Jeffrey McCulloch,"Houston, Texas",womens rowing,texas
-1015,John Bonney,"Houston, Texas",womens rowing,texas
-1016,B.J. Foster,"Angleton, Texas",womens rowing,texas
-1017,Eric Cuffee,"Waco, Texas",womens rowing,texas
-1018,Donovan Duvernay,"Sachse, Texas",womens rowing,texas
-1019,Jarmarquis Durst,"Conroe, Texas",womens rowing,texas
-1020,Kirk Johnson,"San Jose, Calif.",womens rowing,texas
-1021,Josh Thompson,"Nacogdoches, Texas",womens rowing,texas
-1022,Toneil Carter,"Houston, Texas",womens rowing,texas
-1023,Kyle Hrncir,"San Antonio, Texas",womens rowing,texas
-1024,Malcolm Roach,"Baton Rouge, La.",womens rowing,texas
-1025,Daniel Young,"Houston, Texas",womens rowing,texas
-1026,Gary  Johnson,"Douglas, Ala.",womens rowing,texas
-1027,Tim Yoder,"Plano, Texas",womens rowing,texas
-1028,Edwin Freeman,"Arlington, Texas",womens rowing,texas
-1029,Russell Hine,"Austin, Texas",womens rowing,texas
-1030,Demarco Boyd,"Gilmer, Texas",womens rowing,texas
-1031,Chase Moore,"Los Angeles, Calif.",womens rowing,texas
-1032,Kobe Boyce,"Corinth, Texas",womens rowing,texas
-1033,Jack Geiger,"San Jose, Calif.",womens rowing,texas
-1034,Montrell Estell,"Hooks, Texas",womens rowing,texas
-1035,Edward Pequeno,"McAllen, Texas",womens rowing,texas
-1036,Ayodele Adeoye,"St. Louis, Mo.",womens rowing,texas
-1037,Hank Coutoumanos,"Southlake, Texas",womens rowing,texas
-1038,Tristian Houston,"Galena Park, Texas",womens rowing,texas
-1039,Marqez Bimage,"Brenham, Texas",womens rowing,texas
-1040,Cameron Townsend,"Missouri City, Texas",womens rowing,texas
-1041,Breckyn Hager,"Austin, Texas",womens rowing,texas
-1042,Chris Naggar,"Arlington, Texas",womens rowing,texas
-1043,Anthony Wheeler,"Dallas, Texas",womens rowing,texas
-1044,Andrew Beck,"Tampa, Fla.",womens rowing,texas
-1045,Andrew Fitzgerald,"Flower Mound, Texas",womens rowing,texas
-1046,Ta'Quon Graham,"Temple, Texas",womens rowing,texas
-1047,Joshua Rowland,"Madison, Miss.",womens rowing,texas
-1048,Hayden Bruce,"Leander, Texas",womens rowing,texas
-1049,Samuel Cosmi,"Humble, Texas",womens rowing,texas
-1050,Jak Holbrook,"Austin, Texas",womens rowing,texas
-1051,D'Andre Christmas,"New Orleans, La.",womens rowing,texas
-1052,Zach Shackelford,"Belton, Texas",womens rowing,texas
-1053,Cort Jaquess,"San Antonio, Texas",womens rowing,texas
-1054,Mikey Grandy,"San Jose, Calif.",womens rowing,texas
-1055,Ishan Rison,"Katy, Texas",womens rowing,texas
-1056,Tope Imade,"Arlington, Texas",womens rowing,texas
-1057,Derek Kerstetter,"San Antonio, Texas",womens rowing,texas
-1058,Austin Allsup,"Austin, Texas",womens rowing,texas
-1059,J.P. Urquidez,"Copperas Cove, Texas",womens rowing,texas
-1060,Elijah Rodriguez,"Houston, Texas",womens rowing,texas
-1061,Patrick Hudson,"Silsbee, Texas",womens rowing,texas
-1062,Patrick Vahe,"Euless, Texas",womens rowing,texas
-1063,Denzel Okafor,"Lewisville, Texas",womens rowing,texas
-1064,Cade Brewer,"Austin, Texas",womens rowing,texas
-1065,Reese Leitao,"Jenks, Okla.",womens rowing,texas
-1066,Brennan Eagles,"Houston, Texas",womens rowing,texas
-1067,Michael David Poujol,"Houston, Texas",womens rowing,texas
-1068,Lil'Jordan Humphrey,"Southlake, Texas",womens rowing,texas
-1069,Philipp Moeller,"Plano, Texas",womens rowing,texas
-1070,Jordan Pouncey,"Winter Park, Fla.",womens rowing,texas
-1071,Austin Hibbetts,"Cypress, Texas",womens rowing,texas
-1072,Kai Jarmon,"Los Altos, Calif.",womens rowing,texas
-1073,Max Cummins,"Fort Worth, Texas",womens rowing,texas
-1074,Chris Fehr,"Austin, Texas",womens rowing,texas
-1075,Charles Omenihu,"Rowlett, Texas",womens rowing,texas
-1076,Jamari Chisholm,"Valdosta, Ga.",womens rowing,texas
-1077,Gerald Wilbon,"Saint Rose, La.",womens rowing,texas
-1078,Chris Nelson,"Lakeland, Fla.",womens rowing,texas
-1079,John Burt,"Tallahassee, Fla.",softball,texas
-1080,Kris Boyd,"Gilmer, Texas",softball,texas
-1081,Cameron Rising,"Ventura, Calif.",softball,texas
-1082,Anthony Cook,"Houston, Texas",softball,texas
-1083,Devin Duvernay,"Sachse, Texas",softball,texas
-1084,Shane Buechele,"Arlington, Texas",softball,texas
-1085,Caden Sterns,"Cibolo, Texas",softball,texas
-1086,Ryan Bujcevski,"Sydney, Australia",softball,texas
-1087,Casey Thompson,"Newcastle, Okla.",softball,texas
-1088,Collin Johnson,"San Jose, Calif.",softball,texas
-1089,Sam Ehlinger,"Austin, Texas",softball,texas
-1090,P.J. Locke III,"Beaumont, Texas",softball,texas
-1091,Jerrod Heard,"Denton, Texas",softball,texas
-1092,Chris Brown,"Houston, Texas",softball,texas
-1093,Davion Curtis,"Temple, Texas",softball,texas
-1094,Davante Davis,"Miami, Fla.",softball,texas
-1095,Brandon Jones,"Nacogdoches, Texas",softball,texas
-1096,Kyle Porter,"Katy, Texas",softball,texas
-1097,Jeffrey McCulloch,"Houston, Texas",softball,texas
-1098,John Bonney,"Houston, Texas",softball,texas
-1099,B.J. Foster,"Angleton, Texas",softball,texas
-1100,Eric Cuffee,"Waco, Texas",softball,texas
-1101,Donovan Duvernay,"Sachse, Texas",softball,texas
-1102,Jarmarquis Durst,"Conroe, Texas",softball,texas
-1103,Kirk Johnson,"San Jose, Calif.",softball,texas
-1104,Josh Thompson,"Nacogdoches, Texas",softball,texas
-1105,Toneil Carter,"Houston, Texas",softball,texas
-1106,Kyle Hrncir,"San Antonio, Texas",softball,texas
-1107,Malcolm Roach,"Baton Rouge, La.",softball,texas
-1108,Daniel Young,"Houston, Texas",softball,texas
-1109,Gary  Johnson,"Douglas, Ala.",softball,texas
-1110,Tim Yoder,"Plano, Texas",softball,texas
-1111,Edwin Freeman,"Arlington, Texas",softball,texas
-1112,Russell Hine,"Austin, Texas",softball,texas
-1113,Demarco Boyd,"Gilmer, Texas",softball,texas
-1114,Chase Moore,"Los Angeles, Calif.",softball,texas
-1115,Kobe Boyce,"Corinth, Texas",softball,texas
-1116,Jack Geiger,"San Jose, Calif.",softball,texas
-1117,Montrell Estell,"Hooks, Texas",softball,texas
-1118,Edward Pequeno,"McAllen, Texas",softball,texas
-1119,Ayodele Adeoye,"St. Louis, Mo.",softball,texas
-1120,Hank Coutoumanos,"Southlake, Texas",softball,texas
-1121,Tristian Houston,"Galena Park, Texas",softball,texas
-1122,Marqez Bimage,"Brenham, Texas",softball,texas
-1123,Cameron Townsend,"Missouri City, Texas",softball,texas
-1124,Breckyn Hager,"Austin, Texas",softball,texas
-1125,Chris Naggar,"Arlington, Texas",softball,texas
-1126,Anthony Wheeler,"Dallas, Texas",softball,texas
-1127,Andrew Beck,"Tampa, Fla.",softball,texas
-1128,Andrew Fitzgerald,"Flower Mound, Texas",softball,texas
-1129,Ta'Quon Graham,"Temple, Texas",softball,texas
-1130,Joshua Rowland,"Madison, Miss.",softball,texas
-1131,Hayden Bruce,"Leander, Texas",softball,texas
-1132,Samuel Cosmi,"Humble, Texas",softball,texas
-1133,Jak Holbrook,"Austin, Texas",softball,texas
-1134,D'Andre Christmas,"New Orleans, La.",softball,texas
-1135,Zach Shackelford,"Belton, Texas",softball,texas
-1136,Cort Jaquess,"San Antonio, Texas",softball,texas
-1137,Mikey Grandy,"San Jose, Calif.",softball,texas
-1138,Ishan Rison,"Katy, Texas",softball,texas
-1139,Tope Imade,"Arlington, Texas",softball,texas
-1140,Derek Kerstetter,"San Antonio, Texas",softball,texas
-1141,Austin Allsup,"Austin, Texas",softball,texas
-1142,J.P. Urquidez,"Copperas Cove, Texas",softball,texas
-1143,Elijah Rodriguez,"Houston, Texas",softball,texas
-1144,Patrick Hudson,"Silsbee, Texas",softball,texas
-1145,Patrick Vahe,"Euless, Texas",softball,texas
-1146,Denzel Okafor,"Lewisville, Texas",softball,texas
-1147,Cade Brewer,"Austin, Texas",softball,texas
-1148,Reese Leitao,"Jenks, Okla.",softball,texas
-1149,Brennan Eagles,"Houston, Texas",softball,texas
-1150,Michael David Poujol,"Houston, Texas",softball,texas
-1151,Lil'Jordan Humphrey,"Southlake, Texas",softball,texas
-1152,Philipp Moeller,"Plano, Texas",softball,texas
-1153,Jordan Pouncey,"Winter Park, Fla.",softball,texas
-1154,Austin Hibbetts,"Cypress, Texas",softball,texas
-1155,Kai Jarmon,"Los Altos, Calif.",softball,texas
-1156,Max Cummins,"Fort Worth, Texas",softball,texas
-1157,Chris Fehr,"Austin, Texas",softball,texas
-1158,Charles Omenihu,"Rowlett, Texas",softball,texas
-1159,Jamari Chisholm,"Valdosta, Ga.",softball,texas
-1160,Gerald Wilbon,"Saint Rose, La.",softball,texas
-1161,Chris Nelson,"Lakeland, Fla.",softball,texas
-1162,John Burt,"Tallahassee, Fla.",womens volleyball,texas
-1163,Kris Boyd,"Gilmer, Texas",womens volleyball,texas
-1164,Cameron Rising,"Ventura, Calif.",womens volleyball,texas
-1165,Anthony Cook,"Houston, Texas",womens volleyball,texas
-1166,Devin Duvernay,"Sachse, Texas",womens volleyball,texas
-1167,Shane Buechele,"Arlington, Texas",womens volleyball,texas
-1168,Caden Sterns,"Cibolo, Texas",womens volleyball,texas
-1169,Ryan Bujcevski,"Sydney, Australia",womens volleyball,texas
-1170,Casey Thompson,"Newcastle, Okla.",womens volleyball,texas
-1171,Collin Johnson,"San Jose, Calif.",womens volleyball,texas
-1172,Sam Ehlinger,"Austin, Texas",womens volleyball,texas
-1173,P.J. Locke III,"Beaumont, Texas",womens volleyball,texas
-1174,Jerrod Heard,"Denton, Texas",womens volleyball,texas
-1175,Chris Brown,"Houston, Texas",womens volleyball,texas
-1176,Davion Curtis,"Temple, Texas",womens volleyball,texas
-1177,Davante Davis,"Miami, Fla.",womens volleyball,texas
-1178,Brandon Jones,"Nacogdoches, Texas",womens volleyball,texas
-1179,Kyle Porter,"Katy, Texas",womens volleyball,texas
-1180,Jeffrey McCulloch,"Houston, Texas",womens volleyball,texas
-1181,John Bonney,"Houston, Texas",womens volleyball,texas
-1182,B.J. Foster,"Angleton, Texas",womens volleyball,texas
-1183,Eric Cuffee,"Waco, Texas",womens volleyball,texas
-1184,Donovan Duvernay,"Sachse, Texas",womens volleyball,texas
-1185,Jarmarquis Durst,"Conroe, Texas",womens volleyball,texas
-1186,Kirk Johnson,"San Jose, Calif.",womens volleyball,texas
-1187,Josh Thompson,"Nacogdoches, Texas",womens volleyball,texas
-1188,Toneil Carter,"Houston, Texas",womens volleyball,texas
-1189,Kyle Hrncir,"San Antonio, Texas",womens volleyball,texas
-1190,Malcolm Roach,"Baton Rouge, La.",womens volleyball,texas
-1191,Daniel Young,"Houston, Texas",womens volleyball,texas
-1192,Gary  Johnson,"Douglas, Ala.",womens volleyball,texas
-1193,Tim Yoder,"Plano, Texas",womens volleyball,texas
-1194,Edwin Freeman,"Arlington, Texas",womens volleyball,texas
-1195,Russell Hine,"Austin, Texas",womens volleyball,texas
-1196,Demarco Boyd,"Gilmer, Texas",womens volleyball,texas
-1197,Chase Moore,"Los Angeles, Calif.",womens volleyball,texas
-1198,Kobe Boyce,"Corinth, Texas",womens volleyball,texas
-1199,Jack Geiger,"San Jose, Calif.",womens volleyball,texas
-1200,Montrell Estell,"Hooks, Texas",womens volleyball,texas
-1201,Edward Pequeno,"McAllen, Texas",womens volleyball,texas
-1202,Ayodele Adeoye,"St. Louis, Mo.",womens volleyball,texas
-1203,Hank Coutoumanos,"Southlake, Texas",womens volleyball,texas
-1204,Tristian Houston,"Galena Park, Texas",womens volleyball,texas
-1205,Marqez Bimage,"Brenham, Texas",womens volleyball,texas
-1206,Cameron Townsend,"Missouri City, Texas",womens volleyball,texas
-1207,Breckyn Hager,"Austin, Texas",womens volleyball,texas
-1208,Chris Naggar,"Arlington, Texas",womens volleyball,texas
-1209,Anthony Wheeler,"Dallas, Texas",womens volleyball,texas
-1210,Andrew Beck,"Tampa, Fla.",womens volleyball,texas
-1211,Andrew Fitzgerald,"Flower Mound, Texas",womens volleyball,texas
-1212,Ta'Quon Graham,"Temple, Texas",womens volleyball,texas
-1213,Joshua Rowland,"Madison, Miss.",womens volleyball,texas
-1214,Hayden Bruce,"Leander, Texas",womens volleyball,texas
-1215,Samuel Cosmi,"Humble, Texas",womens volleyball,texas
-1216,Jak Holbrook,"Austin, Texas",womens volleyball,texas
-1217,D'Andre Christmas,"New Orleans, La.",womens volleyball,texas
-1218,Zach Shackelford,"Belton, Texas",womens volleyball,texas
-1219,Cort Jaquess,"San Antonio, Texas",womens volleyball,texas
-1220,Mikey Grandy,"San Jose, Calif.",womens volleyball,texas
-1221,Ishan Rison,"Katy, Texas",womens volleyball,texas
-1222,Tope Imade,"Arlington, Texas",womens volleyball,texas
-1223,Derek Kerstetter,"San Antonio, Texas",womens volleyball,texas
-1224,Austin Allsup,"Austin, Texas",womens volleyball,texas
-1225,J.P. Urquidez,"Copperas Cove, Texas",womens volleyball,texas
-1226,Elijah Rodriguez,"Houston, Texas",womens volleyball,texas
-1227,Patrick Hudson,"Silsbee, Texas",womens volleyball,texas
-1228,Patrick Vahe,"Euless, Texas",womens volleyball,texas
-1229,Denzel Okafor,"Lewisville, Texas",womens volleyball,texas
-1230,Cade Brewer,"Austin, Texas",womens volleyball,texas
-1231,Reese Leitao,"Jenks, Okla.",womens volleyball,texas
-1232,Brennan Eagles,"Houston, Texas",womens volleyball,texas
-1233,Michael David Poujol,"Houston, Texas",womens volleyball,texas
-1234,Lil'Jordan Humphrey,"Southlake, Texas",womens volleyball,texas
-1235,Philipp Moeller,"Plano, Texas",womens volleyball,texas
-1236,Jordan Pouncey,"Winter Park, Fla.",womens volleyball,texas
-1237,Austin Hibbetts,"Cypress, Texas",womens volleyball,texas
-1238,Kai Jarmon,"Los Altos, Calif.",womens volleyball,texas
-1239,Max Cummins,"Fort Worth, Texas",womens volleyball,texas
-1240,Chris Fehr,"Austin, Texas",womens volleyball,texas
-1241,Charles Omenihu,"Rowlett, Texas",womens volleyball,texas
-1242,Jamari Chisholm,"Valdosta, Ga.",womens volleyball,texas
-1243,Gerald Wilbon,"Saint Rose, La.",womens volleyball,texas
-1244,Chris Nelson,"Lakeland, Fla.",womens volleyball,texas
+0,James Banks III,"Decatur, Ga.",mens basketball,texas
+1,Andrew Jones,"Irving, Texas",mens basketball,texas
+2,Matt Coleman,"Norfolk, Va.",mens basketball,texas
+3,Jacob Young,"Houston, Texas",mens basketball,texas
+4,Mohamed Bamba,"Harlem, N.Y.",mens basketball,texas
+5,Royce Hamm Jr.,"Houston, Texas",mens basketball,texas
+6,Eric Davis Jr.,"Saginaw, Mich.",mens basketball,texas
+7,Kerwin Roach II,"Houston, Texas",mens basketball,texas
+8,Jase Febres,"Houston, Texas",mens basketball,texas
+9,Jericho  Sims,"Minneapolis, Minn.",mens basketball,texas
+10,Dylan Osetkowski,"San Diego, Calif.",mens basketball,texas
+11,Isaiah  Hobbs,"Palm Beach, Fla.",mens basketball,texas
+12,Joe Schwartz,"Waco, Texas",mens basketball,texas
+13,Ryan McClurg,"Katy, Texas",mens basketball,texas
+14,Elijah Mitrou-Long,"Mississauga, Ontario, Canada",mens basketball,texas
+15,Alecia Sutton,"St. Louis, Mo.",womens basketball,texas
+16,Destiny Littleton,"La Jolla, Calif.",womens basketball,texas
+17,Jordan Hosey,"Pearland, Texas",womens basketball,texas
+18,Lashann Higgs,"Round Rock, Texas",womens basketball,texas
+19,Brooke McCarty,"League City, Texas",womens basketball,texas
+20,Jada Underwood,"Mesquite, Texas",womens basketball,texas
+21,Olamide Aborowa,"Ondo, Nigeria",womens basketball,texas
+22,Chasity  Patterson,"Houston, Texas",womens basketball,texas
+23,Ariel Atkins,"Duncanville, Texas",womens basketball,texas
+24,Joyner Holmes,"Cedar Hill, Texas",womens basketball,texas
+25,Khaléann Caron-Goudreau,"Gatineau, Quebec",womens basketball,texas
+26,Audrey-Ann Caron-Goudreau,"Gatineau, Quebec",womens basketball,texas
+27,Rellah Boothe,"Ocala, Fla.",womens basketball,texas
+28,Jatarie White,"Charlotte, N.C.",womens basketball,texas
+29,David Hamilton,"San Marcos, Texas",baseball,texas
+30,Kody Clemens,"Houston, Texas",baseball,texas
+31,Tate Shaw,"Austin, Texas",baseball,texas
+32,Ryan Reynolds,"Sugar Land, Texas",baseball,texas
+33,DJ Petrinsky,"Magnolia, Texas",baseball,texas
+34,Masen Hibbeler,"Cypress, Texas",baseball,texas
+35,Kamron Fields,"Garland, Texas",baseball,texas
+36,Duke Ellis,"Nacogdoches, Texas",baseball,texas
+37,Bryce Elder,"Decatur, Texas",baseball,texas
+38,Beau Ridgeway,"The Woodlands, Texas",baseball,texas
+39,Nico O'Donnell,"San Antonio, Texas",baseball,texas
+40,Donny Diaz,"Kingsville, Texas",baseball,texas
+41,Chase Shugart,"Bridge City, Texas",baseball,texas
+42,Blair Henley,"Fort Worth, Texas",baseball,texas
+43,George Pappas,"Houston, Texas",baseball,texas
+44,Josh Sawyer,"San Angelo, Texas",baseball,texas
+45,Bennett Inoff,"Houston, Texas",baseball,texas
+46,Bryce Verplank,"Flower Mound, Texas",baseball,texas
+47,Matteo Bocchi,"Parma, Italy",baseball,texas
+48,Cole Quintanilla,"Cedar Park, Texas",baseball,texas
+49,Tristan Stevens,"Springfield, Mo.",baseball,texas
+50,Turner Gauntt,"Houston, Texas",baseball,texas
+51,Matthew Whelan,"Houston, Texas",baseball,texas
+52,Michael McCann,"Round Rock, Texas",baseball,texas
+53,Bryson Smith,"Naples, Fla.",baseball,texas
+54,Chris Fearon,"Spring, Texas",baseball,texas
+55,Andy McGuire,"Oakton, VA",baseball,texas
+56,Austin Todd,"Round Rock, Texas",baseball,texas
+57,Nolan Kingham,"Las Vegas, Nevada",baseball,texas
+58,Brandon Ivey,"Houston, Texas",baseball,texas
+59,Parker Joe Robinson,"Coto de Caza, Calif.",baseball,texas
+60,Michael Streitmann,"Houston, Texas",baseball,texas
+61,Jake  McKenzie,"Dallas, Texas",baseball,texas
+62,Zach Zubia,"Richmond, Texas",baseball,texas
+63,Sam Bertelson,"Midland, Texas",baseball,texas
+64,John Burt,"Tallahassee, Fla.",football,texas
+65,Kris Boyd,"Gilmer, Texas",football,texas
+66,Cameron Rising,"Ventura, Calif.",football,texas
+67,Anthony Cook,"Houston, Texas",football,texas
+68,Devin Duvernay,"Sachse, Texas",football,texas
+69,Shane Buechele,"Arlington, Texas",football,texas
+70,Caden Sterns,"Cibolo, Texas",football,texas
+71,Ryan Bujcevski,"Sydney, Australia",football,texas
+72,Casey Thompson,"Newcastle, Okla.",football,texas
+73,Collin Johnson,"San Jose, Calif.",football,texas
+74,Sam Ehlinger,"Austin, Texas",football,texas
+75,P.J. Locke III,"Beaumont, Texas",football,texas
+76,Jerrod Heard,"Denton, Texas",football,texas
+77,Chris Brown,"Houston, Texas",football,texas
+78,Davion Curtis,"Temple, Texas",football,texas
+79,Davante Davis,"Miami, Fla.",football,texas
+80,Brandon Jones,"Nacogdoches, Texas",football,texas
+81,Kyle Porter,"Katy, Texas",football,texas
+82,Jeffrey McCulloch,"Houston, Texas",football,texas
+83,John Bonney,"Houston, Texas",football,texas
+84,B.J. Foster,"Angleton, Texas",football,texas
+85,Eric Cuffee,"Waco, Texas",football,texas
+86,Donovan Duvernay,"Sachse, Texas",football,texas
+87,Jarmarquis Durst,"Conroe, Texas",football,texas
+88,Kirk Johnson,"San Jose, Calif.",football,texas
+89,Josh Thompson,"Nacogdoches, Texas",football,texas
+90,Toneil Carter,"Houston, Texas",football,texas
+91,Kyle Hrncir,"San Antonio, Texas",football,texas
+92,Malcolm Roach,"Baton Rouge, La.",football,texas
+93,Daniel Young,"Houston, Texas",football,texas
+94,Gary  Johnson,"Douglas, Ala.",football,texas
+95,Tim Yoder,"Plano, Texas",football,texas
+96,Edwin Freeman,"Arlington, Texas",football,texas
+97,Russell Hine,"Austin, Texas",football,texas
+98,Demarco Boyd,"Gilmer, Texas",football,texas
+99,Chase Moore,"Los Angeles, Calif.",football,texas
+100,Kobe Boyce,"Corinth, Texas",football,texas
+101,Jack Geiger,"San Jose, Calif.",football,texas
+102,Montrell Estell,"Hooks, Texas",football,texas
+103,Edward Pequeno,"McAllen, Texas",football,texas
+104,Ayodele Adeoye,"St. Louis, Mo.",football,texas
+105,Hank Coutoumanos,"Southlake, Texas",football,texas
+106,Tristian Houston,"Galena Park, Texas",football,texas
+107,Marqez Bimage,"Brenham, Texas",football,texas
+108,Cameron Townsend,"Missouri City, Texas",football,texas
+109,Breckyn Hager,"Austin, Texas",football,texas
+110,Chris Naggar,"Arlington, Texas",football,texas
+111,Anthony Wheeler,"Dallas, Texas",football,texas
+112,Andrew Beck,"Tampa, Fla.",football,texas
+113,Andrew Fitzgerald,"Flower Mound, Texas",football,texas
+114,Ta'Quon Graham,"Temple, Texas",football,texas
+115,Joshua Rowland,"Madison, Miss.",football,texas
+116,Hayden Bruce,"Leander, Texas",football,texas
+117,Samuel Cosmi,"Humble, Texas",football,texas
+118,Jak Holbrook,"Austin, Texas",football,texas
+119,D'Andre Christmas,"New Orleans, La.",football,texas
+120,Zach Shackelford,"Belton, Texas",football,texas
+121,Cort Jaquess,"San Antonio, Texas",football,texas
+122,Mikey Grandy,"San Jose, Calif.",football,texas
+123,Ishan Rison,"Katy, Texas",football,texas
+124,Tope Imade,"Arlington, Texas",football,texas
+125,Derek Kerstetter,"San Antonio, Texas",football,texas
+126,Austin Allsup,"Austin, Texas",football,texas
+127,J.P. Urquidez,"Copperas Cove, Texas",football,texas
+128,Elijah Rodriguez,"Houston, Texas",football,texas
+129,Patrick Hudson,"Silsbee, Texas",football,texas
+130,Patrick Vahe,"Euless, Texas",football,texas
+131,Denzel Okafor,"Lewisville, Texas",football,texas
+132,Cade Brewer,"Austin, Texas",football,texas
+133,Reese Leitao,"Jenks, Okla.",football,texas
+134,Brennan Eagles,"Houston, Texas",football,texas
+135,Michael David Poujol,"Houston, Texas",football,texas
+136,Lil'Jordan Humphrey,"Southlake, Texas",football,texas
+137,Philipp Moeller,"Plano, Texas",football,texas
+138,Jordan Pouncey,"Winter Park, Fla.",football,texas
+139,Austin Hibbetts,"Cypress, Texas",football,texas
+140,Kai Jarmon,"Los Altos, Calif.",football,texas
+141,Max Cummins,"Fort Worth, Texas",football,texas
+142,Chris Fehr,"Austin, Texas",football,texas
+143,Charles Omenihu,"Rowlett, Texas",football,texas
+144,Jamari Chisholm,"Valdosta, Ga.",football,texas
+145,Gerald Wilbon,"Saint Rose, La.",football,texas
+146,Chris Nelson,"Lakeland, Fla.",football,texas
+147,Savannah Madden,"San Diego, Calif.",womens soccer,texas
+148,Cameron Brooks,"Round Rock, Texas",womens soccer,texas
+149,Haley Berg,"Celina, Texas",womens soccer,texas
+150,Emily  Strouphauer,"Round Rock, Texas",womens soccer,texas
+151,Cydney Billups,"Greenwood Village, Colo.",womens soccer,texas
+152,Carlee Allen,"Austin, Texas",womens soccer,texas
+153,Mikayla Flores,"La Verne, Calif.",womens soccer,texas
+154,Alexa  Adams,"Lancaster, Calif.",womens soccer,texas
+155,Chelsea Surpris,"Crowley, Texas",womens soccer,texas
+156,Tecora Turner,"Memphis, Tenn.",womens soccer,texas
+157,Nakia Graham,"Austin, Texas",womens soccer,texas
+158,Emily Martin,"Las Vegas, Nev.",womens soccer,texas
+159,Cyera Hintzen,"Garland, Texas",womens soccer,texas
+160,Peyton McGee,"Mansfield, Texas",womens soccer,texas
+161,Kayra Dollas,"Orange, Calif.",womens soccer,texas
+162,Amber Stearns,"San Antonio, Texas",womens soccer,texas
+163,Taylor Braun,"Colleyville, Texas",womens soccer,texas
+164,Atu Mshana,"Garland, Texas",womens soccer,texas
+165,Kyra Falcone,"San Antonio, Texas",womens soccer,texas
+166,Nicole Curry,"Dallas, Texas",womens soccer,texas
+167,Emma Jett,"Coppell, Texas",womens soccer,texas
+168,Katie Glenn,"Round Rock, Texas",womens soccer,texas
+169,Paige Hooper,"Beaumont, Texas",womens soccer,texas
+170,Olivia Brook,"Houston, Texas",womens soccer,texas
+171,Morgan Murphy,"Plano, Texas",womens soccer,texas
+172,Maddie Dorsett,"Carrollton, Texas",womens soccer,texas
+173,Taylor Currie,"Raleigh, N.C.",womens soccer,texas
+174,Natalie  Weidenbach,"North Bend, Wash.",womens soccer,texas
+175,Bailey Dobbs,"Katy, Texas",womens soccer,texas
+176,Christoffer  Bring,"Naestved, Denmark",mens golf,texas
+177,Cash Carter,"Dallas, Texas",mens golf,texas
+178,Steven Chervony,"Boca Raton, Fla.",mens golf,texas
+179,Nick Costello,"Austin, Texas",mens golf,texas
+180,Doug Ghim,"Arlington Heights, Ill.",mens golf,texas
+181,Drew Jones,"Decatur, Texas",mens golf,texas
+182,Scottie Scheffler,"Dallas, Texas",mens golf,texas
+183,Parker Sexton,"Memphis, Tenn.",mens golf,texas
+184,Spencer Soosman,"Westlake Village, Calif.",mens golf,texas
+185,Maren Cipolla,"Lewiston, N.Y.",womens golf,texas
+186,Emilee  Hoffman,"Folsom, Calif.",womens golf,texas
+187,Agathe Laisne,"Paris, France",womens golf,texas
+188,Maddie Luitwieler,"Katy, Texas",womens golf,texas
+189,Kaitlyn Papp,"Austin, Texas",womens golf,texas
+190,Sophia Schubert,"Oak Ridge, Tenn.",womens golf,texas
+191,Greta Isabella Voelker,"Witten, Germany",womens golf,texas
+192,Kelly Xac,"Corpus Christi, Texas",womens golf,texas
+193,Safa Anya,"Houston, Texas",mens swimming,texas
+194,Josh Artmann,"Austin, Texas",mens swimming,texas
+195,Luke Bowman,"Cypress, Texas",mens swimming,texas
+196,Jared Butler,"Rockwall, Texas",mens swimming,texas
+197,Grayson Campbell,"Vienna, Va.",mens swimming,texas
+198,Colter Carman,"Grapevine, Texas",mens swimming,texas
+199,Arthur Cheng,"Corpus Christi, Texas",mens swimming,texas
+200,Thomas Colket,"Frederick, Md.",mens swimming,texas
+201,Jacob Cornish,"Honolulu, Hawaii",mens swimming,texas
+202,Townley Haas,"Richmond, Va.",mens swimming,texas
+203,Ryan Harty,"Gardner, Mass.",mens swimming,texas
+204,Max Holter,"Fort Collins, Colo.",mens swimming,texas
+205,Jacob Huerta,"Corpus Christi, Texas",mens swimming,texas
+206,Tate Jackson,"Austin, Texas",mens swimming,texas
+207,Austin Katz,"Sarasota, Fla.",mens swimming,texas
+208,Sam Kline,"Prosper, Texas",mens swimming,texas
+209,Jack Lanphear,"Pittsburgh, Pa.",mens swimming,texas
+210,JohnThomas Larson,"Bloomington, Minn.",mens swimming,texas
+211,Casey Melzer,"Mars, Pa.",mens swimming,texas
+212,Reed Merritt,"Palo Alto, Calif.",mens swimming,texas
+213,Braxton Moore,"Houston, Texas",mens swimming,texas
+214,Parker Neri,"Columbus, Ohio",mens swimming,texas
+215,Jeff Newkirk,"Chesterfield, Va.",mens swimming,texas
+216,Jeremy Nichols,"Rockwall, Texas",mens swimming,texas
+217,Sam Pomajevich,"Manassas, Va.",mens swimming,texas
+218,Brett Ringgold,"Keller, Texas",mens swimming,texas
+219,Jonathan Roberts,"Southlake, Texas",mens swimming,texas
+220,Joseph Schooling,N/A,mens swimming,texas
+221,John Shebat,"Oak Hill, Va.",mens swimming,texas
+222,Sam Stewart,"Hattiesburg, Miss.",mens swimming,texas
+223,Austin Temple,"Virginia Beach, Va.",mens swimming,texas
+224,Mason Tenney,"Austin, Texas",mens swimming,texas
+225,Preston Varozza,"Austin, Texas",mens swimming,texas
+226,Jordan Windle,"Morrisville, N.C.",mens swimming,texas
+227,Chris Yeager,"Cedar Park, Texas",mens swimming,texas
+228,Claire Adams,"Carmel, Ind.",womens swimming,texas
+229,Olivia Anderson,"Edina, Minn.",womens swimming,texas
+230,Murphy Bromberg,"Bexley, Ohio",womens swimming,texas
+231,Quinn Carrozza,"Austin, Texas",womens swimming,texas
+232,Lauren Case,"Woodstock, Ga.",womens swimming,texas
+233,Anelise Diener,"San Antonio, Texas",womens swimming,texas
+234,Victoria Edwards,"Austin, Texas",womens swimming,texas
+235,Joanna Evans,"Freeport, The Bahamas",womens swimming,texas
+236,Alison Gibson,"Austin, Texas",womens swimming,texas
+237,Brooke Hansen,"Loveland, Colo.",womens swimming,texas
+238,Kaitlin Harty,"Beverly, Mass.",womens swimming,texas
+239,Sammie Hashbarger,"McKinney, Texas",womens swimming,texas
+240,Kennedy Lohman,"Louisville, Ky.",womens swimming,texas
+241,Nora McCullagh,"Charlotte, N.C.",womens swimming,texas
+242,Rebecca Millard,"Ladera Ranch, Calif.",womens swimming,texas
+243,Meghan O'Brien,"Concord, Mass.",womens swimming,texas
+244,Evie Pfeifer,"St. Louis, Mo.",womens swimming,texas
+245,Ashley Pollok,"Kingwood, Texas",womens swimming,texas
+246,Peyton Quattlebaum,"Sugar Land, Texas",womens swimming,texas
+247,Sofia Rauzi,"Round Rock, Texas",womens swimming,texas
+248,Emily Reese,"The Woodlands, Texas",womens swimming,texas
+249,Grace Ritch,"Magnolia, Texas",womens swimming,texas
+250,Remedy Rule,"Crozet, Va.",womens swimming,texas
+251,Mimi Schneider,"Western Springs, Ill.",womens swimming,texas
+252,Logan Shiller,"Houston, Texas",womens swimming,texas
+253,Sam Sutton,"Cedar Park, Texas",womens swimming,texas
+254,Ella Tierney,"Wilmette, Ill.",womens swimming,texas
+255,Jordan Wheeler,"Humble, Texas",womens swimming,texas
+256,Maxine Wolters,"Hamburg, Germany",womens swimming,texas
+257,Rodrigo Banzer,"La Paz, Bolivia",mens tennis,texas
+258,Johnny Goodwin,"Mission Hills, Kansas",mens tennis,texas
+259,Yuya Ito,"Yokohama, Japan",mens tennis,texas
+260,Colin Markes,"Austin, Texas",mens tennis,texas
+261,John Mee,"Highland Park, Texas",mens tennis,texas
+262,Adrian Ortiz,"Ensenada, Mexico",mens tennis,texas
+263,Harrison Scott,"Calgary, Alberta (Canada)",mens tennis,texas
+264,Christian Sigsgaard,"Naestved, Denmark",mens tennis,texas
+265,Leonardo Telles,"Sao Paulo, Brazil",mens tennis,texas
+266,Madison Cleff,"Colleyville, Texas",womens tennis,texas
+267,Chelsea Crovetti,"Henderson, Nev.",womens tennis,texas
+268,Tyler Duncum,"Austin, Texas",womens tennis,texas
+269,Petra Granic,"Split, Croatia",womens tennis,texas
+270,Fernanda Labraña,"Santiago, Chile",womens tennis,texas
+271,Bojana Markovic,"Belgrade, Serbia",womens tennis,texas
+272,Marta Perez-Mur,"Santa Cruz de Tenerife, Spain",womens tennis,texas
+273,Katie Poluta,"Cape Town, South Africa",womens tennis,texas
+274,Anna Turati,"Barzano, Italy",womens tennis,texas
+275,Bianca Turati,"Barzano, Italy",womens tennis,texas
+276,Dani Wagland,"Sydney, Australia",womens tennis,texas
+277,Garek Bielaczyc,"Salt Lake City, Utah",mens track,texas
+278,Washington Brown,"St. James, Jamaica",mens track,texas
+279,"Terry Brown, Jr.","Cedar Park, Texas",mens track,texas
+280,John Burt,"Tallahassee, Fla.",mens track,texas
+281,Eric Cain,"Copperas Cove, Texas",mens track,texas
+282,Mohamed Deyaf,"Austin, Texas",mens track,texas
+283,Jared Dupree,"Orange, Texas",mens track,texas
+284,Logan Emery,"The Woodlands, Texas",mens track,texas
+285,Dan Golden,"The Woodlands, Texas",mens track,texas
+286,Grahm Gonzalez,"Bosqueville, Texas",mens track,texas
+287,Robert Gonzalez,"Corpus Christi, Texas",mens track,texas
+288,Zach Hamstra,"Flower Mound, Texas",mens track,texas
+289,Micaiah Harris,"Virginia Beach, Va.",mens track,texas
+290,Trevor Heinz,"Dripping Springs, Texas",mens track,texas
+291,Connor Hendrickson,"Southlake, Texas",mens track,texas
+292,Chris Ibarra,"Atlanta, Texas",mens track,texas
+293,Fabian Jara Dohmann,"Fernando de la Mora, Paraguay",mens track,texas
+294,Jake Johnson,"Allen, Texas",mens track,texas
+295,Eric Kroon,"The Woodlands, Texas",mens track,texas
+296,Isaiah Lucas,"Houston, Texas",mens track,texas
+297,Kirema Macharia,"Round Rock, Texas",mens track,texas
+298,Wolf Mahler,"Temple, Texas",mens track,texas
+299,Steffin McCarter,"Copperas Cove, Texas",mens track,texas
+300,Matthew McClellan,"The Woodlands, Texas",mens track,texas
+301,Spencer McCloud,"Argyle, Texas",mens track,texas
+302,Jake McConnell,"Keller, Texas",mens track,texas
+303,Nicholas Meaders,"Gatesville, Texas",mens track,texas
+304,Charles Mills,"Kingwood, Texas",mens track,texas
+305,Ika Morton,"Lacey, Wash.",mens track,texas
+306,Pedro Nasta,"The Woodlands, Texas",mens track,texas
+307,Christopher Ntreh,"Murphy, Texas",mens track,texas
+308,Connor O'Neill,"Dallas, Texas",mens track,texas
+309,George Patrick,"Brentwood, Tenn.",mens track,texas
+310,Brian Peterson,"Round Rock, Texas",mens track,texas
+311,Jacob Pickle,"Southlake, Texas",mens track,texas
+312,Tripp Piperi,"The Woodlands, Texas",mens track,texas
+313,Barrett Poth,"The Woodlands, Texas",mens track,texas
+314,John Rice,"Brooklyn, N.Y.",mens track,texas
+315,Medric Roberson,"Arlington, Texas",mens track,texas
+316,Alex Rogers,"New Braunfels, Texas",mens track,texas
+317,David Rueff,"Katy, Texas",mens track,texas
+318,Wesley Ward,"Flower Mound, Texas",mens track,texas
+319,Steele Wasik,"Medina, Ohio",mens track,texas
+320,O'Brien Wasome,"Central Village, Jamaica",mens track,texas
+321,Sam Worley,"New Braunfels, Texas",mens track,texas
+322,Alan Zapalac,"Wallis, Texas",mens track,texas
+323,Mariam Abdul-Rashid,"Ontario, Canada",womens track,texas
+324,Katelyn Anderson,"Katy, Texas",womens track,texas
+325,Shayna Bains,"Basking Ridge, N.J.",womens track,texas
+326,Claudine Blancaflor,N/A,womens track,texas
+327,Skyler Bollinger,"Temecula, Calif.",womens track,texas
+328,Elena Bruckner,"San Jose, Calif.",womens track,texas
+329,Abby Brudnick,"Katy, Texas",womens track,texas
+330,Rushelle Burton,N/A,womens track,texas
+331,Lauryn Caldwell,"Dickinson, Texas",womens track,texas
+332,Jonesy Chauvot,"Pearland, Texas",womens track,texas
+333,Destiny Collins,"Temecula, Calif.",womens track,texas
+334,Gabby Crank,"Dallas, Texas",womens track,texas
+335,Haley Crouser,"Gresham, Ore.",womens track,texas
+336,Alex Cruz,"Edinburg, Texas",womens track,texas
+337,Teahna Daniels,"Orlando, Fla.",womens track,texas
+338,Serenity Douglas,"Grayson, Ga.",womens track,texas
+339,Lauren Edwards,"Grapevine, Texas",womens track,texas
+340,Sydne Fowler,"Austin, Texas",womens track,texas
+341,Zola Golden,"Sicklerville, N.J.",womens track,texas
+342,Hannah Grubb,"State College, Pa.",womens track,texas
+343,Marleen Guerrero,"Pearland, Texas",womens track,texas
+344,Abby Guidry,"Kingwood, Texas",womens track,texas
+345,Mary Beth Hamilton,"Dallas, Texas",womens track,texas
+346,Abigail Hirst,"Stratford, Texas",womens track,texas
+347,Martha Hughes,"Austin, Texas",womens track,texas
+348,Mackenzie Jensen,"Smithson Valley, Texas",womens track,texas
+349,Camille Johnson,"San Jose, Calif.",womens track,texas
+350,Ariel Jones,"Houston, Texas",womens track,texas
+351,Anne Sofie Kirkegaard,N/A,womens track,texas
+352,Meghan Lloyd,"Keller, Texas",womens track,texas
+353,Kally Long,"Wimberley, Texas",womens track,texas
+354,Tamea McKelvy,"Detroit, Mich.",womens track,texas
+355,Ashley Miller,"Greenwood Village, Colo.",womens track,texas
+356,Anna Norman,"Boerne, Texas",womens track,texas
+357,Shay Petty,"San Antonio, Texas",womens track,texas
+358,Virginia Preiss,"Corpus Christi, Texas",womens track,texas
+359,Lauren Reynnelles,N/A,womens track,texas
+360,Megan Rourke,"Austin, Texas",womens track,texas
+361,Katie Ruhala,"Lucas, Texas",womens track,texas
+362,Pedrya Seymour,"Nassau, Bahamas",womens track,texas
+363,Celesia Smith,"San Antonio, Texas",womens track,texas
+364,Calie Spencer,"New Braunfels, Texas",womens track,texas
+365,Olivia Thompson,"Kingwood, Texas",womens track,texas
+366,Ali Uhle,"Tomball, Texas",womens track,texas
+367,Georgia Wahl,"Houston, Texas",womens track,texas
+368,Jordan Welborn,"Lumberton, Texas",womens track,texas
+369,Ashtin Zamzow,"Goliad, Texas",womens track,texas
+370,Shannon Barry,"Dallas, Texas",womens rowing,texas
+371,Blair Bartholomew,"Round Rock, Texas",womens rowing,texas
+372,Jenna Bearden,"Los Gatos, Calif.",womens rowing,texas
+373,Fanny Bon,"Amsterdam, The Netherlands",womens rowing,texas
+374,Katelyn Bouthillette,"The Woodlands, Texas",womens rowing,texas
+375,Alice Bowyer,"Preston Lancashire, Great Britain",womens rowing,texas
+376,Elysse Brenner,"Oklahoma City, Okla.",womens rowing,texas
+377,Sarah Cadman,"Kingston, Ontario",womens rowing,texas
+378,Kendall Chapman,"Orlando, Fla.",womens rowing,texas
+379,Aspa Christadoulidis,"Athens, Greece",womens rowing,texas
+380,Emily Courtois,"Southlake, Texas",womens rowing,texas
+381,Courtney Crossley,"Winter Park, Fla.",womens rowing,texas
+382,Margaret Dail,"Vienna, Va.",womens rowing,texas
+383,Claudia Destefani,"Sabaudia, Italy",womens rowing,texas
+384,Lindsey Devore,"Mamaroneck, N.Y.",womens rowing,texas
+385,Marlow Eldridge,"Madison, Wis.",womens rowing,texas
+386,Samantha Ennis,"Sarasota, Fla.",womens rowing,texas
+387,Merilynn Finley,"Bristow, Va.",womens rowing,texas
+388,Rachel Fleming,"Dallas, Texas",womens rowing,texas
+389,Emily Froehlich,"Fishers, Ind.",womens rowing,texas
+390,Neve Gallagher,"Crozet, Va.",womens rowing,texas
+391,Rebecca Gehring,"Alexandria, Va.",womens rowing,texas
+392,Allyson Hite,"Apopka, Fla.",womens rowing,texas
+393,Ashley Jacobs,"Arlington, Texas",womens rowing,texas
+394,Mick Jonkers,"Amsterdam, The Netherlands",womens rowing,texas
+395,Ljiljana Josic,"Curug, Serbia",womens rowing,texas
+396,Madison Karns,N/A,womens rowing,texas
+397,Barb Klavin,"Tampa, Fla.",womens rowing,texas
+398,Alexis Lelon,"Wellesley, Mass.",womens rowing,texas
+399,Alexa McAuliffe,"Newton, Mass.",womens rowing,texas
+400,Aine McGinn,"Plan II Honors, Communications",womens rowing,texas
+401,Kenza McKerrihan,"Austin, Texas",womens rowing,texas
+402,McKenna Michels,"Dallas, Texas",womens rowing,texas
+403,Lauren Mufarreh,"San Francisco, Calif.",womens rowing,texas
+404,Kay Murphy,"Duxbury, Mass.",womens rowing,texas
+405,Sara Neaves,"Rhetoric & Writing, Linguistics",womens rowing,texas
+406,Eden Norris,"Nashville, Tenn.",womens rowing,texas
+407,Maddy Lou Nutting,"San Diego, Calif.",womens rowing,texas
+408,Sydney Ortiz,N/A,womens rowing,texas
+409,Sophie Pendrill,"Scarsdale, N.Y.",womens rowing,texas
+410,Sabrina Pham,"Plano, Texas",womens rowing,texas
+411,Maddie Prator,"Houston, Texas",womens rowing,texas
+412,Jill Renly,"San Diego, Calif.",womens rowing,texas
+413,Mara Royse,"Stilwell, Kan.",womens rowing,texas
+414,Maisie Sajbel,"Austin, Texas",womens rowing,texas
+415,Mary Schumann,N/A,womens rowing,texas
+416,Caitlin Shick,"Millbrae, Calif.",womens rowing,texas
+417,Milica Slijepcevic,"Novi Sad, Serbia",womens rowing,texas
+418,Mariam Soufi,"Atlanta, Ga.",womens rowing,texas
+419,Hannah Thornton,"The Woodlands, Texas",womens rowing,texas
+420,Maria Valencia,"Brownsville, Texas",womens rowing,texas
+421,Paige Vinnicombe,"San Mateo, Calif.",womens rowing,texas
+422,Jenny Warren,"Athens, Texas",womens rowing,texas
+423,Alexandra Watson,"Leicester, Great Britain",womens rowing,texas
+424,Ciera Schick,"Rancho Cucamonga, Calif.",softball,texas
+425,Chloe Romero,"Helendale, Calif.",softball,texas
+426,Janae  Jefferson,"Humble, Texas",softball,texas
+427,Kaitlyn Slack,"Liberty, Texas",softball,texas
+428,Kristen Clark,"Richmond, Texas",softball,texas
+429,Reagan Hathaway,"Lenexa, Kan.",softball,texas
+430,Randel Leahy,"Norco, Calif.",softball,texas
+431,Ki'Audra Hayter,"Nacogdoches, Texas",softball,texas
+432,Malory Schattle,"Salado, Texas",softball,texas
+433,Bekah Alcozer,"Belton, Texas",softball,texas
+434,Taylor Ellsworth,"Georgetown, Texas",softball,texas
+435,Brooke Bolinger,"Yucaipa, Calif.",softball,texas
+436,Erica Wright,"Huntington, Texas",softball,texas
+437,Ariana Adams,"Magnolia, Texas",softball,texas
+438,MK Tedder,"Hoover, Ala.",softball,texas
+439,Tuesday DerMargosian,"Fort Worth, Texas",softball,texas
+440,Kaitlyn Washington,"Humble, Texas",softball,texas
+441,Paige von Sprecken,"Yorba Linda, Calif.",softball,texas
+442,Micaya White,"Frisco, Texas",womens volleyball,texas
+443,Riley Fisbeck,"La Grange, Texas",womens volleyball,texas
+444,Claire Hahn,"Austin, Texas",womens volleyball,texas
+445,Ashley  Shook,"Plainfield, Ill.",womens volleyball,texas
+446,Brionne Butler,"Kendleton, Texas",womens volleyball,texas
+447,Morgan Johnson,"DeSoto, Texas",womens volleyball,texas
+448,Autumn Rounsaville,"Dripping Springs, Texas",womens volleyball,texas
+449,Blair Westerlund,"Round Rock, Texas",womens volleyball,texas
+450,Yaasmeen Bedart-Ghani,"Los Angeles, Calif.",womens volleyball,texas
+451,Orie Agbaji,"Kansas City, Mo.",womens volleyball,texas
