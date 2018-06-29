@@ -1,456 +1,441 @@
-,name,hometown,sport,school
-0,Brandon Averette,"Richardson, Texas / Richardson HS",mens basketball,oklahoma_state
-1,Kendall Smith,"Antioch, Calif. / Deer Valley HS",mens basketball,oklahoma_state
-2,Thomas Dziagwa,"Temple Terrace, Fla. / Tampa Catholic HS",mens basketball,oklahoma_state
-3,Tavarius Shine,"Irving, Texas / MacArthur HS",mens basketball,oklahoma_state
-4,Cameron McGriff,"Grand Prairie, Texas / South Grand Prairie HS",mens basketball,oklahoma_state
-5,Lucas N'Guessan,"De Lier, Netherlands / Canarias Basketball Academy",mens basketball,oklahoma_state
-6,"Lindy Waters, III","Norman, Okla. / Norman North HS",mens basketball,oklahoma_state
-7,Michael Weathers,"Roeland Park, Kan. / Shawnee Mission North HS",mens basketball,oklahoma_state
-8,Jeffrey Carroll,"Rowlett, Texas / Rowlett HS",mens basketball,oklahoma_state
-9,Trey Reeves,"Gans, Okla. / Muldrow HS",mens basketball,oklahoma_state
-10,Yankuba Sima,"Girona, Spain / Elev8 Institute",mens basketball,oklahoma_state
-11,Mitchell Solomon,"Bixby, Okla. / Bixby HS",mens basketball,oklahoma_state
-0,Katarina Adamovic,"Cacak, Serbia / Toza Dragovic",womens basketball,oklahoma_state
-1,Mandy Coleman,"Stockton, California / McNair",womens basketball,oklahoma_state
-2,Shakila Small,"Brooklyn, New York / Medgar Evers College Prep",womens basketball,oklahoma_state
-3,Areanna Combs,"Oklahoma City, Oklahoma / Putnam City West",womens basketball,oklahoma_state
-4,Jentry Holt,"Elgin, Oklahoma / Elgin",womens basketball,oklahoma_state
-5,Braxtin Miller,"Centerville, Ohio / Alter",womens basketball,oklahoma_state
-6,LaTashia Jones,"Leavenworth, Kansas / Leavenworth",womens basketball,oklahoma_state
-7,Ja'Mee Asberry,"Tulsa, Oklahoma / East Central",womens basketball,oklahoma_state
-8,Jaden Hobbs,"Alva, Oklahoma / Alva",womens basketball,oklahoma_state
-9,Karli Wheeler,"Plainview, Texas / Plainview",womens basketball,oklahoma_state
-10,Abbie Winchester,"Oklahoma City, Oklahoma / Heritage Hall",womens basketball,oklahoma_state
-11,Maria Castro,"Guanajuato, Mexico / Tecnologico De Monterrey",womens basketball,oklahoma_state
-12,Loryn Goodwin,"Cypress, Texas / Cypress Falls",womens basketball,oklahoma_state
-13,Clitan de Sousa,"Maputo, Mozambique / Apolotecnica",womens basketball,oklahoma_state
-14,Kaylee Jensen,"Genoa, Nebraska / Lindsay Holy Family",womens basketball,oklahoma_state
-0,Ryan Cash,"Plano, Texas / Prestonwood Christian",baseball,oklahoma_state
-1,Andrew Rosa,"Owasso, Okla. / Owasso HS",baseball,oklahoma_state
-2,Jake Taylor,"Shawnee, Okla. / Shawnee HS",baseball,oklahoma_state
-3,Cody Milligan,"Binger, Okla. / Binger-Oney HS",baseball,oklahoma_state
-4,Cameron Dobbs,"Dallas, Texas / Jesuit College Prep",baseball,oklahoma_state
-5,Parker Scott,"Flower Mound, Texas / Flower Mound HS",baseball,oklahoma_state
-6,Max Hewitt,"Midhurst, Ontario, Canada / Eastview SS",baseball,oklahoma_state
-7,Matt Kroon,"Scottsdale, Ariz. / Horizon HS",baseball,oklahoma_state
-8,Carson McCusker,"Sparks, Nev. / Spanish Springs HS",baseball,oklahoma_state
-9,Jon Littell,"Stillwater, Okla. / Stillwater HS",baseball,oklahoma_state
-10,Noah Sifrit,"Lubbock, Texas / Coronado HS",baseball,oklahoma_state
-11,Michael Neustifter,"Carrollton, Texas / Hebron HS",baseball,oklahoma_state
-12,Cade Cabbiness,"Bixby, Okla. / Bixby HS",baseball,oklahoma_state
-13,Travis Wacker,"Frisco, Texas / Kings Christian Collegiate",baseball,oklahoma_state
-14,Dylan Gardner,"Stillwater, Okla. / Stillwater HS",baseball,oklahoma_state
-15,Carson Teel,"Stillwater, Okla. / Stillwater HS",baseball,oklahoma_state
-16,Mitchell Stone,"Edmond, Okla. / Deer Creek HS",baseball,oklahoma_state
-17,Daniel DeSimone,"Broken Arrow, Okla. / Bishop Kelley HS",baseball,oklahoma_state
-18,Colin Simpson,"Edmond, Okla. / Memorial HS",baseball,oklahoma_state
-19,Tanner Sparks,"Shawnee, Okla. / Shawnee HS",baseball,oklahoma_state
-20,Tanner Griffin,"Bixby, Okla. / Bixby HS",baseball,oklahoma_state
-21,Brady Basso,"Pearland, Texas / Pearland HS",baseball,oklahoma_state
-22,Jacob Ruder,"Nixa, Mo. / Nixa HS",baseball,oklahoma_state
-23,Ben Leeper,"Southlake, Texas / Southlake Carroll HS",baseball,oklahoma_state
-24,Trevor Boone,"Tulsa, Okla. / Memorial HS",baseball,oklahoma_state
-25,Jensen Elliott,"Coppell, Texas / Coppell HS",baseball,oklahoma_state
-26,C.J. Varela,"Katy, Texas / Seven Lakes HS",baseball,oklahoma_state
-27,Jake Purl,"Parkville, Mo. / Park Hill South HS/Kansas City CC",baseball,oklahoma_state
-28,Cole Hearrean,"Mansfield, Texas / Legacy HS",baseball,oklahoma_state
-29,Matt Miles,"Hewitt, Texas / Midway HS",baseball,oklahoma_state
-30,Reza Aleaziz,"Tigard, Ore. / Southridge HS",baseball,oklahoma_state
-31,Jonathan Heasley,"Plano, Texas / Prestonwood Christian",baseball,oklahoma_state
-32,Joe Lienhard,"Wichita, Kan. / Kapaun Mt. Carmel HS",baseball,oklahoma_state
-33,Christian Funk,"Fresno, Calif. / Clovis West HS",baseball,oklahoma_state
-34,Brett Standlee,"Jenks, Okla. / Jenks HS",baseball,oklahoma_state
-35,Ryan Van Leeuwen,"Keller, Texas / Timber Creek HS",baseball,oklahoma_state
-36,Chase Burgess,"Jenks, Okla. / Jenks HS",baseball,oklahoma_state
-37,Peyton Battenfield,"Claremore, Okla. / Verdigris HS",baseball,oklahoma_state
-0,Calvin Bundage,"Edmond, OK / Santa Fe",football,oklahoma_state
-1,Jalen McCleskey,"Covington, LA / St. Paul's",football,oklahoma_state
-2,Tylan Wallace,"Fort Worth, TX / South Hills",football,oklahoma_state
-3,Kenneth Edison-McGruder,"Houston, TX / Taylor",football,oklahoma_state
-4,A.J. Green,"DeSoto, TX / DeSoto",football,oklahoma_state
-5,Tracin Wallace,"Fort Worth, TX / South Hills",football,oklahoma_state
-6,Justice Hill,"Tulsa, OK / Booker T. Washington",football,oklahoma_state
-7,LD Brown,"Dallas, TX / DeSoto",football,oklahoma_state
-8,Braydon Johnson,"Arlington, TX / Bowie",football,oklahoma_state
-9,Rodarius Williams,"Shreveport, LA / Calvary Baptist",football,oklahoma_state
-10,John Kolar,"Norman, OK / Norman North",football,oklahoma_state
-11,Tyrell Alexander,"Lancaster, TX / Lancaster",football,oklahoma_state
-12,Amen Ogbongbemiga,"Calgary, Alberta, Canada / Notre Dame",football,oklahoma_state
-13,Keondre Wudtee,"Bossier City, LA / Parkway",football,oklahoma_state
-14,Tyron Johnson,"New Orleans, LA / Warren Easton",football,oklahoma_state
-15,Lamarcus Morton,"Gilmer, TX / Gilmer",football,oklahoma_state
-16,Bryce Balous,"McKinney, TX / North",football,oklahoma_state
-17,Taylor Cornelius,"Bushland, TX / Bushland",football,oklahoma_state
-18,Sean Michael Flanagan,"Charleston, AR / Charleston",football,oklahoma_state
-19,Devin Harper,"Knoxville, TN / Karns",football,oklahoma_state
-20,Dillon Stoner,"Tulsa, OK / Jenks",football,oklahoma_state
-21,Za'Carrius Green,"Duncanville, TX / Duncanville",football,oklahoma_state
-22,Justin Phillips,"Pearland, TX / Pearland",football,oklahoma_state
-23,Malcolm Rodriguez,"Wagoner, OK / Wagoner",football,oklahoma_state
-24,Taoheed Karim,"Oklahoma City, OK / Putnam City North",football,oklahoma_state
-25,Trey Sterling,"Sunnyvale, TX / Sunnyvale",football,oklahoma_state
-26,Jarrick Bernard,"Shreveport, LA / Evangel Christian",football,oklahoma_state
-27,J.D. King,"Fitzgerald, GA / Fitzgerald",football,oklahoma_state
-28,Thabo Mwaniki,"Denton, TX / Guyer",football,oklahoma_state
-29,Bryce Brown,"Denton, TX / Guyer",football,oklahoma_state
-30,Zach Sinor,"Castroville, TX / Medina Valley",football,oklahoma_state
-31,Chuba Hubbard,"Sherwood Park, Alberta, Canada / Bev Facey",football,oklahoma_state
-32,Malik Givens,"Tulsa, OK / Booker T. Washington",football,oklahoma_state
-33,Kris McCune,"Forney, TX / Dallas Christian",football,oklahoma_state
-34,Ryan Haymaker,"Collinsville, OK / Collinsville",football,oklahoma_state
-35,Kevin Henry,"Baton Rouge, LA / Central",football,oklahoma_state
-36,Chance Cook,"Canadian, TX / Canadian",football,oklahoma_state
-37,Rhett Boles,"Tuttle, OK / Tuttle",football,oklahoma_state
-38,Dalton Dison,"Enid, OK / Enid",football,oklahoma_state
-39,Javarus Barksdale-Blair,"Lexington, KY / Lafayette",football,oklahoma_state
-40,Philip Redwine-Bryant,"Harker Heights, TX / Academy",football,oklahoma_state
-41,Jake McClure,"Chattanooga, TN / East Hamilton",football,oklahoma_state
-42,Brock Martin,"Oologah, OK / Oologah",football,oklahoma_state
-43,Britton Abbott,"Liberal, KS / Liberal",football,oklahoma_state
-44,Sione Finefeuiaki,"Santa Clara, CA / Wilcox",football,oklahoma_state
-45,Patrick Macon,"Memphis, TN / Millington Central",football,oklahoma_state
-46,Blake Barron,"Rockwall, TX / Rockwall",football,oklahoma_state
-47,Tyler Ferguson,"McKinney, TX / Boyd",football,oklahoma_state
-48,Adam Martin,"Stillwater, OK / Stillwater",football,oklahoma_state
-49,Matt Ammendola,"Lansdale, PA / North Penn",football,oklahoma_state
-50,Ry Schneider,"Minco, OK / Minco",football,oklahoma_state
-51,Arlington Hambright,"Ypsilanti, MI / Belleville",football,oklahoma_state
-52,Matt Hembrough,"Lisle, IL / Benet",football,oklahoma_state
-53,Latu Maile,"Euless, TX / Trinity",football,oklahoma_state
-54,"Enoch Smith, Jr.","Chicago, IL / Mount Carmel",football,oklahoma_state
-55,Larry Williams,"Wilmington, NC / Laney",football,oklahoma_state
-56,Walker Reed,"Norman, OK / North",football,oklahoma_state
-57,Brett Wilson,"Cashion, OK / Cashion",football,oklahoma_state
-58,Matt Hockett,"Norman, OK / Norman",football,oklahoma_state
-59,Grant Hill,"Edmond, OK / Memorial",football,oklahoma_state
-60,Sam Walkingstick,"Sallisaw, OK / Sallisaw",football,oklahoma_state
-61,Matt McClurg,"Centennial, CO / Heritage",football,oklahoma_state
-62,Shane Richards,"Calgary, Alberta, Canada / Crescent Heights",football,oklahoma_state
-63,Deionte Noel,"Cibolo, TX / Steele",football,oklahoma_state
-64,Bailey Wilhite,"Rowlett, TX / Rowlett",football,oklahoma_state
-65,Johnny Wilson,"Midland, TX / Midland Christian",football,oklahoma_state
-66,Teven Jenkins,"Topeka, KS / Topeka",football,oklahoma_state
-67,Larry Joubert,"Oklahoma City, OK / Douglass",football,oklahoma_state
-68,Marcus Keyes,"Port Allen, LA / Port Allen",football,oklahoma_state
-69,Dylan Galloway,"Dallas, TX / Coppell",football,oklahoma_state
-70,Hunter Anthony,"Tuttle, OK / Tuttle",football,oklahoma_state
-71,Darrion Daniels,"Dallas, TX / Bishop Dunne",football,oklahoma_state
-72,Matt Kegel,"Chaska, MN / Chaska",football,oklahoma_state
-73,Jake Ross,"Coweta, OK / Coweta",football,oklahoma_state
-74,LC Greenwood,"Garland, TX / Lakeview Central",football,oklahoma_state
-75,Elden Coleman,"El Paso, TX / Andress",football,oklahoma_state
-76,Cole Walterscheid,"Muenster, TX / Muenster",football,oklahoma_state
-77,Korie Frausto,"Wichita, KS / Maize South",football,oklahoma_state
-78,Dayton Metcalf,"Hooker, OK / Hooker",football,oklahoma_state
-79,Patrick McKaufman,"Oklahoma City, OK / Douglass",football,oklahoma_state
-80,Triston Grant,"Owasso, OK / Owasso",football,oklahoma_state
-81,Baron Odom,"Wynnewood, OK / Wynnewood",football,oklahoma_state
-82,Logan Carter,"Henrietta, TX / Henrietta",football,oklahoma_state
-83,Landon Wolf,"Tulsa, OK / East Central",football,oklahoma_state
-84,Jelani Woods,"Ellenwood, GA / Cedar Grove",football,oklahoma_state
-85,Cameron Murray,"Bryant, AR / Bryant",football,oklahoma_state
-86,Jarrell Owens,"Palestine, TX / Palestine",football,oklahoma_state
-87,Jordan Brailford,"Tulsa, OK / Booker T. Washington",football,oklahoma_state
-88,Brendon Evers,"Bixby, OK / Bixby",football,oklahoma_state
-89,Trey Carter,"Dallas, TX / Pinkston",football,oklahoma_state
-0,Megan Royall,"Collinsville, Okla. / Collinsville",womens soccer,oklahoma_state
-1,Hannah Warner,"Owasso, Okla. / Owasso",womens soccer,oklahoma_state
-2,Tanya de Souza,"Paris, France / Henri Darras",womens soccer,oklahoma_state
-3,Amy Nguyen,"Houston, Texas / Memorial HS",womens soccer,oklahoma_state
-4,Kirsten Siragusa,"Rowlett, Texas / Sachse",womens soccer,oklahoma_state
-5,Dani Greenlee,"Rockwall, Texas / Rockwall HS",womens soccer,oklahoma_state
-6,Hannah Webb,"Mansfield, Texas / Mansfield",womens soccer,oklahoma_state
-7,Anna Beffer,"Tulsa, Okla. / Union",womens soccer,oklahoma_state
-8,Allie Rivers,"Trophy Club, Texas / Byron Nelson",womens soccer,oklahoma_state
-9,Julia Lenhardt,"Frisco, Texas / Frisco",womens soccer,oklahoma_state
-10,Jaci Jones,"Mustang, Okla. / Mustang",womens soccer,oklahoma_state
-11,Elise Hawn,"Melissa, Texas / Melissa",womens soccer,oklahoma_state
-12,Taylor Olson,"San Antonio, Texas / Ronald Reagan",womens soccer,oklahoma_state
-13,Abbey Bright,"Edmond, Okla. / North",womens soccer,oklahoma_state
-14,Camy Huddleston,"Aledo, Texas / Aledo",womens soccer,oklahoma_state
-15,Marlo Zoller,"Tulsa, Okla. / Jenks",womens soccer,oklahoma_state
-16,Adalaide Kline,"Mission Hills, Kan. / Shawnee Mission East",womens soccer,oklahoma_state
-17,Morgan Wessling,"Lantana, Texas / Guyer",womens soccer,oklahoma_state
-18,Lauren Anderson,"San Antonio, Texas / Ronald Reagan",womens soccer,oklahoma_state
-19,Charmé Morgan,"Frisco, Texas / Centennial",womens soccer,oklahoma_state
-20,Laurene Tresfield,"Paris, France / Henri Darras",womens soccer,oklahoma_state
-21,Lana Duke,"Edmond, Okla. / Memorial",womens soccer,oklahoma_state
-22,Michela Ongaro,"Hartland, Wis. / Arrowhead Union HS",womens soccer,oklahoma_state
-23,Coumba Sow,"Zurich, Switzerland",womens soccer,oklahoma_state
-24,Haley Woodard,"Norman, Okla. / North",womens soccer,oklahoma_state
-25,Claire Gantzer,"Plano, Texas / Plano Senior",womens soccer,oklahoma_state
-26,Kim Rodriguez,"Porter, Texas / Porter",womens soccer,oklahoma_state
-27,Madi May,"Edmond, Okla. / Deer Creek",womens soccer,oklahoma_state
-28,Rachel VanFossen,"Broken Arrow, Okla. / Union",womens soccer,oklahoma_state
-29,Holly Brehmer,"Eagle River, Alaska / Chugiak",womens soccer,oklahoma_state
-30,Elise Davis,"Trophy Club, Texas / Byron Nelson",womens soccer,oklahoma_state
-31,Madeline Blasko,"Kildeer, Ill. / Lake Zurich",womens soccer,oklahoma_state
-0,Zach Bauchou,"Forest, Virginia / Liberty Christian Academy",mens golf,oklahoma_state
-1,Austin Eckroat,"Edmond, Okla. / North",mens golf,oklahoma_state
-2,Nick Heinen,"Edmond, Okla. / North",mens golf,oklahoma_state
-3,Viktor Hovland,"Oslo, Norway / WANG Toppidrett",mens golf,oklahoma_state
-4,Brendon Jelley,"Tulsa, Okla. / Jenks",mens golf,oklahoma_state
-5,Stratton Nolen,"Austin, Texas / Westlake",mens golf,oklahoma_state
-6,Sam Stevens,"Wichita, Kan. / Kapaun Mt. Carmel",mens golf,oklahoma_state
-7,Kristoffer Ventura,"Rygge, Norway / WANG Toppidrett",mens golf,oklahoma_state
-8,Matthew Wolff,"Agoura Hills, Calif / Westlake",mens golf,oklahoma_state
-9,Hayden Wood,"Edmond, Okla. / North",mens golf,oklahoma_state
-0,Stephanie Astrup,"Horsens, Denmark",womens golf,oklahoma_state
-1,Emily Batchelder,"Stillwater, Okla.",womens golf,oklahoma_state
-2,Emma Broze,"Nervieux, France",womens golf,oklahoma_state
-3,Chih-Min Chen,"Taipei, Taiwan",womens golf,oklahoma_state
-4,Maddie McCrary,"Wylie, Texas",womens golf,oklahoma_state
-5,Kenzie Neisen,"New Prague, Minnesota",womens golf,oklahoma_state
-6,Alexis Sadeghy,"Edmond, Oklahoma",womens golf,oklahoma_state
-7,Emma Whitaker,"Wichita, Kan.",womens golf,oklahoma_state
-0,Julian Cash,"Brighton, England",mens tennis,oklahoma_state
-1,Brady Draheim,"Kansas City, MO",mens tennis,oklahoma_state
-2,Artur Dubinski,"Minsk, Belarus",mens tennis,oklahoma_state
-3,Luke Hammond,"Birmingham, United Kingdom",mens tennis,oklahoma_state
-4,Jurence Mendoza,"Olongapo City, Philippines",mens tennis,oklahoma_state
-5,Tristan Meraut,"Paris, France",mens tennis,oklahoma_state
-6,Mathieu Scaglia,"Frejus, France",mens tennis,oklahoma_state
-7,Eleftherios Theodorou,"Marousi, Greece",mens tennis,oklahoma_state
-8,Maxim Tybar,"Minsk, Belarus",mens tennis,oklahoma_state
-0,Vladica Babic,"Podgorica, Montenegro",womens tennis,oklahoma_state
-1,Sofia Blanco,"Cordoba, Argentina",womens tennis,oklahoma_state
-2,Katelyn Blumenthal,"Edmond, Okla.",womens tennis,oklahoma_state
-3,Sami Court,"Oklahoma City, Okla.",womens tennis,oklahoma_state
-4,Saralyn Dyer,"Oklahoma City, Okla.",womens tennis,oklahoma_state
-5,Marina Guinart,"Castellar Del Valles, Spain",womens tennis,oklahoma_state
-6,Shir Hornung,"Yokneam, Israel",womens tennis,oklahoma_state
-7,Megan McCray,"Oceanside, Calif.",womens tennis,oklahoma_state
-8,Lisa Marie Rioux,"Okinawa, Japan",womens tennis,oklahoma_state
-9,Katarina Stresnakova,"Nova Dedinka, Slovakia",womens tennis,oklahoma_state
-0,Hassan Abdi,"Amarillo, Texas / Palo Duro HS",mens track,oklahoma_state
-1,Joshua Anadu,"Katy, Texas / Seven Lakes High School",mens track,oklahoma_state
-2,Zachary Andrew,"Boise, Idaho / Bishop Kelly HS",mens track,oklahoma_state
-3,Bryce Balenseifen,"Edmond, Okla. / Deer Creek HS",mens track,oklahoma_state
-4,Sylvester Barus,"Eldoret, Kenya / Latemo HS",mens track,oklahoma_state
-5,Elliot Bowker,"Northwich, Cheshire, UK / The County High School, Leftwich",mens track,oklahoma_state
-6,Benjamin Butler,"Highlands Ranch, Colorado / SkyView Academy",mens track,oklahoma_state
-7,Garrett Calhoun,"Boise, Idaho / Timberline HS",mens track,oklahoma_state
-8,Sean Casey,"Cedar Park, Texas / St. Dominic Savio",mens track,oklahoma_state
-9,Kurtis Cotton,"Omaha, Nebraska / Papillion-La Vista High School",mens track,oklahoma_state
-10,Logan Daily,"Okemah, Okla. / Okemah HS",mens track,oklahoma_state
-11,Dustan Davidson,"O'Fallon, Illinois / St. Louis University HS",mens track,oklahoma_state
-12,Kwame Donyinah,"Charlotte, North Carolina / Myers Park High School",mens track,oklahoma_state
-13,William Edmonds,"Marietta, Georgia / Pope HS",mens track,oklahoma_state
-14,Matthew Fayers,"Ickenham, England / Vyners",mens track,oklahoma_state
-15,Jacob Fincham-Dukes,"Leeds, England / St. Aidan's and John Fisher",mens track,oklahoma_state
-16,Noah Gade,Stillwater / Stillwater,mens track,oklahoma_state
-17,Cerake Geberkidane,"Denver, Colo. / East",mens track,oklahoma_state
-18,Malik Givens,"Tulsa, Okla. / Booker T. Washington",mens track,oklahoma_state
-19,Eugene Grayson III,"Glenpool, Oklahoma / Glenpool HS",mens track,oklahoma_state
-20,Tanner Green,"Olathe, Kan. / Olathe South",mens track,oklahoma_state
-21,Anthony Grogan Jr.,"McKinney, Texas / McKinney North",mens track,oklahoma_state
-22,Alec Haines,"Wildwood, Missouri / Lafayette HS",mens track,oklahoma_state
-23,Wesley Hallof,"Ft. Collins, Colorado / Fossil Ridge High School",mens track,oklahoma_state
-24,Brigham Hedges,"The Woodlands, TX / The Woodlands",mens track,oklahoma_state
-25,Torrey Hickel,"Chandler, Arizona / Desert Vista HS",mens track,oklahoma_state
-26,Harrison Hurley,"Fayetteville, Arkansas / Fayetteville High School",mens track,oklahoma_state
-27,Simon Imagbe,"Houston, Texas / Alief Taylor High School",mens track,oklahoma_state
-28,Tyler Jackson,"Claremore, Okla. / Claremore",mens track,oklahoma_state
-29,Bradley Johnson,"Brookfield, Wisc. / Brookfield East",mens track,oklahoma_state
-30,Reid Joyner,"Claremore, Okla. / Claremore",mens track,oklahoma_state
-31,Nicholas Kenville,"Edmond, Oklahoma / Edmond North High School",mens track,oklahoma_state
-32,Sukhi Khosla,"Tallahassee, Fla. / Leon HS",mens track,oklahoma_state
-33,Tre'Tez Kinnaird,"Louisville, Kent. / Butler HS",mens track,oklahoma_state
-34,Owen Krewson,"Sandusky, Ohio / Perkins High School",mens track,oklahoma_state
-35,Christian Liddell,"Rogers, Ark. / Rogers HS",mens track,oklahoma_state
-36,Luis Martinez,"Rio Rancho, NM / Cleveland",mens track,oklahoma_state
-37,Ryan McIntire,"Edmond, Okla. / Guthrie HS",mens track,oklahoma_state
-38,Mace Metcalf,"Arkansas City, Arkansas / Arkansas City High School",mens track,oklahoma_state
-39,Zac Miller,"Chaska, Minnesota / Edina High School",mens track,oklahoma_state
-40,Jerel Morrow,"Emporia, KS / Emporia",mens track,oklahoma_state
-41,Kevin Mulcaire,"Clarecastle, Ireland / St. Flannan's College",mens track,oklahoma_state
-42,Calahan Newsome,"Amarilo, Texas / Amarillo High School",mens track,oklahoma_state
-43,Cole Norton,"Picton, ON, Canada / Prince Edward Collegiate",mens track,oklahoma_state
-44,Temitope Olonisakin,"Edmonton, Alberta, Canada / Lillian Osborne HS",mens track,oklahoma_state
-45,Bryce Quigley,"The Woodlands, Texas / College Park High School",mens track,oklahoma_state
-46,Isai Rodriguez,"Ringwood, Oklahoma / Ringwood High School",mens track,oklahoma_state
-47,Blake Scott,"Aledo, Texas / Aledo",mens track,oklahoma_state
-48,Brandon Singleton,"Aurora, Colo. / Cherokee Trail",mens track,oklahoma_state
-49,Ryan Smeeton,"Calgary, Alb., Canada / Henry Wisewood Senior HS",mens track,oklahoma_state
-50,Ty Smith,"Stillwater, Okla. / Stillwater HS",mens track,oklahoma_state
-51,Kyler True,"Olpe, Kansas / Olpe High School",mens track,oklahoma_state
-52,Cole Verble,"Edmond, Okla. / Deer Creek",mens track,oklahoma_state
-53,Ryan Wheatley,"Grove, Okla. / Grove",mens track,oklahoma_state
-54,Ryan Wheeling,"New Town, North Dakota / New Town High School",mens track,oklahoma_state
-0,Grace Baker,"Hastings, Englad / Rye College",womens track,oklahoma_state
-1,Ariane Ballner,"Elmshorn, Germany / Bismarckschule Elmshorn",womens track,oklahoma_state
-2,Monica Barrera,"Chickasha, Okla. / Chickasha HS",womens track,oklahoma_state
-3,Jennifer Celis,"Hotchkiss, Colo. / Hotchkiss",womens track,oklahoma_state
-4,Amira Coleman,"Wylie, TX / Wylie East HS",womens track,oklahoma_state
-5,Danielle Coleman,"McKinney, TX / McKinney HS",womens track,oklahoma_state
-6,Darby Crynes,"Edmond, Okla. / Heritage Hall",womens track,oklahoma_state
-7,Nicolette Dixon,"McKinney, Texas / McKinney Boyd High School",womens track,oklahoma_state
-8,Kaylee Dodd,"Essex, England",womens track,oklahoma_state
-9,Stephanie Ferrante,"Chardon, OH / Chardon HS",womens track,oklahoma_state
-10,Kambri Gabel,"Melissa, Texas / Melissa High School",womens track,oklahoma_state
-11,Haley Geissler,"Owasso, Oklahoma / Owasso HS",womens track,oklahoma_state
-12,Anna Gunter,"Bartlesville, Oklahoma / Bartlesville HS",womens track,oklahoma_state
-13,Kami Hankins,"Edmond, Oklahoma / Edmond Memorial",womens track,oklahoma_state
-14,Megan Harris,"Grapevine, TX / Colleyville Heritage HS",womens track,oklahoma_state
-15,Emily Hart,"Edmond, Okla. / Edmond Santa Fe",womens track,oklahoma_state
-16,Erin Hart,"Edmond, Okla. / Edmond Santa Fe",womens track,oklahoma_state
-17,Emily Helms,"Mustang, OK / Mustang",womens track,oklahoma_state
-18,Abbie Hetherington,"Carlisle, United Kingdom",womens track,oklahoma_state
-19,Victoria Hill,"Oklahoma City, Oklahoma / Putnam City North High School",womens track,oklahoma_state
-20,Sarah Horan,"Poetry, Texas / Poetry Community Christian",womens track,oklahoma_state
-21,Anna Hurlbut,"Lincoln, Neb. / Lincoln Southwest",womens track,oklahoma_state
-22,Chelsea Jarvis,"St. Helens, England",womens track,oklahoma_state
-23,Sarah Johnson,"Edmond, Oklahoma / Edmond North High School",womens track,oklahoma_state
-24,Sinclaire Johnson,"Longwood, Florida / Lake Brantley HS",womens track,oklahoma_state
-25,Elliett Kulkin,"Tulsa, Oklahoma / Jenks",womens track,oklahoma_state
-26,Kaytlyn Larson,"Lakeville, MN / Lakeville South HS",womens track,oklahoma_state
-27,Lexie Lewis,"Brownwood, TX / Brownwood HS",womens track,oklahoma_state
-28,Michelle Magnani,"Moorpark, California / Moorpark HS",womens track,oklahoma_state
-29,Natalie Manders,"Apple Valley, Minnesota / Eastview High School",womens track,oklahoma_state
-30,Megan Mann,"Spring Valley, Texas / Smithson Valley High School",womens track,oklahoma_state
-31,Hailey Matthews,"Frisco, Texas / Frisco Heritage",womens track,oklahoma_state
-32,Kaci McCary,"Enid, Okla. / Chisholm HS",womens track,oklahoma_state
-33,Meghan McGrath,"Colorado Springs, Colorado / Lewis-Palmer HS",womens track,oklahoma_state
-34,Moriah Moody,"Tulsa, Oklahoma / Metro Christian Academy",womens track,oklahoma_state
-35,Gianna Moulis,"Glenpool, Oklahoma / Glenpool HS",womens track,oklahoma_state
-36,Baylor Nelson,"Catoosa, OK / Lincoln Christian School",womens track,oklahoma_state
-37,Elaina Noll,"Guthrie, Oklahoma / Bishop McGuinness Catholic",womens track,oklahoma_state
-38,Rachel Norman,"Jenks, Oklahoma / Jenks High School",womens track,oklahoma_state
-39,Rachel Nowak,"Venice, Florida / Venice High School",womens track,oklahoma_state
-40,Kaylee Oyler,"Clinton, Oklahoma / Clinton High School",womens track,oklahoma_state
-41,Ryan Roane,"Tomball, Texas / Tomball Memorial High School",womens track,oklahoma_state
-42,Sarah Robinson,"Southlake, Texas / Carroll HS",womens track,oklahoma_state
-43,Jordan Rockins,"The Woodlands, Texas / College Park High School",womens track,oklahoma_state
-44,Emily Rogers,"Togher, Ireland / Greenhills Drogheda",womens track,oklahoma_state
-45,Katherine Ruck,"Moscow, Idaho / Moscow High School",womens track,oklahoma_state
-46,Jocelen Ruth,"Shenandoah, Pennsylvania / Kutztown Area HS",womens track,oklahoma_state
-47,Ricki Lee Scheef,"Edmond, Oklahoma / Edmond Memorial",womens track,oklahoma_state
-48,Emily Smith,"Parker, Texas / Nishop Lynch High School",womens track,oklahoma_state
-49,Latriceia Smith,"Midland, Texas / Stanton High School",womens track,oklahoma_state
-50,Taylor Somers,"Omaha, Nebraska / Millard South High School",womens track,oklahoma_state
-51,Brittany Stallings,"Okmulgee, OK / Okmulgee HS",womens track,oklahoma_state
-52,Alexandria Stern,"Akron, Ohio / Walsh Jesuit High School",womens track,oklahoma_state
-53,Tyrzah Stinson,"Woodward, Oklahoma / Union High School",womens track,oklahoma_state
-54,Molly Sughroue,"McCook, Neb. / McCook",womens track,oklahoma_state
-55,Bailey Sutherlin,"Ardmore, Oklahoma / Plainview HS",womens track,oklahoma_state
-56,Summer Thompson,"Tulsa, Oklahoma / Holland High School",womens track,oklahoma_state
-57,Kennedy Turner,"Desoto, TX / Desoto HS",womens track,oklahoma_state
-58,Michaela Vasey,"Arlington Heights, Illinois / Wheeling HS",womens track,oklahoma_state
-59,Cheyenne Walden,"Sand Springs, Oklahoma / Charles Page High School",womens track,oklahoma_state
-60,Ambra Wesley,"Murphy, TX / Wylie HS",womens track,oklahoma_state
-61,Elissa White,"Stillwater, Oklahoma / Stillwater High School",womens track,oklahoma_state
-62,Kira White,Dallas / DeSoto,womens track,oklahoma_state
-63,Schuyler Wood-Hilderbrandt,Oklahoma City / Putnam City HS,womens track,oklahoma_state
-64,Claire Workman,"Springfield, Missouri / The Summit Prep",womens track,oklahoma_state
-65,Gintare Zenkeviciute,"Svencioneliai, Lithuania / Mindaugas Gymnasium",womens track,oklahoma_state
-0,Ethan Andersen,"Altoona, Iowa / Southeast Polk",wrestling,oklahoma_state
-1,Blake Andrews,"Grapevine, Texas / Grapevine",wrestling,oklahoma_state
-2,Christian Bahl,"Stillwater, Okla. / Stillwater",wrestling,oklahoma_state
-3,Jonce Blaylock,"Tulsa, Okla. / Berryhill",wrestling,oklahoma_state
-4,Kaid Brock,"Stillwater, Okla. / Stillwater",wrestling,oklahoma_state
-5,Donald Cannon,"McAlester, Okla. / McAlester",wrestling,oklahoma_state
-6,Tyler Dieringer,"Stillwater, Okla. / Stillwater",wrestling,oklahoma_state
-7,Daton Fix,"Sand Springs, Okla. / Charles Page",wrestling,oklahoma_state
-8,Jacob Fontanez,"Stillwater, Okla.",wrestling,oklahoma_state
-9,Kaden Gfeller,"Oklahoma City, Okla. / Heritage Hall",wrestling,oklahoma_state
-10,Gary Wayne Harding,"Collinsville, Okla. / Collinsville",wrestling,oklahoma_state
-11,Austin Harris,"Roseburg, Ore. / Roseburg",wrestling,oklahoma_state
-12,Dean Heil,"Brunswick, Ohio / St. Edward",wrestling,oklahoma_state
-13,Bear Hughes,"Coweta, Okla. / Coweta",wrestling,oklahoma_state
-14,Hestin Lamons,"Tahlequah, Okla. / Tahlequah",wrestling,oklahoma_state
-15,Boo Lewallen,"Yukon, Okla. / Yukon",wrestling,oklahoma_state
-16,Mike Magaldo,"Gillette, N.J. / Watchung Hills Regional",wrestling,oklahoma_state
-17,Andrew Marsden,"Crystal Lake, Ill. / Crystal Lake Central",wrestling,oklahoma_state
-18,Geordan Martinez,"Colorado Springs, Colo. / Pine Creek",wrestling,oklahoma_state
-19,Keegan Moore,"Jackson, Minn. / Jackson County Central",wrestling,oklahoma_state
-20,Dalton Moran,"Chandler, Ariz. / Chandler",wrestling,oklahoma_state
-21,Tristan Moran,"Stillwater, Okla. / Stillwater",wrestling,oklahoma_state
-22,Andrew Nieman,"Stillwater, Okla. / Stillwater",wrestling,oklahoma_state
-23,Nick Piccininni,"East Setauket, N.Y. / Ward Melville",wrestling,oklahoma_state
-24,Cornelius Putnam,"Tampa, Fla. / Blair Academy (N.J.)",wrestling,oklahoma_state
-25,Chandler Rogers,"Stillwater, Okla. / Stillwater",wrestling,oklahoma_state
-26,Wyatt Sheets,"Stilwell, Okla. / Stilwell",wrestling,oklahoma_state
-27,Jacobe Smith,"Muskogee, Okla. / Muskogee",wrestling,oklahoma_state
-28,Joe Smith,"Stillwater, Okla. / Stillwater",wrestling,oklahoma_state
-29,Jet Taylor,"Sallisaw, Okla. / Sallisaw",wrestling,oklahoma_state
-30,Preston Weigel,"Russell, Kan. / Hays",wrestling,oklahoma_state
-31,Derek White,"Edmond, Okla. / Edmond North",wrestling,oklahoma_state
-0,Lindsey Stoeckel,"Oklahoma City, Okla. / Southmoore HS",softball,oklahoma_state
-1,Maddi Holcomb,"North Richland Hills, Texas / Richland HS",softball,oklahoma_state
-2,Brighton Gilbert,"Chickasha, Okla. / Chickasha HS",softball,oklahoma_state
-3,Vanessa Shippy,"Coeur d'Alene, Idaho / Lake City HS",softball,oklahoma_state
-4,Emmie Robertson,"Lamar, Mo. / Lamar HS",softball,oklahoma_state
-5,Taylor Lynch,"Red Oak, Texas / Red Oak HS",softball,oklahoma_state
-6,Rylee Bayless,"Kansas City, Missouri / Winnetonka HS",softball,oklahoma_state
-7,Taylor Pence,"Hugo, Oklahoma / Hugh HS",softball,oklahoma_state
-8,Madi Sue Montgomery,"Burleson, Texas / Centennial HS",softball,oklahoma_state
-9,Samantha Clakley,"Carthage, Texas / Carthage",softball,oklahoma_state
-10,Jamie Lowrie,"Piedmont, Oklahoma / Piedmont HS",softball,oklahoma_state
-11,Raquel Dominguez,"Victorville, Calif. / Silverado HS",softball,oklahoma_state
-12,Whitney Whitehorn,"Owasso, Okla. / Owasso HS",softball,oklahoma_state
-13,Elise LeBeouf,"Crowley, La. / Notre Dame HS",softball,oklahoma_state
-14,Emily Clark,"Rockwall, Texas / Heath HS",softball,oklahoma_state
-15,Jessi Haffner,"Wichita, Kan. / Bishop Carroll HS",softball,oklahoma_state
-16,Sydney Pennington,"Sand Springs, Okla. / Charles Page HS",softball,oklahoma_state
-17,Mackenzie Thomas,"Claremore, Oklahoma / Claremore HS",softball,oklahoma_state
-18,Randee O'Donnell,"Tahlequah, Okla. / Tahlequah HS",softball,oklahoma_state
-19,Mallory Goodman,"Sand Springs, Oklahoma / Sand Springs HS",softball,oklahoma_state
-20,Kendal Judge,"Plainfield, Ill. / Providence Catholic HS",softball,oklahoma_state
-21,Regan Wilkins,"Burleson, Texas / Centennial HS",softball,oklahoma_state
-22,Brooke Johnson,"Kingwood, Texas / Kingwood HS",softball,oklahoma_state
-23,Michaela Richbourg,"Broken Bow, Okla. / Broken Bow HS",softball,oklahoma_state
-24,Logan Simunek,"Piedmont, Oklahoma / Piedmont HS",softball,oklahoma_state
-25,Chelsea Alexander,"Ada, Okla. / Latta HS",softball,oklahoma_state
-26,Lauren Heintzelman,"Southlake, Texas / Southlake Carroll HS",softball,oklahoma_state
-0,Natalie Alcorn,"Somerset, Pennsylvania / Somerset High School",womens equestrian,oklahoma_state
-1,Madeline Alewine,"Buckeye, Ariz. / Arizona Agribusiness and Equine Center",womens equestrian,oklahoma_state
-2,Kaitlyn Arnold,"Austin, Texas / Anderson High School",womens equestrian,oklahoma_state
-3,Amanda Atkins,"Edmond, Oklahoma / Edmond North High School",womens equestrian,oklahoma_state
-4,Carly Barrick,"Fallbrook, Calif. / Laurel Springs High School",womens equestrian,oklahoma_state
-5,Alexa Beaty,"Aubrey, Texas / Aubrey High School",womens equestrian,oklahoma_state
-6,Maddie Bender,"Colorado Springs, Colo. / Lewis-Palmer High                                School",womens equestrian,oklahoma_state
-7,Abigail Brayman,"Charlestown, Rhode Island  / Village Green Virtual",womens equestrian,oklahoma_state
-8,Natalie Campbell,"North Richland Hills, Texas / University of Texas                                Online High School",womens equestrian,oklahoma_state
-9,Kirsten Chamberland,"Abbotsford, British Columbia / D.W. Poppy Secondary School",womens equestrian,oklahoma_state
-10,Mackenzie Chapman,"Bellevue, Michigan  / Pennfield High School",womens equestrian,oklahoma_state
-11,Sarah Clymer,"Edmond, Okla. / Oklahoma Christian School",womens equestrian,oklahoma_state
-12,Danielle Cohen,"Cooper City, Fla. / Cooper City High School",womens equestrian,oklahoma_state
-13,Elizabeth Collins,"Carrollton, Texas / Prestonwood Christian                                Academy",womens equestrian,oklahoma_state
-14,Hunter DeJane,"Mead, Colo. / Mead High School",womens equestrian,oklahoma_state
-15,Megan Donald,"Poulsho, Wash. / North Kitsap High School",womens equestrian,oklahoma_state
-16,Ava Drysch,El Dorado Hills  / Oak Ridge High School,womens equestrian,oklahoma_state
-17,Maggie Drysch,"El Dorado Hills, Calif. / Oak Ridge High School",womens equestrian,oklahoma_state
-18,Molly Dunn,"Moorpark, Calif. / La Reina High School",womens equestrian,oklahoma_state
-19,Sydnee Gemar,"Sutton, Nebraska / Sutton Senior High School",womens equestrian,oklahoma_state
-20,Stephanie Helsen,"Enumclaw, Washington / Enumclaw High School",womens equestrian,oklahoma_state
-21,Taylor Hickam,"Arvada, Colo. / Ralston Valley High School",womens equestrian,oklahoma_state
-22,Harley Huff,"Evansville, Indiana  / F.J. Reitz High School",womens equestrian,oklahoma_state
-23,Kristin Hull,"Ligonier, Ind. / Fairfield Junior-Senior High                                School",womens equestrian,oklahoma_state
-24,Calley Huston,"Cottage Grove, Wisconcsin  / Argyle High School",womens equestrian,oklahoma_state
-25,Hannah Janson,"Berkley, Mass. / Saint Mary Academy Bay View High School",womens equestrian,oklahoma_state
-26,Katie Jones,"Wellington, Fla. / Wellington High School",womens equestrian,oklahoma_state
-27,Paige Kemper,"Gilbert, Ariz. / Mesquite High School",womens equestrian,oklahoma_state
-28,Ebba Lange,"Gnesta, Sweden / Nyköpings Enskilda Gymnasium",womens equestrian,oklahoma_state
-29,Kayla Lott,"Camarillo, Calif. / Camarillo High School",womens equestrian,oklahoma_state
-30,Kayla McCarthy,"Manasquan, New Jersey / The Ranney School",womens equestrian,oklahoma_state
-31,Hallie McClintock,"Galena, Ohio / Big Walnut High School",womens equestrian,oklahoma_state
-32,Kinsey McDougald,"O'Neals, Calif. / Minarets High School",womens equestrian,oklahoma_state
-33,Sarah Miller,"Boulder, Colo. / Holy Family High School",womens equestrian,oklahoma_state
-34,Addie Minnick,"Tulsa, Okla. / Jenks High School",womens equestrian,oklahoma_state
-35,Hannah Mitchell,"Cuba, Mo. / Cuba High School",womens equestrian,oklahoma_state
-36,Lauren Moorhead,"Austin, Texas / Hyde Park High School",womens equestrian,oklahoma_state
-37,Emily Morris,"Davenport, Iowa / Bettendorf High School",womens equestrian,oklahoma_state
-38,Kendall Pedigo,"Vancouver, Wash. / King's Way Christian School",womens equestrian,oklahoma_state
-39,Kaylee Pinkley,"Palm City, Fla. / Martin County High School",womens equestrian,oklahoma_state
-40,Julia Purus,"Purcell, Okla. / Purcell High School",womens equestrian,oklahoma_state
-41,Katy Rippetoe,"Nashville, Tennessee  / Ensworth High School",womens equestrian,oklahoma_state
-42,Caitlyn Sanchez,"Stillwater, Okla. / Stillwater High School",womens equestrian,oklahoma_state
-43,Katie Schell,"Cleveland, Ohio / Laurel Springs",womens equestrian,oklahoma_state
-44,Matilda Schulman,"Tarzana, Calif. / Sierra Canyon School",womens equestrian,oklahoma_state
-45,Allie Stein,"Warren, Ohio / Champion High School",womens equestrian,oklahoma_state
-46,Lia Turenne,"Elbert, Colorado / Palmer Ridge High School",womens equestrian,oklahoma_state
-47,Emma Verplank,"Edmond, Okla. / Oklahoma Christian School",womens equestrian,oklahoma_state
-48,Cassidy Watters,"Danville, Kansas  / Arkansas City High School",womens equestrian,oklahoma_state
-49,Kristi Wiggins,"Temecula, Calif. / Great Oak High School",womens equestrian,oklahoma_state
-50,Cassidy Wilbourn,"The Woodlands, Texas  / The Woodlands Christian Academy",womens equestrian,oklahoma_state
+,name,hometown,high school,school,name text,hometown text,high school text,school text,sport,college
+0,Kentrevious Jones,"Macon, Ga. / Quality Education Prep [N.C.]","Macon, Ga. / Quality Education Prep [N.C.]","Macon, Ga. / Quality Education Prep [N.C.]",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens basketball,oklahoma_state
+1,Curtis Jones,"Richmond, Va. / Huntington Prep [W.Va.]","Richmond, Va. / Huntington Prep [W.Va.]","Richmond, Va. / Huntington Prep [W.Va.]",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens basketball,oklahoma_state
+2,Maurice Calloo,"Windsor, Canada / Huntington Prep [W.Va.]","Windsor, Canada / Huntington Prep [W.Va.]","Windsor, Canada / Huntington Prep [W.Va.]",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens basketball,oklahoma_state
+3,Thomas Dziagwa,"Temple Terrace, Fla. / Tampa Catholic HS","Temple Terrace, Fla. / Tampa Catholic HS","Temple Terrace, Fla. / Tampa Catholic HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens basketball,oklahoma_state
+4,Duncan Demuth,"Seminole, Fla. / Seminole HS","Seminole, Fla. / Seminole HS","Seminole, Fla. / Seminole HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens basketball,oklahoma_state
+5,Cameron McGriff,"Grand Prairie, Texas / South Grand Prairie HS","Grand Prairie, Texas / South Grand Prairie HS","Grand Prairie, Texas / South Grand Prairie HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens basketball,oklahoma_state
+6,Isaac Likekele,"Mansfield, Texas / Timberview HS","Mansfield, Texas / Timberview HS","Mansfield, Texas / Timberview HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens basketball,oklahoma_state
+7,Lucas N'Guessan,"De Lier, Netherlands / Canarias Basketball Academy","De Lier, Netherlands / Canarias Basketball Academy","De Lier, Netherlands / Canarias Basketball Academy",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens basketball,oklahoma_state
+8,"Lindy Waters, III","Norman, Okla. / Norman North HS","Norman, Okla. / Norman North HS","Norman, Okla. / Norman North HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens basketball,oklahoma_state
+9,Yor Anei,"Overland Park, Kan. / Lee's Summit West HS [Mo.]","Overland Park, Kan. / Lee's Summit West HS [Mo.]","Overland Park, Kan. / Lee's Summit West HS [Mo.]",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens basketball,oklahoma_state
+10,Michael Weathers,"Roeland Park, Kan. / Shawnee Mission North HS","Roeland Park, Kan. / Shawnee Mission North HS","Roeland Park, Kan. / Shawnee Mission North HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens basketball,oklahoma_state
+11,Trey Reeves,"Gans, Okla. / Muldrow HS","Gans, Okla. / Muldrow HS","Gans, Okla. / Muldrow HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens basketball,oklahoma_state
+12,Mike Cunningham,"Lanham, Md. / DuVal HS","Lanham, Md. / DuVal HS","Lanham, Md. / DuVal HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens basketball,oklahoma_state
+0,Kassidy De Lapp,"El Dorado Hills, California / Oak Ridge","El Dorado Hills, California / Oak Ridge","El Dorado Hills, California / Oak Ridge",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,oklahoma_state
+1,Bryn Gerlich,"Colleyville, Texas / Colleyville Heritage","Colleyville, Texas / Colleyville Heritage","Colleyville, Texas / Colleyville Heritage",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,oklahoma_state
+2,Vivian Gray,"Argyle, Texas / Argyle","Argyle, Texas / Argyle","Argyle, Texas / Argyle",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,oklahoma_state
+3,Jentry Holt,"Elgin, Oklahoma / Elgin","Elgin, Oklahoma / Elgin","Elgin, Oklahoma / Elgin",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,oklahoma_state
+4,Braxtin Miller,"Centerville, Ohio / Alter","Centerville, Ohio / Alter","Centerville, Ohio / Alter",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,oklahoma_state
+5,Mariam Gnanou,West Ivory Coast,West Ivory Coast,West Ivory Coast,Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,oklahoma_state
+6,LaTashia Jones,"Leavenworth, Kansas / Leavenworth","Leavenworth, Kansas / Leavenworth","Leavenworth, Kansas / Leavenworth",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,oklahoma_state
+7,Ja'Mee Asberry,"Tulsa, Oklahoma / East Central","Tulsa, Oklahoma / East Central","Tulsa, Oklahoma / East Central",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,oklahoma_state
+8,Jaden Hobbs,"Alva, Oklahoma / Alva","Alva, Oklahoma / Alva","Alva, Oklahoma / Alva",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,oklahoma_state
+9,Karli Wheeler,"Plainview, Texas / Plainview","Plainview, Texas / Plainview","Plainview, Texas / Plainview",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,oklahoma_state
+10,Abbie Winchester,"Oklahoma City, Oklahoma / Heritage Hall","Oklahoma City, Oklahoma / Heritage Hall","Oklahoma City, Oklahoma / Heritage Hall",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,oklahoma_state
+11,Maria Castro,"Guanajuato, Mexico / Tecnologico De Monterrey","Guanajuato, Mexico / Tecnologico De Monterrey","Guanajuato, Mexico / Tecnologico De Monterrey",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,oklahoma_state
+12,Clitan de Sousa,"Maputo, Mozambique / Apolotecnica","Maputo, Mozambique / Apolotecnica","Maputo, Mozambique / Apolotecnica",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,oklahoma_state
+13,Olivia Gray,"Argyle, Texas / Argyle","Argyle, Texas / Argyle","Argyle, Texas / Argyle",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,oklahoma_state
+0,Ryan Cash,"Plano, Texas / Prestonwood Christian","Plano, Texas / Prestonwood Christian","Plano, Texas / Prestonwood Christian",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+1,Andrew Rosa,"Owasso, Okla. / Owasso HS","Owasso, Okla. / Owasso HS","Owasso, Okla. / Owasso HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+2,Jake Taylor,"Shawnee, Okla. / Shawnee HS","Shawnee, Okla. / Shawnee HS","Shawnee, Okla. / Shawnee HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+3,Cody Milligan,"Binger, Okla. / Binger-Oney HS","Binger, Okla. / Binger-Oney HS","Binger, Okla. / Binger-Oney HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+4,Parker Scott,"Flower Mound, Texas / Flower Mound HS","Flower Mound, Texas / Flower Mound HS","Flower Mound, Texas / Flower Mound HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+5,Max Hewitt,"Midhurst, Ontario, Canada / Eastview SS","Midhurst, Ontario, Canada / Eastview SS","Midhurst, Ontario, Canada / Eastview SS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+6,Matt Kroon,"Scottsdale, Ariz. / Horizon HS","Scottsdale, Ariz. / Horizon HS","Scottsdale, Ariz. / Horizon HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+7,Carson McCusker,"Sparks, Nev. / Spanish Springs HS","Sparks, Nev. / Spanish Springs HS","Sparks, Nev. / Spanish Springs HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+8,Jon Littell,"Stillwater, Okla. / Stillwater HS","Stillwater, Okla. / Stillwater HS","Stillwater, Okla. / Stillwater HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+9,Noah Sifrit,"Lubbock, Texas / Coronado HS","Lubbock, Texas / Coronado HS","Lubbock, Texas / Coronado HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+10,Michael Neustifter,"Carrollton, Texas / Hebron HS","Carrollton, Texas / Hebron HS","Carrollton, Texas / Hebron HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+11,Cade Cabbiness,"Bixby, Okla. / Bixby HS","Bixby, Okla. / Bixby HS","Bixby, Okla. / Bixby HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+12,Travis Wacker,"Frisco, Texas / Kings Christian Collegiate","Frisco, Texas / Kings Christian Collegiate","Frisco, Texas / Kings Christian Collegiate",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+13,Dylan Gardner,"Stillwater, Okla. / Stillwater HS","Stillwater, Okla. / Stillwater HS","Stillwater, Okla. / Stillwater HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+14,Carson Teel,"Stillwater, Okla. / Stillwater HS","Stillwater, Okla. / Stillwater HS","Stillwater, Okla. / Stillwater HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+15,Mitchell Stone,"Edmond, Okla. / Deer Creek HS","Edmond, Okla. / Deer Creek HS","Edmond, Okla. / Deer Creek HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+16,Daniel DeSimone,"Broken Arrow, Okla. / Bishop Kelley HS","Broken Arrow, Okla. / Bishop Kelley HS","Broken Arrow, Okla. / Bishop Kelley HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+17,Colin Simpson,"Edmond, Okla. / Memorial HS","Edmond, Okla. / Memorial HS","Edmond, Okla. / Memorial HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+18,Tanner Sparks,"Shawnee, Okla. / Shawnee HS","Shawnee, Okla. / Shawnee HS","Shawnee, Okla. / Shawnee HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+19,Tanner Griffin,"Bixby, Okla. / Bixby HS","Bixby, Okla. / Bixby HS","Bixby, Okla. / Bixby HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+20,Brady Basso,"Pearland, Texas / Pearland HS","Pearland, Texas / Pearland HS","Pearland, Texas / Pearland HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+21,Jacob Ruder,"Nixa, Mo. / Nixa HS","Nixa, Mo. / Nixa HS","Nixa, Mo. / Nixa HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+22,Ben Leeper,"Southlake, Texas / Southlake Carroll HS","Southlake, Texas / Southlake Carroll HS","Southlake, Texas / Southlake Carroll HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+23,Trevor Boone,"Tulsa, Okla. / Memorial HS","Tulsa, Okla. / Memorial HS","Tulsa, Okla. / Memorial HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+24,Jensen Elliott,"Coppell, Texas / Coppell HS","Coppell, Texas / Coppell HS","Coppell, Texas / Coppell HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+25,C.J. Varela,"Katy, Texas / Seven Lakes HS","Katy, Texas / Seven Lakes HS","Katy, Texas / Seven Lakes HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+26,Jake Purl,"Parkville, Mo. / Park Hill South HS/Kansas City CC","Parkville, Mo. / Park Hill South HS/Kansas City CC","Parkville, Mo. / Park Hill South HS/Kansas City CC",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+27,Cole Hearrean,"Mansfield, Texas / Legacy HS","Mansfield, Texas / Legacy HS","Mansfield, Texas / Legacy HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+28,Matt Miles,"Hewitt, Texas / Midway HS","Hewitt, Texas / Midway HS","Hewitt, Texas / Midway HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+29,Reza Aleaziz,"Tigard, Ore. / Southridge HS","Tigard, Ore. / Southridge HS","Tigard, Ore. / Southridge HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+30,Jonathan Heasley,"Plano, Texas / Prestonwood Christian","Plano, Texas / Prestonwood Christian","Plano, Texas / Prestonwood Christian",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+31,Joe Lienhard,"Wichita, Kan. / Kapaun Mt. Carmel HS","Wichita, Kan. / Kapaun Mt. Carmel HS","Wichita, Kan. / Kapaun Mt. Carmel HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+32,Christian Funk,"Fresno, Calif. / Clovis West HS","Fresno, Calif. / Clovis West HS","Fresno, Calif. / Clovis West HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+33,Brett Standlee,"Jenks, Okla. / Jenks HS","Jenks, Okla. / Jenks HS","Jenks, Okla. / Jenks HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+34,Ryan Van Leeuwen,"Keller, Texas / Timber Creek HS","Keller, Texas / Timber Creek HS","Keller, Texas / Timber Creek HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+35,Chase Burgess,"Jenks, Okla. / Jenks HS","Jenks, Okla. / Jenks HS","Jenks, Okla. / Jenks HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+36,Peyton Battenfield,"Claremore, Okla. / Verdigris HS","Claremore, Okla. / Verdigris HS","Claremore, Okla. / Verdigris HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,oklahoma_state
+0,Calvin Bundage,"Edmond, OK / Santa Fe",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+1,Jalen McCleskey,"Covington, LA / St. Paul's",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+2,Tylan Wallace,"Fort Worth, TX / South Hills",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+3,Kenneth Edison-McGruder,"Houston, TX / Taylor",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+4,A.J. Green,"DeSoto, TX / DeSoto",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+5,Tracin Wallace,"Fort Worth, TX / South Hills",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+6,Justice Hill,"Tulsa, OK / Booker T. Washington",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+7,LD Brown,"Dallas, TX / DeSoto",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+8,Braydon Johnson,"Arlington, TX / Bowie",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+9,Rodarius Williams,"Shreveport, LA / Calvary Baptist",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+10,John Kolar,"Norman, OK / Norman North",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+11,Tyrell Alexander,"Lancaster, TX / Lancaster",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+12,Amen Ogbongbemiga,"Calgary, Alberta, Canada / Notre Dame",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+13,Keondre Wudtee,"Bossier City, LA / Parkway",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+14,Tyron Johnson,"New Orleans, LA / Warren Easton",N/A,LSU,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+15,Lamarcus Morton,"Gilmer, TX / Gilmer",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+16,Bryce Balous,"McKinney, TX / North",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+17,Taylor Cornelius,"Bushland, TX / Bushland",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+18,Sean Michael Flanagan,"Charleston, AR / Charleston",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+19,Devin Harper,"Knoxville, TN / Karns",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+20,Dillon Stoner,"Tulsa, OK / Jenks",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+21,Za'Carrius Green,"Duncanville, TX / Duncanville",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+22,Justin Phillips,"Pearland, TX / Pearland",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+23,Malcolm Rodriguez,"Wagoner, OK / Wagoner",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+24,Taoheed Karim,"Oklahoma City, OK / Putnam City North",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+25,Trey Sterling,"Sunnyvale, TX / Sunnyvale",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+26,Jarrick Bernard,"Shreveport, LA / Evangel Christian",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+27,J.D. King,"Fitzgerald, GA / Fitzgerald",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+28,Thabo Mwaniki,"Denton, TX / Guyer",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+29,Bryce Brown,"Denton, TX / Guyer",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+30,Zach Sinor,"Castroville, TX / Medina Valley",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+31,Chuba Hubbard,"Sherwood Park, Alberta, Canada / Bev Facey",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+32,Taje Williams,"Pearland, TX / Dawson",N/A,Blinn JC,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+33,Malik Givens,"Tulsa, OK / Booker T. Washington",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+34,Kris McCune,"Forney, TX / Dallas Christian",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+35,Ryan Haymaker,"Collinsville, OK / Collinsville",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+36,Kevin Henry,"Baton Rouge, LA / Central",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+37,Chance Cook,"Canadian, TX / Canadian",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+38,Rhett Boles,"Tuttle, OK / Tuttle",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+39,Philip Redwine-Bryant,"Harker Heights, TX / Academy",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+40,Jake McClure,"Chattanooga, TN / East Hamilton",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+41,Brock Martin,"Oologah, OK / Oologah",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+42,Britton Abbott,"Liberal, KS / Liberal",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+43,Sione Finefeuiaki,"Santa Clara, CA / Wilcox",N/A,College of San Mateo,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+44,Patrick Macon,"Memphis, TN / Millington Central",N/A,Arizona Western,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+45,Blake Barron,"Rockwall, TX / Rockwall",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+46,Tyler Ferguson,"McKinney, TX / Boyd",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+47,Adam Martin,"Stillwater, OK / Stillwater",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+48,Matt Ammendola,"Lansdale, PA / North Penn",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+49,Ry Schneider,"Minco, OK / Minco",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+50,Arlington Hambright,"Ypsilanti, MI / Belleville",N/A,Garden City CC,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+51,Matt Hembrough,"Lisle, IL / Benet",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+52,Latu Maile,"Euless, TX / Trinity",N/A,Tyler JC,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+53,"Enoch Smith, Jr.","Chicago, IL / Mount Carmel",N/A,Michigan State / Kennedy-King College,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+54,Larry Williams,"Wilmington, NC / Laney",N/A,East Carolina/Hutchinson CC,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+55,Walker Reed,"Norman, OK / North",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+56,Brett Wilson,"Cashion, OK / Cashion",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+57,Matt Hockett,"Norman, OK / Norman",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+58,Grant Hill,"Edmond, OK / Memorial",N/A,Central Oklahoma,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+59,Sam Walkingstick,"Sallisaw, OK / Sallisaw",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+60,Matt McClurg,"Centennial, CO / Heritage",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+61,Shane Richards,"Calgary, Alberta, Canada / Crescent Heights",N/A,New Mexico Military Institute,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+62,Deionte Noel,"Cibolo, TX / Steele",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+63,Bailey Wilhite,"Rowlett, TX / Rowlett",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+64,Johnny Wilson,"Midland, TX / Midland Christian",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+65,Teven Jenkins,"Topeka, KS / Topeka",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+66,Larry Joubert,"Oklahoma City, OK / Douglass",N/A,NEO A&M JC,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+67,Marcus Keyes,"Port Allen, LA / Port Allen",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+68,Dylan Galloway,"Dallas, TX / Coppell",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+69,Hunter Anthony,"Tuttle, OK / Tuttle",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+70,Darrion Daniels,"Dallas, TX / Bishop Dunne",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+71,Matt Kegel,"Chaska, MN / Chaska",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+72,Jake Ross,"Coweta, OK / Coweta",N/A,NEO A&M JC,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+73,LC Greenwood,"Garland, TX / Lakeview Central",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+74,Elden Coleman,"El Paso, TX / Andress",N/A,Southern Nazarene,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+75,Cole Walterscheid,"Muenster, TX / Muenster",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+76,Korie Frausto,"Wichita, KS / Maize South",N/A,Army,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+77,Dayton Metcalf,"Hooker, OK / Hooker",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+78,Patrick McKaufman,"Oklahoma City, OK / Douglass",N/A,NEO A&M JC,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+79,Triston Grant,"Owasso, OK / Owasso",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+80,Baron Odom,"Wynnewood, OK / Wynnewood",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+81,Logan Carter,"Henrietta, TX / Henrietta",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+82,Landon Wolf,"Tulsa, OK / East Central",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+83,Jelani Woods,"Ellenwood, GA / Cedar Grove",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+84,Cameron Murray,"Bryant, AR / Bryant",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+85,Jarrell Owens,"Palestine, TX / Palestine",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+86,Jordan Brailford,"Tulsa, OK / Booker T. Washington",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+87,Brendon Evers,"Bixby, OK / Bixby",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+88,Trey Carter,"Dallas, TX / Pinkston",N/A,,Name,Hometown / HS,N/A,Previous School,football,oklahoma_state
+0,Megan Royall,"Collinsville, Okla. / Collinsville","Collinsville, Okla. / Collinsville","Collinsville, Okla. / Collinsville",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+1,Hannah Warner,"Owasso, Okla. / Owasso","Owasso, Okla. / Owasso","Owasso, Okla. / Owasso",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+2,Tanya de Souza,"Paris, France / Henri Darras","Paris, France / Henri Darras","Paris, France / Henri Darras",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+3,Amy Nguyen,"Houston, Texas / Memorial HS","Houston, Texas / Memorial HS","Houston, Texas / Memorial HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+4,Kirsten Siragusa,"Rowlett, Texas / Sachse","Rowlett, Texas / Sachse","Rowlett, Texas / Sachse",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+5,Dani Greenlee,"Rockwall, Texas / Rockwall HS","Rockwall, Texas / Rockwall HS","Rockwall, Texas / Rockwall HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+6,Hannah Webb,"Mansfield, Texas / Mansfield","Mansfield, Texas / Mansfield","Mansfield, Texas / Mansfield",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+7,Anna Beffer,"Tulsa, Okla. / Union","Tulsa, Okla. / Union","Tulsa, Okla. / Union",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+8,Allie Rivers,"Trophy Club, Texas / Byron Nelson","Trophy Club, Texas / Byron Nelson","Trophy Club, Texas / Byron Nelson",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+9,Julia Lenhardt,"Frisco, Texas / Frisco","Frisco, Texas / Frisco","Frisco, Texas / Frisco",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+10,Jaci Jones,"Mustang, Okla. / Mustang","Mustang, Okla. / Mustang","Mustang, Okla. / Mustang",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+11,Elise Hawn,"Melissa, Texas / Melissa","Melissa, Texas / Melissa","Melissa, Texas / Melissa",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+12,Taylor Olson,"San Antonio, Texas / Ronald Reagan","San Antonio, Texas / Ronald Reagan","San Antonio, Texas / Ronald Reagan",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+13,Abbey Bright,"Edmond, Okla. / North","Edmond, Okla. / North","Edmond, Okla. / North",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+14,Camy Huddleston,"Aledo, Texas / Aledo","Aledo, Texas / Aledo","Aledo, Texas / Aledo",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+15,Marlo Zoller,"Tulsa, Okla. / Jenks","Tulsa, Okla. / Jenks","Tulsa, Okla. / Jenks",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+16,Adalaide Kline,"Mission Hills, Kan. / Shawnee Mission East","Mission Hills, Kan. / Shawnee Mission East","Mission Hills, Kan. / Shawnee Mission East",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+17,Morgan Wessling,"Lantana, Texas / Guyer","Lantana, Texas / Guyer","Lantana, Texas / Guyer",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+18,Lauren Anderson,"San Antonio, Texas / Ronald Reagan","San Antonio, Texas / Ronald Reagan","San Antonio, Texas / Ronald Reagan",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+19,Charmé Morgan,"Frisco, Texas / Centennial","Frisco, Texas / Centennial","Frisco, Texas / Centennial",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+20,Laurene Tresfield,"Paris, France / Henri Darras","Paris, France / Henri Darras","Paris, France / Henri Darras",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+21,Lana Duke,"Edmond, Okla. / Memorial","Edmond, Okla. / Memorial","Edmond, Okla. / Memorial",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+22,Michela Ongaro,"Hartland, Wis. / Arrowhead Union HS","Hartland, Wis. / Arrowhead Union HS","Hartland, Wis. / Arrowhead Union HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+23,Coumba Sow,"Zurich, Switzerland","Zurich, Switzerland","Zurich, Switzerland",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+24,Haley Woodard,"Norman, Okla. / North","Norman, Okla. / North","Norman, Okla. / North",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+25,Claire Gantzer,"Plano, Texas / Plano Senior","Plano, Texas / Plano Senior","Plano, Texas / Plano Senior",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+26,Kim Rodriguez,"Porter, Texas / Porter","Porter, Texas / Porter","Porter, Texas / Porter",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+27,Madi May,"Edmond, Okla. / Deer Creek","Edmond, Okla. / Deer Creek","Edmond, Okla. / Deer Creek",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+28,Rachel VanFossen,"Broken Arrow, Okla. / Union","Broken Arrow, Okla. / Union","Broken Arrow, Okla. / Union",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+29,Holly Brehmer,"Eagle River, Alaska / Chugiak","Eagle River, Alaska / Chugiak","Eagle River, Alaska / Chugiak",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+30,Elise Davis,"Trophy Club, Texas / Byron Nelson","Trophy Club, Texas / Byron Nelson","Trophy Club, Texas / Byron Nelson",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+31,Madeline Blasko,"Kildeer, Ill. / Lake Zurich","Kildeer, Ill. / Lake Zurich","Kildeer, Ill. / Lake Zurich",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens soccer,oklahoma_state
+0,Zach Bauchou,"Forest, Virginia / Liberty Christian Academy","Forest, Virginia / Liberty Christian Academy","Forest, Virginia / Liberty Christian Academy",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,oklahoma_state
+1,Austin Eckroat,"Edmond, Okla. / North","Edmond, Okla. / North","Edmond, Okla. / North",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,oklahoma_state
+2,Nick Heinen,"Edmond, Okla. / North","Edmond, Okla. / North","Edmond, Okla. / North",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,oklahoma_state
+3,Viktor Hovland,"Oslo, Norway / WANG Toppidrett","Oslo, Norway / WANG Toppidrett","Oslo, Norway / WANG Toppidrett",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,oklahoma_state
+4,Brendon Jelley,"Tulsa, Okla. / Jenks","Tulsa, Okla. / Jenks","Tulsa, Okla. / Jenks",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,oklahoma_state
+5,Stratton Nolen,"Austin, Texas / Westlake","Austin, Texas / Westlake","Austin, Texas / Westlake",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,oklahoma_state
+6,Sam Stevens,"Wichita, Kan. / Kapaun Mt. Carmel","Wichita, Kan. / Kapaun Mt. Carmel","Wichita, Kan. / Kapaun Mt. Carmel",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,oklahoma_state
+7,Kristoffer Ventura,"Rygge, Norway / WANG Toppidrett","Rygge, Norway / WANG Toppidrett","Rygge, Norway / WANG Toppidrett",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,oklahoma_state
+8,Matthew Wolff,"Agoura Hills, Calif / Westlake","Agoura Hills, Calif / Westlake","Agoura Hills, Calif / Westlake",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,oklahoma_state
+9,Hayden Wood,"Edmond, Okla. / North","Edmond, Okla. / North","Edmond, Okla. / North",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,oklahoma_state
+0,Stephanie Astrup,"Horsens, Denmark",Ikast-Brande Gymnasium,Ikast-Brande Gymnasium,Full Name,Hometown,High School,High School,womens golf,oklahoma_state
+1,Emily Batchelder,"Stillwater, Okla.",Stillwater High School,Stillwater High School,Full Name,Hometown,High School,High School,womens golf,oklahoma_state
+2,Emma Broze,"Nervieux, France",CNED,CNED,Full Name,Hometown,High School,High School,womens golf,oklahoma_state
+3,Chih-Min Chen,"Taipei, Taiwan",Heping High School,Heping High School,Full Name,Hometown,High School,High School,womens golf,oklahoma_state
+4,Kenzie Neisen,"New Prague, Minnesota",New Prague,New Prague,Full Name,Hometown,High School,High School,womens golf,oklahoma_state
+5,Alexis Sadeghy,"Edmond, Oklahoma",Bishop McGuinness,Bishop McGuinness,Full Name,Hometown,High School,High School,womens golf,oklahoma_state
+6,Emma Whitaker,"Wichita, Kan.",Kapaun Mount Carmel HS,Kapaun Mount Carmel HS,Full Name,Hometown,High School,High School,womens golf,oklahoma_state
+0,Brady Draheim,"Kansas City, MO",N/A,N/A,Full Name,Hometown,N/A,N/A,mens tennis,oklahoma_state
+1,Artur Dubinski,"Minsk, Belarus",N/A,N/A,Full Name,Hometown,N/A,N/A,mens tennis,oklahoma_state
+2,Luke Hammond,"Birmingham, United Kingdom",N/A,N/A,Full Name,Hometown,N/A,N/A,mens tennis,oklahoma_state
+3,Mathieu Scaglia,"Frejus, France",N/A,N/A,Full Name,Hometown,N/A,N/A,mens tennis,oklahoma_state
+4,Maxim Tybar,"Minsk, Belarus",N/A,N/A,Full Name,Hometown,N/A,N/A,mens tennis,oklahoma_state
+0,Vladica Babic,"Podgorica, Montenegro",N/A,N/A,Name,Hometown,N/A,N/A,womens tennis,oklahoma_state
+1,Sofia Blanco,"Cordoba, Argentina",N/A,N/A,Name,Hometown,N/A,N/A,womens tennis,oklahoma_state
+2,Katelyn Blumenthal,"Edmond, Okla.",N/A,N/A,Name,Hometown,N/A,N/A,womens tennis,oklahoma_state
+3,Sami Court,"Oklahoma City, Okla.",N/A,N/A,Name,Hometown,N/A,N/A,womens tennis,oklahoma_state
+4,Saralyn Dyer,"Oklahoma City, Okla.",N/A,N/A,Name,Hometown,N/A,N/A,womens tennis,oklahoma_state
+5,Marina Guinart,"Castellar Del Valles, Spain",N/A,N/A,Name,Hometown,N/A,N/A,womens tennis,oklahoma_state
+6,Shir Hornung,"Yokneam, Israel",N/A,N/A,Name,Hometown,N/A,N/A,womens tennis,oklahoma_state
+7,Megan McCray,"Oceanside, Calif.",N/A,N/A,Name,Hometown,N/A,N/A,womens tennis,oklahoma_state
+8,Lisa Marie Rioux,"Okinawa, Japan",N/A,N/A,Name,Hometown,N/A,N/A,womens tennis,oklahoma_state
+9,Katarina Stresnakova,"Nova Dedinka, Slovakia",N/A,N/A,Name,Hometown,N/A,N/A,womens tennis,oklahoma_state
+0,Hassan Abdi,"Amarillo, Texas / Palo Duro HS","Amarillo, Texas / Palo Duro HS","Amarillo, Texas / Palo Duro HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+1,Joshua Anadu,"Katy, Texas / Seven Lakes High School","Katy, Texas / Seven Lakes High School","Katy, Texas / Seven Lakes High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+2,Zachary Andrew,"Boise, Idaho / Bishop Kelly HS","Boise, Idaho / Bishop Kelly HS","Boise, Idaho / Bishop Kelly HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+3,Bryce Balenseifen,"Edmond, Okla. / Deer Creek HS","Edmond, Okla. / Deer Creek HS","Edmond, Okla. / Deer Creek HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+4,Sylvester Barus,"Eldoret, Kenya / Latemo HS","Eldoret, Kenya / Latemo HS","Eldoret, Kenya / Latemo HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+5,Elliot Bowker,"Northwich, Cheshire, UK / The County High School, Leftwich","Northwich, Cheshire, UK / The County High School, Leftwich","Northwich, Cheshire, UK / The County High School, Leftwich",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+6,Benjamin Butler,"Highlands Ranch, Colorado / SkyView Academy","Highlands Ranch, Colorado / SkyView Academy","Highlands Ranch, Colorado / SkyView Academy",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+7,Garrett Calhoun,"Boise, Idaho / Timberline HS","Boise, Idaho / Timberline HS","Boise, Idaho / Timberline HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+8,Sean Casey,"Cedar Park, Texas / St. Dominic Savio","Cedar Park, Texas / St. Dominic Savio","Cedar Park, Texas / St. Dominic Savio",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+9,Kurtis Cotton,"Omaha, Nebraska / Papillion-La Vista High School","Omaha, Nebraska / Papillion-La Vista High School","Omaha, Nebraska / Papillion-La Vista High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+10,Logan Daily,"Okemah, Okla. / Okemah HS","Okemah, Okla. / Okemah HS","Okemah, Okla. / Okemah HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+11,Dustan Davidson,"O'Fallon, Illinois / St. Louis University HS","O'Fallon, Illinois / St. Louis University HS","O'Fallon, Illinois / St. Louis University HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+12,Kwame Donyinah,"Charlotte, North Carolina / Myers Park High School","Charlotte, North Carolina / Myers Park High School","Charlotte, North Carolina / Myers Park High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+13,William Edmonds,"Marietta, Georgia / Pope HS","Marietta, Georgia / Pope HS","Marietta, Georgia / Pope HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+14,Matthew Fayers,"Ickenham, England / Vyners","Ickenham, England / Vyners","Ickenham, England / Vyners",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+15,Jacob Fincham-Dukes,"Leeds, England / St. Aidan's and John Fisher","Leeds, England / St. Aidan's and John Fisher","Leeds, England / St. Aidan's and John Fisher",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+16,Noah Gade,Stillwater / Stillwater,Stillwater / Stillwater,Stillwater / Stillwater,Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+17,Cerake Geberkidane,"Denver, Colo. / East","Denver, Colo. / East","Denver, Colo. / East",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+18,Malik Givens,"Tulsa, Okla. / Booker T. Washington","Tulsa, Okla. / Booker T. Washington","Tulsa, Okla. / Booker T. Washington",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+19,Eugene Grayson III,"Glenpool, Oklahoma / Glenpool HS","Glenpool, Oklahoma / Glenpool HS","Glenpool, Oklahoma / Glenpool HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+20,Tanner Green,"Olathe, Kan. / Olathe South","Olathe, Kan. / Olathe South","Olathe, Kan. / Olathe South",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+21,Anthony Grogan Jr.,"McKinney, Texas / McKinney North","McKinney, Texas / McKinney North","McKinney, Texas / McKinney North",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+22,Alec Haines,"Wildwood, Missouri / Lafayette HS","Wildwood, Missouri / Lafayette HS","Wildwood, Missouri / Lafayette HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+23,Wesley Hallof,"Ft. Collins, Colorado / Fossil Ridge High School","Ft. Collins, Colorado / Fossil Ridge High School","Ft. Collins, Colorado / Fossil Ridge High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+24,Brigham Hedges,"The Woodlands, TX / The Woodlands","The Woodlands, TX / The Woodlands","The Woodlands, TX / The Woodlands",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+25,Torrey Hickel,"Chandler, Arizona / Desert Vista HS","Chandler, Arizona / Desert Vista HS","Chandler, Arizona / Desert Vista HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+26,Harrison Hurley,"Fayetteville, Arkansas / Fayetteville High School","Fayetteville, Arkansas / Fayetteville High School","Fayetteville, Arkansas / Fayetteville High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+27,Simon Imagbe,"Houston, Texas / Alief Taylor High School","Houston, Texas / Alief Taylor High School","Houston, Texas / Alief Taylor High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+28,Tyler Jackson,"Claremore, Okla. / Claremore","Claremore, Okla. / Claremore","Claremore, Okla. / Claremore",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+29,Bradley Johnson,"Brookfield, Wisc. / Brookfield East","Brookfield, Wisc. / Brookfield East","Brookfield, Wisc. / Brookfield East",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+30,Reid Joyner,"Claremore, Okla. / Claremore","Claremore, Okla. / Claremore","Claremore, Okla. / Claremore",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+31,Nicholas Kenville,"Edmond, Oklahoma / Edmond North High School","Edmond, Oklahoma / Edmond North High School","Edmond, Oklahoma / Edmond North High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+32,Sukhi Khosla,"Tallahassee, Fla. / Leon HS","Tallahassee, Fla. / Leon HS","Tallahassee, Fla. / Leon HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+33,Tre'Tez Kinnaird,"Louisville, Kent. / Butler HS","Louisville, Kent. / Butler HS","Louisville, Kent. / Butler HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+34,Owen Krewson,"Sandusky, Ohio / Perkins High School","Sandusky, Ohio / Perkins High School","Sandusky, Ohio / Perkins High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+35,Christian Liddell,"Rogers, Ark. / Rogers HS","Rogers, Ark. / Rogers HS","Rogers, Ark. / Rogers HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+36,Luis Martinez,"Rio Rancho, NM / Cleveland","Rio Rancho, NM / Cleveland","Rio Rancho, NM / Cleveland",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+37,Ryan McIntire,"Edmond, Okla. / Guthrie HS","Edmond, Okla. / Guthrie HS","Edmond, Okla. / Guthrie HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+38,Mace Metcalf,"Arkansas City, Arkansas / Arkansas City High School","Arkansas City, Arkansas / Arkansas City High School","Arkansas City, Arkansas / Arkansas City High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+39,Zac Miller,"Chaska, Minnesota / Edina High School","Chaska, Minnesota / Edina High School","Chaska, Minnesota / Edina High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+40,Jerel Morrow,"Emporia, KS / Emporia","Emporia, KS / Emporia","Emporia, KS / Emporia",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+41,Kevin Mulcaire,"Clarecastle, Ireland / St. Flannan's College","Clarecastle, Ireland / St. Flannan's College","Clarecastle, Ireland / St. Flannan's College",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+42,Calahan Newsome,"Amarilo, Texas / Amarillo High School","Amarilo, Texas / Amarillo High School","Amarilo, Texas / Amarillo High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+43,Cole Norton,"Picton, ON, Canada / Prince Edward Collegiate","Picton, ON, Canada / Prince Edward Collegiate","Picton, ON, Canada / Prince Edward Collegiate",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+44,Temitope Olonisakin,"Edmonton, Alberta, Canada / Lillian Osborne HS","Edmonton, Alberta, Canada / Lillian Osborne HS","Edmonton, Alberta, Canada / Lillian Osborne HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+45,Bryce Quigley,"The Woodlands, Texas / College Park High School","The Woodlands, Texas / College Park High School","The Woodlands, Texas / College Park High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+46,Isai Rodriguez,"Ringwood, Oklahoma / Ringwood High School","Ringwood, Oklahoma / Ringwood High School","Ringwood, Oklahoma / Ringwood High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+47,Blake Scott,"Aledo, Texas / Aledo","Aledo, Texas / Aledo","Aledo, Texas / Aledo",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+48,Brandon Singleton,"Aurora, Colo. / Cherokee Trail","Aurora, Colo. / Cherokee Trail","Aurora, Colo. / Cherokee Trail",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+49,Ryan Smeeton,"Calgary, Alb., Canada / Henry Wisewood Senior HS","Calgary, Alb., Canada / Henry Wisewood Senior HS","Calgary, Alb., Canada / Henry Wisewood Senior HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+50,Ty Smith,"Stillwater, Okla. / Stillwater HS","Stillwater, Okla. / Stillwater HS","Stillwater, Okla. / Stillwater HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+51,Kyler True,"Olpe, Kansas / Olpe High School","Olpe, Kansas / Olpe High School","Olpe, Kansas / Olpe High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+52,Cole Verble,"Edmond, Okla. / Deer Creek","Edmond, Okla. / Deer Creek","Edmond, Okla. / Deer Creek",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+53,Ryan Wheatley,"Grove, Okla. / Grove","Grove, Okla. / Grove","Grove, Okla. / Grove",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+54,Ryan Wheeling,"New Town, North Dakota / New Town High School","New Town, North Dakota / New Town High School","New Town, North Dakota / New Town High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens track,oklahoma_state
+0,Grace Baker,"Hastings, Englad / Rye College","Hastings, Englad / Rye College","Hastings, Englad / Rye College",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+1,Ariane Ballner,"Elmshorn, Germany / Bismarckschule Elmshorn","Elmshorn, Germany / Bismarckschule Elmshorn","Elmshorn, Germany / Bismarckschule Elmshorn",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+2,Monica Barrera,"Chickasha, Okla. / Chickasha HS","Chickasha, Okla. / Chickasha HS","Chickasha, Okla. / Chickasha HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+3,Jennifer Celis,"Hotchkiss, Colo. / Hotchkiss","Hotchkiss, Colo. / Hotchkiss","Hotchkiss, Colo. / Hotchkiss",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+4,Amira Coleman,"Wylie, TX / Wylie East HS","Wylie, TX / Wylie East HS","Wylie, TX / Wylie East HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+5,Danielle Coleman,"McKinney, TX / McKinney HS","McKinney, TX / McKinney HS","McKinney, TX / McKinney HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+6,Darby Crynes,"Edmond, Okla. / Heritage Hall","Edmond, Okla. / Heritage Hall","Edmond, Okla. / Heritage Hall",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+7,Nicolette Dixon,"McKinney, Texas / McKinney Boyd High School","McKinney, Texas / McKinney Boyd High School","McKinney, Texas / McKinney Boyd High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+8,Kaylee Dodd,"Essex, England","Essex, England","Essex, England",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+9,Stephanie Ferrante,"Chardon, OH / Chardon HS","Chardon, OH / Chardon HS","Chardon, OH / Chardon HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+10,Kambri Gabel,"Melissa, Texas / Melissa High School","Melissa, Texas / Melissa High School","Melissa, Texas / Melissa High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+11,Haley Geissler,"Owasso, Oklahoma / Owasso HS","Owasso, Oklahoma / Owasso HS","Owasso, Oklahoma / Owasso HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+12,Anna Gunter,"Bartlesville, Oklahoma / Bartlesville HS","Bartlesville, Oklahoma / Bartlesville HS","Bartlesville, Oklahoma / Bartlesville HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+13,Kami Hankins,"Edmond, Oklahoma / Edmond Memorial","Edmond, Oklahoma / Edmond Memorial","Edmond, Oklahoma / Edmond Memorial",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+14,Megan Harris,"Grapevine, TX / Colleyville Heritage HS","Grapevine, TX / Colleyville Heritage HS","Grapevine, TX / Colleyville Heritage HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+15,Emily Hart,"Edmond, Okla. / Edmond Santa Fe","Edmond, Okla. / Edmond Santa Fe","Edmond, Okla. / Edmond Santa Fe",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+16,Erin Hart,"Edmond, Okla. / Edmond Santa Fe","Edmond, Okla. / Edmond Santa Fe","Edmond, Okla. / Edmond Santa Fe",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+17,Emily Helms,"Mustang, OK / Mustang","Mustang, OK / Mustang","Mustang, OK / Mustang",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+18,Abbie Hetherington,"Carlisle, United Kingdom","Carlisle, United Kingdom","Carlisle, United Kingdom",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+19,Victoria Hill,"Oklahoma City, Oklahoma / Putnam City North High School","Oklahoma City, Oklahoma / Putnam City North High School","Oklahoma City, Oklahoma / Putnam City North High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+20,Sarah Horan,"Poetry, Texas / Poetry Community Christian","Poetry, Texas / Poetry Community Christian","Poetry, Texas / Poetry Community Christian",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+21,Anna Hurlbut,"Lincoln, Neb. / Lincoln Southwest","Lincoln, Neb. / Lincoln Southwest","Lincoln, Neb. / Lincoln Southwest",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+22,Chelsea Jarvis,"St. Helens, England","St. Helens, England","St. Helens, England",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+23,Sarah Johnson,"Edmond, Oklahoma / Edmond North High School","Edmond, Oklahoma / Edmond North High School","Edmond, Oklahoma / Edmond North High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+24,Sinclaire Johnson,"Longwood, Florida / Lake Brantley HS","Longwood, Florida / Lake Brantley HS","Longwood, Florida / Lake Brantley HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+25,Elliett Kulkin,"Tulsa, Oklahoma / Jenks","Tulsa, Oklahoma / Jenks","Tulsa, Oklahoma / Jenks",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+26,Kaytlyn Larson,"Lakeville, MN / Lakeville South HS","Lakeville, MN / Lakeville South HS","Lakeville, MN / Lakeville South HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+27,Lexie Lewis,"Brownwood, TX / Brownwood HS","Brownwood, TX / Brownwood HS","Brownwood, TX / Brownwood HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+28,Michelle Magnani,"Moorpark, California / Moorpark HS","Moorpark, California / Moorpark HS","Moorpark, California / Moorpark HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+29,Natalie Manders,"Apple Valley, Minnesota / Eastview High School","Apple Valley, Minnesota / Eastview High School","Apple Valley, Minnesota / Eastview High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+30,Megan Mann,"Spring Valley, Texas / Smithson Valley High School","Spring Valley, Texas / Smithson Valley High School","Spring Valley, Texas / Smithson Valley High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+31,Hailey Matthews,"Frisco, Texas / Frisco Heritage","Frisco, Texas / Frisco Heritage","Frisco, Texas / Frisco Heritage",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+32,Kaci McCary,"Enid, Okla. / Chisholm HS","Enid, Okla. / Chisholm HS","Enid, Okla. / Chisholm HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+33,Meghan McGrath,"Colorado Springs, Colorado / Lewis-Palmer HS","Colorado Springs, Colorado / Lewis-Palmer HS","Colorado Springs, Colorado / Lewis-Palmer HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+34,Moriah Moody,"Tulsa, Oklahoma / Metro Christian Academy","Tulsa, Oklahoma / Metro Christian Academy","Tulsa, Oklahoma / Metro Christian Academy",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+35,Gianna Moulis,"Glenpool, Oklahoma / Glenpool HS","Glenpool, Oklahoma / Glenpool HS","Glenpool, Oklahoma / Glenpool HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+36,Baylor Nelson,"Catoosa, OK / Lincoln Christian School","Catoosa, OK / Lincoln Christian School","Catoosa, OK / Lincoln Christian School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+37,Elaina Noll,"Guthrie, Oklahoma / Bishop McGuinness Catholic","Guthrie, Oklahoma / Bishop McGuinness Catholic","Guthrie, Oklahoma / Bishop McGuinness Catholic",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+38,Rachel Norman,"Jenks, Oklahoma / Jenks High School","Jenks, Oklahoma / Jenks High School","Jenks, Oklahoma / Jenks High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+39,Rachel Nowak,"Venice, Florida / Venice High School","Venice, Florida / Venice High School","Venice, Florida / Venice High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+40,Kaylee Oyler,"Clinton, Oklahoma / Clinton High School","Clinton, Oklahoma / Clinton High School","Clinton, Oklahoma / Clinton High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+41,Ryan Roane,"Tomball, Texas / Tomball Memorial High School","Tomball, Texas / Tomball Memorial High School","Tomball, Texas / Tomball Memorial High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+42,Sarah Robinson,"Southlake, Texas / Carroll HS","Southlake, Texas / Carroll HS","Southlake, Texas / Carroll HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+43,Jordan Rockins,"The Woodlands, Texas / College Park High School","The Woodlands, Texas / College Park High School","The Woodlands, Texas / College Park High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+44,Emily Rogers,"Togher, Ireland / Greenhills Drogheda","Togher, Ireland / Greenhills Drogheda","Togher, Ireland / Greenhills Drogheda",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+45,Katherine Ruck,"Moscow, Idaho / Moscow High School","Moscow, Idaho / Moscow High School","Moscow, Idaho / Moscow High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+46,Jocelen Ruth,"Shenandoah, Pennsylvania / Kutztown Area HS","Shenandoah, Pennsylvania / Kutztown Area HS","Shenandoah, Pennsylvania / Kutztown Area HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+47,Ricki Lee Scheef,"Edmond, Oklahoma / Edmond Memorial","Edmond, Oklahoma / Edmond Memorial","Edmond, Oklahoma / Edmond Memorial",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+48,Emily Smith,"Parker, Texas / Nishop Lynch High School","Parker, Texas / Nishop Lynch High School","Parker, Texas / Nishop Lynch High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+49,Latriceia Smith,"Midland, Texas / Stanton High School","Midland, Texas / Stanton High School","Midland, Texas / Stanton High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+50,Taylor Somers,"Omaha, Nebraska / Millard South High School","Omaha, Nebraska / Millard South High School","Omaha, Nebraska / Millard South High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+51,Brittany Stallings,"Okmulgee, OK / Okmulgee HS","Okmulgee, OK / Okmulgee HS","Okmulgee, OK / Okmulgee HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+52,Alexandria Stern,"Akron, Ohio / Walsh Jesuit High School","Akron, Ohio / Walsh Jesuit High School","Akron, Ohio / Walsh Jesuit High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+53,Tyrzah Stinson,"Woodward, Oklahoma / Union High School","Woodward, Oklahoma / Union High School","Woodward, Oklahoma / Union High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+54,Molly Sughroue,"McCook, Neb. / McCook","McCook, Neb. / McCook","McCook, Neb. / McCook",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+55,Bailey Sutherlin,"Ardmore, Oklahoma / Plainview HS","Ardmore, Oklahoma / Plainview HS","Ardmore, Oklahoma / Plainview HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+56,Summer Thompson,"Tulsa, Oklahoma / Holland High School","Tulsa, Oklahoma / Holland High School","Tulsa, Oklahoma / Holland High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+57,Kennedy Turner,"Desoto, TX / Desoto HS","Desoto, TX / Desoto HS","Desoto, TX / Desoto HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+58,Michaela Vasey,"Arlington Heights, Illinois / Wheeling HS","Arlington Heights, Illinois / Wheeling HS","Arlington Heights, Illinois / Wheeling HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+59,Cheyenne Walden,"Sand Springs, Oklahoma / Charles Page High School","Sand Springs, Oklahoma / Charles Page High School","Sand Springs, Oklahoma / Charles Page High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+60,Ambra Wesley,"Murphy, TX / Wylie HS","Murphy, TX / Wylie HS","Murphy, TX / Wylie HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+61,Elissa White,"Stillwater, Oklahoma / Stillwater High School","Stillwater, Oklahoma / Stillwater High School","Stillwater, Oklahoma / Stillwater High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+62,Kira White,Dallas / DeSoto,Dallas / DeSoto,Dallas / DeSoto,Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+63,Schuyler Wood-Hilderbrandt,Oklahoma City / Putnam City HS,Oklahoma City / Putnam City HS,Oklahoma City / Putnam City HS,Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+64,Claire Workman,"Springfield, Missouri / The Summit Prep","Springfield, Missouri / The Summit Prep","Springfield, Missouri / The Summit Prep",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+65,Gintare Zenkeviciute,"Svencioneliai, Lithuania / Mindaugas Gymnasium","Svencioneliai, Lithuania / Mindaugas Gymnasium","Svencioneliai, Lithuania / Mindaugas Gymnasium",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens track,oklahoma_state
+0,Ethan Andersen,"Altoona, Iowa / Southeast Polk","Altoona, Iowa / Southeast Polk","Altoona, Iowa / Southeast Polk",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+1,Blake Andrews,"Grapevine, Texas / Grapevine","Grapevine, Texas / Grapevine","Grapevine, Texas / Grapevine",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+2,Christian Bahl,"Stillwater, Okla. / Stillwater","Stillwater, Okla. / Stillwater","Stillwater, Okla. / Stillwater",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+3,Jonce Blaylock,"Tulsa, Okla. / Berryhill","Tulsa, Okla. / Berryhill","Tulsa, Okla. / Berryhill",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+4,Kaid Brock,"Stillwater, Okla. / Stillwater","Stillwater, Okla. / Stillwater","Stillwater, Okla. / Stillwater",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+5,Donald Cannon,"McAlester, Okla. / McAlester","McAlester, Okla. / McAlester","McAlester, Okla. / McAlester",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+6,Tyler Dieringer,"Stillwater, Okla. / Stillwater","Stillwater, Okla. / Stillwater","Stillwater, Okla. / Stillwater",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+7,Daton Fix,"Sand Springs, Okla. / Charles Page","Sand Springs, Okla. / Charles Page","Sand Springs, Okla. / Charles Page",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+8,Jacob Fontanez,"Stillwater, Okla.","Stillwater, Okla.","Stillwater, Okla.",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+9,Kaden Gfeller,"Oklahoma City, Okla. / Heritage Hall","Oklahoma City, Okla. / Heritage Hall","Oklahoma City, Okla. / Heritage Hall",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+10,Gary Wayne Harding,"Collinsville, Okla. / Collinsville","Collinsville, Okla. / Collinsville","Collinsville, Okla. / Collinsville",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+11,Austin Harris,"Roseburg, Ore. / Roseburg","Roseburg, Ore. / Roseburg","Roseburg, Ore. / Roseburg",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+12,Dean Heil,"Brunswick, Ohio / St. Edward","Brunswick, Ohio / St. Edward","Brunswick, Ohio / St. Edward",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+13,Bear Hughes,"Coweta, Okla. / Coweta","Coweta, Okla. / Coweta","Coweta, Okla. / Coweta",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+14,Hestin Lamons,"Tahlequah, Okla. / Tahlequah","Tahlequah, Okla. / Tahlequah","Tahlequah, Okla. / Tahlequah",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+15,Boo Lewallen,"Yukon, Okla. / Yukon","Yukon, Okla. / Yukon","Yukon, Okla. / Yukon",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+16,Mike Magaldo,"Gillette, N.J. / Watchung Hills Regional","Gillette, N.J. / Watchung Hills Regional","Gillette, N.J. / Watchung Hills Regional",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+17,Andrew Marsden,"Crystal Lake, Ill. / Crystal Lake Central","Crystal Lake, Ill. / Crystal Lake Central","Crystal Lake, Ill. / Crystal Lake Central",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+18,Geordan Martinez,"Colorado Springs, Colo. / Pine Creek","Colorado Springs, Colo. / Pine Creek","Colorado Springs, Colo. / Pine Creek",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+19,Keegan Moore,"Jackson, Minn. / Jackson County Central","Jackson, Minn. / Jackson County Central","Jackson, Minn. / Jackson County Central",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+20,Dalton Moran,"Chandler, Ariz. / Chandler","Chandler, Ariz. / Chandler","Chandler, Ariz. / Chandler",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+21,Tristan Moran,"Stillwater, Okla. / Stillwater","Stillwater, Okla. / Stillwater","Stillwater, Okla. / Stillwater",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+22,Andrew Nieman,"Stillwater, Okla. / Stillwater","Stillwater, Okla. / Stillwater","Stillwater, Okla. / Stillwater",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+23,Nick Piccininni,"East Setauket, N.Y. / Ward Melville","East Setauket, N.Y. / Ward Melville","East Setauket, N.Y. / Ward Melville",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+24,Cornelius Putnam,"Tampa, Fla. / Blair Academy (N.J.)","Tampa, Fla. / Blair Academy (N.J.)","Tampa, Fla. / Blair Academy (N.J.)",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+25,Chandler Rogers,"Stillwater, Okla. / Stillwater","Stillwater, Okla. / Stillwater","Stillwater, Okla. / Stillwater",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+26,Wyatt Sheets,"Stilwell, Okla. / Stilwell","Stilwell, Okla. / Stilwell","Stilwell, Okla. / Stilwell",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+27,Jacobe Smith,"Muskogee, Okla. / Muskogee","Muskogee, Okla. / Muskogee","Muskogee, Okla. / Muskogee",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+28,Joe Smith,"Stillwater, Okla. / Stillwater","Stillwater, Okla. / Stillwater","Stillwater, Okla. / Stillwater",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+29,Jet Taylor,"Sallisaw, Okla. / Sallisaw","Sallisaw, Okla. / Sallisaw","Sallisaw, Okla. / Sallisaw",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+30,Preston Weigel,"Russell, Kan. / Hays","Russell, Kan. / Hays","Russell, Kan. / Hays",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+31,Derek White,"Edmond, Okla. / Edmond North","Edmond, Okla. / Edmond North","Edmond, Okla. / Edmond North",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,oklahoma_state
+0,Lindsey Stoeckel,"Oklahoma City, Okla. / Southmoore HS","Oklahoma City, Okla. / Southmoore HS","Oklahoma City, Okla. / Southmoore HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+1,Brighton Gilbert,"Chickasha, Okla. / Chickasha HS","Chickasha, Okla. / Chickasha HS","Chickasha, Okla. / Chickasha HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+2,Taylor Lynch,"Red Oak, Texas / Red Oak HS","Red Oak, Texas / Red Oak HS","Red Oak, Texas / Red Oak HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+3,Rylee Bayless,"Kansas City, Missouri / Winnetonka HS","Kansas City, Missouri / Winnetonka HS","Kansas City, Missouri / Winnetonka HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+4,Madi Sue Montgomery,"Burleson, Texas / Centennial HS","Burleson, Texas / Centennial HS","Burleson, Texas / Centennial HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+5,Samantha Clakley,"Carthage, Texas / Carthage","Carthage, Texas / Carthage","Carthage, Texas / Carthage",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+6,Raquel Dominguez,"Victorville, Calif. / Silverado HS","Victorville, Calif. / Silverado HS","Victorville, Calif. / Silverado HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+7,Elise LeBeouf,"Crowley, La. / Notre Dame HS","Crowley, La. / Notre Dame HS","Crowley, La. / Notre Dame HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+8,Emily Clark,"Rockwall, Texas / Heath HS","Rockwall, Texas / Heath HS","Rockwall, Texas / Heath HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+9,Sydney Pennington,"Sand Springs, Okla. / Charles Page HS","Sand Springs, Okla. / Charles Page HS","Sand Springs, Okla. / Charles Page HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+10,Mackenzie Thomas,"Claremore, Oklahoma / Claremore HS","Claremore, Oklahoma / Claremore HS","Claremore, Oklahoma / Claremore HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+11,Mallory Goodman,"Sand Springs, Oklahoma / Sand Springs HS","Sand Springs, Oklahoma / Sand Springs HS","Sand Springs, Oklahoma / Sand Springs HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+12,Kendal Judge,"Plainfield, Ill. / Providence Catholic HS","Plainfield, Ill. / Providence Catholic HS","Plainfield, Ill. / Providence Catholic HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+13,Regan Wilkins,"Burleson, Texas / Centennial HS","Burleson, Texas / Centennial HS","Burleson, Texas / Centennial HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+14,Brooke Johnson,"Kingwood, Texas / Kingwood HS","Kingwood, Texas / Kingwood HS","Kingwood, Texas / Kingwood HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+15,Michaela Richbourg,"Broken Bow, Okla. / Broken Bow HS","Broken Bow, Okla. / Broken Bow HS","Broken Bow, Okla. / Broken Bow HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+16,Logan Simunek,"Piedmont, Oklahoma / Piedmont HS","Piedmont, Oklahoma / Piedmont HS","Piedmont, Oklahoma / Piedmont HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+17,Chelsea Alexander,"Ada, Okla. / Latta HS","Ada, Okla. / Latta HS","Ada, Okla. / Latta HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+18,Lauren Heintzelman,"Southlake, Texas / Southlake Carroll HS","Southlake, Texas / Southlake Carroll HS","Southlake, Texas / Southlake Carroll HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,softball,oklahoma_state
+0,Natalie Alcorn,"Somerset, Pennsylvania / Somerset High School","Somerset, Pennsylvania / Somerset High School","Somerset, Pennsylvania / Somerset High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+1,Madeline Alewine,"Buckeye, Ariz. / Arizona Agribusiness and Equine Center","Buckeye, Ariz. / Arizona Agribusiness and Equine Center","Buckeye, Ariz. / Arizona Agribusiness and Equine Center",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+2,Kaitlyn Arnold,"Austin, Texas / Anderson High School","Austin, Texas / Anderson High School","Austin, Texas / Anderson High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+3,Amanda Atkins,"Edmond, Oklahoma / Edmond North High School","Edmond, Oklahoma / Edmond North High School","Edmond, Oklahoma / Edmond North High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+4,Carly Barrick,"Fallbrook, Calif. / Laurel Springs High School","Fallbrook, Calif. / Laurel Springs High School","Fallbrook, Calif. / Laurel Springs High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+5,Alexa Beaty,"Aubrey, Texas / Aubrey High School","Aubrey, Texas / Aubrey High School","Aubrey, Texas / Aubrey High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+6,Maddie Bender,"Colorado Springs, Colo. / Lewis-Palmer High                                School","Colorado Springs, Colo. / Lewis-Palmer High                                School","Colorado Springs, Colo. / Lewis-Palmer High                                School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+7,Abigail Brayman,"Charlestown, Rhode Island  / Village Green Virtual","Charlestown, Rhode Island  / Village Green Virtual","Charlestown, Rhode Island  / Village Green Virtual",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+8,Natalie Campbell,"North Richland Hills, Texas / University of Texas                                Online High School","North Richland Hills, Texas / University of Texas                                Online High School","North Richland Hills, Texas / University of Texas                                Online High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+9,Kirsten Chamberland,"Abbotsford, British Columbia / D.W. Poppy Secondary School","Abbotsford, British Columbia / D.W. Poppy Secondary School","Abbotsford, British Columbia / D.W. Poppy Secondary School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+10,Mackenzie Chapman,"Bellevue, Michigan  / Pennfield High School","Bellevue, Michigan  / Pennfield High School","Bellevue, Michigan  / Pennfield High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+11,Sarah Clymer,"Edmond, Okla. / Oklahoma Christian School","Edmond, Okla. / Oklahoma Christian School","Edmond, Okla. / Oklahoma Christian School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+12,Danielle Cohen,"Cooper City, Fla. / Cooper City High School","Cooper City, Fla. / Cooper City High School","Cooper City, Fla. / Cooper City High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+13,Elizabeth Collins,"Carrollton, Texas / Prestonwood Christian                                Academy","Carrollton, Texas / Prestonwood Christian                                Academy","Carrollton, Texas / Prestonwood Christian                                Academy",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+14,Hunter DeJane,"Mead, Colo. / Mead High School","Mead, Colo. / Mead High School","Mead, Colo. / Mead High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+15,Megan Donald,"Poulsho, Wash. / North Kitsap High School","Poulsho, Wash. / North Kitsap High School","Poulsho, Wash. / North Kitsap High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+16,Ava Drysch,El Dorado Hills  / Oak Ridge High School,El Dorado Hills  / Oak Ridge High School,El Dorado Hills  / Oak Ridge High School,Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+17,Maggie Drysch,"El Dorado Hills, Calif. / Oak Ridge High School","El Dorado Hills, Calif. / Oak Ridge High School","El Dorado Hills, Calif. / Oak Ridge High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+18,Molly Dunn,"Moorpark, Calif. / La Reina High School","Moorpark, Calif. / La Reina High School","Moorpark, Calif. / La Reina High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+19,Sydnee Gemar,"Sutton, Nebraska / Sutton Senior High School","Sutton, Nebraska / Sutton Senior High School","Sutton, Nebraska / Sutton Senior High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+20,Stephanie Helsen,"Enumclaw, Washington / Enumclaw High School","Enumclaw, Washington / Enumclaw High School","Enumclaw, Washington / Enumclaw High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+21,Taylor Hickam,"Arvada, Colo. / Ralston Valley High School","Arvada, Colo. / Ralston Valley High School","Arvada, Colo. / Ralston Valley High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+22,Harley Huff,"Evansville, Indiana  / F.J. Reitz High School","Evansville, Indiana  / F.J. Reitz High School","Evansville, Indiana  / F.J. Reitz High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+23,Kristin Hull,"Ligonier, Ind. / Fairfield Junior-Senior High                                School","Ligonier, Ind. / Fairfield Junior-Senior High                                School","Ligonier, Ind. / Fairfield Junior-Senior High                                School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+24,Calley Huston,"Cottage Grove, Wisconcsin  / Argyle High School","Cottage Grove, Wisconcsin  / Argyle High School","Cottage Grove, Wisconcsin  / Argyle High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+25,Hannah Janson,"Berkley, Mass. / Saint Mary Academy Bay View High School","Berkley, Mass. / Saint Mary Academy Bay View High School","Berkley, Mass. / Saint Mary Academy Bay View High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+26,Katie Jones,"Wellington, Fla. / Wellington High School","Wellington, Fla. / Wellington High School","Wellington, Fla. / Wellington High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+27,Paige Kemper,"Gilbert, Ariz. / Mesquite High School","Gilbert, Ariz. / Mesquite High School","Gilbert, Ariz. / Mesquite High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+28,Ebba Lange,"Gnesta, Sweden / Nyköpings Enskilda Gymnasium","Gnesta, Sweden / Nyköpings Enskilda Gymnasium","Gnesta, Sweden / Nyköpings Enskilda Gymnasium",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+29,Kayla Lott,"Camarillo, Calif. / Camarillo High School","Camarillo, Calif. / Camarillo High School","Camarillo, Calif. / Camarillo High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+30,Kayla McCarthy,"Manasquan, New Jersey / The Ranney School","Manasquan, New Jersey / The Ranney School","Manasquan, New Jersey / The Ranney School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+31,Hallie McClintock,"Galena, Ohio / Big Walnut High School","Galena, Ohio / Big Walnut High School","Galena, Ohio / Big Walnut High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+32,Kinsey McDougald,"O'Neals, Calif. / Minarets High School","O'Neals, Calif. / Minarets High School","O'Neals, Calif. / Minarets High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+33,Sarah Miller,"Boulder, Colo. / Holy Family High School","Boulder, Colo. / Holy Family High School","Boulder, Colo. / Holy Family High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+34,Addie Minnick,"Tulsa, Okla. / Jenks High School","Tulsa, Okla. / Jenks High School","Tulsa, Okla. / Jenks High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+35,Hannah Mitchell,"Cuba, Mo. / Cuba High School","Cuba, Mo. / Cuba High School","Cuba, Mo. / Cuba High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+36,Lauren Moorhead,"Austin, Texas / Hyde Park High School","Austin, Texas / Hyde Park High School","Austin, Texas / Hyde Park High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+37,Emily Morris,"Davenport, Iowa / Bettendorf High School","Davenport, Iowa / Bettendorf High School","Davenport, Iowa / Bettendorf High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+38,Kendall Pedigo,"Vancouver, Wash. / King's Way Christian School","Vancouver, Wash. / King's Way Christian School","Vancouver, Wash. / King's Way Christian School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+39,Kaylee Pinkley,"Palm City, Fla. / Martin County High School","Palm City, Fla. / Martin County High School","Palm City, Fla. / Martin County High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+40,Julia Purus,"Purcell, Okla. / Purcell High School","Purcell, Okla. / Purcell High School","Purcell, Okla. / Purcell High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+41,Katy Rippetoe,"Nashville, Tennessee  / Ensworth High School","Nashville, Tennessee  / Ensworth High School","Nashville, Tennessee  / Ensworth High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+42,Caitlyn Sanchez,"Stillwater, Okla. / Stillwater High School","Stillwater, Okla. / Stillwater High School","Stillwater, Okla. / Stillwater High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+43,Katie Schell,"Cleveland, Ohio / Laurel Springs","Cleveland, Ohio / Laurel Springs","Cleveland, Ohio / Laurel Springs",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+44,Matilda Schulman,"Tarzana, Calif. / Sierra Canyon School","Tarzana, Calif. / Sierra Canyon School","Tarzana, Calif. / Sierra Canyon School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+45,Allie Stein,"Warren, Ohio / Champion High School","Warren, Ohio / Champion High School","Warren, Ohio / Champion High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+46,Lia Turenne,"Elbert, Colorado / Palmer Ridge High School","Elbert, Colorado / Palmer Ridge High School","Elbert, Colorado / Palmer Ridge High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+47,Emma Verplank,"Edmond, Okla. / Oklahoma Christian School","Edmond, Okla. / Oklahoma Christian School","Edmond, Okla. / Oklahoma Christian School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+48,Cassidy Watters,"Danville, Kansas  / Arkansas City High School","Danville, Kansas  / Arkansas City High School","Danville, Kansas  / Arkansas City High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+49,Kristi Wiggins,"Temecula, Calif. / Great Oak High School","Temecula, Calif. / Great Oak High School","Temecula, Calif. / Great Oak High School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state
+50,Cassidy Wilbourn,"The Woodlands, Texas  / The Woodlands Christian Academy","The Woodlands, Texas  / The Woodlands Christian Academy","The Woodlands, Texas  / The Woodlands Christian Academy",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens equestrian,oklahoma_state

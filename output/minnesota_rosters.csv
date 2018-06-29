@@ -1,702 +1,676 @@
-,name,hometown,sport,school
-0,coffey amir,"Hopkins, Minn./Hopkins",mens basketball,minnesota
-1,conroy hunt,"New Orleans, La./Jesuit",mens basketball,minnesota
-2,curry eric,"Memphis, Tenn./Southwest Christian Academy",mens basketball,minnesota
-3,diedhiou gaston,"Dakar, Senegal/Canarias Academy",mens basketball,minnesota
-4,fitzgerald davonte,"Atlanta, Ga./Tucker/Texas A&M",mens basketball,minnesota
-5,harris jamir,North Brunswick. N.J./The Patrick School,mens basketball,minnesota
-6,hurt michael,"Rochester, Minn./John Marshall",mens basketball,minnesota
-7,johnson jarvis,"Minneapolis, Minn./DeLaSalle",mens basketball,minnesota
-8,konaté bakary,"Bamako, Mali/Sunrise Christian Academy",mens basketball,minnesota
-9,mason nate,"Decatur, Ga./Arlington Country Day",mens basketball,minnesota
-10,mcbrayer dupree,"Queens, N.Y./Sunrise Christian Academy",mens basketball,minnesota
-11,murphy jordan,"San Antonio, Texas/Brennan",mens basketball,minnesota
-12,rudrud brady,"Eden Prairie, Minn./Eden Prairie",mens basketball,minnesota
-13,stockman matz,"Oslo, Norway/Canarias Academy/Louisville",mens basketball,minnesota
-14,washington isaiah,"Harlem, N.Y./St. Raymond's",mens basketball,minnesota
-0,bell kenisha,"Minneapolis, Minn. (Marquette)",womens basketball,minnesota
-1,bello kehinde,"Southfield, Mich. (Southfield-Lathrup)",womens basketball,minnesota
-2,bello taiye,"Southfield, Mich. (Southfield-Lathrup)",womens basketball,minnesota
-3,brunson jasmine,"Queens, N.Y. (Mary Louis Academy)",womens basketball,minnesota
-4,edwards jessie,"Leeming, Australia (Curtin University)",womens basketball,minnesota
-5,fernstrom bryanna,"Center City, Minn. (Iowa State)",womens basketball,minnesota
-6,garrido perez irene,"Granada, Spain (Wyoming CC)",womens basketball,minnesota
-7,hubbard gadiva,"Virginia Beach, Va. (Princess Anne)",womens basketball,minnesota
-8,kaposi palma,"Pecs, Hungary (University of Pecs)",womens basketball,minnesota
-9,lamke annalese,"Galesville, Wis. (Gale-Ettrick-Trempealeau)",womens basketball,minnesota
-10,pitts destiny,"Detroit, Mich. (Detroit Country Day)",womens basketball,minnesota
-11,wagner carlie,"New Richland, Minn. (New Richland-Hartland-Ellendale-Geneva)",womens basketball,minnesota
-0,mezzenga ben,"Shoreview, Minn. (Totino-Grace)",baseball,minnesota
-1,boxwell alex,"Coon Rapids, Minn. (Coon Rapids)",baseball,minnesota
-2,schulze brett,"Maple Grove, Minn. (Maple Grove)",baseball,minnesota
-3,wilson eli,"Seattle, Wash. (Garfield)",baseball,minnesota
-4,vavra terrin,"Menomonie, Wis. (Menomonie)",baseball,minnesota
-5,kozicky jordan,"Minneapolis, Minn. (Minneapolis Southwest)",baseball,minnesota
-6,coffey micah,"Batavia, Ill. (Batavia)",baseball,minnesota
-7,"estrada, jr. eduardo","Litchfield, Minn. (Litchfield)",baseball,minnesota
-8,mcdevitt cole,"Apple Valley, Minn. (Eastview)",baseball,minnesota
-9,pettersen luke,"Minnetonka, Minn. (Minnetonka)",baseball,minnesota
-10,hitz jacob,"Prior Lake, Minn. (Prior Lake)",baseball,minnesota
-11,bertrand easton,"Manteno, Ill. (Manteno)",baseball,minnesota
-12,kapala danny,"Apple Valley, Minn. (Eastview)",baseball,minnesota
-13,smith riley,"Broken Arrow, Okla. (Bishop Kelley)",baseball,minnesota
-14,knowles gabe,"New Ulm, Minn. (Cathedral)",baseball,minnesota
-15,hanson toby,"Delano, Minn. (Delano)",baseball,minnesota
-16,hmielewski drew,"Marshall, Minn. (Marshall)",baseball,minnesota
-17,fredrickson patrick,"Gig Harbor, Wash. (Gig Harbor)",baseball,minnesota
-18,meyer max,"Woodbury, Minn. (Woodbury)",baseball,minnesota
-19,burchill nolan,"Sioux Falls, S.D. (Lincoln)",baseball,minnesota
-20,lackney nick,"Whitefish Bay, Wis. (Whitefish Bay)",baseball,minnesota
-21,bridges sam,"South St. Paul, Minn. (South St. Paul)",baseball,minnesota
-22,wassel jack,"Geneva, Ill. (Geneva)",baseball,minnesota
-23,horton bubba,"Corcoran, Minn. (Maple Grove)",baseball,minnesota
-24,thoresen sam,"Minnetonka, Minn. (Minnetonka)",baseball,minnesota
-25,meyer reggie,"New Brighton, Minn. (Totino-Grace)",baseball,minnesota
-26,culliver joshua,"Omaha, Neb. (Creighton Preparatory)",baseball,minnesota
-27,rose jackson,"Omaha, Neb. (Westside)",baseball,minnesota
-28,stevenson jake,"Waconia, Minn. (Waconia)",baseball,minnesota
-29,manke fred,"Lodi, Wis. (Lodi)",baseball,minnesota
-30,fasching jeff,"St. Cloud, Minn. (Cathedral)",baseball,minnesota
-31,duffy ryan,"South St. Paul, Minn. (South St. Paul)",baseball,minnesota
-32,herbers jacob,"Battle Creek, Mich. (Lakeview)",baseball,minnesota
-0,ahanotu mayan,"Tampa, Fla. (Berkeley Prep)",football,minnesota
-1,anderson danny,"Eden Prairie, Minn. (Eden Prairie HS)",football,minnesota
-2,andries blaise,"Marshall, Minn. (Marshall HS)",football,minnesota
-3,annexstad brock,"Norseland, Minn. (IMG Academy)",football,minnesota
-4,annexstad zack,"Norseland, Minn. (IMG Academy)",football,minnesota
-5,aune josh,"St. Paul, Minn. (Highland Park HS)",football,minnesota
-6,autman-bell chris,"Kankakee, Ill. (Bishop McNamara HS)",football,minnesota
-7,barber thomas,"Plymouth, Minn. (Robbinsdale Armstrong HS)",football,minnesota
-8,barron ty,"Minnetonka, Minn. (Minnetonka HS)",football,minnesota
-9,bateman rashod,"Tifton, Ga. (Tift County HS)",football,minnesota
-10,beck adam,"Richmond, Texas (George Ranch HS)",football,minnesota
-11,beebe colton,"Kansas City, Kan. (Piper HS)",football,minnesota
-12,beier austin,"Toledo, Ohio (St. John's HS)",football,minnesota
-13,boe nathan,"Lakeville, Minn. (Lakeville North HS)",football,minnesota
-14,brooks shannon,"Austell, Ga. (Pickens HS)",football,minnesota
-15,bursch nathan,"Woodbury, Minn. (Woodbury HS)",football,minnesota
-16,carpenter emmit,"Green Bay, Wis. (Ashwaubenon HS)",football,minnesota
-17,cashman blake,"Eden Prairie, Minn. (Eden Prairie HS)",football,minnesota
-18,coughlin carter,"Eden Prairie, Minn. (Eden Prairie HS)",football,minnesota
-19,davis ben,"Elk Grove, Calif. (American River College)",football,minnesota
-20,delattiboudere winston,"Baltimore, Md. (Howard HS)",football,minnesota
-21,delich mike,"Apple Valley, Minn. (Eastview HS)",football,minnesota
-22,devers tai'yon,"Pompano Beach, Fla. (Blanche Ely HS)",football,minnesota
-23,dickson jason,"Corona, Calif. (Diablo Valley CC)",football,minnesota
-24,douglas demetrius,"Portland, Ore. (Jesuit HS)",football,minnesota
-25,dovich bronson,"Chaska, Minn. (Chaska HS)",football,minnesota
-26,dunlap jr. curtis,"Jacksonville, Fla. (IMG Academy)",football,minnesota
-27,durr coney,"Baton Rouge, La. (Dutchtown HS)",football,minnesota
-28,edmonds nolan,"Alpharetta, Ga. (Alpharetta HS)",football,minnesota
-29,estes rey,"East St. Louis, Ill. (East St. Louis HS)",football,minnesota
-30,faalele daniel,"Melbourne, Australia (IMG Academy)",football,minnesota
-31,femi-cole jonathan,"Vaughan, Ontario, Canada (St. Andrew's College)",football,minnesota
-32,fuller tommy,"Eden Prairie, Minn. (Eden Prairie HS)",football,minnesota
-33,geary clay,"Lakeville, Minn. (Lakeville South HS)",football,minnesota
-34,gibson erik,"Detroit, Mich. (MLK HS)",football,minnesota
-35,gibson jerry,"Theodore, Ala. (Theodore HS)",football,minnesota
-36,gossage paul,"Mokena, Ill. (Eastern Illinois)",football,minnesota
-37,green seth,"Woodbury, Minn. (Allen HS)",football,minnesota
-38,greene donnell,"Marietta, Ga. (Coffeyville C.C.)",football,minnesota
-39,guthrie trenton,"Northville, Mich. (Northville HS)",football,minnesota
-40,harris justus,"Roswell, Ga. (Roswell HS)",football,minnesota
-41,herbers jacob,"Battle Creek, Mich. (Lakeview HS)",football,minnesota
-42,hickcox noah,"Rockford, Ill. (Boylan Central Catholic HS)",football,minnesota
-43,howard phillip,"Minneapolis, Minn. (Robbinsdale Cooper HS)",football,minnesota
-44,huff jacob,"Bolingbrook, Ill. (Bolingbrook HS)",football,minnesota
-45,huff julian,"Bolingbrook, Ill. (Bolingbrook HS)",football,minnesota
-46,ibrahim mohamed,"Olney, Md. (Our Lady of Good Counsel HS)",football,minnesota
-47,janes max,"Shoreview, Minn. (Mounds View HS)",football,minnesota
-48,johnson tyler,"Minneapolis, Minn. (North HS)",football,minnesota
-49,jordahl payton,"Perham, Minn. (Perham HS)",football,minnesota
-50,kern jack,"Eau Claire, Wis. (Eau Claire Memorial HS)",football,minnesota
-51,kieft ko,"Sioux Center, Iowa (Sioux Center HS)",football,minnesota
-52,leius jack,"Plymouth, Minn. (Robbinsdale Armstrong HS)",football,minnesota
-53,london dominik,"Woodbury, Minn. (East Ridge HS)",football,minnesota
-54,mack john,"Hartland, Wis. (Arrowhead HS)",football,minnesota
-55,mafe boye,"Minnetonka, Minn. (Hopkins HS)",football,minnesota
-56,manns jornell,"Mansfield, Ohio (Mansfield St. HS)",football,minnesota
-57,martin kamal,"Burnsville, Minn. (Burnsville HS)",football,minnesota
-58,mcdonald bishop,"Oakdale, Minn. (Minnesota Duluth)",football,minnesota
-59,mcneil jack,"Madison, Wis. (Madison Edgewood HS)",football,minnesota
-60,moore gary,"Mobile, Ala. (Murphy HS)",football,minnesota
-61,morgan tanner,"Union, Ky. (Ryle HS)",football,minnesota
-62,morse matt,"Apple Valley, Minn. (Apple Valley HS)",football,minnesota
-63,norton grant,"Camdenton, Mo. (Camdenton HS)",football,minnesota
-64,novak-goar connor,"Eden Prairie, Minn. (Iowa Western C.C.)",football,minnesota
-65,o'brien casey,"Saint Paul, Minn. (Cretin-Derham Hall HS)",football,minnesota
-66,okonji abi,"Snellville, Ga. (South Gwinnett HS)",football,minnesota
-67,oliver braelen,"Douglasville, Ga. (Douglas County HS)",football,minnesota
-68,olson conner,"Monticello, Minn. (Monticello HS)",football,minnesota
-69,oseland quinn,"Springfield, Ill. (Sacred Heart Griffin HS)",football,minnesota
-70,otomewo esezi,"Indianapolis, Ind. (Ben Davis HS)",football,minnesota
-71,paulson jake,"Louisville, Ky. (Christian Academy)",football,minnesota
-72,pickerign samuel,"Alpharetta, Ga. (Minnehaha Academy)",football,minnesota
-73,reigelsperger alex,"Dayton, Ohio (Wayne HS)",football,minnesota
-74,renner sam,"Maple Grove, Minn. (Maple Grove Senior High)",football,minnesota
-75,roane micah,"Chaska, Minn. (Chaska HS)",football,minnesota
-76,robinson malcolm,"Massillon, Ohio (Washington HS)",football,minnesota
-77,ruschmeyer axel,"Hutchinson, Minn. (Holy Family Catholic HS)",football,minnesota
-78,rush thomas,"Marysville, Ohio (Marysville HS)",football,minnesota
-79,russell joe,"Shoreview, Minn. (Totino-Grace HS)",football,minnesota
-80,ryerse grant,"Woodbury, Minn. (East Ridge HS)",football,minnesota
-81,santaga jon,"Green Bay, Wis. (Notre Dame De La Baie Academy)",football,minnesota
-82,sapp iii benny,"Fort Lauderdale, Fla. (Eden Prairie HS)",football,minnesota
-83,sassack kyle,"Pontiac, Mich. (Notre Dame Prep HS)",football,minnesota
-84,schlueter sam,"Victoria, Minn. (Mayer Lutheran HS)",football,minnesota
-85,schmitz john michael,"Flossmoor, Ill. (Homewood-Flossmoor HS)",football,minnesota
-86,schoenfelder bailey,"Huron, S.D. (Huron HS)",football,minnesota
-87,shenault antonio,"Roselle, Ill. (Lake Park HS)",football,minnesota
-88,silver royal,"Cedar Rapids, Iowa (Iowa Western CC)",football,minnesota
-89,smith cj,"Jacksonville, Fla. (Fletcher HS)",football,minnesota
-90,smith o.j.,"Bossier City, La. (Alabama)",football,minnesota
-91,smith rodney,"Jonesboro, Ga. (Mundy's Mill HS)",football,minnesota
-92,smith terell,"Snellville, Ga. (South Gwinnett HS)",football,minnesota
-93,sori-marin mariano,"Mokena, Ill. (Providence Catholic HS)",football,minnesota
-94,spann-ford brevyn,"St. Cloud, Minn. (Technical HS)",football,minnesota
-95,strazzanti alex,"Chaska, Minn. (Chaska HS)",football,minnesota
-96,swenson calvin,"Kaukauna, Wis. (Kaukauna HS)",football,minnesota
-97,teague elijah,"South Holland, Ill. (Marist HS)",football,minnesota
-98,thomas kiondre,"Fort Smith, Ark. (Northside HS)",football,minnesota
-99,thompson true,"Plymouth, Minn. (Iowa Western Community College)",football,minnesota
-100,umlor nate,"Allendale, Mich. (Allendale HS)",football,minnesota
-101,van dyne harry,"Stilwell, Kan. (Blue Valley HS)",football,minnesota
-102,van dyne yale,"Overland Park, Kan. (University of Iowa)",football,minnesota
-103,viramontes vic,"Riverside, Calif. (Riverside CC)",football,minnesota
-104,vojvodich michael,"Annandale, Va (Woodson HS)",football,minnesota
-105,walker brock,"Sioux Falls, S.D. (Washington HS)",football,minnesota
-106,weyler jared,"Dayton, Ohio (Centerville HS)",football,minnesota
-107,williams bryce,"Sarasota, Fla. (Cardinal Mooney HS)",football,minnesota
-108,williams mark,"Gainestown, Ala. (Jackson HS)",football,minnesota
-109,williamson chris,"Gainesville, Ga. (Florida)",football,minnesota
-110,winfield jr. antoine,"The Woodlands, Texas (The Woodlands HS)",football,minnesota
-111,witham bryce,"Grand Rapids, Mich. (West Catholic HS)",football,minnesota
-112,witherspoon clayton,"Eden Prairie, Minn. (Eden Prairie HS)",football,minnesota
-113,york jack,"Dallas, Texas (First Baptist Academy)",football,minnesota
-0,aguado ana,"Plymouth, Minn. (Robbinsdale Armstrong HS)",womens soccer,minnesota
-1,albrecht nikki,"Cedarburg, Wisc. (Cedarburg High School)",womens soccer,minnesota
-2,billings catherine,"Sandy, Utah (Juan Diego Catholic High School)",womens soccer,minnesota
-3,bockin april,"Eden Prairie, Minn. (Eden Prairie HS)",womens soccer,minnesota
-4,buisman mckenna,"Mankato, MN (Mankato West High School)",womens soccer,minnesota
-5,burnett tori,"Colorado Springs, Colo. (Cheyenne Mountain HS)",womens soccer,minnesota
-6,castro maddie,"Cottage Grove, Minn. (Park HS)",womens soccer,minnesota
-7,del moral arianna,"Brooklyn Park, Minn. (Totino Grace High School)",womens soccer,minnesota
-8,dressely alana,"Cottage Grove, Minn. (Hill-Murray HS)",womens soccer,minnesota
-9,fiedler molly,"Eagan, Minn. (St. Paul Academy HS)",womens soccer,minnesota
-10,fridriksdottir hugrun,"Reykjavik, Iceland",womens soccer,minnesota
-11,gaffney maddie,"Woodbury, Minn. (Woodbury HS)",womens soccer,minnesota
-12,gernes julianna,"Lake Elmo, Minn. (Hill-Murray HS)",womens soccer,minnesota
-13,gray megan,"Ankeny, Iowa (Ankeny Centennial)",womens soccer,minnesota
-14,hartkemeyer haley,"Eau Claire, Wis. (Eau Claire Memorial)",womens soccer,minnesota
-15,heslin emily,"Woodbury, Minn. (Hill-Murray HS)",womens soccer,minnesota
-16,koenig megan,"Mahtomedi, Minn. (Mahtomedi HS)",womens soccer,minnesota
-17,kuehn athena,"Colorado Springs, Colo. (Pine Creek High School)",womens soccer,minnesota
-18,langdok makenzie,"Saint Michael, Minn. (St. Michael-Albertville HS)",womens soccer,minnesota
-19,mcgahn kellie,"Apple Valley, Minn. (Eastview HS)",womens soccer,minnesota
-20,mckendrick tj,"Highland, Utah (Lone Peak High School)",womens soccer,minnesota
-21,mennes haley,"McLean, Virginia (McLean High School)",womens soccer,minnesota
-22,nielsen maddie,"Shoreline, Wash. (King's High School)",womens soccer,minnesota
-23,nummerdor celina,"Juneau, Wisc.",womens soccer,minnesota
-24,peterson emily,"Prior Lake, Minn. (Prior Lake HS)",womens soccer,minnesota
-25,ruppert lydia,"Minneapolis, MN (Minneapolis Washburn High School)",womens soccer,minnesota
-26,sharp kailee,"Centennial, Colo. (Cherry Creek HS)",womens soccer,minnesota
-27,squires sydney,"Hudson, Wisc. (Hudson HS)",womens soccer,minnesota
-28,stekr delaney,"Omaha, Nebraska (Marian High School)",womens soccer,minnesota
-29,ward patricia,"Newport News, Virginia (Warwick HS)",womens soccer,minnesota
-30,windingstad marisa,"Omaha, Neb. (Millard North High School)",womens soccer,minnesota
-0,ali hamza,"Minneapolis, Minn. (Washburn)",mens cross country,minnesota
-1,ali obsa,"Richfield, Minn. (Richfield)",mens cross country,minnesota
-2,basten alec,"Green Bay, Wis. (Green Bay Southwest)",mens cross country,minnesota
-3,carlson sam,"Bemidji, Minn. (Bemidji)",mens cross country,minnesota
-4,duerr joey,"Chaska, Minn. (Chaska)",mens cross country,minnesota
-5,ferlic evan,"Roseville, Minn. (Mounds Park Academy)",mens cross country,minnesota
-6,hoeft owen,"Golden Valley, Minn. (Hopkins)",mens cross country,minnesota
-7,lawrence charlie,"Foley, Minn. (Foley)",mens cross country,minnesota
-8,lucas hunter,"Fargo, N.D. (Fargo Davies)",mens cross country,minnesota
-9,macintosh jordan,"Thunder Bay, Ontario (Hammarskjold)",mens cross country,minnesota
-10,manderscheid jack,"Edina, Minn. (Edina)",mens cross country,minnesota
-11,morrison joe,"Poughquag, N.Y. (Arlington)",mens cross country,minnesota
-12,olson connor,"Maple Grove, Minn. (Wayzata)",mens cross country,minnesota
-13,plasencia alex,"Shoreview, Minn. (Mounds View)",mens cross country,minnesota
-14,rink nick,"Appleton, Wis. (Kimberly)",mens cross country,minnesota
-15,roos patrick,"Edina, Minn. (Edina)",mens cross country,minnesota
-16,staack hunter,"Hopkins, Minn. (Hopkins)",mens cross country,minnesota
-17,streich shane,"Janesville, Minn. (Waseca)",mens cross country,minnesota
-18,wagner robert,"Pewaukee, Wis. (Pewaukee)",mens cross country,minnesota
-19,wiebke derek,"Kasson, Minn. (Kasson-Mantorville)",mens cross country,minnesota
-0,alama courtney,"Annandale, Minn. (Annandale HS)",womens cross country,minnesota
-1,baer sam,"St. Louis Park, Minn. (St. Louis Park HS)",womens cross country,minnesota
-2,barczi amelia,"Madison, Wis. (Madison West HS)",womens cross country,minnesota
-3,betz emily,"Woodbury, Minn. (East Ridge HS)",womens cross country,minnesota
-4,castanias emily,"Chanhassen, Minn. (Chanhassen HS)",womens cross country,minnesota
-5,conzemius jenna,"Hastings, Minn. (Cretin-Derham Hall)",womens cross country,minnesota
-6,dock carissa,"Waconia, Minn. (Waconia HS)",womens cross country,minnesota
-7,eastman maria,"Victoria, Minn. (University of Iowa)",womens cross country,minnesota
-8,eastman molly,"Victoria, Minn. (Holy Family Catholic HS)",womens cross country,minnesota
-9,fitzpatrick delaney,"Minocqua, Wis. (Yale University)",womens cross country,minnesota
-10,greenlund lindsey,"Rochester, Minn. (Rochester Mayo HS)",womens cross country,minnesota
-11,hasz bethany,"Alexandria, Minn. (Alexandria Area HS)",womens cross country,minnesota
-12,hasz megan,"Alexandria, Minn. (Alexandria Area HS)",womens cross country,minnesota
-13,hummel olivia,"Woodbury, Minn. (University of Dayton)",womens cross country,minnesota
-14,kargol abby,"Downers Grove, Ill. (Downers Grove South HS)",womens cross country,minnesota
-15,klecker bit,"Hopkins, Minn. (Hopkins HS)",womens cross country,minnesota
-16,klecker sarah,"Hopkins, Minn. (Hopkins HS)",womens cross country,minnesota
-17,kohut-jackson abby,"Huxley, Iowa (Ballard HS)",womens cross country,minnesota
-18,korzenowski anastasia,"Chanhassen, Minn. (Chanhassen HS)",womens cross country,minnesota
-19,lange abby,"Stillwater, Minn. (Stillwater HS)",womens cross country,minnesota
-20,markland titania,"St. Mary, Jamaica (St. Mary HS)",womens cross country,minnesota
-21,mason zetta,"Boulder, Colo. (Fairview HS)",womens cross country,minnesota
-22,miller liz,"Watertown, Minn. (Watertown-Mayer HS)",womens cross country,minnesota
-23,ness bailey,"Woodbury, Minn. (East Ridge HS)",womens cross country,minnesota
-24,o'brien patty,"Maplewood, Minn. (North St. Paul HS)",womens cross country,minnesota
-25,peschel paige,"Westfield, Wis. (Westfield Area HS)",womens cross country,minnesota
-26,prescott elyse,"Urbandale, Iowa (Urbandale HS)",womens cross country,minnesota
-27,prouty samantha,"White Bear Lake, Minn. (White Bear Lake HS)",womens cross country,minnesota
-28,rasmussen haley,"Chaska, Minn. (Chaska HS)",womens cross country,minnesota
-29,roach molly,"Bloomington, Minn. (Bloomington Jefferson HS)",womens cross country,minnesota
-30,sather kelsey,"Plymouth, Minn. (Robbinsdale Armstrong HS)",womens cross country,minnesota
-31,schmidt kelli,"Wilmette, Ill. (New Trier HS)",womens cross country,minnesota
-32,schmitz sophie,"Willmar, Minn. (Willmar Senior HS)",womens cross country,minnesota
-33,smith ally,"McFarland, Wis. (McFarland HS)",womens cross country,minnesota
-34,strandemo madeline,"Fargo, N.D. (Fargo South HS)",womens cross country,minnesota
-35,sweeney tate,"Edina, Minn. (Edina HS)",womens cross country,minnesota
-36,thomsen jaycie,"Maple Grove, Minn. (Wayzata HS)",womens cross country,minnesota
-37,werking sarah,"Elm Grove, Wis. (Brookfield East HS)",womens cross country,minnesota
-38,wians rachel,"Middleton, Wis. (Middleton HS)",womens cross country,minnesota
-0,arnórsson rúnar,"Hafnarfjörður, Iceland (Flensborg)",mens golf,minnesota
-1,duensing charlie,"Sandy, Utah (Brighton)",mens golf,minnesota
-2,fisher campbell,"Eatonton, Ga. (Lambert)",mens golf,minnesota
-3,flanagan angus,"Woking, England (Bradfield College)",mens golf,minnesota
-4,frazzini ben,"Medina, Minn. (Wayzata)",mens golf,minnesota
-5,johnson riley,"Fargo, N.D. (West Fargo)",mens golf,minnesota
-6,jones peter,"Owatonna, Minn. (Owatonna)",mens golf,minnesota
-7,long evan,"New Castle, Pa. (Laurel)",mens golf,minnesota
-8,longbella thomas,"Chippewa Falls, Wis. (McDonnell Central Catholic)",mens golf,minnesota
-9,minkin gus,"York, Pa. (Central York)",mens golf,minnesota
-10,sanders reece,"Deephaven, Minn. (Blake)",mens golf,minnesota
-11,uloth alex,"Burnsville, Minn. (Burnsville)",mens golf,minnesota
-0,free joanne,"Gullane, Scotland (Ross)",womens golf,minnesota
-1,garrison sabrine,"Calgary, Alberta (Sir Winston Churchill)",womens golf,minnesota
-2,heggerston maggie,"Pequot Lakes, Minn. (Pequot Lakes)",womens golf,minnesota
-3,kellar grace,"Edina, Minn. (Edina)",womens golf,minnesota
-4,lee jessica,"Hinsdale, Ill. (Hinsdale Central)",womens golf,minnesota
-5,lillie kate,"St. Charles, Ill. (St. Charles North)",womens golf,minnesota
-6,portillo christine,"Eden Prairie, Minn. (Edina)",womens golf,minnesota
-7,wu muyu,"Hangzhou, China (Huangshan)",womens golf,minnesota
-0,baden harrison,"White Bear Lake, Minn. (Hawai'i)",mens swimming,minnesota
-1,becker bowen,"Las Vegas, Nev. (Faith Lutheran)",mens swimming,minnesota
-2,berkoff cale,"Missoula, Mont. (Hellgate HS)",mens swimming,minnesota
-3,donker tom,"Zutphen, Netherlands",mens swimming,minnesota
-4,hansen jan,"Beaver Dam, Wis. (Beaver Dam HS)",mens swimming,minnesota
-5,hansen kristian,"Hanover, N.H. (Hanover HS)",mens swimming,minnesota
-6,hohenstein brenner,"Maple Grove, Minn. (Maple Grove HS)",mens swimming,minnesota
-7,hunter erik,"Mission Viejo, Calif. (Trabuco Hills HS)",mens swimming,minnesota
-8,kelley cameron,"Cedar Rapids, Iowa (Washington HS)",mens swimming,minnesota
-9,leblang alan,"Centennial, Colo. (Arapahoe HS)",mens swimming,minnesota
-10,lefebvre peter,"Minneapolis, Minn. (Minneapolis Southwest HS)",mens swimming,minnesota
-11,lester duncan,"Boulder, Colo. (Fairview HS)",mens swimming,minnesota
-12,lezer max,"Rogers, MN (St. Michael-Albertville HS)",mens swimming,minnesota
-13,linscott hayden,"Mission Hills, Kan. (Shawnee Mission East HS)",mens swimming,minnesota
-14,mchugh conner,"Sturgeon Bay, Wis. (Sevastopol HS)",mens swimming,minnesota
-15,messner michael,"Sunnyvale, Calif. (Bellarmine Prep HS)",mens swimming,minnesota
-16,moser jeremy,"Milwaukee, Wis. (Nicolet HS)",mens swimming,minnesota
-17,plachinski nick,"Cedarburg, Wis. (Cedarburg HS)",mens swimming,minnesota
-18,pokkinen tuomas,"Espoo, Finland (Makelanrinteen Lukio)",mens swimming,minnesota
-19,portela jordan,"Lawrence, Kan. (Lawrence Free State HS)",mens swimming,minnesota
-20,royzen maxim,"Skokie, Ill. (Niles North HS)",mens swimming,minnesota
-21,sates tim,"Durban, South Africa",mens swimming,minnesota
-22,saulnier nick,"Cedar Rapids, Iowa (Washington HS)",mens swimming,minnesota
-23,thomas matthew,"Hollister, Calif. (Valley Christian HS)",mens swimming,minnesota
-24,tidd james,"Woodbury, Minn. (East Ridge HS)",mens swimming,minnesota
-25,torres justin,"Piscataway, N.J. (Saint Joseph HS)",mens swimming,minnesota
-26,van niekerk kyle,"Johannesburg, South Africa",mens swimming,minnesota
-27,yang nick,"Chao Hu, China",mens swimming,minnesota
-28,yoder evan,"Lawrence, Kan. (Lawrence Free State HS)",mens swimming,minnesota
-29,yudashkin eitan,"Kiryat Motzkin, Israel",mens swimming,minnesota
-30,zugibe matt,"Stony Point, N.Y. (North Rockland HS)",mens swimming,minnesota
-0,avestruz zoe,"Chaska, Minn. (Chanhassen HS)",womens swimming,minnesota
-1,bacon sarah,"Indianapolis, Ind. (Cardinal Ritter HS)",womens swimming,minnesota
-2,bergeson dani,"Bismarck, N.D. (Century HS)",womens swimming,minnesota
-3,buck erin,"Maple Grove, Minn. (Maple Grove HS)",womens swimming,minnesota
-4,bullinger rae,"Minnetonka, Minn. (Hopkins HS)",womens swimming,minnesota
-5,chapman tara,"Lino Lakes, Minn. (Centennial HS)",womens swimming,minnesota
-6,ciavarella nicki,"Valley Cottage, N.Y. (NYACK HS)",womens swimming,minnesota
-7,crozier jenelle,"Littleton, Colo. (Chatfield HS)",womens swimming,minnesota
-8,emery erin,"Las Vegas, Nev. (Palo Verde HS)",womens swimming,minnesota
-9,erwin abbey,"Boise, Idaho (Boise HS)",womens swimming,minnesota
-10,etterman beth,"East Gull Lake, Minn. (Brainerd HS)",womens swimming,minnesota
-11,fu xiao,"Qingdao, China",womens swimming,minnesota
-12,grobe kaia,"Victoria, Minn. (Chanhassen HS)",womens swimming,minnesota
-13,hayden kristen,"Hillsborough, N.J. (Panther Creek HS)",womens swimming,minnesota
-14,hepper emma,"Bismarck, N.D. (St. Mary's Central HS)",womens swimming,minnesota
-15,horn brittany,"Appleton, Wis. (Appleton North HS)",womens swimming,minnesota
-16,johnston olivia,"Rosemount, Minn. (Rosemount HS)",womens swimming,minnesota
-17,justus morgan,"Grand Rapids, Minn. (Grand Rapids HS)",womens swimming,minnesota
-18,khamis mariam,"Richmond, Ind. (Richmond HS)",womens swimming,minnesota
-19,kozelsky lindsey,"Albert Lea, Minn. (Albert Lea HS)",womens swimming,minnesota
-20,lalumiere lauren,"Oakville, Ontario (Iroquois Ridge)",womens swimming,minnesota
-21,leonard kelly,"Hastings, Minn. (Hastings HS)",womens swimming,minnesota
-22,marcus kaela,"Placerville, Calif. (Placerville El Dorado HS)",womens swimming,minnesota
-23,milstroh kasey,"St. Cloud, Minn. (Foley HS)",womens swimming,minnesota
-24,munson rachel,"Shorewood, Wis. (Shorewood HS)",womens swimming,minnesota
-25,nack chantal,"Mankato, Minn. (Mankato West HS)",womens swimming,minnesota
-26,nack danielle,"Mankato, Minn. (Mankato West HS)",womens swimming,minnesota
-27,padington mackenzie,"Campbell River, B.C. (Claremont Secondary)",womens swimming,minnesota
-28,preiss madison,"Medina, Minn. (Wayzata HS)",womens swimming,minnesota
-29,sauder katelyn,"Bloomington, Ill. (Normal Community HS)",womens swimming,minnesota
-30,van law patricia,"Highlands Ranch, Colo. (Thunder Ridge HS)",womens swimming,minnesota
-31,waddell tevyn,"Mitchell, S.D. (Mitchell HS)",womens swimming,minnesota
-32,werba maggie,"Oshkosh, Wis. (Oshkosh West HS)",womens swimming,minnesota
-33,whited isabel,"Scottsdale, Ariz. (Pinnacle HS)",womens swimming,minnesota
-34,zeiger brooke,"Cumberland, R.I. (Homeschool)",womens swimming,minnesota
-0,allen jackson,"Shakopee, Minn. (Shakopee H.S.)",mens tennis,minnesota
-1,alpeza marino,"Mostar, Bosnia",mens tennis,minnesota
-2,corwin felix,"Elm Grove, Wis. (Brookfield East H.S.)",mens tennis,minnesota
-3,dobbs kaleb,"Sioux Falls, S.D. (Sioux Falls Lincoln H.S.)",mens tennis,minnesota
-4,krstanovic josip,"Zagreb, Croatia (XV. Gimnazija Zagreb)",mens tennis,minnesota
-5,levin justyn,"Melbourne, Australia (Leibler Yavneh College)",mens tennis,minnesota
-6,lobak vlad,"Kiev, Ukraine",mens tennis,minnesota
-7,milicevic stefan,"Belgrade, Serbia (Cmjanski H.S.)",mens tennis,minnesota
-8,ogilvy eli,"Mississauga, Ont. (Silverthorn Collegiate)",mens tennis,minnesota
-9,spec matic,"Maribor, Slovenia (II. Gimnazija Maribor)",mens tennis,minnesota
-10,sprinkel jesse,"Minneapolis, Minn. (Minneapolis South H.S.)",mens tennis,minnesota
-0,bihel karyna,"Grayslake, Ill. (Warren Township HS)",womens tennis,minnesota
-1,emme annemarie,"Glenview, Ill. (Glenbrook South HS)",womens tennis,minnesota
-2,frei cammy,"Winnetka, Ill. (New Trier HS)",womens tennis,minnesota
-3,hall kalyssa,"Colorado Springs, Col. (Cherry Creek HS)",womens tennis,minnesota
-4,hart river,"Nassau, Bahamas (ES International School)",womens tennis,minnesota
-5,kreinis tina,"Toronto, Ont. (Northview Heights Secondary School)",womens tennis,minnesota
-6,mancera barbara,"Mexico City, Mexico (Colegio Visa Hermosa)",womens tennis,minnesota
-7,merzbacher caitlyn,"Eden Prairie, Minn. (Edina HS)",womens tennis,minnesota
-8,ryba caroline,"Glenview, Ill. (Glenbrook South HS)",womens tennis,minnesota
-9,safdar mehvish,"Mason, Ohio (Ursuline Academy)",womens tennis,minnesota
-10,vargas gomez camila,"Lima, Peru (Santa Ursula School)",womens tennis,minnesota
-0,ali hamza,"Minneapolis, Minn. (Washburn HS)",mens track,minnesota
-1,ali obsa,"Richfield, Minn. (Richfield HS)",mens track,minnesota
-2,baker matthew,"Shoreview, Minn. (Mounds View HS)",mens track,minnesota
-3,basten alec,"Green Bay, Wis. (Green Bay Southwest HS)",mens track,minnesota
-4,buller jacob,"St. Paul, Minn. (St. Croix Lutheran)",mens track,minnesota
-5,carlson sam,"Bemidji, Minn. (Bemidji HS)",mens track,minnesota
-6,duerr joey,"Chaska, Minn. (Chaska HS)",mens track,minnesota
-7,ferlic evan,"Roseville, Minn. (Mounds Park Academy)",mens track,minnesota
-8,fleischfresser anthony,"Blaine, Minn. (Spring Lake Park HS)",mens track,minnesota
-9,frid teddy,"South St. Paul, Minn. (South St. Paul HS)",mens track,minnesota
-10,fuller grant,"Edina, Minn. (Edina HS)",mens track,minnesota
-11,gucinski ben,"Appleton, Wis. (Fox Valley Lutheran HS)",mens track,minnesota
-12,harold glen,"Elm Grove, Wis. (Brookfield East HS)",mens track,minnesota
-13,herauf mike,"Dickinson, N.D. (Dickinson HS)",mens track,minnesota
-14,hoeft owen,"Golden Valley, Minn (Hopkins HS)",mens track,minnesota
-15,houston sammie,"Eden Prairie, Minn. (Eden Prairie HS)",mens track,minnesota
-16,johnson clayton,"Hastings, Minn. (Hastings HS)",mens track,minnesota
-17,johnson jonathan,"Champlin, Minn. (Champlin Park HS)",mens track,minnesota
-18,kelner alex,"Mounds View, Minn. (Irondale HS)",mens track,minnesota
-19,larance dawson,"Billings, Mont. (Billings Senior HS)",mens track,minnesota
-20,lawrence charlie,"Foley, Minn. (Foley HS)",mens track,minnesota
-21,lockard ryan,"Apple Valley, Minn. (Eastview HS)",mens track,minnesota
-22,lucas hunter,"Fargo, N.D. (Fargo Davies HS)",mens track,minnesota
-23,macintosh jordan,"Thunder Bay, Ontario (Hammarskjold HS)",mens track,minnesota
-24,manderscheid jack,"Edina, Minn. (Edina HS)",mens track,minnesota
-25,mckeag kieran,"Lakeville, Minn. (Apple Valley HS)",mens track,minnesota
-26,mensah cory,"Brooklyn Park, Minn. (Champlin Park HS)",mens track,minnesota
-27,morrison joe,"Poughquag, N.Y. (Arlington HS)",mens track,minnesota
-28,nelson zach,"St. Louis Park, Minn. (St. Louis Park HS)",mens track,minnesota
-29,nerdal jon,"Bergen, Norway (Danielsen VGS)",mens track,minnesota
-30,neumann brad,"Peshtigo, Wis. (Peshtigo HS)",mens track,minnesota
-31,olson connor,"Maple Grove, Minn. (Wayzata HS)",mens track,minnesota
-32,plasencia alex,"Shoreview, Minn. (Mounds View HS)",mens track,minnesota
-33,psicihulis ben,"Waukesha, Wis. (Kettle Moraine HS)",mens track,minnesota
-34,rink nick,"Appleton, Wis. (Kimberly HS)",mens track,minnesota
-35,roomes mason,"Woodbury, Minn. (Woodbury HS)",mens track,minnesota
-36,roos patrick,"Edina, Minn. (Edina HS)",mens track,minnesota
-37,rosen matthew,"Bloomington, Minn. (Bloomington Jefferson HS)",mens track,minnesota
-38,rousemiller connor,"Lakeville, Minn. (Lakeville South HS)",mens track,minnesota
-39,sieffert collin,"Woodbury, Minn. (East Ridge HS)",mens track,minnesota
-40,siekmeier kaleb,"Mahtomedi, Minn. (Mahtomedi HS)",mens track,minnesota
-41,staack hunter,"Hopkins, Minn. (Hopkins HS)",mens track,minnesota
-42,streich shane,"Janesville, Minn. (Waseca HS)",mens track,minnesota
-43,tappe tyler,"Pequot Lakes, Minn. (Pequot Lakes HS)",mens track,minnesota
-44,tharaldsen jonathan,"Bismarck, N.D. (Bismarck HS)",mens track,minnesota
-45,tollefson jon,"St. Paul, Minn. (St. Croix Lutheran HS)",mens track,minnesota
-46,tracy josh,"St. Michael, Minn. (St. Michael Albertville HS)",mens track,minnesota
-47,trapp lucas,"Elk River, Minn. (Elk River HS)",mens track,minnesota
-48,travis james,"Naperville, Ill. (Waubonsie Valley HS)",mens track,minnesota
-49,trotter chris,"Minneapolis, Minn. (St. Louis Park HS)",mens track,minnesota
-50,uchytil john,"Hudson, Wis. (Hudson HS)",mens track,minnesota
-51,udalla chris,"Elk River, Minn. (Elk River HS)",mens track,minnesota
-52,wagner robert,"Pewaukee, Wis. (Pewaukee HS)",mens track,minnesota
-53,walker eric,"Chicago, Ill. (St. Rita HS)",mens track,minnesota
-54,webb jonathan,"Woodbury, Minn. (Minnehaha Academy)",mens track,minnesota
-55,wellenstein jackson,"Madison, Wis. (Madison West HS)",mens track,minnesota
-56,wiebke derek,"Kasson, Minn. (Kasson-Mantorville HS)",mens track,minnesota
-0,alama courtney,"Annandale, Minn. (Annandale HS)",womens track,minnesota
-1,albrechtsen sofie,"Esbjerg, Denmark (Marselisborg Gymnasium)",womens track,minnesota
-2,anderson sophia,"Eden Prairie, Minn. (Academy of Holy Angels)",womens track,minnesota
-3,arason hannah,"Grand Forks, N.D. (Red River HS)",womens track,minnesota
-4,baer sam,"St. Louis Park, Minn. (St. Louis Park HS)",womens track,minnesota
-5,baker kayla,"Cloquet, Minn. (Cloquet Senior HS)",womens track,minnesota
-6,barczi amelia,"Madison, Wis. (Madison West HS)",womens track,minnesota
-7,betz emily,"Woodbury, Minn. (East Ridge HS)",womens track,minnesota
-8,biermaier meleah,"Thief River Falls, Minn. (Lincoln HS)",womens track,minnesota
-9,castanias emily,"Chanhassen, Minn. (Chanhassen HS)",womens track,minnesota
-10,champagnie ayesha,"Kingston, Jamaica (Barton Community College)",womens track,minnesota
-11,clunis nayoka,"Kingston, Jamaica (Cloud County CC)",womens track,minnesota
-12,conzemius jenna,"Hastings, Minn. (Cretin-Derham Hall)",womens track,minnesota
-13,crotty ryan,"Maplewood, Minn. (North St. Paul HS)",womens track,minnesota
-14,delson wilsonique,"Nassau, Bahamas (Saint Augustine's College HS)",womens track,minnesota
-15,dock carissa,"Waconia, Minn. (Waconia HS)",womens track,minnesota
-16,dugan allison,"Medina, Minn. (Wayzata HS)",womens track,minnesota
-17,dunning erin,"Green Bay, Wis. (Ashwaubenon HS)",womens track,minnesota
-18,eastman maria,"Victoria, Minn. (University of Iowa)",womens track,minnesota
-19,eastman molly,"Victoria, Minn. (Holy Family Catholic HS)",womens track,minnesota
-20,egwim emerald,"St. Paul, Minn. (Eagan HS)",womens track,minnesota
-21,esser agnes,"McBride, B.C. (Francis Kelsey Secondary School)",womens track,minnesota
-22,fitzpatrick delaney,"Minocqua, Wis. (Yale University)",womens track,minnesota
-23,gerads allison,"Dayton, Minn. (Champlin Park HS)",womens track,minnesota
-24,greenlund lindsey,"Rochester, Minn. (Rochester Mayo HS)",womens track,minnesota
-25,hasz bethany,"Alexandria, Minn. (Alexandria Area HS)",womens track,minnesota
-26,hasz megan,"Alexandria, Minn. (Alexandria Area HS)",womens track,minnesota
-27,horvath nina,"Stevens Point, Wis. (Southern Illinois)",womens track,minnesota
-28,huls erin,"Cold Spring, Minn. (ROCORI HS)",womens track,minnesota
-29,hummel olivia,"Woodbury, Minn. (University of Dayton)",womens track,minnesota
-30,kargol abby,"Downers Grove, Ill. (Downers Grove South HS)",womens track,minnesota
-31,keyzers tess,"Little Chute, Wis. (Little Chute HS)",womens track,minnesota
-32,kiefer lexi,"Northfield, Minn. (Northfield HS)",womens track,minnesota
-33,klecker bit,"Hopkins, Minn. (Hopkins HS)",womens track,minnesota
-34,klecker sarah,"Hopkins, Minn. (Hopkins HS)",womens track,minnesota
-35,kohut-jackson abby,"Huxley, Iowa (Ballard HS)",womens track,minnesota
-36,korzenowski anastasia,"Chanhassen, Minn. (Chanhassen HS)",womens track,minnesota
-37,lange abby,"Stillwater, Minn. (Stillwater HS)",womens track,minnesota
-38,larson val,"DeForest, Wis. (DeForest Area HS)",womens track,minnesota
-39,long kaitlyn,"Cottage Grove, Wis. (Winona State)",womens track,minnesota
-40,markland titania,"Annotto Bay, Jamaica (St. Mary HS)",womens track,minnesota
-41,mason zetta,"Boulder, Colo. (Fairview HS)",womens track,minnesota
-42,murphy nicolle,"Arkansas City, Kan. (Arkansas City HS)",womens track,minnesota
-43,murray lorean,"St. Andrew, Jamaica (St. Andrew HS)",womens track,minnesota
-44,narr macy,"Chanhassen, Minn. (Minnetonka HS)",womens track,minnesota
-45,nelson kayla,"Rush City, Minn. (Rush City HS)",womens track,minnesota
-46,ness bailey,"Woodbury, Minn. (East Ridge HS)",womens track,minnesota
-47,nielsen shay,"Detroit Lakes, Minn. (Detroit Lakes HS)",womens track,minnesota
-48,o'brien patty,"Maplewood, Minn. (North St. Paul HS)",womens track,minnesota
-49,ogunrinde temi,"Cottage Grove, Minn. (Park HS)",womens track,minnesota
-50,peschel paige,"Westfield, Wis. (Westfield Area HS)",womens track,minnesota
-51,place karlie,"River Falls, Wis. (UW-Milwaukee)",womens track,minnesota
-52,poole hailey,"Worden, Mont. (Huntley Project HS)",womens track,minnesota
-53,prescott elyse,"Urbandale, Iowa (Urbandale HS)",womens track,minnesota
-54,ramacher ashley,"Eden Prairie, Minn. (Eden Prairie HS)",womens track,minnesota
-55,rasmussen haley,"Chaska, Minn. (Chaska HS)",womens track,minnesota
-56,roach molly,"Bloomington, Minn. (Bloomington Jefferson HS)",womens track,minnesota
-57,sabin kiley,"Slinger, Wis. (Slinger HS)",womens track,minnesota
-58,sather kelsey,"Plymouth, Minn. (Robbinsdale Armstrong HS)",womens track,minnesota
-59,schmidt kelli,"Wilmette, Ill. (New Trier HS)",womens track,minnesota
-60,schmitz sophie,"Willmar, Minn. (Willmar Senior HS)",womens track,minnesota
-61,schow rachel,"Inver Grove Heights, Minn. (Rosemount HS)",womens track,minnesota
-62,smith ally,"McFarland, Wis. (McFarland HS)",womens track,minnesota
-63,smits lindsey,"Lakeville, Minn. (Lakeville North HS)",womens track,minnesota
-64,spagnola emma,"North Aurora, Ill. (West Aurora HS)",womens track,minnesota
-65,strandemo madeline,"Fargo, N.D. (Fargo South HS)",womens track,minnesota
-66,sweeney tate,"Edina, Minn. (Edina HS)",womens track,minnesota
-67,thomsen jaycie,"Maple Grove, Minn. (Wayzata HS)",womens track,minnesota
-68,tuuri heta,"Lahti, Finland (Salpausselka HS)",womens track,minnesota
-69,werking sarah,"Elm Grove, Wis. (Brookfield East HS)",womens track,minnesota
-70,wians rachel,"Middleton, Wis. (Middleton HS)",womens track,minnesota
-71,wiebke taylor,"Mantorville, Minn. (Kasson-Mantorville HS)",womens track,minnesota
-72,wright shanique,"Manchester, Jamaica (Manchester HS)",womens track,minnesota
-0,allar jake,"Medina, Minn. (Saint Michael-Albertville)",wrestling,minnesota
-1,anderson dylan,"Hudson, Wis. (Hudson HS)",wrestling,minnesota
-2,balow will,"Lake City, Minn. (Lincoln HS)",wrestling,minnesota
-3,berg james,"New Prague, Minn. (New Prague HS)",wrestling,minnesota
-4,bergeland jakob,"Hugo, Minn. (Centennial High School)",wrestling,minnesota
-5,bleise steve,"Chelsea, Mich. (Chelsea High School)",wrestling,minnesota
-6,brancale ben,"Eden Prairie, Minn. (Eden Prairie HS)",wrestling,minnesota
-7,brolsma carson,"Maple Grove, Minn. (Osseo HS)",wrestling,minnesota
-8,carr colin,"Washington, Ill. (Washington Community HS)",wrestling,minnesota
-9,champagne jose,"Griffith, Ind. (Marion Catholic HS)",wrestling,minnesota
-10,christianson tim,"Albert Lea, Minn. (Albert Lea HS)",wrestling,minnesota
-11,crowe alex,"Shakopee, Minn. (Shakopee High School)",wrestling,minnesota
-12,jones brent,"Shakopee, Minn. (Shakopee High School)",wrestling,minnesota
-13,karaborni faris,"Cupertino, Calif. (Monta Vista HS)",wrestling,minnesota
-14,karaborni tijani,"Cupertino, Calif. (Monta Vista HS)",wrestling,minnesota
-15,krone brandon,"Anoka, Minn. (Anoka HS)",wrestling,minnesota
-16,lizak ethan,"Schnecksville, Pa. (Parkland HS)",wrestling,minnesota
-17,lunde dalton,"Kendall, Wis. (Royall HS)",wrestling,minnesota
-18,marko hunter,"Amery, Wis. (Amery HS)",wrestling,minnesota
-19,mckee mitch,"St. Michael, Minn. (St. Michael-Albertville HS)",wrestling,minnesota
-20,o'connor chase,"Kasson, Minn. (Rochester Community and Technical College)",wrestling,minnesota
-21,o'reilly bailee,"Goodhue, Minn. (Goodhue Public School)",wrestling,minnesota
-22,olson brenn,"Grand Meadow, Minn. (Grand Meadow HS)",wrestling,minnesota
-23,patton miles,"Rochester, Minn. (Mayo HS)",wrestling,minnesota
-24,petry skyler,"Waterville, Minn. (Waterville-Elysian-Morristown HS)",wrestling,minnesota
-25,pfarr chris,"Le Sueur, Minn. (Le Sueur-Henderson HS)",wrestling,minnesota
-26,polakowski steve,"Libertyville, Ill. (Libertyville HS)",wrestling,minnesota
-27,rose nate,"Arlington, Minn. (Sibley East HS)",wrestling,minnesota
-28,rothers jordon,"Sunburg, Minn. (Kerkhoven-Murdock-Sunburg HS)",wrestling,minnesota
-29,short jake,"Inver Grove Heights, Minn. (Simley HS)",wrestling,minnesota
-30,steveson bobby,"Apple Valley, Minn. (Apple Valley HS)",wrestling,minnesota
-31,streifel rylee,"Prior Lake, Minn. (Prior Lake HS)",wrestling,minnesota
-32,thomas nate,"Mantorville, Minn. (Kasson-Mantorville HS)",wrestling,minnesota
-33,thorn tommy,"St. Michael, Minn. (St. Michael-Albertville HS)",wrestling,minnesota
-34,volk gannon,"Lakeville, Minn. (Apple Valley HS)",wrestling,minnesota
-35,wanzek nick,"Inver Grove Heights, Minn. (Simley HS)",wrestling,minnesota
-36,waterson tyler,"Spearfish, SD (Spearfish High School)",wrestling,minnesota
-37,webster owen,"Shakopee, Minn. (Shakopee High School)",wrestling,minnesota
-0,anderson christina,"Plymouth, Minn. (Orono)",womens rowing,minnesota
-1,appold emily,"Holmen, Wis. (Luther)",womens rowing,minnesota
-2,bostwick maggie,"Whitefish Bay, Wis. (Whitefish Bay)",womens rowing,minnesota
-3,burrows-cheng lauren,"Hobart, Tasmania (St Michaels Collegiate School)",womens rowing,minnesota
-4,dahl maura,"Oak Park, Ill. (Oak Park River Forest)",womens rowing,minnesota
-5,frazier anna,"St. Louis, Mo.",womens rowing,minnesota
-6,gilbertson taylor,"Burnsville, Minn. (Burnsville)",womens rowing,minnesota
-7,guenther erika,"Dayton, Minn. (Champlin Park)",womens rowing,minnesota
-8,hetico kat,"Madison, Wis. (West)",womens rowing,minnesota
-9,hiebel lizsy,"Minnetonka, Minn. (Minnetonka)",womens rowing,minnesota
-10,jennings darcy,"London, England",womens rowing,minnesota
-11,king anneliese,"Bethesda, Md. (Holton-Arms)",womens rowing,minnesota
-12,lorca natalie,,womens rowing,minnesota
-13,lovick bee,"Melbourne, Australia (Methodist Ladies College)",womens rowing,minnesota
-14,luedloff kortney,"Waconia, Minn. (Waconia)",womens rowing,minnesota
-15,maguire maura,"Crystal Lake, Ill.",womens rowing,minnesota
-16,miller lauren,"St. Cloud, Minn. (Technical)",womens rowing,minnesota
-17,morris addie,"Sussex, Wis. (Hamilton)",womens rowing,minnesota
-18,nelson sara,"New Brighton, Minn. (Mounds View)",womens rowing,minnesota
-19,reimann sarah,"Bregenz, Austria",womens rowing,minnesota
-20,rieser abby,"North St. Paul, Minn. (North St. Paul)",womens rowing,minnesota
-21,rollay samantha,"Richfield, Minn. (Richfield)",womens rowing,minnesota
-22,schmidt allie,"Maple Grove, Minn.",womens rowing,minnesota
-23,spahr savannah,"Brookfield, Wis. (Brookfield East)",womens rowing,minnesota
-24,steine natalie,,womens rowing,minnesota
-25,sterneman allison,"Zimmerman, Minn. (Zimmerman)",womens rowing,minnesota
-26,stockstad anna,"Rancho Palos Verdes, Calif. (Palos Verdes Peninsula)",womens rowing,minnesota
-27,stratton natalie,"Williams Bay, Wis.",womens rowing,minnesota
-28,terlion elyse,"Muskego, Wis. (Muskego)",womens rowing,minnesota
-29,thuente sophia,"St. Paul, Minn. (Cretin-Derham Hall)",womens rowing,minnesota
-30,tripps gabrielle,"Wayzata, Minn. (Wayzata)",womens rowing,minnesota
-31,vancamp katie,"Elk River, Minn. (Elk River)",womens rowing,minnesota
-32,von der goltz sarah,"Breisach, Germany (Martin-Schongauer-Gymnasium)",womens rowing,minnesota
-33,wargo rylie,"Pulaski, Wis. (Pulaski)",womens rowing,minnesota
-34,wenzel nicole,"Mayville, Wis. (Mayville)",womens rowing,minnesota
-0,wagner dani,"Hayfield, Minn. (Hayfield HS)",softball,minnesota
-1,partain makenna,"Banks, Ore. (Banks High School)",softball,minnesota
-2,brandt carlie,"Le Sueur, Minn. (Le Sueur-Henderson High School)",softball,minnesota
-3,lowary rachel,"Grimes, Iowa (Dallas Center-Grimes)",softball,minnesota
-4,gill macy,"Elkhart, Iowa (North Polk HS)",softball,minnesota
-5,velazquez alex,"Aurora, Colo. (Chanhassen HS)",softball,minnesota
-6,kemmetmueller katelyn,"Rogers, Minn. (Rogers High School)",softball,minnesota
-7,miller anne,"Bloomington, Minn. (Jefferson High School)",softball,minnesota
-8,smith sydney,"Maple Grove, Minn. (Maple Grove HS)",softball,minnesota
-9,fiser amber,"Van Horne, Iowa (Benton Community High School)",softball,minnesota
-10,rozell erika,"Lakeville, Minn. (Lakeville North HS)",softball,minnesota
-11,arneson allie,"Aledo, Texas (Aledo High School)",softball,minnesota
-12,jensen ellee,"Watertown, Wis. (Watertown HS)",softball,minnesota
-13,houlihan maddie,"Plymouth, Minn. (Benilde St. Margaret's)",softball,minnesota
-14,krueger kaylen,"Green Bay, Wis. (Green Bay Preble High School)",softball,minnesota
-15,chell taylor,"Nowthen, Minn. (Anoka HS)",softball,minnesota
-16,lindaman kendyl,"Ankeny, Iowa (Ankeny Centennial High School)",softball,minnesota
-17,parlich danielle,"Queen Creek, Ariz. (Basha HS)",softball,minnesota
-18,dwyer sydney,"Bettendorf, Iowa (Pleasant Valley HS)",softball,minnesota
-19,cowger ellie,"Fenton, Mich. (Fenton HS)",softball,minnesota
-20,thompson alexandra,"Howard Lake, Minn. (Howard Lake-Waverly-Winsted HS)",softball,minnesota
-21,bailey hannah,"Vista, Calif. (Rancho Buena Vista HS)",softball,minnesota
-0,barnes lauren,"Naperville, Ill. (Benet Academy)",womens volleyball,minnesota
-1,beckley sophie,"Seattle, Wash. (Bishop Blanchet HS)",womens volleyball,minnesota
-2,buford kayla,"Canton, Mich. (Canton HS)",womens volleyball,minnesota
-3,hart alexis,"Kansas City, Mo. (Truman HS)",womens volleyball,minnesota
-4,litzau lauren,"Greendale, Wis. (Greendale HS)",womens volleyball,minnesota
-5,martin jasmyn,"Brooklyn Park, Minn. (Hopkins)",womens volleyball,minnesota
-6,mcgraw cc,"Prior Lake, Minn. (Prior Lake HS)",womens volleyball,minnesota
-7,morgan taylor,"Blaine, Minn. (Blaine HS)",womens volleyball,minnesota
-8,nielsen sara,"Glen Ellyn, Ill. (Benet Academy)",womens volleyball,minnesota
-9,pittman regan,"Spring Hill, Kansas (Saint Thomas Aquinas HS)",womens volleyball,minnesota
-10,rollins adanna,"Carrollton, Texas (Hebron)",womens volleyball,minnesota
-11,samedy stephanie,"Clermont, Fla. (East Ridge)",womens volleyball,minnesota
-12,seliger-swenson samantha,"Minnetonka, Minn. (Hopkins HS)",womens volleyball,minnesota
-13,zeimann alice,"Christchurch, New Zealand (Burnside HS)",womens volleyball,minnesota
-0,aldrich luke,"Amherst, Mass. (Amherst Regional HS)",mens gymnastics,minnesota
-1,bergman ryan,"Lakeville, Minn. (Lakeville North HS)",mens gymnastics,minnesota
-2,dee colton,"Nampa, Idaho (Skyview High School)",mens gymnastics,minnesota
-3,duran tristan,"Franklin Lakes, N.J. (Bergen Catholic HS)",mens gymnastics,minnesota
-4,gagnon joel,"Regina, Sask. (Holy Cross HS)",mens gymnastics,minnesota
-5,harris michael,"West Allis, Wis. (Nathan Hale HS)",mens gymnastics,minnesota
-6,herzog shaun,"Manchester, Conn. (Manchester HS)",mens gymnastics,minnesota
-7,johnson russell,"Indianapolis, Ind. (Perry Meridian High School)",mens gymnastics,minnesota
-8,kan vitali,"West Allis, Wis. (Nathan Hale HS)",mens gymnastics,minnesota
-9,karstadt justin,"Toronto, Ont. (Silverthorn Collegiate Institute HS)",mens gymnastics,minnesota
-10,kramer jack,"Charlotte, N.C. (Ardrey Kell HS)",mens gymnastics,minnesota
-11,kutyla timmy,"Wyckoff, NJ (Ramapo HS)",mens gymnastics,minnesota
-12,meeker henry,"Minneapolis, Minn. (Southwest High School)",mens gymnastics,minnesota
-13,pochinka yaroslav,"Plano, Texas (Plano Senior High School)",mens gymnastics,minnesota
-14,poganski jordan,"Woodbury, Minn. (Woodbury HS)",mens gymnastics,minnesota
-15,stephens jalon,"Shreveport, La (Southwood HS)",mens gymnastics,minnesota
-16,wangler ryan,"Savage, Minn. (Prior Lake HS)",mens gymnastics,minnesota
-17,winkel ben,"Afton, Minn. (Stillwater Area HS)",mens gymnastics,minnesota
-18,wiskus shane,"Spring Park, Minn. (Mound Westonka High School)",mens gymnastics,minnesota
-19,wittenberg alex,"Buffalo, N.Y. (Kenmore West HS)",mens gymnastics,minnesota
-20,yallamraju shashank,"Apple Valley, Minn. (Eastview HS)",mens gymnastics,minnesota
-0,betts casey,"Chandler, Ariz. (Corona del Sol HS)",womens gymnastics,minnesota
-1,cutler rachel,"Grand Rapids, Mich. (Northview HS)",womens gymnastics,minnesota
-2,demuse abby,"Savage, Minn. (Academy of Holy Angels)",womens gymnastics,minnesota
-3,gardner ciara,"Frisco, Texas (Liberty HS)",womens gymnastics,minnesota
-4,hitchcock hannah,"San Ramon, Calif. (California HS)",womens gymnastics,minnesota
-5,huebert julia,"Overland Park, KS (Blue Valley West HS)",womens gymnastics,minnesota
-6,korlin-downs mary,"Lake Elmo, Minn. (Stillwater Area HS)",womens gymnastics,minnesota
-7,loper ona,"Bluffton, S.C. (May River High School)",womens gymnastics,minnesota
-8,lu ivy,"Montreal, Quebec (Antoine-de-Saint-Exupery)",womens gymnastics,minnesota
-9,montgomery lexi,"The Colony, Texas (The Colony High School)",womens gymnastics,minnesota
-10,quaglia kristen,"Chanhassen, Minn. (Minnetonka HS)",womens gymnastics,minnesota
-11,ramler lexy,"St. Michael, Minn. (Winona High School)",womens gymnastics,minnesota
-12,rowland rachel,"Parker, Colo. (Ponderosa HS)",womens gymnastics,minnesota
-13,taylor becca,"Corcoran, Minn. (Homeschool)",womens gymnastics,minnesota
-14,ung selena,"Oakdale, Minn. (Tartan HS)",womens gymnastics,minnesota
-15,williams paige,"Wylie, Texas (Wylie HS)",womens gymnastics,minnesota
-0,bristedt leon,"Stockholm, Sweden",mens hockey,minnesota
-1,gates jr. brent,"Grand Rapids, Mich.",mens hockey,minnesota
-2,glover jack,"Golden Valley, Minn. (Benilde-St. Margaret's)",mens hockey,minnesota
-3,hurley connor,"Edina, Minn. (Edina High School)",mens hockey,minnesota
-4,johnson steve,"Excelsior, Minn. (Minnetonka)",mens hockey,minnesota
-5,kautz brock,"Rochester, Minn. (Rochester Century)",mens hockey,minnesota
-6,lehr nick,"Roseville, Minn. (Roseville)",mens hockey,minnesota
-7,lindgren ryan,"Minneapolis, Minn. (Shattuck-St. Mary's)",mens hockey,minnesota
-8,marooney joey,"Chaska, Minn. (Holy Family Catholic)",mens hockey,minnesota
-9,mcmanus brannon,"Newport Beach, Calif. (Shattuck-St. Mary's)",mens hockey,minnesota
-10,mittelstadt casey,"Eden Prairie, Minn. (Eden Prairie)",mens hockey,minnesota
-11,munson cullen,"Edina, Minn. (Edina)",mens hockey,minnesota
-12,nanne tyler,"Edina, Minn. (Edina)",mens hockey,minnesota
-13,norman ryan,"Maplewood, Minn. (Shattuck-St. Mary's)",mens hockey,minnesota
-14,notermann luke,"Blaine, Minn. (Blaine)",mens hockey,minnesota
-15,novak tommy,"River Falls, Wis. (St. Thomas Academy)",mens hockey,minnesota
-16,phillips clayton,"Edina, Minn. (Edina)",mens hockey,minnesota
-17,pitlick rem,"Plymouth, Minn. (Shattuck-St. Mary's)",mens hockey,minnesota
-18,ramsey jack,"Chanhassen, Minn. (Minnetonka)",mens hockey,minnesota
-19,reedy scott,"Prior Lake, Minn. (Shattuck-St. Mary's)",mens hockey,minnesota
-20,robson mat,"Mississauga, Ont.",mens hockey,minnesota
-21,romanko darian,"Shoreview, Minn. (Mounds View)",mens hockey,minnesota
-22,rossini sam,"Burnsville, Minn. (Burnsville)",mens hockey,minnesota
-23,sadek jack,"Lakeville, Minn. (Lakeville North)",mens hockey,minnesota
-24,schierhorn eric,"Anchorage, Alaska (Shattuck-St. Mary's)",mens hockey,minnesota
-25,sheehy tyler,"Burnsville, Minn. (Burnsville)",mens hockey,minnesota
-26,szmatula mike,"Commerce Township, Mich. (St. Mary's Prep (Mich.))",mens hockey,minnesota
-27,zuhlsdorf ryan,"Edina, Minn. (Edina)",mens hockey,minnesota
-0,agnew lindsay,"Oakville, Ontario (King's Christian Collegiate)",womens hockey,minnesota
-1,baldwin sydney,"Minnetonka, Minn. (Minnetonka HS)",womens hockey,minnesota
-2,brown emily,"Blaine, Minn. (Blaine HS)",womens hockey,minnesota
-3,d'angelo serena,"Stoney Creek, Ontario (Blyth Academy)",womens hockey,minnesota
-4,gulstene alex,"Vancouver, B.C. (Penticton Secondary)",womens hockey,minnesota
-5,gunderson tianna,"Roseau, Minn. (Roseau HS)",womens hockey,minnesota
-6,keller kippin,"Minnetonka, Minn. (Minnetonka HS)",womens hockey,minnesota
-7,knowles olivia,"Campbell River, B.C. (Penticton Secondary)",womens hockey,minnesota
-8,marshall patti,"Thief River Falls, Minn. (Shattuck-St.Mary's)",womens hockey,minnesota
-9,may emma,"Eagan, Minn. (Cretin-Derham Hall)",womens hockey,minnesota
-10,pannek kelly,"Plymouth, Minn. (Benilde-St. Margaret's HS)",womens hockey,minnesota
-11,peters sidney,"Geneva, Ill. (North American Hockey Academy)",womens hockey,minnesota
-12,piazza cara,"Darien, Ill. (Downers Grove South HS)",womens hockey,minnesota
-13,pieper jackie,"Edina, Minn. (Edina HS)",womens hockey,minnesota
-14,potomak amy,"Aldergrove, B.C. (George Elliot Secondary)",womens hockey,minnesota
-15,potomak sarah,"Aldergrove, B.C. (George Elliot Secondary)",womens hockey,minnesota
-16,reilly caitlin,"Chanhassen, Minn. (Benilde-St. Margaret's HS)",womens hockey,minnesota
-17,robinson katie,"Kasson, Minn. (Kasson-Mantorville HS)",womens hockey,minnesota
-18,schammel nicole,"Red Wing, Minn. (Red Wing HS)",womens hockey,minnesota
-19,skarzynski sophie,"Lake Forest, Ill. (Loyola Academy)",womens hockey,minnesota
-20,smith sierra,"Stillwater, Minn. (Stillwater Area HS)",womens hockey,minnesota
-21,wente taylor,"Plymouth, Minn. (Maple Grove HS)",womens hockey,minnesota
-22,williamson taylor,"Edina, Minn. (Edina HS)",womens hockey,minnesota
-23,woken alex,"Fargo, N.D. (Shattuck-St. Mary's)",womens hockey,minnesota
-24,zumwinkle grace,"Excelsior, Minn. (Breck School)",womens hockey,minnesota
+,name,hometown,high school,school,name text,hometown text,high school text,school text,sport,college
+0,carr marcus,"Toronto, Ontario/Montverde Academy/Pittsburgh","Toronto, Ontario/Montverde Academy/Pittsburgh","Toronto, Ontario/Montverde Academy/Pittsburgh",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+1,coffey amir,"Hopkins, Minn./Hopkins","Hopkins, Minn./Hopkins","Hopkins, Minn./Hopkins",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+2,conroy hunt,"New Orleans, La./Jesuit","New Orleans, La./Jesuit","New Orleans, La./Jesuit",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+3,curry eric,"Memphis, Tenn./Southwest Christian Academy","Memphis, Tenn./Southwest Christian Academy","Memphis, Tenn./Southwest Christian Academy",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+4,hurt michael,"Rochester, Minn./John Marshall","Rochester, Minn./John Marshall","Rochester, Minn./John Marshall",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+5,johnson jarvis,"Minneapolis, Minn./DeLaSalle","Minneapolis, Minn./DeLaSalle","Minneapolis, Minn./DeLaSalle",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+6,kalscheur gabe,"Edina, Minn./DeLaSalle","Edina, Minn./DeLaSalle","Edina, Minn./DeLaSalle",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+7,mcbrayer dupree,"Queens, N.Y./Sunrise Christian Academy","Queens, N.Y./Sunrise Christian Academy","Queens, N.Y./Sunrise Christian Academy",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+8,murphy jordan,"San Antonio, Texas/Brennan","San Antonio, Texas/Brennan","San Antonio, Texas/Brennan",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+9,omersa jarvis,"Orono, Minn./Orono","Orono, Minn./Orono","Orono, Minn./Orono",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+10,oturu daniel,"Woodbury, Minn./Cretin-Derham Hall","Woodbury, Minn./Cretin-Derham Hall","Woodbury, Minn./Cretin-Derham Hall",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+11,rudrud brady,"Eden Prairie, Minn./Eden Prairie","Eden Prairie, Minn./Eden Prairie","Eden Prairie, Minn./Eden Prairie",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+12,stockman matz,"Oslo, Norway/Canarias Academy/Louisville","Oslo, Norway/Canarias Academy/Louisville","Oslo, Norway/Canarias Academy/Louisville",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+13,stull brock,"Rockford, Ill./Boylan Catholic/Milwaukee","Rockford, Ill./Boylan Catholic/Milwaukee","Rockford, Ill./Boylan Catholic/Milwaukee",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+14,washington isaiah,"Harlem, N.Y./St. Raymond's","Harlem, N.Y./St. Raymond's","Harlem, N.Y./St. Raymond's",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+15,willis payton,"Fayetteville, Ark./Fayetteville/Vanderbilt","Fayetteville, Ark./Fayetteville/Vanderbilt","Fayetteville, Ark./Fayetteville/Vanderbilt",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,mens basketball,minnesota
+0,bell kenisha,"Minneapolis, Minn. (Marquette)",N/A,"Minneapolis, Minn. (Marquette)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,minnesota
+1,bello kehinde,"Southfield, Mich. (Southfield-Lathrup)",N/A,"Southfield, Mich. (Southfield-Lathrup)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,minnesota
+2,bello taiye,"Southfield, Mich. (Southfield-Lathrup)",N/A,"Southfield, Mich. (Southfield-Lathrup)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,minnesota
+3,brunson jasmine,"Queens, N.Y. (Mary Louis Academy)",N/A,"Queens, N.Y. (Mary Louis Academy)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,minnesota
+4,garrido perez irene,"Granada, Spain (Wyoming CC)",N/A,"Granada, Spain (Wyoming CC)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,minnesota
+5,hubbard gadiva,"Virginia Beach, Va. (Princess Anne)",N/A,"Virginia Beach, Va. (Princess Anne)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,minnesota
+6,kaposi palma,"Pecs, Hungary (University of Pecs)",N/A,"Pecs, Hungary (University of Pecs)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,minnesota
+7,lamke annalese,"Galesville, Wis. (Gale-Ettrick-Trempealeau)",N/A,"Galesville, Wis. (Gale-Ettrick-Trempealeau)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,minnesota
+8,pitts destiny,"Detroit, Mich. (Detroit Country Day)",N/A,"Detroit, Mich. (Detroit Country Day)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,minnesota
+0,mezzenga ben,"Shoreview, Minn. (Totino-Grace)","Shoreview, Minn. (Totino-Grace)","Shoreview, Minn. (Totino-Grace)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+1,boxwell alex,"Coon Rapids, Minn. (Coon Rapids)","Coon Rapids, Minn. (Coon Rapids)","Coon Rapids, Minn. (Coon Rapids)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+2,schulze brett,"Maple Grove, Minn. (Maple Grove)","Maple Grove, Minn. (Maple Grove)","Maple Grove, Minn. (Maple Grove)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+3,wilson eli,"Seattle, Wash. (Garfield)","Seattle, Wash. (Garfield)","Seattle, Wash. (Garfield)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+4,vavra terrin,"Menomonie, Wis. (Menomonie)","Menomonie, Wis. (Menomonie)","Menomonie, Wis. (Menomonie)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+5,kozicky jordan,"Minneapolis, Minn. (Minneapolis Southwest)","Minneapolis, Minn. (Minneapolis Southwest)","Minneapolis, Minn. (Minneapolis Southwest)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+6,coffey micah,"Batavia, Ill. (Batavia)","Batavia, Ill. (Batavia)","Batavia, Ill. (Batavia)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+7,"estrada, jr. eduardo","Litchfield, Minn. (Litchfield)","Litchfield, Minn. (Litchfield)","Litchfield, Minn. (Litchfield)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+8,mcdevitt cole,"Apple Valley, Minn. (Eastview)","Apple Valley, Minn. (Eastview)","Apple Valley, Minn. (Eastview)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+9,pettersen luke,"Minnetonka, Minn. (Minnetonka)","Minnetonka, Minn. (Minnetonka)","Minnetonka, Minn. (Minnetonka)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+10,hitz jacob,"Prior Lake, Minn. (Prior Lake)","Prior Lake, Minn. (Prior Lake)","Prior Lake, Minn. (Prior Lake)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+11,bertrand easton,"Manteno, Ill. (Manteno)","Manteno, Ill. (Manteno)","Manteno, Ill. (Manteno)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+12,kapala danny,"Apple Valley, Minn. (Eastview)","Apple Valley, Minn. (Eastview)","Apple Valley, Minn. (Eastview)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+13,smith riley,"Broken Arrow, Okla. (Bishop Kelley)","Broken Arrow, Okla. (Bishop Kelley)","Broken Arrow, Okla. (Bishop Kelley)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+14,knowles gabe,"New Ulm, Minn. (Cathedral)","New Ulm, Minn. (Cathedral)","New Ulm, Minn. (Cathedral)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+15,hanson toby,"Delano, Minn. (Delano)","Delano, Minn. (Delano)","Delano, Minn. (Delano)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+16,hmielewski drew,"Marshall, Minn. (Marshall)","Marshall, Minn. (Marshall)","Marshall, Minn. (Marshall)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+17,fredrickson patrick,"Gig Harbor, Wash. (Gig Harbor)","Gig Harbor, Wash. (Gig Harbor)","Gig Harbor, Wash. (Gig Harbor)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+18,meyer max,"Woodbury, Minn. (Woodbury)","Woodbury, Minn. (Woodbury)","Woodbury, Minn. (Woodbury)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+19,burchill nolan,"Sioux Falls, S.D. (Lincoln)","Sioux Falls, S.D. (Lincoln)","Sioux Falls, S.D. (Lincoln)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+20,lackney nick,"Whitefish Bay, Wis. (Whitefish Bay)","Whitefish Bay, Wis. (Whitefish Bay)","Whitefish Bay, Wis. (Whitefish Bay)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+21,bridges sam,"South St. Paul, Minn. (South St. Paul)","South St. Paul, Minn. (South St. Paul)","South St. Paul, Minn. (South St. Paul)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+22,wassel jack,"Geneva, Ill. (Geneva)","Geneva, Ill. (Geneva)","Geneva, Ill. (Geneva)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+23,horton bubba,"Corcoran, Minn. (Maple Grove)","Corcoran, Minn. (Maple Grove)","Corcoran, Minn. (Maple Grove)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+24,thoresen sam,"Minnetonka, Minn. (Minnetonka)","Minnetonka, Minn. (Minnetonka)","Minnetonka, Minn. (Minnetonka)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+25,meyer reggie,"New Brighton, Minn. (Totino-Grace)","New Brighton, Minn. (Totino-Grace)","New Brighton, Minn. (Totino-Grace)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+26,culliver joshua,"Omaha, Neb. (Creighton Preparatory)","Omaha, Neb. (Creighton Preparatory)","Omaha, Neb. (Creighton Preparatory)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+27,rose jackson,"Omaha, Neb. (Westside)","Omaha, Neb. (Westside)","Omaha, Neb. (Westside)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+28,stevenson jake,"Waconia, Minn. (Waconia)","Waconia, Minn. (Waconia)","Waconia, Minn. (Waconia)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+29,manke fred,"Lodi, Wis. (Lodi)","Lodi, Wis. (Lodi)","Lodi, Wis. (Lodi)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+30,fasching jeff,"St. Cloud, Minn. (Cathedral)","St. Cloud, Minn. (Cathedral)","St. Cloud, Minn. (Cathedral)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+31,duffy ryan,"South St. Paul, Minn. (South St. Paul)","South St. Paul, Minn. (South St. Paul)","South St. Paul, Minn. (South St. Paul)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+32,herbers jacob,"Battle Creek, Mich. (Lakeview)","Battle Creek, Mich. (Lakeview)","Battle Creek, Mich. (Lakeview)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),baseball,minnesota
+0,ahanotu mayan,"Tampa, Fla. (Berkeley Prep)",N/A,"Tampa, Fla. (Berkeley Prep)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+1,anderson danny,"Eden Prairie, Minn. (Eden Prairie HS)",N/A,"Eden Prairie, Minn. (Eden Prairie HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+2,andries blaise,"Marshall, Minn. (Marshall HS)",N/A,"Marshall, Minn. (Marshall HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+3,annexstad brock,"Norseland, Minn. (IMG Academy)",N/A,"Norseland, Minn. (IMG Academy)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+4,annexstad zack,"Norseland, Minn. (IMG Academy)",N/A,"Norseland, Minn. (IMG Academy)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+5,aune josh,"St. Paul, Minn. (Highland Park HS)",N/A,"St. Paul, Minn. (Highland Park HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+6,autman-bell chris,"Kankakee, Ill. (Bishop McNamara HS)",N/A,"Kankakee, Ill. (Bishop McNamara HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+7,barber thomas,"Plymouth, Minn. (Robbinsdale Armstrong HS)",N/A,"Plymouth, Minn. (Robbinsdale Armstrong HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+8,barron ty,"Minnetonka, Minn. (Minnetonka HS)",N/A,"Minnetonka, Minn. (Minnetonka HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+9,bateman rashod,"Tifton, Ga. (Tift County HS)",N/A,"Tifton, Ga. (Tift County HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+10,beebe colton,"Kansas City, Kan. (Piper HS)",N/A,"Kansas City, Kan. (Piper HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+11,beier austin,"Toledo, Ohio (St. John's HS)",N/A,"Toledo, Ohio (St. John's HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+12,boe nathan,"Lakeville, Minn. (Lakeville North HS)",N/A,"Lakeville, Minn. (Lakeville North HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+13,brooks shannon,"Austell, Ga. (Pickens HS)",N/A,"Austell, Ga. (Pickens HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+14,bursch nathan,"Woodbury, Minn. (Woodbury HS)",N/A,"Woodbury, Minn. (Woodbury HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+15,carpenter emmit,"Green Bay, Wis. (Ashwaubenon HS)",N/A,"Green Bay, Wis. (Ashwaubenon HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+16,cashman blake,"Eden Prairie, Minn. (Eden Prairie HS)",N/A,"Eden Prairie, Minn. (Eden Prairie HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+17,coughlin carter,"Eden Prairie, Minn. (Eden Prairie HS)",N/A,"Eden Prairie, Minn. (Eden Prairie HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+18,davis ben,"Elk Grove, Calif. (American River College)",N/A,"Elk Grove, Calif. (American River College)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+19,delattiboudere winston,"Baltimore, Md. (Howard HS)",N/A,"Baltimore, Md. (Howard HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+20,devers tai'yon,"Pompano Beach, Fla. (Blanche Ely HS)",N/A,"Pompano Beach, Fla. (Blanche Ely HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+21,dickson jason,"Corona, Calif. (Diablo Valley CC)",N/A,"Corona, Calif. (Diablo Valley CC)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+22,douglas demetrius,"Portland, Ore. (Jesuit HS)",N/A,"Portland, Ore. (Jesuit HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+23,dovich bronson,"Chaska, Minn. (Chaska HS)",N/A,"Chaska, Minn. (Chaska HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+24,dunlap jr. curtis,"Jacksonville, Fla. (IMG Academy)",N/A,"Jacksonville, Fla. (IMG Academy)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+25,durr coney,"Baton Rouge, La. (Dutchtown HS)",N/A,"Baton Rouge, La. (Dutchtown HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+26,edmonds nolan,"Alpharetta, Ga. (Alpharetta HS)",N/A,"Alpharetta, Ga. (Alpharetta HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+27,estes rey,"East St. Louis, Ill. (East St. Louis HS)",N/A,"East St. Louis, Ill. (East St. Louis HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+28,faalele daniel,"Melbourne, Australia (IMG Academy)",N/A,"Melbourne, Australia (IMG Academy)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+29,femi-cole jonathan,"Vaughan, Ontario, Canada (St. Andrew's College)",N/A,"Vaughan, Ontario, Canada (St. Andrew's College)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+30,geary clay,"Lakeville, Minn. (Lakeville South HS)",N/A,"Lakeville, Minn. (Lakeville South HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+31,gibson erik,"Detroit, Mich. (Martin Luther King HS)",N/A,"Detroit, Mich. (Martin Luther King HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+32,gibson jerry,"Theodore, Ala. (Theodore HS)",N/A,"Theodore, Ala. (Theodore HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+33,gossage paul,"Mokena, Ill. (Eastern Illinois)",N/A,"Mokena, Ill. (Eastern Illinois)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+34,green seth,"Woodbury, Minn. (Allen HS)",N/A,"Woodbury, Minn. (Allen HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+35,greene donnell,"Marietta, Ga. (Coffeyville C.C.)",N/A,"Marietta, Ga. (Coffeyville C.C.)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+36,guthrie trenton,"Northville, Mich. (Northville HS)",N/A,"Northville, Mich. (Northville HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+37,harris justus,"Roswell, Ga. (Roswell HS)",N/A,"Roswell, Ga. (Roswell HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+38,herbers jacob,"Battle Creek, Mich. (Lakeview HS)",N/A,"Battle Creek, Mich. (Lakeview HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+39,hickcox noah,"Rockford, Ill. (Boylan Central Catholic HS)",N/A,"Rockford, Ill. (Boylan Central Catholic HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+40,howard phillip,"Minneapolis, Minn. (Robbinsdale Cooper HS)",N/A,"Minneapolis, Minn. (Robbinsdale Cooper HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+41,howden jordan,"Las Vegas, Nev. (Desert Pines HS)",N/A,"Las Vegas, Nev. (Desert Pines HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+42,huff jacob,"Bolingbrook, Ill. (Bolingbrook HS)",N/A,"Bolingbrook, Ill. (Bolingbrook HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+43,huff julian,"Bolingbrook, Ill. (Bolingbrook HS)",N/A,"Bolingbrook, Ill. (Bolingbrook HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+44,ibrahim mohamed,"Olney, Md. (Our Lady of Good Counsel HS)",N/A,"Olney, Md. (Our Lady of Good Counsel HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+45,janes max,"Shoreview, Minn. (Mounds View HS)",N/A,"Shoreview, Minn. (Mounds View HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+46,jelen preston,"Prior Lake, Minn. (Prior Lake HS)",N/A,"Prior Lake, Minn. (Prior Lake HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+47,johnson tyler,"Minneapolis, Minn. (North HS)",N/A,"Minneapolis, Minn. (North HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+48,jordahl payton,"Perham, Minn. (Perham HS)",N/A,"Perham, Minn. (Perham HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+49,kern jack,"Eau Claire, Wis. (Eau Claire Memorial HS)",N/A,"Eau Claire, Wis. (Eau Claire Memorial HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+50,kieft ko,"Sioux Center, Iowa (Sioux Center HS)",N/A,"Sioux Center, Iowa (Sioux Center HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+51,leius jack,"Plymouth, Minn. (Robbinsdale Armstrong HS)",N/A,"Plymouth, Minn. (Robbinsdale Armstrong HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+52,london dominik,"Woodbury, Minn. (East Ridge HS)",N/A,"Woodbury, Minn. (East Ridge HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+53,mack john,"Hartland, Wis. (Arrowhead HS)",N/A,"Hartland, Wis. (Arrowhead HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+54,mafe boye,"Minnetonka, Minn. (Hopkins HS)",N/A,"Minnetonka, Minn. (Hopkins HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+55,manns jornell,"Mansfield, Ohio (Mansfield Senior HS)",N/A,"Mansfield, Ohio (Mansfield Senior HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+56,martin kamal,"Burnsville, Minn. (Burnsville HS)",N/A,"Burnsville, Minn. (Burnsville HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+57,mcdonald bishop,"Oakdale, Minn. (Minnesota Duluth)",N/A,"Oakdale, Minn. (Minnesota Duluth)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+58,melvin alex,"Burnet, Texas (SMU)",N/A,"Burnet, Texas (SMU)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+59,moore gary,"Mobile, Ala. (Murphy HS)",N/A,"Mobile, Ala. (Murphy HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+60,morgan tanner,"Union, Ky. (Ryle HS)",N/A,"Union, Ky. (Ryle HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+61,morse matt,"Apple Valley, Minn. (Apple Valley HS)",N/A,"Apple Valley, Minn. (Apple Valley HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+62,n-okonji abi,"Snellville, Ga. (South Gwinnett HS)",N/A,"Snellville, Ga. (South Gwinnett HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+63,norton grant,"Camdenton, Mo. (Camdenton HS)",N/A,"Camdenton, Mo. (Camdenton HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+64,novak-goar connor,"Eden Prairie, Minn. (Iowa Western C.C.)",N/A,"Eden Prairie, Minn. (Iowa Western C.C.)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+65,o'brien casey,"Saint Paul, Minn. (Cretin-Derham Hall HS)",N/A,"Saint Paul, Minn. (Cretin-Derham Hall HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+66,oliver braelen,"Douglasville, Ga. (Douglas County HS)",N/A,"Douglasville, Ga. (Douglas County HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+67,olson conner,"Monticello, Minn. (Monticello HS)",N/A,"Monticello, Minn. (Monticello HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+68,oseland quinn,"Springfield, Ill. (Sacred Heart Griffin HS)",N/A,"Springfield, Ill. (Sacred Heart Griffin HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+69,otomewo esezi,"Indianapolis, Ind. (Ben Davis HS)",N/A,"Indianapolis, Ind. (Ben Davis HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+70,paulson jake,"Louisville, Ky. (Christian Academy)",N/A,"Louisville, Ky. (Christian Academy)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+71,piche owen,Naperville Ill. (Navy),N/A,Naperville Ill. (Navy),Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+72,pickerign samuel,"Alpharetta, Ga. (Minnehaha Academy)",N/A,"Alpharetta, Ga. (Minnehaha Academy)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+73,reigelsperger alex,"Dayton, Ohio (Wayne HS)",N/A,"Dayton, Ohio (Wayne HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+74,renner sam,"Maple Grove, Minn. (Maple Grove Senior High)",N/A,"Maple Grove, Minn. (Maple Grove Senior High)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+75,roane micah,"Chaska, Minn. (Chaska HS)",N/A,"Chaska, Minn. (Chaska HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+76,robinson malcolm,"Massillon, Ohio (Washington HS)",N/A,"Massillon, Ohio (Washington HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+77,ruschmeyer axel,"Hutchinson, Minn. (Holy Family Catholic HS)",N/A,"Hutchinson, Minn. (Holy Family Catholic HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+78,rush thomas,"Marysville, Ohio (Marysville HS)",N/A,"Marysville, Ohio (Marysville HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+79,russell joe,"Shoreview, Minn. (Totino-Grace HS)",N/A,"Shoreview, Minn. (Totino-Grace HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+80,ryerse grant,"Woodbury, Minn. (East Ridge HS)",N/A,"Woodbury, Minn. (East Ridge HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+81,santaga jon,"Green Bay, Wis. (Notre Dame De La Baie Academy)",N/A,"Green Bay, Wis. (Notre Dame De La Baie Academy)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+82,sapp iii benny,"Fort Lauderdale, Fla. (Eden Prairie HS)",N/A,"Fort Lauderdale, Fla. (Eden Prairie HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+83,sassack kyle,"Pontiac, Mich. (Notre Dame Prep HS)",N/A,"Pontiac, Mich. (Notre Dame Prep HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+84,schlueter sam,"Victoria, Minn. (Mayer Lutheran HS)",N/A,"Victoria, Minn. (Mayer Lutheran HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+85,schmitz john michael,"Flossmoor, Ill. (Homewood-Flossmoor HS)",N/A,"Flossmoor, Ill. (Homewood-Flossmoor HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+86,schoenfelder bailey,"Huron, S.D. (Huron HS)",N/A,"Huron, S.D. (Huron HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+87,shenault antonio,"Roselle, Ill. (Lake Park HS)",N/A,"Roselle, Ill. (Lake Park HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+88,silver royal,"Cedar Rapids, Iowa (Iowa Western CC)",N/A,"Cedar Rapids, Iowa (Iowa Western CC)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+89,smith cj,"Jacksonville, Fla. (Fletcher HS)",N/A,"Jacksonville, Fla. (Fletcher HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+90,smith o.j.,"Bossier City, La. (Alabama)",N/A,"Bossier City, La. (Alabama)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+91,smith rodney,"Jonesboro, Ga. (Mundy's Mill HS)",N/A,"Jonesboro, Ga. (Mundy's Mill HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+92,smith terell,"Snellville, Ga. (South Gwinnett HS)",N/A,"Snellville, Ga. (South Gwinnett HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+93,sori-marin mariano,"Mokena, Ill. (Providence Catholic HS)",N/A,"Mokena, Ill. (Providence Catholic HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+94,spann-ford brevyn,"St. Cloud, Minn. (Technical HS)",N/A,"St. Cloud, Minn. (Technical HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+95,strazzanti alex,"Chaska, Minn. (Chaska HS)",N/A,"Chaska, Minn. (Chaska HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+96,swenson calvin,"Kaukauna, Wis. (Kaukauna HS)",N/A,"Kaukauna, Wis. (Kaukauna HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+97,teague elijah,"South Holland, Ill. (Marist HS)",N/A,"South Holland, Ill. (Marist HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+98,thomas kiondre,"Fort Smith, Ark. (Northside HS)",N/A,"Fort Smith, Ark. (Northside HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+99,thompson true,"Plymouth, Minn. (Iowa Western Community College)",N/A,"Plymouth, Minn. (Iowa Western Community College)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+100,umlor nate,"Allendale, Mich. (Allendale HS)",N/A,"Allendale, Mich. (Allendale HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+101,van dyne harry,"Stilwell, Kan. (Blue Valley HS)",N/A,"Stilwell, Kan. (Blue Valley HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+102,van dyne yale,"Overland Park, Kan. (Iowa)",N/A,"Overland Park, Kan. (Iowa)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+103,vojvodich michael,"Annandale, Va (Woodson HS)",N/A,"Annandale, Va (Woodson HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+104,walker brock,"Sioux Falls, S.D. (Washington HS)",N/A,"Sioux Falls, S.D. (Washington HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+105,weyler jared,"Dayton, Ohio (Centerville HS)",N/A,"Dayton, Ohio (Centerville HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+106,white victor,,N/A,,Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+107,williams bryce,"Sarasota, Fla. (Cardinal Mooney HS)",N/A,"Sarasota, Fla. (Cardinal Mooney HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+108,williamson chris,"Gainesville, Ga. (Florida)",N/A,"Gainesville, Ga. (Florida)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+109,winfield jr. antoine,"The Woodlands, Texas (The Woodlands HS)",N/A,"The Woodlands, Texas (The Woodlands HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+110,witham bryce,"Grand Rapids, Mich. (West Catholic HS)",N/A,"Grand Rapids, Mich. (West Catholic HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+111,witherspoon clayton,"Eden Prairie, Minn. (Eden Prairie HS)",N/A,"Eden Prairie, Minn. (Eden Prairie HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+112,york jack,"Dallas, Texas (First Baptist Academy)",N/A,"Dallas, Texas (First Baptist Academy)",Last Name,Hometown (Last School),N/A,Hometown (Last School),football,minnesota
+0,aguado ana,"Plymouth, Minn. (Robbinsdale Armstrong HS)",N/A,"Plymouth, Minn. (Robbinsdale Armstrong HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+1,albrecht nikki,"Cedarburg, Wisc. (Cedarburg High School)",N/A,"Cedarburg, Wisc. (Cedarburg High School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+2,billings catherine,"Sandy, Utah (Juan Diego Catholic High School)",N/A,"Sandy, Utah (Juan Diego Catholic High School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+3,bockin april,"Eden Prairie, Minn. (Eden Prairie HS)",N/A,"Eden Prairie, Minn. (Eden Prairie HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+4,buisman mckenna,"Mankato, MN (Mankato West High School)",N/A,"Mankato, MN (Mankato West High School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+5,castro maddie,"Cottage Grove, Minn. (Park HS)",N/A,"Cottage Grove, Minn. (Park HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+6,del moral arianna,"Brooklyn Park, Minn. (Totino Grace High School)",N/A,"Brooklyn Park, Minn. (Totino Grace High School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+7,dressely alana,"Cottage Grove, Minn. (Hill-Murray HS)",N/A,"Cottage Grove, Minn. (Hill-Murray HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+8,fiedler molly,"Eagan, Minn. (St. Paul Academy HS)",N/A,"Eagan, Minn. (St. Paul Academy HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+9,gray megan,"Ankeny, Iowa (Ankeny Centennial)",N/A,"Ankeny, Iowa (Ankeny Centennial)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+10,hartkemeyer haley,"Eau Claire, Wis. (Eau Claire Memorial)",N/A,"Eau Claire, Wis. (Eau Claire Memorial)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+11,heslin emily,"Woodbury, Minn. (Hill-Murray HS)",N/A,"Woodbury, Minn. (Hill-Murray HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+12,kuehn athena,"Colorado Springs, Colo. (Pine Creek High School)",N/A,"Colorado Springs, Colo. (Pine Creek High School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+13,langdok makenzie,"Saint Michael, Minn. (St. Michael-Albertville HS)",N/A,"Saint Michael, Minn. (St. Michael-Albertville HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+14,mckendrick tj,"Highland, Utah (Lone Peak High School)",N/A,"Highland, Utah (Lone Peak High School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+15,mennes haley,"McLean, Virginia (McLean High School)",N/A,"McLean, Virginia (McLean High School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+16,nielsen maddie,"Shoreline, Wash. (King's High School)",N/A,"Shoreline, Wash. (King's High School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+17,nummerdor celina,"Juneau, Wisc.",N/A,"Juneau, Wisc.",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+18,peterson emily,"Prior Lake, Minn. (Prior Lake HS)",N/A,"Prior Lake, Minn. (Prior Lake HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+19,ruppert lydia,"Minneapolis, MN (Minneapolis Washburn High School)",N/A,"Minneapolis, MN (Minneapolis Washburn High School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+20,stekr delaney,"Omaha, Nebraska (Marian High School)",N/A,"Omaha, Nebraska (Marian High School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+21,ward patricia,"Newport News, Virginia (Warwick HS)",N/A,"Newport News, Virginia (Warwick HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+22,windingstad marisa,"Omaha, Neb. (Millard North High School)",N/A,"Omaha, Neb. (Millard North High School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,minnesota
+0,ali hamza,"Minneapolis, Minn. (Washburn)","Minneapolis, Minn. (Washburn)","Minneapolis, Minn. (Washburn)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+1,ali obsa,"Richfield, Minn. (Richfield)","Richfield, Minn. (Richfield)","Richfield, Minn. (Richfield)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+2,basten alec,"Green Bay, Wis. (Green Bay Southwest)","Green Bay, Wis. (Green Bay Southwest)","Green Bay, Wis. (Green Bay Southwest)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+3,carlson sam,"Bemidji, Minn. (Bemidji)","Bemidji, Minn. (Bemidji)","Bemidji, Minn. (Bemidji)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+4,duerr joey,"Chaska, Minn. (Chaska)","Chaska, Minn. (Chaska)","Chaska, Minn. (Chaska)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+5,ferlic evan,"Roseville, Minn. (Mounds Park Academy)","Roseville, Minn. (Mounds Park Academy)","Roseville, Minn. (Mounds Park Academy)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+6,hoeft owen,"Golden Valley, Minn. (Hopkins)","Golden Valley, Minn. (Hopkins)","Golden Valley, Minn. (Hopkins)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+7,lawrence charlie,"Foley, Minn. (Foley)","Foley, Minn. (Foley)","Foley, Minn. (Foley)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+8,lucas hunter,"Fargo, N.D. (Fargo Davies)","Fargo, N.D. (Fargo Davies)","Fargo, N.D. (Fargo Davies)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+9,macintosh jordan,"Thunder Bay, Ontario (Hammarskjold)","Thunder Bay, Ontario (Hammarskjold)","Thunder Bay, Ontario (Hammarskjold)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+10,manderscheid jack,"Edina, Minn. (Edina)","Edina, Minn. (Edina)","Edina, Minn. (Edina)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+11,morrison joe,"Poughquag, N.Y. (Arlington)","Poughquag, N.Y. (Arlington)","Poughquag, N.Y. (Arlington)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+12,olson connor,"Maple Grove, Minn. (Wayzata)","Maple Grove, Minn. (Wayzata)","Maple Grove, Minn. (Wayzata)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+13,plasencia alex,"Shoreview, Minn. (Mounds View)","Shoreview, Minn. (Mounds View)","Shoreview, Minn. (Mounds View)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+14,rink nick,"Appleton, Wis. (Kimberly)","Appleton, Wis. (Kimberly)","Appleton, Wis. (Kimberly)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+15,roos patrick,"Edina, Minn. (Edina)","Edina, Minn. (Edina)","Edina, Minn. (Edina)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+16,staack hunter,"Hopkins, Minn. (Hopkins)","Hopkins, Minn. (Hopkins)","Hopkins, Minn. (Hopkins)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+17,streich shane,"Janesville, Minn. (Waseca)","Janesville, Minn. (Waseca)","Janesville, Minn. (Waseca)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+18,wagner robert,"Pewaukee, Wis. (Pewaukee)","Pewaukee, Wis. (Pewaukee)","Pewaukee, Wis. (Pewaukee)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+19,wiebke derek,"Kasson, Minn. (Kasson-Mantorville)","Kasson, Minn. (Kasson-Mantorville)","Kasson, Minn. (Kasson-Mantorville)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens cross country,minnesota
+0,alama courtney,"Annandale, Minn. (Annandale HS)",N/A,"Annandale, Minn. (Annandale HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+1,baer sam,"St. Louis Park, Minn. (St. Louis Park HS)",N/A,"St. Louis Park, Minn. (St. Louis Park HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+2,barczi amelia,"Madison, Wis. (Madison West HS)",N/A,"Madison, Wis. (Madison West HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+3,betz emily,"Woodbury, Minn. (East Ridge HS)",N/A,"Woodbury, Minn. (East Ridge HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+4,castanias emily,"Chanhassen, Minn. (Chanhassen HS)",N/A,"Chanhassen, Minn. (Chanhassen HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+5,conzemius jenna,"Hastings, Minn. (Cretin-Derham Hall)",N/A,"Hastings, Minn. (Cretin-Derham Hall)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+6,dock carissa,"Waconia, Minn. (Waconia HS)",N/A,"Waconia, Minn. (Waconia HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+7,eastman maria,"Victoria, Minn. (University of Iowa)",N/A,"Victoria, Minn. (University of Iowa)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+8,eastman molly,"Victoria, Minn. (Holy Family Catholic HS)",N/A,"Victoria, Minn. (Holy Family Catholic HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+9,fitzpatrick delaney,"Minocqua, Wis. (Yale University)",N/A,"Minocqua, Wis. (Yale University)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+10,greenlund lindsey,"Rochester, Minn. (Rochester Mayo HS)",N/A,"Rochester, Minn. (Rochester Mayo HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+11,hasz bethany,"Alexandria, Minn. (Alexandria Area HS)",N/A,"Alexandria, Minn. (Alexandria Area HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+12,hasz megan,"Alexandria, Minn. (Alexandria Area HS)",N/A,"Alexandria, Minn. (Alexandria Area HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+13,hummel olivia,"Woodbury, Minn. (University of Dayton)",N/A,"Woodbury, Minn. (University of Dayton)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+14,kargol abby,"Downers Grove, Ill. (Downers Grove South HS)",N/A,"Downers Grove, Ill. (Downers Grove South HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+15,klecker bit,"Hopkins, Minn. (Hopkins HS)",N/A,"Hopkins, Minn. (Hopkins HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+16,klecker sarah,"Hopkins, Minn. (Hopkins HS)",N/A,"Hopkins, Minn. (Hopkins HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+17,kohut-jackson abby,"Huxley, Iowa (Ballard HS)",N/A,"Huxley, Iowa (Ballard HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+18,korzenowski anastasia,"Chanhassen, Minn. (Chanhassen HS)",N/A,"Chanhassen, Minn. (Chanhassen HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+19,lange abby,"Stillwater, Minn. (Stillwater HS)",N/A,"Stillwater, Minn. (Stillwater HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+20,markland titania,"St. Mary, Jamaica (St. Mary HS)",N/A,"St. Mary, Jamaica (St. Mary HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+21,mason zetta,"Boulder, Colo. (Fairview HS)",N/A,"Boulder, Colo. (Fairview HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+22,miller liz,"Watertown, Minn. (Watertown-Mayer HS)",N/A,"Watertown, Minn. (Watertown-Mayer HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+23,ness bailey,"Woodbury, Minn. (East Ridge HS)",N/A,"Woodbury, Minn. (East Ridge HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+24,o'brien patty,"Maplewood, Minn. (North St. Paul HS)",N/A,"Maplewood, Minn. (North St. Paul HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+25,peschel paige,"Westfield, Wis. (Westfield Area HS)",N/A,"Westfield, Wis. (Westfield Area HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+26,prescott elyse,"Urbandale, Iowa (Urbandale HS)",N/A,"Urbandale, Iowa (Urbandale HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+27,prouty samantha,"White Bear Lake, Minn. (White Bear Lake HS)",N/A,"White Bear Lake, Minn. (White Bear Lake HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+28,rasmussen haley,"Chaska, Minn. (Chaska HS)",N/A,"Chaska, Minn. (Chaska HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+29,roach molly,"Bloomington, Minn. (Bloomington Jefferson HS)",N/A,"Bloomington, Minn. (Bloomington Jefferson HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+30,sather kelsey,"Plymouth, Minn. (Robbinsdale Armstrong HS)",N/A,"Plymouth, Minn. (Robbinsdale Armstrong HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+31,schmidt kelli,"Wilmette, Ill. (New Trier HS)",N/A,"Wilmette, Ill. (New Trier HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+32,schmitz sophie,"Willmar, Minn. (Willmar Senior HS)",N/A,"Willmar, Minn. (Willmar Senior HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+33,smith ally,"McFarland, Wis. (McFarland HS)",N/A,"McFarland, Wis. (McFarland HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+34,strandemo madeline,"Fargo, N.D. (Fargo South HS)",N/A,"Fargo, N.D. (Fargo South HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+35,sweeney tate,"Edina, Minn. (Edina HS)",N/A,"Edina, Minn. (Edina HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+36,thomsen jaycie,"Maple Grove, Minn. (Wayzata HS)",N/A,"Maple Grove, Minn. (Wayzata HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+37,werking sarah,"Elm Grove, Wis. (Brookfield East HS)",N/A,"Elm Grove, Wis. (Brookfield East HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+38,wians rachel,"Middleton, Wis. (Middleton HS)",N/A,"Middleton, Wis. (Middleton HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens cross country,minnesota
+0,arnórsson rúnar,"Hafnarfjörður, Iceland (Flensborg)","Hafnarfjörður, Iceland (Flensborg)","Hafnarfjörður, Iceland (Flensborg)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens golf,minnesota
+1,duensing charlie,"Sandy, Utah (Brighton)","Sandy, Utah (Brighton)","Sandy, Utah (Brighton)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens golf,minnesota
+2,fisher campbell,"Eatonton, Ga. (Lambert)","Eatonton, Ga. (Lambert)","Eatonton, Ga. (Lambert)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens golf,minnesota
+3,flanagan angus,"Woking, England (Bradfield College)","Woking, England (Bradfield College)","Woking, England (Bradfield College)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens golf,minnesota
+4,frazzini ben,"Medina, Minn. (Wayzata)","Medina, Minn. (Wayzata)","Medina, Minn. (Wayzata)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens golf,minnesota
+5,johnson riley,"Fargo, N.D. (West Fargo)","Fargo, N.D. (West Fargo)","Fargo, N.D. (West Fargo)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens golf,minnesota
+6,jones peter,"Owatonna, Minn. (Owatonna)","Owatonna, Minn. (Owatonna)","Owatonna, Minn. (Owatonna)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens golf,minnesota
+7,long evan,"New Castle, Pa. (Laurel)","New Castle, Pa. (Laurel)","New Castle, Pa. (Laurel)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens golf,minnesota
+8,longbella thomas,"Chippewa Falls, Wis. (McDonnell Central Catholic)","Chippewa Falls, Wis. (McDonnell Central Catholic)","Chippewa Falls, Wis. (McDonnell Central Catholic)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens golf,minnesota
+9,minkin gus,"York, Pa. (Central York)","York, Pa. (Central York)","York, Pa. (Central York)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens golf,minnesota
+10,sanders reece,"Deephaven, Minn. (Blake)","Deephaven, Minn. (Blake)","Deephaven, Minn. (Blake)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens golf,minnesota
+11,uloth alex,"Burnsville, Minn. (Burnsville)","Burnsville, Minn. (Burnsville)","Burnsville, Minn. (Burnsville)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens golf,minnesota
+0,free joanne,"Gullane, Scotland (Ross)",N/A,"Gullane, Scotland (Ross)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,minnesota
+1,heggerston maggie,"Pequot Lakes, Minn. (Pequot Lakes)",N/A,"Pequot Lakes, Minn. (Pequot Lakes)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,minnesota
+2,kellar grace,"Edina, Minn. (Edina)",N/A,"Edina, Minn. (Edina)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,minnesota
+3,lee jessica,"Hinsdale, Ill. (Hinsdale Central)",N/A,"Hinsdale, Ill. (Hinsdale Central)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,minnesota
+4,lillie kate,"St. Charles, Ill. (St. Charles North)",N/A,"St. Charles, Ill. (St. Charles North)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,minnesota
+5,portillo christine,"Eden Prairie, Minn. (Edina)",N/A,"Eden Prairie, Minn. (Edina)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,minnesota
+6,wu muyu,"Hangzhou, China (Huangshan)",N/A,"Hangzhou, China (Huangshan)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,minnesota
+0,baden harrison,"White Bear Lake, Minn. (Hawai'i)",N/A,"White Bear Lake, Minn. (Hawai'i)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+1,becker bowen,"Las Vegas, Nev. (Faith Lutheran)",N/A,"Las Vegas, Nev. (Faith Lutheran)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+2,berkoff cale,"Missoula, Mont. (Hellgate HS)",N/A,"Missoula, Mont. (Hellgate HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+3,donker tom,"Zutphen, Netherlands",N/A,"Zutphen, Netherlands",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+4,hansen kristian,"Hanover, N.H. (Hanover HS)",N/A,"Hanover, N.H. (Hanover HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+5,hohenstein brenner,"Maple Grove, Minn. (Maple Grove HS)",N/A,"Maple Grove, Minn. (Maple Grove HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+6,hunter erik,"Mission Viejo, Calif. (Trabuco Hills HS)",N/A,"Mission Viejo, Calif. (Trabuco Hills HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+7,kelley cameron,"Cedar Rapids, Iowa (Washington HS)",N/A,"Cedar Rapids, Iowa (Washington HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+8,leblang alan,"Centennial, Colo. (Arapahoe HS)",N/A,"Centennial, Colo. (Arapahoe HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+9,lefebvre peter,"Minneapolis, Minn. (Minneapolis Southwest HS)",N/A,"Minneapolis, Minn. (Minneapolis Southwest HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+10,lester duncan,"Boulder, Colo. (Fairview HS)",N/A,"Boulder, Colo. (Fairview HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+11,lezer max,"Rogers, MN (St. Michael-Albertville HS)",N/A,"Rogers, MN (St. Michael-Albertville HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+12,linscott hayden,"Mission Hills, Kan. (Shawnee Mission East HS)",N/A,"Mission Hills, Kan. (Shawnee Mission East HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+13,messner michael,"Sunnyvale, Calif. (Bellarmine Prep HS)",N/A,"Sunnyvale, Calif. (Bellarmine Prep HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+14,moser jeremy,"Milwaukee, Wis. (Nicolet HS)",N/A,"Milwaukee, Wis. (Nicolet HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+15,plachinski nick,"Cedarburg, Wis. (Cedarburg HS)",N/A,"Cedarburg, Wis. (Cedarburg HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+16,pokkinen tuomas,"Espoo, Finland (Makelanrinteen Lukio)",N/A,"Espoo, Finland (Makelanrinteen Lukio)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+17,portela jordan,"Lawrence, Kan. (Lawrence Free State HS)",N/A,"Lawrence, Kan. (Lawrence Free State HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+18,royzen maxim,"Skokie, Ill. (Niles North HS)",N/A,"Skokie, Ill. (Niles North HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+19,sates tim,"Durban, South Africa",N/A,"Durban, South Africa",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+20,saulnier nick,"Cedar Rapids, Iowa (Washington HS)",N/A,"Cedar Rapids, Iowa (Washington HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+21,thomas matthew,"Hollister, Calif. (Valley Christian HS)",N/A,"Hollister, Calif. (Valley Christian HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+22,tidd james,"Woodbury, Minn. (East Ridge HS)",N/A,"Woodbury, Minn. (East Ridge HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+23,torres justin,"Piscataway, N.J. (Saint Joseph HS)",N/A,"Piscataway, N.J. (Saint Joseph HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+24,van niekerk kyle,"Johannesburg, South Africa",N/A,"Johannesburg, South Africa",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+25,yang nick,"Chao Hu, China",N/A,"Chao Hu, China",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+26,yoder evan,"Lawrence, Kan. (Lawrence Free State HS)",N/A,"Lawrence, Kan. (Lawrence Free State HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+27,yudashkin eitan,"Kiryat Motzkin, Israel",N/A,"Kiryat Motzkin, Israel",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens swimming,minnesota
+0,avestruz zoe,"Chaska, Minn. (Chanhassen HS)",N/A,"Chaska, Minn. (Chanhassen HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+1,bacon sarah,"Indianapolis, Ind. (Cardinal Ritter HS)",N/A,"Indianapolis, Ind. (Cardinal Ritter HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+2,bergeson dani,"Bismarck, N.D. (Century HS)",N/A,"Bismarck, N.D. (Century HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+3,buck erin,"Maple Grove, Minn. (Maple Grove HS)",N/A,"Maple Grove, Minn. (Maple Grove HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+4,chapman tara,"Lino Lakes, Minn. (Centennial HS)",N/A,"Lino Lakes, Minn. (Centennial HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+5,ciavarella nicki,"Valley Cottage, N.Y. (NYACK HS)",N/A,"Valley Cottage, N.Y. (NYACK HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+6,cook emily,"Portland, Ore. (Jesuit HS)",N/A,"Portland, Ore. (Jesuit HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+7,crozier jenelle,"Littleton, Colo. (Chatfield HS)",N/A,"Littleton, Colo. (Chatfield HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+8,erwin abbey,"Boise, Idaho (Boise HS)",N/A,"Boise, Idaho (Boise HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+9,fu xiao,"Qingdao, China",N/A,"Qingdao, China",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+10,grobe kaia,"Victoria, Minn. (Chanhassen HS)",N/A,"Victoria, Minn. (Chanhassen HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+11,hayden kristen,"Hillsborough, N.J. (Panther Creek HS)",N/A,"Hillsborough, N.J. (Panther Creek HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+12,hepper emma,"Bismarck, N.D. (St. Mary's Central HS)",N/A,"Bismarck, N.D. (St. Mary's Central HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+13,horn brittany,"Appleton, Wis. (Appleton North HS)",N/A,"Appleton, Wis. (Appleton North HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+14,johnston olivia,"Rosemount, Minn. (Rosemount HS)",N/A,"Rosemount, Minn. (Rosemount HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+15,justus morgan,"Grand Rapids, Minn. (Grand Rapids HS)",N/A,"Grand Rapids, Minn. (Grand Rapids HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+16,khamis mariam,"Richmond, Ind. (Richmond HS)",N/A,"Richmond, Ind. (Richmond HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+17,kozelsky lindsey,"Albert Lea, Minn. (Albert Lea HS)",N/A,"Albert Lea, Minn. (Albert Lea HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+18,lalumiere lauren,"Oakville, Ontario (Iroquois Ridge)",N/A,"Oakville, Ontario (Iroquois Ridge)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+19,marcus kaela,"Placerville, Calif. (Placerville El Dorado HS)",N/A,"Placerville, Calif. (Placerville El Dorado HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+20,milstroh kasey,"St. Cloud, Minn. (Foley HS)",N/A,"St. Cloud, Minn. (Foley HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+21,munson rachel,"Shorewood, Wis. (Shorewood HS)",N/A,"Shorewood, Wis. (Shorewood HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+22,nack chantal,"Mankato, Minn. (Mankato West HS)",N/A,"Mankato, Minn. (Mankato West HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+23,padington mackenzie,"Campbell River, B.C. (Claremont Secondary)",N/A,"Campbell River, B.C. (Claremont Secondary)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+24,preiss madison,"Medina, Minn. (Wayzata HS)",N/A,"Medina, Minn. (Wayzata HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+25,sauder katelyn,"Bloomington, Ill. (Normal Community HS)",N/A,"Bloomington, Ill. (Normal Community HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+26,van law patricia,"Highlands Ranch, Colo. (Thunder Ridge HS)",N/A,"Highlands Ranch, Colo. (Thunder Ridge HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+27,waddell tevyn,"Mitchell, S.D. (Mitchell HS)",N/A,"Mitchell, S.D. (Mitchell HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+28,wagner katherine,"Chatsworth, Calif. (Bishop Alemany HS)",N/A,"Chatsworth, Calif. (Bishop Alemany HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+29,whited isabel,"Scottsdale, Ariz. (Pinnacle HS)",N/A,"Scottsdale, Ariz. (Pinnacle HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens swimming,minnesota
+0,allen jackson,"Shakopee, Minn. (Shakopee H.S.)",N/A,"Shakopee, Minn. (Shakopee H.S.)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens tennis,minnesota
+1,alpeza marino,"Mostar, Bosnia",N/A,"Mostar, Bosnia",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens tennis,minnesota
+2,corwin felix,"Elm Grove, Wis. (Brookfield East H.S.)",N/A,"Elm Grove, Wis. (Brookfield East H.S.)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens tennis,minnesota
+3,dobbs kaleb,"Sioux Falls, S.D. (Sioux Falls Lincoln H.S.)",N/A,"Sioux Falls, S.D. (Sioux Falls Lincoln H.S.)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens tennis,minnesota
+4,krstanovic josip,"Zagreb, Croatia (XV. Gimnazija Zagreb)",N/A,"Zagreb, Croatia (XV. Gimnazija Zagreb)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens tennis,minnesota
+5,levin justyn,"Melbourne, Australia (Leibler Yavneh College)",N/A,"Melbourne, Australia (Leibler Yavneh College)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens tennis,minnesota
+6,lobak vlad,"Kiev, Ukraine",N/A,"Kiev, Ukraine",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens tennis,minnesota
+7,milicevic stefan,"Belgrade, Serbia (Cmjanski H.S.)",N/A,"Belgrade, Serbia (Cmjanski H.S.)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens tennis,minnesota
+8,ogilvy eli,"Mississauga, Ont. (Silverthorn Collegiate)",N/A,"Mississauga, Ont. (Silverthorn Collegiate)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens tennis,minnesota
+9,spec matic,"Maribor, Slovenia (II. Gimnazija Maribor)",N/A,"Maribor, Slovenia (II. Gimnazija Maribor)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens tennis,minnesota
+10,sprinkel jesse,"Minneapolis, Minn. (Minneapolis South H.S.)",N/A,"Minneapolis, Minn. (Minneapolis South H.S.)",Last Name,Hometown (Last School),N/A,Hometown (Last School),mens tennis,minnesota
+0,emme annemarie,"Glenview, Ill. (Glenbrook South HS)",N/A,"Glenview, Ill. (Glenbrook South HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,minnesota
+1,frei cammy,"Winnetka, Ill. (New Trier HS)",N/A,"Winnetka, Ill. (New Trier HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,minnesota
+2,hall kalyssa,"Colorado Springs, Col. (Cherry Creek HS)",N/A,"Colorado Springs, Col. (Cherry Creek HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,minnesota
+3,hart river,"Nassau, Bahamas (ES International School)",N/A,"Nassau, Bahamas (ES International School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,minnesota
+4,kreinis tina,"Toronto, Ont. (Northview Heights Secondary School)",N/A,"Toronto, Ont. (Northview Heights Secondary School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,minnesota
+5,lambert isabella,"Minneapolis, Minn. (Minnetonka High School)",N/A,"Minneapolis, Minn. (Minnetonka High School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,minnesota
+6,mancera barbara,"Mexico City, Mexico (Colegio Visa Hermosa)",N/A,"Mexico City, Mexico (Colegio Visa Hermosa)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,minnesota
+7,merzbacher caitlyn,"Eden Prairie, Minn. (Edina HS)",N/A,"Eden Prairie, Minn. (Edina HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,minnesota
+8,ryba caroline,"Glenview, Ill. (Glenbrook South HS)",N/A,"Glenview, Ill. (Glenbrook South HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,minnesota
+9,safdar mehvish,"Mason, Ohio (Ursuline Academy)",N/A,"Mason, Ohio (Ursuline Academy)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,minnesota
+10,vargas gomez camila,"Lima, Peru (Santa Ursula School)",N/A,"Lima, Peru (Santa Ursula School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,minnesota
+0,ali hamza,"Minneapolis, Minn. (Washburn HS)","Minneapolis, Minn. (Washburn HS)","Minneapolis, Minn. (Washburn HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+1,ali obsa,"Richfield, Minn. (Richfield HS)","Richfield, Minn. (Richfield HS)","Richfield, Minn. (Richfield HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+2,baker matthew,"Shoreview, Minn. (Mounds View HS)","Shoreview, Minn. (Mounds View HS)","Shoreview, Minn. (Mounds View HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+3,basten alec,"Green Bay, Wis. (Green Bay Southwest HS)","Green Bay, Wis. (Green Bay Southwest HS)","Green Bay, Wis. (Green Bay Southwest HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+4,buller jacob,"St. Paul, Minn. (St. Croix Lutheran)","St. Paul, Minn. (St. Croix Lutheran)","St. Paul, Minn. (St. Croix Lutheran)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+5,carlson sam,"Bemidji, Minn. (Bemidji HS)","Bemidji, Minn. (Bemidji HS)","Bemidji, Minn. (Bemidji HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+6,duerr joey,"Chaska, Minn. (Chaska HS)","Chaska, Minn. (Chaska HS)","Chaska, Minn. (Chaska HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+7,ferlic evan,"Roseville, Minn. (Mounds Park Academy)","Roseville, Minn. (Mounds Park Academy)","Roseville, Minn. (Mounds Park Academy)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+8,fleischfresser anthony,"Blaine, Minn. (Spring Lake Park HS)","Blaine, Minn. (Spring Lake Park HS)","Blaine, Minn. (Spring Lake Park HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+9,frid teddy,"South St. Paul, Minn. (South St. Paul HS)","South St. Paul, Minn. (South St. Paul HS)","South St. Paul, Minn. (South St. Paul HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+10,fuller grant,"Edina, Minn. (Edina HS)","Edina, Minn. (Edina HS)","Edina, Minn. (Edina HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+11,gucinski ben,"Appleton, Wis. (Fox Valley Lutheran HS)","Appleton, Wis. (Fox Valley Lutheran HS)","Appleton, Wis. (Fox Valley Lutheran HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+12,harold glen,"Elm Grove, Wis. (Brookfield East HS)","Elm Grove, Wis. (Brookfield East HS)","Elm Grove, Wis. (Brookfield East HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+13,herauf mike,"Dickinson, N.D. (Dickinson HS)","Dickinson, N.D. (Dickinson HS)","Dickinson, N.D. (Dickinson HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+14,hoeft owen,"Golden Valley, Minn (Hopkins HS)","Golden Valley, Minn (Hopkins HS)","Golden Valley, Minn (Hopkins HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+15,houston sammie,"Eden Prairie, Minn. (Eden Prairie HS)","Eden Prairie, Minn. (Eden Prairie HS)","Eden Prairie, Minn. (Eden Prairie HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+16,johnson clayton,"Hastings, Minn. (Hastings HS)","Hastings, Minn. (Hastings HS)","Hastings, Minn. (Hastings HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+17,johnson jonathan,"Champlin, Minn. (Champlin Park HS)","Champlin, Minn. (Champlin Park HS)","Champlin, Minn. (Champlin Park HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+18,kelner alex,"Mounds View, Minn. (Irondale HS)","Mounds View, Minn. (Irondale HS)","Mounds View, Minn. (Irondale HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+19,larance dawson,"Billings, Mont. (Billings Senior HS)","Billings, Mont. (Billings Senior HS)","Billings, Mont. (Billings Senior HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+20,lawrence charlie,"Foley, Minn. (Foley HS)","Foley, Minn. (Foley HS)","Foley, Minn. (Foley HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+21,lockard ryan,"Apple Valley, Minn. (Eastview HS)","Apple Valley, Minn. (Eastview HS)","Apple Valley, Minn. (Eastview HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+22,lucas hunter,"Fargo, N.D. (Fargo Davies HS)","Fargo, N.D. (Fargo Davies HS)","Fargo, N.D. (Fargo Davies HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+23,macintosh jordan,"Thunder Bay, Ontario (Hammarskjold HS)","Thunder Bay, Ontario (Hammarskjold HS)","Thunder Bay, Ontario (Hammarskjold HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+24,manderscheid jack,"Edina, Minn. (Edina HS)","Edina, Minn. (Edina HS)","Edina, Minn. (Edina HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+25,mckeag kieran,"Lakeville, Minn. (Apple Valley HS)","Lakeville, Minn. (Apple Valley HS)","Lakeville, Minn. (Apple Valley HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+26,mensah cory,"Brooklyn Park, Minn. (Champlin Park HS)","Brooklyn Park, Minn. (Champlin Park HS)","Brooklyn Park, Minn. (Champlin Park HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+27,morrison joe,"Poughquag, N.Y. (Arlington HS)","Poughquag, N.Y. (Arlington HS)","Poughquag, N.Y. (Arlington HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+28,nelson zach,"St. Louis Park, Minn. (St. Louis Park HS)","St. Louis Park, Minn. (St. Louis Park HS)","St. Louis Park, Minn. (St. Louis Park HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+29,nerdal jon,"Bergen, Norway (Danielsen VGS)","Bergen, Norway (Danielsen VGS)","Bergen, Norway (Danielsen VGS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+30,neumann brad,"Peshtigo, Wis. (Peshtigo HS)","Peshtigo, Wis. (Peshtigo HS)","Peshtigo, Wis. (Peshtigo HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+31,olson connor,"Maple Grove, Minn. (Wayzata HS)","Maple Grove, Minn. (Wayzata HS)","Maple Grove, Minn. (Wayzata HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+32,plasencia alex,"Shoreview, Minn. (Mounds View HS)","Shoreview, Minn. (Mounds View HS)","Shoreview, Minn. (Mounds View HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+33,psicihulis ben,"Waukesha, Wis. (Kettle Moraine HS)","Waukesha, Wis. (Kettle Moraine HS)","Waukesha, Wis. (Kettle Moraine HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+34,rink nick,"Appleton, Wis. (Kimberly HS)","Appleton, Wis. (Kimberly HS)","Appleton, Wis. (Kimberly HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+35,roomes mason,"Woodbury, Minn. (Woodbury HS)","Woodbury, Minn. (Woodbury HS)","Woodbury, Minn. (Woodbury HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+36,roos patrick,"Edina, Minn. (Edina HS)","Edina, Minn. (Edina HS)","Edina, Minn. (Edina HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+37,rosen matthew,"Bloomington, Minn. (Bloomington Jefferson HS)","Bloomington, Minn. (Bloomington Jefferson HS)","Bloomington, Minn. (Bloomington Jefferson HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+38,rousemiller connor,"Lakeville, Minn. (Lakeville South HS)","Lakeville, Minn. (Lakeville South HS)","Lakeville, Minn. (Lakeville South HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+39,sieffert collin,"Woodbury, Minn. (East Ridge HS)","Woodbury, Minn. (East Ridge HS)","Woodbury, Minn. (East Ridge HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+40,siekmeier kaleb,"Mahtomedi, Minn. (Mahtomedi HS)","Mahtomedi, Minn. (Mahtomedi HS)","Mahtomedi, Minn. (Mahtomedi HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+41,staack hunter,"Hopkins, Minn. (Hopkins HS)","Hopkins, Minn. (Hopkins HS)","Hopkins, Minn. (Hopkins HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+42,streich shane,"Janesville, Minn. (Waseca HS)","Janesville, Minn. (Waseca HS)","Janesville, Minn. (Waseca HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+43,tappe tyler,"Pequot Lakes, Minn. (Pequot Lakes HS)","Pequot Lakes, Minn. (Pequot Lakes HS)","Pequot Lakes, Minn. (Pequot Lakes HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+44,tharaldsen jonathan,"Bismarck, N.D. (Bismarck HS)","Bismarck, N.D. (Bismarck HS)","Bismarck, N.D. (Bismarck HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+45,tollefson jon,"St. Paul, Minn. (St. Croix Lutheran HS)","St. Paul, Minn. (St. Croix Lutheran HS)","St. Paul, Minn. (St. Croix Lutheran HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+46,tracy josh,"St. Michael, Minn. (St. Michael Albertville HS)","St. Michael, Minn. (St. Michael Albertville HS)","St. Michael, Minn. (St. Michael Albertville HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+47,trapp lucas,"Elk River, Minn. (Elk River HS)","Elk River, Minn. (Elk River HS)","Elk River, Minn. (Elk River HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+48,travis james,"Naperville, Ill. (Waubonsie Valley HS)","Naperville, Ill. (Waubonsie Valley HS)","Naperville, Ill. (Waubonsie Valley HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+49,trotter chris,"Minneapolis, Minn. (St. Louis Park HS)","Minneapolis, Minn. (St. Louis Park HS)","Minneapolis, Minn. (St. Louis Park HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+50,uchytil john,"Hudson, Wis. (Hudson HS)","Hudson, Wis. (Hudson HS)","Hudson, Wis. (Hudson HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+51,udalla chris,"Elk River, Minn. (Elk River HS)","Elk River, Minn. (Elk River HS)","Elk River, Minn. (Elk River HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+52,wagner robert,"Pewaukee, Wis. (Pewaukee HS)","Pewaukee, Wis. (Pewaukee HS)","Pewaukee, Wis. (Pewaukee HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+53,walker eric,"Chicago, Ill. (St. Rita HS)","Chicago, Ill. (St. Rita HS)","Chicago, Ill. (St. Rita HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+54,webb jonathan,"Woodbury, Minn. (Minnehaha Academy)","Woodbury, Minn. (Minnehaha Academy)","Woodbury, Minn. (Minnehaha Academy)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+55,wellenstein jackson,"Madison, Wis. (Madison West HS)","Madison, Wis. (Madison West HS)","Madison, Wis. (Madison West HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+56,wiebke derek,"Kasson, Minn. (Kasson-Mantorville HS)","Kasson, Minn. (Kasson-Mantorville HS)","Kasson, Minn. (Kasson-Mantorville HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens track,minnesota
+0,alama courtney,"Annandale, Minn. (Annandale HS)",N/A,"Annandale, Minn. (Annandale HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+1,albrechtsen sofie,"Esbjerg, Denmark (Marselisborg Gymnasium)",N/A,"Esbjerg, Denmark (Marselisborg Gymnasium)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+2,anderson sophia,"Eden Prairie, Minn. (Academy of Holy Angels)",N/A,"Eden Prairie, Minn. (Academy of Holy Angels)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+3,arason hannah,"Grand Forks, N.D. (Red River HS)",N/A,"Grand Forks, N.D. (Red River HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+4,baer sam,"St. Louis Park, Minn. (St. Louis Park HS)",N/A,"St. Louis Park, Minn. (St. Louis Park HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+5,baker kayla,"Cloquet, Minn. (Cloquet Senior HS)",N/A,"Cloquet, Minn. (Cloquet Senior HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+6,barczi amelia,"Madison, Wis. (Madison West HS)",N/A,"Madison, Wis. (Madison West HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+7,betz emily,"Woodbury, Minn. (East Ridge HS)",N/A,"Woodbury, Minn. (East Ridge HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+8,biermaier meleah,"Thief River Falls, Minn. (Lincoln HS)",N/A,"Thief River Falls, Minn. (Lincoln HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+9,castanias emily,"Chanhassen, Minn. (Chanhassen HS)",N/A,"Chanhassen, Minn. (Chanhassen HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+10,champagnie ayesha,"Kingston, Jamaica (Barton Community College)",N/A,"Kingston, Jamaica (Barton Community College)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+11,clunis nayoka,"Kingston, Jamaica (Cloud County CC)",N/A,"Kingston, Jamaica (Cloud County CC)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+12,conzemius jenna,"Hastings, Minn. (Cretin-Derham Hall)",N/A,"Hastings, Minn. (Cretin-Derham Hall)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+13,crotty ryan,"Maplewood, Minn. (North St. Paul HS)",N/A,"Maplewood, Minn. (North St. Paul HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+14,delson wilsonique,"Nassau, Bahamas (Saint Augustine's College HS)",N/A,"Nassau, Bahamas (Saint Augustine's College HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+15,dock carissa,"Waconia, Minn. (Waconia HS)",N/A,"Waconia, Minn. (Waconia HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+16,dugan allison,"Medina, Minn. (Wayzata HS)",N/A,"Medina, Minn. (Wayzata HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+17,dunning erin,"Green Bay, Wis. (Ashwaubenon HS)",N/A,"Green Bay, Wis. (Ashwaubenon HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+18,eastman maria,"Victoria, Minn. (University of Iowa)",N/A,"Victoria, Minn. (University of Iowa)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+19,eastman molly,"Victoria, Minn. (Holy Family Catholic HS)",N/A,"Victoria, Minn. (Holy Family Catholic HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+20,egwim emerald,"St. Paul, Minn. (Eagan HS)",N/A,"St. Paul, Minn. (Eagan HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+21,esser agnes,"McBride, B.C. (Francis Kelsey Secondary School)",N/A,"McBride, B.C. (Francis Kelsey Secondary School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+22,fitzpatrick delaney,"Minocqua, Wis. (Yale University)",N/A,"Minocqua, Wis. (Yale University)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+23,gerads allison,"Dayton, Minn. (Champlin Park HS)",N/A,"Dayton, Minn. (Champlin Park HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+24,greenlund lindsey,"Rochester, Minn. (Rochester Mayo HS)",N/A,"Rochester, Minn. (Rochester Mayo HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+25,hasz bethany,"Alexandria, Minn. (Alexandria Area HS)",N/A,"Alexandria, Minn. (Alexandria Area HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+26,hasz megan,"Alexandria, Minn. (Alexandria Area HS)",N/A,"Alexandria, Minn. (Alexandria Area HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+27,horvath nina,"Stevens Point, Wis. (Southern Illinois)",N/A,"Stevens Point, Wis. (Southern Illinois)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+28,huls erin,"Cold Spring, Minn. (ROCORI HS)",N/A,"Cold Spring, Minn. (ROCORI HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+29,hummel olivia,"Woodbury, Minn. (University of Dayton)",N/A,"Woodbury, Minn. (University of Dayton)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+30,kargol abby,"Downers Grove, Ill. (Downers Grove South HS)",N/A,"Downers Grove, Ill. (Downers Grove South HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+31,keyzers tess,"Little Chute, Wis. (Little Chute HS)",N/A,"Little Chute, Wis. (Little Chute HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+32,kiefer lexi,"Northfield, Minn. (Northfield HS)",N/A,"Northfield, Minn. (Northfield HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+33,klecker bit,"Hopkins, Minn. (Hopkins HS)",N/A,"Hopkins, Minn. (Hopkins HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+34,klecker sarah,"Hopkins, Minn. (Hopkins HS)",N/A,"Hopkins, Minn. (Hopkins HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+35,kohut-jackson abby,"Huxley, Iowa (Ballard HS)",N/A,"Huxley, Iowa (Ballard HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+36,korzenowski anastasia,"Chanhassen, Minn. (Chanhassen HS)",N/A,"Chanhassen, Minn. (Chanhassen HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+37,lange abby,"Stillwater, Minn. (Stillwater HS)",N/A,"Stillwater, Minn. (Stillwater HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+38,larson val,"DeForest, Wis. (DeForest Area HS)",N/A,"DeForest, Wis. (DeForest Area HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+39,long kaitlyn,"Cottage Grove, Wis. (Winona State)",N/A,"Cottage Grove, Wis. (Winona State)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+40,markland titania,"Annotto Bay, Jamaica (St. Mary HS)",N/A,"Annotto Bay, Jamaica (St. Mary HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+41,mason zetta,"Boulder, Colo. (Fairview HS)",N/A,"Boulder, Colo. (Fairview HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+42,murphy nicolle,"Arkansas City, Kan. (Arkansas City HS)",N/A,"Arkansas City, Kan. (Arkansas City HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+43,murray lorean,"St. Andrew, Jamaica (St. Andrew HS)",N/A,"St. Andrew, Jamaica (St. Andrew HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+44,narr macy,"Chanhassen, Minn. (Minnetonka HS)",N/A,"Chanhassen, Minn. (Minnetonka HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+45,nelson kayla,"Rush City, Minn. (Rush City HS)",N/A,"Rush City, Minn. (Rush City HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+46,ness bailey,"Woodbury, Minn. (East Ridge HS)",N/A,"Woodbury, Minn. (East Ridge HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+47,nielsen shay,"Detroit Lakes, Minn. (Detroit Lakes HS)",N/A,"Detroit Lakes, Minn. (Detroit Lakes HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+48,o'brien patty,"Maplewood, Minn. (North St. Paul HS)",N/A,"Maplewood, Minn. (North St. Paul HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+49,ogunrinde temi,"Cottage Grove, Minn. (Park HS)",N/A,"Cottage Grove, Minn. (Park HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+50,peschel paige,"Westfield, Wis. (Westfield Area HS)",N/A,"Westfield, Wis. (Westfield Area HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+51,place karlie,"River Falls, Wis. (UW-Milwaukee)",N/A,"River Falls, Wis. (UW-Milwaukee)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+52,poole hailey,"Worden, Mont. (Huntley Project HS)",N/A,"Worden, Mont. (Huntley Project HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+53,prescott elyse,"Urbandale, Iowa (Urbandale HS)",N/A,"Urbandale, Iowa (Urbandale HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+54,ramacher ashley,"Eden Prairie, Minn. (Eden Prairie HS)",N/A,"Eden Prairie, Minn. (Eden Prairie HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+55,rasmussen haley,"Chaska, Minn. (Chaska HS)",N/A,"Chaska, Minn. (Chaska HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+56,roach molly,"Bloomington, Minn. (Bloomington Jefferson HS)",N/A,"Bloomington, Minn. (Bloomington Jefferson HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+57,sabin kiley,"Slinger, Wis. (Slinger HS)",N/A,"Slinger, Wis. (Slinger HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+58,sather kelsey,"Plymouth, Minn. (Robbinsdale Armstrong HS)",N/A,"Plymouth, Minn. (Robbinsdale Armstrong HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+59,schmidt kelli,"Wilmette, Ill. (New Trier HS)",N/A,"Wilmette, Ill. (New Trier HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+60,schmitz sophie,"Willmar, Minn. (Willmar Senior HS)",N/A,"Willmar, Minn. (Willmar Senior HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+61,schow rachel,"Inver Grove Heights, Minn. (Rosemount HS)",N/A,"Inver Grove Heights, Minn. (Rosemount HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+62,smith ally,"McFarland, Wis. (McFarland HS)",N/A,"McFarland, Wis. (McFarland HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+63,smits lindsey,"Lakeville, Minn. (Lakeville North HS)",N/A,"Lakeville, Minn. (Lakeville North HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+64,spagnola emma,"North Aurora, Ill. (West Aurora HS)",N/A,"North Aurora, Ill. (West Aurora HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+65,strandemo madeline,"Fargo, N.D. (Fargo South HS)",N/A,"Fargo, N.D. (Fargo South HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+66,sweeney tate,"Edina, Minn. (Edina HS)",N/A,"Edina, Minn. (Edina HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+67,thomsen jaycie,"Maple Grove, Minn. (Wayzata HS)",N/A,"Maple Grove, Minn. (Wayzata HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+68,tuuri heta,"Lahti, Finland (Salpausselka HS)",N/A,"Lahti, Finland (Salpausselka HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+69,werking sarah,"Elm Grove, Wis. (Brookfield East HS)",N/A,"Elm Grove, Wis. (Brookfield East HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+70,wians rachel,"Middleton, Wis. (Middleton HS)",N/A,"Middleton, Wis. (Middleton HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+71,wiebke taylor,"Mantorville, Minn. (Kasson-Mantorville HS)",N/A,"Mantorville, Minn. (Kasson-Mantorville HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+72,wright shanique,"Manchester, Jamaica (Manchester HS)",N/A,"Manchester, Jamaica (Manchester HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens track,minnesota
+0,allar jake,"Medina, Minn. (Saint Michael-Albertville)",N/A,"Medina, Minn. (Saint Michael-Albertville)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+1,anderson dylan,"Hudson, Wis. (Hudson HS)",N/A,"Hudson, Wis. (Hudson HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+2,balow will,"Lake City, Minn. (Lincoln HS)",N/A,"Lake City, Minn. (Lincoln HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+3,berg james,"New Prague, Minn. (New Prague HS)",N/A,"New Prague, Minn. (New Prague HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+4,bergeland jakob,"Hugo, Minn. (Centennial High School)",N/A,"Hugo, Minn. (Centennial High School)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+5,bleise steve,"Chelsea, Mich. (Chelsea High School)",N/A,"Chelsea, Mich. (Chelsea High School)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+6,brancale ben,"Eden Prairie, Minn. (Eden Prairie HS)",N/A,"Eden Prairie, Minn. (Eden Prairie HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+7,brolsma carson,"Maple Grove, Minn. (Osseo HS)",N/A,"Maple Grove, Minn. (Osseo HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+8,carr colin,"Washington, Ill. (Washington Community HS)",N/A,"Washington, Ill. (Washington Community HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+9,champagne jose,"Griffith, Ind. (Marion Catholic HS)",N/A,"Griffith, Ind. (Marion Catholic HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+10,christianson tim,"Albert Lea, Minn. (Albert Lea HS)",N/A,"Albert Lea, Minn. (Albert Lea HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+11,crowe alex,"Shakopee, Minn. (Shakopee High School)",N/A,"Shakopee, Minn. (Shakopee High School)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+12,jones brent,"Shakopee, Minn. (Shakopee High School)",N/A,"Shakopee, Minn. (Shakopee High School)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+13,karaborni faris,"Cupertino, Calif. (Monta Vista HS)",N/A,"Cupertino, Calif. (Monta Vista HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+14,karaborni tijani,"Cupertino, Calif. (Monta Vista HS)",N/A,"Cupertino, Calif. (Monta Vista HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+15,krone brandon,"Anoka, Minn. (Anoka HS)",N/A,"Anoka, Minn. (Anoka HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+16,lizak ethan,"Schnecksville, Pa. (Parkland HS)",N/A,"Schnecksville, Pa. (Parkland HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+17,lunde dalton,"Kendall, Wis. (Royall HS)",N/A,"Kendall, Wis. (Royall HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+18,marko hunter,"Amery, Wis. (Amery HS)",N/A,"Amery, Wis. (Amery HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+19,mckee mitch,"St. Michael, Minn. (St. Michael-Albertville HS)",N/A,"St. Michael, Minn. (St. Michael-Albertville HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+20,o'connor chase,"Kasson, Minn. (Rochester Community and Technical College)",N/A,"Kasson, Minn. (Rochester Community and Technical College)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+21,o'reilly bailee,"Goodhue, Minn. (Goodhue Public School)",N/A,"Goodhue, Minn. (Goodhue Public School)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+22,olson brenn,"Grand Meadow, Minn. (Grand Meadow HS)",N/A,"Grand Meadow, Minn. (Grand Meadow HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+23,patton miles,"Rochester, Minn. (Mayo HS)",N/A,"Rochester, Minn. (Mayo HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+24,petry skyler,"Waterville, Minn. (Waterville-Elysian-Morristown HS)",N/A,"Waterville, Minn. (Waterville-Elysian-Morristown HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+25,pfarr chris,"Le Sueur, Minn. (Le Sueur-Henderson HS)",N/A,"Le Sueur, Minn. (Le Sueur-Henderson HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+26,polakowski steve,"Libertyville, Ill. (Libertyville HS)",N/A,"Libertyville, Ill. (Libertyville HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+27,rose nate,"Arlington, Minn. (Sibley East HS)",N/A,"Arlington, Minn. (Sibley East HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+28,rothers jordon,"Sunburg, Minn. (Kerkhoven-Murdock-Sunburg HS)",N/A,"Sunburg, Minn. (Kerkhoven-Murdock-Sunburg HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+29,short jake,"Inver Grove Heights, Minn. (Simley HS)",N/A,"Inver Grove Heights, Minn. (Simley HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+30,steveson bobby,"Apple Valley, Minn. (Apple Valley HS)",N/A,"Apple Valley, Minn. (Apple Valley HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+31,streifel rylee,"Prior Lake, Minn. (Prior Lake HS)",N/A,"Prior Lake, Minn. (Prior Lake HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+32,thomas nate,"Mantorville, Minn. (Kasson-Mantorville HS)",N/A,"Mantorville, Minn. (Kasson-Mantorville HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+33,thorn tommy,"St. Michael, Minn. (St. Michael-Albertville HS)",N/A,"St. Michael, Minn. (St. Michael-Albertville HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+34,volk gannon,"Lakeville, Minn. (Apple Valley HS)",N/A,"Lakeville, Minn. (Apple Valley HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+35,wanzek nick,"Inver Grove Heights, Minn. (Simley HS)",N/A,"Inver Grove Heights, Minn. (Simley HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+36,waterson tyler,"Spearfish, SD (Spearfish High School)",N/A,"Spearfish, SD (Spearfish High School)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+37,webster owen,"Shakopee, Minn. (Shakopee High School)",N/A,"Shakopee, Minn. (Shakopee High School)",Last Name,Hometown (Last School),N/A,Hometown (Last School),wrestling,minnesota
+0,anderson christina,"Plymouth, Minn. (Orono)",N/A,"Plymouth, Minn. (Orono)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+1,appold emily,"Holmen, Wis. (Luther)",N/A,"Holmen, Wis. (Luther)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+2,bostwick maggie,"Whitefish Bay, Wis. (Whitefish Bay)",N/A,"Whitefish Bay, Wis. (Whitefish Bay)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+3,burrows-cheng lauren,"Hobart, Tasmania (St Michaels Collegiate School)",N/A,"Hobart, Tasmania (St Michaels Collegiate School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+4,dahl maura,"Oak Park, Ill. (Oak Park River Forest)",N/A,"Oak Park, Ill. (Oak Park River Forest)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+5,frazier anna,"St. Louis, Mo.",N/A,"St. Louis, Mo.",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+6,gilbertson taylor,"Burnsville, Minn. (Burnsville)",N/A,"Burnsville, Minn. (Burnsville)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+7,guenther erika,"Dayton, Minn. (Champlin Park)",N/A,"Dayton, Minn. (Champlin Park)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+8,hetico kat,"Madison, Wis. (West)",N/A,"Madison, Wis. (West)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+9,hiebel lizsy,"Minnetonka, Minn. (Minnetonka)",N/A,"Minnetonka, Minn. (Minnetonka)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+10,jennings darcy,"London, England",N/A,"London, England",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+11,king anneliese,"Bethesda, Md. (Holton-Arms)",N/A,"Bethesda, Md. (Holton-Arms)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+12,lorca natalie,,N/A,,Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+13,lovick bee,"Melbourne, Australia (Methodist Ladies College)",N/A,"Melbourne, Australia (Methodist Ladies College)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+14,luedloff kortney,"Waconia, Minn. (Waconia)",N/A,"Waconia, Minn. (Waconia)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+15,maguire maura,"Crystal Lake, Ill.",N/A,"Crystal Lake, Ill.",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+16,miller lauren,"St. Cloud, Minn. (Technical)",N/A,"St. Cloud, Minn. (Technical)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+17,morris addie,"Sussex, Wis. (Hamilton)",N/A,"Sussex, Wis. (Hamilton)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+18,nelson sara,"New Brighton, Minn. (Mounds View)",N/A,"New Brighton, Minn. (Mounds View)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+19,reimann sarah,"Bregenz, Austria",N/A,"Bregenz, Austria",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+20,rieser abby,"North St. Paul, Minn. (North St. Paul)",N/A,"North St. Paul, Minn. (North St. Paul)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+21,rollay samantha,"Richfield, Minn. (Richfield)",N/A,"Richfield, Minn. (Richfield)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+22,schmidt allie,"Maple Grove, Minn.",N/A,"Maple Grove, Minn.",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+23,spahr savannah,"Brookfield, Wis. (Brookfield East)",N/A,"Brookfield, Wis. (Brookfield East)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+24,steine natalie,,N/A,,Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+25,sterneman allison,"Zimmerman, Minn. (Zimmerman)",N/A,"Zimmerman, Minn. (Zimmerman)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+26,stockstad anna,"Rancho Palos Verdes, Calif. (Palos Verdes Peninsula)",N/A,"Rancho Palos Verdes, Calif. (Palos Verdes Peninsula)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+27,stratton natalie,"Williams Bay, Wis.",N/A,"Williams Bay, Wis.",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+28,terlion elyse,"Muskego, Wis. (Muskego)",N/A,"Muskego, Wis. (Muskego)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+29,thuente sophia,"St. Paul, Minn. (Cretin-Derham Hall)",N/A,"St. Paul, Minn. (Cretin-Derham Hall)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+30,tripps gabrielle,"Wayzata, Minn. (Wayzata)",N/A,"Wayzata, Minn. (Wayzata)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+31,vancamp katie,"Elk River, Minn. (Elk River)",N/A,"Elk River, Minn. (Elk River)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+32,von der goltz sarah,"Breisach, Germany (Martin-Schongauer-Gymnasium)",N/A,"Breisach, Germany (Martin-Schongauer-Gymnasium)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+33,wargo rylie,"Pulaski, Wis. (Pulaski)",N/A,"Pulaski, Wis. (Pulaski)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+34,wenzel nicole,"Mayville, Wis. (Mayville)",N/A,"Mayville, Wis. (Mayville)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,minnesota
+0,partain makenna,"Banks, Ore. (Banks High School)","Banks, Ore. (Banks High School)","Banks, Ore. (Banks High School)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+1,brandt carlie,"Le Sueur, Minn. (Le Sueur-Henderson High School)","Le Sueur, Minn. (Le Sueur-Henderson High School)","Le Sueur, Minn. (Le Sueur-Henderson High School)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+2,lowary rachel,"Grimes, Iowa (Dallas Center-Grimes)","Grimes, Iowa (Dallas Center-Grimes)","Grimes, Iowa (Dallas Center-Grimes)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+3,gill macy,"Elkhart, Iowa (North Polk HS)","Elkhart, Iowa (North Polk HS)","Elkhart, Iowa (North Polk HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+4,kemmetmueller katelyn,"Rogers, Minn. (Rogers High School)","Rogers, Minn. (Rogers High School)","Rogers, Minn. (Rogers High School)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+5,miller anne,"Bloomington, Minn. (Jefferson High School)","Bloomington, Minn. (Jefferson High School)","Bloomington, Minn. (Jefferson High School)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+6,smith sydney,"Maple Grove, Minn. (Maple Grove HS)","Maple Grove, Minn. (Maple Grove HS)","Maple Grove, Minn. (Maple Grove HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+7,fiser amber,"Van Horne, Iowa (Benton Community High School)","Van Horne, Iowa (Benton Community High School)","Van Horne, Iowa (Benton Community High School)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+8,arneson allie,"Aledo, Texas (Aledo High School)","Aledo, Texas (Aledo High School)","Aledo, Texas (Aledo High School)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+9,jensen ellee,"Watertown, Wis. (Watertown HS)","Watertown, Wis. (Watertown HS)","Watertown, Wis. (Watertown HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+10,houlihan maddie,"Plymouth, Minn. (Benilde St. Margaret's)","Plymouth, Minn. (Benilde St. Margaret's)","Plymouth, Minn. (Benilde St. Margaret's)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+11,krueger kaylen,"Green Bay, Wis. (Green Bay Preble High School)","Green Bay, Wis. (Green Bay Preble High School)","Green Bay, Wis. (Green Bay Preble High School)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+12,chell taylor,"Nowthen, Minn. (Anoka HS)","Nowthen, Minn. (Anoka HS)","Nowthen, Minn. (Anoka HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+13,lindaman kendyl,"Ankeny, Iowa (Ankeny Centennial High School)","Ankeny, Iowa (Ankeny Centennial High School)","Ankeny, Iowa (Ankeny Centennial High School)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+14,thompson alexandra,"Howard Lake, Minn. (Howard Lake-Waverly-Winsted HS)","Howard Lake, Minn. (Howard Lake-Waverly-Winsted HS)","Howard Lake, Minn. (Howard Lake-Waverly-Winsted HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+15,bailey hannah,"Vista, Calif. (Rancho Buena Vista HS)","Vista, Calif. (Rancho Buena Vista HS)","Vista, Calif. (Rancho Buena Vista HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),softball,minnesota
+0,barnes lauren,"Naperville, Ill. (Benet Academy)",N/A,"Naperville, Ill. (Benet Academy)",Last Name,Hometown (Last School),N/A,Hometown (Last School),womens volleyball,minnesota
+1,beckley sophie,"Seattle, Wash. (Bishop Blanchet HS)",N/A,"Seattle, Wash. (Bishop Blanchet HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),womens volleyball,minnesota
+2,buford kayla,"Canton, Mich. (Canton HS)",N/A,"Canton, Mich. (Canton HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),womens volleyball,minnesota
+3,hart alexis,"Kansas City, Mo. (Truman HS)",N/A,"Kansas City, Mo. (Truman HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),womens volleyball,minnesota
+4,litzau lauren,"Greendale, Wis. (Greendale HS)",N/A,"Greendale, Wis. (Greendale HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),womens volleyball,minnesota
+5,martin jasmyn,"Brooklyn Park, Minn. (Hopkins)",N/A,"Brooklyn Park, Minn. (Hopkins)",Last Name,Hometown (Last School),N/A,Hometown (Last School),womens volleyball,minnesota
+6,mcgraw cc,"Prior Lake, Minn. (Prior Lake HS)",N/A,"Prior Lake, Minn. (Prior Lake HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),womens volleyball,minnesota
+7,morgan taylor,"Blaine, Minn. (Blaine HS)",N/A,"Blaine, Minn. (Blaine HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),womens volleyball,minnesota
+8,nielsen sara,"Glen Ellyn, Ill. (Benet Academy)",N/A,"Glen Ellyn, Ill. (Benet Academy)",Last Name,Hometown (Last School),N/A,Hometown (Last School),womens volleyball,minnesota
+9,pittman regan,"Spring Hill, Kansas (Saint Thomas Aquinas HS)",N/A,"Spring Hill, Kansas (Saint Thomas Aquinas HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),womens volleyball,minnesota
+10,rollins adanna,"Carrollton, Texas (Hebron)",N/A,"Carrollton, Texas (Hebron)",Last Name,Hometown (Last School),N/A,Hometown (Last School),womens volleyball,minnesota
+11,samedy stephanie,"Clermont, Fla. (East Ridge)",N/A,"Clermont, Fla. (East Ridge)",Last Name,Hometown (Last School),N/A,Hometown (Last School),womens volleyball,minnesota
+12,seliger-swenson samantha,"Minnetonka, Minn. (Hopkins HS)",N/A,"Minnetonka, Minn. (Hopkins HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),womens volleyball,minnesota
+13,zeimann alice,"Christchurch, New Zealand (Burnside HS)",N/A,"Christchurch, New Zealand (Burnside HS)",Last Name,Hometown (Last School),N/A,Hometown (Last School),womens volleyball,minnesota
+0,aldrich luke,"Amherst, Mass. (Amherst Regional HS)","Amherst, Mass. (Amherst Regional HS)","Amherst, Mass. (Amherst Regional HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+1,bergman ryan,"Lakeville, Minn. (Lakeville North HS)","Lakeville, Minn. (Lakeville North HS)","Lakeville, Minn. (Lakeville North HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+2,dee colton,"Nampa, Idaho (Skyview High School)","Nampa, Idaho (Skyview High School)","Nampa, Idaho (Skyview High School)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+3,duran tristan,"Franklin Lakes, N.J. (Bergen Catholic HS)","Franklin Lakes, N.J. (Bergen Catholic HS)","Franklin Lakes, N.J. (Bergen Catholic HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+4,gagnon joel,"Regina, Sask. (Holy Cross HS)","Regina, Sask. (Holy Cross HS)","Regina, Sask. (Holy Cross HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+5,harris michael,"West Allis, Wis. (Nathan Hale HS)","West Allis, Wis. (Nathan Hale HS)","West Allis, Wis. (Nathan Hale HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+6,herzog shaun,"Manchester, Conn. (Manchester HS)","Manchester, Conn. (Manchester HS)","Manchester, Conn. (Manchester HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+7,johnson russell,"Indianapolis, Ind. (Perry Meridian High School)","Indianapolis, Ind. (Perry Meridian High School)","Indianapolis, Ind. (Perry Meridian High School)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+8,kan vitali,"West Allis, Wis. (Nathan Hale HS)","West Allis, Wis. (Nathan Hale HS)","West Allis, Wis. (Nathan Hale HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+9,karstadt justin,"Toronto, Ont. (Silverthorn Collegiate Institute HS)","Toronto, Ont. (Silverthorn Collegiate Institute HS)","Toronto, Ont. (Silverthorn Collegiate Institute HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+10,kramer jack,"Charlotte, N.C. (Ardrey Kell HS)","Charlotte, N.C. (Ardrey Kell HS)","Charlotte, N.C. (Ardrey Kell HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+11,kutyla timmy,"Wyckoff, NJ (Ramapo HS)","Wyckoff, NJ (Ramapo HS)","Wyckoff, NJ (Ramapo HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+12,meeker henry,"Minneapolis, Minn. (Southwest High School)","Minneapolis, Minn. (Southwest High School)","Minneapolis, Minn. (Southwest High School)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+13,pochinka yaroslav,"Plano, Texas (Plano Senior High School)","Plano, Texas (Plano Senior High School)","Plano, Texas (Plano Senior High School)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+14,poganski jordan,"Woodbury, Minn. (Woodbury HS)","Woodbury, Minn. (Woodbury HS)","Woodbury, Minn. (Woodbury HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+15,stephens jalon,"Shreveport, La (Southwood HS)","Shreveport, La (Southwood HS)","Shreveport, La (Southwood HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+16,wangler ryan,"Savage, Minn. (Prior Lake HS)","Savage, Minn. (Prior Lake HS)","Savage, Minn. (Prior Lake HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+17,winkel ben,"Afton, Minn. (Stillwater Area HS)","Afton, Minn. (Stillwater Area HS)","Afton, Minn. (Stillwater Area HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+18,wiskus shane,"Spring Park, Minn. (Mound Westonka High School)","Spring Park, Minn. (Mound Westonka High School)","Spring Park, Minn. (Mound Westonka High School)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+19,wittenberg alex,"Buffalo, N.Y. (Kenmore West HS)","Buffalo, N.Y. (Kenmore West HS)","Buffalo, N.Y. (Kenmore West HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+20,yallamraju shashank,"Apple Valley, Minn. (Eastview HS)","Apple Valley, Minn. (Eastview HS)","Apple Valley, Minn. (Eastview HS)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens gymnastics,minnesota
+0,betts casey,"Chandler, Ariz. (Corona del Sol HS)",N/A,"Chandler, Ariz. (Corona del Sol HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+1,cutler rachel,"Grand Rapids, Mich. (Northview HS)",N/A,"Grand Rapids, Mich. (Northview HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+2,demuse abby,"Savage, Minn. (Academy of Holy Angels)",N/A,"Savage, Minn. (Academy of Holy Angels)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+3,gardner ciara,"Frisco, Texas (Liberty HS)",N/A,"Frisco, Texas (Liberty HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+4,hitchcock hannah,"San Ramon, Calif. (California HS)",N/A,"San Ramon, Calif. (California HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+5,huebert julia,"Overland Park, KS (Blue Valley West HS)",N/A,"Overland Park, KS (Blue Valley West HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+6,korlin-downs mary,"Lake Elmo, Minn. (Stillwater Area HS)",N/A,"Lake Elmo, Minn. (Stillwater Area HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+7,loper ona,"Bluffton, S.C. (May River High School)",N/A,"Bluffton, S.C. (May River High School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+8,lu ivy,"Montreal, Quebec (Antoine-de-Saint-Exupery)",N/A,"Montreal, Quebec (Antoine-de-Saint-Exupery)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+9,montgomery lexi,"The Colony, Texas (The Colony High School)",N/A,"The Colony, Texas (The Colony High School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+10,quaglia kristen,"Chanhassen, Minn. (Minnetonka HS)",N/A,"Chanhassen, Minn. (Minnetonka HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+11,ramler lexy,"St. Michael, Minn. (Winona High School)",N/A,"St. Michael, Minn. (Winona High School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+12,rowland rachel,"Parker, Colo. (Ponderosa HS)",N/A,"Parker, Colo. (Ponderosa HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+13,taylor becca,"Corcoran, Minn. (Homeschool)",N/A,"Corcoran, Minn. (Homeschool)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+14,ung selena,"Oakdale, Minn. (Tartan HS)",N/A,"Oakdale, Minn. (Tartan HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+15,williams paige,"Wylie, Texas (Wylie HS)",N/A,"Wylie, Texas (Wylie HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens gymnastics,minnesota
+0,bristedt leon,"Stockholm, Sweden","Stockholm, Sweden","Stockholm, Sweden",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+1,gates jr. brent,"Grand Rapids, Mich.","Grand Rapids, Mich.","Grand Rapids, Mich.",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+2,glover jack,"Golden Valley, Minn. (Benilde-St. Margaret's)","Golden Valley, Minn. (Benilde-St. Margaret's)","Golden Valley, Minn. (Benilde-St. Margaret's)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+3,hurley connor,"Edina, Minn. (Edina High School)","Edina, Minn. (Edina High School)","Edina, Minn. (Edina High School)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+4,johnson steve,"Excelsior, Minn. (Minnetonka)","Excelsior, Minn. (Minnetonka)","Excelsior, Minn. (Minnetonka)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+5,kautz brock,"Rochester, Minn. (Rochester Century)","Rochester, Minn. (Rochester Century)","Rochester, Minn. (Rochester Century)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+6,lehr nick,"Roseville, Minn. (Roseville)","Roseville, Minn. (Roseville)","Roseville, Minn. (Roseville)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+7,lindgren ryan,"Minneapolis, Minn. (Shattuck-St. Mary's)","Minneapolis, Minn. (Shattuck-St. Mary's)","Minneapolis, Minn. (Shattuck-St. Mary's)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+8,marooney joey,"Chaska, Minn. (Holy Family Catholic)","Chaska, Minn. (Holy Family Catholic)","Chaska, Minn. (Holy Family Catholic)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+9,mcmanus brannon,"Newport Beach, Calif. (Shattuck-St. Mary's)","Newport Beach, Calif. (Shattuck-St. Mary's)","Newport Beach, Calif. (Shattuck-St. Mary's)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+10,mittelstadt casey,"Eden Prairie, Minn. (Eden Prairie)","Eden Prairie, Minn. (Eden Prairie)","Eden Prairie, Minn. (Eden Prairie)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+11,munson cullen,"Edina, Minn. (Edina)","Edina, Minn. (Edina)","Edina, Minn. (Edina)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+12,nanne tyler,"Edina, Minn. (Edina)","Edina, Minn. (Edina)","Edina, Minn. (Edina)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+13,norman ryan,"Maplewood, Minn. (Shattuck-St. Mary's)","Maplewood, Minn. (Shattuck-St. Mary's)","Maplewood, Minn. (Shattuck-St. Mary's)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+14,notermann luke,"Blaine, Minn. (Blaine)","Blaine, Minn. (Blaine)","Blaine, Minn. (Blaine)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+15,novak tommy,"River Falls, Wis. (St. Thomas Academy)","River Falls, Wis. (St. Thomas Academy)","River Falls, Wis. (St. Thomas Academy)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+16,phillips clayton,"Edina, Minn. (Edina)","Edina, Minn. (Edina)","Edina, Minn. (Edina)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+17,pitlick rem,"Plymouth, Minn. (Shattuck-St. Mary's)","Plymouth, Minn. (Shattuck-St. Mary's)","Plymouth, Minn. (Shattuck-St. Mary's)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+18,ramsey jack,"Chanhassen, Minn. (Minnetonka)","Chanhassen, Minn. (Minnetonka)","Chanhassen, Minn. (Minnetonka)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+19,reedy scott,"Prior Lake, Minn. (Shattuck-St. Mary's)","Prior Lake, Minn. (Shattuck-St. Mary's)","Prior Lake, Minn. (Shattuck-St. Mary's)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+20,robson mat,"Mississauga, Ont.","Mississauga, Ont.","Mississauga, Ont.",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+21,romanko darian,"Shoreview, Minn. (Mounds View)","Shoreview, Minn. (Mounds View)","Shoreview, Minn. (Mounds View)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+22,rossini sam,"Burnsville, Minn. (Burnsville)","Burnsville, Minn. (Burnsville)","Burnsville, Minn. (Burnsville)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+23,sadek jack,"Lakeville, Minn. (Lakeville North)","Lakeville, Minn. (Lakeville North)","Lakeville, Minn. (Lakeville North)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+24,schierhorn eric,"Anchorage, Alaska (Shattuck-St. Mary's)","Anchorage, Alaska (Shattuck-St. Mary's)","Anchorage, Alaska (Shattuck-St. Mary's)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+25,sheehy tyler,"Burnsville, Minn. (Burnsville)","Burnsville, Minn. (Burnsville)","Burnsville, Minn. (Burnsville)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+26,szmatula mike,"Commerce Township, Mich. (St. Mary's Prep (Mich.))","Commerce Township, Mich. (St. Mary's Prep (Mich.))","Commerce Township, Mich. (St. Mary's Prep (Mich.))",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+27,zuhlsdorf ryan,"Edina, Minn. (Edina)","Edina, Minn. (Edina)","Edina, Minn. (Edina)",Last Name,Hometown (High School),Hometown (High School),Hometown (High School),mens hockey,minnesota
+0,agnew lindsay,"Oakville, Ontario (King's Christian Collegiate)",N/A,"Oakville, Ontario (King's Christian Collegiate)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+1,baldwin sydney,"Minnetonka, Minn. (Minnetonka HS)",N/A,"Minnetonka, Minn. (Minnetonka HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+2,brown emily,"Blaine, Minn. (Blaine HS)",N/A,"Blaine, Minn. (Blaine HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+3,d'angelo serena,"Stoney Creek, Ontario (Blyth Academy)",N/A,"Stoney Creek, Ontario (Blyth Academy)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+4,gulstene alex,"Vancouver, B.C. (Penticton Secondary)",N/A,"Vancouver, B.C. (Penticton Secondary)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+5,gunderson tianna,"Roseau, Minn. (Roseau HS)",N/A,"Roseau, Minn. (Roseau HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+6,keller kippin,"Minnetonka, Minn. (Minnetonka HS)",N/A,"Minnetonka, Minn. (Minnetonka HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+7,knowles olivia,"Campbell River, B.C. (Penticton Secondary)",N/A,"Campbell River, B.C. (Penticton Secondary)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+8,marshall patti,"Thief River Falls, Minn. (Shattuck-St.Mary's)",N/A,"Thief River Falls, Minn. (Shattuck-St.Mary's)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+9,may emma,"Eagan, Minn. (Cretin-Derham Hall)",N/A,"Eagan, Minn. (Cretin-Derham Hall)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+10,pannek kelly,"Plymouth, Minn. (Benilde-St. Margaret's HS)",N/A,"Plymouth, Minn. (Benilde-St. Margaret's HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+11,peters sidney,"Geneva, Ill. (North American Hockey Academy)",N/A,"Geneva, Ill. (North American Hockey Academy)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+12,piazza cara,"Darien, Ill. (Downers Grove South HS)",N/A,"Darien, Ill. (Downers Grove South HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+13,pieper jackie,"Edina, Minn. (Edina HS)",N/A,"Edina, Minn. (Edina HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+14,potomak amy,"Aldergrove, B.C. (George Elliot Secondary)",N/A,"Aldergrove, B.C. (George Elliot Secondary)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+15,potomak sarah,"Aldergrove, B.C. (George Elliot Secondary)",N/A,"Aldergrove, B.C. (George Elliot Secondary)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+16,reilly caitlin,"Chanhassen, Minn. (Benilde-St. Margaret's HS)",N/A,"Chanhassen, Minn. (Benilde-St. Margaret's HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+17,robinson katie,"Kasson, Minn. (Kasson-Mantorville HS)",N/A,"Kasson, Minn. (Kasson-Mantorville HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+18,schammel nicole,"Red Wing, Minn. (Red Wing HS)",N/A,"Red Wing, Minn. (Red Wing HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+19,skarzynski sophie,"Lake Forest, Ill. (Loyola Academy)",N/A,"Lake Forest, Ill. (Loyola Academy)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+20,smith sierra,"Stillwater, Minn. (Stillwater Area HS)",N/A,"Stillwater, Minn. (Stillwater Area HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+21,wente taylor,"Plymouth, Minn. (Maple Grove HS)",N/A,"Plymouth, Minn. (Maple Grove HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+22,williamson taylor,"Edina, Minn. (Edina HS)",N/A,"Edina, Minn. (Edina HS)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+23,woken alex,"Fargo, N.D. (Shattuck-St. Mary's)",N/A,"Fargo, N.D. (Shattuck-St. Mary's)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota
+24,zumwinkle grace,"Excelsior, Minn. (Breck School)",N/A,"Excelsior, Minn. (Breck School)",Last Name,Hometown (Prev School),N/A,Hometown (Prev School),womens hockey,minnesota

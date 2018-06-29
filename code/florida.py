@@ -15,12 +15,9 @@ outdir = '../output'
 
 
 ##### florida #################
-full_df = pd.DataFrame()
 school = 'florida'
 url_template = 'http://floridagators.com/roster.aspx?path={sporturl}'
-tableid_template = 'ctl00_cplhMainContent_dgrdRoster'
 
-# bring in sports dictionary (sports: empty list)
 sports_dict = lookups.get_sports_dict()
 # sport_id: [sporturl, sport_table]
 sports_dict['baseball'] = ['baseball']
@@ -49,31 +46,15 @@ for (key, value) in sports_dict.copy().items():
 	if value == []:
 		del sports_dict[key]
 
-# change table names where necessary
+# change list number if not first ul of given classname on page
 for (key, value) in sports_dict.items():
-	if key in ['mens cross country', 'mens track']:
-		value.append(tableid_template + "_M")
-	elif key in ['womens cross country', 'womens track']:
-		value.append(tableid_template + "_F")
+	if key in []:
+		value.append(2)
 	else:
-		value.append(tableid_template)
+		value.append(1)
 
-# collect roster for each sport
-find_cols = ['name', 'hometown']
-
-for (sport_id, sport_info) in sports_dict.items():
-	sporturl = sport_info[0]
-	table_id = sport_info[1]
-	url = url_template.format(sporturl=sporturl)
-
-	table = proj.get_table(url, table_id)
-	print(sport_id + '\n')
-	roster = proj.select_cols(table, find_cols)
-
-	x = pd.DataFrame(roster, columns = find_cols)
-	x['sport'] = sport_id
-	x['school'] = school
-	full_df = full_df.append(x)
-
+# loop through sports collecting rosters
+rosters = proj.gather_rosters_ul(sports_dict, url_template)
+rosters['college'] = school
 csvname = school + '_rosters.csv'
-full_df.to_csv(os.path.join(outdir, csvname))
+rosters.to_csv(os.path.join(outdir, csvname))

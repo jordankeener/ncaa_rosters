@@ -1,474 +1,463 @@
-,name,hometown,sport,school
-0,Trent Frazier,"Wellington, Fla.",mens basketball,illinois
-1,Kipper Nichols,"Cleveland, Ohio",mens basketball,illinois
-2,Te'Jon Lucas,"Milwaukee, Wis.",mens basketball,illinois
-3,Matic Vesel,"Ljubljana, Slovenia",mens basketball,illinois
-4,Drew Cayce,"Libertyville, Ill.",mens basketball,illinois
-5,Greg Eboigbodin,"Benin City, Nigeria",mens basketball,illinois
-6,Leron Black,"Memphis, Tenn.",mens basketball,illinois
-7,Mark Smith,"Edwardsville, Ill.",mens basketball,illinois
-8,Da'Monte Williams,"Peoria, Ill.",mens basketball,illinois
-9,Aaron Jordan,"Plainfield, Ill.",mens basketball,illinois
-10,Mark Alstork,"Dayton, Ohio",mens basketball,illinois
-11,Tyler Underwood,"Champaign, Ill.",mens basketball,illinois
-12,Samson Oladimeji,"Rolling Meadows, Ill.",mens basketball,illinois
-13,Clayton Jones,"Champaign, Ill.",mens basketball,illinois
-14,Michael Finke,"Champaign, Ill.",mens basketball,illinois
-15,Cameron Liss,"Northbrook, Ill.",mens basketball,illinois
-0,Brandi Beasley,"Memphis, Tenn.",womens basketball,illinois
-1,Lyric Robins,"Plano, Texas",womens basketball,illinois
-2,Alli Ball,"St. Louis, Missouri",womens basketball,illinois
-3,Cierra Rice,"Grosse Pointe, Mich.",womens basketball,illinois
-4,Cydnee Kinslow,"Oakley, Calif.",womens basketball,illinois
-5,Petra Holešínská,"Vracov, Czech Republic",womens basketball,illinois
-6,Addaya Moore,"Granite City, Ill.",womens basketball,illinois
-7,Nancy Panagiotopoulou Andritsopoulou,"Athens, Greece",womens basketball,illinois
-8,Jaelyne Kirkpatrick,"Oakville, Ontario",womens basketball,illinois
-9,Jnaya Walker,"Bolingbrook, Ill.",womens basketball,illinois
-10,Kennedy Cattenhead,"Bolingbrook, Ill.",womens basketball,illinois
-11,Courtney Joens,"Iowa City, Iowa",womens basketball,illinois
-12,Meagan McNicholas,"Rochester, Ill.",womens basketball,illinois
-13,Alex Wittinger,"Delano, Minn.",womens basketball,illinois
-14,Ali Andrews,"Lake in the Hills, Ill.",womens basketball,illinois
-0,Jimmy Burnette,"Chicago, Ill.",baseball,illinois
-1,Jack Yalowitz,"Chicago, Ill.",baseball,illinois
-2,Ben Troike,"Tinley Park, Ill.",baseball,illinois
-3,Michael Massey,"Palos Park, Ill.",baseball,illinois
-4,Ty Weber,"Menomonee Falls, Wis.",baseball,illinois
-5,Ryan Haff,"Oakbrook, Ill.",baseball,illinois
-6,Bren Spillane,"Wheeling, Ill.",baseball,illinois
-7,Michael Michalak,"Rochester, Minn.",baseball,illinois
-8,Ryan Schmitt,"Hartland, Wis.",baseball,illinois
-9,David Craan,"Chicago, Ill.",baseball,illinois
-10,Luke Shilling,"Clarkston, Mich.",baseball,illinois
-11,Jeremiah Lebron,"Bolingbrook, Ill.",baseball,illinois
-12,Kellen Sarver,"Champaign, Ill.",baseball,illinois
-13,Ryan Kutt,"Orland Park, Ill.",baseball,illinois
-14,Doran Turchin,"Oak Creek, Wis.",baseball,illinois
-15,Zak Devermann,"Oswego, Ill.",baseball,illinois
-16,Cyrillo Watson,"Cudahy, Wis.",baseball,illinois
-17,Tyler Engel,"Ipava, Ill.",baseball,illinois
-18,Mark Skonieczny,"Algonquin, Ill.",baseball,illinois
-19,Grant Van Scoy,"Papillion, Neb.",baseball,illinois
-20,Andrew Dyke,"Alsip, Ill.",baseball,illinois
-21,Jackson Douglas,"Rochester, Minn.",baseball,illinois
-22,Casey Dodge,"Barrington, Ill.",baseball,illinois
-23,Jeff Korte,"Melbourne, Fla.",baseball,illinois
-24,Quinn Snarskis,"Chicago, Ill.",baseball,illinois
-25,Zack Jones,"Downers Grove, Ill.",baseball,illinois
-26,Joey Gerber,"Maple Grove, Minn.",baseball,illinois
-27,Zac Taylor,"Downers Grove, Ill.",baseball,illinois
-28,Andy Fisher,"Bowling Green, Ohio",baseball,illinois
-29,Sean Leland,"Orland Park, Ill.",baseball,illinois
-30,Quinten Sefcik,"Wauconda, Ill.",baseball,illinois
-31,Ryan Thompson,"Byron, Minn.",baseball,illinois
-0,Reggie Corbin,"Upper Marlboro, Md.",football,illinois
-1,Jakari Norwood,"Deerfield Beach, Fla.",football,illinois
-2,Del'Shawn Phillips,"Highland Park, Mich.",football,illinois
-3,Ricky Smalling,"Chicago, Ill.",football,illinois
-4,Bennett Williams,"Campbell, Calif.",football,illinois
-5,Verdis Brown,"Chicago, Ill.",football,illinois
-6,Carmoni Green,"Miami, Fla.",football,illinois
-7,Tony Adams,"Belleville, Ill.",football,illinois
-8,Shaedon Meadors,"Duncan, S.C.",football,illinois
-9,Stanley Green,"East St. Louis, Ill.",football,illinois
-10,Nate Hobbs,"Louisville, Ky.",football,illinois
-11,Dele Harding,"Elkton, Md.",football,illinois
-12,Sam Mays,"Missouri City, Texas",football,illinois
-13,James Knight,"East St. Louis, Ill.",football,illinois
-14,Cam Thomas,"Chicago Heights, Ill.",football,illinois
-15,Charlie Reinkemeyer,"Lake Forest, Ill.",football,illinois
-16,Caleb Reams,"Gurnee, Ill.",football,illinois
-17,Blake Hayes,"Melbourne, Australia",football,illinois
-18,Trenard Davis,"Boynton Beach, Fla.",football,illinois
-19,Cam Miller,"Evergreen Park, Ill.",football,illinois
-20,James McCourt,"Parkland, Fla.",football,illinois
-21,Kendall Smith,"Bolingbrook, Ill.",football,illinois
-22,Mike Dudek,"Naperville, Ill.",football,illinois
-23,Louis Dorsey,"Jacksonville, Fla.",football,illinois
-24,Nick Walker,"St. Louis, Mo.",football,illinois
-25,Ra'Von Bonner,"Cincinnati, Ohio",football,illinois
-26,Kyle Keuch,"Frankfort, Ill.",football,illinois
-27,Dawson DeGroot,"Fort Myers, Fla.",football,illinois
-28,Dre Brown,"DeKalb, Ill.",football,illinois
-29,Mike Epstein,"Ft. Lauderdale, Fla.",football,illinois
-30,Evan Jones,"Atlanta, Ga.",football,illinois
-31,Nolan Bernat,"Bartlett, Ill.",football,illinois
-32,Christian Bobak,"Hinsdale, Ill.",football,illinois
-33,Cameron Watkins,"Nashville, Tenn.",football,illinois
-34,Justice Williams,"Frisco, Texas",football,illinois
-35,PC Daniel II,"Bradenton, Fla.",football,illinois
-36,Jake Hansen,"Tarpon Springs, Fla.",football,illinois
-37,Austin Roberts,"Rice Lake, Wis.",football,illinois
-38,Zac Holman,"Cronulla, Australia",football,illinois
-39,Jimmy Marchese,"Vernon Hills, Ill.",football,illinois
-40,Michael Marchese,"Vernon Hills, Ill.",football,illinois
-41,Chase McLaughlin,"Cypress, Texas",football,illinois
-42,Drew Murtaugh,"Crystal Lake, Ill.",football,illinois
-43,Alec McEachern,"Plainfield, Ill.",football,illinois
-44,Kevin Hinders,"Champaign, Ill.",football,illinois
-45,Sean Coghlan,"Chicago, Ill.",football,illinois
-46,Ayo Shogbonyo,"Arlington, Texas",football,illinois
-47,Adam Solomon,"Indianapolis, Ind.",football,illinois
-48,Nick Allegretti,"Frankfort, Ill.",football,illinois
-49,Kendrick Green,"Peoria, Ill.",football,illinois
-50,Marc Mondesir,"Chicago, Ill.",football,illinois
-51,Jamal Milan,"Chicago, Ill.",football,illinois
-52,Ethan Tabel,"Barrington, Ill.",football,illinois
-53,Sean Mills,"Metuchen, N.J.",football,illinois
-54,Alex Palczewski,"Mount Prospect, Ill.",football,illinois
-55,Doug Kramer,"Hinsdale, Ill.",football,illinois
-56,Jake Stover,"Chicago, Ill.",football,illinois
-57,Reuben Unije,"Bradenton, Fla.",football,illinois
-58,Zeke Martin,"Medina, Ohio",football,illinois
-59,Jake Cerny,"Traverse City, Mich.",football,illinois
-60,Andrew Trainer,"Alexandria, Va.",football,illinois
-61,Kurt Gavin,"Mokena, Ill.",football,illinois
-62,Larry Boyd,"St. Louis, Mo.",football,illinois
-63,Vederian Lowe,"Rockford, Ill.",football,illinois
-64,Keith Jones,"Chicago, Ill.",football,illinois
-65,Griffin Palmer,"St. Charles, Mo.",football,illinois
-66,Bobby Walker,"Golf, Ill.",football,illinois
-67,Jordan Roberts,"Chicago, Ill.",football,illinois
-68,Brandon Jones,"Columbia, Mo.",football,illinois
-69,Alex Pihlstrom,"Glen Ellyn, Ill.",football,illinois
-70,Lere Oladipo,"Huntley, Ill.",football,illinois
-71,Jamal Woods,"Hueytown, Ala.",football,illinois
-72,Isaiah Gay,"Nashville, N.C.",football,illinois
-73,Kenyon Jackson,"Little Rock, Ark.",football,illinois
-74,Tymir Oliver,"Sharon Hill, Pa.",football,illinois
-75,Bobby Roundtree,"Largo, Fla.",football,illinois
-76,Deon Pate,"Jacksonville, Fla.",football,illinois
-77,Owen Carney Jr.,"Miami, Fla.",football,illinois
-0,Sami Sample,"South Elgin, Ill.",womens soccer,illinois
-1,Elizabeth Cablk,"Naperville, Ill.",womens soccer,illinois
-2,Katherine Ratz,"Zionsville, Ind.",womens soccer,illinois
-3,Alicia Barker,"Woodinville, Wash.",womens soccer,illinois
-4,Sarah Warren,"Willowbrook, Ill.",womens soccer,illinois
-5,Madi Wolfbauer,"Canton, Mich.",womens soccer,illinois
-6,Katie Le,"Centreville, Va.",womens soccer,illinois
-7,Sabryn Kapp,"LaGrange, Ky.",womens soccer,illinois
-8,Caroline Ratz,"Zionsville, Ind.",womens soccer,illinois
-9,Lauren Ciesla,"Naperville, Ill.",womens soccer,illinois
-10,Hope Breslin,"Massapequa, N.Y.",womens soccer,illinois
-11,Patricia George,"Chicago, Ill.",womens soccer,illinois
-12,Gabbi Chapa,"Colorado Springs, Colo.",womens soccer,illinois
-13,Haley Singer,"Naperville, Ill.",womens soccer,illinois
-14,Kelly Maday,"Wilmette, Ill.",womens soccer,illinois
-15,Emily Osoba,"Orland Park, Ill.",womens soccer,illinois
-16,Morgan Maroney,"Castle Rock, Colo.",womens soccer,illinois
-17,Jayna Fittipaldo,"McDonald, Pa.",womens soccer,illinois
-18,Kara Marbury,"Spokane, Wash.",womens soccer,illinois
-19,Lexi Carrier,"Cincinnati, Ohio",womens soccer,illinois
-20,Olivia Schmitt,"Naperville, Ill.",womens soccer,illinois
-21,Arianna Veland,"Elkhorn, Neb.",womens soccer,illinois
-22,Lauren Smitherman,"Oklahoma City, Okla.",womens soccer,illinois
-23,Darci Dietrich,"Geneseo, Ill.",womens soccer,illinois
-24,Katie Murray,"Cincinnati, Ohio",womens soccer,illinois
-25,Maggie Hillman,"Naperville, Ill.",womens soccer,illinois
-26,Taylor Haynes,"Rowlett, Texas",womens soccer,illinois
-27,Jaelyn Cunningham,"Reynoldsburg, Ohio",womens soccer,illinois
-0,Luke Brahm,"Indianapolis, Ind.",mens cross country,illinois
-1,Joe Cowlin,"Crystal Lake, Ill.",mens cross country,illinois
-2,Zach Dale,"Elk Grove, Ill.",mens cross country,illinois
-3,Jon Davis,"Fithian, Ill.",mens cross country,illinois
-4,Alex Gold,"Deerfield, Ill.",mens cross country,illinois
-5,Brayden Hamblen,"Rock Falls, Ill.",mens cross country,illinois
-6,Caleb Hummer,"Danville, Ill.",mens cross country,illinois
-7,Alex Keeble,"Mahomet, Ill.",mens cross country,illinois
-8,Jack LaLonde,"Downers Grove, Ill.",mens cross country,illinois
-9,Dan Lathrop,"Plainfield, Ill.",mens cross country,illinois
-10,Garrett Lee,"Belvidere, Ill.",mens cross country,illinois
-11,Irwin Loud,"Oak Park, Ill.",mens cross country,illinois
-12,Billy Magnesen,"Hinsdale, Ill.",mens cross country,illinois
-13,Denis O'Callaghan,"Orland Park, Ill.",mens cross country,illinois
-14,Jesse Reiser,"McHenry, Ill.",mens cross country,illinois
-15,Luke Schroer,"Wheaton, Ill.",mens cross country,illinois
-16,Zack Smith,"Downers Grove, Ill.",mens cross country,illinois
-0,Delaney Appino,"Rockford, Ill.",womens cross country,illinois
-1,Alana Austin,"Naperville, Ill.",womens cross country,illinois
-2,Denise Branch,"Brooklyn, N.Y.",womens cross country,illinois
-3,Madeline Bruce,"Marion, Ill.",womens cross country,illinois
-4,Kelli Callahan,"Palos Heights, Ill.",womens cross country,illinois
-5,Nicki Cast,"Aurora, Ill.",womens cross country,illinois
-6,Nicole Choquette,"Urbana, Ill.",womens cross country,illinois
-7,Rebecca Craddock,"Brunswick, OH",womens cross country,illinois
-8,Caroline Fix,"Winnetka, Ill.",womens cross country,illinois
-9,Vanessa Flaherty,"LaGrange, Ill.",womens cross country,illinois
-10,Nadia Kacmar,"St. Charles, Ill.",womens cross country,illinois
-11,Kristina Kladar,"Rockton, Ill.",womens cross country,illinois
-12,Diane Lipa,"Glen Ellyn, Ill.",womens cross country,illinois
-13,Mikaela Lucki,"Etobicoke, Ontario",womens cross country,illinois
-14,Sarah Madsen,"Elmhurst, Ill.",womens cross country,illinois
-15,Miranda Marry,"Paxton, Ill.",womens cross country,illinois
-16,Allison McGrath,"Wheaton, Ill.",womens cross country,illinois
-17,Grace Rogers,"Glen Ellyn, Ill.",womens cross country,illinois
-18,Morgan Schulz,"Cary, Ill.",womens cross country,illinois
-19,Katie Stapleton,"Downers Grove, Ill.",womens cross country,illinois
-0,Bryan Baumgarten,"Granite Bay, Calif. / Granite Bay",mens golf,illinois
-1,Varun Chopra,"Champaign, Ill. / Urbana Uni High",mens golf,illinois
-2,Michael Feagles,"Scottsdale, Ariz. / Brophy College Prep",mens golf,illinois
-3,Nick Hardy,"Northbrook, Ill. / Glenbrook  North",mens golf,illinois
-4,Dylan Meyer,"Evansville, Ind. / Evansville Central",mens golf,illinois
-5,Brendan O'Reilly,"Hinsdale, Ill. / Hinsdale Central",mens golf,illinois
-6,Giovanni Tadiotto,"Anderlecht, Belgium / College Du Christ Roi",mens golf,illinois
-0,Dana Gattone,"Addison, Ill. / Saint Viator",womens golf,illinois
-1,Ali Morallos,"Long Beach, Calif. / Woodrow Wilson Classical",womens golf,illinois
-2,Tristyn Nowlin,"Richmond, Ky. / Madison Central",womens golf,illinois
-3,Grace Park,"San Jose, Calif. / Cupertino",womens golf,illinois
-4,Chayanid Prapassarangkul,"Bangkok, Thailand / Shrewsbury International",womens golf,illinois
-5,Pailin Ruttanasupagid,"San Diego, Calif. / Torrey Pines",womens golf,illinois
-6,Bing Singhsumalee,"Naperville, Ill. / Waubonsie Valley",womens golf,illinois
-0,Ashley Aegerter,"Cross Plains, Wis.",womens swimming,illinois
-1,Kristin Anderson,"Palatine, Ill.",womens swimming,illinois
-2,Emma Burns,"Milford, Pa.",womens swimming,illinois
-3,Nelly Casas,"Oswego, Ill.",womens swimming,illinois
-4,Raquel Corniuk,"Huntington Beach, Calif.",womens swimming,illinois
-5,Rebecca Corzine,"O'Fallon, Ill.",womens swimming,illinois
-6,Adelaide Curry,"Oak Park, Ill.",womens swimming,illinois
-7,Emma Curtis,"Grand Blanc, Mich.",womens swimming,illinois
-8,Rebecca Eckblad,"Grand Blanc, Mich.",womens swimming,illinois
-9,Natalie Edwards,"O'Fallon, Ill.",womens swimming,illinois
-10,Erin Emme,"La Habra, Calif.",womens swimming,illinois
-11,Mary Margaret Fry,"Cincinnati, Ohio",womens swimming,illinois
-12,Monica Guyett,"St. Charles, Ill.",womens swimming,illinois
-13,Molly Hein,"Hartland, Wisc.",womens swimming,illinois
-14,Kaitlyn Joyce,"Darien, Ill.",womens swimming,illinois
-15,Jamie Kolar,"Lincolnwood, Ill.",womens swimming,illinois
-16,Kathryn Kosinski,"Friendswood, Texas",womens swimming,illinois
-17,Ling Kuhn,"Bloomington, Ill.",womens swimming,illinois
-18,Lauren LaPeter,"St. Petersburg, Fla.",womens swimming,illinois
-19,Autumn Ledgin,"Boca Raton, Fla.",womens swimming,illinois
-20,Emily Martin,"Mason City, Ill.",womens swimming,illinois
-21,Jimena Martinez,"Mexico City, Mexico",womens swimming,illinois
-22,Michelle McCord,"Canton, Ga.",womens swimming,illinois
-23,Fiona McDermott,"Palos, Ill.",womens swimming,illinois
-24,Sascha Meyers,"Dearborn, Mich.",womens swimming,illinois
-25,Haley Nelson,"Lake Forest, Ill.",womens swimming,illinois
-26,Aby Olson,"Loves Park, Ill.",womens swimming,illinois
-27,Gabriele Serniute,"Vilnius, Lithuania",womens swimming,illinois
-28,Samantha Stratford,"Cambridge, Ontario, Canada",womens swimming,illinois
-29,Megan Vuong,"Mississauga, Ontario, Canada",womens swimming,illinois
-30,Morgan Young,"Wheaton, Ill.",womens swimming,illinois
-0,Alex Brown,"Urbandale, Iowa",mens tennis,illinois
-1,Vuk Budic,"Chicago, Ill.",mens tennis,illinois
-2,Caleb Chakravarthi,"Irvine, Calif.",mens tennis,illinois
-3,Zeke Clark,"Tulsa, Okla.",mens tennis,illinois
-4,Gui Gomes,"Newport Beach, Calif.",mens tennis,illinois
-5,Aron Hiltzik,"Wilmette, Ill.",mens tennis,illinois
-6,Pengxuan Jiang,"Tian Jin, China",mens tennis,illinois
-7,Noe Khlif,"Marseille, France",mens tennis,illinois
-8,Aleks Kovacevic,"New York City, N.Y.",mens tennis,illinois
-9,Pablo Landa,"Dallas, Texas",mens tennis,illinois
-10,Fletcher Scott,"Lawrence, Kan.",mens tennis,illinois
-11,Aleks Vukic,"Sydney, Australia",mens tennis,illinois
-0,Sasha Belaya,"Melbourne, Fla. / Viera High School",womens tennis,illinois
-1,Emilee Duong,"Placentia, Calif. / Valencia High School",womens tennis,illinois
-2,Jade Hilton,"Mississauga, Ontario / Lorne Park Secondary School",womens tennis,illinois
-3,Asuka Kawai,"Palatine, Ill. / Palatine High School",womens tennis,illinois
-4,Daniela Pedraza Novak,"Bogota, Colombia / IMG Academy",womens tennis,illinois
-5,Mia Rabinowitz,"Tenafly, N.J. / Laurel Springs School",womens tennis,illinois
-6,Jaclyn Switkes,"Ponte Vedra Beach, Fla. / St. Johns County Virtual School",womens tennis,illinois
-7,Grace Tapak,"Hinsdale, Ill. / Hinsdale Central",womens tennis,illinois
-8,Ines Vias,"Germantown, Md. / Bullis School",womens tennis,illinois
-0,Ayo Abiona,"Orland Park, Ill.",mens track,illinois
-1,Noah Adams,"Macon, Ill.",mens track,illinois
-2,Kenneth Allen,"Hazel Crest, Ill.",mens track,illinois
-3,Ben Barnes,"Elburn, Ill.",mens track,illinois
-4,Luke Brahm,"Indianapolis, Ind.",mens track,illinois
-5,Matt Burns,"Lombard, Ill.",mens track,illinois
-6,Jordan Cagigal,"Aurora, Ill.",mens track,illinois
-7,Joe Cowlin,"Crystal Lake, Ill.",mens track,illinois
-8,Zach Dale,"Elk Grove, Ill.",mens track,illinois
-9,Jon Davis,"Fithian, Ill.",mens track,illinois
-10,Parker Deloye,"Lincolnshire, Ill.",mens track,illinois
-11,Matsen Dziedzic,"Libertyville, Ill.",mens track,illinois
-12,Josh Eiker,"Galesburg, Ill.",mens track,illinois
-13,Konrad Eiring,"Barrington, Ill.",mens track,illinois
-14,Alex Gold,"Deerfield, Ill.",mens track,illinois
-15,Curtis Gordon,"Vandalia, Ill.",mens track,illinois
-16,Joe Haight,"Lake Forest, Ill.",mens track,illinois
-17,Brayden Hamblen,"Rock Falls, Ill.",mens track,illinois
-18,Aaron Harris,"Lisle, Ill.",mens track,illinois
-19,Cole Henderson,"Pekin, Ill.",mens track,illinois
-20,Caleb Hummer,"Danville, Ill.",mens track,illinois
-21,Michael Hyc,"Chicago, Ill.",mens track,illinois
-22,Cooper Jazo,"Lake Villa, Ill.",mens track,illinois
-23,Alex Keeble,"Mahomet, Ill.",mens track,illinois
-24,David Kendziera,"Mount Prospect, Ill.",mens track,illinois
-25,Trevor Kuehr,"Lake Zurich, Ill.",mens track,illinois
-26,Jack LaLonde,"Downers Grove, Ill.",mens track,illinois
-27,Jacob LaRocca,"Palatine, Ill.",mens track,illinois
-28,Dan Lathrop,"Plainfield, Ill.",mens track,illinois
-29,Garrett Lee,"Belvidere, Ill.",mens track,illinois
-30,Irwin Loud,"Oak Park, Ill.",mens track,illinois
-31,Mo Maat,"Memphis, Tenn.",mens track,illinois
-32,Billy Magnesen,"Hinsdale, Ill.",mens track,illinois
-33,Billy Matzek,"Mt. Prospect, Ill.",mens track,illinois
-34,Isaiah Michl,"St. Louis, Mo.",mens track,illinois
-35,Denis O'Callaghan,"Orland Park, Ill.",mens track,illinois
-36,David Oluyadi,"Chicago, Ill.",mens track,illinois
-37,Devin Quinn,"Punta Gorda, FL",mens track,illinois
-38,Jesse Reiser,"McHenry, Ill.",mens track,illinois
-39,Thomas Saggau,"LaGrange, Ill.",mens track,illinois
-40,Luke Schroer,"Wheaton, Ill.",mens track,illinois
-41,Jason Shannon,"Wheeling, Ill.",mens track,illinois
-42,Vince Shields,"Mt. Prospect, Ill.",mens track,illinois
-43,Zack Smith,"Downers Grove, Ill.",mens track,illinois
-44,Eddie Smoliak,"Highland Park, Ill.",mens track,illinois
-45,Jonathan Wells,"Fox Lake, Ill.",mens track,illinois
-46,Doug Wilson,"Rock Island, Ill.",mens track,illinois
-47,Tony Zea,"Downers Grove, Ill.",mens track,illinois
-0,Amira Aduma,"Hampton, Va.",womens track,illinois
-1,Delaney Appino,"Rockford, Ill.",womens track,illinois
-2,Alana Austin,"Naperville, Ill.",womens track,illinois
-3,Ololade Ayoola,"Frankfort, Ill.",womens track,illinois
-4,Jasmine Berry,"Belleville, Ill.",womens track,illinois
-5,Denise Branch,"Brooklyn, N.Y.",womens track,illinois
-6,Madeline Bruce,"Marion, Ill.",womens track,illinois
-7,Kelli Callahan,"Palos Heights, Ill.",womens track,illinois
-8,Nicki Cast,"Aurora, Ill.",womens track,illinois
-9,Nicole Cho,"Skokie, Ill.",womens track,illinois
-10,Nicole Choquette,"Urbana, Ill.",womens track,illinois
-11,Rebecca Craddock,"Brunswick, OH",womens track,illinois
-12,Emone' Davis,"Danville, Ill.",womens track,illinois
-13,Briana Driver,"Chicago, Ill.",womens track,illinois
-14,Caroline Fix,"Winnetka, Ill.",womens track,illinois
-15,Vanessa Flaherty,"LaGrange, Ill.",womens track,illinois
-16,Sade Hargrove,"Richmond, Va.",womens track,illinois
-17,Kay Hylton,"Tinley Park, Ill.",womens track,illinois
-18,Alexis Jones,"Smyrna, Ga.",womens track,illinois
-19,Brenda Kendziera,"Mount Prospect, Ill.",womens track,illinois
-20,Kristina Kladar,"Rockton, Ill.",womens track,illinois
-21,Diane Lipa,"Glen Ellyn, Ill.",womens track,illinois
-22,Mikaela Lucki,"Etobicoke, Ontario",womens track,illinois
-23,Sarah Madsen,"Elmhurst, Ill.",womens track,illinois
-24,Miranda Marry,"Paxton, Ill.",womens track,illinois
-25,Jade' Mayes,"Chicago, Ill.",womens track,illinois
-26,Tarynn Mays,"DuQuoin, Ill.",womens track,illinois
-27,Allison McGrath,"Wheaton, Ill.",womens track,illinois
-28,Sara McKeeman,"Fort Wayne, Ind.",womens track,illinois
-29,Alyssa Morello,"Lake Zurich, Ill.",womens track,illinois
-30,Chisom Nwoko,"Oak Park, Ill.",womens track,illinois
-31,Carolyn Nye,"Medina, Minn.",womens track,illinois
-32,Felicia Phillips,"Germantown, Tenn.",womens track,illinois
-33,Grace Rogers,"Glen Ellyn, Ill.",womens track,illinois
-34,Janile Rogers,"Joliet, Ill.",womens track,illinois
-35,Morgan Schulz,"Cary, Ill.",womens track,illinois
-36,Maya Seay,"Norfolk, Va.",womens track,illinois
-37,Kristin Slaughter,"Effingham, Ill.",womens track,illinois
-38,Kortni Smyers-Jones,"Oakland, Calif.",womens track,illinois
-39,Katie Stapleton,"Downers Grove, Ill.",womens track,illinois
-40,Jayla Stewart,"Olympia Fields, Ill.",womens track,illinois
-41,Katie Witte,"Sidell, Ill.",womens track,illinois
-42,Wynda Wormack,"Dolton, Ill.",womens track,illinois
-0,Abdullah Assaf,"Homer Glen, Ill. / Lockport Township",wrestling,illinois
-1,Eric Barone,"Crystal Lake, Ill. / Crystal Lake South",wrestling,illinois
-2,Brian Burns,"Frankfort, Ill. / Lincoln-Way East",wrestling,illinois
-3,Mike Carr,"South Fayette, Pa. / South Fayette",wrestling,illinois
-4,Josh Contreras,"Brooksfield, Ill. / Riverside-Brookfield",wrestling,illinois
-5,Dylan Duncan,"Lombard, Ill. / Montini Catholic",wrestling,illinois
-6,Francis Edelen,"Oak Forest, Ill. / Oak Forest HS",wrestling,illinois
-7,Nick Gasbarro,"Chicago Heights, Ill. / Marist HS",wrestling,illinois
-8,Carver James,"Rock City, Ill. / Dakota HS",wrestling,illinois
-9,Mousa Jodeh,"Chicago, Ill. / Oak Forest",wrestling,illinois
-10,Wesley Kibler,"St. Joseph, Ill. / St. Joseph-Ogden",wrestling,illinois
-11,Kyle Langenderfer,"Mokena, Ill. / Lincoln Way East",wrestling,illinois
-12,Andre Lee,"Maywood, Ill. / Oak Park River Forest",wrestling,illinois
-13,Isaiah Martinez,"Lemoore, Calif. / Lemoore",wrestling,illinois
-14,Tim McCarthy,"Chicago, Ill. / St. Rita of Cascia",wrestling,illinois
-15,Johnny Mologousis,"LaGrange, Ill. / Lyons Township",wrestling,illinois
-16,Xavier Montalvo,"Wood Dale, Ill. / Montini Catholic",wrestling,illinois
-17,Nikita Nepomnyashchiy,"Lincolnshire, Ill. / Stevenson",wrestling,illinois
-18,Andy O'Brien,"Chicago, Ill. / Marist / Indiana",wrestling,illinois
-19,Emery Parker,"Wadsworth, Ill. / Warren Township",wrestling,illinois
-20,Travis Piotrowski,"Crystal Lake, Ill. / Prairie Ridge",wrestling,illinois
-21,Ryder Punke,"Eureka, Ill. / Washington",wrestling,illinois
-22,Deuce Rachal,"Chicago, Ill. / Lindblom Academy",wrestling,illinois
-23,Isaac Reinemann,"Lincolnwood, Ill. / Niles West",wrestling,illinois
-24,David Riojas,"Plainfield, Ill. / Mt. Carmel",wrestling,illinois
-25,David Rivera-Kohr,"Evanston, Ill. / Evanston Township",wrestling,illinois
-26,Jake Silzer,"Chicago, Ill. / St. Rita of Cascia",wrestling,illinois
-27,Demarius Smith,"Rantoul, Ill. / Rantoul",wrestling,illinois
-28,Jack Stein,"Mason, Ohio / Mason",wrestling,illinois
-29,Dylan Thurston,"Wheaton, Ill. / Washington",wrestling,illinois
-30,Matt Wroblewski,"Mt. Prospect, Ill. / Prospect",wrestling,illinois
-0,Veronica Ruelius,"Marengo, Ill.",softball,illinois
-1,Danielle Brochu,"Lucas, Texas",softball,illinois
-2,Valerie Frank,"Summerville, S.C.",softball,illinois
-3,Alexis Carrillo,"Lakewood, Calif.",softball,illinois
-4,Akilah Mouzon,"Newark, N.J.",softball,illinois
-5,Erin Walker,"Tuscola, Ill.",softball,illinois
-6,Kiana Sherlund,"Fairfax, Va.",softball,illinois
-7,Rhein Trochim,"Waco, Texas",softball,illinois
-8,Emily Oestreich,"Napa, Calif.",softball,illinois
-9,Shelby Stauffenberg,"Kankakee, Ill.",softball,illinois
-10,Serenity Stewart,"Woodbridge, VA.",softball,illinois
-11,Taylor Edwards,"Arcola, Ill.",softball,illinois
-12,Katie Gallagher,"Chicago, Ill.",softball,illinois
-13,Maddi Doane,"Bolingbrook, Ill.",softball,illinois
-14,Rowan McGuire,"Downer's Grove, Ill.",softball,illinois
-15,Bella Loya,"Mission Viejo, Calif.",softball,illinois
-16,Leigh Farina,"Rolling Meadows, Ill.",softball,illinois
-17,Maddison Demers,"League City, Texas",softball,illinois
-18,Carly Thomas,"Fontana, Calif.",softball,illinois
-19,Sam Acosta,"Hoffman Estates, Ill.",softball,illinois
-20,Siena Sandoval,"Upland, Calif.",softball,illinois
-21,Jill Nicklas,"McKinney, Texas",softball,illinois
-22,Stephanie Abello,"Batavia, Ill.",softball,illinois
-23,Kate Giddens,"Milledgeville, Ga.",softball,illinois
-24,Hanna Nilsen,"Trabuco Canyon, Calif.",softball,illinois
-25,Annie Fleming,"Chillicothe, Ill.",softball,illinois
-0,Jordyn Poulter,"Aurora, Colo.",womens volleyball,illinois
-1,Kylie Bruder,"Fort Lauderdale, Fla.",womens volleyball,illinois
-2,Ali Bastianelli,"Marysville, Mich.",womens volleyball,illinois
-3,Jacqueline Quade,"Fort Wayne, Ind.",womens volleyball,illinois
-4,Beth Prince,"Avon, Ind.",womens volleyball,illinois
-5,Emmaline Walters,"Huntington Beach, Calif.",womens volleyball,illinois
-6,Emily Hollowell,"Little Elm, Texas",womens volleyball,illinois
-7,Megan Cooney,"Topeka, Kan.",womens volleyball,illinois
-8,Morgan O'Brien,"Libertyville, Ill.",womens volleyball,illinois
-9,Blayke Hranicka,"Denver, Colo.",womens volleyball,illinois
-10,Lexie Smith,"Lucas, Texas",womens volleyball,illinois
-11,Caroline Welsh,"Marietta, Ga.",womens volleyball,illinois
-0,Joel Diaz,"Cypress, Texas",mens gymnastics,illinois
-1,Blake Martin,"Columbus, Ohio",mens gymnastics,illinois
-2,Zach Treadway,"Norman, Okla.",mens gymnastics,illinois
-3,Jacob Light,"Macungie, Pa.",mens gymnastics,illinois
-4,Ross Thompson,"Kansas City, Mo.",mens gymnastics,illinois
-5,Harry McLellan,"Wyckoff, N.J.",mens gymnastics,illinois
-6,Dennis Minton,"Gahanna, Ohio",mens gymnastics,illinois
-7,Tyson Bull,"The Basin, Victoria, Australia",mens gymnastics,illinois
-8,Johnny Jacobson,"Syracuse, Utah",mens gymnastics,illinois
-9,Tommy Mistretta,"Easton, Pa.",mens gymnastics,illinois
-10,Connor Jones,"Haymarket, Va.",mens gymnastics,illinois
-11,Andreas Silbermann,"Chandler, Ariz.",mens gymnastics,illinois
-12,Danny Graham,"Clarendon Hills, Ill.",mens gymnastics,illinois
-13,Bobby Baker,"Lemont, Ill.",mens gymnastics,illinois
-14,Chandler Eggleston,"Jamestown, N.C.",mens gymnastics,illinois
-15,Justin Jepsen,"Pleasant Grove, Utah",mens gymnastics,illinois
-16,Sebastian Quiana,"Oradell, N.J.",mens gymnastics,illinois
-17,Alex Diab,"Glen Ellyn, Ill.",mens gymnastics,illinois
-18,Brandon Ngai,"Sacramento, Calif.",mens gymnastics,illinois
-19,Max Diab,"Glen Ellyn, Ill.",mens gymnastics,illinois
-20,Michael Paradise,"Bartlett, Ill.",mens gymnastics,illinois
-21,Jordan Kovach,,mens gymnastics,illinois
-22,Cobey Pava,"Chicago, Ill.",mens gymnastics,illinois
-23,Clay Mason Stephens,"Adelaide, Australia",mens gymnastics,illinois
-0,Rae Balthazor,"Boulder, Colo.",womens gymnastics,illinois
-1,Nicole Biondi,"Townsend, Mass.",womens gymnastics,illinois
-2,Rachael Donovan,"Bethlehem, Pa.",womens gymnastics,illinois
-3,Lindsay Dwyer,"Glen Cove, N.Y.",womens gymnastics,illinois
-4,Jordyn Givens,"Keller, Texas",womens gymnastics,illinois
-5,Grace Gough,"Indianapolis, Ind.",womens gymnastics,illinois
-6,Bridget Hodan,"Brookfield, Wis.",womens gymnastics,illinois
-7,Mary Jane Horth,"Akron, Ohio",womens gymnastics,illinois
-8,Karen Howell,"Sterling Heights, Mich.",womens gymnastics,illinois
-9,Julia Hutcherson,"Canton, Ga.",womens gymnastics,illinois
-10,Brittany Jones,"Scottsdale, Ariz.",womens gymnastics,illinois
-11,Sarah Lyons,"New Braunfels, Texas",womens gymnastics,illinois
-12,Kasey Meeks,"Shawnee, Kan.",womens gymnastics,illinois
-13,Kylie Noonan,"Vadnais Heights, Minn.",womens gymnastics,illinois
-14,Tessa Phillips,"Lagrange, Ohio",womens gymnastics,illinois
-15,Haylee Roe,"Mesquite, Texas",womens gymnastics,illinois
-16,Jaylen Spence,"Suwanee, Ga.",womens gymnastics,illinois
+,name,hometown,high school,school,name text,hometown text,high school text,school text,sport,college
+0,Alan Griffin,"Oak Park, Ill. / Ossining, N.Y.",N/A,Archbishop Stepinac (N.Y.),Name,Hometown,N/A,Previous School,mens basketball,illinois
+1,Trent Frazier,"Wellington, Fla.",N/A,Wellington,Name,Hometown,N/A,Previous School,mens basketball,illinois
+2,Kipper Nichols,"Cleveland, Ohio",N/A,St. Edward,Name,Hometown,N/A,Previous School,mens basketball,illinois
+3,Drew Cayce,"Libertyville, Ill.",N/A,Creighton,Name,Hometown,N/A,Previous School,mens basketball,illinois
+4,Tevian Jones,"Chandler, Ariz. / Culver City, Calif.",N/A,Culver City,Name,Hometown,N/A,Previous School,mens basketball,illinois
+5,Andres Feliz,"Guachupita, Dominican Republic",N/A,Northwest Florida State,Name,Hometown,N/A,Previous School,mens basketball,illinois
+6,Ayo Dosunmu,"Chicago, Ill.",N/A,Morgan Park,Name,Hometown,N/A,Previous School,mens basketball,illinois
+7,Giorgi Bezhanishvili,"Rustavi, Georgia / Vienna, Austria",N/A,The Patrick School (N.J.),Name,Hometown,N/A,Previous School,mens basketball,illinois
+8,Da'Monte Williams,"Peoria, Ill.",N/A,Manual,Name,Hometown,N/A,Previous School,mens basketball,illinois
+9,Aaron Jordan,"Plainfield, Ill.",N/A,East,Name,Hometown,N/A,Previous School,mens basketball,illinois
+10,Tyler Underwood,"Champaign, Ill.",N/A,Oklahoma State,Name,Hometown,N/A,Previous School,mens basketball,illinois
+11,Samba Kane,"Dakar, Senegal",N/A,Florida Prep Academy,Name,Hometown,N/A,Previous School,mens basketball,illinois
+12,Samson Oladimeji,"Rolling Meadows, Ill.",N/A,Fremd,Name,Hometown,N/A,Previous School,mens basketball,illinois
+0,J-Naya Ephraim,"St. Croix, U.S. Virgin Islands",Southern Durham High School,Southern Durham High School,Name,Hometown,High School,High School,womens basketball,illinois
+1,Brandi Beasley,"Memphis, Tenn.",Ridgeway,Ridgeway,Name,Hometown,High School,High School,womens basketball,illinois
+2,Lyric Robins,"Plano, Texas",Plano West,Plano West,Name,Hometown,High School,High School,womens basketball,illinois
+3,Arieal Scott,"Urbana, Illinois",Urbana High School,Urbana High School,Name,Hometown,High School,High School,womens basketball,illinois
+4,Mackenzie Blazek,"Franklin, Indiana",Whiteland Community High School,Whiteland Community High School,Name,Hometown,High School,High School,womens basketball,illinois
+5,Cierra Rice,"Grosse Pointe, Mich.",Grosse Pointe South,Grosse Pointe South,Name,Hometown,High School,High School,womens basketball,illinois
+6,Carolyn Waleski,"Frankfort, Illinois",Lincoln-Way East,Lincoln-Way East,Name,Hometown,High School,High School,womens basketball,illinois
+7,Petra Holešínská,"Vracov, Czech Republic",Sportovni Gzmnazium Ludvika Danka,Sportovni Gzmnazium Ludvika Danka,Name,Hometown,High School,High School,womens basketball,illinois
+8,Nancy Panagiotopoulou Andritsopoulou,"Athens, Greece",American Community Schools of Athens,American Community Schools of Athens,Name,Hometown,High School,High School,womens basketball,illinois
+9,Jaelyne Kirkpatrick,"Oakville, Ontario",St. Ignatius of Loyola,St. Ignatius of Loyola,Name,Hometown,High School,High School,womens basketball,illinois
+10,Courtney Joens,"Iowa City, Iowa",City High,City High,Name,Hometown,High School,High School,womens basketball,illinois
+11,Sarah Shewan,"Russell, Ontario",St. Thomas Aquinas Catholic,St. Thomas Aquinas Catholic,Name,Hometown,High School,High School,womens basketball,illinois
+12,Meagan McNicholas,"Rochester, Ill.",Rochester,Rochester,Name,Hometown,High School,High School,womens basketball,illinois
+13,Alex Wittinger,"Delano, Minn.",Delano,Delano,Name,Hometown,High School,High School,womens basketball,illinois
+14,Ali Andrews,"Lake in the Hills, Ill.",Huntley,Huntley,Name,Hometown,High School,High School,womens basketball,illinois
+0,Jimmy Burnette,"Chicago, Ill.",St. Laurence,St. Laurence,Name,Hometown,High School,High School,baseball,illinois
+1,Jack Yalowitz,"Chicago, Ill.",Loyola Academy,Loyola Academy,Name,Hometown,High School,High School,baseball,illinois
+2,Ben Troike,"Tinley Park, Ill.",Lincoln-Way North,Lincoln-Way North,Name,Hometown,High School,High School,baseball,illinois
+3,Michael Massey,"Palos Park, Ill.",Brother Rice,Brother Rice,Name,Hometown,High School,High School,baseball,illinois
+4,Ty Weber,"Menomonee Falls, Wis.",Menomonee Falls,Menomonee Falls,Name,Hometown,High School,High School,baseball,illinois
+5,Ryan Haff,"Oakbrook, Ill.",Hinsdale Central,Hinsdale Central,Name,Hometown,High School,High School,baseball,illinois
+6,Bren Spillane,"Wheeling, Ill.",Wheeling,Wheeling,Name,Hometown,High School,High School,baseball,illinois
+7,Michael Michalak,"Rochester, Minn.",Mayo,Mayo,Name,Hometown,High School,High School,baseball,illinois
+8,Ryan Schmitt,"Hartland, Wis.",Arrowhead,Arrowhead,Name,Hometown,High School,High School,baseball,illinois
+9,David Craan,"Chicago, Ill.",Whitney Young,Whitney Young,Name,Hometown,High School,High School,baseball,illinois
+10,Luke Shilling,"Clarkston, Mich.",Notre Dame Prep,Notre Dame Prep,Name,Hometown,High School,High School,baseball,illinois
+11,Jeremiah Lebron,"Bolingbrook, Ill.",Bolingbrook,Bolingbrook,Name,Hometown,High School,High School,baseball,illinois
+12,Kellen Sarver,"Champaign, Ill.",Centennial,Centennial,Name,Hometown,High School,High School,baseball,illinois
+13,Ryan Kutt,"Orland Park, Ill.",Brother Rice,Brother Rice,Name,Hometown,High School,High School,baseball,illinois
+14,Doran Turchin,"Oak Creek, Wis.",Oak Creek,Oak Creek,Name,Hometown,High School,High School,baseball,illinois
+15,Zak Devermann,"Oswego, Ill.",Oswego East,Oswego East,Name,Hometown,High School,High School,baseball,illinois
+16,Cyrillo Watson,"Cudahy, Wis.",South Milwaukee,South Milwaukee,Name,Hometown,High School,High School,baseball,illinois
+17,Tyler Engel,"Ipava, Ill.",VIT,VIT,Name,Hometown,High School,High School,baseball,illinois
+18,Mark Skonieczny,"Algonquin, Ill.",Huntley,Huntley,Name,Hometown,High School,High School,baseball,illinois
+19,Grant Van Scoy,"Papillion, Neb.",LaVista,LaVista,Name,Hometown,High School,High School,baseball,illinois
+20,Andrew Dyke,"Alsip, Ill.",Brother Rice,Brother Rice,Name,Hometown,High School,High School,baseball,illinois
+21,Jackson Douglas,"Rochester, Minn.",Mayo,Mayo,Name,Hometown,High School,High School,baseball,illinois
+22,Casey Dodge,"Barrington, Ill.",Barrington,Barrington,Name,Hometown,High School,High School,baseball,illinois
+23,Jeff Korte,"Melbourne, Fla.",Melbourne,Melbourne,Name,Hometown,High School,High School,baseball,illinois
+24,Quinn Snarskis,"Chicago, Ill.",Fenwick,Fenwick,Name,Hometown,High School,High School,baseball,illinois
+25,Zack Jones,"Downers Grove, Ill.",Downers Grove South,Downers Grove South,Name,Hometown,High School,High School,baseball,illinois
+26,Joey Gerber,"Maple Grove, Minn.",Wayzata,Wayzata,Name,Hometown,High School,High School,baseball,illinois
+27,Zac Taylor,"Downers Grove, Ill.",Downers Grove South,Downers Grove South,Name,Hometown,High School,High School,baseball,illinois
+28,Andy Fisher,"Bowling Green, Ohio",Bowling Green,Bowling Green,Name,Hometown,High School,High School,baseball,illinois
+29,Sean Leland,"Orland Park, Ill.",Carl Sandburg,Carl Sandburg,Name,Hometown,High School,High School,baseball,illinois
+30,Quinten Sefcik,"Wauconda, Ill.",Carmel Catholic,Carmel Catholic,Name,Hometown,High School,High School,baseball,illinois
+31,Ryan Thompson,"Byron, Minn.",Byron,Byron,Name,Hometown,High School,High School,baseball,illinois
+0,Reggie Corbin,"Upper Marlboro, Md.",Gonzaga College HS,Gonzaga College HS,Name,Hometown,High School,High School,football,illinois
+1,Jakari Norwood,"Deerfield Beach, Fla.",Deerfield Beach,Deerfield Beach,Name,Hometown,High School,High School,football,illinois
+2,Del'Shawn Phillips,"Highland Park, Mich.",Cass Tech,Cass Tech,Name,Hometown,High School,High School,football,illinois
+3,Ricky Smalling,"Chicago, Ill.",Brother Rice,Brother Rice,Name,Hometown,High School,High School,football,illinois
+4,Bennett Williams,"Campbell, Calif.",St. Francis,St. Francis,Name,Hometown,High School,High School,football,illinois
+5,Verdis Brown,"Chicago, Ill.",IMG Academy (Fla.),IMG Academy (Fla.),Name,Hometown,High School,High School,football,illinois
+6,Carmoni Green,"Miami, Fla.",Miami Central,Miami Central,Name,Hometown,High School,High School,football,illinois
+7,Tony Adams,"Belleville, Ill.",St. Louis University HS,St. Louis University HS,Name,Hometown,High School,High School,football,illinois
+8,Shaedon Meadors,"Duncan, S.C.",Byrnes,Byrnes,Name,Hometown,High School,High School,football,illinois
+9,Stanley Green,"East St. Louis, Ill.",East St. Louis Senior,East St. Louis Senior,Name,Hometown,High School,High School,football,illinois
+10,Nate Hobbs,"Louisville, Ky.",Louisville Male,Louisville Male,Name,Hometown,High School,High School,football,illinois
+11,Dele Harding,"Elkton, Md.",Eastern Christian,Eastern Christian,Name,Hometown,High School,High School,football,illinois
+12,Sam Mays,"Missouri City, Texas",The Kinkaid School,The Kinkaid School,Name,Hometown,High School,High School,football,illinois
+13,James Knight,"East St. Louis, Ill.",East St. Louis,East St. Louis,Name,Hometown,High School,High School,football,illinois
+14,Cam Thomas,"Chicago Heights, Ill.",Marian Catholic,Marian Catholic,Name,Hometown,High School,High School,football,illinois
+15,Caleb Reams,"Gurnee, Ill.",Warren Township,Warren Township,Name,Hometown,High School,High School,football,illinois
+16,Blake Hayes,"Melbourne, Australia",Brighton,Brighton,Name,Hometown,High School,High School,football,illinois
+17,Trenard Davis,"Boynton Beach, Fla.",American Heritage School,American Heritage School,Name,Hometown,High School,High School,football,illinois
+18,Cam Miller,"Evergreen Park, Ill.",Brother Rice,Brother Rice,Name,Hometown,High School,High School,football,illinois
+19,James McCourt,"Parkland, Fla.",St. Thomas Aquinas,St. Thomas Aquinas,Name,Hometown,High School,High School,football,illinois
+20,Kendall Smith,"Bolingbrook, Ill.",Bolingbrook,Bolingbrook,Name,Hometown,High School,High School,football,illinois
+21,Mike Dudek,"Naperville, Ill.",Neuqua Valley,Neuqua Valley,Name,Hometown,High School,High School,football,illinois
+22,Louis Dorsey,"Jacksonville, Fla.",Jean Ribault,Jean Ribault,Name,Hometown,High School,High School,football,illinois
+23,Nick Walker,"St. Louis, Mo.",Miller Career Academy (Mo.),Miller Career Academy (Mo.),Name,Hometown,High School,High School,football,illinois
+24,Ra'Von Bonner,"Cincinnati, Ohio",Sycamore,Sycamore,Name,Hometown,High School,High School,football,illinois
+25,Dawson DeGroot,"Fort Myers, Fla.",Fort Myers,Fort Myers,Name,Hometown,High School,High School,football,illinois
+26,Dre Brown,"DeKalb, Ill.",DeKalb,DeKalb,Name,Hometown,High School,High School,football,illinois
+27,Mike Epstein,"Ft. Lauderdale, Fla.",St. Thomas Aquinas,St. Thomas Aquinas,Name,Hometown,High School,High School,football,illinois
+28,Evan Jones,"Atlanta, Ga.",Salem,Salem,Name,Hometown,High School,High School,football,illinois
+29,Nolan Bernat,"Bartlett, Ill.",Bartlett HS,Bartlett HS,Name,Hometown,High School,High School,football,illinois
+30,Christian Bobak,"Hinsdale, Ill.",Hinsdale Central,Hinsdale Central,Name,Hometown,High School,High School,football,illinois
+31,Cameron Watkins,"Nashville, Tenn.",Pearl-Cohn,Pearl-Cohn,Name,Hometown,High School,High School,football,illinois
+32,Justice Williams,"Frisco, Texas",Wakeland,Wakeland,Name,Hometown,High School,High School,football,illinois
+33,PC Daniel II,"Bradenton, Fla.",IMG Academy,IMG Academy,Name,Hometown,High School,High School,football,illinois
+34,Jake Hansen,"Tarpon Springs, Fla.",East Lake,East Lake,Name,Hometown,High School,High School,football,illinois
+35,Austin Roberts,"Rice Lake, Wis.",Rice Lake,Rice Lake,Name,Hometown,High School,High School,football,illinois
+36,Zac Holman,"Cronulla, Australia",De La Salle Cronulla,De La Salle Cronulla,Name,Hometown,High School,High School,football,illinois
+37,Jimmy Marchese,"Vernon Hills, Ill.",Stevenson,Stevenson,Name,Hometown,High School,High School,football,illinois
+38,Michael Marchese,"Vernon Hills, Ill.",Stevenson,Stevenson,Name,Hometown,High School,High School,football,illinois
+39,Chase McLaughlin,"Cypress, Texas",Cypress Woods,Cypress Woods,Name,Hometown,High School,High School,football,illinois
+40,Drew Murtaugh,"Crystal Lake, Ill.",Crystal Lake South,Crystal Lake South,Name,Hometown,High School,High School,football,illinois
+41,Alec McEachern,"Plainfield, Ill.",Benet Academy,Benet Academy,Name,Hometown,High School,High School,football,illinois
+42,Sean Coghlan,"Chicago, Ill.",St. Rita,St. Rita,Name,Hometown,High School,High School,football,illinois
+43,Ayo Shogbonyo,"Arlington, Texas",Mansfield Summitt,Mansfield Summitt,Name,Hometown,High School,High School,football,illinois
+44,Adam Solomon,"Indianapolis, Ind.",Bishop Chatard,Bishop Chatard,Name,Hometown,High School,High School,football,illinois
+45,Nick Allegretti,"Frankfort, Ill.",Lincoln-Way East,Lincoln-Way East,Name,Hometown,High School,High School,football,illinois
+46,Kendrick Green,"Peoria, Ill.",Peoria,Peoria,Name,Hometown,High School,High School,football,illinois
+47,Marc Mondesir,"Chicago, Ill.",St. Rita,St. Rita,Name,Hometown,High School,High School,football,illinois
+48,Jamal Milan,"Chicago, Ill.",Al Raby,Al Raby,Name,Hometown,High School,High School,football,illinois
+49,Ethan Tabel,"Barrington, Ill.",Barrington,Barrington,Name,Hometown,High School,High School,football,illinois
+50,Alex Palczewski,"Mount Prospect, Ill.",Prospect,Prospect,Name,Hometown,High School,High School,football,illinois
+51,Doug Kramer,"Hinsdale, Ill.",Hinsdale Central,Hinsdale Central,Name,Hometown,High School,High School,football,illinois
+52,Jake Stover,"Chicago, Ill.",St. Rita,St. Rita,Name,Hometown,High School,High School,football,illinois
+53,Reuben Unije,"Bradenton, Fla.",IMG Academy,IMG Academy,Name,Hometown,High School,High School,football,illinois
+54,Zeke Martin,"Medina, Ohio",Medina,Medina,Name,Hometown,High School,High School,football,illinois
+55,Jake Cerny,"Traverse City, Mich.",Traverse  City West,Traverse  City West,Name,Hometown,High School,High School,football,illinois
+56,Andrew Trainer,"Alexandria, Va.",St. Stephen's and St. Agnes School,St. Stephen's and St. Agnes School,Name,Hometown,High School,High School,football,illinois
+57,Kurt Gavin,"Mokena, Ill.",Lincoln-Way East,Lincoln-Way East,Name,Hometown,High School,High School,football,illinois
+58,Larry Boyd,"St. Louis, Mo.",Trinity Catholic,Trinity Catholic,Name,Hometown,High School,High School,football,illinois
+59,Vederian Lowe,"Rockford, Ill.",Auburn,Auburn,Name,Hometown,High School,High School,football,illinois
+60,Griffin Palmer,"St. Charles, Mo.",De Smet Jesuit,De Smet Jesuit,Name,Hometown,High School,High School,football,illinois
+61,Bobby Walker,"Golf, Ill.",Loyola Academy,Loyola Academy,Name,Hometown,High School,High School,football,illinois
+62,Brandon Jones,"Columbia, Mo.",Hickman,Hickman,Name,Hometown,High School,High School,football,illinois
+63,Alex Pihlstrom,"Glen Ellyn, Ill.",Glenbard West,Glenbard West,Name,Hometown,High School,High School,football,illinois
+64,Lere Oladipo,"Huntley, Ill.",Huntley,Huntley,Name,Hometown,High School,High School,football,illinois
+65,Jamal Woods,"Hueytown, Ala.",Hueytown,Hueytown,Name,Hometown,High School,High School,football,illinois
+66,Isaiah Gay,"Nashville, N.C.",Northern Nash,Northern Nash,Name,Hometown,High School,High School,football,illinois
+67,Kenyon Jackson,"Little Rock, Ark.",Parkview Arts & Science Magnet,Parkview Arts & Science Magnet,Name,Hometown,High School,High School,football,illinois
+68,Tymir Oliver,"Sharon Hill, Pa.",West Philadelphia Catholic,West Philadelphia Catholic,Name,Hometown,High School,High School,football,illinois
+69,Bobby Roundtree,"Largo, Fla.",Largo,Largo,Name,Hometown,High School,High School,football,illinois
+70,Deon Pate,"Jacksonville, Fla.",Trinity Christian Academy,Trinity Christian Academy,Name,Hometown,High School,High School,football,illinois
+71,Owen Carney Jr.,"Miami, Fla.",Miami Central,Miami Central,Name,Hometown,High School,High School,football,illinois
+0,Sami Sample,"South Elgin, Ill.",N/A,St. Charles North,Name,Hometown,N/A,Last School,womens soccer,illinois
+1,Elizabeth Cablk,"Naperville, Ill.",N/A,Naperville North,Name,Hometown,N/A,Last School,womens soccer,illinois
+2,Katherine Ratz,"Zionsville, Ind.",N/A,Zionsville Community,Name,Hometown,N/A,Last School,womens soccer,illinois
+3,Alicia Barker,"Woodinville, Wash.",N/A,Inglemoor,Name,Hometown,N/A,Last School,womens soccer,illinois
+4,Sarah Warren,"Willowbrook, Ill.",N/A,Hinsdale South,Name,Hometown,N/A,Last School,womens soccer,illinois
+5,Madi Wolfbauer,"Canton, Mich.",N/A,Canton,Name,Hometown,N/A,Last School,womens soccer,illinois
+6,Katie Le,"Centreville, Va.",N/A,Centreville,Name,Hometown,N/A,Last School,womens soccer,illinois
+7,Sabryn Kapp,"LaGrange, Ky.",N/A,Oldham County,Name,Hometown,N/A,Last School,womens soccer,illinois
+8,Caroline Ratz,"Zionsville, Ind.",N/A,Zionsville Community,Name,Hometown,N/A,Last School,womens soccer,illinois
+9,Lauren Ciesla,"Naperville, Ill.",N/A,Neuqua Valley,Name,Hometown,N/A,Last School,womens soccer,illinois
+10,Hope Breslin,"Massapequa, N.Y.",N/A,Massapequa,Name,Hometown,N/A,Last School,womens soccer,illinois
+11,Patricia George,"Chicago, Ill.",N/A,Friedrich Von Steuben Metropolitan Science Center,Name,Hometown,N/A,Last School,womens soccer,illinois
+12,Gabbi Chapa,"Colorado Springs, Colo.",N/A,Doherty,Name,Hometown,N/A,Last School,womens soccer,illinois
+13,Haley Singer,"Naperville, Ill.",N/A,Neuqua Valley,Name,Hometown,N/A,Last School,womens soccer,illinois
+14,Kelly Maday,"Wilmette, Ill.",N/A,New Trier,Name,Hometown,N/A,Last School,womens soccer,illinois
+15,Emily Osoba,"Orland Park, Ill.",N/A,Carl Sandburg,Name,Hometown,N/A,Last School,womens soccer,illinois
+16,Morgan Maroney,"Castle Rock, Colo.",N/A,Castle View,Name,Hometown,N/A,Last School,womens soccer,illinois
+17,Jayna Fittipaldo,"McDonald, Pa.",N/A,South Fayette,Name,Hometown,N/A,Last School,womens soccer,illinois
+18,Kara Marbury,"Spokane, Wash.",N/A,Mead Senior High,Name,Hometown,N/A,Last School,womens soccer,illinois
+19,Lexi Carrier,"Cincinnati, Ohio",N/A,Indian Hill,Name,Hometown,N/A,Last School,womens soccer,illinois
+20,Olivia Schmitt,"Naperville, Ill.",N/A,Neuqua Valley,Name,Hometown,N/A,Last School,womens soccer,illinois
+21,Arianna Veland,"Elkhorn, Neb.",N/A,Elkhorn South,Name,Hometown,N/A,Last School,womens soccer,illinois
+22,Lauren Smitherman,"Oklahoma City, Okla.",N/A,Heritage Hall,Name,Hometown,N/A,Last School,womens soccer,illinois
+23,Darci Dietrich,"Geneseo, Ill.",N/A,Geneseo,Name,Hometown,N/A,Last School,womens soccer,illinois
+24,Katie Murray,"Cincinnati, Ohio",N/A,Oak Hills,Name,Hometown,N/A,Last School,womens soccer,illinois
+25,Maggie Hillman,"Naperville, Ill.",N/A,Naperville Central,Name,Hometown,N/A,Last School,womens soccer,illinois
+26,Taylor Haynes,"Rowlett, Texas",N/A,Bishop Lynch,Name,Hometown,N/A,Last School,womens soccer,illinois
+27,Jaelyn Cunningham,"Reynoldsburg, Ohio",N/A,Pickerington Central,Name,Hometown,N/A,Last School,womens soccer,illinois
+0,Luke Brahm,"Indianapolis, Ind.",Princeton University,Princeton University,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+1,Joe Cowlin,"Crystal Lake, Ill.",Prairie Ridge,Prairie Ridge,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+2,Zach Dale,"Elk Grove, Ill.",James B. Conant,James B. Conant,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+3,Jon Davis,"Fithian, Ill.",Oakwood,Oakwood,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+4,Alex Gold,"Deerfield, Ill.",Deerfield,Deerfield,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+5,Brayden Hamblen,"Rock Falls, Ill.",Rock Falls,Rock Falls,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+6,Caleb Hummer,"Danville, Ill.",Danville,Danville,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+7,Alex Keeble,"Mahomet, Ill.",Mahomet Seymour,Mahomet Seymour,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+8,Jack LaLonde,"Downers Grove, Ill.",Downers Grove South,Downers Grove South,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+9,Dan Lathrop,"Plainfield, Ill.",Plainfield South,Plainfield South,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+10,Garrett Lee,"Belvidere, Ill.",Belvidere North,Belvidere North,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+11,Irwin Loud,"Oak Park, Ill.",Oak Parker River Forst,Oak Parker River Forst,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+12,Billy Magnesen,"Hinsdale, Ill.",Hinsdale Central,Hinsdale Central,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+13,Denis O'Callaghan,"Orland Park, Ill.",SIU Carbondale,SIU Carbondale,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+14,Jesse Reiser,"McHenry, Ill.",McHenry West,McHenry West,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+15,Luke Schroer,"Wheaton, Ill.",Wheaton Warrenville South,Wheaton Warrenville South,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+16,Zack Smith,"Downers Grove, Ill.",Downers Grove North,Downers Grove North,Full Name,Hometown,High School / Previous School,High School / Previous School,mens cross country,illinois
+0,Delaney Appino,"Rockford, Ill.",Boylan,Boylan,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+1,Alana Austin,"Naperville, Ill.",Naperville Central,Naperville Central,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+2,Denise Branch,"Brooklyn, N.Y.",Cardozo,Cardozo,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+3,Madeline Bruce,"Marion, Ill.",Marion,Marion,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+4,Kelli Callahan,"Palos Heights, Ill.",Shepard,Shepard,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+5,Nicki Cast,"Aurora, Ill.",Meta Valley,Meta Valley,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+6,Nicole Choquette,"Urbana, Ill.",Urbana,Urbana,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+7,Rebecca Craddock,"Brunswick, OH",Brunswick,Brunswick,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+8,Caroline Fix,"Winnetka, Ill.",New Trier,New Trier,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+9,Vanessa Flaherty,"LaGrange, Ill.",Lyons Township,Lyons Township,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+10,Nadia Kacmar,"St. Charles, Ill.",St. Charles East,St. Charles East,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+11,Kristina Kladar,"Rockton, Ill.",Boylan Central Catholic,Boylan Central Catholic,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+12,Diane Lipa,"Glen Ellyn, Ill.",Glenbard South,Glenbard South,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+13,Mikaela Lucki,"Etobicoke, Ontario",Bishop Allen Academy,Bishop Allen Academy,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+14,Sarah Madsen,"Elmhurst, Ill.",Parkway Central,Parkway Central,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+15,Miranda Marry,"Paxton, Ill.",Fisher,Fisher,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+16,Allison McGrath,"Wheaton, Ill.",Wheaton Warrenville South,Wheaton Warrenville South,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+17,Grace Rogers,"Glen Ellyn, Ill.",Glenbard West,Glenbard West,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+18,Morgan Schulz,"Cary, Ill.",Cary-Grove,Cary-Grove,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+19,Katie Stapleton,"Downers Grove, Ill.",Downers Grove South,Downers Grove South,Full Name,Hometown,High School / Previous School,High School / Previous School,womens cross country,illinois
+0,Bryan Baumgarten,"Granite Bay, Calif. / Granite Bay","Granite Bay, Calif. / Granite Bay","Granite Bay, Calif. / Granite Bay",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,illinois
+1,Varun Chopra,"Champaign, Ill. / Urbana Uni High","Champaign, Ill. / Urbana Uni High","Champaign, Ill. / Urbana Uni High",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,illinois
+2,Michael Feagles,"Scottsdale, Ariz. / Brophy College Prep","Scottsdale, Ariz. / Brophy College Prep","Scottsdale, Ariz. / Brophy College Prep",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,illinois
+3,Nick Hardy,"Northbrook, Ill. / Glenbrook  North","Northbrook, Ill. / Glenbrook  North","Northbrook, Ill. / Glenbrook  North",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,illinois
+4,Dylan Meyer,"Evansville, Ind. / Evansville Central","Evansville, Ind. / Evansville Central","Evansville, Ind. / Evansville Central",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,illinois
+5,Brendan O'Reilly,"Hinsdale, Ill. / Hinsdale Central","Hinsdale, Ill. / Hinsdale Central","Hinsdale, Ill. / Hinsdale Central",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,illinois
+6,Giovanni Tadiotto,"Anderlecht, Belgium / College Du Christ Roi","Anderlecht, Belgium / College Du Christ Roi","Anderlecht, Belgium / College Du Christ Roi",Name,Hometown / High School,Hometown / High School,Hometown / High School,mens golf,illinois
+0,Dana Gattone,"Addison, Ill. / Saint Viator","Addison, Ill. / Saint Viator","Addison, Ill. / Saint Viator",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens golf,illinois
+1,Ali Morallos,"Long Beach, Calif. / Woodrow Wilson Classical","Long Beach, Calif. / Woodrow Wilson Classical","Long Beach, Calif. / Woodrow Wilson Classical",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens golf,illinois
+2,Tristyn Nowlin,"Richmond, Ky. / Madison Central","Richmond, Ky. / Madison Central","Richmond, Ky. / Madison Central",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens golf,illinois
+3,Grace Park,"San Jose, Calif. / Cupertino","San Jose, Calif. / Cupertino","San Jose, Calif. / Cupertino",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens golf,illinois
+4,Chayanid Prapassarangkul,"Bangkok, Thailand / Shrewsbury International","Bangkok, Thailand / Shrewsbury International","Bangkok, Thailand / Shrewsbury International",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens golf,illinois
+5,Pailin Ruttanasupagid,"San Diego, Calif. / Torrey Pines","San Diego, Calif. / Torrey Pines","San Diego, Calif. / Torrey Pines",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens golf,illinois
+6,Bing Singhsumalee,"Naperville, Ill. / Waubonsie Valley","Naperville, Ill. / Waubonsie Valley","Naperville, Ill. / Waubonsie Valley",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens golf,illinois
+0,Ashley Aegerter,"Cross Plains, Wis.",N/A,Middleton H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+1,Kristin Anderson,"Palatine, Ill.",N/A,Palatine H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+2,Emma Burns,"Milford, Pa.",N/A,Delaware Valley H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+3,Nelly Casas,"Oswego, Ill.",N/A,Oswego East H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+4,Raquel Corniuk,"Huntington Beach, Calif.",N/A,Huntington Beach H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+5,Rebecca Corzine,"O'Fallon, Ill.",N/A,O'Fallon Township,Name,Hometown,N/A,Last School,womens swimming,illinois
+6,Adelaide Curry,"Oak Park, Ill.",N/A,Fenwick H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+7,Emma Curtis,"Grand Blanc, Mich.",N/A,Grand Blanc H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+8,Rebecca Eckblad,"Grand Blanc, Mich.",N/A,Grand Blanc H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+9,Natalie Edwards,"O'Fallon, Ill.",N/A,O'Fallon Township,Name,Hometown,N/A,Last School,womens swimming,illinois
+10,Erin Emme,"La Habra, Calif.",N/A,Troy H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+11,Mary Margaret Fry,"Cincinnati, Ohio",N/A,Sycamore H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+12,Monica Guyett,"St. Charles, Ill.",N/A,St. Charles North H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+13,Molly Hein,"Hartland, Wisc.",N/A,Arrowhead,Name,Hometown,N/A,Last School,womens swimming,illinois
+14,Kaitlyn Joyce,"Darien, Ill.",N/A,Benet Academy,Name,Hometown,N/A,Last School,womens swimming,illinois
+15,Jamie Kolar,"Lincolnwood, Ill.",N/A,Loyola Academy,Name,Hometown,N/A,Last School,womens swimming,illinois
+16,Kathryn Kosinski,"Friendswood, Texas",N/A,Friendswood H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+17,Ling Kuhn,"Bloomington, Ill.",N/A,University H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+18,Lauren LaPeter,"St. Petersburg, Fla.",N/A,St. Petersburg H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+19,Autumn Ledgin,"Boca Raton, Fla.",N/A,Grandview Preparatory H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+20,Emily Martin,"Mason City, Ill.",N/A,Illini Central H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+21,Jimena Martinez,"Mexico City, Mexico",N/A,Crean Lutheran H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+22,Michelle McCord,"Canton, Ga.",N/A,Creekview H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+23,Fiona McDermott,"Palos, Ill.",N/A,Lincoln-Way East,Name,Hometown,N/A,Last School,womens swimming,illinois
+24,Sascha Meyers,"Dearborn, Mich.",N/A,Dearborn H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+25,Haley Nelson,"Lake Forest, Ill.",N/A,Lake Forest High School,Name,Hometown,N/A,Last School,womens swimming,illinois
+26,Aby Olson,"Loves Park, Ill.",N/A,Boylan Catholic H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+27,Gabriele Serniute,"Vilnius, Lithuania",N/A,Downers Grove North H.S.,Name,Hometown,N/A,Last School,womens swimming,illinois
+28,Samantha Stratford,"Cambridge, Ontario, Canada",N/A,Centennial CVI,Name,Hometown,N/A,Last School,womens swimming,illinois
+29,Megan Vuong,"Mississauga, Ontario, Canada",N/A,Rick Hansen Secondary School,Name,Hometown,N/A,Last School,womens swimming,illinois
+30,Morgan Young,"Wheaton, Ill.",N/A,Wheaton Warrenville South,Name,Hometown,N/A,Last School,womens swimming,illinois
+0,Alex Brown,"Urbandale, Iowa",N/A,Shawnee Mission East,Name,Hometown,N/A,Last School,mens tennis,illinois
+1,Vuk Budic,"Chicago, Ill.",N/A,Deerfield High School,Name,Hometown,N/A,Last School,mens tennis,illinois
+2,Caleb Chakravarthi,"Irvine, Calif.",N/A,Connections Academy,Name,Hometown,N/A,Last School,mens tennis,illinois
+3,Zeke Clark,"Tulsa, Okla.",N/A,Riverfield Country Day School,Name,Hometown,N/A,Last School,mens tennis,illinois
+4,Gui Gomes,"Newport Beach, Calif.",N/A,Capistrano Connections Academy,Name,Hometown,N/A,Last School,mens tennis,illinois
+5,Aron Hiltzik,"Wilmette, Ill.",N/A,New Trier,Name,Hometown,N/A,Last School,mens tennis,illinois
+6,Pengxuan Jiang,"Tian Jin, China",N/A,Weil College Prep,Name,Hometown,N/A,Last School,mens tennis,illinois
+7,Noe Khlif,"Marseille, France",N/A,CNED Rouen,Name,Hometown,N/A,Last School,mens tennis,illinois
+8,Aleks Kovacevic,"New York City, N.Y.",N/A,Florida Virtual High School,Name,Hometown,N/A,Last School,mens tennis,illinois
+9,Pablo Landa,"Dallas, Texas",N/A,Austin Tennis Academy,Name,Hometown,N/A,Last School,mens tennis,illinois
+10,Fletcher Scott,"Lawrence, Kan.",N/A,Lawrence Virtual School,Name,Hometown,N/A,Last School,mens tennis,illinois
+11,Aleks Vukic,"Sydney, Australia",N/A,Normanhurst Boy High,Name,Hometown,N/A,Last School,mens tennis,illinois
+0,Sasha Belaya,"Melbourne, Fla. / Viera High School",N/A,"Melbourne, Fla. / Viera High School",Name,Hometown / Last School,N/A,Hometown / Last School,womens tennis,illinois
+1,Emilee Duong,"Placentia, Calif. / Valencia High School",N/A,"Placentia, Calif. / Valencia High School",Name,Hometown / Last School,N/A,Hometown / Last School,womens tennis,illinois
+2,Jade Hilton,"Mississauga, Ontario / Lorne Park Secondary School",N/A,"Mississauga, Ontario / Lorne Park Secondary School",Name,Hometown / Last School,N/A,Hometown / Last School,womens tennis,illinois
+3,Asuka Kawai,"Palatine, Ill. / Palatine High School",N/A,"Palatine, Ill. / Palatine High School",Name,Hometown / Last School,N/A,Hometown / Last School,womens tennis,illinois
+4,Daniela Pedraza Novak,"Bogota, Colombia / IMG Academy",N/A,"Bogota, Colombia / IMG Academy",Name,Hometown / Last School,N/A,Hometown / Last School,womens tennis,illinois
+5,Mia Rabinowitz,"Tenafly, N.J. / Laurel Springs School",N/A,"Tenafly, N.J. / Laurel Springs School",Name,Hometown / Last School,N/A,Hometown / Last School,womens tennis,illinois
+6,Jaclyn Switkes,"Ponte Vedra Beach, Fla. / St. Johns County Virtual School",N/A,"Ponte Vedra Beach, Fla. / St. Johns County Virtual School",Name,Hometown / Last School,N/A,Hometown / Last School,womens tennis,illinois
+7,Grace Tapak,"Hinsdale, Ill. / Hinsdale Central",N/A,"Hinsdale, Ill. / Hinsdale Central",Name,Hometown / Last School,N/A,Hometown / Last School,womens tennis,illinois
+8,Ines Vias,"Germantown, Md. / Bullis School",N/A,"Germantown, Md. / Bullis School",Name,Hometown / Last School,N/A,Hometown / Last School,womens tennis,illinois
+0,Ayo Abiona,"Orland Park, Ill.",Sandburg,Sandburg,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+1,Noah Adams,"Macon, Ill.",Meridian,Meridian,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+2,Kenneth Allen,"Hazel Crest, Ill.",Thornwood,Thornwood,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+3,Ben Barnes,"Elburn, Ill.",Kaneland,Kaneland,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+4,Luke Brahm,"Indianapolis, Ind.",Princeton University,Princeton University,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+5,Matt Burns,"Lombard, Ill.",Willowbrook,Willowbrook,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+6,Jordan Cagigal,"Aurora, Ill.",Metea Valley,Metea Valley,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+7,Joe Cowlin,"Crystal Lake, Ill.",Prairie Ridge,Prairie Ridge,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+8,Zach Dale,"Elk Grove, Ill.",James B. Conant,James B. Conant,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+9,Jon Davis,"Fithian, Ill.",Oakwood,Oakwood,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+10,Parker Deloye,"Lincolnshire, Ill.",Barrington,Barrington,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+11,Matsen Dziedzic,"Libertyville, Ill.",Libertyville,Libertyville,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+12,Josh Eiker,"Galesburg, Ill.",Galesburg,Galesburg,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+13,Konrad Eiring,"Barrington, Ill.",Barrington,Barrington,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+14,Alex Gold,"Deerfield, Ill.",Deerfield,Deerfield,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+15,Curtis Gordon,"Vandalia, Ill.",Vandalia,Vandalia,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+16,Joe Haight,"Wadsworth, Ill.",Warren,Warren,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+17,Brayden Hamblen,"Rock Falls, Ill.",Rock Falls,Rock Falls,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+18,Aaron Harris,"Lisle, Ill.",Lisle,Lisle,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+19,Cole Henderson,"Pekin, Ill.",Pekin,Pekin,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+20,Caleb Hummer,"Danville, Ill.",Danville,Danville,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+21,Michael Hyc,"Chicago, Ill.",St. Laurence Catholic,St. Laurence Catholic,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+22,Cooper Jazo,"Lake Villa, Ill.",Lakes,Lakes,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+23,Alex Keeble,"Mahomet, Ill.",Mahomet Seymour,Mahomet Seymour,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+24,David Kendziera,"Mount Prospect, Ill.",Prospect,Prospect,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+25,Trevor Kuehr,"Lake Zurich, Ill.",Lake Zurich,Lake Zurich,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+26,Jack LaLonde,"Downers Grove, Ill.",Downers Grove South,Downers Grove South,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+27,Jacob LaRocca,"Palatine, Ill.",Palatine,Palatine,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+28,Dan Lathrop,"Plainfield, Ill.",Plainfield South,Plainfield South,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+29,Garrett Lee,"Belvidere, Ill.",Belvidere North,Belvidere North,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+30,Irwin Loud,"Oak Park, Ill.",Oak Parker River Forst,Oak Parker River Forst,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+31,Mo Maat,"Memphis, Tenn.",Cordova,Cordova,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+32,Billy Magnesen,"Hinsdale, Ill.",Hinsdale Central,Hinsdale Central,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+33,Billy Matzek,"Mt. Prospect, Ill.",Prospect,Prospect,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+34,Isaiah Michl,"St. Louis, Mo.",Edwardsville,Edwardsville,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+35,Denis O'Callaghan,"Orland Park, Ill.",SIU Carbondale,SIU Carbondale,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+36,David Oluyadi,"Chicago, Ill.",Chicago Lane Tech,Chicago Lane Tech,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+37,Devin Quinn,"Punta Gorda, Fla.",Charlotte,Charlotte,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+38,Jesse Reiser,"McHenry, Ill.",McHenry West,McHenry West,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+39,Thomas Saggau,"LaGrange, Ill.",Lyons Township,Lyons Township,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+40,Luke Schroer,"Wheaton, Ill.",Wheaton Warrenville South,Wheaton Warrenville South,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+41,Jason Shannon,"Wheeling, Ill.",Wheeling,Wheeling,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+42,Vince Shields,"Mt. Prospect, Ill.",Prospect,Prospect,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+43,Zack Smith,"Downers Grove, Ill.",Downers Grove North,Downers Grove North,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+44,Eddie Smoliak,"Highland Park, Ill.",Highland Park,Highland Park,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+45,Jonathan Wells,"Fox Lake, Ill.",Grant,Grant,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+46,Doug Wilson,"Rock Island, Ill.",Rock Island,Rock Island,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+47,Tony Zea,"Downers Grove, Ill.",Downers Grove North,Downers Grove North,Full Name,Hometown,High School / Previous School,High School / Previous School,mens track,illinois
+0,Amira Aduma,"Hampton, Va.",Phoebus,Phoebus,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+1,Delaney Appino,"Rockford, Ill.",Boylan,Boylan,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+2,Alana Austin,"Naperville, Ill.",Naperville Central,Naperville Central,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+3,Ololade Ayoola,"Frankfort, Ill.",Lincoln-Way East,Lincoln-Way East,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+4,Jasmine Berry,"Belleville, Ill.",Belleville West,Belleville West,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+5,Denise Branch,"Brooklyn, N.Y.",Cardozo,Cardozo,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+6,Madeline Bruce,"Marion, Ill.",Marion,Marion,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+7,Kelli Callahan,"Palos Heights, Ill.",Shepard,Shepard,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+8,Nicki Cast,"Aurora, Ill.",Meta Valley,Meta Valley,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+9,Nicole Cho,"Skokie, Ill.",Niles West,Niles West,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+10,Nicole Choquette,"Urbana, Ill.",Urbana,Urbana,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+11,Rebecca Craddock,"Brunswick, OH",Brunswick,Brunswick,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+12,Emone' Davis,"Danville, Ill.",Danville,Danville,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+13,Briana Driver,"Chicago, Ill.",Mother McAuley,Mother McAuley,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+14,Caroline Fix,"Winnetka, Ill.",New Trier,New Trier,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+15,Vanessa Flaherty,"LaGrange, Ill.",Lyons Township,Lyons Township,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+16,Sade' Hargrove,"Richmond, Va.",Glen Allen,Glen Allen,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+17,Kay Hylton,"Tinley Park, Ill.",Lincoln Way East,Lincoln Way East,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+18,Alexis Jones,"Smyrna, Ga.",Campbell,Campbell,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+19,Brenda Kendziera,"Mount Prospect, Ill.",Prospect,Prospect,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+20,Kristina Kladar,"Rockton, Ill.",Boylan Central Catholic,Boylan Central Catholic,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+21,Diane Lipa,"Glen Ellyn, Ill.",Glenbard South,Glenbard South,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+22,Mikaela Lucki,"Etobicoke, Ontario",Bishop Allen Academy,Bishop Allen Academy,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+23,Sarah Madsen,"Elmhurst, Ill.",Parkway Central,Parkway Central,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+24,Miranda Marry,"Paxton, Ill.",Fisher,Fisher,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+25,Jade' Mayes,"Chicago, Ill.",Westinghouse College Prep,Westinghouse College Prep,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+26,Tarynn Mays,"DuQuoin, Ill.",DuQuoin,DuQuoin,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+27,Allison McGrath,"Wheaton, Ill.",Wheaton Warrenville South,Wheaton Warrenville South,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+28,Sara McKeeman,"Fort Wayne, Ind.",Carroll,Carroll,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+29,Alyssa Morello,"Lake Zurich, Ill.",Lake Zurich,Lake Zurich,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+30,Chisom Nwoko,"Oak Park, Ill.",Oak Park River Forest,Oak Park River Forest,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+31,Carolyn Nye,"Medina, Minn.",The Blake School,The Blake School,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+32,Felicia Phillips,"Germantown, Tenn.",Houston,Houston,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+33,Grace Rogers,"Glen Ellyn, Ill.",Glenbard West,Glenbard West,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+34,Janile Rogers,"Joliet, Ill.",Minooka,Minooka,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+35,Morgan Schulz,"Cary, Ill.",Cary-Grove,Cary-Grove,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+36,Maya Seay,"Norfolk, Va.",Maury,Maury,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+37,Kristin Slaughter,"Effingham, Ill.",St. Anthony,St. Anthony,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+38,Kortni Smyers-Jones,"Oakland, Calif.",San Leandro,San Leandro,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+39,Katie Stapleton,"Downers Grove, Ill.",Downers Grove South,Downers Grove South,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+40,Jayla Stewart,"Olympia Fields, Ill.",Homewood,Homewood,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+41,Katie Witte,"Sidell, Ill.",Salt Fork,Salt Fork,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+42,Wynda Wormack,"Dolton, Ill.",Thornridge,Thornridge,Full Name,Hometown,High School / Previous School,High School / Previous School,womens track,illinois
+0,Abdullah Assaf,"Homer Glen, Ill. / Lockport Township","Homer Glen, Ill. / Lockport Township","Homer Glen, Ill. / Lockport Township",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+1,Eric Barone,"Crystal Lake, Ill. / Crystal Lake South","Crystal Lake, Ill. / Crystal Lake South","Crystal Lake, Ill. / Crystal Lake South",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+2,Brian Burns,"Frankfort, Ill. / Lincoln-Way East","Frankfort, Ill. / Lincoln-Way East","Frankfort, Ill. / Lincoln-Way East",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+3,Mike Carr,"South Fayette, Pa. / South Fayette","South Fayette, Pa. / South Fayette","South Fayette, Pa. / South Fayette",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+4,Josh Contreras,"Brooksfield, Ill. / Riverside-Brookfield","Brooksfield, Ill. / Riverside-Brookfield","Brooksfield, Ill. / Riverside-Brookfield",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+5,Dylan Duncan,"Lombard, Ill. / Montini Catholic","Lombard, Ill. / Montini Catholic","Lombard, Ill. / Montini Catholic",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+6,Francis Edelen,"Oak Forest, Ill. / Oak Forest HS","Oak Forest, Ill. / Oak Forest HS","Oak Forest, Ill. / Oak Forest HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+7,Nick Gasbarro,"Chicago Heights, Ill. / Marist HS","Chicago Heights, Ill. / Marist HS","Chicago Heights, Ill. / Marist HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+8,Carver James,"Rock City, Ill. / Dakota HS","Rock City, Ill. / Dakota HS","Rock City, Ill. / Dakota HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+9,Mousa Jodeh,"Chicago, Ill. / Oak Forest","Chicago, Ill. / Oak Forest","Chicago, Ill. / Oak Forest",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+10,Kyle Langenderfer,"Mokena, Ill. / Lincoln Way East","Mokena, Ill. / Lincoln Way East","Mokena, Ill. / Lincoln Way East",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+11,Andre Lee,"Maywood, Ill. / Oak Park River Forest","Maywood, Ill. / Oak Park River Forest","Maywood, Ill. / Oak Park River Forest",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+12,Isaiah Martinez,"Lemoore, Calif. / Lemoore","Lemoore, Calif. / Lemoore","Lemoore, Calif. / Lemoore",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+13,Tim McCarthy,"Chicago, Ill. / St. Rita of Cascia","Chicago, Ill. / St. Rita of Cascia","Chicago, Ill. / St. Rita of Cascia",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+14,Johnny Mologousis,"LaGrange, Ill. / Lyons Township","LaGrange, Ill. / Lyons Township","LaGrange, Ill. / Lyons Township",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+15,Xavier Montalvo,"Wood Dale, Ill. / Montini Catholic","Wood Dale, Ill. / Montini Catholic","Wood Dale, Ill. / Montini Catholic",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+16,Nikita Nepomnyashchiy,"Lincolnshire, Ill. / Stevenson","Lincolnshire, Ill. / Stevenson","Lincolnshire, Ill. / Stevenson",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+17,Andy O'Brien,"Chicago, Ill. / Marist / Indiana","Chicago, Ill. / Marist / Indiana","Chicago, Ill. / Marist / Indiana",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+18,Emery Parker,"Wadsworth, Ill. / Warren Township","Wadsworth, Ill. / Warren Township","Wadsworth, Ill. / Warren Township",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+19,Travis Piotrowski,"Crystal Lake, Ill. / Prairie Ridge","Crystal Lake, Ill. / Prairie Ridge","Crystal Lake, Ill. / Prairie Ridge",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+20,Ryder Punke,"Eureka, Ill. / Washington","Eureka, Ill. / Washington","Eureka, Ill. / Washington",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+21,Deuce Rachal,"Chicago, Ill. / Lindblom Academy","Chicago, Ill. / Lindblom Academy","Chicago, Ill. / Lindblom Academy",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+22,Isaac Reinemann,"Lincolnwood, Ill. / Niles West","Lincolnwood, Ill. / Niles West","Lincolnwood, Ill. / Niles West",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+23,David Riojas,"Plainfield, Ill. / Mt. Carmel","Plainfield, Ill. / Mt. Carmel","Plainfield, Ill. / Mt. Carmel",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+24,David Rivera-Kohr,"Evanston, Ill. / Evanston Township","Evanston, Ill. / Evanston Township","Evanston, Ill. / Evanston Township",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+25,Jake Silzer,"Chicago, Ill. / St. Rita of Cascia","Chicago, Ill. / St. Rita of Cascia","Chicago, Ill. / St. Rita of Cascia",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+26,Demarius Smith,"Rantoul, Ill. / Rantoul","Rantoul, Ill. / Rantoul","Rantoul, Ill. / Rantoul",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+27,Jack Stein,"Mason, Ohio / Mason","Mason, Ohio / Mason","Mason, Ohio / Mason",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+28,Dylan Thurston,"Wheaton, Ill. / Washington","Wheaton, Ill. / Washington","Wheaton, Ill. / Washington",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+29,Matt Wroblewski,"Mt. Prospect, Ill. / Prospect","Mt. Prospect, Ill. / Prospect","Mt. Prospect, Ill. / Prospect",Name,Hometown / High School,Hometown / High School,Hometown / High School,wrestling,illinois
+0,Veronica Ruelius,"Marengo, Ill.",Marengo Community,Marengo Community,Name,Hometown,High School,High School,softball,illinois
+1,Danielle Brochu,"Lucas, Texas",Lovejoy High School,Lovejoy High School,Name,Hometown,High School,High School,softball,illinois
+2,Valerie Frank,"Summerville, S.C.",Ashley Ridge High School,Ashley Ridge High School,Name,Hometown,High School,High School,softball,illinois
+3,Alexis Carrillo,"Lakewood, Calif.",Lakewood,Lakewood,Name,Hometown,High School,High School,softball,illinois
+4,Akilah Mouzon,"Newark, N.J.",Ballard High School,Ballard High School,Name,Hometown,High School,High School,softball,illinois
+5,Erin Walker,"Tuscola, Ill.",Tuscola High School,Tuscola High School,Name,Hometown,High School,High School,softball,illinois
+6,Kiana Sherlund,"Fairfax, Va.",Fairfax High School,Fairfax High School,Name,Hometown,High School,High School,softball,illinois
+7,Rhein Trochim,"Waco, Texas",Midway High School,Midway High School,Name,Hometown,High School,High School,softball,illinois
+8,Emily Oestreich,"Napa, Calif.",Vintage High School,Vintage High School,Name,Hometown,High School,High School,softball,illinois
+9,Shelby Stauffenberg,"Kankakee, Ill.",Bishop McNamara Catholic High School,Bishop McNamara Catholic High School,Name,Hometown,High School,High School,softball,illinois
+10,Serenity Stewart,"Woodbridge, VA.",C.D. Hylton High School,C.D. Hylton High School,Name,Hometown,High School,High School,softball,illinois
+11,Taylor Edwards,"Arcola, Ill.",Arcola,Arcola,Name,Hometown,High School,High School,softball,illinois
+12,Katie Gallagher,"Chicago, Ill.",St. Ignatius College Prep,St. Ignatius College Prep,Name,Hometown,High School,High School,softball,illinois
+13,Maddi Doane,"Bolingbrook, Ill.",Naperville Central,Naperville Central,Name,Hometown,High School,High School,softball,illinois
+14,Rowan McGuire,"Downer's Grove, Ill.",Benet Academy,Benet Academy,Name,Hometown,High School,High School,softball,illinois
+15,Bella Loya,"Mission Viejo, Calif.",Mission Viejo High School,Mission Viejo High School,Name,Hometown,High School,High School,softball,illinois
+16,Leigh Farina,"Rolling Meadows, Ill.",William Fremd,William Fremd,Name,Hometown,High School,High School,softball,illinois
+17,Maddison Demers,"League City, Texas",Clear Falls High School,Clear Falls High School,Name,Hometown,High School,High School,softball,illinois
+18,Carly Thomas,"Fontana, Calif.",Los Osos,Los Osos,Name,Hometown,High School,High School,softball,illinois
+19,Sam Acosta,"Hoffman Estates, Ill.",Hoffman Estates,Hoffman Estates,Name,Hometown,High School,High School,softball,illinois
+20,Siena Sandoval,"Upland, Calif.",Upland High School,Upland High School,Name,Hometown,High School,High School,softball,illinois
+21,Jill Nicklas,"McKinney, Texas",McKinney Boyd,McKinney Boyd,Name,Hometown,High School,High School,softball,illinois
+22,Stephanie Abello,"Batavia, Ill.",Benet Academy,Benet Academy,Name,Hometown,High School,High School,softball,illinois
+23,Kate Giddens,"Milledgeville, Ga.",John Milledge Academy,John Milledge Academy,Name,Hometown,High School,High School,softball,illinois
+24,Annie Fleming,"Chillicothe, Ill.",Peoria Notre Dame,Peoria Notre Dame,Name,Hometown,High School,High School,softball,illinois
+0,Jordyn Poulter,"Aurora, Colo.",Eaglecrest,Eaglecrest,Name,Hometown,High School,High School,womens volleyball,illinois
+1,Kylie Bruder,"Fort Lauderdale, Fla.",Pine Crest,Pine Crest,Name,Hometown,High School,High School,womens volleyball,illinois
+2,Ali Bastianelli,"Marysville, Mich.",Marysville,Marysville,Name,Hometown,High School,High School,womens volleyball,illinois
+3,Jacqueline Quade,"Fort Wayne, Ind.",Carroll,Carroll,Name,Hometown,High School,High School,womens volleyball,illinois
+4,Beth Prince,"Avon, Ind.",Avon,Avon,Name,Hometown,High School,High School,womens volleyball,illinois
+5,Emmaline Walters,"Huntington Beach, Calif.",Huntington Beach,Huntington Beach,Name,Hometown,High School,High School,womens volleyball,illinois
+6,Emily Hollowell,"Little Elm, Texas",Little Elm,Little Elm,Name,Hometown,High School,High School,womens volleyball,illinois
+7,Megan Cooney,"Topeka, Kan.",Shawnee Heights,Shawnee Heights,Name,Hometown,High School,High School,womens volleyball,illinois
+8,Morgan O'Brien,"Libertyville, Ill.",Libertyville,Libertyville,Name,Hometown,High School,High School,womens volleyball,illinois
+9,Blayke Hranicka,"Denver, Colo.",Mullen,Mullen,Name,Hometown,High School,High School,womens volleyball,illinois
+10,Lexie Smith,"Lucas, Texas",Lovejoy,Lovejoy,Name,Hometown,High School,High School,womens volleyball,illinois
+11,Caroline Welsh,"Marietta, Ga.",The Westminster Schools,The Westminster Schools,Name,Hometown,High School,High School,womens volleyball,illinois
+0,Joel Diaz,"Cypress, Texas",Cypress Woods H.S.,Cypress Woods H.S.,Name,Hometown,High School,High School,mens gymnastics,illinois
+1,Blake Martin,"Columbus, Ohio",Columbus Academy,Columbus Academy,Name,Hometown,High School,High School,mens gymnastics,illinois
+2,Zach Treadway,"Norman, Okla.",Connections Academy,Connections Academy,Name,Hometown,High School,High School,mens gymnastics,illinois
+3,Jacob Light,"Macungie, Pa.",Emmaus H.S.,Emmaus H.S.,Name,Hometown,High School,High School,mens gymnastics,illinois
+4,Ross Thompson,"Kansas City, Mo.",St. Pius X H.S.,St. Pius X H.S.,Name,Hometown,High School,High School,mens gymnastics,illinois
+5,Harry McLellan,"Wyckoff, N.J.",Bergen Catholic,Bergen Catholic,Name,Hometown,High School,High School,mens gymnastics,illinois
+6,Dennis Minton,"Gahanna, Ohio",Gahanna Lincoln,Gahanna Lincoln,Name,Hometown,High School,High School,mens gymnastics,illinois
+7,Tyson Bull,"The Basin, Victoria, Australia",Victorian College of the Arts,Victorian College of the Arts,Name,Hometown,High School,High School,mens gymnastics,illinois
+8,Johnny Jacobson,"Syracuse, Utah",Syracuse H.S.,Syracuse H.S.,Name,Hometown,High School,High School,mens gymnastics,illinois
+9,Tommy Mistretta,"Easton, Pa.",Livermore H.S.,Livermore H.S.,Name,Hometown,High School,High School,mens gymnastics,illinois
+10,Connor Jones,"Haymarket, Va.",Thomas Jefferson H.S.,Thomas Jefferson H.S.,Name,Hometown,High School,High School,mens gymnastics,illinois
+11,Andreas Silbermann,"Chandler, Ariz.",Petaluma H.S.,Petaluma H.S.,Name,Hometown,High School,High School,mens gymnastics,illinois
+12,Danny Graham,"Clarendon Hills, Ill.",Hinsdale Central H.S.,Hinsdale Central H.S.,Name,Hometown,High School,High School,mens gymnastics,illinois
+13,Bobby Baker,"Lemont, Ill.",Lemont,Lemont,Name,Hometown,High School,High School,mens gymnastics,illinois
+14,Chandler Eggleston,"Jamestown, N.C.",Southwest Guilford,Southwest Guilford,Name,Hometown,High School,High School,mens gymnastics,illinois
+15,Justin Jepsen,"Pleasant Grove, Utah",American Fork H.S.,American Fork H.S.,Name,Hometown,High School,High School,mens gymnastics,illinois
+16,Sebastian Quiana,"Oradell, N.J.",River Dell H.S.,River Dell H.S.,Name,Hometown,High School,High School,mens gymnastics,illinois
+17,Alex Diab,"Glen Ellyn, Ill.",Glenbard West H.S.,Glenbard West H.S.,Name,Hometown,High School,High School,mens gymnastics,illinois
+18,Brandon Ngai,"Sacramento, Calif.",Heritage Peak Charter School,Heritage Peak Charter School,Name,Hometown,High School,High School,mens gymnastics,illinois
+19,Max Diab,"Glen Ellyn, Ill.",Glenbard West H.S.,Glenbard West H.S.,Name,Hometown,High School,High School,mens gymnastics,illinois
+20,Michael Paradise,"Bartlett, Ill.",Bartlett H.S.,Bartlett H.S.,Name,Hometown,High School,High School,mens gymnastics,illinois
+21,Jordan Kovach,,,,Name,Hometown,High School,High School,mens gymnastics,illinois
+22,Cobey Pava,"Chicago, Ill.",Wolcott H.S.,Wolcott H.S.,Name,Hometown,High School,High School,mens gymnastics,illinois
+23,Clay Mason Stephens,"Adelaide, Australia",Immanuel College,Immanuel College,Name,Hometown,High School,High School,mens gymnastics,illinois
+0,Rae Balthazor,"Boulder, Colo.",Holy Family High School,Holy Family High School,Name,Hometown,High School,High School,womens gymnastics,illinois
+1,Nicole Biondi,"Townsend, Mass.",North Middlesex Regional High School,North Middlesex Regional High School,Name,Hometown,High School,High School,womens gymnastics,illinois
+2,Rachael Donovan,"Bethlehem, Pa.",Notre Dame Green Pond,Notre Dame Green Pond,Name,Hometown,High School,High School,womens gymnastics,illinois
+3,Lindsay Dwyer,"Glen Cove, N.Y.",Glen Cove High School,Glen Cove High School,Name,Hometown,High School,High School,womens gymnastics,illinois
+4,Jordyn Givens,"Keller, Texas",Keller Central,Keller Central,Name,Hometown,High School,High School,womens gymnastics,illinois
+5,Grace Gough,"Indianapolis, Ind.",Lawrence Central High School,Lawrence Central High School,Name,Hometown,High School,High School,womens gymnastics,illinois
+6,Bridget Hodan,"Brookfield, Wis.",Divine Savior Holy Angels,Divine Savior Holy Angels,Name,Hometown,High School,High School,womens gymnastics,illinois
+7,Mary Jane Horth,"Akron, Ohio",Cuyahoga Valley Christian Academy,Cuyahoga Valley Christian Academy,Name,Hometown,High School,High School,womens gymnastics,illinois
+8,Karen Howell,"Sterling Heights, Mich.",Adlai E. Stevenson High School,Adlai E. Stevenson High School,Name,Hometown,High School,High School,womens gymnastics,illinois
+9,Julia Hutcherson,"Canton, Ga.",The King’s Academy,The King’s Academy,Name,Hometown,High School,High School,womens gymnastics,illinois
+10,Brittany Jones,"Scottsdale, Ariz.",Desert Mountain High School,Desert Mountain High School,Name,Hometown,High School,High School,womens gymnastics,illinois
+11,Sarah Lyons,"New Braunfels, Texas",Canyon High School,Canyon High School,Name,Hometown,High School,High School,womens gymnastics,illinois
+12,Kasey Meeks,"Shawnee, Kan.",Mill Valley High School,Mill Valley High School,Name,Hometown,High School,High School,womens gymnastics,illinois
+13,Kylie Noonan,"Vadnais Heights, Minn.",White Bear Lake Area High School,White Bear Lake Area High School,Name,Hometown,High School,High School,womens gymnastics,illinois
+14,Tessa Phillips,"Lagrange, Ohio",Brecksville-Broadview High School,Brecksville-Broadview High School,Name,Hometown,High School,High School,womens gymnastics,illinois
+15,Haylee Roe,"Mesquite, Texas",John Horn High School,John Horn High School,Name,Hometown,High School,High School,womens gymnastics,illinois
+16,Jaylen Spence,"Suwanee, Ga.",North Gwinnett High School,North Gwinnett High School,Name,Hometown,High School,High School,womens gymnastics,illinois

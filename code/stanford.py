@@ -15,10 +15,8 @@ outdir = '../output'
 
 
 ##### stanford #################
-full_df = pd.DataFrame()
 school = 'stanford'
 url_template = 'http://gostanford.com/roster.aspx?path={sporturl}'
-classname = 'sidearm-roster-players'
 
 sports_dict = lookups.get_sports_dict()
 # sport_id: [sporturl, sport_table]
@@ -72,32 +70,8 @@ for (key, value) in sports_dict.items():
 	else:
 		value.append(1)
 
-for (sport_id, sport_info) in sports_dict.items():
-    sporturl = sport_info[0]
-    ulnum = sport_info[1]
-    print(sport_id)
-    url = url_template.format(sporturl = sporturl)
-    table = proj.get_list(url, classname, numlists=ulnum)
-    players = table.find_all('li')
-    for player in players:
-        name = player.find('div',
-            class_ = 'sidearm-roster-player-name').find('a').getText().strip()
-        hometown_list = player.find('div',
-            class_ = 'sidearm-roster-player-class-hometown').find_all('span')
-
-        try:
-            hometown = 'N/A'
-            for item in hometown_list:
-                x = item.getText().strip()
-                if ',' in x:
-                    hometown = x
-                else:
-                    continue
-        except IndexError:
-            hometown = 'N/A'
-
-        player_df = proj.make_player_df(name, hometown, sport_id, school)
-        full_df = full_df.append(player_df, ignore_index=True)
-
+# loop through sports collecting rosters
+rosters = proj.gather_rosters_ul(sports_dict, url_template)
+rosters['college'] = school
 csvname = school + '_rosters.csv'
-full_df.to_csv(os.path.join(outdir, csvname))
+rosters.to_csv(os.path.join(outdir, csvname))

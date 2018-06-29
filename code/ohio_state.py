@@ -14,7 +14,6 @@ myopener = MyOpener()
 outdir = '../output'
 
 ##### ohio state #################
-full_df = pd.DataFrame()
 school = "ohio_state"
 url_template = 'http://www.ohiostatebuckeyes.com/sports/{sporturl}/mtt/osu-{sporturl}-mtt.html'
 tableid_template = 'sortable_roster'
@@ -72,20 +71,8 @@ for (key, value) in sports_dict.items():
 		value.append(tableid_template)
 
 # collect roster for each sport
-find_cols = ['name', 'hometown']
-
-for (sport_id, sport_info) in sports_dict.items():
-	sporturl = sport_info[0]
-	table_id = sport_info[1]
-	url = url_template.format(sporturl=sporturl)
-
-	table = proj.get_table(url, table_id)
-	roster = proj.select_cols(table, find_cols)
-
-	x = pd.DataFrame(roster, columns = find_cols)
-	x['sport'] = sport_id
-	x['school'] = school
-	full_df = full_df.append(x)
-
+find_cols = ['name', 'hometown', 'high school', 'school']
+rosters = proj.gather_rosters_table(sports_dict, find_cols, url_template)
+rosters['college'] = school
 csvname = school + '_rosters.csv'
-full_df.to_csv(os.path.join(outdir, csvname))
+rosters.to_csv(os.path.join(outdir, csvname))

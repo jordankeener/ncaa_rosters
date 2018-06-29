@@ -1,528 +1,521 @@
-,name,hometown,sport,school
-0,Adrian Autry,"Jamesville, N.Y.",mens basketball,syracuse
-1,Matthew  Moyer,"Gahanna, Ohio",mens basketball,syracuse
-2,Elijah Hughes,"Beacon, N.Y.",mens basketball,syracuse
-3,Patrick Herlihy,"Charleston, W.V.",mens basketball,syracuse
-4,Howard Washington,"Buffalo, N.Y.",mens basketball,syracuse
-5,Oshae Brissett,"Mississauga, Ontario",mens basketball,syracuse
-6,Paschal Chukwu,"Westport, Conn.",mens basketball,syracuse
-7,Braedon Bayer,"Lagrangeville, N.Y.",mens basketball,syracuse
-8,Marek Dolezaj,"Bratislava, Slovakia",mens basketball,syracuse
-9,Frank Howard,"Suitland, Md.",mens basketball,syracuse
-10,Shaun Belbey,"Brick, N.J.",mens basketball,syracuse
-11,Tyus  Battle,"Edison, N.J.",mens basketball,syracuse
-12,Ray Featherston,"Westport, Conn.",mens basketball,syracuse
-13,Bourama Sidibe,"Newark, N.J.",mens basketball,syracuse
-14,Ky Feldman,"Agoura Hills, Ca.",mens basketball,syracuse
-15,Raven Fox,"Bladensburg, Md.",womens basketball,syracuse
-16,Chelayne Bailey,"Pickering, Ontario",womens basketball,syracuse
-17,Maeva Djaldi-Tabdi,"Paris, France",womens basketball,syracuse
-18,Tiana Mangakahia,"Meadowbrook, Australia",womens basketball,syracuse
-19,Marie-Paule Foppossi,"Strasbourg, France",womens basketball,syracuse
-20,Gabrielle Cooper,"Lansing, Ill.",womens basketball,syracuse
-21,Kiara Lewis,"Chicago, Ill.",womens basketball,syracuse
-22,Nikki Oppenheimer,"Glenview, Ill.",womens basketball,syracuse
-23,Marisa Romeo,"Syracuse, N.Y.",womens basketball,syracuse
-24,Desiree Elmore,"Hartford, Conn.",womens basketball,syracuse
-25,Amaya Finklea-Guity,"Dorchester, Mass.",womens basketball,syracuse
-26,Isis Young,"Berlin, N.J.",womens basketball,syracuse
-27,Brandi Fowler,"Syracuse, N.Y.",womens basketball,syracuse
-28,Miranda Drummond,"Binghamton, N.Y.",womens basketball,syracuse
-29,Abby Grant,"Suwanee, Ga.",womens basketball,syracuse
-30,Jasmine Nwajei,"Rockaway Park, N.Y.",womens basketball,syracuse
-31,Digna Strautmane,"Riga, Latvia",womens basketball,syracuse
-32,Eric Dungey,"Lake Oswego, Ore.",football,syracuse
-33,Christopher Fredrick,"Conley, Ga.",football,syracuse
-34,Dontae Strickland,"Dayton, N.J.",football,syracuse
-35,Devin C. Butler,"District Heights, Md.",football,syracuse
-36,Ravian Pierce,"Plantation, Fla.",football,syracuse
-37,Antwan Cordy,"Homestead, Fla.",football,syracuse
-38,Sterling Hofrichter,"Valrico, Fla.",football,syracuse
-39,Sean Riley,"Los Angeles, Calif.",football,syracuse
-40,Devon Clarke,"Kissimmee, Fla.",football,syracuse
-41,Clayton Welch,"Chico, Calif.",football,syracuse
-42,Andrew Armstrong,"Youngstown, Ohio",football,syracuse
-43,Russell Thompson-Bishop,"Bloomfield, Conn.",football,syracuse
-44,Tommy DeVito,"Cedar Grove, N.J.",football,syracuse
-45,Evan Foster,"West Bloomfield, Mich.",football,syracuse
-46,Rex Culpepper,"Tampa, Fla.",football,syracuse
-47,Chance Amie,"Flint, Texas",football,syracuse
-48,Carl Jones,"Twinsburg, Ohio",football,syracuse
-49,Jamal Custis,"Philadelphia, Pa.",football,syracuse
-50,Scoop Bradshaw,"Tampa, Fla.",football,syracuse
-51,Donny Sanders,"McLean, Va.",football,syracuse
-52,Andre Cisco,"Valley Stream, N.Y.",football,syracuse
-53,Tyler Gilfus,"Cape Vincent, N.Y.",football,syracuse
-54,Cam Jonas,"West Palm Beach, Fla.",football,syracuse
-55,Moe Neal,"Gastonia, N.C.",football,syracuse
-56,Markenzy Pierre,"Orlando, Fla.",football,syracuse
-57,Abdul Adams,"Landover, Md.",football,syracuse
-58,Shyheim Cullen,"Lowell, Mass.",football,syracuse
-59,Kielan Whitner,"Lawrenceville, Ga.",football,syracuse
-60,Sean  Onwualu,"Sylmar, Calif.",football,syracuse
-61,Tyrone Perkins,"Glen Head, N.Y.",football,syracuse
-62,Nadarius Fagan,"Goulds, Fla.",football,syracuse
-63,Otto Zaccardo,"Subury, Mass.",football,syracuse
-64,Juan Wallace,"Washington, D.C.",football,syracuse
-65,Kyle Kleinberg,"Armonk, N.Y.",football,syracuse
-66,Allen Stritzinger,"Detroit, Mich.",football,syracuse
-67,Jack Guida,"New Canaan, Conn.",football,syracuse
-68,Kadeem Trotter,"Canton, Ohio",football,syracuse
-69,Eric Coley,"Manlius, N.Y.",football,syracuse
-70,Kyle Strickland,"Roswell, Ga.",football,syracuse
-71,Chris Elmore,"Chicago, Ill.",football,syracuse
-72,Tim Walton,"Detroit, Mich.",football,syracuse
-73,Kevin Nusdeo,"Orange, Conn.",football,syracuse
-74,Luke Erickson,"Greene, N.Y.",football,syracuse
-75,Ryan Guthrie,"Cumming, Ga.",football,syracuse
-76,Tyrell Richards,"Brampton, Ontario, Canada",football,syracuse
-77,Ifeatu Melifonwu,"South Grafton, Mass.",football,syracuse
-78,Kenneth Ruff,"Lauderhill, Fla.",football,syracuse
-79,Lakiem Williams,"Tacoma, Wash.",football,syracuse
-80,Matt Keller,"Willow Street, Pa.",football,syracuse
-81,Jesse Conners,"Pittsford, N.Y.",football,syracuse
-82,Zack Lesko,"Solon, Ohio",football,syracuse
-83,Aaron Bolinsky,"Frackville, Pa.",football,syracuse
-84,Shaq Grosvenor,"Linden, N.J.",football,syracuse
-85,Curtis Harper,"McKeesport, Pa.",football,syracuse
-86,Austin Chandler,"Los Angeles, Calif.",football,syracuse
-87,Kendall Coleman,"Indianapolis, Ind.",football,syracuse
-88,Dakota Davis,"Mount Airy, Md.",football,syracuse
-89,Kingsley Jonathan,"Baltimore, Md.",football,syracuse
-90,Aaron Roberts,"Chicago, Ill.",football,syracuse
-91,Cody Conway,"Plainfield, Ill.",football,syracuse
-92,Evan Adams,"Norwalk, Conn.",football,syracuse
-93,Colin Byrne,"Coral Springs, Fla.",football,syracuse
-94,Airon Servais,"Green Bay, Wis.",football,syracuse
-95,Patrick Davis,"Gatineau, Quebec, Canada",football,syracuse
-96,Keaton  Darney,"Los Angeles, Calif.",football,syracuse
-97,Andrejas Duerig,"Lowell, Ind.",football,syracuse
-98,Sam Heckel,"Waukesha, Wis.",football,syracuse
-99,Mike Clark,"Exton, Pa.",football,syracuse
-100,Cameron Jordan,"Wheatley Heights, N.Y.",football,syracuse
-101,Nykeim Johnson,"Washington, D.C.",football,syracuse
-102,Kevin Johnson Jr.,"Columbus, N.J.",football,syracuse
-103,K.K. Hahn,"Bethesda, Md.",football,syracuse
-104,Josh Black,"Loves Park, Ill.",football,syracuse
-105,Ben Brickman,"Albany, N.Y.",football,syracuse
-106,Trishton Jackson,"West Bloomfield, Mich.",football,syracuse
-107,Sharod Johnson,"Miami, Fla.",football,syracuse
-108,Aaron Hackett,"Venice, Fla.",football,syracuse
-109,Cory Smigel,"North Royalton, Ohio",football,syracuse
-110,Zach Morton,"Detroit, Mich.",football,syracuse
-111,Andre Szmyt,"Vernon Hills, Ill.",football,syracuse
-112,Nolan Cooney,"East Greenwich, R.I.",football,syracuse
-113,Jeffrey Chan,"Honolulu, Hawaii",football,syracuse
-114,Alton Robinson,"Converse, Texas",football,syracuse
-115,Chris  Slayton,"University Park, Ill.",football,syracuse
-116,Justin Ellis,"Roswell, Ga.",football,syracuse
-117,Brandon Berry,"Griffin, Ga.",football,syracuse
-118,McKinley Williams,"Miramar, Fla.",football,syracuse
-119,Jake Pickard,"Short Hills, N.J.",football,syracuse
-120,Pat Castle,"Schuylerville, N.Y.",mens soccer,syracuse
-121,Jan Breitenmoser,"Wil, Switzerland",mens soccer,syracuse
-122,Sondre Norheim,"Bryne, Norway",mens soccer,syracuse
-123,Justin  Earle,"Stittsville, Ontario",mens soccer,syracuse
-124,Kamal Miller,"Pickering, Ontario",mens soccer,syracuse
-125,Hampus Bergdahl,"Asarum, Sweden",mens soccer,syracuse
-126,Mo Adams,"Nottingham, England",mens soccer,syracuse
-127,Jonathan Hagman,"Enebyberg, Sweden",mens soccer,syracuse
-128,Johannes Pieles,"Langenbach, Germany",mens soccer,syracuse
-129,Hugo Delhommelle,"Rennes, France",mens soccer,syracuse
-130,Adnan Bakalovic,"Utica, N.Y.",mens soccer,syracuse
-131,John-Austin Ricks,"Diablo, Calif.",mens soccer,syracuse
-132,Evan Peters,"Valley Stream, N.Y.",mens soccer,syracuse
-133,Petter Stangeland,"Sandnes, Norway",mens soccer,syracuse
-134,Simon  Triantafillou,"Burlington, Ontario",mens soccer,syracuse
-135,Lukas Rubio,"Liverpool, N.Y.",mens soccer,syracuse
-136,Tajon Buchanan,"Broomfield, Colo.",mens soccer,syracuse
-137,Djimon Johnson,"Bridgeport, Conn.",mens soccer,syracuse
-138,Mamadou Balde,"Corona, N.Y.",mens soccer,syracuse
-139,Miles Franklyn,"Teaneck, N.J.",mens soccer,syracuse
-140,Dylan McDonald,"Langhorne, Pa.",mens soccer,syracuse
-141,Oliver Eisen,"Stockholm, Sweden",mens soccer,syracuse
-142,Manny Nunez,"Austin, Texas",mens soccer,syracuse
-143,Hendrik Hilpert,"Eiterfeld, Germany",mens soccer,syracuse
-144,Matt Pickard,"Pendleton, N.Y.",mens soccer,syracuse
-145,Nikolas Steiner,"Baltimore, Md.",mens soccer,syracuse
-146,Jake Leahy,"Brick, N.J.",mens soccer,syracuse
-147,Sheridan Street,N/A,womens soccer,syracuse
-148,Kate Donovan,N/A,womens soccer,syracuse
-149,Sydney Brackett,N/A,womens soccer,syracuse
-150,Eva Gordon,N/A,womens soccer,syracuse
-151,Alana O'Neill,N/A,womens soccer,syracuse
-152,Kailee Coonan,N/A,womens soccer,syracuse
-153,Taylor Bennett,N/A,womens soccer,syracuse
-154,Opal Curless,N/A,womens soccer,syracuse
-155,Georgia Allen,N/A,womens soccer,syracuse
-156,Jessica Vigna,N/A,womens soccer,syracuse
-157,Maddie Pack,N/A,womens soccer,syracuse
-158,Victoria Hill,N/A,womens soccer,syracuse
-159,Shannon Aviza,N/A,womens soccer,syracuse
-160,Kate Hostage,N/A,womens soccer,syracuse
-161,Alex Lamontagne,N/A,womens soccer,syracuse
-162,Mackenzie Vlachos,N/A,womens soccer,syracuse
-163,Courtney Brosnan,N/A,womens soccer,syracuse
-164,Drina Domic,N/A,womens soccer,syracuse
-165,Carolin  Bader,N/A,womens soccer,syracuse
-166,Lysianne Proulx,N/A,womens soccer,syracuse
-167,Clarke Brown,N/A,womens soccer,syracuse
-168,Laurel Ness,N/A,womens soccer,syracuse
-169,Molly Nethercott,N/A,womens soccer,syracuse
-170,Sofya Golubovskaya,"Moscow, Russia",womens tennis,syracuse
-171,Dina Hegab,"Giza, Egypt",womens tennis,syracuse
-172,Gabriela Knutson,"Duur Kralove nad Labem, Czech Republic",womens tennis,syracuse
-173,Libi Mesh,"Haifa, Israel",womens tennis,syracuse
-174,Nicole Mitchell,"Santa Rosa, Calif.",womens tennis,syracuse
-175,Miranda Ramirez,"San Antonio, Texas",womens tennis,syracuse
-176,Anna Shkudun,"Energodar, Ukraine",womens tennis,syracuse
-177,Maria Tritou,"Rhodes, Greece",womens tennis,syracuse
-178,Emma Likly,N/A,womens field hockey,syracuse
-179,Borg van der Velde,N/A,womens field hockey,syracuse
-180,Jamie Martin,N/A,womens field hockey,syracuse
-181,Jennifer Bleakney,N/A,womens field hockey,syracuse
-182,Claire Webb,N/A,womens field hockey,syracuse
-183,Caroline Cady,N/A,womens field hockey,syracuse
-184,Sarah Luby,N/A,womens field hockey,syracuse
-185,Florine Hogendoorn,N/A,womens field hockey,syracuse
-186,Stephanie Harris,N/A,womens field hockey,syracuse
-187,Kira Wimbert,N/A,womens field hockey,syracuse
-188,Claire Cooke,N/A,womens field hockey,syracuse
-189,Carolin Hoffmann,N/A,womens field hockey,syracuse
-190,Audrey Matthew,N/A,womens field hockey,syracuse
-191,Roos Weers,N/A,womens field hockey,syracuse
-192,Emma  Tufts,N/A,womens field hockey,syracuse
-193,Kailey Smith,N/A,womens field hockey,syracuse
-194,Chiara Gutsche,N/A,womens field hockey,syracuse
-195,Kate Aemissegger,"Oreland, Pa.",womens rowing,syracuse
-196,Emily Andolfatto,"Melbourne, Australia",womens rowing,syracuse
-197,Rachael Caldwell,"Melbourne, Australia",womens rowing,syracuse
-198,Alison Canaras,"Milton, Ga.",womens rowing,syracuse
-199,Christie Castorino,"Haddonfield, N.J.",womens rowing,syracuse
-200,Sarah Crummey,"Auckland, New Zealand",womens rowing,syracuse
-201,Alexis Dorner,"Marlton, N.J.",womens rowing,syracuse
-202,Madison Falzon,"Auburndale, Mass.",womens rowing,syracuse
-203,Christine Habjan,"New Milford, Conn.",womens rowing,syracuse
-204,Madeleine Holzman-Klima,"Edmonds, Wash.",womens rowing,syracuse
-205,Maddy  Horridge,"Brisbane, Australia",womens rowing,syracuse
-206,Hailey Hudson,"Exeter, N.H.",womens rowing,syracuse
-207,Olivia Humphrey,"Melbourne Beach, Fla.",womens rowing,syracuse
-208,Ashley Johnson,"Buffalo, N.Y.",womens rowing,syracuse
-209,Haley Jones,"Jamestown, N.Y.",womens rowing,syracuse
-210,Bridget Kelly,"Arlington, Mass.",womens rowing,syracuse
-211,Josie Kiesel,"Wurzburg, Germany",womens rowing,syracuse
-212,Sarah Konishesky,"Old Lyme, Conn.",womens rowing,syracuse
-213,Arianna Lee,"Folsom, Calif.",womens rowing,syracuse
-214,Anna Lewandusky,"Albany, N.Y,",womens rowing,syracuse
-215,Kat Molina,"Niskayuna, N.Y.",womens rowing,syracuse
-216,Helena O'Donnell,"Ely, England",womens rowing,syracuse
-217,Lucy Pearce,"Melbourne, Australia",womens rowing,syracuse
-218,Lauren Pernick,"Buffalo, N.Y.",womens rowing,syracuse
-219,Zoe Preston,"Melbourne, Australia",womens rowing,syracuse
-220,Lauren  Richards,"North Arlington, Va.",womens rowing,syracuse
-221,Isabelle Rodgers,"Lakewood, Colo.",womens rowing,syracuse
-222,Sydney Rodriguez,"San Francisco, Calif.",womens rowing,syracuse
-223,Taylor Rogers,"Pittstown, N.J.",womens rowing,syracuse
-224,Kayla Rubenstein,"New City, N.Y.",womens rowing,syracuse
-225,Tara Ryan,"Havertown, Pa.",womens rowing,syracuse
-226,Rebecca Spraggins,"Arlington, Va.",womens rowing,syracuse
-227,Christina Tobias,"San Jose, Calif.",womens rowing,syracuse
-228,Anjelica Torcivia,"Ithaca, N.Y.",womens rowing,syracuse
-229,Meg Varcoe,"Porter Corners, N.Y.",womens rowing,syracuse
-230,Bryce Holmgren,"Roland, Iowa",softball,syracuse
-231,Jessica Heese,"Platte City, Mo.",softball,syracuse
-232,Gabby Teran,"Atlanta, Ga.",softball,syracuse
-233,Rachel Burkhardt,"Tustin, Calif.",softball,syracuse
-234,Alicia Hansen,"Liverpool, N.Y.",softball,syracuse
-235,Sammy Fernandez,"Carmel, N.Y.",softball,syracuse
-236,Miranda Hearn,"Sugar Land, Texas",softball,syracuse
-237,Hannah Dossett,"Warsaw, Ky.",softball,syracuse
-238,Neli Casares-Maher,"Orange, Calif.",softball,syracuse
-239,Michala Maciolek,"Wynnewood, Pa.",softball,syracuse
-240,Baylee  Douglass,"Centralia, Mo.",softball,syracuse
-241,Riley Didier,"Lewisville, N.C.",softball,syracuse
-242,Gianna Carideo,"Knoxville, Tenn.",softball,syracuse
-243,Hailey Archuleta,"Yorba Linda, Calif.",softball,syracuse
-244,Lailoni Mayfield,"Cerritos, Calif.",softball,syracuse
-245,Toni Martin,"Raymore, Mo.",softball,syracuse
-246,Alexa Romero,"Aurora, Colo.",softball,syracuse
-247,Andrea Bombace,"Wappingers Falls, N.Y.",softball,syracuse
-248,AnnaMarie Gatti,"Scottdale, Pa.",softball,syracuse
-249,Faith Cain,"Omaha, Neb.",softball,syracuse
-250,Dana Valelly,"Dallas, Texas",womens volleyball,syracuse
-251,Anastasiya Gorelina,"Tashkent, Uzbekistan",womens volleyball,syracuse
-252,Aliah  Bowllan,"Pittsford, N.Y.",womens volleyball,syracuse
-253,Kendra  Lukacs,"Calgary, Alberta",womens volleyball,syracuse
-254,Ella Saada,"Kfar Masaryk, Israel",womens volleyball,syracuse
-255,Annie Bozzo,"Glenshaw, Pa.",womens volleyball,syracuse
-256,Christina Oyawale,"New Carrollton, Md.",womens volleyball,syracuse
-257,Belle Sand,"Mabel, Minn.",womens volleyball,syracuse
-258,Amber Witherspoon,"Chicago, Ill.",womens volleyball,syracuse
-259,Yuliia Yastrub,"Nikolaev, Ukraine",womens volleyball,syracuse
-260,Jalissa Trotter,"Texarkana, Texas",womens volleyball,syracuse
-261,Dana Gardner,"Knoxville, Tenn.",womens volleyball,syracuse
-262,Mariia Levanova,"St. Petersburg, Russian Federation",womens volleyball,syracuse
-263,Santita Ebangwese,"Rochester, N.Y.",womens volleyball,syracuse
-264,Logan Hicks,"Scottsdale, Ariz.",womens hockey,syracuse
-265,Amanda Bäckebo,"Gagnef, Sweden",womens hockey,syracuse
-266,Lindsay Eastwood,"Kanata, Ontario",womens hockey,syracuse
-267,Taylor Curtis,"Peoria, Ariz.",womens hockey,syracuse
-268,Emma Polaski,"Morristown, N.J.",womens hockey,syracuse
-269,Stephanie Grossi,"Winnipeg, Manitoba",womens hockey,syracuse
-270,Allie Munroe,"Yarmouth, N.S.",womens hockey,syracuse
-271,Kelli Rowswell,"Winnipeg, Manitoba",womens hockey,syracuse
-272,Kristen  Siermachesky,"New Liskeard, Ontario",womens hockey,syracuse
-273,Savannah Rennie,"East St. Paul, Manitoba",womens hockey,syracuse
-274,Sarah Stuehr,"Westwood, Mass.",womens hockey,syracuse
-275,Ronnie Callahan,"South Windsor, CT",womens hockey,syracuse
-276,Allie Olnowich,"Chatham, N.J.",womens hockey,syracuse
-277,Dakota  Derrer,"Mancelona, Mich.",womens hockey,syracuse
-278,Alysha  Burriss,"Napanee, Ontario",womens hockey,syracuse
-279,Brooke Avery,"Concord, N.H.",womens hockey,syracuse
-280,Jessica DiGirolamo,"Mississauga, Ontario",womens hockey,syracuse
-281,Megan Quinn,"Belleville, Ontario",womens hockey,syracuse
-282,Victoria Klimek,"Orangeville , Ontario",womens hockey,syracuse
-283,Abbey  Miller,"Anoka, Minn.",womens hockey,syracuse
-284,Maddi Welch,"East Amherst, N.Y.",womens hockey,syracuse
-285,Edith D'Astous-Moreau,"Laval, Quebec",womens hockey,syracuse
-286,Ady Cohen,"Boynton Beach, Fla.",womens hockey,syracuse
-287,Bradley Voigt,"Penn Yan, N.Y.",mens lacrosse,syracuse
-288,Sam Romano,"Dallas, Texas",mens lacrosse,syracuse
-289,Nate Solomon,"Alpharetta, Ga.",mens lacrosse,syracuse
-290,Jake Nelson,"Vestal, N.Y.",mens lacrosse,syracuse
-291,Nate Garlow,"Syracuse, N.Y.",mens lacrosse,syracuse
-292,Luke Schwasnick,"Baldwin, N.Y.",mens lacrosse,syracuse
-293,Brad McKinney,"Watertown, N.Y.",mens lacrosse,syracuse
-294,Tyler Ford,"Owego, N.Y.",mens lacrosse,syracuse
-295,Peter Dearth,"Ridgefield, Conn",mens lacrosse,syracuse
-296,Brendan Curry,"Lutherville, Md.",mens lacrosse,syracuse
-297,Austin Fusco,"Yorktown Heights, N.Y.",mens lacrosse,syracuse
-298,Jamie Trimboli,"Victor, N.Y.",mens lacrosse,syracuse
-299,Connor Nelson,"New Hartford, N.Y.",mens lacrosse,syracuse
-300,Owen Seebold,"Dallas, Texas",mens lacrosse,syracuse
-301,Pat Carlin,"Vestal, N.Y.",mens lacrosse,syracuse
-302,Ryan Simmons,"Fayetteville, N.Y.",mens lacrosse,syracuse
-303,Brett Kennedy,"Ridgewood, N.J.",mens lacrosse,syracuse
-304,Tyson Bomberry,"Ohsweken, Ontario",mens lacrosse,syracuse
-305,Lucas Quinn,"Niskayuna, N.Y.",mens lacrosse,syracuse
-306,David Lipka,"Derwood, Md.",mens lacrosse,syracuse
-307,Nick  Mellen,"Syracuse, N.Y.",mens lacrosse,syracuse
-308,Tucker Dordevic,"Portland, Oregon",mens lacrosse,syracuse
-309,Kevin Hutchings,"Marcellus, N.Y.",mens lacrosse,syracuse
-310,Dom Madonna,"Liverpool, N.Y.",mens lacrosse,syracuse
-311,Devon Sullivan,"Corning, N.Y.",mens lacrosse,syracuse
-312,Luke Strang,"Olney, Md.",mens lacrosse,syracuse
-313,Jonah Swigart,"Westlake Village, Calif.",mens lacrosse,syracuse
-314,Stephen Rehfuss,"Latham, N.Y.",mens lacrosse,syracuse
-315,Riley O'Sullivan,"Valley Cottage, N.Y.",mens lacrosse,syracuse
-316,Nick DiPietro,"Dix Hills, N.Y.",mens lacrosse,syracuse
-317,Jack Fiorini,"South Portland, Maine",mens lacrosse,syracuse
-318,Drake Porter,"Aurora, Ontario, Canada",mens lacrosse,syracuse
-319,Jonathan Partamian,"La Canada, Calif.",mens lacrosse,syracuse
-320,Dami Oladunmoye,"Grayslake, Ill.",mens lacrosse,syracuse
-321,Jacob Buttermore,"Garnett Valley, Pa.",mens lacrosse,syracuse
-322,Jakob Phaup,"Sourderton, Pa.",mens lacrosse,syracuse
-323,Sam Schluter,"Pennington, N.J.",mens lacrosse,syracuse
-324,Spencer Small,"San Diego, Calif.",mens lacrosse,syracuse
-325,Seth DeLisle,"Fulton, N.Y.",mens lacrosse,syracuse
-326,Brett Barlow,"Manlius, N.Y.",mens lacrosse,syracuse
-327,Danny  Varello,"Kings Park, N.Y.",mens lacrosse,syracuse
-328,Marcus Cunningham,"Glen Ridge, N.J.",mens lacrosse,syracuse
-329,Matt Lane,"Glen Ridge, N.J.",mens lacrosse,syracuse
-330,Brendan Bomberry,"Osweken, Ontario",mens lacrosse,syracuse
-331,Cristian Edwards,"Potomac, Md.",mens lacrosse,syracuse
-332,Connor  Flanagan,"Fayetteville, N.Y.",mens lacrosse,syracuse
-333,Jared Fernandez,"Lakewood, Fla.",mens lacrosse,syracuse
-334,Nathan  McPeak,"Chula Vista, Calif.",mens lacrosse,syracuse
-335,Alec Orazietti,"Bernardsville, N.J.",mens lacrosse,syracuse
-336,Patrick Major,"Skaneateles, N.Y.",mens lacrosse,syracuse
-337,Willie  Klan III,"Penfield, N.Y.",mens lacrosse,syracuse
-338,Laz Chavez,"Rye, N.Y.",mens lacrosse,syracuse
-339,Nick Martin,"Birmingham, Mich.",mens lacrosse,syracuse
-340,Andrew Helmer,"Summit, N.J.",mens lacrosse,syracuse
-341,Troy Lauder,"Kanesatake, Quebec",mens lacrosse,syracuse
-342,Grant Murphy,"Woodlands, Texas",mens lacrosse,syracuse
-343,Morgan Hollenback,"Bel Air, Md.",womens lacrosse,syracuse
-344,Morgan Alexander,"Adams, N.Y.",womens lacrosse,syracuse
-345,Morgan  Widner,"Coppell, Texas",womens lacrosse,syracuse
-346,Sam Swart,"Coopersburg, Pa.",womens lacrosse,syracuse
-347,Cara Quimby,"Schenectady, N.Y.",womens lacrosse,syracuse
-348,Mackenzie  Baker,"Camillus, N.Y.",womens lacrosse,syracuse
-349,Ella Hogan,"Rochester, N.Y.",womens lacrosse,syracuse
-350,Kerry Defliese,"Garden City, N.Y.",womens lacrosse,syracuse
-351,Alexa Radziewicz,"Manlius, N.Y.",womens lacrosse,syracuse
-352,Jackie Hingre,"Baldwinsville, N.Y.",womens lacrosse,syracuse
-353,Casey Duff,"Yorktown Heights, N.Y.",womens lacrosse,syracuse
-354,Vanessa  Costantino,"West Islip, N.Y.",womens lacrosse,syracuse
-355,Nicole Levy,"East Islip, N.Y.",womens lacrosse,syracuse
-356,Lila Nazarian,"Baltimore, Md.",womens lacrosse,syracuse
-357,Rilea  Fusco,"Yorktown Heights, N.Y.",womens lacrosse,syracuse
-358,Natalie  Wallon,"Waxhaw, N.C.",womens lacrosse,syracuse
-359,Grace Fahey,"Boxford, Mass.",womens lacrosse,syracuse
-360,Riley Donahue,"Camillus, N.Y.",womens lacrosse,syracuse
-361,Neena Merola,"Painted Post, N.Y.",womens lacrosse,syracuse
-362,Allyson Trice,"Syracuse, N.Y.",womens lacrosse,syracuse
-363,Bella Recchion,"East Quogue, N.Y.",womens lacrosse,syracuse
-364,Asa Goldstock,"Niskayuna, N.Y.",womens lacrosse,syracuse
-365,Taylor Gait,"Fayetteville, N.Y.",womens lacrosse,syracuse
-366,Alie Jimerson,"Irving, N.Y.",womens lacrosse,syracuse
-367,Emily Resnick,"Webster, N.Y.",womens lacrosse,syracuse
-368,Zoe Recchion,"East Quague, N.Y.",womens lacrosse,syracuse
-369,Kelzi Van Atta,"Rochester, N.Y.",womens lacrosse,syracuse
-370,Bri Stahrr,"North Syracuse, N.Y.",womens lacrosse,syracuse
-371,Hailey Bengston,"Huntington, N.Y.",womens lacrosse,syracuse
-372,Christina McCabe,"Oceanside, N.Y.",womens lacrosse,syracuse
-373,Kenzie Harris,"Rochester, N.Y.",womens lacrosse,syracuse
-374,Emily Amell,"Dexter, N.Y.",womens lacrosse,syracuse
-375,Ella Simkins,"Centerport, N.Y.",womens lacrosse,syracuse
-376,Lauren Gray,"Clifton Park, N.Y.",womens lacrosse,syracuse
-377,Laura Hurff,"Newark, Del.",womens lacrosse,syracuse
-378,Julie  Cross,"Oreland, Pa.",womens lacrosse,syracuse
-379,Hannah Van Middelem,"Mt. Sinai, N.Y.",womens lacrosse,syracuse
-380,Mia DiBello,"Syracuse, N.Y.",womens lacrosse,syracuse
-381,Mary Rahal,"Queensbury, N.Y.",womens lacrosse,syracuse
-382,Molly Carter,"Lynbrook, N.Y.",womens lacrosse,syracuse
-383,Erin Coleman,"Manhasset, N.Y.",womens lacrosse,syracuse
-384,Wadata:wi Bomberry,"Six Nations, Ontario",womens lacrosse,syracuse
-385,Emily Hawryschuk,"Victor, N.Y.",womens lacrosse,syracuse
-386,Jakob Andersen,"Malmo, Sweden",mens rowing,syracuse
-387,Matthew Barni,"Willoughby Hills, Ohio",mens rowing,syracuse
-388,Gregory Bauerfeld,"Wilton, Conn.",mens rowing,syracuse
-389,Charles Bowman,"Osprey, Fla.",mens rowing,syracuse
-390,Sarah Brune,"Brick, N.J.",mens rowing,syracuse
-391,Sam Busco,"Syracuse, N.Y.",mens rowing,syracuse
-392,Andrew Cummings,"Pittsburgh, Pa.",mens rowing,syracuse
-393,Alexander Douglas,"Beaumaris, Australia",mens rowing,syracuse
-394,Alex Engel,"Pittsburgh, Pa.",mens rowing,syracuse
-395,Brennan Finley,"Ocean City, N.J.",mens rowing,syracuse
-396,Declan Fischback,"Rocky River, Ohio",mens rowing,syracuse
-397,Mike Glaude,"Oxford, Pa.",mens rowing,syracuse
-398,Cameron Grimm,"Kearny, N.J.",mens rowing,syracuse
-399,Mitchell Harjo,"Carlisle, Pa.",mens rowing,syracuse
-400,Joshua  Hockenberry,"Pittsburgh, Pa.",mens rowing,syracuse
-401,Hadley Hoyle,"Orlando, Fla.",mens rowing,syracuse
-402,Kenneth Hubbard,"Boca Raton, Fla.",mens rowing,syracuse
-403,James Hunt,"New York, N.Y.",mens rowing,syracuse
-404,Pieter Kerpestein,"Amsterdam, Netherlands",mens rowing,syracuse
-405,Kyle Leimeister,"Vineland, N.J.",mens rowing,syracuse
-406,Jeremy Lipford,"Sarasota, Fla.",mens rowing,syracuse
-407,Jack Mancini,"Pittsford, N.Y.",mens rowing,syracuse
-408,Alex Manfredi,"Vienna, Va.",mens rowing,syracuse
-409,Noah Messner,"Grand Rapids, Mich.",mens rowing,syracuse
-410,Anicet Mundundu,"Pittsburgh, Pa.",mens rowing,syracuse
-411,Alex Ormsby,"Westford, Mass.",mens rowing,syracuse
-412,Sveta Radovic,"Beograd, Serbia",mens rowing,syracuse
-413,Isabelle Rittenberry,"Allentown, N.J.",mens rowing,syracuse
-414,Dominic Santora,"Cleveland, Ohio",mens rowing,syracuse
-415,Forrest Sears,"Sauquoit, N.Y.",mens rowing,syracuse
-416,Patrick Shober,"Absecon, N.J.",mens rowing,syracuse
-417,Ryan Smith,"Baldwinsville, N.Y.",mens rowing,syracuse
-418,Sam Snedden,"Washington, D.C.",mens rowing,syracuse
-419,SunLee Stechuk,"Fairfax, Va.",mens rowing,syracuse
-420,Nick Tavares,"Fonthill, Ontario",mens rowing,syracuse
-421,Zachary Vlahandreas,"Winnetka, Ill.",mens rowing,syracuse
-422,Luka Vrbaski,"Novi Sad, Serbia",mens rowing,syracuse
-423,Jamil Adams,N/A,mixed track,syracuse
-424,Noah Affolder,N/A,mixed track,syracuse
-425,Andrew  Aguilera,N/A,mixed track,syracuse
-426,Kwaku Agyemang,N/A,mixed track,syracuse
-427,Kelvin Almonte,N/A,mixed track,syracuse
-428,Iliass  Aouani,N/A,mixed track,syracuse
-429,Chevis Armstead,N/A,mixed track,syracuse
-430,Pascal Bastien,N/A,mixed track,syracuse
-431,Colin  Bennie,N/A,mixed track,syracuse
-432,Ebhani Blackwood,N/A,mixed track,syracuse
-433,Eunice Boateng,N/A,mixed track,syracuse
-434,Rachel Bonner,N/A,mixed track,syracuse
-435,Mickey Burke,N/A,mixed track,syracuse
-436,Matt Cavallaro,N/A,mixed track,syracuse
-437,Imani Clark,N/A,mixed track,syracuse
-438,Alexandra Cooper,N/A,mixed track,syracuse
-439,Bridget Curtin,N/A,mixed track,syracuse
-440,Madeleine Davison,N/A,mixed track,syracuse
-441,Danielle Delgado,N/A,mixed track,syracuse
-442,Laura Dickinson,N/A,mixed track,syracuse
-443,Joseph  Dragon,N/A,mixed track,syracuse
-444,Olivia  Elston,N/A,mixed track,syracuse
-445,Richard  Floyd,N/A,mixed track,syracuse
-446,Philo Germano,N/A,mixed track,syracuse
-447,Nia Gibson,N/A,mixed track,syracuse
-448,David Gilstrap,N/A,mixed track,syracuse
-449,Aviana Goode,N/A,mixed track,syracuse
-450,Angelo  Goss,N/A,mixed track,syracuse
-451,Alexis Harper,N/A,mixed track,syracuse
-452,Nathan  Henderson,N/A,mixed track,syracuse
-453,Ryley Higgins,N/A,mixed track,syracuse
-454,Dominic  Hockenbury,N/A,mixed track,syracuse
-455,Kevin James,N/A,mixed track,syracuse
-456,Randall Johnson,N/A,mixed track,syracuse
-457,Kayli Jones,N/A,mixed track,syracuse
-458,Justyn Knight,N/A,mixed track,syracuse
-459,Declan Kottmeier,N/A,mixed track,syracuse
-460,Jared Lautenslager,N/A,mixed track,syracuse
-461,Winston  Lee,N/A,mixed track,syracuse
-462,Sydney Leiher,N/A,mixed track,syracuse
-463,Hannah Loder,N/A,mixed track,syracuse
-464,Mary Malone,N/A,mixed track,syracuse
-465,Shannon Malone,N/A,mixed track,syracuse
-466,LaZyrick Middlebrooks,N/A,mixed track,syracuse
-467,Kashif Miller,N/A,mixed track,syracuse
-468,Pierce  Miller,N/A,mixed track,syracuse
-469,Matt Moore,N/A,mixed track,syracuse
-470,Andy Paladino,N/A,mixed track,syracuse
-471,Victoria Parker,N/A,mixed track,syracuse
-472,Kokeith Perry,N/A,mixed track,syracuse
-473,Kelsey Potts,N/A,mixed track,syracuse
-474,Dasia Pressley,N/A,mixed track,syracuse
-475,Jalen Racine,N/A,mixed track,syracuse
-476,Kerry Reilly,N/A,mixed track,syracuse
-477,Justice Richardson,N/A,mixed track,syracuse
-478,Stephen Schulz,N/A,mixed track,syracuse
-479,Eva Scott,N/A,mixed track,syracuse
-480,Kadejhia  Sellers,N/A,mixed track,syracuse
-481,Simon Smith,N/A,mixed track,syracuse
-482,Chuka  Soronnadi,N/A,mixed track,syracuse
-483,Taylor Spillane,N/A,mixed track,syracuse
-484,Paige Stoner,N/A,mixed track,syracuse
-485,Tia Thevenin,N/A,mixed track,syracuse
-486,Maggie Toczko,N/A,mixed track,syracuse
-487,Aidan Tooker,N/A,mixed track,syracuse
-488,Cheyenne Trigg,N/A,mixed track,syracuse
-489,Chris Tucker,N/A,mixed track,syracuse
-490,Abigail  Walsh,N/A,mixed track,syracuse
-491,Julien Webster,N/A,mixed track,syracuse
-492,Emma Wilson,N/A,mixed track,syracuse
-493,Natalie Zazzara,N/A,mixed track,syracuse
-494,Noah Affolder,"Carthage, N.Y.",mixed cross country,syracuse
-495,Iliass Aouani,"Milan, Italy",mixed cross country,syracuse
-496,Colin Bennie,"Princeton, Mass.",mixed cross country,syracuse
-497,Rachel Bonner,"Port Huron, Mich.",mixed cross country,syracuse
-498,Mickey  Burke,"Henrietta, N.Y.",mixed cross country,syracuse
-499,Alexandra Cooper,"Henrietta, N.Y.",mixed cross country,syracuse
-500,Madeleine  Davison,"Wexford, Pa.",mixed cross country,syracuse
-501,Joseph Dragon,"Wantage, N.J.",mixed cross country,syracuse
-502,Olivia Elston,"Goshen, NY",mixed cross country,syracuse
-503,Philo Germano,"Albany, N.Y.",mixed cross country,syracuse
-504,Nathan Henderson,"Lancaster, PA",mixed cross country,syracuse
-505,Ryley  Higgins,"Avon, Conn.",mixed cross country,syracuse
-506,Dominic Hockenbury,"Harveys Lake, Pa.",mixed cross country,syracuse
-507,Kevin James,"Clifton Heights, Pa.",mixed cross country,syracuse
-508,Kayli Jones,"Southlake, Texas",mixed cross country,syracuse
-509,Justyn Knight,"Vaughan, Ontario",mixed cross country,syracuse
-510,Mary Malone,"Pittsburgh, Pa.",mixed cross country,syracuse
-511,Shannon  Malone,"Pittsburgh, Pa.",mixed cross country,syracuse
-512,Pierce Miller,"Portland, Ore.",mixed cross country,syracuse
-513,Griffin Molino,"Williamsport, Pa.",mixed cross country,syracuse
-514,Andrew Paladino,"Morgantown, W. Va.",mixed cross country,syracuse
-515,Chelsie Pennello,"Poolesville, Md.",mixed cross country,syracuse
-516,Kelsey Potts,"Pittsburgh, Pa.",mixed cross country,syracuse
-517,Stephen Schulz,"Liverpool, NY",mixed cross country,syracuse
-518,Eva Scott,"Burnt Hills, NY",mixed cross country,syracuse
-519,Simon  Smith,"Towanda, Pa.",mixed cross country,syracuse
-520,Taylor Spillane,"Shelburne, VT",mixed cross country,syracuse
-521,Paige Stoner,"Pottsville, Pa.",mixed cross country,syracuse
-522,Maggie Toczko,"Mehoopany, Pa.",mixed cross country,syracuse
-523,Aidan Tooker,"Saratoga Springs, N.Y.",mixed cross country,syracuse
-524,Abigail Walsh,"Beverly, MA",mixed cross country,syracuse
-525,Julien Webster,"Thurmont, MD",mixed cross country,syracuse
-526,Emma Wilson,"Romeo, Mich.",mixed cross country,syracuse
+,name,hometown,high school?,sport,college
+0,Adrian Autry,"Jamesville, N.Y.",Jamesville-DeWitt,mens basketball,syracuse
+1,Matthew  Moyer,"Gahanna, Ohio",Lincoln HS/South Kent Prep (Conn.),mens basketball,syracuse
+2,Elijah Hughes,"Beacon, N.Y.","Beacon/Kennedy/South Kent Prep, Conn.",mens basketball,syracuse
+3,Patrick Herlihy,"Charleston, W.V.",Charleston Catholic,mens basketball,syracuse
+4,Howard Washington,"Buffalo, N.Y.","Canisius/Montverde Academy, Fla./Athlete Institute Prep",mens basketball,syracuse
+5,Oshae Brissett,"Mississauga, Ontario",Findlay Prep/Athlete Institute Prep,mens basketball,syracuse
+6,Paschal Chukwu,"Westport, Conn.",Fairfield Prep,mens basketball,syracuse
+7,Braedon Bayer,"Lagrangeville, N.Y.",Trinity-Pawling School,mens basketball,syracuse
+8,Marek Dolezaj,"Bratislava, Slovakia",Karlovka,mens basketball,syracuse
+9,Frank Howard,"Suitland, Md.",Paul VI,mens basketball,syracuse
+10,Shaun Belbey,"Brick, N.J.",Christian Brothers Academy,mens basketball,syracuse
+11,Tyus  Battle,"Edison, N.J.",Gill St. Bernard's School/St. Joseph's (N.J.),mens basketball,syracuse
+12,Ray Featherston,"Westport, Conn.",Fairfield Prep/Choate Rosemary Hall,mens basketball,syracuse
+13,Bourama Sidibe,"Newark, N.J.",St. Benedict's Prep,mens basketball,syracuse
+14,Ky Feldman,"Agoura Hills, Ca.",Agoura High School,mens basketball,syracuse
+15,Raven Fox,"Bladensburg, Md.",Elizabeth Seton,womens basketball,syracuse
+16,Chelayne Bailey,"Pickering, Ontario",Pickering,womens basketball,syracuse
+17,Maeva Djaldi-Tabdi,"Paris, France",Jean Moulin,womens basketball,syracuse
+18,Tiana Mangakahia,"Meadowbrook, Australia",Lake Ginninderra,womens basketball,syracuse
+19,Marie-Paule Foppossi,"Strasbourg, France",Lycee Marcelin-Berthelot,womens basketball,syracuse
+20,Gabrielle Cooper,"Lansing, Ill.",Morgan Park,womens basketball,syracuse
+21,Kiara Lewis,"Chicago, Ill.",Whitney Young,womens basketball,syracuse
+22,Amaya Finklea-Guity,"Dorchester, Mass.",Noble & Greenough,womens basketball,syracuse
+23,Isis Young,"Berlin, N.J.",Life Center Academy,womens basketball,syracuse
+24,Brandi Fowler,"Syracuse, N.Y.",Corcoran,womens basketball,syracuse
+25,Miranda Drummond,"Binghamton, N.Y.",Harpursville,womens basketball,syracuse
+26,Digna Strautmane,"Riga, Latvia",Riga 66,womens basketball,syracuse
+27,Eric Dungey,"Lake Oswego, Ore.",Lakeridge,football,syracuse
+28,Christopher Fredrick,"Conley, Ga.",Cedar Grove,football,syracuse
+29,Dontae Strickland,"Dayton, N.J.",South Brunswick,football,syracuse
+30,Devin C. Butler,"District Heights, Md.",Frederick Douglass,football,syracuse
+31,Ravian Pierce,"Plantation, Fla.",Plantation,football,syracuse
+32,Antwan Cordy,"Homestead, Fla.",South Dade,football,syracuse
+33,Sterling Hofrichter,"Valrico, Fla.",Armwood,football,syracuse
+34,Sean Riley,"Los Angeles, Calif.",Narbonne,football,syracuse
+35,Devon Clarke,"Kissimmee, Fla.",Osceola,football,syracuse
+36,Clayton Welch,"Chico, Calif.",Chico,football,syracuse
+37,Andrew Armstrong,"Youngstown, Ohio",Cardinal Mooney,football,syracuse
+38,Russell Thompson-Bishop,"Bloomfield, Conn.",Bloomfield,football,syracuse
+39,Tommy DeVito,"Cedar Grove, N.J.",Don Bosco Prep,football,syracuse
+40,Evan Foster,"West Bloomfield, Mich.",West Bloomfield,football,syracuse
+41,Rex Culpepper,"Tampa, Fla.",Plant,football,syracuse
+42,Chance Amie,"Flint, Texas",Robert E. Lee,football,syracuse
+43,Carl Jones,"Twinsburg, Ohio",St. Edward,football,syracuse
+44,Jamal Custis,"Philadelphia, Pa.",Neumann-Goretti,football,syracuse
+45,Scoop Bradshaw,"Tampa, Fla.",Plant,football,syracuse
+46,Andre Cisco,"Valley Stream, N.Y.",IMG Academy (Fla.),football,syracuse
+47,Tyler Gilfus,"Cape Vincent, N.Y.",Thousand Islands,football,syracuse
+48,Cam Jonas,"West Palm Beach, Fla.",Dwyer,football,syracuse
+49,Moe Neal,"Gastonia, N.C.",Forestview,football,syracuse
+50,Markenzy Pierre,"Orlando, Fla.",Liberty,football,syracuse
+51,Abdul Adams,"Landover, Md.",Hillside (N.C.),football,syracuse
+52,Shyheim Cullen,"Lowell, Mass.",Lowell,football,syracuse
+53,Kielan Whitner,"Lawrenceville, Ga.",Mountain View,football,syracuse
+54,Sean  Onwualu,"Sylmar, Calif.",Granada Hills Charter,football,syracuse
+55,Tyrone Perkins,"Glen Head, N.Y.",Friends Academy,football,syracuse
+56,Nadarius Fagan,"Goulds, Fla.",Miami Southridge,football,syracuse
+57,Otto Zaccardo,"Subury, Mass.",Lincoln-Sudbury,football,syracuse
+58,Juan Wallace,"Washington, D.C.",IMG Academy (Fla.),football,syracuse
+59,Kyle Kleinberg,"Armonk, N.Y.",Don Bosco Prep (N.J.),football,syracuse
+60,Allen Stritzinger,"Detroit, Mich.",De La Salle,football,syracuse
+61,Jack Guida,"New Canaan, Conn.",Brewster (N.Y.),football,syracuse
+62,Kadeem Trotter,"Canton, Ohio",McKinley,football,syracuse
+63,Eric Coley,"Manlius, N.Y.",Fayetteville-Manlius,football,syracuse
+64,Kyle Strickland,"Roswell, Ga.",Roswell,football,syracuse
+65,Chris Elmore,"Chicago, Ill.",Phillips Academy,football,syracuse
+66,Tim Walton,"Detroit, Mich.",Cass Technical,football,syracuse
+67,Kevin Nusdeo,"Orange, Conn.",Choate Rosemary Hall,football,syracuse
+68,Luke Erickson,"Greene, N.Y.",Greene,football,syracuse
+69,Ryan Guthrie,"Cumming, Ga.",West Forsyth,football,syracuse
+70,Tyrell Richards,"Brampton, Ontario, Canada",Clarkson Secondary School,football,syracuse
+71,Ifeatu Melifonwu,"South Grafton, Mass.",Grafton,football,syracuse
+72,Kenneth Ruff,"Lauderhill, Fla.",Dillard,football,syracuse
+73,Lakiem Williams,"Tacoma, Wash.",Spanaway Lake,football,syracuse
+74,Matt Keller,"Willow Street, Pa.",Penn Manor,football,syracuse
+75,Jesse Conners,"Pittsford, N.Y.",Salisbury School (Conn.),football,syracuse
+76,Zack Lesko,"Solon, Ohio",Solon,football,syracuse
+77,Aaron Bolinsky,"Frackville, Pa.",North Schuylkill,football,syracuse
+78,Shaq Grosvenor,"Linden, N.J.",West Orange,football,syracuse
+79,Curtis Harper,"McKeesport, Pa.",McKeesport,football,syracuse
+80,Austin Chandler,"Los Angeles, Calif.",Loyola,football,syracuse
+81,Kendall Coleman,"Indianapolis, Ind.",Cathedral,football,syracuse
+82,Dakota Davis,"Mount Airy, Md.",Glenelg,football,syracuse
+83,Kingsley Jonathan,"Baltimore, Md.",St. Frances Academy,football,syracuse
+84,Aaron Roberts,"Chicago, Ill.",De La Salle Institute,football,syracuse
+85,Cody Conway,"Plainfield, Ill.",Plainfield North,football,syracuse
+86,Evan Adams,"Norwalk, Conn.",Norwalk,football,syracuse
+87,Colin Byrne,"Coral Springs, Fla.",St. Thomas Aquinas,football,syracuse
+88,Airon Servais,"Green Bay, Wis.",Ashwaubenon,football,syracuse
+89,Patrick Davis,"Gatineau, Quebec, Canada",Champlain Regional,football,syracuse
+90,Keaton  Darney,"Los Angeles, Calif.",Loyola,football,syracuse
+91,Andrejas Duerig,"Lowell, Ind.",Mount Carmel,football,syracuse
+92,Sam Heckel,"Waukesha, Wis.",Waukesha West,football,syracuse
+93,Mike Clark,"Exton, Pa.",Downingtown East,football,syracuse
+94,Cameron Jordan,"Wheatley Heights, N.Y.",Half Hollow Hills West,football,syracuse
+95,Nykeim Johnson,"Washington, D.C.",Friendship Academy,football,syracuse
+96,Kevin Johnson Jr.,"Columbus, N.J.",IMG Academy (Fla.),football,syracuse
+97,K.K. Hahn,"Bethesda, Md.",IMG Academy (Fla.),football,syracuse
+98,Josh Black,"Loves Park, Ill.",Harlem,football,syracuse
+99,Ben Brickman,"Albany, N.Y.",Shaker,football,syracuse
+100,Trishton Jackson,"West Bloomfield, Mich.",West Bloomfield,football,syracuse
+101,Sharod Johnson,"Miami, Fla.",Booker T. Washington,football,syracuse
+102,Aaron Hackett,"Venice, Fla.",Venice,football,syracuse
+103,Cory Smigel,"North Royalton, Ohio",North Royalton,football,syracuse
+104,Zach Morton,"Detroit, Mich.",Cass Technical,football,syracuse
+105,Andre Szmyt,"Vernon Hills, Ill.",Vernon Hills,football,syracuse
+106,Nolan Cooney,"East Greenwich, R.I.",East Greenwich,football,syracuse
+107,Alton Robinson,"Converse, Texas",Judson,football,syracuse
+108,Chris  Slayton,"University Park, Ill.",Crete Monee,football,syracuse
+109,Brandon Berry,"Griffin, Ga.",Griffin,football,syracuse
+110,McKinley Williams,"Miramar, Fla.",Dillard,football,syracuse
+111,Jake Pickard,"Short Hills, N.J.",Millburn,football,syracuse
+112,Pat Castle,"Schuylerville, N.Y.",Schuylerville,mens soccer,syracuse
+113,Jan Breitenmoser,"Wil, Switzerland",BZWU,mens soccer,syracuse
+114,Sondre Norheim,"Bryne, Norway",N/A,mens soccer,syracuse
+115,Justin  Earle,"Stittsville, Ontario",Sacred Heart,mens soccer,syracuse
+116,Kamal Miller,"Pickering, Ontario",Blessed Mother Theresa,mens soccer,syracuse
+117,Hampus Bergdahl,"Asarum, Sweden",Furulundskola,mens soccer,syracuse
+118,Mo Adams,"Nottingham, England",Dianogly City Academy,mens soccer,syracuse
+119,Jonathan Hagman,"Enebyberg, Sweden",N/A,mens soccer,syracuse
+120,Johannes Pieles,"Langenbach, Germany",J.C.F. GutsMuths Sportgymnasium Jena,mens soccer,syracuse
+121,Hugo Delhommelle,"Rennes, France",N/A,mens soccer,syracuse
+122,Adnan Bakalovic,"Utica, N.Y.",Thomas R. Proctor,mens soccer,syracuse
+123,John-Austin Ricks,"Diablo, Calif.",Monte Vista,mens soccer,syracuse
+124,Evan Peters,"Valley Stream, N.Y.",Valley Stream North,mens soccer,syracuse
+125,Petter Stangeland,"Sandnes, Norway",Sandnes Videregaende Skola,mens soccer,syracuse
+126,Simon  Triantafillou,"Burlington, Ontario",Corpus Christi Catholic,mens soccer,syracuse
+127,Lukas Rubio,"Liverpool, N.Y.",Liverpool,mens soccer,syracuse
+128,Tajon Buchanan,"Broomfield, Colo.",Legacy,mens soccer,syracuse
+129,Djimon Johnson,"Bridgeport, Conn.",South Kent,mens soccer,syracuse
+130,Mamadou Balde,"Corona, N.Y.",John Bowne,mens soccer,syracuse
+131,Miles Franklyn,"Teaneck, N.J.",Bergen Catholic,mens soccer,syracuse
+132,Dylan McDonald,"Langhorne, Pa.",Neshaminy,mens soccer,syracuse
+133,Oliver Eisen,"Stockholm, Sweden",Gungsholmens,mens soccer,syracuse
+134,Manny Nunez,"Austin, Texas",Bowie,mens soccer,syracuse
+135,Hendrik Hilpert,"Eiterfeld, Germany",IGS Wilhelm Bracke,mens soccer,syracuse
+136,Matt Pickard,"Pendleton, N.Y.",Starpoint,mens soccer,syracuse
+137,Nikolas Steiner,"Baltimore, Md.",Friends School,mens soccer,syracuse
+138,Jake Leahy,"Brick, N.J.",The Peddie School,mens soccer,syracuse
+139,Ally Wakeman,N/A,The Peddie School,womens soccer,syracuse
+140,Kate Donovan,N/A,The Peddie School,womens soccer,syracuse
+141,Sydney Brackett,N/A,The Peddie School,womens soccer,syracuse
+142,Marisa Fischetti,N/A,The Peddie School,womens soccer,syracuse
+143,Kailee Coonan,N/A,The Peddie School,womens soccer,syracuse
+144,Taylor Bennett,N/A,The Peddie School,womens soccer,syracuse
+145,Kate Hostage,N/A,The Peddie School,womens soccer,syracuse
+146,Georgia Allen,N/A,The Peddie School,womens soccer,syracuse
+147,Abby Jonathan,N/A,The Peddie School,womens soccer,syracuse
+148,Jenna Tivnan,N/A,The Peddie School,womens soccer,syracuse
+149,Victoria Hill,N/A,The Peddie School,womens soccer,syracuse
+150,Shannon Aviza,N/A,The Peddie School,womens soccer,syracuse
+151,Laurel Ness,N/A,The Peddie School,womens soccer,syracuse
+152,Mackenzie Vlachos,N/A,The Peddie School,womens soccer,syracuse
+153,Drina Domic,N/A,The Peddie School,womens soccer,syracuse
+154,Lysianne Proulx,N/A,The Peddie School,womens soccer,syracuse
+155,Clarke Brown,N/A,The Peddie School,womens soccer,syracuse
+156,Meghan Root,N/A,The Peddie School,womens soccer,syracuse
+157,Molly Nethercott,N/A,The Peddie School,womens soccer,syracuse
+158,Jordan Harris,N/A,The Peddie School,womens soccer,syracuse
+159,Sofya Golubovskaya,"Moscow, Russia",N/A,womens tennis,syracuse
+160,Dina Hegab,"Giza, Egypt",N/A,womens tennis,syracuse
+161,Gabriela Knutson,"Duur Kralove nad Labem, Czech Republic",N/A,womens tennis,syracuse
+162,Libi Mesh,"Haifa, Israel",N/A,womens tennis,syracuse
+163,Nicole Mitchell,"Santa Rosa, Calif.",Sonoma Academy,womens tennis,syracuse
+164,Miranda Ramirez,"San Antonio, Texas",N/A,womens tennis,syracuse
+165,Anna Shkudun,"Energodar, Ukraine",N/A,womens tennis,syracuse
+166,Maria Tritou,"Rhodes, Greece",3rd General Lyceum of Rhodes,womens tennis,syracuse
+167,Emma Likly,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+168,Sasha Bull,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+169,Jamie Martin,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+170,Jennifer Bleakney,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+171,Claire Webb,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+172,Caroline Cady,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+173,Sarah Luby,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+174,Stephanie Harris,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+175,Kira Wimbert,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+176,Claire Cooke,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+177,Carolin Hoffmann,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+178,Peyton Kemp,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+179,Roos Weers,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+180,Alex Morales,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+181,Tess Queen,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+182,Bea Bennettt,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+183,Borg van der Velde,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+184,SJ Quigley,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+185,Syd Taylor,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+186,Kailey Smith,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+187,Chiara Gutsche,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+188,Alicia Carr,N/A,3rd General Lyceum of Rhodes,womens field hockey,syracuse
+189,Kate Aemissegger,"Oreland, Pa.",Germantown Academy,womens rowing,syracuse
+190,Emily Andolfatto,"Melbourne, Australia",Methodist Ladies College,womens rowing,syracuse
+191,Rachael Caldwell,"Melbourne, Australia",N/A,womens rowing,syracuse
+192,Alison Canaras,"Milton, Ga.",Milton HS,womens rowing,syracuse
+193,Christie Castorino,"Haddonfield, N.J.",Haddonfield HS,womens rowing,syracuse
+194,Sarah Crummey,"Auckland, New Zealand",Glendowie College,womens rowing,syracuse
+195,Alexis Dorner,"Marlton, N.J.",Cherokee HS,womens rowing,syracuse
+196,Madison Falzon,"Auburndale, Mass.",St. Mark's School,womens rowing,syracuse
+197,Christine Habjan,"New Milford, Conn.",New Milford HS,womens rowing,syracuse
+198,Madeleine Holzman-Klima,"Edmonds, Wash.",Holy Names Academy,womens rowing,syracuse
+199,Maddy  Horridge,"Brisbane, Australia",Somerville HS,womens rowing,syracuse
+200,Hailey Hudson,"Exeter, N.H.",Philips Exeter Academy,womens rowing,syracuse
+201,Olivia Humphrey,"Melbourne Beach, Fla.",West Shore HS,womens rowing,syracuse
+202,Ashley Johnson,"Buffalo, N.Y.",Clarence HS,womens rowing,syracuse
+203,Haley Jones,"Jamestown, N.Y.",Jamestown HS,womens rowing,syracuse
+204,Bridget Kelly,"Arlington, Mass.",Arlington HS,womens rowing,syracuse
+205,Josie Kiesel,"Wurzburg, Germany",Deutschhaus-Gymnasium,womens rowing,syracuse
+206,Sarah Konishesky,"Old Lyme, Conn.",Lyme-Old Lyme HS,womens rowing,syracuse
+207,Arianna Lee,"Folsom, Calif.",Vista del Lago HS,womens rowing,syracuse
+208,Anna Lewandusky,"Albany, N.Y,",Columbia HS,womens rowing,syracuse
+209,Kat Molina,"Niskayuna, N.Y.",Niskayuna HS,womens rowing,syracuse
+210,Helena O'Donnell,"Ely, England",N/A,womens rowing,syracuse
+211,Lucy Pearce,"Melbourne, Australia",Haileybury College,womens rowing,syracuse
+212,Lauren Pernick,"Buffalo, N.Y.",N/A,womens rowing,syracuse
+213,Zoe Preston,"Melbourne, Australia",Haileybury School,womens rowing,syracuse
+214,Lauren  Richards,"North Arlington, Va.",Yorktown HS,womens rowing,syracuse
+215,Isabelle Rodgers,"Lakewood, Colo.",Tabor Academy,womens rowing,syracuse
+216,Sydney Rodriguez,"San Francisco, Calif.",St. Ignatius College Prep,womens rowing,syracuse
+217,Taylor Rogers,"Pittstown, N.J.",N/A,womens rowing,syracuse
+218,Kayla Rubenstein,"New City, N.Y.",Clarkstown North HS,womens rowing,syracuse
+219,Tara Ryan,"Havertown, Pa.",Haverford HS,womens rowing,syracuse
+220,Rebecca Spraggins,"Arlington, Va.",Washington Lee HS,womens rowing,syracuse
+221,Christina Tobias,"San Jose, Calif.",Presentation HS,womens rowing,syracuse
+222,Anjelica Torcivia,"Ithaca, N.Y.",Niskayuna HS,womens rowing,syracuse
+223,Meg Varcoe,"Porter Corners, N.Y.",Saratoga Springs HS,womens rowing,syracuse
+224,Bryce Holmgren,"Roland, Iowa",Roland-Story,softball,syracuse
+225,Jessica Heese,"Platte City, Mo.",North Platte,softball,syracuse
+226,Gabby Teran,"Atlanta, Ga.",Marist,softball,syracuse
+227,Rachel Burkhardt,"Tustin, Calif.",Foothill,softball,syracuse
+228,Alicia Hansen,"Liverpool, N.Y.",Liverpool,softball,syracuse
+229,Sammy Fernandez,"Carmel, N.Y.",Carmel,softball,syracuse
+230,Miranda Hearn,"Sugar Land, Texas",Clements,softball,syracuse
+231,Hannah Dossett,"Warsaw, Ky.",Gallatin County High,softball,syracuse
+232,Neli Casares-Maher,"Orange, Calif.",Mater Dei,softball,syracuse
+233,Michala Maciolek,"Wynnewood, Pa.",Agnes Irwin,softball,syracuse
+234,Baylee  Douglass,"Centralia, Mo.",Centralia HS,softball,syracuse
+235,Riley Didier,"Lewisville, N.C.",Forsyth Country Day,softball,syracuse
+236,Gianna Carideo,"Knoxville, Tenn.",Knoxville Catholic,softball,syracuse
+237,Hailey Archuleta,"Yorba Linda, Calif.",Santa Margarita Catholic,softball,syracuse
+238,Lailoni Mayfield,"Cerritos, Calif.",Cerritos,softball,syracuse
+239,Toni Martin,"Raymore, Mo.",Raymore-Peculiar,softball,syracuse
+240,Alexa Romero,"Aurora, Colo.",Eaglecrest HS,softball,syracuse
+241,Andrea Bombace,"Wappingers Falls, N.Y.",Roy C. Ketcham,softball,syracuse
+242,AnnaMarie Gatti,"Scottdale, Pa.",Southmoreland,softball,syracuse
+243,Faith Cain,"Omaha, Neb.",Millard West HS,softball,syracuse
+244,Dana Valelly,"Dallas, Texas",Ursuline Academy of Dallas,womens volleyball,syracuse
+245,Anastasiya Gorelina,"Tashkent, Uzbekistan",N/A,womens volleyball,syracuse
+246,Aliah  Bowllan,"Pittsford, N.Y.",Pittsford Sutherland,womens volleyball,syracuse
+247,Kendra  Lukacs,"Calgary, Alberta",Bishop Carroll,womens volleyball,syracuse
+248,Ella Saada,"Kfar Masaryk, Israel",N/A,womens volleyball,syracuse
+249,Annie Bozzo,"Glenshaw, Pa.",Shaler Area,womens volleyball,syracuse
+250,Christina Oyawale,"New Carrollton, Md.",Parkdale,womens volleyball,syracuse
+251,Belle Sand,"Mabel, Minn.",Mabel-Canton,womens volleyball,syracuse
+252,Amber Witherspoon,"Chicago, Ill.",Lincoln Park,womens volleyball,syracuse
+253,Yuliia Yastrub,"Nikolaev, Ukraine",N/A,womens volleyball,syracuse
+254,Jalissa Trotter,"Texarkana, Texas",Texas HS,womens volleyball,syracuse
+255,Dana Gardner,"Knoxville, Tenn.",Knoxville Catholic,womens volleyball,syracuse
+256,Mariia Levanova,"St. Petersburg, Russian Federation",N/A,womens volleyball,syracuse
+257,Santita Ebangwese,"Rochester, N.Y.",Pittsford Sutherland,womens volleyball,syracuse
+258,Logan Hicks,"Scottsdale, Ariz.",St. Louis Lady Blues U19,womens hockey,syracuse
+259,Amanda Bäckebo,"Gagnef, Sweden",Gagnef HC,womens hockey,syracuse
+260,Lindsay Eastwood,"Kanata, Ontario",Nepean Junior Wildcats/Team Canada U18,womens hockey,syracuse
+261,Shelby Calof,"Ottawa, Ontario",Nepean Jr. Wildcats,womens hockey,syracuse
+262,Emma Polaski,"Morristown, N.J.",The Lawrenceville School/New Jersey Colonials,womens hockey,syracuse
+263,Lauren Bellefontaine,"Kemptville, Ontario",Nepean Jr. Wildcats,womens hockey,syracuse
+264,Allie Munroe,"Yarmouth, N.S.",New Hampton/2016 Team Canada National Development Summer Showcase,womens hockey,syracuse
+265,Mary Corby,"Oakville, Ontario",Stoney Creek Jr. Sabres,womens hockey,syracuse
+266,Kelli Rowswell,"Winnipeg, Manitoba",Balmoral Hall/Team Manitoba U18,womens hockey,syracuse
+267,Kristen  Siermachesky,"New Liskeard, Ontario",Stoney Creek Jr. Sabres/Team Ontario Blue U18,womens hockey,syracuse
+268,Abby Moloughney,"Ottawa, Ontario",Nepean Jr. Wildcats/Team Canada U18,womens hockey,syracuse
+269,Savannah Rennie,"East St. Paul, Manitoba",Team Manitoba U18,womens hockey,syracuse
+270,Sarah Stuehr,"Westwood, Mass.",Warner Hockey School,womens hockey,syracuse
+271,Allie Olnowich,"Chatham, N.J.",The Lawrenceville School/New Jersey Rockets,womens hockey,syracuse
+272,Dakota  Derrer,"Mancelona, Mich.",Traverse City-St. Francis,womens hockey,syracuse
+273,Anonda Hoppner,"Carp, Ontario",Ottawa Lady Senators/Team Canada U18,womens hockey,syracuse
+274,Brooke Avery,"Concord, N.H.",St. Paul's School/Assabet Valley U19,womens hockey,syracuse
+275,Jessica DiGirolamo,"Mississauga, Ontario",Oakville Jr. Hornets/Team Ontario Red U18,womens hockey,syracuse
+276,Marielle McHale,"Clifton Park, N.Y.",Williston Northampton School,womens hockey,syracuse
+277,Victoria Klimek,"Orangeville , Ontario",Oakville Jr. Hornets/Team Ontario Blue,womens hockey,syracuse
+278,Maddi Welch,"East Amherst, N.Y.",Nichols School/Niagara Jr. Purple Eagles,womens hockey,syracuse
+279,Ady Cohen,"Boynton Beach, Fla.",Gilmour Academy,womens hockey,syracuse
+280,Bradley Voigt,"Penn Yan, N.Y.",Salisbury School,mens lacrosse,syracuse
+281,Sam Romano,"Dallas, Texas",Episcopal School of Dallas,mens lacrosse,syracuse
+282,Nate Solomon,"Alpharetta, Ga.",Centennial,mens lacrosse,syracuse
+283,Jake Nelson,"Vestal, N.Y.",Vestal / Binghamton / Mercer,mens lacrosse,syracuse
+284,Nate Garlow,"Syracuse, N.Y.",Marcellus,mens lacrosse,syracuse
+285,Luke Schwasnick,"Baldwin, N.Y.",Oceanside,mens lacrosse,syracuse
+286,Brad McKinney,"Watertown, N.Y.",Watertown,mens lacrosse,syracuse
+287,Tyler Ford,"Owego, N.Y.",Owego,mens lacrosse,syracuse
+288,Peter Dearth,"Ridgefield, Conn",Ridgefield,mens lacrosse,syracuse
+289,Brendan Curry,"Lutherville, Md.",Calvert Hall,mens lacrosse,syracuse
+290,Austin Fusco,"Yorktown Heights, N.Y.",Yorktown,mens lacrosse,syracuse
+291,Jamie Trimboli,"Victor, N.Y.",Victor,mens lacrosse,syracuse
+292,Connor Nelson,"New Hartford, N.Y.",New Hartford,mens lacrosse,syracuse
+293,Owen Seebold,"Dallas, Texas",Highland Park,mens lacrosse,syracuse
+294,Pat Carlin,"Vestal, N.Y.",Vestal,mens lacrosse,syracuse
+295,Ryan Simmons,"Fayetteville, N.Y.",Fayetteville-Manlius / Salisbury School (Conn.),mens lacrosse,syracuse
+296,Brett Kennedy,"Ridgewood, N.J.",Ridgewood,mens lacrosse,syracuse
+297,Tyson Bomberry,"Ohsweken, Ontario",McKinnon Park / Avon Old Farms,mens lacrosse,syracuse
+298,Lucas Quinn,"Niskayuna, N.Y.",Niskayuna,mens lacrosse,syracuse
+299,David Lipka,"Derwood, Md.",Georgetown Prep / Army Prep,mens lacrosse,syracuse
+300,Nick  Mellen,"Syracuse, N.Y.",West Genesee,mens lacrosse,syracuse
+301,Tucker Dordevic,"Portland, Oregon",Edison,mens lacrosse,syracuse
+302,Kevin Hutchings,"Marcellus, N.Y.",Marcellus / Avon Old Farms,mens lacrosse,syracuse
+303,Dom Madonna,"Liverpool, N.Y.",Liverpool,mens lacrosse,syracuse
+304,Devon Sullivan,"Corning, N.Y.",Corning Painted Post,mens lacrosse,syracuse
+305,Luke Strang,"Olney, Md.",Our Lady of Good Counsel,mens lacrosse,syracuse
+306,Jonah Swigart,"Westlake Village, Calif.",Agorua,mens lacrosse,syracuse
+307,Stephen Rehfuss,"Latham, N.Y.",Shaker / Holy Cross,mens lacrosse,syracuse
+308,Riley O'Sullivan,"Valley Cottage, N.Y.",Don Bosco Prep,mens lacrosse,syracuse
+309,Nick DiPietro,"Dix Hills, N.Y.",Half Hollow Hills East,mens lacrosse,syracuse
+310,Jack Fiorini,"South Portland, Maine",South Portland,mens lacrosse,syracuse
+311,Drake Porter,"Aurora, Ontario, Canada",IMG Academy,mens lacrosse,syracuse
+312,Jonathan Partamian,"La Canada, Calif.",Loyola HS,mens lacrosse,syracuse
+313,Dami Oladunmoye,"Grayslake, Ill.",Grayslake North,mens lacrosse,syracuse
+314,Jacob Buttermore,"Garnett Valley, Pa.",Garnett Valley,mens lacrosse,syracuse
+315,Jakob Phaup,"Sourderton, Pa.",Sourderton Area,mens lacrosse,syracuse
+316,Sam Schluter,"Pennington, N.J.",The Hun School,mens lacrosse,syracuse
+317,Spencer Small,"San Diego, Calif.",Torrey Pines / St. Edward's University,mens lacrosse,syracuse
+318,Seth DeLisle,"Fulton, N.Y.",G Ray Bodley / Onondaga CC / Nazareth,mens lacrosse,syracuse
+319,Brett Barlow,"Manlius, N.Y.",Fayetteville-Manlius,mens lacrosse,syracuse
+320,Danny  Varello,"Kings Park, N.Y.",Smithtown West,mens lacrosse,syracuse
+321,Marcus Cunningham,"Glen Ridge, N.J.",Glen Ridge,mens lacrosse,syracuse
+322,Matt Lane,"Glen Ridge, N.J.",Montclair Kimberley Academy,mens lacrosse,syracuse
+323,Brendan Bomberry,"Osweken, Ontario",The Hill Academy / Denver,mens lacrosse,syracuse
+324,Cristian Edwards,"Potomac, Md.",Winston Churchill,mens lacrosse,syracuse
+325,Connor  Flanagan,"Fayetteville, N.Y.",Jamesville-Dewitt,mens lacrosse,syracuse
+326,Jared Fernandez,"Lakewood, Fla.",IMG Academy,mens lacrosse,syracuse
+327,Nathan  McPeak,"Chula Vista, Calif.",Eastlake,mens lacrosse,syracuse
+328,Alec Orazietti,"Bernardsville, N.J.",Watchung Hills,mens lacrosse,syracuse
+329,Patrick Major,"Skaneateles, N.Y.",Skaneateles,mens lacrosse,syracuse
+330,Willie  Klan III,"Penfield, N.Y.",Penfield,mens lacrosse,syracuse
+331,Laz Chavez,"Rye, N.Y.",Rye,mens lacrosse,syracuse
+332,Nick Martin,"Birmingham, Mich.",Detroit County Day,mens lacrosse,syracuse
+333,Andrew Helmer,"Summit, N.J.",Summit,mens lacrosse,syracuse
+334,Troy Lauder,"Kanesatake, Quebec",Salisbury School,mens lacrosse,syracuse
+335,Grant Murphy,"Woodlands, Texas",Woodlands,mens lacrosse,syracuse
+336,Morgan Hollenback,"Bel Air, Md.",Bel Air,womens lacrosse,syracuse
+337,Morgan Alexander,"Adams, N.Y.",South Jefferson,womens lacrosse,syracuse
+338,Morgan  Widner,"Coppell, Texas",Coppell,womens lacrosse,syracuse
+339,Sam Swart,"Coopersburg, Pa.",Archbishop Carroll,womens lacrosse,syracuse
+340,Cara Quimby,"Schenectady, N.Y.",Guilderland,womens lacrosse,syracuse
+341,Mackenzie  Baker,"Camillus, N.Y.",West Genesee,womens lacrosse,syracuse
+342,Ella Hogan,"Rochester, N.Y.",Our Lady of Mercy,womens lacrosse,syracuse
+343,Kerry Defliese,"Garden City, N.Y.",Garden City,womens lacrosse,syracuse
+344,Alexa Radziewicz,"Manlius, N.Y.",Christian Brothers Academy,womens lacrosse,syracuse
+345,Jackie Hingre,"Baldwinsville, N.Y.",C.W. Baker,womens lacrosse,syracuse
+346,Casey Duff,"Yorktown Heights, N.Y.",Yorktown,womens lacrosse,syracuse
+347,Vanessa  Costantino,"West Islip, N.Y.",West Islip,womens lacrosse,syracuse
+348,Nicole Levy,"East Islip, N.Y.",East Islip,womens lacrosse,syracuse
+349,Lila Nazarian,"Baltimore, Md.",Catonsville,womens lacrosse,syracuse
+350,Rilea  Fusco,"Yorktown Heights, N.Y.",Yorktown,womens lacrosse,syracuse
+351,Natalie  Wallon,"Waxhaw, N.C.",Charlotte Catholic,womens lacrosse,syracuse
+352,Grace Fahey,"Boxford, Mass.",Masconomet Regional,womens lacrosse,syracuse
+353,Riley Donahue,"Camillus, N.Y.",West Genesee,womens lacrosse,syracuse
+354,Neena Merola,"Painted Post, N.Y.",West,womens lacrosse,syracuse
+355,Allyson Trice,"Syracuse, N.Y.",West Genesee,womens lacrosse,syracuse
+356,Bella Recchion,"East Quogue, N.Y.",N/A,womens lacrosse,syracuse
+357,Asa Goldstock,"Niskayuna, N.Y.",New Hamtpon School,womens lacrosse,syracuse
+358,Taylor Gait,"Fayetteville, N.Y.",Christian Brothers Academy,womens lacrosse,syracuse
+359,Alie Jimerson,"Irving, N.Y.",Lake Shore,womens lacrosse,syracuse
+360,Emily Resnick,"Webster, N.Y.",Webster Thomas,womens lacrosse,syracuse
+361,Zoe Recchion,"East Quague, N.Y.",Westhampton,womens lacrosse,syracuse
+362,Kelzi Van Atta,"Rochester, N.Y.",Brighton,womens lacrosse,syracuse
+363,Bri Stahrr,"North Syracuse, N.Y.",Cicero-North Syracuse,womens lacrosse,syracuse
+364,Hailey Bengston,"Huntington, N.Y.",Huntington,womens lacrosse,syracuse
+365,Christina McCabe,"Oceanside, N.Y.",Oceanside,womens lacrosse,syracuse
+366,Kenzie Harris,"Rochester, N.Y.",Brighton,womens lacrosse,syracuse
+367,Emily Amell,"Dexter, N.Y.",General Brown,womens lacrosse,syracuse
+368,Ella Simkins,"Centerport, N.Y.",Harborfields,womens lacrosse,syracuse
+369,Lauren Gray,"Clifton Park, N.Y.",Shenendehowa,womens lacrosse,syracuse
+370,Laura Hurff,"Newark, Del.",Ursuline Academy,womens lacrosse,syracuse
+371,Julie  Cross,"Oreland, Pa.",Upper Dublin,womens lacrosse,syracuse
+372,Hannah Van Middelem,"Mt. Sinai, N.Y.",Mt. Sinai,womens lacrosse,syracuse
+373,Mia DiBello,"Syracuse, N.Y.",West Genesee,womens lacrosse,syracuse
+374,Mary Rahal,"Queensbury, N.Y.",Queensbury,womens lacrosse,syracuse
+375,Molly Carter,"Lynbrook, N.Y.",Lynbrook,womens lacrosse,syracuse
+376,Erin Coleman,"Manhasset, N.Y.",Manhasset,womens lacrosse,syracuse
+377,Wadata:wi Bomberry,"Six Nations, Ontario",N/A,womens lacrosse,syracuse
+378,Emily Hawryschuk,"Victor, N.Y.",Victor,womens lacrosse,syracuse
+379,Jakob Andersen,"Malmo, Sweden",N/A,mens rowing,syracuse
+380,Matthew Barni,"Willoughby Hills, Ohio",St. Ignatius High School,mens rowing,syracuse
+381,Gregory Bauerfeld,"Wilton, Conn.",Wilton High School,mens rowing,syracuse
+382,Charles Bowman,"Osprey, Fla.",Suncoast Polytechnical High School,mens rowing,syracuse
+383,Sarah Brune,"Brick, N.J.",Florida Virtual High School,mens rowing,syracuse
+384,Sam Busco,"Syracuse, N.Y.",Liverpool High School,mens rowing,syracuse
+385,Andrew Cummings,"Pittsburgh, Pa.",Taylor Allderdice High School,mens rowing,syracuse
+386,Alexander Douglas,"Beaumaris, Australia",Brighton Grammar School,mens rowing,syracuse
+387,Alex Engel,"Pittsburgh, Pa.",Pine Richland High School,mens rowing,syracuse
+388,Brennan Finley,"Ocean City, N.J.",St. Augustine Prep,mens rowing,syracuse
+389,Declan Fischback,"Rocky River, Ohio",Rocky River High School,mens rowing,syracuse
+390,Mike Glaude,"Oxford, Pa.",Salesianum High School,mens rowing,syracuse
+391,Cameron Grimm,"Kearny, N.J.",Kearny High School,mens rowing,syracuse
+392,Mitchell Harjo,"Carlisle, Pa.",Bishop Blanchet High School,mens rowing,syracuse
+393,Joshua  Hockenberry,"Pittsburgh, Pa.",North Hills,mens rowing,syracuse
+394,Hadley Hoyle,"Orlando, Fla.",Dr. Phillips High School,mens rowing,syracuse
+395,Kenneth Hubbard,"Boca Raton, Fla.",Venice High School,mens rowing,syracuse
+396,James Hunt,"New York, N.Y.",Brooks School,mens rowing,syracuse
+397,Pieter Kerpestein,"Amsterdam, Netherlands",N/A,mens rowing,syracuse
+398,Kyle Leimeister,"Vineland, N.J.",Vineland High School,mens rowing,syracuse
+399,Jeremy Lipford,"Sarasota, Fla.",Venice High School,mens rowing,syracuse
+400,Jack Mancini,"Pittsford, N.Y.",McQuad Jesuit High School,mens rowing,syracuse
+401,Alex Manfredi,"Vienna, Va.",James Madison High School,mens rowing,syracuse
+402,Noah Messner,"Grand Rapids, Mich.",Forest Hills Central High School,mens rowing,syracuse
+403,Anicet Mundundu,"Pittsburgh, Pa.",Central Catholic High School,mens rowing,syracuse
+404,Alex Ormsby,"Westford, Mass.",Westford Academy,mens rowing,syracuse
+405,Sveta Radovic,"Beograd, Serbia",Sport Gymnasium,mens rowing,syracuse
+406,Isabelle Rittenberry,"Allentown, N.J.",Allentown High School,mens rowing,syracuse
+407,Dominic Santora,"Cleveland, Ohio",Saint Ignatius High School,mens rowing,syracuse
+408,Forrest Sears,"Sauquoit, N.Y.",New Hartford High School,mens rowing,syracuse
+409,Patrick Shober,"Absecon, N.J.",Holy Spirit High School,mens rowing,syracuse
+410,Ryan Smith,"Baldwinsville, N.Y.",Woodbridge High School,mens rowing,syracuse
+411,Sam Snedden,"Washington, D.C.",Woodrow Wilson High School,mens rowing,syracuse
+412,SunLee Stechuk,"Fairfax, Va.",Thomas Jefferson High School,mens rowing,syracuse
+413,Nick Tavares,"Fonthill, Ontario",E.L. Crossley Secondary School,mens rowing,syracuse
+414,Zachary Vlahandreas,"Winnetka, Ill.",New Trier High School,mens rowing,syracuse
+415,Luka Vrbaski,"Novi Sad, Serbia",N/A,mens rowing,syracuse
+416,Jamil Adams,N/A,N/A,mixed track,syracuse
+417,Noah Affolder,N/A,N/A,mixed track,syracuse
+418,Andrew  Aguilera,N/A,N/A,mixed track,syracuse
+419,Kwaku Agyemang,N/A,N/A,mixed track,syracuse
+420,Kelvin Almonte,N/A,N/A,mixed track,syracuse
+421,Iliass  Aouani,N/A,N/A,mixed track,syracuse
+422,Chevis Armstead,N/A,N/A,mixed track,syracuse
+423,Pascal Bastien,N/A,N/A,mixed track,syracuse
+424,Colin  Bennie,N/A,N/A,mixed track,syracuse
+425,Ebhani Blackwood,N/A,N/A,mixed track,syracuse
+426,Eunice Boateng,N/A,N/A,mixed track,syracuse
+427,Rachel Bonner,N/A,N/A,mixed track,syracuse
+428,Mickey Burke,N/A,N/A,mixed track,syracuse
+429,Matt Cavallaro,N/A,N/A,mixed track,syracuse
+430,Imani Clark,N/A,N/A,mixed track,syracuse
+431,Alexandra Cooper,N/A,N/A,mixed track,syracuse
+432,Bridget Curtin,N/A,N/A,mixed track,syracuse
+433,Madeleine Davison,N/A,N/A,mixed track,syracuse
+434,Danielle Delgado,N/A,N/A,mixed track,syracuse
+435,Laura Dickinson,N/A,N/A,mixed track,syracuse
+436,Joseph  Dragon,N/A,N/A,mixed track,syracuse
+437,Olivia  Elston,N/A,N/A,mixed track,syracuse
+438,Richard  Floyd,N/A,N/A,mixed track,syracuse
+439,Philo Germano,N/A,N/A,mixed track,syracuse
+440,Nia Gibson,N/A,N/A,mixed track,syracuse
+441,David Gilstrap,N/A,N/A,mixed track,syracuse
+442,Aviana Goode,N/A,N/A,mixed track,syracuse
+443,Angelo  Goss,N/A,N/A,mixed track,syracuse
+444,Alexis Harper,N/A,N/A,mixed track,syracuse
+445,Nathan  Henderson,N/A,N/A,mixed track,syracuse
+446,Ryley Higgins,N/A,N/A,mixed track,syracuse
+447,Dominic  Hockenbury,N/A,N/A,mixed track,syracuse
+448,Kevin James,N/A,N/A,mixed track,syracuse
+449,Randall Johnson,N/A,N/A,mixed track,syracuse
+450,Kayli Jones,N/A,N/A,mixed track,syracuse
+451,Justyn Knight,N/A,N/A,mixed track,syracuse
+452,Declan Kottmeier,N/A,N/A,mixed track,syracuse
+453,Jared Lautenslager,N/A,N/A,mixed track,syracuse
+454,Winston  Lee,N/A,N/A,mixed track,syracuse
+455,Sydney Leiher,N/A,N/A,mixed track,syracuse
+456,Hannah Loder,N/A,N/A,mixed track,syracuse
+457,Shannon Malone,N/A,N/A,mixed track,syracuse
+458,Mary Malone,N/A,N/A,mixed track,syracuse
+459,LaZyrick Middlebrooks,N/A,N/A,mixed track,syracuse
+460,Kashif Miller,N/A,N/A,mixed track,syracuse
+461,Pierce  Miller,N/A,N/A,mixed track,syracuse
+462,Matt Moore,N/A,N/A,mixed track,syracuse
+463,Andy Paladino,N/A,N/A,mixed track,syracuse
+464,Victoria Parker,N/A,N/A,mixed track,syracuse
+465,Kokeith Perry,N/A,N/A,mixed track,syracuse
+466,Kelsey Potts,N/A,N/A,mixed track,syracuse
+467,Dasia Pressley,N/A,N/A,mixed track,syracuse
+468,Jalen Racine,N/A,N/A,mixed track,syracuse
+469,Kerry Reilly,N/A,N/A,mixed track,syracuse
+470,Justice Richardson,N/A,N/A,mixed track,syracuse
+471,Stephen Schulz,N/A,N/A,mixed track,syracuse
+472,Eva Scott,N/A,N/A,mixed track,syracuse
+473,Kadejhia  Sellers,N/A,N/A,mixed track,syracuse
+474,Simon Smith,N/A,N/A,mixed track,syracuse
+475,Chuka  Soronnadi,N/A,N/A,mixed track,syracuse
+476,Taylor Spillane,N/A,N/A,mixed track,syracuse
+477,Paige Stoner,N/A,N/A,mixed track,syracuse
+478,Tia Thevenin,N/A,N/A,mixed track,syracuse
+479,Maggie Toczko,N/A,N/A,mixed track,syracuse
+480,Aidan Tooker,N/A,N/A,mixed track,syracuse
+481,Cheyenne Trigg,N/A,N/A,mixed track,syracuse
+482,Chris Tucker,N/A,N/A,mixed track,syracuse
+483,Abigail  Walsh,N/A,N/A,mixed track,syracuse
+484,Julien Webster,N/A,N/A,mixed track,syracuse
+485,Emma Wilson,N/A,N/A,mixed track,syracuse
+486,Natalie Zazzara,N/A,N/A,mixed track,syracuse
+487,Noah Affolder,"Carthage, N.Y.",Carlisle,mixed cross country,syracuse
+488,Iliass Aouani,"Milan, Italy",Lamar,mixed cross country,syracuse
+489,Colin Bennie,"Princeton, Mass.",Wachusett,mixed cross country,syracuse
+490,Rachel Bonner,"Port Huron, Mich.",Port Huron,mixed cross country,syracuse
+491,Mickey  Burke,"Henrietta, N.Y.",Rush-Henrietta,mixed cross country,syracuse
+492,Alexandra Cooper,"Henrietta, N.Y.",Rush-Henrietta,mixed cross country,syracuse
+493,Madeleine  Davison,"Wexford, Pa.",N/A,mixed cross country,syracuse
+494,Joseph Dragon,"Wantage, N.J.",High Point,mixed cross country,syracuse
+495,Olivia Elston,"Goshen, NY",Goshen,mixed cross country,syracuse
+496,Philo Germano,"Albany, N.Y.",Albany,mixed cross country,syracuse
+497,Nathan Henderson,"Lancaster, PA",J.P. McCaskey,mixed cross country,syracuse
+498,Ryley  Higgins,"Avon, Conn.",Avon,mixed cross country,syracuse
+499,Dominic Hockenbury,"Harveys Lake, Pa.",Lake Lehman,mixed cross country,syracuse
+500,Kevin James,"Clifton Heights, Pa.",Cardinal O'Hara,mixed cross country,syracuse
+501,Kayli Jones,"Southlake, Texas",Carroll,mixed cross country,syracuse
+502,Justyn Knight,"Vaughan, Ontario",St. Michael's,mixed cross country,syracuse
+503,Shannon  Malone,"Pittsburgh, Pa.",University of Virginia,mixed cross country,syracuse
+504,Mary Malone,"Pittsburgh, Pa.",North Hills,mixed cross country,syracuse
+505,Pierce Miller,"Portland, Ore.",Lincoln,mixed cross country,syracuse
+506,Griffin Molino,"Williamsport, Pa.",South Williamsport,mixed cross country,syracuse
+507,Andrew Paladino,"Morgantown, W. Va.",University,mixed cross country,syracuse
+508,Chelsie Pennello,"Poolesville, Md.",Poolesville,mixed cross country,syracuse
+509,Kelsey Potts,"Pittsburgh, Pa.",Mt. Lebanon,mixed cross country,syracuse
+510,Stephen Schulz,"Liverpool, NY",Liverpool,mixed cross country,syracuse
+511,Eva Scott,"Burnt Hills, NY",Burnt Hills Ballston Lake,mixed cross country,syracuse
+512,Simon  Smith,"Towanda, Pa.",Towanda,mixed cross country,syracuse
+513,Taylor Spillane,"Shelburne, VT",Cornell,mixed cross country,syracuse
+514,Paige Stoner,"Pottsville, Pa.",Lipscomb,mixed cross country,syracuse
+515,Maggie Toczko,"Mehoopany, Pa.",Tunhannock,mixed cross country,syracuse
+516,Aidan Tooker,"Saratoga Springs, N.Y.",Saratoga Springs,mixed cross country,syracuse
+517,Abigail Walsh,"Beverly, MA",Beverly,mixed cross country,syracuse
+518,Julien Webster,"Thurmont, MD",Catoctin,mixed cross country,syracuse
+519,Emma Wilson,"Romeo, Mich.",Romeo,mixed cross country,syracuse

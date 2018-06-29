@@ -1,612 +1,596 @@
-,name,hometown,sport,school
-0,Maishe Dailey,"Beachwood, OH",mens basketball,iowa
-1,Jack Nunge,"Newburgh, IN",mens basketball,iowa
-2,Jordan Bohannon,"Marion, IA",mens basketball,iowa
-3,Isaiah Moss,"Chicago, IL",mens basketball,iowa
-4,Tyler Cook,"St. Louis, MO",mens basketball,iowa
-5,Austin Ash,"Cedar Rapids, IA",mens basketball,iowa
-6,Ryan Kriener,"Spirit Lake, IA",mens basketball,iowa
-7,Riley Till,"Dubuque, IA",mens basketball,iowa
-8,Connor McCaffery,"Iowa City, IA",mens basketball,iowa
-9,Cordell Pemsl,"Dubuque, IA",mens basketball,iowa
-10,Nicholas Baer,"Bettendorf, IA",mens basketball,iowa
-11,Luka Garza,"Washington, D.C.",mens basketball,iowa
-12,Makenzie Meyer,"Mason City, Iowa",womens basketball,iowa
-13,Chase Coley,"Minneapolis, Minn.",womens basketball,iowa
-14,Alexis Sevillian,"Goodrich, Mich.",womens basketball,iowa
-15,Megan Gustafson,"Port Wing, Wis.",womens basketball,iowa
-16,Tania Davis,"Flint, Mich.",womens basketball,iowa
-17,Hannah Stewart,"Minot, N.D.",womens basketball,iowa
-18,Kathleen Doyle,"LaGrange Park, Ill.",womens basketball,iowa
-19,Zion Sanders,"Evansville, Ind.",womens basketball,iowa
-20,Paula Valiño Ramos,"Ourense, Spain",womens basketball,iowa
-21,Carly Mohns,"Brodhead, Wis.",womens basketball,iowa
-22,Amanda Ollinger,"Cedar Rapids, Iowa",womens basketball,iowa
-23,Lorenzo Elion,"Chicago, Ill.",baseball,iowa
-24,Zach Daniels,"Robins, Iowa",baseball,iowa
-25,Matt Hoeg,"Waukee, Iowa",baseball,iowa
-26,Mitchell Boe,"Naperville, Ill",baseball,iowa
-27,Tyler Cropley,"McCook Lake, S.D.",baseball,iowa
-28,Justin Jenkins,"Terre Haute, Ind.",baseball,iowa
-29,Grant  Judkins,"Pella, Iowa",baseball,iowa
-30,Luke Farley,"Denver, Iowa",baseball,iowa
-31,Ben  Norman,"Des Moines, Iowa",baseball,iowa
-32,Derek Lieurance,"Cascade, Iowa",baseball,iowa
-33,Cole McDonald,"New Hampton, Iowa",baseball,iowa
-34,Nick  Nelsen,"West Des Moines, Iowa",baseball,iowa
-35,Matt Berst,"Cedar Rapids, Iowa",baseball,iowa
-36,Zion Pettigrew,"Chicago, Ill.",baseball,iowa
-37,Tanner Wetrich,"Moberly, Mo.",baseball,iowa
-38,Shane Ritter,"Plainfield, Ill.",baseball,iowa
-39,Ben  Probst,"Urbandale, Iowa",baseball,iowa
-40,Austin Guzzo,"Brooklin, Ontario",baseball,iowa
-41,Kole  Kampen,"Fort Dodge, Iowa",baseball,iowa
-42,Kyle  Crowl,"Council Bluffs, Iowa",baseball,iowa
-43,Nick Allgeyer,"St. Louis, Mo.",baseball,iowa
-44,Brady Schanuel,"Swansea, Ill.",baseball,iowa
-45,Chris  Whelan,"Naperville, Ill.",baseball,iowa
-46,Connor McCaffery,"North Liberty, Iowa",baseball,iowa
-47,Brett McCleary,"Iowa City, Iowa",baseball,iowa
-48,Jack  Dreyer,"Johnston, Iowa",baseball,iowa
-49,Cam Baumann,"Fairfield, Iowa",baseball,iowa
-50,Kace  Massner,"Burlington, Iowa",baseball,iowa
-51,Trenton Wallace,"Rock Island, Ill.",baseball,iowa
-52,Grant Leonard,"Mokena, Ill.",baseball,iowa
-53,Robert Neustrom,"Sioux City, Iowa",baseball,iowa
-54,Kyle Shimp,"Yorkville, Ill.",baseball,iowa
-55,Wes Dvorak,"Parkston, South Dakota",football,iowa
-56,Ryan Gersonde,"Milwaukee, Wisconsin",football,iowa
-57,Peyton Mansell,"Belton, Texas",football,iowa
-58,Trey Creamer,"Cartersville, Georgia",football,iowa
-59,Keith Duncan,"Weddington, North Carolina",football,iowa
-60,Nate Stanley,"Menomonie, Wisconsin",football,iowa
-61,Josh Turner,"Delray Beach, Florida",football,iowa
-62,Manny Rugamba,"Naperville, Illinois",football,iowa
-63,Max Duchow,"Pewaukee, Wisconsin",football,iowa
-64,Ihmir Smith-Marsette,"Newark, New Jersey",football,iowa
-65,Spencer Petras,"San Rafael, California",football,iowa
-66,Colten Rastetter,"Guttenberg, Iowa",football,iowa
-67,Matt Hankins,"Lewisville, Texas",football,iowa
-68,Geno Stone,"New Castle, Pennsylvania",football,iowa
-69,Camron Harrell,"Bourbannais, Illinois",football,iowa
-70,Michael Ojemudia,"Farmington Hills, Michigan",football,iowa
-71,Brandon Smith,"Lake Cormorant, Mississippi",football,iowa
-72,Henry Marchese,"Vernon Hills, Illinois",football,iowa
-73,Kyle Groeneweg,"Inwood, Iowa",football,iowa
-74,Kyshaun  Bryan,"Fort Lauderdale, Florida",football,iowa
-75,Cedric Boswell,"Beverly Hills, Michigan",football,iowa
-76,Ryan Schmidt,"Linn-Mar, Iowa",football,iowa
-77,Drew Cook,N/A,football,iowa
-78,John Milani,"Iowa City, Iowa",football,iowa
-79,Max Cooper,"Waukesha, Wisconsin",football,iowa
-80,Ivory Kelly-Martin,"Plainfield, Illinois",football,iowa
-81,Toks Akinribade,"Brownsburg, Indiana",football,iowa
-82,Dominique Dafney,"West Des Moines, Iowa",football,iowa
-83,Amani Hooker,"Minneapolis, Minnesota",football,iowa
-84,Jack Koerner,"Des Moines, Iowa",football,iowa
-85,Toren Young,"Madison, Wisconsin",football,iowa
-86,Nate Wieland,"Iowa City, Iowa",football,iowa
-87,Jake Gervase,"Davenport, Iowa",football,iowa
-88,Aaron Mends,"Kansas City, Missouri",football,iowa
-89,Djimon Colbert,"Shawnee Mission, Kansas",football,iowa
-90,Kristian Welch,"Iola, Wisconsin",football,iowa
-91,Barrington Wade,"Skokie, Illinois",football,iowa
-92,Brady Ross,"Humboldt, Iowa",football,iowa
-93,Brandon Snyder,"Larchwood, Iowa",football,iowa
-94,T.J.  Hockenson,"Chariton, Iowa",football,iowa
-95,Nate Wieting,"Rockford, Illinois",football,iowa
-96,Parker Hesse,"Waukon, Iowa",football,iowa
-97,Colton  Dinsdale,"Reinbeck, Iowa",football,iowa
-98,Drew Thomas,"Humboldt, Iowa",football,iowa
-99,Shaun Beyer,"Shellsburg, Iowa",football,iowa
-100,Dillon Doyle,"Iowa City, Iowa",football,iowa
-101,Ben Campos,"West Des Moines, Iowa",football,iowa
-102,Joe Ludwig,"Middleton, Wisconsin",football,iowa
-103,Austin Kelly,"Hickory Hills, Illinois",football,iowa
-104,Tommy Kujawa,"Greendale, Wisconsin",football,iowa
-105,Lane Akre,"Geneseo, Illinois",football,iowa
-106,Nick Anderson,"Waukee, Iowa",football,iowa
-107,Jack Hockaday,"Forsyth, Illinois",football,iowa
-108,Bryce Schulte,"Cedar Rapids, Iowa",football,iowa
-109,Nick Niemann,"Sycamore, Illinois",football,iowa
-110,Jackson Subbert,"Williamsburg, Iowa",football,iowa
-111,Amani Jones,"Chicago, Illinois",football,iowa
-112,Garret Jansen,"Pella, Iowa",football,iowa
-113,Daviyon Nixon,"Kenosha, Wisconsin",football,iowa
-114,Kyle Taylor,"Silver Springs, Maryland",football,iowa
-115,Chauncey Golston,"Detroit, Michigan",football,iowa
-116,Jake Newborg,"Inwood, Iowa",football,iowa
-117,Ross Reynolds,"Waukee, Iowa",football,iowa
-118,Cole Banwart,"Ottosen, Iowa",football,iowa
-119,Spencer Williams,"Cedar Falls, Iowa",football,iowa
-120,Kyler Schott,"Coggon, Iowa",football,iowa
-121,Dalles Jacobus,"Palo, Iowa",football,iowa
-122,Levi Paulsen,"Moville, Iowa",football,iowa
-123,Levi Duwa,"Kalona, Iowa",football,iowa
-124,Landan Paulsen,"Moville, Iowa",football,iowa
-125,Keegan Render,"Indianola, Iowa",football,iowa
-126,Mark Kallenberger,"Bettendorf, Iowa",football,iowa
-127,Coy Kirkpatrick,"Madrid, Iowa",football,iowa
-128,Austin Schulte,"Pella, Iowa",football,iowa
-129,Tristan Wirfs,"Mount Vernon, Iowa",football,iowa
-130,Dalton Ferguson,"Solon, Iowa",football,iowa
-131,Alaric Jackson,"Detroit, Michigan",football,iowa
-132,Devonte Young,"Waldorf, Maryland",football,iowa
-133,Jack Kallenberger,"Bettendorf, Iowa",football,iowa
-134,Nick Easley,"Newton, Iowa",football,iowa
-135,Austin Spiewak,"Rolling Meadows, Illinois",football,iowa
-136,Nate Vejvoda,"Homer Glen, Illinois",football,iowa
-137,Noah Feldman,"West Liberty, Iowa",football,iowa
-138,Noah Fant,"Omaha, Nebraska",football,iowa
-139,Jacob Coons,"Solon, Iowa",football,iowa
-140,Nico Ragaini,"East Haven, Connecticut",football,iowa
-141,Sam Brincks,"Carroll, Iowa",football,iowa
-142,Miguel Recinos,"Mason City, Iowa",football,iowa
-143,Brady Reiff,"Parkston, South Dakota",football,iowa
-144,Brandon Simon,"Newark, New Jersey",football,iowa
-145,A.J. Epenesa,"Glen Carbon, Illinois",football,iowa
-146,Caleb Shudak,"Council Bluffs, Iowa",football,iowa
-147,Cedrick  Lattimore,"Redford, Michigan",football,iowa
-148,Matt Nelson,"Cedar Rapids, Iowa",football,iowa
-149,Romeo McKnight,"Crystal Lake, Illinois",football,iowa
-150,Anthony Nelson,"Urbandale, Iowa",football,iowa
-151,Seth Benson,"Sioux Falls, South Dakota",football,iowa
-152,Julius Brents,"Indianapolis, Indiana",football,iowa
-153,Blair Brooks,"Cedar Rapids, Iowa",football,iowa
-154,Dallas Craddieth,"St. Louis, Missouri",football,iowa
-155,Samson Evans,"Crystal Lake, Illinois",football,iowa
-156,Joe Evans,"Ames, Iowa",football,iowa
-157,Matt Fagan,"Council Bluffs, Iowa",football,iowa
-158,Henry Geil,"Green Bay, Wisconsin",football,iowa
-159,Cody Ince,"Luck, Wisconsin",football,iowa
-160,Jeff Jenkins,"Crystal Lake, Illinois",football,iowa
-161,D.J. Johnson,"Indianapolis, Indiana",football,iowa
-162,Logan Klemp,"Jewell, Iowa",football,iowa
-163,Tyler Linderbaum,"Solon, Iowa",football,iowa
-164,Calvin Lockett,"Largo, Florida",football,iowa
-165,Jayden McDonald,"Suwanee, Georgia",football,iowa
-166,Kaevon Merriweather,"Belleville, Michigan",football,iowa
-167,Nathan Nelson,"Waukee, Iowa",football,iowa
-168,Turner Pallissard,"Frankfort, Illinois",football,iowa
-169,Jack Plumb,"Green Bay, Wisconsin",football,iowa
-170,Monte Pottebaum,"Larchwood, Iowa",football,iowa
-171,Mitch Riggs,"West Des Moines, Iowa",football,iowa
-172,Terry Roberts,"Erie, Pennsylvania",football,iowa
-173,Connor Ruth,"Malcolm, Nebraska",football,iowa
-174,Brian Sadler,"Jesup, Iowa",football,iowa
-175,Noah Shannon,"Montgomery, Illinois",football,iowa
-176,Jaden Snyder,"Larchwood, Iowa",football,iowa
-177,Kordell Stillmunkes,"Hazel Green, Wisconsin",football,iowa
-178,Ben Subbert,"Williamsburg, Iowa",football,iowa
-179,Mike Timm,"Delafield, Wisconsin",football,iowa
-180,"Tyrone Tracy, Jr.","Indianapolis, Indiana",football,iowa
-181,John Waggoner,"West Des Moines, Iowa",football,iowa
-182,Trey Winters,"Ankeny, Iowa",football,iowa
-183,Cora Meyers,"Riverdale, Iowa",womens soccer,iowa
-184,Zoey Slettehaugh,"Lenexa, Kan.",womens soccer,iowa
-185,Claire Graves,"Noblesville, Ind.",womens soccer,iowa
-186,Morgan Kemerling,"Aurora, Ill.",womens soccer,iowa
-187,Kaleigh Haus,"Des Moines, Iowa",womens soccer,iowa
-188,Isabella Blackman,"Bettendorf, Iowa",womens soccer,iowa
-189,Hannah Brobst,"St. Louis, Mo.",womens soccer,iowa
-190,Jenna Kentgen,"Naperville, Ill.",womens soccer,iowa
-191,Karsen Rauch,"Noblesville, Ind.",womens soccer,iowa
-192,Natalie Winters,"Plymouth, Mich.",womens soccer,iowa
-193,Sydney Blitchok,"Grandville, Mich.",womens soccer,iowa
-194,Olivia Fiegel,"Springfield, Va.",womens soccer,iowa
-195,Leah Moss,"Plymouth, Mich.",womens soccer,iowa
-196,Rose Ripslinger,"Davenport, Iowa",womens soccer,iowa
-197,Hannah Drkulec,"Windsor, Ontario, Canada",womens soccer,iowa
-198,Diane Senkowski,"Livonia, Mich.",womens soccer,iowa
-199,Morgan Krause,"Naperville, Ill.",womens soccer,iowa
-200,Emma Tokuyama,"Saline, Mich.",womens soccer,iowa
-201,Adrianna Naumoski,"St. John, Ind.",womens soccer,iowa
-202,Josie Durr,"Solon, Iowa",womens soccer,iowa
-203,Devin Burns,"Green Oaks, Ill.",womens soccer,iowa
-204,Brandon Cooley,"Bettendorf, Iowa",mens cross country,iowa
-205,Kevin Docherty,"St. Paul, Minn.",mens cross country,iowa
-206,Ian Eklin,"Plymouth, Minn.",mens cross country,iowa
-207,Daniel Gardarsson,"Reykjavic, Iceland",mens cross country,iowa
-208,Bailey Hesse-Withrobe,"Stillwater, Minn.",mens cross country,iowa
-209,Evan Jacobs,"Sycamore, Ill.",mens cross country,iowa
-210,Michael Melchert,"Monticello, Iowa",mens cross country,iowa
-211,Daniel Murphy,"Marion, Iowa",mens cross country,iowa
-212,Nathan Mylenek,"Clarkston, Mich.",mens cross country,iowa
-213,Jeff Roberts,"River Vale, NJ",mens cross country,iowa
-214,Luke Sampson,"Little Chute, Wis.",mens cross country,iowa
-215,Karson Sommer,"Bettendorf, Iowa",mens cross country,iowa
-216,Daniel Soto,"West Des Moines, Iowa",mens cross country,iowa
-217,Michael Westphal,"Urbandale, Iowa",mens cross country,iowa
-218,Mary Arch,"Iowa City, Iowa",womens cross country,iowa
-219,Taylor Arco,"Mission Viejo, Calif.",womens cross country,iowa
-220,Maddie Carver,"Urbandale, Iowa",womens cross country,iowa
-221,Ashley Espinosa,"Lindenhurst, Ill",womens cross country,iowa
-222,Marta Gonzalez,"Merida, Spain",womens cross country,iowa
-223,Julie Hollensbe,"Williamsburg, Iowa",womens cross country,iowa
-224,Maren Jeppson,"Mount Vernon, Iowa",womens cross country,iowa
-225,Mallory King,"Davenport, Iowa",womens cross country,iowa
-226,Kara Neustrom,"West Des Moines, Iowa",womens cross country,iowa
-227,Elizabeth Niedert,"Glen Ellyn, Ill.",womens cross country,iowa
-228,Lauren Opatrny,"McHenry, Ill.",womens cross country,iowa
-229,Wren Renquist,"Okinawa City, Japan",womens cross country,iowa
-230,Tia Saunders,"Iowa City, Iowa",womens cross country,iowa
-231,Andrea Shine,"Crystal Lake, Ill.",womens cross country,iowa
-232,Addie Swanson,"Bettendorf, Iowa",womens cross country,iowa
-233,Madison Waymire,"Grimes, Iowa",womens cross country,iowa
-234,Macie Weber,"Cascade, Iowa",womens cross country,iowa
-235,Lindsay Welker,"Terre Haute, Ind.",womens cross country,iowa
-236,Aly Weum,"Stoughton, Wis.",womens cross country,iowa
-237,Aaron DeNucci,"Clive, Iowa",mens golf,iowa
-238,Ryoto Furuya,"Alpharetta, GA",mens golf,iowa
-239,Jaewook Lee,"Langley, British Columbia, Canada",mens golf,iowa
-240,Sam Meuret,"Brunswick, Neb.",mens golf,iowa
-241,Alex  Moorman,"Centerville, Iowa",mens golf,iowa
-242,Jake Rowe,"Portadown, Northern Ireland, United Kingdom",mens golf,iowa
-243,Alex Schaake,"Omaha, Neb.",mens golf,iowa
-244,Jack  Simpson,"Aurora, Ontario",mens golf,iowa
-245,Matthew Walker,"Ottumwa, Iowa",mens golf,iowa
-246,Benton  Weinberg,"Potomac, Maryland",mens golf,iowa
-247,Annalee Dannegger,"Wheaton, Ill.",womens golf,iowa
-248,Rachel Fujitani,"Phoenix, Ariz.",womens golf,iowa
-249,Kristin Glesne,"San Antonio, Texas",womens golf,iowa
-250,Stephanie Herzog,"Red Wing, Minn.",womens golf,iowa
-251,Jessica Ip,"Richmond Hill, Ontario, Canada",womens golf,iowa
-252,Anna Kim,"Tulsa, Okla.",womens golf,iowa
-253,Morgan Kukla,"Winthrop Harbor, Ill.",womens golf,iowa
-254,Sophie Liu,"Vancouver, B.C.",womens golf,iowa
-255,Sarah Overton,"Iowa City, Iowa",womens golf,iowa
-256,Shawn  Rennegarbe,"Addieville, Ill.",womens golf,iowa
-257,Elisa Suarez,"Oviedo, Asturias, Spain",womens golf,iowa
-258,Colter Allen,"Zimmerman, Minn.",mens swimming,iowa
-259,Will Brenner,"Ypsilanti, Mich.",mens swimming,iowa
-260,Michal Brzus,"Bodaczow, Poland",mens swimming,iowa
-261,Ben Colin,"Dubuque, Iowa",mens swimming,iowa
-262,Weston Credit,"La Grange, Ill.",mens swimming,iowa
-263,Chris Dawson,"Centennial, Colo.",mens swimming,iowa
-264,Sam Dumford,"Downers Grove, Ill.",mens swimming,iowa
-265,Steve Fiolic,"Urbandale, Iowa",mens swimming,iowa
-266,RJ Hemmingsen,"Council Bluffs, Iowa",mens swimming,iowa
-267,Garrett Hoce,"Canfield, Ohio",mens swimming,iowa
-268,Anton Hoherz,"Spring, Texas",mens swimming,iowa
-269,Matt Kamin,"Dunlap, Ill.",mens swimming,iowa
-270,Jackson Kuhlers,"Urbandale, Iowa",mens swimming,iowa
-271,Matt  Mauser,"Denver, Colo.",mens swimming,iowa
-272,Kenneth Mende,"Chemnitz, Saxony, Germany",mens swimming,iowa
-273,Joe Myhre,"St. Charles, Ill.",mens swimming,iowa
-274,Tanner Nelson,"Bettendorf, Iowa",mens swimming,iowa
-275,Thomas Pederson,"Minnetonka, Minn.",mens swimming,iowa
-276,Jonatan Posligua,"Guayaquil, Ecuador",mens swimming,iowa
-277,Thomas Rathbun,"Sioux Center, Iowa",mens swimming,iowa
-278,Jacob Rosenkoetter,"Austin, Texas",mens swimming,iowa
-279,Logan Samuelson,"Fort Meyers, Fla.",mens swimming,iowa
-280,Tom Schab,"Fresno, Calif.",mens swimming,iowa
-281,Will Scott,"Iowa City, Iowa",mens swimming,iowa
-282,Jack Smith,"Stoke-On-Trent, England",mens swimming,iowa
-283,Daniel Swanepoel,"Cape Town, Africa",mens swimming,iowa
-284,Michael Tenney,"Chino Hills, Calif.",mens swimming,iowa
-285,Jerzy Twarowski,"Krakow, Poland",mens swimming,iowa
-286,Forrest White,"Danville, Calif.",mens swimming,iowa
-287,Izzie Bindseil,"St. Charles, Ill.",womens swimming,iowa
-288,Hannah Burvill,"Pyrford, Great Britain",womens swimming,iowa
-289,Summer Campbell,"Fort Worth, Texas",womens swimming,iowa
-290,Olivia Cook,"Rochester, Minn.",womens swimming,iowa
-291,Olivia Dopkiss,"Rockford, Mich.",womens swimming,iowa
-292,Kelsey Drake,"Marion, Iowa",womens swimming,iowa
-293,Allyssa Fluit,"Pleasant Hill, Iowa",womens swimming,iowa
-294,Mallory Fox,"Whitefish Bay, Wis.",womens swimming,iowa
-295,Morgan Grout,"Carmel, Ind.",womens swimming,iowa
-296,Meghan Hackett,"Cedar Falls, Iowa",womens swimming,iowa
-297,Lexi Horner,"Johnston, Iowa",womens swimming,iowa
-298,Shea Hoyt,"Cocoa Beach, Fla.",womens swimming,iowa
-299,Devin Jacobs,"Naperville, Ill.",womens swimming,iowa
-300,Jo Jekel,"Madison, Wis.",womens swimming,iowa
-301,Nikol Lagodzinska,"Chicago, Ill.",womens swimming,iowa
-302,Meghan Lavelle,"Chicago, Ill.",womens swimming,iowa
-303,Lauren Leehy,"Neola, Iowa",womens swimming,iowa
-304,Tereysa Lehnertz,"Iowa City, Iowa",womens swimming,iowa
-305,Amy Lenderink,"Parker, Colo.",womens swimming,iowa
-306,Jayah Mathews,"Sydney, New South Wales, Austrailia",womens swimming,iowa
-307,Natalie McGovern,"Naperville, Ill.",womens swimming,iowa
-308,Kelly McNamara,"Villa Park, Ill.",womens swimming,iowa
-309,Carly O'Brien,"Williams Bay, Wis.",womens swimming,iowa
-310,Sage Ohlensehlen,"Bettendorf, Iowa",womens swimming,iowa
-311,Claire Park,"Bettendorf, Iowa",womens swimming,iowa
-312,Morgan Rafferty,"West Des Moines, Iowa",womens swimming,iowa
-313,Samantha Sauer,"St. Charles, Ill.",womens swimming,iowa
-314,Mekenna Scheitlin,"South Barrington, Ill.",womens swimming,iowa
-315,Sarah Schemmel,"Durant, Iowa",womens swimming,iowa
-316,Abbey Schneider,"Fishers, Ind.",womens swimming,iowa
-317,Thelma Strandberg,"Kristiansand, Norway",womens swimming,iowa
-318,Jacintha Thomas,"Iowa City, Iowa",womens swimming,iowa
-319,Kareem Allaf,"Dubai, UAE",mens tennis,iowa
-320,Will  Davies,"Norwich, England",mens tennis,iowa
-321,Jason Kerst,"Ann Arbor, Mich.",mens tennis,iowa
-322,Jonas Larsen,"Koege, Denmark",mens tennis,iowa
-323,Piotr Smietana,"Krakow, Poland",mens tennis,iowa
-324,Joe Tyler,"Corby, England",mens tennis,iowa
-325,Danielle Bauers,"Alpharetta, Georgia",womens tennis,iowa
-326,Danielle Burich,"Bradenton, Florida",womens tennis,iowa
-327,Montana Crawford,"Rockwood, Ontario",womens tennis,iowa
-328,Zoe Douglas,"Papworth Everard, England",womens tennis,iowa
-329,Adorabol Huckleby,"Detroit, Mich.",womens tennis,iowa
-330,Adrienne  Jensen,"Iowa City, Iowa",womens tennis,iowa
-331,Yufei  Long,"Shenzhen, China",womens tennis,iowa
-332,Anastasia Reimchen,"Forest Row, England",womens tennis,iowa
-333,Elise van Heuvelen,"Seaford, East Sussex, England",womens tennis,iowa
-334,Josh  Andrews,"Urbandale, Iowa",mens track,iowa
-335,Alex Balke,"Iowa City, Iowa",mens track,iowa
-336,Wade Barclay,"Southeast Polk, Iowa",mens track,iowa
-337,Karayme Bartley,"Lionel Town, Jamaica",mens track,iowa
-338,Josh  Braverman,"Lacey, Wash.",mens track,iowa
-339,Akinshe  Calica-Hill,"Chesapeake, Va.",mens track,iowa
-340,Raymund  Clarke,"Roselle, NJ",mens track,iowa
-341,Brandon Cooley,"Bettendorf, Iowa",mens track,iowa
-342,Kevin Docherty,"St. Paul, Minn.",mens track,iowa
-343,William Dougherty,"Moville, Iowa",mens track,iowa
-344,Chris Douglas,"Deerfield, Ill.",mens track,iowa
-345,Raymonte Dow,"High Point, NC",mens track,iowa
-346,Ian Eklin,"Plymouth, Minn.",mens track,iowa
-347,Gage Eller,"Ames, Iowa",mens track,iowa
-348,DeJuan Frye,"Lacey, Wash.",mens track,iowa
-349,Daniel Gaynes,"Naperville, Ill.",mens track,iowa
-350,Mar'yea Harris,"Auburn, Wash.",mens track,iowa
-351,Noah Healy,"Frankfort, Ill.",mens track,iowa
-352,Bailey Hesse-Withbroe,"Stillwater, Minn.",mens track,iowa
-353,Gavin Hoch,"Lake Forest, Ill.",mens track,iowa
-354,Collin Hofacker,"Freedom, Wis.",mens track,iowa
-355,Jay  Hunt,"Batavia, Ill.",mens track,iowa
-356,Evan Jacobs,"Sycamore, Ill.",mens track,iowa
-357,Andy Jatis,"Homer Glen, Ill.",mens track,iowa
-358,Nolan Kembel,"Loveland, Colo.",mens track,iowa
-359,Cooper Koenig,"West Branch, Iowa",mens track,iowa
-360,Noah Larrison,"Clive, Iowa",mens track,iowa
-361,Austin Lietz,"Sherman Oaks, Calif.",mens track,iowa
-362,Carter Lilly,"Sioux City, Iowa",mens track,iowa
-363,Matt  Lorenz,"Cedar Rapids, Iowa",mens track,iowa
-364,Matt Manternach,"Monticello, Iowa",mens track,iowa
-365,Michael Melchert,"Monticello, Iowa",mens track,iowa
-366,Cole  Moeller,"Wheatland, Iowa",mens track,iowa
-367,Daniel Murphy,"Marion, Iowa",mens track,iowa
-368,Nathan Mylenek,"Clarkston, Mich.",mens track,iowa
-369,Jeff Roberts,"River Vale, NJ",mens track,iowa
-370,Luke Sampson,"Little Chute, Wis.",mens track,iowa
-371,Karson Sommer,"Bettendorf, Iowa",mens track,iowa
-372,Tyree Sorrells,"Raytown, Mo.",mens track,iowa
-373,Daniel Soto,"West Des Moines, Iowa",mens track,iowa
-374,Alec Still,"Moville, Iowa",mens track,iowa
-375,Nolan Teubel,"Lisbon, Iowa",mens track,iowa
-376,Chris Thompson,"Lemont, Ill.",mens track,iowa
-377,Reno Tuufuli,"Las Vegas, Nev.",mens track,iowa
-378,Tysen VanDraska,"Swisher, Iowa",mens track,iowa
-379,Anthony Williams,"Chesapeake, Va.",mens track,iowa
-380,O'Shea Wilson,"Houston, Texas",mens track,iowa
-381,Antonio Woodard,"Rancho Cucamonga, Calif.",mens track,iowa
-382,Mary Arch,"Iowa City, Iowa",womens track,iowa
-383,Taylor Arco,"Mission Viejo, Calif.",womens track,iowa
-384,Kyara Avant,"Indianapolis, Ind.",womens track,iowa
-385,Nia Britt,"Sherman Oaks, Calif",womens track,iowa
-386,Brittany Brown,"Upland, Calif",womens track,iowa
-387,Talia Buss,"Waukee, Iowa",womens track,iowa
-388,Maddie Carver,"Urbandale, Iowa",womens track,iowa
-389,Sheridan Champe,"Amherst, Ohio",womens track,iowa
-390,Antonise Christian,"Gary, Ind.",womens track,iowa
-391,Leah Colbert,"Troy, Mo.",womens track,iowa
-392,Sydney Collins,"Lake Geneva, Wis.",womens track,iowa
-393,Mika Cox,"Reynoldsburg, Ohio",womens track,iowa
-394,Kelli DeGeorge,"Bettendorf, Iowa",womens track,iowa
-395,Carly Donahue,"Pleasant Valley, Iowa",womens track,iowa
-396,Ashley Espinosa,"Lindenhurst, Ill",womens track,iowa
-397,Alexis Gay,"Oak Park, Ill.",womens track,iowa
-398,Marta Gonzalez,"Merida, Spain",womens track,iowa
-399,Briana Guillory,"Antioch, Calif",womens track,iowa
-400,Erika Hammond,"Clinton, Iowa",womens track,iowa
-401,Tashee Hargrave,"Naperville, Ill.",womens track,iowa
-402,Julie Hollensbe,"Williamsburg, Iowa",womens track,iowa
-403,Jenny Kimbro,"Catlin, Ill.",womens track,iowa
-404,Mallory King,"Davenport, Iowa",womens track,iowa
-405,Aubrianna Lantrip,"Phelps, New York",womens track,iowa
-406,Kara Misel,"Solon, Iowa",womens track,iowa
-407,Kylie Morken,"Ames, Iowa",womens track,iowa
-408,Marissa Mueller,"Ontario, Canada",womens track,iowa
-409,Kara Neustrom,"West Des Moines, Iowa",womens track,iowa
-410,Elizabeth Niedert,"Glen Ellyn, Ill.",womens track,iowa
-411,Lauren Opatrny,"McHenry, Ill.",womens track,iowa
-412,Sarah Plock,"Iowa City, Iowa",womens track,iowa
-413,Wren Renquist,"Okinawa City, Japan",womens track,iowa
-414,Jalynn Roberts-Lewis,"Des Moines, Iowa",womens track,iowa
-415,Tia Saunders,"Iowa City, Iowa",womens track,iowa
-416,Hannah Schilb,"St. Charles, Ill.",womens track,iowa
-417,Sommer Sharpe,"Pickering, Ontario, Canada",womens track,iowa
-418,Andrea Shine,"Crystal Lake, Ill.",womens track,iowa
-419,Tria Simmons,"Phoenix, Ariz.",womens track,iowa
-420,Amy Smith,"Wheaton, Ill.",womens track,iowa
-421,Konstadina Spanoudakis,"Crete, Greece",womens track,iowa
-422,Addie Swanson,"Bettendorf, Iowa",womens track,iowa
-423,Laulauga Tausaga,"Spring Valley, Calif",womens track,iowa
-424,Jahisha Thomas,"London, United Kingdom",womens track,iowa
-425,Gillian Urycki,"Metamora, Ill.",womens track,iowa
-426,Allison Wahrman,"Carol Stream, Ill.",womens track,iowa
-427,Madison Waymire,"Grimes, Iowa",womens track,iowa
-428,Macie Weber,"Cascade, Iowa",womens track,iowa
-429,Kylie Welch,"Bloomington, Ill.",womens track,iowa
-430,Lindsay Welker,"Terre Haute, Ind.",womens track,iowa
-431,Shelby West,"Round Rock, Texas",womens track,iowa
-432,Aly Weum,"Stoughton, Wis.",womens track,iowa
-433,Stephen  Alvarez,"Spring Valley, California",wrestling,iowa
-434,Zach Axmear,"North English, Iowa",wrestling,iowa
-435,Mitch Bowman,"Donahue, Iowa",wrestling,iowa
-436,Cade Brownlee,"Omaha, Neb.",wrestling,iowa
-437,Sam  Cook,"Fort Dodge, IA",wrestling,iowa
-438,Connor  Corbin,N/A,wrestling,iowa
-439,Aaron  Costello,"Dubuque, Iowa",wrestling,iowa
-440,Pat  Duggan,"Mechanicsburg, Pennsylvania",wrestling,iowa
-441,Jeren Glosser,"Eddyville, Iowa",wrestling,iowa
-442,Paul Glynn,"Bettendorf, Iowa",wrestling,iowa
-443,Joey Gunther,"Libertyville, Ill.",wrestling,iowa
-444,Carter Happel,"Lisbon, Iowa",wrestling,iowa
-445,Steven Holloway,"West Burlington, Iowa",wrestling,iowa
-446,Michael Kemerer,"Murrysville, Pa.",wrestling,iowa
-447,Phillip Laux,"Brighton, Iowa",wrestling,iowa
-448,Spencer Lee,"Murrysville, Pennsylvania",wrestling,iowa
-449,Pat Lugo,"Homestead, Fla.",wrestling,iowa
-450,Alex  Marinelli,"Miamisburg, Ohio",wrestling,iowa
-451,Tristan McDonald,"Lodi, Wisc.",wrestling,iowa
-452,Logan McQuillen,"Monticello, Iowa",wrestling,iowa
-453,Aaron Meyer,"Pleasant Hill, Iowa",wrestling,iowa
-454,Jeremiah Moody,"Cambridge, Wisconsin",wrestling,iowa
-455,Max Murin,"Ebensburg, Pennsylvania",wrestling,iowa
-456,Danny  Murphy,"Fort Collins, Colorado",wrestling,iowa
-457,Perez Perez,"Windsor, California",wrestling,iowa
-458,Keegan Shaw,"Altoona, Iowa",wrestling,iowa
-459,Brandon Sorensen,"Cedar Falls, Iowa",wrestling,iowa
-460,Justin  Stickley,"Urbana, Ohio",wrestling,iowa
-461,Sam Stoll,"Kasson, Minn.",wrestling,iowa
-462,Vince Turk,"Hampshire, Illinois",wrestling,iowa
-463,Jacob Warner,"Tolono, Illinois",wrestling,iowa
-464,Cash Wilcke,"Ida Grove, Iowa",wrestling,iowa
-465,Myles  Wilson,"Junction, Colorado",wrestling,iowa
-466,Kaleb  Young,"Punxsutawney, Pennsylvania",wrestling,iowa
-467,Katie Jones,"Virginia Beach, Va.",womens field hockey,iowa
-468,Emily  Deuell,"Poquoson, Va.",womens field hockey,iowa
-469,Makenna Grewe,"San Diego, Calif.",womens field hockey,iowa
-470,Mallory Lefkowitz,"Kingston, Pa.",womens field hockey,iowa
-471,Ellie Holley,"Bristol, United Kingdom",womens field hockey,iowa
-472,Nikki Freeman,"Whitehouse Station, N.J.",womens field hockey,iowa
-473,Isabella Brown,"Christchurch, New Zealand",womens field hockey,iowa
-474,Katie Birch,"York, England",womens field hockey,iowa
-475,Taylor Omweg,"Yorktown, Va.",womens field hockey,iowa
-476,Riley Kniptash,"St. Louis, Mo.",womens field hockey,iowa
-477,Isabella Solaroli,"Yorktown, Va.",womens field hockey,iowa
-478,Mya Christopher,"Hershey, Penn.",womens field hockey,iowa
-479,Ryley Miller,"Edwardsville, Ill.",womens field hockey,iowa
-480,Sophie Sunderland,"Ipswich, England",womens field hockey,iowa
-481,Lucie  Daman,"Wargrave, United Kingdom",womens field hockey,iowa
-482,Melissa Progar,"Yorktown, Va.",womens field hockey,iowa
-483,Maddy Murphy,"Riana, Tasmania",womens field hockey,iowa
-484,Grace McGuire,"St. Louis, Mo.",womens field hockey,iowa
-485,Leslie Speight,"Poquoson , Va.",womens field hockey,iowa
-486,Libby  Adams,"Cedar Rapids, Iowa",womens rowing,iowa
-487,Ashlynn Bauer,"Ankeny, Iowa",womens rowing,iowa
-488,Katherine Becker,"Muscatine, Iowa",womens rowing,iowa
-489,Danielle Bender,"Bellevue, Iowa",womens rowing,iowa
-490,Allison Blevins,"Prospect Heights, Ill.",womens rowing,iowa
-491,Izzy Bowman,"Leesburg, Va.",womens rowing,iowa
-492,Rachel Canon,"Ames, Iowa",womens rowing,iowa
-493,Alexis Chamness,"Highlands Ranch, Colo.",womens rowing,iowa
-494,Emma Degen,N/A,womens rowing,iowa
-495,Izzy Dolba,"Arlington Heights, Ill.",womens rowing,iowa
-496,Ashley Duda,"Crystal Lake, Ill.",womens rowing,iowa
-497,Madison Gay,"Oak Park, Ill.",womens rowing,iowa
-498,Kasia Gniatczyk,"Glen Ellyn, Ill.",womens rowing,iowa
-499,Hannah Greenlee,"Ames, Iowa",womens rowing,iowa
-500,Mary Grevas,"Moline, Ill.",womens rowing,iowa
-501,Contessa Harold,"Chancellor, S.D.",womens rowing,iowa
-502,Kaelynn Heiberg,"Minnetonka, Minn.",womens rowing,iowa
-503,Trisha Huerta,"Griswold, Iowa",womens rowing,iowa
-504,Kayla Jensen,"Ankeny, Iowa",womens rowing,iowa
-505,Logan Jones,"West Des Moines, Iowa",womens rowing,iowa
-506,Laura Justis,"Bettendorf, Iowa",womens rowing,iowa
-507,Elizabeth Keene,"Cape Girardeau, Mo.",womens rowing,iowa
-508,Gemma Kerr,"Victoria, B.C. Canada",womens rowing,iowa
-509,Amelia Koehn,"North English, Iowa",womens rowing,iowa
-510,Hunter Koenigsfeld,"Cedar Rapids, Iowa",womens rowing,iowa
-511,Taylor Lopez,"Chicago, Ill.",womens rowing,iowa
-512,Reagan Mady,"Issaquah, Wash.",womens rowing,iowa
-513,Nicole Majerus,"Pleasant Hill, Iowa",womens rowing,iowa
-514,Zora Marinkovich,"Hales Corners, Wis.",womens rowing,iowa
-515,Baillie McCunn,"Orion, Ill.",womens rowing,iowa
-516,Heidi Mentz,N/A,womens rowing,iowa
-517,Andjela Milenkovic,"Belgrade, Serbia",womens rowing,iowa
-518,Carly Millerd,"Bainbridge Island, Wash.",womens rowing,iowa
-519,Amalie Millerd,"Bainbridge Island, Wash.",womens rowing,iowa
-520,Lisa Morales,"Waterloo, Iowa",womens rowing,iowa
-521,Keely Paus,"Dorchester, Iowa",womens rowing,iowa
-522,Katie  Pearson,"Victoria, BC, Canada",womens rowing,iowa
-523,Elizabeth Pritchard,"Ankeny, Iowa",womens rowing,iowa
-524,Marija Pritchard,"Ankeny, Iowa",womens rowing,iowa
-525,Paige Przybylski,"Crystal Lake, Ill.",womens rowing,iowa
-526,Kathryn Raver,"Ankeny, Iowa",womens rowing,iowa
-527,Claire Rutherford,"Iowa City, IA",womens rowing,iowa
-528,Katie Rygh,N/A,womens rowing,iowa
-529,Eva Scheibe,"Ames, Iowa",womens rowing,iowa
-530,Paige Schlapkohl,"Durant, Iowa",womens rowing,iowa
-531,Megan Sprengeler,"Walford, Iowa",womens rowing,iowa
-532,Emily Steimel,"West Des Moines, Iowa",womens rowing,iowa
-533,Eve  Stewart,N/A,womens rowing,iowa
-534,Kerstin  Stillman,"Cedar Falls, Iowa",womens rowing,iowa
-535,Madelyn Theut,"Escanaba, Mich.",womens rowing,iowa
-536,Anna Varley,"Dubuque, Iowa",womens rowing,iowa
-537,Elena Waiglein,N/A,womens rowing,iowa
-538,Tessa Walsh,"Naperville, Ill.",womens rowing,iowa
-539,Hailey Weisensel,"Mount Horeb, Wis.",womens rowing,iowa
-540,Nathalia  Wellenreiter,"Hamilton, Ontario, Canada",womens rowing,iowa
-541,Taylor West,"Iowa City, Iowa",womens rowing,iowa
-542,Faith Wieland,"Bloomington-Normal, Ill.",womens rowing,iowa
-543,Megan Willey,"Cedar Rapids, Iowa",womens rowing,iowa
-544,Sydney Winn,N/A,womens rowing,iowa
-545,Alysson Wittmeyer,"Elgin, Ill.",womens rowing,iowa
-546,Aralee Bogar,"Trophy Club, Texas",softball,iowa
-547,Allison Doocy,"Ankeny, Iowa",softball,iowa
-548,Taylor Libby,"Iowa City, Iowa",softball,iowa
-549,Erin Riding,"McKinney, Texas",softball,iowa
-550,Lea Thompson,"Indianapolis, Ind.",softball,iowa
-551,Lauren Shaw,"LaGrange, Ohio",softball,iowa
-552,Sarah Kurtz,"Herndon, Va.",softball,iowa
-553,Mallory Kilian,"Fort Dodge, Iowa",softball,iowa
-554,Angela Schmiederer,"Prospect Heights, Ill.",softball,iowa
-555,Devin  Cantu,"Cedar Hill, Texas",softball,iowa
-556,Brooke Rozier,"Jefferson City, Mo.",softball,iowa
-557,Allie Wood,"Cypress, Calif.",softball,iowa
-558,Ashley Hamilton,"Robins, Iowa",softball,iowa
-559,Elizabeth DeShields,"Midwest City, Oklahoma",softball,iowa
-560,Daniella Ibarra,"Emerson, N.J.",softball,iowa
-561,Havyn  Monteer,"Boonville, Mo.",softball,iowa
-562,Kenzie Ihle,"Des Moines, Iowa",softball,iowa
-563,Alex Rath,"Kalona, Iowa",softball,iowa
-564,Cheyenne Pratt,"Festus, Mo.",softball,iowa
-565,Ashley Yoways,"Cedar Lake, Ind.",softball,iowa
-566,Daniela Chambers,"Irvine, Calif.",softball,iowa
-567,McKenzie Schneider,"Southlake, Texas",softball,iowa
-568,Molly Kelly,"West Liberty, Iowa",womens volleyball,iowa
-569,Halle Johnston,"Lakeville, Minn.",womens volleyball,iowa
-570,Meghan  Buzzerio,"Chino Hills, Calif.",womens volleyball,iowa
-571,Brie Orr,"Eagan, Minn.",womens volleyball,iowa
-572,Reghan Coyle,"Council Bluffs, Iowa",womens volleyball,iowa
-573,Emily Bushman,"Naperville, Ill.",womens volleyball,iowa
-574,Cali Hoye,"San Clemente, Calif.",womens volleyball,iowa
-575,Taylor Louis,"Evanston, Ill.",womens volleyball,iowa
-576,Jake Brodarzon,"Paramus, NJ.",mens gymnastics,iowa
-577,Addison Chung,"Medfield, Mass.",mens gymnastics,iowa
-578,Dylan Ellsworth,"Farmington, Utah",mens gymnastics,iowa
-579,Andrew  Herrador,"Livermore, Calif.",mens gymnastics,iowa
-580,Austin Hodges,"Lincolnshire, Ill.",mens gymnastics,iowa
-581,Bennet  Huang,"Palo Alto, Calif.",mens gymnastics,iowa
-582,Kevin Johnson,"Dimondale, Mich.",mens gymnastics,iowa
-583,Mitch  Mandozzi,"Harvard, Mass.",mens gymnastics,iowa
-584,Nick  Merryman,"Brookline, N.H.",mens gymnastics,iowa
-585,Elijah Parsells,"Petaluma, Calif.",mens gymnastics,iowa
-586,Mark Springett,"Dover, Mass.",mens gymnastics,iowa
-587,Kulani Taylor,"West St. Paul, Minn.",mens gymnastics,iowa
-588,Dominic  Tommasone,"Downers Grove, Ill.",mens gymnastics,iowa
-589,Rogelio Vazquez,"Orlando, Fla.",mens gymnastics,iowa
-590,Brandon  Wong,"Clovis, Calif.",mens gymnastics,iowa
-591,Josh Zeal,"Buffalo Grove, Ill.",mens gymnastics,iowa
-592,Misty-Jade Carlson,"Portland, Ore.",womens gymnastics,iowa
-593,Erin Castle,"Boone, Iowa",womens gymnastics,iowa
-594,Nicole Chow,"Port Coquitlam, B.C.",womens gymnastics,iowa
-595,Breanna Fitzke,"West Allis, Wisconsin",womens gymnastics,iowa
-596,Emma Hartzler,"Marion, Iowa",womens gymnastics,iowa
-597,Sydney Hogan,"Waterloo, Iowa",womens gymnastics,iowa
-598,Clair Kaji,"Vancouver, Canada",womens gymnastics,iowa
-599,Madison Kampschroeder,"Overland Park, Kan.",womens gymnastics,iowa
-600,Annie  Kustoff,"San Antonio, Texas",womens gymnastics,iowa
-601,Gina Leal,"Glastonbury, Connecticut",womens gymnastics,iowa
-602,Annabelle Mosier,"Longmont, Colo.",womens gymnastics,iowa
-603,Maria Ortiz,"Fort Myers, Fla.",womens gymnastics,iowa
-604,Rose Piorkowski,"Panama City, Fla.",womens gymnastics,iowa
-605,Jori Robertson,"Iowa City, Iowa",womens gymnastics,iowa
-606,Ashley Smith,"Jacksonville, Fla.",womens gymnastics,iowa
-607,Lanie Snyder,"Omaha, Neb.",womens gymnastics,iowa
-608,Charlotte Sullivan,"Christchurch, New Zealand",womens gymnastics,iowa
-609,Nikki Youd,"Panama City, Fla.",womens gymnastics,iowa
-610,Melissa Zurawski,"Darien, Ill.",womens gymnastics,iowa
+,name,hometown,high school?,sport,college
+0,Maishe Dailey,"Beachwood, OH",Beachwood,mens basketball,iowa
+1,Jack Nunge,"Newburgh, IN",Castle,mens basketball,iowa
+2,Jordan Bohannon,"Marion, IA",Linn-Mar,mens basketball,iowa
+3,Isaiah Moss,"Chicago, IL",Simeon,mens basketball,iowa
+4,Austin Ash,"Cedar Rapids, IA",Mount Vernon,mens basketball,iowa
+5,Ryan Kriener,"Spirit Lake, IA",Spirit Lake,mens basketball,iowa
+6,Riley Till,"Dubuque, IA",Wahlert,mens basketball,iowa
+7,Tyler Cook,"St. Louis, MO",Chaminade Prep,mens basketball,iowa
+8,Connor McCaffery,"Iowa City, IA",West,mens basketball,iowa
+9,Cordell Pemsl,"Dubuque, IA",Wahlert,mens basketball,iowa
+10,Nicholas Baer,"Bettendorf, IA",Bettendorf,mens basketball,iowa
+11,Luka Garza,"Washington, D.C.",Maret School,mens basketball,iowa
+12,Tomi Taiwo,"Carmel, Ind.",Carmel,womens basketball,iowa
+13,Makenzie Meyer,"Mason City, Iowa",Mason City,womens basketball,iowa
+14,Alexis Sevillian,"Goodrich, Mich.",Goodrich,womens basketball,iowa
+15,Megan Gustafson,"Port Wing, Wis.",South Shore,womens basketball,iowa
+16,Tania Davis,"Flint, Mich.",Goodrich,womens basketball,iowa
+17,Kate Martin,"Edwardsville, Ill.",Edwardsville,womens basketball,iowa
+18,Hannah Stewart,"Minot, N.D.",Bishop Ryan Catholic,womens basketball,iowa
+19,Kathleen Doyle,"LaGrange Park, Ill.",Benet Academy,womens basketball,iowa
+20,Logan Cook,"Iowa City, Iowa",West,womens basketball,iowa
+21,Zion Sanders,"Evansville, Ind.",Central,womens basketball,iowa
+22,Monika Czinano,"Watertown, Minn.",Watertown-Mayer,womens basketball,iowa
+23,Paula Valiño Ramos,"Ourense, Spain",IES Otero Pedrayo,womens basketball,iowa
+24,Amanda Ollinger,"Cedar Rapids, Iowa",Linn-Mar,womens basketball,iowa
+25,Lorenzo Elion,"Chicago, Ill.",Simeon Academy,baseball,iowa
+26,Mitchell Boe,"Naperville, Ill",Joilet Catholic,baseball,iowa
+27,Justin Jenkins,"Terre Haute, Ind.",Terre Haute South,baseball,iowa
+28,Grant  Judkins,"Pella, Iowa",Pella,baseball,iowa
+29,Luke Farley,"Denver, Iowa",Waterloo Columbus,baseball,iowa
+30,Ben  Norman,"Des Moines, Iowa",Roosevelt,baseball,iowa
+31,Derek Lieurance,"Cascade, Iowa",Cascade,baseball,iowa
+32,Cole McDonald,"New Hampton, Iowa",New Hampton,baseball,iowa
+33,Matt Berst,"Cedar Rapids, Iowa",Cedar Rapids Kennedy,baseball,iowa
+34,Zion Pettigrew,"Chicago, Ill.",Mount Carmel,baseball,iowa
+35,Tanner Wetrich,"Moberly, Mo.",Moberly,baseball,iowa
+36,Shane Ritter,"Plainfield, Ill.",Plainfield South,baseball,iowa
+37,Ben  Probst,"Urbandale, Iowa",Dowling Catholic,baseball,iowa
+38,Kyle  Crowl,"Council Bluffs, Iowa",Abraham Lincoln,baseball,iowa
+39,Chris  Whelan,"Naperville, Ill.",Benet,baseball,iowa
+40,Connor McCaffery,"North Liberty, Iowa",Iowa City West,baseball,iowa
+41,Brett McCleary,"Iowa City, Iowa",City High,baseball,iowa
+42,Jack  Dreyer,"Johnston, Iowa",Johnston,baseball,iowa
+43,Cam Baumann,"Fairfield, Iowa",Fairfield,baseball,iowa
+44,Kace  Massner,"Burlington, Iowa",Burlington,baseball,iowa
+45,Trenton Wallace,"Rock Island, Ill.",Davenport Assumption,baseball,iowa
+46,Grant Leonard,"Mokena, Ill.",Lincoln Way,baseball,iowa
+47,Kyle Shimp,"Yorkville, Ill.",Yorkville,baseball,iowa
+48,Wes Dvorak,"Parkston, South Dakota",Parkston,football,iowa
+49,Ryan Gersonde,"Milwaukee, Wisconsin",Marquette University HS,football,iowa
+50,Peyton Mansell,"Belton, Texas",Belton,football,iowa
+51,Trey Creamer,"Cartersville, Georgia",Cartersville,football,iowa
+52,Keith Duncan,"Weddington, North Carolina",Weddington,football,iowa
+53,Nate Stanley,"Menomonie, Wisconsin",Menomonie,football,iowa
+54,Josh Turner,"Delray Beach, Florida",American Heritage,football,iowa
+55,Manny Rugamba,"Naperville, Illinois",Naperville Central,football,iowa
+56,Max Duchow,"Pewaukee, Wisconsin",Kettle Moraine,football,iowa
+57,Ihmir Smith-Marsette,"Newark, New Jersey",Weequahic,football,iowa
+58,Spencer Petras,"San Rafael, California",Marin Catholic,football,iowa
+59,Colten Rastetter,"Guttenberg, Iowa",Clayton Ridge,football,iowa
+60,Matt Hankins,"Lewisville, Texas",Marcus,football,iowa
+61,Geno Stone,"New Castle, Pennsylvania",Senior,football,iowa
+62,Camron Harrell,"Bourbannais, Illinois",Bradley-Bourbannais,football,iowa
+63,Michael Ojemudia,"Farmington Hills, Michigan",Harrison,football,iowa
+64,Brandon Smith,"Lake Cormorant, Mississippi",Lake Cormorant,football,iowa
+65,Henry Marchese,"Vernon Hills, Illinois",Stevenson,football,iowa
+66,Kyle Groeneweg,"Inwood, Iowa",West Lyon,football,iowa
+67,Kyshaun  Bryan,"Fort Lauderdale, Florida",St. Thomas Aquinas,football,iowa
+68,Ryan Schmidt,"Linn-Mar, Iowa",Linn-Mar,football,iowa
+69,Drew Cook,N/A,Linn-Mar,football,iowa
+70,John Milani,"Iowa City, Iowa",West,football,iowa
+71,Max Cooper,"Waukesha, Wisconsin",Catholic Memorial,football,iowa
+72,Ivory Kelly-Martin,"Plainfield, Illinois",Oswego East,football,iowa
+73,Toks Akinribade,"Brownsburg, Indiana",Brownsburg,football,iowa
+74,Dominique Dafney,"West Des Moines, Iowa",Valley,football,iowa
+75,Amani Hooker,"Minneapolis, Minnesota",Park Center,football,iowa
+76,Jack Koerner,"Des Moines, Iowa",Dowling,football,iowa
+77,Toren Young,"Madison, Wisconsin",Monona Grove,football,iowa
+78,Nate Wieland,"Iowa City, Iowa",Iowa City,football,iowa
+79,Jake Gervase,"Davenport, Iowa",Assumption,football,iowa
+80,Aaron Mends,"Kansas City, Missouri",Winnetonka,football,iowa
+81,Djimon Colbert,"Shawnee Mission, Kansas",Bishop Miege,football,iowa
+82,Kristian Welch,"Iola, Wisconsin",Iola-Scandinavia,football,iowa
+83,Barrington Wade,"Skokie, Illinois",Niles North,football,iowa
+84,Brady Ross,"Humboldt, Iowa",Humboldt,football,iowa
+85,Brandon Snyder,"Larchwood, Iowa",West Lyon,football,iowa
+86,T.J.  Hockenson,"Chariton, Iowa",Chariton,football,iowa
+87,Nate Wieting,"Rockford, Illinois",Rockford Lutheran,football,iowa
+88,Parker Hesse,"Waukon, Iowa",Waukon,football,iowa
+89,Colton  Dinsdale,"Reinbeck, Iowa",Gladbrook-Reinbeck,football,iowa
+90,Drew Thomas,"Humboldt, Iowa",Humboldt,football,iowa
+91,Shaun Beyer,"Shellsburg, Iowa",Cedar Rapids Kennedy,football,iowa
+92,Dillon Doyle,"Iowa City, Iowa",West,football,iowa
+93,Ben Campos,"West Des Moines, Iowa",Valley,football,iowa
+94,Joe Ludwig,"Middleton, Wisconsin",Middleton,football,iowa
+95,Austin Kelly,"Hickory Hills, Illinois",Stagg,football,iowa
+96,Tommy Kujawa,"Greendale, Wisconsin",Greendale,football,iowa
+97,Lane Akre,"Geneseo, Illinois",Geneseo,football,iowa
+98,Nick Anderson,"Waukee, Iowa",Waukee,football,iowa
+99,Jack Hockaday,"Forsyth, Illinois",Maroa-Forsyth,football,iowa
+100,Bryce Schulte,"Cedar Rapids, Iowa",Xavier,football,iowa
+101,Nick Niemann,"Sycamore, Illinois",Sycamore,football,iowa
+102,Jackson Subbert,"Williamsburg, Iowa",Williamsburg,football,iowa
+103,Amani Jones,"Chicago, Illinois",Phillips,football,iowa
+104,Garret Jansen,"Pella, Iowa",Pella,football,iowa
+105,Daviyon Nixon,"Kenosha, Wisconsin",Indian Trail,football,iowa
+106,Kyle Taylor,"Silver Springs, Maryland","Gonzaga, Washington, D.C.",football,iowa
+107,Chauncey Golston,"Detroit, Michigan",East English Village Prep,football,iowa
+108,Jake Newborg,"Inwood, Iowa",West Lyon,football,iowa
+109,Ross Reynolds,"Waukee, Iowa",Waukee,football,iowa
+110,Cole Banwart,"Ottosen, Iowa",Algona,football,iowa
+111,Spencer Williams,"Cedar Falls, Iowa",Cedar Falls,football,iowa
+112,Kyler Schott,"Coggon, Iowa",North Linn,football,iowa
+113,Dalles Jacobus,"Palo, Iowa",Cedar Rapids Kennedy,football,iowa
+114,Levi Paulsen,"Moville, Iowa",Woodbury Central,football,iowa
+115,Levi Duwa,"Kalona, Iowa",Mid-Prairie,football,iowa
+116,Landan Paulsen,"Moville, Iowa",Woodbury Central,football,iowa
+117,Keegan Render,"Indianola, Iowa",Indianola,football,iowa
+118,Mark Kallenberger,"Bettendorf, Iowa",Bettendorf,football,iowa
+119,Coy Kirkpatrick,"Madrid, Iowa",Madrid,football,iowa
+120,Austin Schulte,"Pella, Iowa",Pella,football,iowa
+121,Tristan Wirfs,"Mount Vernon, Iowa",Mount Vernon,football,iowa
+122,Dalton Ferguson,"Solon, Iowa",Solon,football,iowa
+123,Alaric Jackson,"Detroit, Michigan",Renaissance,football,iowa
+124,Devonte Young,"Waldorf, Maryland",North Point,football,iowa
+125,Jack Kallenberger,"Bettendorf, Iowa",Bettendorf,football,iowa
+126,Nick Easley,"Newton, Iowa",Newton,football,iowa
+127,Austin Spiewak,"Rolling Meadows, Illinois",Fremd,football,iowa
+128,Nate Vejvoda,"Homer Glen, Illinois",Providence Catholic,football,iowa
+129,Noah Feldman,"West Liberty, Iowa",West Liberty,football,iowa
+130,Noah Fant,"Omaha, Nebraska",Omaha South,football,iowa
+131,Jacob Coons,"Solon, Iowa",Solon,football,iowa
+132,Nico Ragaini,"East Haven, Connecticut",Notre Dame,football,iowa
+133,Sam Brincks,"Carroll, Iowa",Kuemper,football,iowa
+134,Miguel Recinos,"Mason City, Iowa",Mason City,football,iowa
+135,Brady Reiff,"Parkston, South Dakota",Parkston,football,iowa
+136,Brandon Simon,"Newark, New Jersey",Don Bosco Prep,football,iowa
+137,A.J. Epenesa,"Glen Carbon, Illinois",Edwardsville,football,iowa
+138,Caleb Shudak,"Council Bluffs, Iowa",Lewis Central,football,iowa
+139,Cedrick  Lattimore,"Redford, Michigan",East English Village Prep,football,iowa
+140,Matt Nelson,"Cedar Rapids, Iowa",Xavier,football,iowa
+141,Romeo McKnight,"Crystal Lake, Illinois",Crystal Lake Central,football,iowa
+142,Anthony Nelson,"Urbandale, Iowa",Waukee,football,iowa
+143,Seth Benson,"Sioux Falls, South Dakota",Washington,football,iowa
+144,Julius Brents,"Indianapolis, Indiana",Warren Central,football,iowa
+145,Blair Brooks,"Cedar Rapids, Iowa",Marion,football,iowa
+146,Dallas Craddieth,"St. Louis, Missouri",Hazelwood Central,football,iowa
+147,Samson Evans,"Crystal Lake, Illinois",Prairie Ridge,football,iowa
+148,Joe Evans,"Ames, Iowa",Ames,football,iowa
+149,Matt Fagan,"Council Bluffs, Iowa",St. Albert,football,iowa
+150,Henry Geil,"Green Bay, Wisconsin",Preble,football,iowa
+151,Cody Ince,"Luck, Wisconsin",Unity,football,iowa
+152,Jeff Jenkins,"Crystal Lake, Illinois",Prairie RIdge,football,iowa
+153,D.J. Johnson,"Indianapolis, Indiana",North Central,football,iowa
+154,Logan Klemp,"Jewell, Iowa",South Hamilton,football,iowa
+155,Tyler Linderbaum,"Solon, Iowa",Solon,football,iowa
+156,Calvin Lockett,"Largo, Florida",Largo,football,iowa
+157,Jayden McDonald,"Suwanee, Georgia",North Gwinnett,football,iowa
+158,Kaevon Merriweather,"Belleville, Michigan",Belleville,football,iowa
+159,Nathan Nelson,"Waukee, Iowa",Waukee,football,iowa
+160,Turner Pallissard,"Frankfort, Illinois",Lincoln-Way East,football,iowa
+161,Jack Plumb,"Green Bay, Wisconsin",Bay Port,football,iowa
+162,Monte Pottebaum,"Larchwood, Iowa",West Lyon,football,iowa
+163,Mitch Riggs,"West Des Moines, Iowa",Dowling,football,iowa
+164,Terry Roberts,"Erie, Pennsylvania",Cathedral Prep,football,iowa
+165,Connor Ruth,"Malcolm, Nebraska",Seward,football,iowa
+166,Brian Sadler,"Jesup, Iowa",Jesup,football,iowa
+167,Noah Shannon,"Montgomery, Illinois",Oswego,football,iowa
+168,Jaden Snyder,"Larchwood, Iowa",West Lyon,football,iowa
+169,Kordell Stillmunkes,"Hazel Green, Wisconsin",Cuba City,football,iowa
+170,Ben Subbert,"Williamsburg, Iowa",Williamsburg,football,iowa
+171,Mike Timm,"Delafield, Wisconsin",Kettle Moraine,football,iowa
+172,"Tyrone Tracy, Jr.","Indianapolis, Indiana",Decatur Central,football,iowa
+173,John Waggoner,"West Des Moines, Iowa",Dowling Catholic,football,iowa
+174,Trey Winters,"Ankeny, Iowa",Centennial,football,iowa
+175,Cora Meyers,"Riverdale, Iowa",Pleasant Valley,womens soccer,iowa
+176,Zoey Slettehaugh,"Lenexa, Kan.",Bishop Meige,womens soccer,iowa
+177,Claire Graves,"Noblesville, Ind.",Noblesville,womens soccer,iowa
+178,Hailey Rydberg,"St. Charles, Ill.",St. Charles North,womens soccer,iowa
+179,Morgan Kemerling,"Aurora, Ill.",Waubonsie Valley,womens soccer,iowa
+180,Kaleigh Haus,"Des Moines, Iowa",Carlisle,womens soccer,iowa
+181,Riley Whitaker,"Ankeny, Iowa",Ankeny,womens soccer,iowa
+182,Isabella Blackman,"Bettendorf, Iowa",Bettendorf,womens soccer,iowa
+183,Skylar Alward,"Littleton, Colo.",Columbine,womens soccer,iowa
+184,Jenna Kentgen,"Naperville, Ill.",Metea Valley,womens soccer,iowa
+185,Karsen Rauch,"Noblesville, Ind.",Noblesville,womens soccer,iowa
+186,Natalie Winters,"Plymouth, Mich.",Canton,womens soccer,iowa
+187,Sydney Blitchok,"Grandville, Mich.",Grandville,womens soccer,iowa
+188,Olivia Fiegel,"Springfield, Va.",Robinson Secondary School,womens soccer,iowa
+189,Bianca Acuario,"Marysville, Wash.",Marysville Pilchuck,womens soccer,iowa
+190,Leah Moss,"Plymouth, Mich.",Salem,womens soccer,iowa
+191,Rose Ripslinger,"Davenport, Iowa",Davenport                                        Assumption,womens soccer,iowa
+192,Olivia Hellweg,"Cedar Rapids, Iowa",Cedar Rapids Kennedy,womens soccer,iowa
+193,Hannah Drkulec,"Windsor, Ontario, Canada",St. Anne,womens soccer,iowa
+194,Diane Senkowski,"Livonia, Mich.",Adlai E. Stevenson,womens soccer,iowa
+195,Jenny Cape,"Brookfield, Wis.",Brookfield Central,womens soccer,iowa
+196,Emma Tokuyama,"Saline, Mich.",Saline,womens soccer,iowa
+197,Grace Necker,"Pleasant Valley, Iowa",Pleasant Valley,womens soccer,iowa
+198,Adrianna Naumoski,"St. John, Ind.",Lake Central,womens soccer,iowa
+199,Sara  Wheaton,"Chandler, Ariz.",Basha,womens soccer,iowa
+200,Josie Durr,"Solon, Iowa",Solon,womens soccer,iowa
+201,Monica Wilhelm,"Antioch, Ill.",Antioch Community,womens soccer,iowa
+202,Devin Burns,"Green Oaks, Ill.",Loyola Academy,womens soccer,iowa
+203,Riley Burns,"Green Oaks, Ill.",Loyola Academy,womens soccer,iowa
+204,Brandon Cooley,"Bettendorf, Iowa",Bettendorf,mens cross country,iowa
+205,Kevin Docherty,"St. Paul, Minn.",Cretin Derham Hall,mens cross country,iowa
+206,Ian Eklin,"Plymouth, Minn.",Wayzata,mens cross country,iowa
+207,Daniel Gardarsson,"Reykjavic, Iceland",Iowa City West,mens cross country,iowa
+208,Bailey Hesse-Withrobe,"Stillwater, Minn.",Stillwater,mens cross country,iowa
+209,Evan Jacobs,"Sycamore, Ill.",Sycamore,mens cross country,iowa
+210,Michael Melchert,"Monticello, Iowa",Monticello,mens cross country,iowa
+211,Daniel Murphy,"Marion, Iowa",Linn-Mar,mens cross country,iowa
+212,Nathan Mylenek,"Clarkston, Mich.",Pontiac Notre Dame,mens cross country,iowa
+213,Jeff Roberts,"River Vale, NJ",Pascack Valley,mens cross country,iowa
+214,Luke Sampson,"Little Chute, Wis.",Little Chute,mens cross country,iowa
+215,Karson Sommer,"Bettendorf, Iowa",Pleasant Valley,mens cross country,iowa
+216,Daniel Soto,"West Des Moines, Iowa",Valley,mens cross country,iowa
+217,Michael Westphal,"Urbandale, Iowa",Urbandale,mens cross country,iowa
+218,Mary Arch,"Iowa City, Iowa",City High,womens cross country,iowa
+219,Taylor Arco,"Mission Viejo, Calif.",Mission Viejo,womens cross country,iowa
+220,Maddie Carver,"Urbandale, Iowa",Urbandale,womens cross country,iowa
+221,Ashley Espinosa,"Lindenhurst, Ill",Lake Villa,womens cross country,iowa
+222,Marta Gonzalez,"Merida, Spain",Colegio Salesianos Maria,womens cross country,iowa
+223,Julie Hollensbe,"Williamsburg, Iowa",Williamsburg,womens cross country,iowa
+224,Maren Jeppson,"Mount Vernon, Iowa",Mount Vernon,womens cross country,iowa
+225,Mallory King,"Davenport, Iowa",Assumption,womens cross country,iowa
+226,Kara Neustrom,"West Des Moines, Iowa",Valley,womens cross country,iowa
+227,Elizabeth Niedert,"Glen Ellyn, Ill.",Glenbard South,womens cross country,iowa
+228,Lauren Opatrny,"McHenry, Ill.",McHenry East,womens cross country,iowa
+229,Wren Renquist,"Okinawa City, Japan",Kadena,womens cross country,iowa
+230,Tia Saunders,"Iowa City, Iowa",West High,womens cross country,iowa
+231,Andrea Shine,"Crystal Lake, Ill.",Prairie Ridge,womens cross country,iowa
+232,Addie Swanson,"Bettendorf, Iowa",Pleasant Valley,womens cross country,iowa
+233,Madison Waymire,"Grimes, Iowa",Dallas Center-Grimes,womens cross country,iowa
+234,Macie Weber,"Cascade, Iowa",Cascade,womens cross country,iowa
+235,Lindsay Welker,"Terre Haute, Ind.",North,womens cross country,iowa
+236,Aly Weum,"Stoughton, Wis.",Stoughton,womens cross country,iowa
+237,Aaron DeNucci,"Clive, Iowa",Waukee,mens golf,iowa
+238,Alex  Moorman,"Centerville, Iowa",Centerville High School,mens golf,iowa
+239,Jake Rowe,"Portadown, Northern Ireland, United Kingdom",N/A,mens golf,iowa
+240,Alex Schaake,"Omaha, Neb.",Creighton Prep,mens golf,iowa
+241,Jack  Simpson,"Aurora, Ontario",The Country Day School,mens golf,iowa
+242,Matthew Walker,"Ottumwa, Iowa",Ottumwa,mens golf,iowa
+243,Benton  Weinberg,"Potomac, Maryland",Sidwell Friends School,mens golf,iowa
+244,Annalee Dannegger,"Wheaton, Ill.",Wheaton Warrenville South,womens golf,iowa
+245,Rachel Fujitani,"Phoenix, Ariz.",Hamilton,womens golf,iowa
+246,Kristin Glesne,"San Antonio, Texas",Reagan High School,womens golf,iowa
+247,Stephanie Herzog,"Red Wing, Minn.",Red Wing,womens golf,iowa
+248,Jessica Ip,"Richmond Hill, Ontario, Canada",Jean Vanier Catholic,womens golf,iowa
+249,Anna Kim,"Tulsa, Okla.",Union,womens golf,iowa
+250,Morgan Kukla,"Winthrop Harbor, Ill.",Zion Benton Township,womens golf,iowa
+251,Sophie Liu,"Vancouver, B.C.",Viera (Florida),womens golf,iowa
+252,Sarah Overton,"Iowa City, Iowa",City,womens golf,iowa
+253,Shawn  Rennegarbe,"Addieville, Ill.",Nashville Community,womens golf,iowa
+254,Elisa Suarez,"Oviedo, Asturias, Spain",Santa Teresa,womens golf,iowa
+255,Jackson Allmon,"Council Bluffs, Iowa",Saint Albert,mens swimming,iowa
+256,Mateusz Arndt,"Gdynia, Poland",Gimnazjum 10,mens swimming,iowa
+257,Caleb Babb,"Jacksonville, Ill.",Jacksonville Christian Westfair Academy,mens swimming,iowa
+258,Will Brenner,"Ypsilanti, Mich.",Huron,mens swimming,iowa
+259,Michal Brzus,"Bodaczow, Poland",1 LO,mens swimming,iowa
+260,Ben Colin,"Dubuque, Iowa",Dubuque Senior,mens swimming,iowa
+261,Dolan Craine,"Carver, Minn.",Chanhassen,mens swimming,iowa
+262,Weston Credit,"La Grange, Ill.",Lyons Township,mens swimming,iowa
+263,Sam Dumford,"Downers Grove, Ill.",Downers Grove South,mens swimming,iowa
+264,Anze Fers Erzen,"Ljbljana, Slovenia",Bežigrad Grammar School,mens swimming,iowa
+265,Andrew Fierke,"Fort Dodge, Iowa",Fort Dodge,mens swimming,iowa
+266,Steve Fiolic,"Urbandale, Iowa",Johnston,mens swimming,iowa
+267,Anton Hoherz,"Spring, Texas",Oak Ridge,mens swimming,iowa
+268,Matt Kamin,"Dunlap, Ill.",Notre Dame,mens swimming,iowa
+269,Jackson Kuhlers,"Urbandale, Iowa",Waukee,mens swimming,iowa
+270,Kenneth Mende,"Chemnitz, Saxony, Germany",Sportgymnasium Chemnitz,mens swimming,iowa
+271,Joe Myhre,"St. Charles, Ill.",St. Charles North,mens swimming,iowa
+272,Tanner Nelson,"Bettendorf, Iowa",Bettendorf,mens swimming,iowa
+273,Thomas Pederson,"Minnetonka, Minn.",Minnetonka,mens swimming,iowa
+274,Jonatan Posligua,"Guayaquil, Ecuador",Unidad Educativa Liceo Naval de Guayaquil,mens swimming,iowa
+275,Jacob Rosenkoetter,"Austin, Texas",N/A,mens swimming,iowa
+276,Matjaz Rozman,"Ljubljana, Slovenia",Bežigrad Grammar School,mens swimming,iowa
+277,Tom Schab,"Fresno, Calif.",Clovis West,mens swimming,iowa
+278,Will Scott,"Iowa City, Iowa",Iowa City West,mens swimming,iowa
+279,Jack Smith,"Stoke-On-Trent, England",Plymouth College,mens swimming,iowa
+280,Daniel Swanepoel,"Cape Town, Africa",South African College Schools,mens swimming,iowa
+281,Michael Tenney,"Chino Hills, Calif.",Chino Hills,mens swimming,iowa
+282,Forrest White,"Danville, Calif.",De La Salle,mens swimming,iowa
+283,Hannah Burvill,"Pyrford, Great Britain","Notre Dame Senior, Cobham",womens swimming,iowa
+284,Olivia Cook,"Rochester, Minn.",Mayo,womens swimming,iowa
+285,Olivia Dopkiss,"Rockford, Mich.",Rockford,womens swimming,iowa
+286,Kelsey Drake,"Marion, Iowa",Linn-Mar,womens swimming,iowa
+287,Allyssa Fluit,"Pleasant Hill, Iowa",Southeast Polk,womens swimming,iowa
+288,Mallory Fox,"Whitefish Bay, Wis.",Grafton,womens swimming,iowa
+289,Morgan Grout,"Carmel, Ind.",Carmel,womens swimming,iowa
+290,Meghan Hackett,"Cedar Falls, Iowa",Cedar Falls,womens swimming,iowa
+291,Jolynn Harris,"Des Moines, Iowa",Lincoln,womens swimming,iowa
+292,Mackenzie Harris,"Melbourne, Australia",N/A,womens swimming,iowa
+293,Taylor Hartley,"Fort Dodge, Iowa",Fort Dodge,womens swimming,iowa
+294,Lexi Horner,"Johnston, Iowa",Johnston,womens swimming,iowa
+295,Devin Jacobs,"Naperville, Ill.",Naperville North,womens swimming,iowa
+296,Amy Lenderink,"Parker, Colo.",Regis Jesuit,womens swimming,iowa
+297,Jayah Mathews,"Sydney, New South Wales, Austrailia",Brisbane Bayside State College,womens swimming,iowa
+298,Natalie McGovern,"Naperville, Ill.",Neuqua Valley,womens swimming,iowa
+299,Kelly McNamara,"Villa Park, Ill.",Willowbrook,womens swimming,iowa
+300,Sage Ohlensehlen,"Bettendorf, Iowa",Bettendorf,womens swimming,iowa
+301,Claire Park,"Bettendorf, Iowa",Bettendorf,womens swimming,iowa
+302,Samantha Sauer,"St. Charles, Ill.",St. Charles North,womens swimming,iowa
+303,Sarah Schemmel,"Durant, Iowa",Durant,womens swimming,iowa
+304,Abbey Schneider,"Fishers, Ind.",Fishers,womens swimming,iowa
+305,Thelma Strandberg,"Kristiansand, Norway",Kristiansand katedralskole gimle,womens swimming,iowa
+306,Sam Tamborski,"Castle Rock, Colo.",Douglas County,womens swimming,iowa
+307,Jacintha Thomas,"Iowa City, Iowa",West,womens swimming,iowa
+308,Alleyna Thomas,"Iowa City, Iowa",Iowa City West,womens swimming,iowa
+309,Kareem Allaf,"Dubai, UAE",K12 International Academy,mens tennis,iowa
+310,Will  Davies,"Norwich, England",Culford School,mens tennis,iowa
+311,Jason Kerst,"Ann Arbor, Mich.",Skyline,mens tennis,iowa
+312,Jonas Larsen,"Koege, Denmark",Falkonergaardens Gymnasium,mens tennis,iowa
+313,Piotr Smietana,"Krakow, Poland",N/A,mens tennis,iowa
+314,Joe Tyler,"Corby, England",Culford School,mens tennis,iowa
+315,Michelle  Bacalla,"Skokie, Illinois",N/A,womens tennis,iowa
+316,Danielle Bauers,"Alpharetta, Georgia",Alpharetta High School,womens tennis,iowa
+317,Danielle Burich,"Bradenton, Florida",IMG Academy,womens tennis,iowa
+318,Sophie Clark,"Swindon, England",Isambard Community School,womens tennis,iowa
+319,Adorabol Huckleby,"Detroit, Mich.",International Virtual                                        Learning Academy,womens tennis,iowa
+320,Samantha  Mannix,"Elkhorn, Nebraska",Elkhorn South,womens tennis,iowa
+321,Cloe Ruette,"Lanaken, Belgium",N/A,womens tennis,iowa
+322,Elise van Heuvelen,"Seaford, East Sussex, England",Bedes Senior School,womens tennis,iowa
+323,Josh  Andrews,"Urbandale, Iowa",N/A,mens track,iowa
+324,Alex Balke,"Iowa City, Iowa",Regina,mens track,iowa
+325,Wade Barclay,"Southeast Polk, Iowa",N/A,mens track,iowa
+326,Karayme Bartley,"Lionel Town, Jamaica",Iowa Central CC,mens track,iowa
+327,Josh  Braverman,"Lacey, Wash.",River Ridge,mens track,iowa
+328,Akinshe  Calica-Hill,"Chesapeake, Va.",Western Branch,mens track,iowa
+329,Raymund  Clarke,"Roselle, NJ",Clark Abraham,mens track,iowa
+330,Brandon Cooley,"Bettendorf, Iowa",Bettendorf,mens track,iowa
+331,Kevin Docherty,"St. Paul, Minn.",Cretin Derham Hall,mens track,iowa
+332,William Dougherty,"Moville, Iowa",Woodbury Central,mens track,iowa
+333,Chris Douglas,"Deerfield, Ill.",Deerfield,mens track,iowa
+334,Raymonte Dow,"High Point, NC",High Point Central,mens track,iowa
+335,Ian Eklin,"Plymouth, Minn.",Wayzata,mens track,iowa
+336,Gage Eller,"Ames, Iowa",Ames High,mens track,iowa
+337,DeJuan Frye,"Lacey, Wash.",River Ridge High,mens track,iowa
+338,Daniel Gaynes,"Naperville, Ill.",Neuqua Valley,mens track,iowa
+339,Mar'yea Harris,"Auburn, Wash.","Long Beach, Wilson",mens track,iowa
+340,Noah Healy,"Frankfort, Ill.",Lincoln-Way East,mens track,iowa
+341,Bailey Hesse-Withbroe,"Stillwater, Minn.",Stillwater,mens track,iowa
+342,Gavin Hoch,"Lake Forest, Ill.",Lake Forest,mens track,iowa
+343,Collin Hofacker,"Freedom, Wis.",Freedom High,mens track,iowa
+344,Jay  Hunt,"Batavia, Ill.",Batavia,mens track,iowa
+345,Evan Jacobs,"Sycamore, Ill.",Sycamore,mens track,iowa
+346,Andy Jatis,"Homer Glen, Ill.",Providence Catholic High,mens track,iowa
+347,Nolan Kembel,"Loveland, Colo.",Mountain View,mens track,iowa
+348,Cooper Koenig,"West Branch, Iowa",West Branch,mens track,iowa
+349,Noah Larrison,"Clive, Iowa",Waukee,mens track,iowa
+350,Austin Lietz,"Sherman Oaks, Calif.",Notre Dame Academy,mens track,iowa
+351,Carter Lilly,"Sioux City, Iowa",Sioux City East,mens track,iowa
+352,Matt  Lorenz,"Cedar Rapids, Iowa",Pascak Valley,mens track,iowa
+353,Matt Manternach,"Monticello, Iowa",Monticello,mens track,iowa
+354,Michael Melchert,"Monticello, Iowa",Monticello,mens track,iowa
+355,Cole  Moeller,"Wheatland, Iowa",Calamus Wheatland,mens track,iowa
+356,Daniel Murphy,"Marion, Iowa",Linn-Mar,mens track,iowa
+357,Nathan Mylenek,"Clarkston, Mich.",Pontiac Notre Dame,mens track,iowa
+358,Jeff Roberts,"River Vale, NJ",Pascack Valley,mens track,iowa
+359,Luke Sampson,"Little Chute, Wis.",Little Chute,mens track,iowa
+360,Karson Sommer,"Bettendorf, Iowa",Pleasant Valley,mens track,iowa
+361,Tyree Sorrells,"Raytown, Mo.",Raytown South,mens track,iowa
+362,Daniel Soto,"West Des Moines, Iowa",Valley,mens track,iowa
+363,Alec Still,"Moville, Iowa",Woodbury Central,mens track,iowa
+364,Nolan Teubel,"Lisbon, Iowa",Mount Vernon,mens track,iowa
+365,Chris Thompson,"Lemont, Ill.",Lemont,mens track,iowa
+366,Reno Tuufuli,"Las Vegas, Nev.",Liberty,mens track,iowa
+367,Tysen VanDraska,"Swisher, Iowa",Cedar Rapids Prarie,mens track,iowa
+368,Anthony Williams,"Chesapeake, Va.",Western Branch,mens track,iowa
+369,O'Shea Wilson,"Houston, Texas",Fort Bend Bush,mens track,iowa
+370,Antonio Woodard,"Rancho Cucamonga, Calif.",Upland High,mens track,iowa
+371,Mary Arch,"Iowa City, Iowa",City High,womens track,iowa
+372,Taylor Arco,"Mission Viejo, Calif.",Mission Viejo,womens track,iowa
+373,Kyara Avant,"Indianapolis, Ind.",Ben Davis,womens track,iowa
+374,Nia Britt,"Sherman Oaks, Calif",Notre Dame High,womens track,iowa
+375,Brittany Brown,"Upland, Calif",Claremont,womens track,iowa
+376,Talia Buss,"Waukee, Iowa",Waukee HS,womens track,iowa
+377,Maddie Carver,"Urbandale, Iowa",Urbandale,womens track,iowa
+378,Sheridan Champe,"Amherst, Ohio",Amherst Steele High,womens track,iowa
+379,Antonise Christian,"Gary, Ind.",West Side Leadership Academy,womens track,iowa
+380,Leah Colbert,"Troy, Mo.",Troy Buchanan High,womens track,iowa
+381,Sydney Collins,"Lake Geneva, Wis.",Badger HS,womens track,iowa
+382,Mika Cox,"Reynoldsburg, Ohio",Reynoldsburg,womens track,iowa
+383,Kelli DeGeorge,"Bettendorf, Iowa",Pleasant Valley,womens track,iowa
+384,Carly Donahue,"Pleasant Valley, Iowa",Pleasant Valley,womens track,iowa
+385,Ashley Espinosa,"Lindenhurst, Ill",Lake Villa,womens track,iowa
+386,Alexis Gay,"Oak Park, Ill.",Trinity High,womens track,iowa
+387,Marta Gonzalez,"Merida, Spain",Colegio Salesianos Maria,womens track,iowa
+388,Briana Guillory,"Antioch, Calif",Deer Valley High,womens track,iowa
+389,Erika Hammond,"Clinton, Iowa",Clinton,womens track,iowa
+390,Tashee Hargrave,"Naperville, Ill.",Neuqua Valley,womens track,iowa
+391,Julie Hollensbe,"Williamsburg, Iowa",Williamsburg,womens track,iowa
+392,Jenny Kimbro,"Catlin, Ill.",Salt Fork,womens track,iowa
+393,Mallory King,"Davenport, Iowa",Assumption,womens track,iowa
+394,Aubrianna Lantrip,"Phelps, New York",Midlakes,womens track,iowa
+395,Kara Misel,"Solon, Iowa",Solon,womens track,iowa
+396,Kylie Morken,"Ames, Iowa",Ames,womens track,iowa
+397,Marissa Mueller,"Ontario, Canada",Lambton Central,womens track,iowa
+398,Kara Neustrom,"West Des Moines, Iowa",Valley,womens track,iowa
+399,Elizabeth Niedert,"Glen Ellyn, Ill.",Glenbard South,womens track,iowa
+400,Lauren Opatrny,"McHenry, Ill.",McHenry East,womens track,iowa
+401,Sarah Plock,"Iowa City, Iowa",City High,womens track,iowa
+402,Wren Renquist,"Okinawa City, Japan",Kadena,womens track,iowa
+403,Jalynn Roberts-Lewis,"Des Moines, Iowa",Illinois State,womens track,iowa
+404,Tia Saunders,"Iowa City, Iowa",West High,womens track,iowa
+405,Hannah Schilb,"St. Charles, Ill.",St. Charles North,womens track,iowa
+406,Sommer Sharpe,"Pickering, Ontario, Canada",N/A,womens track,iowa
+407,Andrea Shine,"Crystal Lake, Ill.",Prairie Ridge,womens track,iowa
+408,Tria Simmons,"Phoenix, Ariz.",Mountain Pointe,womens track,iowa
+409,Amy Smith,"Wheaton, Ill.",Wheaton Warrenville South,womens track,iowa
+410,Konstadina Spanoudakis,"Crete, Greece",4th Geniko Lykeio of Chania,womens track,iowa
+411,Addie Swanson,"Bettendorf, Iowa",Pleasant Valley,womens track,iowa
+412,Laulauga Tausaga,"Spring Valley, Calif",Mount Miguel,womens track,iowa
+413,Jahisha Thomas,"London, United Kingdom",Wallington High,womens track,iowa
+414,Gillian Urycki,"Metamora, Ill.",Metamora,womens track,iowa
+415,Allison Wahrman,"Carol Stream, Ill.",Glenbard North,womens track,iowa
+416,Madison Waymire,"Grimes, Iowa",Dallas Center-Grimes,womens track,iowa
+417,Macie Weber,"Cascade, Iowa",Cascade,womens track,iowa
+418,Kylie Welch,"Bloomington, Ill.",Bloomington,womens track,iowa
+419,Lindsay Welker,"Terre Haute, Ind.",North,womens track,iowa
+420,Shelby West,"Round Rock, Texas",Round Rock,womens track,iowa
+421,Aly Weum,"Stoughton, Wis.",Stoughton,womens track,iowa
+422,Stephen  Alvarez,"Spring Valley, California",Helix Charter,wrestling,iowa
+423,Zach Axmear,"North English, Iowa",English Valley,wrestling,iowa
+424,Mitch Bowman,"Donahue, Iowa",North Scott,wrestling,iowa
+425,Cade Brownlee,"Omaha, Neb.",Omaha Creighton Prep,wrestling,iowa
+426,Sam  Cook,"Fort Dodge, IA",Fort Dodge,wrestling,iowa
+427,Connor  Corbin,N/A,Fort Dodge,wrestling,iowa
+428,Aaron  Costello,"Dubuque, Iowa",Western Dubuque,wrestling,iowa
+429,Pat  Duggan,"Mechanicsburg, Pennsylvania",Cumberland Valley,wrestling,iowa
+430,Jeren Glosser,"Eddyville, Iowa",Eddyville-Blakesburg-Fremont,wrestling,iowa
+431,Paul Glynn,"Bettendorf, Iowa",Bettendorf,wrestling,iowa
+432,Joey Gunther,"Libertyville, Ill.",Libertyville,wrestling,iowa
+433,Carter Happel,"Lisbon, Iowa",Lisbon,wrestling,iowa
+434,Steven Holloway,"West Burlington, Iowa",Mediapolis,wrestling,iowa
+435,Michael Kemerer,"Murrysville, Pa.",Franklin Regional,wrestling,iowa
+436,Phillip Laux,"Brighton, Iowa",Iowa City West,wrestling,iowa
+437,Spencer Lee,"Murrysville, Pennsylvania",Franklin Regional,wrestling,iowa
+438,Pat Lugo,"Homestead, Fla.",South Dade,wrestling,iowa
+439,Alex  Marinelli,"Miamisburg, Ohio",St. Paris Graham,wrestling,iowa
+440,Tristan McDonald,"Lodi, Wisc.",Lodi,wrestling,iowa
+441,Logan McQuillen,"Monticello, Iowa",Monticello,wrestling,iowa
+442,Aaron Meyer,"Pleasant Hill, Iowa",Southeast Polk,wrestling,iowa
+443,Jeremiah Moody,"Cambridge, Wisconsin",Cambridge,wrestling,iowa
+444,Max Murin,"Ebensburg, Pennsylvania",Central Cambria,wrestling,iowa
+445,Danny  Murphy,"Fort Collins, Colorado",Rocky Mountain,wrestling,iowa
+446,Perez Perez,"Windsor, California",Windsor,wrestling,iowa
+447,Keegan Shaw,"Altoona, Iowa",Southeast Polk,wrestling,iowa
+448,Brandon Sorensen,"Cedar Falls, Iowa",Denver,wrestling,iowa
+449,Justin  Stickley,"Urbana, Ohio",St. Paris Graham,wrestling,iowa
+450,Sam Stoll,"Kasson, Minn.",Kasson-Mantorville,wrestling,iowa
+451,Vince Turk,"Hampshire, Illinois",Montini                                        Catholic,wrestling,iowa
+452,Jacob Warner,"Tolono, Illinois",Washington Community,wrestling,iowa
+453,Cash Wilcke,"Ida Grove, Iowa",OA-BCIG,wrestling,iowa
+454,Myles  Wilson,"Junction, Colorado",Glenwood Springs,wrestling,iowa
+455,Kaleb  Young,"Punxsutawney, Pennsylvania",Punxsutawney,wrestling,iowa
+456,Emily  Deuell,"Poquoson, Va.",Poquoson,womens field hockey,iowa
+457,Makenna Grewe,"San Diego, Calif.",Del Norte,womens field hockey,iowa
+458,Meghan Conroy,"Chesterfield, Mo.",Lafayette,womens field hockey,iowa
+459,Anthe Nijziel,"Eindhoven, Netherlands",Van Maerlantlyceum,womens field hockey,iowa
+460,Ellie Holley,"Bristol, United Kingdom",Clifton College,womens field hockey,iowa
+461,Nikki Freeman,"Whitehouse Station, N.J.",Hunterdon Central,womens field hockey,iowa
+462,Isabella Brown,"Christchurch, New Zealand",N/A,womens field hockey,iowa
+463,Katie Birch,"York, England",The Grammar School at Leeds,womens field hockey,iowa
+464,Leah Zellner,"Emmaus, Pa.",Emmaus,womens field hockey,iowa
+465,Lokke Stribos,"Brussels, Belgium",Lycée de Berlaymont,womens field hockey,iowa
+466,Riley Kniptash,"St. Louis, Mo.",Ladue Horton Watkins,womens field hockey,iowa
+467,Isabella Solaroli,"Yorktown, Va.",Tabb,womens field hockey,iowa
+468,Ciara Smith,"Midlothian, Va.",Trinity Episcopal School,womens field hockey,iowa
+469,Mya Christopher,"Hershey, Penn.",Hershey,womens field hockey,iowa
+470,Ryley Miller,"Edwardsville, Ill.",Edwardsville,womens field hockey,iowa
+471,Sophie Sunderland,"Ipswich, England",Framlingham College,womens field hockey,iowa
+472,Makenna Maguire,"Rumson, N.J.",Rumson Fair Haven,womens field hockey,iowa
+473,Cat Nicholson,"Lake Forest, Ill.",Lake Forest,womens field hockey,iowa
+474,Maddy Murphy,"Riana, Tasmania",Elizabeth College,womens field hockey,iowa
+475,Grace McGuire,"St. Louis, Mo.",Nerix Hall,womens field hockey,iowa
+476,Leslie Speight,"Poquoson , Va.",Poquoson,womens field hockey,iowa
+477,Libby  Adams,"Cedar Rapids, Iowa",Linn-Mar,womens rowing,iowa
+478,Ashlynn Bauer,"Ankeny, Iowa",Centennial,womens rowing,iowa
+479,Katherine Becker,"Muscatine, Iowa",Muscatine,womens rowing,iowa
+480,Danielle Bender,"Bellevue, Iowa",Bellevue Marquette High                                        School,womens rowing,iowa
+481,Allison Blevins,"Prospect Heights, Ill.",John Hersey,womens rowing,iowa
+482,Izzy Bowman,"Leesburg, Va.",Loudoun County,womens rowing,iowa
+483,Rachel Canon,"Ames, Iowa",Ames High,womens rowing,iowa
+484,Alexis Chamness,"Highlands Ranch, Colo.",Thunder Ridge,womens rowing,iowa
+485,Emma Degen,N/A,Thunder Ridge,womens rowing,iowa
+486,Izzy Dolba,"Arlington Heights, Ill.",John Hersey,womens rowing,iowa
+487,Ashley Duda,"Crystal Lake, Ill.",Prairie Ridge,womens rowing,iowa
+488,Madison Gay,"Oak Park, Ill.",Oak Park and River Forest,womens rowing,iowa
+489,Kasia Gniatczyk,"Glen Ellyn, Ill.",Glenbard South,womens rowing,iowa
+490,Hannah Greenlee,"Ames, Iowa",Ames,womens rowing,iowa
+491,Mary Grevas,"Moline, Ill.",Alleman,womens rowing,iowa
+492,Contessa Harold,"Chancellor, S.D.",Parker,womens rowing,iowa
+493,Kaelynn Heiberg,"Minnetonka, Minn.",Hopkins,womens rowing,iowa
+494,Trisha Huerta,"Griswold, Iowa",Griswold,womens rowing,iowa
+495,Kayla Jensen,"Ankeny, Iowa",Ankeny Centennial,womens rowing,iowa
+496,Logan Jones,"West Des Moines, Iowa",Valley,womens rowing,iowa
+497,Laura Justis,"Bettendorf, Iowa",Bettendorf,womens rowing,iowa
+498,Elizabeth Keene,"Cape Girardeau, Mo.",Notre Dame Regional,womens rowing,iowa
+499,Gemma Kerr,"Victoria, B.C. Canada",St. Andrew's                                        Regional,womens rowing,iowa
+500,Amelia Koehn,"North English, Iowa",English Valleys,womens rowing,iowa
+501,Hunter Koenigsfeld,"Cedar Rapids, Iowa",Jefferson High,womens rowing,iowa
+502,Taylor Lopez,"Chicago, Ill.",Walter Payton College Preparatory,womens rowing,iowa
+503,Reagan Mady,"Issaquah, Wash.",Issaquah,womens rowing,iowa
+504,Nicole Majerus,"Pleasant Hill, Iowa",Southeast Polk,womens rowing,iowa
+505,Zora Marinkovich,"Hales Corners, Wis.",Whitnall,womens rowing,iowa
+506,Baillie McCunn,"Orion, Ill.",Orion,womens rowing,iowa
+507,Heidi Mentz,N/A,Orion,womens rowing,iowa
+508,Andjela Milenkovic,"Belgrade, Serbia",Zemun,womens rowing,iowa
+509,Carly Millerd,"Bainbridge Island, Wash.",Bainbridge,womens rowing,iowa
+510,Amalie Millerd,"Bainbridge Island, Wash.",Bainbridge,womens rowing,iowa
+511,Lisa Morales,"Waterloo, Iowa",Cedar Falls,womens rowing,iowa
+512,Keely Paus,"Dorchester, Iowa",Luther,womens rowing,iowa
+513,Katie  Pearson,"Victoria, BC, Canada",Claremont,womens rowing,iowa
+514,Elizabeth Pritchard,"Ankeny, Iowa",Ankeny,womens rowing,iowa
+515,Marija Pritchard,"Ankeny, Iowa",Ankeny,womens rowing,iowa
+516,Paige Przybylski,"Crystal Lake, Ill.",Crystal Lake South,womens rowing,iowa
+517,Kathryn Raver,"Ankeny, Iowa",Ankeny,womens rowing,iowa
+518,Claire Rutherford,"Iowa City, IA",Iowa City,womens rowing,iowa
+519,Katie Rygh,N/A,Iowa City,womens rowing,iowa
+520,Eva Scheibe,"Ames, Iowa",Ames,womens rowing,iowa
+521,Paige Schlapkohl,"Durant, Iowa",N/A,womens rowing,iowa
+522,Megan Sprengeler,"Walford, Iowa",Prairie,womens rowing,iowa
+523,Emily Steimel,"West Des Moines, Iowa",Valley,womens rowing,iowa
+524,Eve  Stewart,N/A,Valley,womens rowing,iowa
+525,Kerstin  Stillman,"Cedar Falls, Iowa",Cedar Falls,womens rowing,iowa
+526,Madelyn Theut,"Escanaba, Mich.",Escanaba,womens rowing,iowa
+527,Anna Varley,"Dubuque, Iowa",Wahlert Catholic,womens rowing,iowa
+528,Elena Waiglein,N/A,Wahlert Catholic,womens rowing,iowa
+529,Tessa Walsh,"Naperville, Ill.",Neuqua Valley,womens rowing,iowa
+530,Hailey Weisensel,"Mount Horeb, Wis.",Mount Horeb,womens rowing,iowa
+531,Nathalia  Wellenreiter,"Hamilton, Ontario, Canada",Ridley College,womens rowing,iowa
+532,Taylor West,"Iowa City, Iowa",Iowa City West,womens rowing,iowa
+533,Faith Wieland,"Bloomington-Normal, Ill.",Central                                        Catholic,womens rowing,iowa
+534,Megan Willey,"Cedar Rapids, Iowa",Linn-Marr,womens rowing,iowa
+535,Sydney Winn,N/A,Linn-Marr,womens rowing,iowa
+536,Alysson Wittmeyer,"Elgin, Ill.",Elgin Academy,womens rowing,iowa
+537,Aralee Bogar,"Trophy Club, Texas",Byron Nelson HS,softball,iowa
+538,Allison Doocy,"Ankeny, Iowa",Ankeny HS,softball,iowa
+539,Taylor Libby,"Iowa City, Iowa",Iowa City West HS,softball,iowa
+540,Erin Riding,"McKinney, Texas",McKinney Boyd,softball,iowa
+541,Lea Thompson,"Indianapolis, Ind.",Scecina Memorial HS,softball,iowa
+542,Lauren Shaw,"LaGrange, Ohio",Keystone HS,softball,iowa
+543,Mallory Kilian,"Fort Dodge, Iowa",Fort Dodge,softball,iowa
+544,Devin  Cantu,"Cedar Hill, Texas",Cedar Hill HS,softball,iowa
+545,Brooke Rozier,"Jefferson City, Mo.",Jefferson City,softball,iowa
+546,Ashley Hamilton,"Robins, Iowa",John F. Kennedy HS,softball,iowa
+547,Elizabeth DeShields,"Midwest City, Oklahoma",Carl Albert HS,softball,iowa
+548,Havyn  Monteer,"Boonville, Mo.",Boonville R-1 HS,softball,iowa
+549,Alex Rath,"Kalona, Iowa",Mid-Prairie HS,softball,iowa
+550,McKenzie Schneider,"Southlake, Texas",Carroll Senior HS,softball,iowa
+551,Molly Kelly,"West Liberty, Iowa",West Liberty,womens volleyball,iowa
+552,Halle Johnston,"Lakeville, Minn.",Lakeville South HS,womens volleyball,iowa
+553,Meghan  Buzzerio,"Chino Hills, Calif.",Chino Hills,womens volleyball,iowa
+554,Brie Orr,"Eagan, Minn.",Eagan HS,womens volleyball,iowa
+555,Reghan Coyle,"Council Bluffs, Iowa",Lewis Central,womens volleyball,iowa
+556,Emily Bushman,"Naperville, Ill.",Naperville North,womens volleyball,iowa
+557,Cali Hoye,"San Clemente, Calif.",San Clemente,womens volleyball,iowa
+558,Taylor Louis,"Evanston, Ill.",Niles North HS,womens volleyball,iowa
+559,Griere Hughes,"Fishers, Ind.",Hamilton Southeastern,womens volleyball,iowa
+560,Courtney Buzzerio,"Chino Hills, Calif.",Orange Lutheran,womens volleyball,iowa
+561,Jake Brodarzon,"Paramus, NJ.",Paramus,mens gymnastics,iowa
+562,Addison Chung,"Medfield, Mass.",Medfield,mens gymnastics,iowa
+563,Dylan Ellsworth,"Farmington, Utah",Viewmont,mens gymnastics,iowa
+564,Andrew  Herrador,"Livermore, Calif.",Livermore,mens gymnastics,iowa
+565,Austin Hodges,"Lincolnshire, Ill.",Stevenson,mens gymnastics,iowa
+566,Bennet  Huang,"Palo Alto, Calif.",Palo Alto,mens gymnastics,iowa
+567,Kevin Johnson,"Dimondale, Mich.",Holt,mens gymnastics,iowa
+568,Mitch  Mandozzi,"Harvard, Mass.",Bromfield,mens gymnastics,iowa
+569,Nick  Merryman,"Brookline, N.H.",Hollis Brookline,mens gymnastics,iowa
+570,Elijah Parsells,"Petaluma, Calif.",Sonoma Academy,mens gymnastics,iowa
+571,Mark Springett,"Dover, Mass.",Beaver Country Day School,mens gymnastics,iowa
+572,Kulani Taylor,"West St. Paul, Minn.",Henry Sibley,mens gymnastics,iowa
+573,Dominic  Tommasone,"Downers Grove, Ill.",Downers Grove South,mens gymnastics,iowa
+574,Rogelio Vazquez,"Orlando, Fla.",Olympia,mens gymnastics,iowa
+575,Brandon  Wong,"Clovis, Calif.",Logos Christian Conservatory,mens gymnastics,iowa
+576,Josh Zeal,"Buffalo Grove, Ill.",Adlai E. Stevenson,mens gymnastics,iowa
+577,Misty-Jade Carlson,"Portland, Ore.",Homeschooled,womens gymnastics,iowa
+578,Erin Castle,"Boone, Iowa",Boone HS,womens gymnastics,iowa
+579,Nicole Chow,"Port Coquitlam, B.C.",Terry Fox Secondary,womens gymnastics,iowa
+580,Breanna Fitzke,"West Allis, Wisconsin",Nathan Hale,womens gymnastics,iowa
+581,Emma Hartzler,"Marion, Iowa",Linn Mar HS,womens gymnastics,iowa
+582,Sydney Hogan,"Waterloo, Iowa",Waterloo Columbus Catholic,womens gymnastics,iowa
+583,Clair Kaji,"Vancouver, Canada",Magee Secondary,womens gymnastics,iowa
+584,Madison Kampschroeder,"Overland Park, Kan.",Shawnee Mission East,womens gymnastics,iowa
+585,Annie  Kustoff,"San Antonio, Texas",Tom C. Clark,womens gymnastics,iowa
+586,Gina Leal,"Glastonbury, Connecticut",Glastonbury,womens gymnastics,iowa
+587,Maria Ortiz,"Fort Myers, Fla.",Fort Myers High School,womens gymnastics,iowa
+588,Rose Piorkowski,"Panama City, Fla.",Mosley High School,womens gymnastics,iowa
+589,Jori Robertson,"Iowa City, Iowa",West Branch,womens gymnastics,iowa
+590,Ashley Smith,"Jacksonville, Fla.",Champion Preparatory Academy,womens gymnastics,iowa
+591,Lanie Snyder,"Omaha, Neb.",Millard West,womens gymnastics,iowa
+592,Charlotte Sullivan,"Christchurch, New Zealand",N/A,womens gymnastics,iowa
+593,Nikki Youd,"Panama City, Fla.",A. Crawford Mosley,womens gymnastics,iowa
+594,Melissa Zurawski,"Darien, Ill.",Hinsdale South,womens gymnastics,iowa

@@ -28,7 +28,7 @@ def select_cols(table, colnames):
     for colname in colnames:
         col_matches = []
         for item in header_items:
-            pattern = r'(.*)'+ colname + r'(.*)'
+            pattern = r'(.*)' + colname + r'(.*)'
             x = re.match(pattern, item, flags = re.I) != None
             col_matches.append(x)
 
@@ -39,6 +39,13 @@ def select_cols(table, colnames):
             indexes_ordered.append(None)
 
     print(indexes_ordered)
+    cols_text = []
+    for j in indexes_ordered:
+        if j is not None:
+            cols_text.append(header_items[j])
+        else:
+            cols_text.append('N/A')
+    print(cols_text)
     roster = []
     for row in rows:
         row = row.find_all('td')
@@ -57,6 +64,7 @@ def select_cols(table, colnames):
             else:
                 result.append("N/A")
 
+        result += cols_text
         roster.append(result)
 
     return roster
@@ -124,3 +132,138 @@ def make_player_df(name, hometown, sport_id, school):
     player_df['sport'] = sport_id
     player_df['school'] = school
     return player_df
+
+
+def gather_rosters_ul(sports_dict, url_template):
+    # takes dictionary with sport name keys and url/table info and url template
+    # --> DataFrame with roster for each sport by finding name, then
+    # finding hometown from finding first ul item with comma, then
+    # taking the next ul item as guess for high school/previous school
+
+    roster_list = []
+    classname = 'sidearm-roster-players'
+
+    for (sport_id, sport_info) in sports_dict.items():
+        sporturl = sport_info[0]
+        ulnum = sport_info[1]
+        print(sport_id)
+        url = url_template.format(sporturl = sporturl)
+        table = get_list(url, classname, numlists=ulnum)
+        players = table.find_all('li')
+        for player in players:
+            name = player.find('div',
+                class_ = 'sidearm-roster-player-name').find('a').getText().strip()
+            hometown_list = player.find('div',
+                class_ = 'sidearm-roster-player-class-hometown').find_all('span')
+
+            try:
+                hometown = 'N/A'
+                for (j, item) in enumerate(hometown_list):
+                    x = item.getText().strip()
+                    if ',' in x:
+                        hometown = x
+                        try:
+                            high_school = hometown_list[j+1].getText().strip()
+                        except IndexError:
+                            high_school = 'N/A'
+                        break
+                    else:
+                        continue
+            except IndexError:
+                hometown = 'N/A'
+                high_school = 'N/A'
+            else:
+                if hometown == 'N/A':
+                    high_school = 'N/A'
+                    
+            player_row = [name, hometown, high_school, sport_id]
+            roster_list.append(player_row)
+
+    colnames = ['name', 'hometown', 'high school?', 'sport']
+    full_df = pd.DataFrame(roster_list, columns = colnames)
+    return full_df
+
+
+def gather_rosters_grid(sports_dict):
+    # takes a dictionary with sport name key and url
+    # --> DataFrame with roster for each sport
+    full_df = pd.DataFrame()
+    def_gender = 'N/A'
+    for (sport_id, sporturl) in sports_dict.items():
+        cur_gender = def_gender
+        url = sporturl[0]
+        grid = get_grid(url, 'roster-grid-layout')
+        players = grid.find_all('div')
+        roster = []
+        print(sport_id)
+        for player in players:
+            try:
+                x = player.get_text().strip()
+                if x == 'Men':
+                    cur_gender = 'Men'
+                elif x == 'Women':
+                    cur_gender = 'Women'
+                else:
+                    pass
+                gender = cur_gender
+            except:
+                try:
+                    gender = cur_gender
+                except:
+                    gender = def_gender
+            lev1 = player.find_all('div')
+            for div in lev1:
+                try:
+                    name = div.find('div', class_ = 'player-name').find('a').get_text().strip()
+                    lev2 = div.find('div', class_ = 'info')
+                    town_school = lev2.find('div', class_ = 'hometown')
+                    town_school = town_school.find('span', class_ = 'data').get_text().strip()
+
+                    hs_start = town_school.rfind('(') + 1
+                    hs_end   = town_school.rfind(')')
+                    ht_end   = town_school.find('(')
+
+                    if ht_end > 0:
+                        hometown = town_school[:ht_end].strip()
+                    if (hs_start > 0) & (hs_end > 0):
+                        high_school = town_school[hs_start:hs_end].strip()
+
+                    row = [name, hometown, high_school, gender]
+                    roster.append(row)
+                except AttributeError:
+                    continue
+
+        colnames = ['name', 'hometown', 'high_school', 'gender']
+        x = pd.DataFrame(roster, columns = colnames)
+        x['sport'] = sport_id
+        full_df = full_df.append(x)
+        print('done' + '\n')
+
+    return full_df
+
+
+def gather_rosters_table(sports_dict, find_cols, url_template):
+    # takes a dictionary with sport name keys and url/table info,
+    # list of column names to find, and url template
+    # --> DataFrame with roster for each sport based on columns given
+    cols_text = []
+    for c in find_cols:
+         cols_text.append(c + " text")
+    colnames = find_cols + cols_text
+
+    full_df = pd.DataFrame()
+
+    for (sport_id, sport_info) in sports_dict.items():
+        sporturl = sport_info[0]
+        table_id = sport_info[1]
+        url = url_template.format(sporturl=sporturl)
+
+        table = get_table(url, table_id)
+        print(sport_id + '\n')
+        roster = select_cols(table, find_cols)
+
+        x = pd.DataFrame(roster, columns = colnames)
+        x['sport'] = sport_id
+        full_df = full_df.append(x)
+
+    return full_df
