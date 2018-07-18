@@ -7,13 +7,7 @@ import _proj_functions as proj
 import _lookups as lookups
 import re
 
-class MyOpener(FancyURLopener):
-	version = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11)'
-myopener = MyOpener()
-
 outdir = '../output'
-
-## Womens soccer roster unavailable on 4/14/2018
 
 ##### duke ###########################
 school = 'duke'

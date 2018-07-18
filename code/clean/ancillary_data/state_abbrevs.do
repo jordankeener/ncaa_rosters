@@ -1,5 +1,4 @@
 set more off
-capture log close
 
 cd "~/Documents/GitHub/ncaa_rosters/code/clean/ancillary_data"
 

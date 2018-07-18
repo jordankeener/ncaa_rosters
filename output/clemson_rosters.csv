@@ -1,436 +1,298 @@
-,name,hometown,high_school,gender,sport,college
-0,Clyde Trapp,"Eastover, S.C.",Lower Richland HS,N/A,mens basketball,clemson
-1,Marcquise Reed,"Landover, Md.",Robert Morris,N/A,mens basketball,clemson
-2,Lyles Davis,"Charleston, S.C.",James Island Charter HS,N/A,mens basketball,clemson
-3,Shelton Mitchell,"Waxhaw, N.C.",Vanderbilt,N/A,mens basketball,clemson
-4,Mark Donnal,"Monclova, Ohio",Anthony Wayne HS,N/A,mens basketball,clemson
-5,Gabe DeVoe,"Shelby, N.C.",Shelby HS,N/A,mens basketball,clemson
-6,Isaac Fields,"Pewee Valley, Ky.",South Oldham HS,N/A,mens basketball,clemson
-7,Elijah Thomas,"Dallas, Texas",Lancaster HS,N/A,mens basketball,clemson
-8,Malik William,"Orlando, Fla.",The First Academy,N/A,mens basketball,clemson
-9,Anthony Oliver II,"Clemson, S.C.",Daniel HS,N/A,mens basketball,clemson
-10,Scott Spencer,"Suffolk, Va.",Blue Ridge School,N/A,mens basketball,clemson
-11,David Skara,"Zadar, Croatia",Valparaiso,N/A,mens basketball,clemson
-12,Aamir Simms,"Palmyra, Va.",Blue Ridge School,N/A,mens basketball,clemson
-13,Donte Grantham,"Martinsburg, W.Va.",Hargrave Military Academy,N/A,mens basketball,clemson
-0,Destiny Thomas,"Pelham, Ga.",Pelham HS,N/A,womens basketball,clemson
-1,Danielle Edwards,"Perry Hall, Md.",McDonogh School,N/A,womens basketball,clemson
-2,Keniece Purvis,"Greensboro, N.C.",New Garden Friends School,N/A,womens basketball,clemson
-3,Chyna Cotton,"Mableton, Ga.",Southwest Atlanta Christian Academy,N/A,womens basketball,clemson
-4,Kobi Thornton,"Shellman, Ga.",Randolph-Clay,N/A,womens basketball,clemson
-5,Tylar Bennett,"Redford, Mich.",Detroit Country Day School,N/A,womens basketball,clemson
-0,Kier Meredith,"Winston-Salem, N.C.",Glenn HS,N/A,baseball,clemson
-1,Grayson Byrd,"Milton, Ga.",Louisiana State University,N/A,baseball,clemson
-2,Sam Hall,"Hampstead, N.C.",Topsail HS,N/A,baseball,clemson
-3,Logan Davidson,"Charlotte, N.C.",Providence HS,N/A,baseball,clemson
-4,Jordan Greene,"Fort Mill, S.C.",N.C.) School,N/A,baseball,clemson
-5,Kyle Wilkie,"Cumming, Ga.",Creekview HS,N/A,baseball,clemson
-6,Adam Renwick,"Spartanburg, S.C.",Dorman HS,N/A,baseball,clemson
-7,Robert Jolly,"Myrtle Beach, S.C.",Carolina Forest HS,N/A,baseball,clemson
-8,Drew Wharton,"Suwanee, Ga.",Peachtree Ridge HS,N/A,baseball,clemson
-9,Bo Majkowski,"Johns Creek, Ga.",Johns Creek HS,N/A,baseball,clemson
-10,Justin Hawkins,"Prosperity, S.C.",USC Sumter,N/A,baseball,clemson
-11,Brooks Crawford,"Bishop, Ga.",Oconee County HS,N/A,baseball,clemson
-12,Mat Clark,"Hilton Head Island, S.C.",Hilton Head Island HS,N/A,baseball,clemson
-13,Sam Weatherly,"Howell, Mich.",Howell HS,N/A,baseball,clemson
-14,Carson Spiers,"Greenville, S.C.",Greenville HS,N/A,baseball,clemson
-15,Jake Higginbotham,"Hoschton, Ga.",Buford HS,N/A,baseball,clemson
-16,Patrick Cromwell,"Costa Mesa, Calif.",Santa Ana College,N/A,baseball,clemson
-17,Matt Cooper,"Virginia Beach, Va.",Norfolk Academy,N/A,baseball,clemson
-18,Chris Williams,"Garden Grove, Calif.",Golden West College,N/A,baseball,clemson
-19,Seth Beer,"Suwanee, Ga.",Lambert HS,N/A,baseball,clemson
-20,Spencer Strider,"Knoxville, Tenn.",Christian Academy of Knoxville,N/A,baseball,clemson
-21,Mitchell Miller,"Covington, Ga.",Loganville HS,N/A,baseball,clemson
-22,Bryce Teodosio,"Simpsonville, S.C.",Mauldin HS,N/A,baseball,clemson
-23,Jacob Hennessy,"Moore, S.C.",Dorman HS,N/A,baseball,clemson
-24,Ryan Miller,"Venice, Fla.",State College of Florida,N/A,baseball,clemson
-25,Ryne Huggins,"Newberry, S.C.",Newberry HS,N/A,baseball,clemson
-26,Travis Marr,"Castle Rock, Colo.",Regis Jesuit HS,N/A,baseball,clemson
-27,Owen Griffith,"Aiken, S.C.",South Aiken HS,N/A,baseball,clemson
-28,Bo Gobin,"Summerville, S.C.",Summerville HS,N/A,baseball,clemson
-29,Ryley Gilliam,"Kennesaw, Ga.",Kennesaw Mountain HS,N/A,baseball,clemson
-30,Holt Jones,"Santa Monica, Calif.",Santa Monica HS,N/A,baseball,clemson
-31,Alex Schnell,"Milton, Ga.",Milton HS,N/A,baseball,clemson
-32,Bryce Bowen,"Bowman, Ga.",Elbert County HS,N/A,baseball,clemson
-33,Andrew Coker,"Hartsville, S.C.",Hartsville HS,N/A,baseball,clemson
-34,Drew Donathan,"Charlotte, N.C.",Charlotte Christian School,N/A,baseball,clemson
-0,Trayvon Mullen,"Fort Lauderdale, Fla.",Coconut Creek HS,N/A,football,clemson
-1,Trevion Thompson,"Durham, N.C.",Hillside HS,N/A,football,clemson
-2,Kelly Bryant,"Calhoun Falls, S.C.",Wren HS,N/A,football,clemson
-3,Mark Fields,"Charlotte, N.C.",William Amos Hough HS,N/A,football,clemson
-4,Amari Rodgers,"Knoxville, Tenn.",Knoxville Catholic HS,N/A,football,clemson
-5,Tee Higgins,"Oak Ridge, Tenn.",Oak Ridge HS,N/A,football,clemson
-6,Shaq Smith,"Baltimore, Md.",Fla.) Academy,N/A,football,clemson
-7,Zerrick Cooper,"Jonesboro, Ga.",Jonesboro HS,N/A,football,clemson
-8,Dorian O'Daniel,"Olney, Md.",Our Lady of Good Counsel HS,N/A,football,clemson
-9,Chase Brice,"Grayson, Ga.",Grayson HS,N/A,football,clemson
-10,Austin Bryant,"Pavo, Ga.",Thomas County Central HS,N/A,football,clemson
-11,Deon Cain,"Tampa, Fla.",Tampa Bay Technical HS,N/A,football,clemson
-12,A.J. Terrell,"Atlanta, Ga.",Westlake HS,N/A,football,clemson
-13,Brian Dawkins Jr.,"Parker, Colo.",Valor Christian HS,N/A,football,clemson
-14,Travis Etienne,"Jennings, La.",Jennings HS,N/A,football,clemson
-15,Tucker Israel,"Orlando, Fla.",Lake Nona HS,N/A,football,clemson
-16,Baylon Spector,"Calhoun, Ga.",Calhoun HS,N/A,football,clemson
-17,Shadell Bell,"Decatur, Ga.",Columbia HS,N/A,football,clemson
-18,Isaiah Simmons,"Olathe, Kan.",Olathe North HS,N/A,football,clemson
-19,K'Von Wallace,"Richmond, Va.",Highland Springs HS,N/A,football,clemson
-20,Hunter Renfrow,"Myrtle Beach, S.C.",Socastee HS,N/A,football,clemson
-21,Denzel Johnson,"Columbia, S.C.",A.C. Flora HS,N/A,football,clemson
-22,Diondre Overton,"Greensboro, N.C.",Walter Hines Page HS,N/A,football,clemson
-23,Hunter Johnson,"Brownsburg, Ind.",Brownsburg HS,N/A,football,clemson
-24,Will Swinney,"Clemson, S.C.",Daniel HS,N/A,football,clemson
-25,Cornell Powell,"Greenville, N.C.",J.H. Rose HS,N/A,football,clemson
-26,T.J. Chase,"Plant City, Fla.",Plant City HS,N/A,football,clemson
-27,Tanner Muse,"Belmont, N.C.",South Point HS,N/A,football,clemson
-28,Jack Swinney,"Lawrenceville, Ga.",Brookwood HS,N/A,football,clemson
-29,LeAnthony Williams,"Atlanta, Ga.",Roswell HS,N/A,football,clemson
-30,Ray-Ray McCloud,"Tampa, Fla.",Sickles HS,N/A,football,clemson
-31,Darien Rencher,"Anderson, S.C.",T.L. Hanna HS,N/A,football,clemson
-32,Xavier Kelly,"Wichita, Kan.",East HS,N/A,football,clemson
-33,Van Smith,"Charlotte, N.C.",William Amos Hough HS,N/A,football,clemson
-34,Nolan Turner,"Vestavia Hills, Ala.",Vestavia Hills HS,N/A,football,clemson
-35,J.C. Chalk,"Argyle, Texas",Argyle HS,N/A,football,clemson
-36,Adam Choice,"Thomasville, Ga.",Thomas County Central HS,N/A,football,clemson
-37,Alex Dalton,"Anderson, S.C.",T.L. Hanna HS,N/A,football,clemson
-38,C.J. Fuller,"Easley, S.C.",Easley HS,N/A,football,clemson
-39,Tavien Feaster,"Spartanburg, S.C.",Spartanburg HS,N/A,football,clemson
-40,Marcus Edmond,"Hopkins, S.C.",Lower Richland HS,N/A,football,clemson
-41,Jalen Williams,"Columbia, S.C.",Blythewood HS,N/A,football,clemson
-42,Ryan Carter,"Grayson, Ga.",Grayson HS,N/A,football,clemson
-43,Cole Renfrow,"Myrtle Beach, S.C.",Socastee HS,N/A,football,clemson
-44,Kyle Cote,"Six Mile, S.C.",Daniel HS,N/A,football,clemson
-45,Sylvester Mayers,"Richmond, Va.",Benedictine College Preparatory,N/A,football,clemson
-46,J.D. Davis,"Clemson, S.C.",Daniel HS,N/A,football,clemson
-47,Kendall Joseph,"Belton, S.C.",Belton-Honea Path HS,N/A,football,clemson
-48,Justin Foster,"Shelby, N.C.",Crest HS,N/A,football,clemson
-49,Ty Thomason,"Greenville, S.C.",Eastside HS,N/A,football,clemson
-50,Judah Davis,"Clemson, S.C.",Daniel HS,N/A,football,clemson
-51,Austin Jackson,"Cary, N.C.",Green Hope HS,N/A,football,clemson
-52,Ryan Mac Lain,"Plymouth, Ind.",Plymouth HS,N/A,football,clemson
-53,Amir Trapp,"Clemson, S.C.",Daniel HS,N/A,football,clemson
-54,Christian Groomes,"Central, S.C.",Daniel HS,N/A,football,clemson
-55,Cameron Scott,"Florence, S.C.",Wilson HS,N/A,football,clemson
-56,Hall Morton,"Birmingham, Ala.",Oak Mountain HS,N/A,football,clemson
-57,Connor Sekas,"Vienna, Va.",James Madison HS,N/A,football,clemson
-58,Alex Spence,"Florence, S.C.",West Florence HS,N/A,football,clemson
-59,Christian Wilkins,"Springfield, Mass.",Conn.) Academy,N/A,football,clemson
-60,Chad Smith,"Sterling, Va.",Dominion HS,N/A,football,clemson
-61,Nyles Pinckney,"Beaufort, S.C.",Whale Branch Early College HS,N/A,football,clemson
-62,Garrett Williams,"Orlando, Fla.",The First Academy,N/A,football,clemson
-63,Josh Jackson,"Greenville, S.C.",Christ Church Episcopal School,N/A,football,clemson
-64,Chris Register,"Greensboro, N.C.",Dudley HS,N/A,football,clemson
-65,Jarvis Magwood,"Greenville, S.C.",James F. Byrnes HS,N/A,football,clemson
-66,Peter Cote,"Six Mile, S.C.",Daniel HS,N/A,football,clemson
-67,James Skalski,"Sharpsburg, Ga.",Northgate HS,N/A,football,clemson
-68,Landon Holden,"Inman, S.C.",Chapman HS,N/A,football,clemson
-69,Will Spiers,"Cameron, S.C.",Calhoun Academy,N/A,football,clemson
-70,Richard Yeargin,"Lauderdale Lakes, Fla.",University School of Nova Southeastern University,N/A,football,clemson
-71,Justin Falcinelli,"Middletown, Md.",Middletown HS,N/A,football,clemson
-72,Jabril Robinson,"Leland, N.C.",North Brunswick HS,N/A,football,clemson
-73,Taylor Hearn,"Williston, S.C.",Williston-Elko HS,N/A,football,clemson
-74,Matthew King,"Inman, S.C.",Boiling Springs HS,N/A,football,clemson
-75,Austin Spence,"Florence, S.C.",West Florence HS,N/A,football,clemson
-76,Regan Upshaw,"Florence, S.C.",West Florence HS,N/A,football,clemson
-77,Logan Rudolph,"Rock Hill, S.C.",Northwestern HS,N/A,football,clemson
-78,Tyrone Crowder,"Marston, N.C.",Richmond Senior HS,N/A,football,clemson
-79,Luke Price,"Dillon, S.C.",Dillon Christian School,N/A,football,clemson
-80,Tre Lamar,"Roswell, Ga.",Roswell HS,N/A,football,clemson
-81,Patrick Phibbs,"Pittsburgh, Pa.",Central Catholic HS,N/A,football,clemson
-82,Gage Cervenka,"Greenwood, S.C.",Emerald HS,N/A,football,clemson
-83,Jordan Williams,"Virginia Beach, VA.",Frank W. Cox HS,N/A,football,clemson
-84,Kelby Bevelle,"Apopka, Fla.",Apopka HS,N/A,football,clemson
-85,Kaleb Bevelle,"Apopka, Fla.",Apopka HS,N/A,football,clemson
-86,Cade Stewart,"Six Mile, S.C.",Daniel HS,N/A,football,clemson
-87,Pat Godfrey,"Greenlawn, N.Y.",Harborfields HS,N/A,football,clemson
-88,Matt Bockhorst,"Cincinnati, Ohio",St. Xavier HS,N/A,football,clemson
-89,Albert Huggins,"Orangeburg, S.C.",Orangeburg-Wilkinson HS,N/A,football,clemson
-90,Noah DeHond,"Rochester, N.Y.",N.J.) School,N/A,football,clemson
-91,Maverick Morris,"Broxton, Ga.",Coffee HS,N/A,football,clemson
-92,Seth Penner,"Naples, Fla.",First Baptist Academy,N/A,football,clemson
-93,Jack Maddox,"Acton, Mass.",Acton-Boxborough Regional HS,N/A,football,clemson
-94,Blake Vinson,"Ocala, Fla.",North Marion HS,N/A,football,clemson
-95,Tremayne Anchrum,"Powder Springs, Ga.",McEachern HS,N/A,football,clemson
-96,John Simpson,"North Charleston, S.C.",Fort Dorchester HS,N/A,football,clemson
-97,Mitch Hyatt,"Suwanee, Ga.",North Gwinnett HS,N/A,football,clemson
-98,Sean Pollard,"Jackson Springs, N.C.",Pinecrest HS,N/A,football,clemson
-99,Zach Giella,"Lincolnton, Ga.",Augusta Christian Schools,N/A,football,clemson
-100,Chandler Reeves,"McDonough, Ga.",Eagle's Landing Christian Academy,N/A,football,clemson
-101,Milan Richard,"Savannah, Ga.",Calvary Day School,N/A,football,clemson
-102,Kanyon Tuttle,"Charlotte, N.C.",Charlotte Latin School,N/A,football,clemson
-103,Will Brown,"Boiling Springs, S.C.",Boiling Springs HS,N/A,football,clemson
-104,Carter Groomes,"Central, S.C.",Daniel HS,N/A,football,clemson
-105,Cannon Smith,"Columbia, S.C.",Hammond School HS,N/A,football,clemson
-106,Ryan Enniss,"York, S.C.",York Comprehensive HS,N/A,football,clemson
-107,D.J. Greenlee,"Clemson, S.C.",Daniel HS,N/A,football,clemson
-108,Jayson Hopper,"Lexington, S.C.",Lexington HS,N/A,football,clemson
-109,Drew Costa,"Folly Beach, S.C.",Bishop England HS,N/A,football,clemson
-110,Dexter Lawrence,"Wake Forest, N.C.",Wake Forest HS,N/A,football,clemson
-111,Daniel Funderburk,"North Myrtle Beach, S.C.",North Myrtle Beach HS,N/A,football,clemson
-112,Greg Huegel,"Blythewood, S.C.",Blythewood HS,N/A,football,clemson
-113,Sterling Johnson,"Clayton, N.C.",Cleveland HS,N/A,football,clemson
-114,Jacob Edwards,"Vestavia Hills, Ala.",Vestavia Hills HS,N/A,football,clemson
-115,James Edwards,"Vestavia Hills, Ala.",Vestavia Hills HS,N/A,football,clemson
-116,Isaac Moorhouse,"Anderson, S.C.",Anderson Christian School,N/A,football,clemson
-117,Michael Batson,"Central, S.C.",Christ Church Episcopal School,N/A,football,clemson
-118,Carson King,"Nashville, Tenn.",Brentwood Academy,N/A,football,clemson
-119,Nick Rowell,"Spartanburg, S.C.",James F. Byrnes HS,N/A,football,clemson
-120,Clelin Ferrell,"Richmond, Va.",Benedictine College Preparatory,N/A,football,clemson
-0,Daniel Kuzemka,"Richmond, Va.",Benedictine College Preparatory,N/A,mens soccer,clemson
-1,Ximo Miralles,"Richmond, Va.",Benedictine College Preparatory,N/A,mens soccer,clemson
-2,Andrew Burnikel,"Richmond, Va.",Benedictine College Preparatory,N/A,mens soccer,clemson
-3,Patrick Bunk-Andersen,"Richmond, Va.",Benedictine College Preparatory,N/A,mens soccer,clemson
-4,Oliver Shannon,"Richmond, Va.",Benedictine College Preparatory,N/A,mens soccer,clemson
-5,Malick Mbaye,"Richmond, Va.",Benedictine College Preparatory,N/A,mens soccer,clemson
-6,Tanner Dieterich,"Richmond, Va.",Benedictine College Preparatory,N/A,mens soccer,clemson
-7,Saul Chinchilla,"Richmond, Va.",Benedictine College Preparatory,N/A,mens soccer,clemson
-8,Johnny Heckman,"Richmond, Va.",Benedictine College Preparatory,N/A,mens soccer,clemson
-9,Jason Wright,"Kingston, Jamaica",Rutgers,N/A,mens soccer,clemson
-10,Diego Campos,"Kingston, Jamaica",Rutgers,N/A,mens soccer,clemson
-11,Michael Melvin,"Kingston, Jamaica",Rutgers,N/A,mens soccer,clemson
-12,Grayson Raynor,"Kingston, Jamaica",Rutgers,N/A,mens soccer,clemson
-13,Cale Thorne,"Kingston, Jamaica",Rutgers,N/A,mens soccer,clemson
-14,Kimarni Smith,"Kingston, Jamaica",Rutgers,N/A,mens soccer,clemson
-15,Harrison Kurtz,"Kingston, Jamaica",Rutgers,N/A,mens soccer,clemson
-16,Justin Malou,"Kingston, Jamaica",Rutgers,N/A,mens soccer,clemson
-17,Michael Ille,"Kingston, Jamaica",Rutgers,N/A,mens soccer,clemson
-18,Quinn McNeill,"Kingston, Jamaica",Rutgers,N/A,mens soccer,clemson
-19,Alexander Hemmingsen,"Kingston, Jamaica",Rutgers,N/A,mens soccer,clemson
-20,Gian Scalise,"Buenos Aires, Argentina",Wayland Baptist University,N/A,mens soccer,clemson
-21,Chris Heijjer,"Buenos Aires, Argentina",Wayland Baptist University,N/A,mens soccer,clemson
-22,Nate Hall,"Buenos Aires, Argentina",Wayland Baptist University,N/A,mens soccer,clemson
-23,Daniel Ramljak,"Buenos Aires, Argentina",Wayland Baptist University,N/A,mens soccer,clemson
-24,Robbie Robinson,"Buenos Aires, Argentina",Wayland Baptist University,N/A,mens soccer,clemson
-25,Nolan Lennon,"Buenos Aires, Argentina",Wayland Baptist University,N/A,mens soccer,clemson
-26,Michael Zierhoffer,"Buenos Aires, Argentina",Wayland Baptist University,N/A,mens soccer,clemson
-0,Sandy MacIver,"Winsford, England",Sir John Deanes HS,N/A,womens soccer,clemson
-1,Miranda Weslake,"Beaufort, S.C.",Beaufort Academy,N/A,womens soccer,clemson
-2,Mackenzie Smith,"Bath, N.Y.",Haverling HS,N/A,womens soccer,clemson
-3,Alex Nillen,"Lakewood, Colo.",Wheat Ridge HS,N/A,womens soccer,clemson
-4,Cyan Mercer,"Weddington, N.C.",Weddington HS,N/A,womens soccer,clemson
-5,Lauren Harkes,"Fairfax, Va.",Bishop O'Connell HS,N/A,womens soccer,clemson
-6,Shannon Horgan,"Long Beach, N.Y.",Long Beach HS,N/A,womens soccer,clemson
-7,Haley Schueppert,"Highlands Ranch, Colo.",Mountain Vista HS,N/A,womens soccer,clemson
-8,Audrey Viso,"Baton Rouge, La.",St. Joseph's Academy,N/A,womens soccer,clemson
-9,Alana Hockenhull,"Vero Beach, Fla.",Vero Beach HS,N/A,womens soccer,clemson
-10,Kimber Haley,"Fort Mill, S.C.",Fort Mills HS,N/A,womens soccer,clemson
-11,Sarah Osborne,"Chesapeake Beach, Md.",Huntingtown HS,N/A,womens soccer,clemson
-12,Dani Antieau,"Pembroke Pines, Fla.",West Broward HS,N/A,womens soccer,clemson
-13,Abigail Mitchell,"Alpharetta, Ga.",Wesleyan HS,N/A,womens soccer,clemson
-14,Sam Staab,"San Diego, Calif.",Scripps Ranch HS,N/A,womens soccer,clemson
-15,Julie Mackin,"Castle Rock, Colo.",Castle View HS,N/A,womens soccer,clemson
-16,Mariana Speckmaier,"Miami, Fla.",MAST Academy,N/A,womens soccer,clemson
-17,Jeni Erickson,"Greenville, S.C.",J.L. Mann Academy,N/A,womens soccer,clemson
-18,Jenna Polonsky,"Winston-Salem, N.C.",Ronald Wilson Reagan HS,N/A,womens soccer,clemson
-19,Courtney Jones,"Carmel, Ind.",North Central HS,N/A,womens soccer,clemson
-20,Ellen Colborn,"Colleyville, Texas",Grapevine HS,N/A,womens soccer,clemson
-21,Maddie Weber,"Coppell, Texas",Coppell HS,N/A,womens soccer,clemson
-22,Rachele Manfre,"Simpsonville, S.C.",Riverside HS,N/A,womens soccer,clemson
-23,Melanie Stiles,"Bowie, Md.",Bishop McNamara HS,N/A,womens soccer,clemson
-24,Patrice DiPasquale,"Cincinnati, Ohio",Kings HS,N/A,womens soccer,clemson
-0,Kyle Cottam,"Knoxville, Tenn.",Knoxville Catholic,N/A,mens golf,clemson
-1,Josh Fickes,"Beaufort, S.C.",Beaufort,N/A,mens golf,clemson
-2,Peter Mathison,"Jupiter, Fla.",Oxbridge Academy,N/A,mens golf,clemson
-3,Bryson Nimmer,"Bluffton, S.C.",Hilton Head Christian,N/A,mens golf,clemson
-4,William Nottingham,"Kingsport, Tenn",Dobyns-Bennett,N/A,mens golf,clemson
-5,Colby Patton,"Fountain Inn, SC",Hillcrest,N/A,mens golf,clemson
-6,Turk Pettit,"Auburn, Ala",Lee-Scott Academy,N/A,mens golf,clemson
-7,Jonathan Rector,"Asheville, N.C.",Christ School,N/A,mens golf,clemson
-8,Doc Redman,"Raleigh, NC",Leesville Road,N/A,mens golf,clemson
-9,Coleman Self,"Greenwood, S.C.",Emerald,N/A,mens golf,clemson
-0,Ashley Czarnecki,"Greenville, S.C.",Mauldin HS,N/A,womens golf,clemson
-1,Alice Hewson,"Berkhamsted, Hertfordshire, UK",Berkhamsted,N/A,womens golf,clemson
-2,Sydney Legacy,"Lexington, S.C.",Lexington,N/A,womens golf,clemson
-3,Marisa Messana,"Fort Lauderdale, Fla.",American Heritage,N/A,womens golf,clemson
-4,Callista Rice,"Fort Lauderdale, Fla.",American Heritage,N/A,womens golf,clemson
-5,Kennedy Swann,"Austin, Texas",Westlake,N/A,womens golf,clemson
-6,Ana Paula Valdes,"Morelia, Mexico",Heritage Academy/ Montverde Academic,N/A,womens golf,clemson
-0,Simon Baudry,"Morelia, Mexico",Heritage Academy/ Montverde Academic,N/A,mens tennis,clemson
-1,Marshall Dagostine,"Morelia, Mexico",Heritage Academy/ Montverde Academic,N/A,mens tennis,clemson
-2,Sam Edwards,"Morelia, Mexico",Heritage Academy/ Montverde Academic,N/A,mens tennis,clemson
-3,Alex Favrot,"Morelia, Mexico",Heritage Academy/ Montverde Academic,N/A,mens tennis,clemson
-4,Carlos Kelaidis,"Morelia, Mexico",Heritage Academy/ Montverde Academic,N/A,mens tennis,clemson
-5,Yizhou Liu,"Morelia, Mexico",Heritage Academy/ Montverde Academic,N/A,mens tennis,clemson
-6,Beau Pelletier,"Morelia, Mexico",Heritage Academy/ Montverde Academic,N/A,mens tennis,clemson
-7,Wes Quattlebaum,"Morelia, Mexico",Heritage Academy/ Montverde Academic,N/A,mens tennis,clemson
-8,Reed Rabideau,"Morelia, Mexico",Heritage Academy/ Montverde Academic,N/A,mens tennis,clemson
-9,William Van Gelderen,"Morelia, Mexico",Heritage Academy/ Montverde Academic,N/A,mens tennis,clemson
-0,Alex Angyalosy,"Boca Raton, Fla.",Florida Virtual School,N/A,womens tennis,clemson
-1,Constanza Gorches,"Boca Raton, Fla.",Florida Virtual School,N/A,womens tennis,clemson
-2,Marie-Alexandre Leduc,"Boca Raton, Fla.",Florida Virtual School,N/A,womens tennis,clemson
-3,Laura Marti,"Boca Raton, Fla.",Florida Virtual School,N/A,womens tennis,clemson
-4,Ally Miller-Krasilnikov,"Delray Beach, Fla.",Florida Virtual School,N/A,womens tennis,clemson
-5,Fernanda Navarro,"Delray Beach, Fla.",Florida Virtual School,N/A,womens tennis,clemson
-6,Sydney Riley,"Delray Beach, Fla.",Florida Virtual School,N/A,womens tennis,clemson
-7,Daniela Ruiz,"Delray Beach, Fla.",Florida Virtual School,N/A,womens tennis,clemson
-8,Tate Schroeder,"Delray Beach, Fla.",Florida Virtual School,N/A,womens tennis,clemson
-0,Sarah Adams,"Salem, S.C.",Niceville High School,N/A,womens rowing,clemson
-1,Emily Ash,"Pittsford, N.Y.",Pittsford Mendon High School,N/A,womens rowing,clemson
-2,Camille Beck,"Fort Mill, S.C.",Nation Ford High School,N/A,womens rowing,clemson
-3,Isabella Beckler,"Fairfax Station, Va.",Robinson Secondary School,N/A,womens rowing,clemson
-4,Erin Belmar,"Powder Springs, Ga.",North Cobb High School,N/A,womens rowing,clemson
-5,Maura Chozick,"Byram, N.J.",Lenape Valley Regional HS,N/A,womens rowing,clemson
-6,Jenny D'Anthony,"Lopatcong, N.J.",Phillipsburg HS,N/A,womens rowing,clemson
-7,Sarah Decker,"Larkspur, Calif.",Redwood HS,N/A,womens rowing,clemson
-8,Makenna Farr,"Greer, S.C.",Riverside HS,N/A,womens rowing,clemson
-9,Kenzie Fisher,"Atlanta, Ga.",Riverwood International Charter School,N/A,womens rowing,clemson
-10,Kathleen Flynn,"Cincinnati, Ohio",Walnut Hills High School,N/A,womens rowing,clemson
-11,Juliette Gammel,"Pawley's Island, S.C.",Waccamaw High School,N/A,womens rowing,clemson
-12,Bailey Gibbs,"Laurens, S.C.",Laurens District 55 High School,N/A,womens rowing,clemson
-13,Emily Goff,"Sarasota, Fla.",Riverview HS,N/A,womens rowing,clemson
-14,Madison Harris,"Sumter, S.C.",Lakewood High School,N/A,womens rowing,clemson
-15,Katie Herbolsheimer,"Falls Church, Va.",George C. Marshall High School,N/A,womens rowing,clemson
-16,Katie Holmes,"Lexington, S.C.",River Bluff High School,N/A,womens rowing,clemson
-17,Emalie Houk,"Monument, Colo.",Palmer Ridge High School,N/A,womens rowing,clemson
-18,Karleigh Jones,"Myrtle Beach, S.C.",St. James High School,N/A,womens rowing,clemson
-19,Bridget Kane,"Haddonfield, N.J.",Haddonfield Memorial High School,N/A,womens rowing,clemson
-20,Megan Kauffeld,"Springfield, Va.",Lake Braddock Secondary School,N/A,womens rowing,clemson
-21,Katelyn Kerrick,"Rye Brook, N.Y.",The Ursuline School,N/A,womens rowing,clemson
-22,Taylor Knorr,"Mifflinville, Pa.",Central Columbia High School,N/A,womens rowing,clemson
-23,Kat Kollegger,"Charleston, S.C.",Wando High School,N/A,womens rowing,clemson
-24,Caroline Kranz,"Cincinnati, Ohio",Summit Country Day School,N/A,womens rowing,clemson
-25,Nina Kremser,"Charleston, S.C.",Charleston County School of the Arts,N/A,womens rowing,clemson
-26,Brooke Leech,"Fairfax, Va.",W.T. Woodson High School,N/A,womens rowing,clemson
-27,Anna Loftus,"Seneca, S.C.",Walhalla High School,N/A,womens rowing,clemson
-28,Maddie Macrone,"Radnor, Pa.",Radnor HS,N/A,womens rowing,clemson
-29,Hannah Maeser,"Huntsville, Ala.",Virgil I. Grissom HS,N/A,womens rowing,clemson
-30,Julia Mathews,"Simpsonville, S.C.",Woodmont HS,N/A,womens rowing,clemson
-31,Isla McRae,"Columbus, Ohio",Upper Arlington High School,N/A,womens rowing,clemson
-32,Julia Meredith,"Charleston, S.C.",Wando High School,N/A,womens rowing,clemson
-33,Rachel Mumau,"Charleston, S.C.",Wando High School,N/A,womens rowing,clemson
-34,Erin Murphy,"Greenville, S.C.",Riverside HS,N/A,womens rowing,clemson
-35,Emma Neat,"Hingham, Mass.",Hingham HS,N/A,womens rowing,clemson
-36,Victoria Nelson,"Clermont, Fla.",South Lake High School,N/A,womens rowing,clemson
-37,Samantha Nichols,"Saluda, S.C.",Saluda High School,N/A,womens rowing,clemson
-38,Sophia Porach,"Asheville, N.C.",TC Roberson HS,N/A,womens rowing,clemson
-39,Rebecca Pulsifer,"Orlando, Fla.",Boone HS,N/A,womens rowing,clemson
-40,Kelsey Quinn,"Rockville Centre, N.Y.",South Side High School,N/A,womens rowing,clemson
-41,Caitlyn Raber,"Greenville, S.C.",Southside Christian School,N/A,womens rowing,clemson
-42,Jordan Radford,"Anderson, S.C.",Pendleton High School,N/A,womens rowing,clemson
-43,Emily Radziwon,"Orchard Park, N.Y.",Orchard Park HS,N/A,womens rowing,clemson
-44,Amber Rewis,"Buford, Ga.",Mill Creek HS,N/A,womens rowing,clemson
-45,Maya Roberts,"Greenville, S.C.",Brashier Middle College Charter High School,N/A,womens rowing,clemson
-46,Mary Sales,"Pella, Iowa",Pella High School,N/A,womens rowing,clemson
-47,Rachel Salvia,"Winter Park, Fla.",Winter Park High School,N/A,womens rowing,clemson
-48,Catherine Schrieber,"Berwyn, Pa.",Merion Mercy Academy,N/A,womens rowing,clemson
-49,Amelia Shein,"Westford, Mass.",Westford Academy,N/A,womens rowing,clemson
-50,Rebecca Simonetti,"Wayne, Pa.",Conestoga HS,N/A,womens rowing,clemson
-51,Catherine Smith,"Rye Brook, N.Y.",Blind Brook High School,N/A,womens rowing,clemson
-52,Kelsey Sox,"West Columbia, S.C.",Brookland-Cayce HS,N/A,womens rowing,clemson
-53,Sarah Suddarth,"St. Louis, Mo.",Cor Jesu Academy,N/A,womens rowing,clemson
-54,Elise Sum,"Cincinnati, Ohio",Indian Hill HS,N/A,womens rowing,clemson
-55,Julia Suplick,"Doylestown, Pa.",Central Bucks High School East,N/A,womens rowing,clemson
-56,Charlotte Taylor,"St. Louis, Mo.",Ladue Horton Watkins High School,N/A,womens rowing,clemson
-57,Aliute Udoka,"Greensboro, N.C.",Grimsley HS,N/A,womens rowing,clemson
-58,Jessica Withycombe,"Elgin, S.C.",Heathwood Hall Episcopal School,N/A,womens rowing,clemson
-59,Kaley Wojciechowski,"Tampa, Fla.",George M. Steinbrenner High School,N/A,womens rowing,clemson
-0,Kaylin Korte,"Morris, Ill.",1st Alliance,N/A,womens volleyball,clemson
-1,Emily Curtis,"Denton, Texas",Instinct,N/A,womens volleyball,clemson
-2,Lisie Kit,"Southlake, Texas",Skyline Juniors,N/A,womens volleyball,clemson
-3,Alyssa Deloney,"Houston, Texas",Texas Tornados 18 Mizuno,N/A,womens volleyball,clemson
-4,Caroline Pearson,"Chicago, Ill.",Sports Performance,N/A,womens volleyball,clemson
-5,Brooke Bailey,"Canton, Ohio",Jackson HS,N/A,womens volleyball,clemson
-6,Madi Howell,"Knoxville, Tenn.",K2 Volleyball Club,N/A,womens volleyball,clemson
-7,Adria Oliver,"Seneca, S.C.",D.W. Daniel HS,N/A,womens volleyball,clemson
-0,Dylan Ahrens,"Matawan, N.J.",Matawan Regional HS,Men,mixed track,clemson
-1,Anthony Butler,"Pike, N.Y.",Letchworth HS,Men,mixed track,clemson
-2,Joe Cline,"Fredericksburg, Va.",Brooke Point HS,Men,mixed track,clemson
-3,Darron Coley,"Centreville, Va.",Flint Hill School,Men,mixed track,clemson
-4,Zach Davis,"Mt. Pleasant, S.C.",Wando HS,Men,mixed track,clemson
-5,Andrew Emery,"Aiken, S.C.",South Aiken HS,Men,mixed track,clemson
-6,Malik Epps,"Lyman, S.C.",James F. Byrnes HS,Men,mixed track,clemson
-7,Trevious Frazier,"Grayson, Ga.",Grayson HS,Men,mixed track,clemson
-8,Jackson Goodwin,"Fort Smith, Ariz.",Baylor School,Men,mixed track,clemson
-9,Deron Gordon,"Fort Lauderdale, Fla.",Barton CC,Men,mixed track,clemson
-10,Nathaniel Gordon,"Spartanburg, S.C.",Spartanburg HS,Men,mixed track,clemson
-11,Jeffrey Green,"Miami, Fla.",Miami Northwestern HS,Men,mixed track,clemson
-12,Jeremiah Green,"Tampa, Fla.",Hillsborough HS,Men,mixed track,clemson
-13,Colt Griffith,"Pelzer, S.C.",Woodmont HS,Men,mixed track,clemson
-14,Alex Haight,"Vienna, Va.",George C. Marshall HS,Men,mixed track,clemson
-15,Terrell Jackson,"Memphis, Tenn.",Memphis University School,Men,mixed track,clemson
-16,Ishmael Kamara,"Upper Marlboro, Md.",Patuxent HS,Men,mixed track,clemson
-17,Cordell Lamb,"Miami Gardens, Fla.",Miami Northwestern HS,Men,mixed track,clemson
-18,DJ Ledell,"Lexington, SC",River Bluff HS,Men,mixed track,clemson
-19,Deonte Lee,"McDonough, Ga.",Ola HS,Men,mixed track,clemson
-20,John Lewis,"Philadelphia, Pa.",Cheltenham HS,Men,mixed track,clemson
-21,Kirk Lewis,"Nassau, Bahamas",Essex CC,Men,mixed track,clemson
-22,Oliver Lloyd,"Burtonsville, Md.",Paint Branch School,Men,mixed track,clemson
-23,Mpho Makofane,"Secunda, South Africa",Monroe College,Men,mixed track,clemson
-24,Chris McBride,"Lithonia, Ga.",Redan HS,Men,mixed track,clemson
-25,Ryan Mullen,"The Woodlands, Texas",The John Cooper School,Men,mixed track,clemson
-26,James Quattlebaum,"Greenville, S.C.",Christ Church Episcopal School,Men,mixed track,clemson
-27,Andrew Richardson,"Greer, S.C.",Eastside HS,Men,mixed track,clemson
-28,Alex Sands,"Covington, Ga.",Newton County HS,Men,mixed track,clemson
-29,Daniel Shaughnessy,"Hilton Head Island, S.C.",Hilton Head Island HS,Men,mixed track,clemson
-30,Jacob Slann,"Clemson, S.C.",D. W. Daniel HS,Men,mixed track,clemson
-31,Deonte Tolbert,"Auburn, Ala.",Auburn HS,Men,mixed track,clemson
-32,Tiondre Toomer,"Miami, Fla.",Miami Northwestern Senior HS,Men,mixed track,clemson
-33,Grant Voeks,"Great Falls, Va.",The Potomac School,Men,mixed track,clemson
-34,John Ward,"Greenville, S.C.",Wade Hampton HS,Men,mixed track,clemson
-35,Morgan Allen,"Duncan, S.C.",James F. Byrnes HS,Women,mixed track,clemson
-36,Grace Barnett,"Pawleys Island, S.C.",Waccamaw HS,Women,mixed track,clemson
-37,Danielle Borriello,"Ellenville, N.Y.",Ellenville HS,Women,mixed track,clemson
-38,Kendra Clarke,"Ellenville, N.Y.",Ellenville HS,Women,mixed track,clemson
-39,Angelica Collins,"North Charleston, S.C.",Wando HS,Women,mixed track,clemson
-40,Elizabeth Dawson,"Clemson, S.C.",D. W. Daniel HS,Women,mixed track,clemson
-41,Fellan Ferguson,"Kingston, Jamaica",William Knibb Memorial/St. Hugh's,Women,mixed track,clemson
-42,Katie Fortner,"Roanoke, Va.",Cave Spring HS,Women,mixed track,clemson
-43,Grayce French,"Saratoga Springs, N.Y.",Saratoga Springs HS,Women,mixed track,clemson
-44,Jenna Gearing,"Sautee, Ga.",White County HS,Women,mixed track,clemson
-45,Kate Hamilton,"Spartanburg, S.C.",Dorman HS,Women,mixed track,clemson
-46,Maya Hanks,"Yorktown, Va.",Tabb HS,Women,mixed track,clemson
-47,Mikie Harris,"Greer, S.C.",Riverside HS,Women,mixed track,clemson
-48,Annie Hill,"Baton Rouge, La.",St. Josephs Academy,Women,mixed track,clemson
-49,Olivia James,"St. Andrew, Jamaica",Vere Technical HS,Women,mixed track,clemson
-50,Illana Jamison,"Jonesboro, Ga.",Woodward Academy,Women,mixed track,clemson
-51,Anna Johnson,"Irmo, S.C.",Dutch Fork HS,Women,mixed track,clemson
-52,Valerie Johnson,"West Bloomfield, Mich.",West Bloomfield HS,Women,mixed track,clemson
-53,Amelia Jones,"Pawleys Island, S.C.",Waccamaw HS,Women,mixed track,clemson
-54,Danielle Little,"Centreville, Va.",Westfield HS,Women,mixed track,clemson
-55,Marketa Marcanikova,"Centreville, Va.",Westfield HS,Women,mixed track,clemson
-56,Sidney Marshall,"Centreville, Va.",Westfield HS,Women,mixed track,clemson
-57,Dana Maydew,"Boulder, Colo.",Niwot HS,Women,mixed track,clemson
-58,Imani McGowan,"Boulder, Colo.",Niwot HS,Women,mixed track,clemson
-59,Kamryn McIntosh,"Hillburn, N.Y.",Suffern HS,Women,mixed track,clemson
-60,Erin McLaughlin,"Califon, N.J.",Voorhees HS,Women,mixed track,clemson
-61,Logan Morris,"Inman, S.C.",Spartanburg Christian Academy,Women,mixed track,clemson
-62,Ranee Ricketts,"Frankfield, Jamaica",Essex CC,Women,mixed track,clemson
-63,Tia Robinson,"Raleigh, N.C.",Wakefield HS,Women,mixed track,clemson
-64,Torie Robinson,"Sicklerville, N.J.",Winslow HS,Women,mixed track,clemson
-65,Rebekah Smith,"Irmo, S.C.",Dutch Fork HS,Women,mixed track,clemson
-66,Claire Strickler,"Matthews, N.C.",Providence HS,Women,mixed track,clemson
-67,Markeeta Thomas,"Philadelphia, Pa.",Roberson HS,Women,mixed track,clemson
-68,Lakeisha Warner,"Tortola, BVI",Cary HS,Women,mixed track,clemson
-69,Harleigh White,"Huntingtown, Md.",Huntingtown HS,Women,mixed track,clemson
-70,Ebony Williams,"Winston-Salem, N.C.",Parkland HS,Women,mixed track,clemson
-71,Cameka Witter,"Kingston, Jamaica",St. Andrew Tech,Women,mixed track,clemson
-72,Morgan Wittrock,"Vienna, Va.",James Madison HS,Women,mixed track,clemson
-0,Jared Capuano,"Altamont, N.Y.",Guilderland HS,Men,mixed cross country,clemson
-1,Zach Davis,"Mt. Pleasant, S.C.",Wando HS,Men,mixed cross country,clemson
-2,Andrew Emery,"Aiken, S.C.",South Aiken HS,Men,mixed cross country,clemson
-3,Malik Epps,"Lyman, S.C.",James F. Byrnes HS,Men,mixed cross country,clemson
-4,Jackson Goodwin,"Fort Smith, Ariz.",Baylor School,Men,mixed cross country,clemson
-5,Colt Griffith,"Pelzer, S.C.",Woodmont HS,Men,mixed cross country,clemson
-6,Alex Haight,"Vienna, Va.",George C. Marshall HS,Men,mixed cross country,clemson
-7,Deonte Lee,"McDonough, Ga.",Ola HS,Men,mixed cross country,clemson
-8,Mpho Makofane,"Secunda, South Africa",Monroe College,Men,mixed cross country,clemson
-9,Ryan Mullen,"The Woodlands, Texas",The John Cooper School,Men,mixed cross country,clemson
-10,James Quattlebaum,"Greenville, S.C.",Christ Church Episcopal School,Men,mixed cross country,clemson
-11,Andrew Richardson,"Greer, S.C.",Eastside HS,Men,mixed cross country,clemson
-12,Daniel Shaughnessy,"Hilton Head Island, S.C.",Hilton Head Island HS,Men,mixed cross country,clemson
-13,Jacob Slann,"Clemson, S.C.",D. W. Daniel HS,Men,mixed cross country,clemson
-14,Matthew Tinsley,"Greenville, S.C.",Eastside HS,Men,mixed cross country,clemson
-15,John Ward,"Greenville, S.C.",Wade Hampton HS,Men,mixed cross country,clemson
-16,Elizabeth Dawson,"Clemson, S.C.",D. W. Daniel HS,Women,mixed cross country,clemson
-17,Katie Fortner,"Roanoke, Va.",Cave Spring HS,Women,mixed cross country,clemson
-18,Jenna Gearing,"Sautee, Ga.",White County HS,Women,mixed cross country,clemson
-19,Kate Hamilton,"Spartanburg, S.C.",Dorman HS,Women,mixed cross country,clemson
-20,Mikie Harris,"Greer, S.C.",Riverside HS,Women,mixed cross country,clemson
-21,Annie Hill,"Baton Rouge, La.",St. Josephs Academy,Women,mixed cross country,clemson
-22,Anna Johnson,"Irmo, S.C.",Dutch Fork HS,Women,mixed cross country,clemson
-23,Amelia Jones,"Pawleys Island, S.C.",Waccamaw HS,Women,mixed cross country,clemson
-24,Marketa Marcanikova,"Pawleys Island, S.C.",Waccamaw HS,Women,mixed cross country,clemson
-25,Kamryn McIntosh,"Hillburn, N.Y.",Suffern HS,Women,mixed cross country,clemson
-26,Erin McLaughlin,"Califon, N.J.",Voorhees HS,Women,mixed cross country,clemson
-27,Logan Morris,"Inman, S.C.",Spartanburg Christian Academy,Women,mixed cross country,clemson
-28,Claire Strickler,"Matthews, N.C.",Providence HS,Women,mixed cross country,clemson
-29,Morgan Wittrock,"Vienna, Va.",James Madison HS,Women,mixed cross country,clemson
+,name,hometown,high school,school,name text,hometown text,high school text,school text,sport,college
+0,Anthony Oliver Il,"Birmingham, Ala.",N/A,"Birmingham, Ala.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens basketball,clemson
+1,Elijah Thomas,"Dallas, Texas",N/A,"Dallas, Texas",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens basketball,clemson
+2,Jonathan Baehre,"Hessen, Germany",N/A,"Hessen, Germany",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens basketball,clemson
+3,Aamir Simms,"Palmyra, Va.",N/A,"Palmyra, Va.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens basketball,clemson
+4,Hunter Tyson,"Monroe, N.C.",N/A,"Monroe, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens basketball,clemson
+5,Lyles Davis,"Charleston, S.C.",N/A,"Charleston, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens basketball,clemson
+6,Trey Jemison,"Birmingham, Ala.",N/A,"Birmingham, Ala.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens basketball,clemson
+7,Shelton Mitchell,"Waxhaw, N.C.",N/A,"Waxhaw, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens basketball,clemson
+8,Parker Fox,"Watkinsville, Ga.",N/A,"Watkinsville, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens basketball,clemson
+9,John Newman I I I,"Greensboro, N.C.",N/A,"Greensboro, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens basketball,clemson
+10,Javan White,"Ames, Iowa",N/A,"Ames, Iowa",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens basketball,clemson
+11,Clyde Trapp,"Eastover, S.C.",N/A,"Eastover, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens basketball,clemson
+12,Marcquise Reed,"Landover, Md.",N/A,"Landover, Md.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens basketball,clemson
+13,Malik William,"Orlando, Fla.",N/A,"Orlando, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens basketball,clemson
+0,Tylar Bennett,"Redford, Mich.",N/A,"Redford, Mich.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,clemson
+1,Chyna Cotton,"Mableton, Ga.",N/A,"Mableton, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,clemson
+2,Kobi Thornton,"Shellman, Ga.",N/A,"Shellman, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,clemson
+3,Danielle Edwards,"Perry Hall, Md.",N/A,"Perry Hall, Md.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,clemson
+4,Keniece Purvis,"Greensboro, N.C.",N/A,"Greensboro, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,clemson
+5,Aliyah Collier,"Augusta, Ga.",N/A,"Augusta, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,clemson
+6,Destiny Thomas,"Pelham, Ga.",N/A,"Pelham, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens basketball,clemson
+0,Kier Meredith,"Winston-Salem, N.C.",N/A,"Winston-Salem, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+1,Travis Marr,"Castle Rock, Colo.",N/A,"Castle Rock, Colo.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+2,Kyle Wilkie,"Cumming, Ga.",N/A,"Cumming, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+3,Adam Renwick,"Spartanburg, S.C.",N/A,"Spartanburg, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+4,Robert Jolly,"Myrtle Beach, S.C.",N/A,"Myrtle Beach, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+5,Drew Wharton,"Suwanee, Ga.",N/A,"Suwanee, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+6,Bo Majkowski,"Johns Creek, Ga.",N/A,"Johns Creek, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+7,Justin Hawkins,"Prosperity, S.C.",N/A,"Prosperity, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+8,Brooks Crawford,"Bishop, Ga.",N/A,"Bishop, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+9,Mat Clark,"Hilton Head Island, S.C.",N/A,"Hilton Head Island, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+10,Sam Weatherly,"Howell, Mich.",N/A,"Howell, Mich.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+11,Carson Spiers,"Greenville, S.C.",N/A,"Greenville, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+12,Jake Higginbotham,"Hoschton, Ga.",N/A,"Hoschton, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+13,Patrick Cromwell,"Costa Mesa, Calif.",N/A,"Costa Mesa, Calif.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+14,Matt Cooper,"Virginia Beach, Va.",N/A,"Virginia Beach, Va.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+15,Chris Williams,"Garden Grove, Calif.",N/A,"Garden Grove, Calif.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+16,Seth Beer,"Suwanee, Ga.",N/A,"Suwanee, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+17,Spencer Strider,"Knoxville, Tenn.",N/A,"Knoxville, Tenn.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+18,Mitchell Miller,"Covington, Ga.",N/A,"Covington, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+19,Bryce Teodosio,"Simpsonville, S.C.",N/A,"Simpsonville, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+20,Jacob Hennessy,"Moore, S.C.",N/A,"Moore, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+21,Ryan Miller,"Venice, Fla.",N/A,"Venice, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+22,Ryne Huggins,"Newberry, S.C.",N/A,"Newberry, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+23,Grayson Byrd,"Milton, Ga.",N/A,"Milton, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+24,Owen Griffith,"Aiken, S.C.",N/A,"Aiken, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+25,Bo Gobin,"Summerville, S.C.",N/A,"Summerville, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+26,Ryley Gilliam,"Kennesaw, Ga.",N/A,"Kennesaw, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+27,Holt Jones,"Santa Monica, Calif.",N/A,"Santa Monica, Calif.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+28,Alex Schnell,"Milton, Ga.",N/A,"Milton, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+29,Bryce Bowen,"Bowman, Ga.",N/A,"Bowman, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+30,Sam Hall,"Hampstead, N.C.",N/A,"Hampstead, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+31,Andrew Coker,"Hartsville, S.C.",N/A,"Hartsville, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+32,Drew Donathan,"Charlotte, N.C.",N/A,"Charlotte, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+33,Logan Davidson,"Charlotte, N.C.",N/A,"Charlotte, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+34,Jordan Greene,"Fort Mill, S.C.",N/A,"Fort Mill, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),baseball,clemson
+0,Trayvon Mullen,"Fort Lauderdale, Fla.",N/A,"Fort Lauderdale, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+1,Trevion Thompson,"Durham, N.C.",N/A,"Durham, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+2,Derion Kendrick,"Rock Hill, S.C.",N/A,"Rock Hill, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+3,Baylon Spector,"Calhoun, Ga.",N/A,"Calhoun, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+4,Isaiah Simmons,"Olathe, Kan.",N/A,"Olathe, Kan.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+5,K’von Wallace,"Richmond, Va",N/A,"Richmond, Va",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+6,K.J. Henry,"Winston-Salem, N.C.",N/A,"Winston-Salem, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+7,Hunter Renfrow,"Myrtle Beach, S.C.",N/A,"Myrtle Beach, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+8,Diondre Overton,"Greensboro, N.C.",N/A,"Greensboro, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+9,Denzel Johnson,"Columbia, S.C.",N/A,"Columbia, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+10,Jake Venables,"Clemson, S.C.",N/A,"Clemson, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+11,Trevor Lawrence,"Cartersville, Ga.",N/A,"Cartersville, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+12,Will Swinney,"Clemson, S.C.",N/A,"Clemson, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+13,Cornell Powell,"Greenville, N.C.",N/A,"Greenville, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+14,Justin Mascoll,"Snellville, Ga.",N/A,"Snellville, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+15,Ben Batson,"Central, S.C.",N/A,"Central, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+16,T.J. Chase,"Plant City, Fla.",N/A,"Plant City, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+17,Tanner Muse,"Belmont, N.C.",N/A,"Belmont, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+18,Mark Fields,"Charlotte, N.C.",N/A,"Charlotte, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+19,Kelly Bryant,"Calhoun Falls, S.C.",N/A,"Calhoun Falls, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+20,LeAnthony Williams,"Atlanta, Ga.",N/A,"Atlanta, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+21,Darien Rencher,"Anderson, S.C.",N/A,"Anderson, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+22,Kyler McMichael,"Atlanta, Ga.",N/A,"Atlanta, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+23,Xavier Kelly,"Wichita, Kan.",N/A,"Wichita, Kan.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+24,Lyn-J Dixon,"Butler, Ga.",N/A,"Butler, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+25,Nolan Turner,"Vestavia Hills, Ala.",N/A,"Vestavia Hills, Ala.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+26,J.C. Chalk,"Argyle, Texas",N/A,"Argyle, Texas",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+27,Adam Choice,"Thomasville, Ga.",N/A,"Thomasville, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+28,Carson Donnelly,"Birmingham, Ala.",N/A,"Birmingham, Ala.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+29,Tavien Feaster,"Spartanburg, S.C.",N/A,"Spartanburg, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+30,Michael Becker,"Clemson, S.C.",N/A,"Clemson, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+31,B.T. Potter,"Rock Hill, S.C.",N/A,"Rock Hill, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+32,Amari Rodgers,"Knoxville, Tenn.",N/A,"Knoxville, Tenn.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+33,Xavier Thomas,"Florence, S.C.",N/A,"Florence, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+34,Jalen Williams,"Columbia, S.C.",N/A,"Columbia, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+35,Cole Renfrow,"Myrtle Beach, S.C.",N/A,"Myrtle Beach, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+36,Mario Goodrich,"Kansas City, Mo.",N/A,"Kansas City, Mo.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+37,Kyle Cote,"Six Mile, S.C.",N/A,"Six Mile, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+38,Sylvester Mayers,"Richmond, Va.",N/A,"Richmond, Va.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+39,J.D. Davis,"Clemson, S.C.",N/A,"Clemson, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+40,Kendall Joseph,"Belton, S.C.",N/A,"Belton, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+41,Ty Thomason,"Greenville, S.C.",N/A,"Greenville, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+42,Justin Foster,"Shelby, N.C.",N/A,"Shelby, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+43,Judah Davis,"Clemson, S.C.",N/A,"Clemson, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+44,Austin Jackson,"Cary, N.C.",N/A,"Cary, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+45,Ryan Mac Lain,"Plymouth, Ind.",N/A,"Plymouth, Ind.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+46,Elijah Turner,"Pickens, S.C.",N/A,"Pickens, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+47,Cameron Scott,"Florence, S.C.",N/A,"Florence, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+48,Hall Morton,"Birmingham, Ala.",N/A,"Birmingham, Ala.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+49,Alex Spence,"Florence, S.C.",N/A,"Florence, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+50,Christian Wilkins,"Springfield, Mass.",N/A,"Springfield, Mass.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+51,Chad Smith,"Sterling, Va.",N/A,"Sterling, Va.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+52,Nyles Pinckney,"Beaufort, S.C.",N/A,"Beaufort, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+53,Garrett Williams,"Orlando, Fla.",N/A,"Orlando, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+54,Chris Register,"Greensboro, N.C.",N/A,"Greensboro, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+55,Josh Jackson,"Greenville, S.C.",N/A,"Greenville, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+56,James Skalski,"Sharpsburg, Ga.",N/A,"Sharpsburg, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+57,Peter Cote,"Six Mile, S.C.",N/A,"Six Mile, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+58,Will Spiers,"Cameron, S.C.",N/A,"Cameron, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+59,Landon Holden,"Inman, S.C.",N/A,"Inman, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+60,Richard Yeargin,"Lauderdale Lakes, Fla.",N/A,"Lauderdale Lakes, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+61,Shaq Smith,"Baltimore, Md.",N/A,"Baltimore, Md.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+62,Tee Higgins,"Oak Ridge, Tenn.",N/A,"Oak Ridge, Tenn.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+63,Justin Falcinelli,"Middletown, Md.",N/A,"Middletown, Md.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+64,Matthew King,"Inman, S.C.",N/A,"Inman, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+65,Austin Spence,"Florence, S.C.",N/A,"Florence, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+66,Regan Upshaw,"Bradenton, Fla.",N/A,"Bradenton, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+67,Logan Rudolph,"Rock Hill, S.C.",N/A,"Rock Hill, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+68,Luke Price,"Dillon, S.C.",N/A,"Dillon, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+69,Tre Lamar,"Roswell, Ga.",N/A,"Roswell, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+70,Patrick Phibbs,"Pittsburgh, Pa.",N/A,"Pittsburgh, Pa.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+71,Jordan Williams,"Virginia Beach, VA.",N/A,"Virginia Beach, VA.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+72,Gage Cervenka,"Greenwood, S.C.",N/A,"Greenwood, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+73,Mike Jones Jr.,"Nashville, Tenn.",N/A,"Nashville, Tenn.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+74,Cade Stewart,"Six Mile, S.C.",N/A,"Six Mile, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+75,Pat Godfrey,"Greenlawn, N.Y.",N/A,"Greenlawn, N.Y.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+76,Matt Bockhorst,"Cincinnati, Ohio",N/A,"Cincinnati, Ohio",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+77,Albert Huggins,"Orangeburg, S.C.",N/A,"Orangeburg, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+78,Noah DeHond,"Rochester, N.Y.",N/A,"Rochester, N.Y.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+79,Chase Brice,"Grayson, Ga.",N/A,"Grayson, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+80,Austin Bryant,"Pavo, Ga.",N/A,"Pavo, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+81,Seth Penner,"Naples, Fla.",N/A,"Naples, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+82,Jordan McFadden,"Spartanburg, S.C.",N/A,"Spartanburg, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+83,Jack Maddox,"Acton, Mass.",N/A,"Acton, Mass.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+84,Blake Vinson,"Ocala, Fla.",N/A,"Ocala, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+85,Tremayne Anchrum,"Powder Springs, Ga.",N/A,"Powder Springs, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+86,John Simpson,"North Charleston, S.C.",N/A,"North Charleston, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+87,Mitch Hyatt,"Suwanee, Ga.",N/A,"Suwanee, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+88,Sean Pollard,"Jackson Springs, N.C.",N/A,"Jackson Springs, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+89,Zach Giella,"Lincolnton, Ga.",N/A,"Lincolnton, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+90,Chandler Reeves,"McDonough, Ga.",N/A,"McDonough, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+91,Jackson Carman,"Fairfield, Ohio",N/A,"Fairfield, Ohio",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+92,Justyn Ross,"Phenix City, Ala.",N/A,"Phenix City, Ala.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+93,A.J. Terrell,"Atlanta, Ga.",N/A,"Atlanta, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+94,Milan Richard,"Savannah, Ga.",N/A,"Savannah, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+95,Drew Swinney,"Clemson, S.C.",N/A,"Clemson, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+96,Will Brown,"Boiling Springs, S.C.",N/A,"Boiling Springs, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+97,Carter Groomes,"Central, S.C.",N/A,"Central, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+98,Cannon Smith,"Columbia, S.C.",N/A,"Columbia, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+99,Max May,"Clemson, S.C.",N/A,"Clemson, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+100,J.L. Banks,"Madison, Ga.",N/A,"Madison, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+101,Braden Galloway,"Anderson, S.C.",N/A,"Anderson, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+102,Brian Dawkins Jr.,"Parker, Colo.",N/A,"Parker, Colo.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+103,Travis Etienne,"Jennings, La.",N/A,"Jennings, La.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+104,Dexter Lawrence,"Wake Forest, N.C.",N/A,"Wake Forest, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+105,Darnell Jefferies,"Covington, Ga.",N/A,"Covington, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+106,Greg Huegel,"Blythewood, S.C.",N/A,"Blythewood, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+107,Jacob Edwards,"Vestavia Hills, Ala.",N/A,"Vestavia Hills, Ala.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+108,James Edwards,"Vestavia Hills, Ala.",N/A,"Vestavia Hills, Ala.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+109,Carson King,"Nashville, Tenn.",N/A,"Nashville, Tenn.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+110,Nick Rowell,"Spartanburg, S.C.",N/A,"Spartanburg, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+111,Clelin Ferrell,"Richmond, Va.",N/A,"Richmond, Va.",Name,Hometown (Prev School),N/A,Hometown (Prev School),football,clemson
+0,Quinn McNeill,"Greenville, S.C.",N/A,"Greenville, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens soccer,clemson
+1,Robbie Robinson,"Camden, S.C.",N/A,"Camden, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens soccer,clemson
+2,Gian Scalise,"Buenos Aires, Argentina",N/A,"Buenos Aires, Argentina",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens soccer,clemson
+3,Justin Malou,"Kedougou, Senegal",N/A,"Kedougou, Senegal",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens soccer,clemson
+4,Kimarni Smith,"Nottingham, England",N/A,"Nottingham, England",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens soccer,clemson
+5,Johnny Heckman,"Franklin, Tenn.",N/A,"Franklin, Tenn.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens soccer,clemson
+6,Andrew Burnikel,"Greer, S.C.",N/A,"Greer, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens soccer,clemson
+7,Patrick Bunk-Andersen,"Copenhagen, Denmark",N/A,"Copenhagen, Denmark",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens soccer,clemson
+8,Nolan Lennon,"Piedmont, S.C.",N/A,"Piedmont, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens soccer,clemson
+9,Tanner Dieterich,"Nashville, Tenn.",N/A,"Nashville, Tenn.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens soccer,clemson
+10,Nate Hall,"Baltimore, Md.",N/A,"Baltimore, Md.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens soccer,clemson
+11,Cale Thorne,"Baltimore, Md.",N/A,"Baltimore, Md.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens soccer,clemson
+12,Daniel Kuzemka,"Clifton, Va.",N/A,"Clifton, Va.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens soccer,clemson
+13,Malick Mbaye,"Dakar, Senegal",N/A,"Dakar, Senegal",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens soccer,clemson
+0,Courtney Jones,"Carmel, Ind.",N/A,"Carmel, Ind.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+1,Maddie Weber,"Coppell, Texas",N/A,"Coppell, Texas",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+2,Mariana Speckmaier,"Miami, Fla.",N/A,"Miami, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+3,Cyan Mercer,"Weddington, N.C.",N/A,"Weddington, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+4,Dani Antieau,"Pembroke Pines, Fla.",N/A,"Pembroke Pines, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+5,Miranda Weslake,"Beaufort, S.C.",N/A,"Beaufort, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+6,Mackenzie Smith,"Bath, N.Y.",N/A,"Bath, N.Y.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+7,Haley Schueppert,"Highlands Ranch, Colo.",N/A,"Highlands Ranch, Colo.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+8,Alana Hockenhull,"Vero Beach, Fla.",N/A,"Vero Beach, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+9,Audrey Viso,"Baton Rouge, La.",N/A,"Baton Rouge, La.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+10,Sarah Osborne,"Chesapeake Beach, Md.",N/A,"Chesapeake Beach, Md.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+11,Julie Mackin,"Castle Rock, Colo.",N/A,"Castle Rock, Colo.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+12,Ellen Colborn,"Colleyville, Texas",N/A,"Colleyville, Texas",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+13,Kimber Haley,"Fort Mill, S.C.",N/A,"Fort Mill, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+14,Abigail Mitchell,"Alpharetta, Ga.",N/A,"Alpharetta, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+15,Sandy MacIver,"Winsford, England",N/A,"Winsford, England",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+16,Sam Staab,"San Diego, Calif.",N/A,"San Diego, Calif.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+17,Patrice DiPasquale,"Cincinnati, Ohio",N/A,"Cincinnati, Ohio",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+18,Lauren Harkes,"Fairfax, Va.",N/A,"Fairfax, Va.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens soccer,clemson
+0,Bryson Nimmer,"Bluffton, S.C.",N/A,"Bluffton, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens golf,clemson
+1,Turk Pettit,"Auburn, Ala.",N/A,"Auburn, Ala.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens golf,clemson
+2,William Nottingham,"Kingsport, Tenn.",N/A,"Kingsport, Tenn.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens golf,clemson
+3,Jacob Bridgeman,"Inman, S.C.",N/A,"Inman, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens golf,clemson
+4,Zack Gordon,"Gaffney, S.C.",N/A,"Gaffney, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens golf,clemson
+5,Coleman Self,"Greenwood, S.C.",N/A,"Greenwood, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens golf,clemson
+6,Jonathan Rector,"Asheville, N.C.",N/A,"Asheville, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens golf,clemson
+7,Kyle Cottam,"Knoxville, Tenn.",N/A,"Knoxville, Tenn.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens golf,clemson
+8,Colby Patton,"Fountain Inn, SC",N/A,"Fountain Inn, SC",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens golf,clemson
+0,Alice Hewson,"Berkhamsted, Hertfordshire, UK",N/A,"Berkhamsted, Hertfordshire, UK",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,clemson
+1,Callista Rice,"Mars Hill, N.C.",N/A,"Mars Hill, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,clemson
+2,Ashley Czarnecki,"Greenville, S.C.",N/A,"Greenville, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,clemson
+3,Kennedy Swann,"Austin, Texas",N/A,"Austin, Texas",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,clemson
+4,Lindsay May,"Auburn, N.Y.",N/A,"Auburn, N.Y.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,clemson
+5,Alexandra Swayne,"Maineville, Ohio",N/A,"Maineville, Ohio",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,clemson
+6,Gracyn Burgess,"Lexington, S.C.",N/A,"Lexington, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,clemson
+7,Ivy Shepherd,"Peachtree City, Ga.",N/A,"Peachtree City, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,clemson
+8,Ana Paula Valdes,"Morelia, Mexico",N/A,"Morelia, Mexico",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens golf,clemson
+0,Alex Favrot,"Lyon, France",N/A,"Lyon, France",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens tennis,clemson
+1,Sam Edwards,,N/A,,Name,Hometown (Prev School),N/A,Hometown (Prev School),mens tennis,clemson
+2,Carlos Kelaidis,"Glyfada, Greece",N/A,"Glyfada, Greece",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens tennis,clemson
+3,Simon Baudry,"Bordeaux, France",N/A,"Bordeaux, France",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens tennis,clemson
+4,Beau Pelletier,"Hilton Head Island, S.C.",N/A,"Hilton Head Island, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens tennis,clemson
+5,William Van Gelderen,"Middenbeemster, Netherlands",N/A,"Middenbeemster, Netherlands",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens tennis,clemson
+6,Wes Quattlebaum,"Greenville, S.C.",N/A,"Greenville, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens tennis,clemson
+7,Marshall Dagostine,"Charleston, W.Va.",N/A,"Charleston, W.Va.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens tennis,clemson
+8,Reed Rabideau,"West Palm Beach, Fla.",N/A,"West Palm Beach, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),mens tennis,clemson
+0,Tate Schroeder,"Centennial, Colo.",N/A,"Centennial, Colo.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,clemson
+1,Constanza Gorches,"Mexico City, Mexico",N/A,"Mexico City, Mexico",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,clemson
+2,Sydney Riley,"Dallas, Texas",N/A,"Dallas, Texas",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,clemson
+3,Daniela Ruiz,"Beni, Bolivia",N/A,"Beni, Bolivia",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,clemson
+4,Marie-Alexandre Leduc,"Saguenay, Quebec",N/A,"Saguenay, Quebec",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,clemson
+5,Fernanda Navarro,"Guadalajara, Mexico",N/A,"Guadalajara, Mexico",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,clemson
+6,Ally Miller-Krasilnikov,"Delray Beach, Fla.",N/A,"Delray Beach, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,clemson
+7,Laura Marti,"Madrid, Spain",N/A,"Madrid, Spain",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens tennis,clemson
+0,Maura Chozick,"Byram, N.J.",N/A,"Byram, N.J.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+1,Sarah Suddarth,"St. Louis, Mo.",N/A,"St. Louis, Mo.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+2,Rebecca Simonetti,"Wayne, Pa.",N/A,"Wayne, Pa.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+3,RC O'Shea,"Watertown, Conn.",N/A,"Watertown, Conn.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+4,Emily Radziwon,"Orchard Park, N.Y.",N/A,"Orchard Park, N.Y.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+5,Hannah Maeser,"Huntsville, Ala.",N/A,"Huntsville, Ala.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+6,Brynn Hentschel,"Jacksonville, Fla.",N/A,"Jacksonville, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+7,Mary Green,"Stafford, Va.",N/A,"Stafford, Va.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+8,Julia Meredith,"Charleston, S.C.",N/A,"Charleston, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+9,Sarah Decker,"Larkspur, Calif.",N/A,"Larkspur, Calif.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+10,Emma Neat,"Hingham, Mass.",N/A,"Hingham, Mass.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+11,Maddie Macrone,"Radnor, Pa.",N/A,"Radnor, Pa.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+12,Amelia Shein,"Westford, Mass.",N/A,"Westford, Mass.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+13,Elise Sum,"Cincinnati, Ohio",N/A,"Cincinnati, Ohio",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+14,Kelsey Sox,"West Columbia, S.C.",N/A,"West Columbia, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+15,Julia Mathews,"Simpsonville, S.C.",N/A,"Simpsonville, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+16,Katharine Komsa,"Greensboro, N.C.",N/A,"Greensboro, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+17,Emily Goff,"Sarasota, Fla.",N/A,"Sarasota, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+18,Jessica Withycombe,"Elgin, S.C.",N/A,"Elgin, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+19,Sophia Porach,"Asheville, N.C.",N/A,"Asheville, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+20,Amber Rewis,"Buford, Ga.",N/A,"Buford, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+21,Tori Martin,"Roswell, Ga.",N/A,"Roswell, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+22,Hannah Zerwas,"Libertyville, Ill.",N/A,"Libertyville, Ill.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+23,Megan Mars,"Collierville, Tenn.",N/A,"Collierville, Tenn.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+24,Kira Ritter,"Harrison, Ohio",N/A,"Harrison, Ohio",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+25,Rachel Mumau,"Millstone Township, N.J.",N/A,"Millstone Township, N.J.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+26,Emma Conway,"Whitehouse, Ohio",N/A,"Whitehouse, Ohio",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+27,Rebecca Pulsifer,"Orlando, Fla.",N/A,"Orlando, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+28,Aliute Udoka,"Greensboro, N.C.",N/A,"Greensboro, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+29,Jenny D'Anthony,"Lopatcong, N.J.",N/A,"Lopatcong, N.J.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+30,Isabella Beckler,"Fairfax Station, Va.",N/A,"Fairfax Station, Va.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+31,Kathleen Flynn,"Cincinnati, Ohio",N/A,"Cincinnati, Ohio",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+32,Kaley Wojciechowski,"Tampa, Fla.",N/A,"Tampa, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+33,Victoria Nelson,"Clermont, Fla.",N/A,"Clermont, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+34,Charlotte Taylor,"St. Louis, Mo.",N/A,"St. Louis, Mo.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+35,Catherine Schrieber,"Berwyn, Pa.",N/A,"Berwyn, Pa.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+36,Catherine Smith,"Rye Brook, N.Y.",N/A,"Rye Brook, N.Y.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+37,Makenna Farr,"Greer, S.C.",N/A,"Greer, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+38,Chandler Danielson,"Etowah, N.C.",N/A,"Etowah, N.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+39,Megan Kauffeld,"Springfield, Va.",N/A,"Springfield, Va.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+40,Taryn Carroll,"Ridgewood, N.J.",N/A,"Ridgewood, N.J.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+41,Rebekah Stein,"Apopka, Fla.",N/A,"Apopka, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+42,Isla McRae,"Columbus, Ohio",N/A,"Columbus, Ohio",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+43,Bridget Kane,"Haddonfield, N.J.",N/A,"Haddonfield, N.J.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+44,Erin Murphy,"Greenville, S.C.",N/A,"Greenville, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+45,Rachel Salvia,"Winter Park, Fla.",N/A,"Winter Park, Fla.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens rowing,clemson
+0,Kaylin Korte,"Morris, Ill.",N/A,"Morris, Ill.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens volleyball,clemson
+1,Brooke Bailey,"Canton, Ohio",N/A,"Canton, Ohio",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens volleyball,clemson
+2,Ashtynne Alberts,"Omaha, Neb.",N/A,"Omaha, Neb.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens volleyball,clemson
+3,Madi Howell,"Knoxville, Tenn.",N/A,"Knoxville, Tenn.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens volleyball,clemson
+4,Gabby Easton,"Anderson, S.C.",N/A,"Anderson, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens volleyball,clemson
+5,Ava Pritchard,"Austin, Texas",N/A,"Austin, Texas",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens volleyball,clemson
+6,Adria Oliver,"Seneca, S.C.",N/A,"Seneca, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens volleyball,clemson
+7,Solei Thomas,"Detroit, Mich.",N/A,"Detroit, Mich.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens volleyball,clemson
+8,Torie Frederick,"Manvel, Texas",N/A,"Manvel, Texas",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens volleyball,clemson
+9,Emily Curtis,"Denton, Texas",N/A,"Denton, Texas",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens volleyball,clemson
+10,Lisie Kit,"Southlake, Texas",N/A,"Southlake, Texas",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens volleyball,clemson
+11,Alyssa Deloney,"Houston, Texas",N/A,"Houston, Texas",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens volleyball,clemson
+12,Caroline Pearson,"Chicago, Ill.",N/A,"Chicago, Ill.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens volleyball,clemson
+13,Crystal Childs,"Alpharetta, Ga.",N/A,"Alpharetta, Ga.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens volleyball,clemson
+14,Katelyn DeGuzman,"Easley, S.C.",N/A,"Easley, S.C.",Name,Hometown (Prev School),N/A,Hometown (Prev School),womens volleyball,clemson

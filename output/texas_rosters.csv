@@ -65,391 +65,432 @@
 63,Sam Bertelson,"Midland, Texas",Midland,baseball,texas
 64,John Burt,"Tallahassee, Fla.",Lincoln,football,texas
 65,Kris Boyd,"Gilmer, Texas",Gilmer,football,texas
-66,Cameron Rising,"Ventura, Calif.",Newbury Park,football,texas
-67,Anthony Cook,"Houston, Texas",Lamar,football,texas
-68,Devin Duvernay,"Sachse, Texas",Sachse,football,texas
-69,Shane Buechele,"Arlington, Texas",Lamar,football,texas
-70,Caden Sterns,"Cibolo, Texas",Steele,football,texas
-71,Ryan Bujcevski,"Sydney, Australia",Marist Catholic College Penshurst,football,texas
-72,Casey Thompson,"Newcastle, Okla.",Newcastle,football,texas
-73,Collin Johnson,"San Jose, Calif.",Valley Christian,football,texas
-74,Sam Ehlinger,"Austin, Texas",Westlake,football,texas
-75,P.J. Locke III,"Beaumont, Texas",Central,football,texas
-76,Jerrod Heard,"Denton, Texas",Guyer,football,texas
-77,Chris Brown,"Houston, Texas",Elsik,football,texas
-78,Davion Curtis,"Temple, Texas",Temple,football,texas
-79,Davante Davis,"Miami, Fla.",Booker T. Washington,football,texas
-80,Brandon Jones,"Nacogdoches, Texas",Nacogdoches,football,texas
-81,Kyle Porter,"Katy, Texas",Katy,football,texas
-82,Jeffrey McCulloch,"Houston, Texas",Davis,football,texas
-83,John Bonney,"Houston, Texas",Lamar,football,texas
-84,B.J. Foster,"Angleton, Texas",Angleton,football,texas
-85,Eric Cuffee,"Waco, Texas",Waco,football,texas
-86,Donovan Duvernay,"Sachse, Texas",Sachse,football,texas
-87,Jarmarquis Durst,"Conroe, Texas",Oak Ridge,football,texas
-88,Kirk Johnson,"San Jose, Calif.",Valley Christian,football,texas
-89,Josh Thompson,"Nacogdoches, Texas",Nacogdoches,football,texas
-90,Toneil Carter,"Houston, Texas",Langham Creek,football,texas
-91,Kyle Hrncir,"San Antonio, Texas",Johnson,football,texas
-92,Malcolm Roach,"Baton Rouge, La.",Madison Prep Academy,football,texas
-93,Daniel Young,"Houston, Texas",Westfield,football,texas
-94,Gary  Johnson,"Douglas, Ala.",Douglas/Dodge City CC,football,texas
-95,Tim Yoder,"Plano, Texas",Plano,football,texas
-96,Edwin Freeman,"Arlington, Texas",Bowie,football,texas
-97,Russell Hine,"Austin, Texas",Regents School,football,texas
-98,Demarco Boyd,"Gilmer, Texas",Gilmer,football,texas
-99,Chase Moore,"Los Angeles, Calif.",Verbum Dei,football,texas
-100,Kobe Boyce,"Corinth, Texas",Lake Dallas,football,texas
-101,Jack Geiger,"San Jose, Calif.",Bellarmine,football,texas
-102,Montrell Estell,"Hooks, Texas",Hooks,football,texas
-103,Edward Pequeno,"McAllen, Texas",Memorial,football,texas
-104,Ayodele Adeoye,"St. Louis, Mo.",IMG Academy [Fla.],football,texas
-105,Hank Coutoumanos,"Southlake, Texas",Southlake Carroll,football,texas
-106,Tristian Houston,"Galena Park, Texas",North Shore,football,texas
-107,Marqez Bimage,"Brenham, Texas",Brenham,football,texas
-108,Cameron Townsend,"Missouri City, Texas",Ridge Point,football,texas
-109,Breckyn Hager,"Austin, Texas",Westlake,football,texas
-110,Chris Naggar,"Arlington, Texas",Arlington,football,texas
-111,Anthony Wheeler,"Dallas, Texas",Skyline,football,texas
-112,Andrew Beck,"Tampa, Fla.",Plant,football,texas
-113,Andrew Fitzgerald,"Flower Mound, Texas",Marcus,football,texas
-114,Ta'Quon Graham,"Temple, Texas",Temple,football,texas
-115,Joshua Rowland,"Madison, Miss.",Madison Central,football,texas
-116,Hayden Bruce,"Leander, Texas",Rouse,football,texas
-117,Samuel Cosmi,"Humble, Texas",Atascocita,football,texas
-118,Jak Holbrook,"Austin, Texas",McCallum,football,texas
-119,D'Andre Christmas,"New Orleans, La.",St. Augustine,football,texas
-120,Zach Shackelford,"Belton, Texas",Belton,football,texas
-121,Cort Jaquess,"San Antonio, Texas",Churchill,football,texas
-122,Mikey Grandy,"San Jose, Calif.",Palo Alto,football,texas
-123,Ishan Rison,"Katy, Texas",Cinco Ranch,football,texas
-124,Tope Imade,"Arlington, Texas",Bowie,football,texas
-125,Derek Kerstetter,"San Antonio, Texas",Reagan,football,texas
-126,Austin Allsup,"Austin, Texas",Lorena,football,texas
-127,J.P. Urquidez,"Copperas Cove, Texas",Copperas Cove,football,texas
-128,Elijah Rodriguez,"Houston, Texas",Cypress Creek,football,texas
-129,Patrick Hudson,"Silsbee, Texas",Silsbee,football,texas
-130,Patrick Vahe,"Euless, Texas",Trinity,football,texas
-131,Denzel Okafor,"Lewisville, Texas",Lewisville,football,texas
-132,Cade Brewer,"Austin, Texas",Lake Travis,football,texas
-133,Reese Leitao,"Jenks, Okla.",Jenks,football,texas
-134,Brennan Eagles,"Houston, Texas",Alief Taylor,football,texas
-135,Michael David Poujol,"Houston, Texas",Memorial,football,texas
-136,Lil'Jordan Humphrey,"Southlake, Texas",Southlake Carroll,football,texas
-137,Philipp Moeller,"Plano, Texas",Plano,football,texas
-138,Jordan Pouncey,"Winter Park, Fla.",Winter Park,football,texas
-139,Austin Hibbetts,"Cypress, Texas",Cy Falls,football,texas
-140,Kai Jarmon,"Los Altos, Calif.",Los Altos,football,texas
-141,Max Cummins,"Fort Worth, Texas",All-Saints Episcopal,football,texas
-142,Chris Fehr,"Austin, Texas",McNeil,football,texas
-143,Charles Omenihu,"Rowlett, Texas",Rowlett,football,texas
-144,Jamari Chisholm,"Valdosta, Ga.",Valdosta,football,texas
-145,Gerald Wilbon,"Saint Rose, La.",Destrehan,football,texas
-146,Chris Nelson,"Lakeland, Fla.",Victory Christian,football,texas
-147,Savannah Madden,"San Diego, Calif.",Scripps Ranch,womens soccer,texas
-148,Cameron Brooks,"Round Rock, Texas",Cedar Ridge,womens soccer,texas
-149,Haley Berg,"Celina, Texas",Celina,womens soccer,texas
-150,Emily  Strouphauer,"Round Rock, Texas",Cedar Ridge,womens soccer,texas
-151,Cydney Billups,"Greenwood Village, Colo.",Mountain Vista,womens soccer,texas
-152,Carlee Allen,"Austin, Texas",Lake Travis,womens soccer,texas
-153,Mikayla Flores,"La Verne, Calif.",Bonita,womens soccer,texas
-154,Alexa  Adams,"Lancaster, Calif.",Quartz Hill,womens soccer,texas
-155,Chelsea Surpris,"Crowley, Texas",Nolan Catholic,womens soccer,texas
-156,Tecora Turner,"Memphis, Tenn.",St. Agnes Academy,womens soccer,texas
-157,Nakia Graham,"Austin, Texas",Westwood,womens soccer,texas
-158,Emily Martin,"Las Vegas, Nev.",Bishop Gorman,womens soccer,texas
-159,Cyera Hintzen,"Garland, Texas",Sachse,womens soccer,texas
-160,Peyton McGee,"Mansfield, Texas",Mansfield Legacy,womens soccer,texas
-161,Kayra Dollas,"Orange, Calif.",Lutheran of Orange County,womens soccer,texas
-162,Amber Stearns,"San Antonio, Texas",Johnson,womens soccer,texas
-163,Taylor Braun,"Colleyville, Texas",Grapevine,womens soccer,texas
-164,Atu Mshana,"Garland, Texas",Bishop Lynch,womens soccer,texas
-165,Kyra Falcone,"San Antonio, Texas",Douglas MacArthur,womens soccer,texas
-166,Nicole Curry,"Dallas, Texas",Episcopal School of Dallas,womens soccer,texas
-167,Emma Jett,"Coppell, Texas",Coppell,womens soccer,texas
-168,Katie Glenn,"Round Rock, Texas",Rouse,womens soccer,texas
-169,Paige Hooper,"Beaumont, Texas",Monsignor Kelly Catholic,womens soccer,texas
-170,Olivia Brook,"Houston, Texas",Memorial,womens soccer,texas
-171,Morgan Murphy,"Plano, Texas",Plano West,womens soccer,texas
-172,Maddie Dorsett,"Carrollton, Texas",Prestonwood Christian Academy,womens soccer,texas
-173,Taylor Currie,"Raleigh, N.C.",Cardinal Gibbons,womens soccer,texas
-174,Natalie  Weidenbach,"North Bend, Wash.",Mount Si,womens soccer,texas
-175,Bailey Dobbs,"Katy, Texas",Seven Lakes,womens soccer,texas
-176,Christoffer  Bring,"Naestved, Denmark",Herlufsholm School,mens golf,texas
-177,Cash Carter,"Dallas, Texas",Highland Park,mens golf,texas
-178,Steven Chervony,"Boca Raton, Fla.",Pinecrest School,mens golf,texas
-179,Nick Costello,"Austin, Texas",Westlake High School,mens golf,texas
-180,Doug Ghim,"Arlington Heights, Ill.",Buffalo Grove,mens golf,texas
-181,Drew Jones,"Decatur, Texas",Decatur High School,mens golf,texas
-182,Scottie Scheffler,"Dallas, Texas",Highland Park,mens golf,texas
-183,Parker Sexton,"Memphis, Tenn.",Memphis University School,mens golf,texas
-184,Spencer Soosman,"Westlake Village, Calif.",Westlake High School,mens golf,texas
-185,Maren Cipolla,"Lewiston, N.Y.",Nichols,womens golf,texas
-186,Emilee  Hoffman,"Folsom, Calif.",Vista Del Lago,womens golf,texas
-187,Agathe Laisne,"Paris, France",CNED,womens golf,texas
-188,Maddie Luitwieler,"Katy, Texas",Cinco Ranch,womens golf,texas
-189,Kaitlyn Papp,"Austin, Texas",Lake Travis,womens golf,texas
-190,Sophia Schubert,"Oak Ridge, Tenn.",Christian Academy of Knoxville,womens golf,texas
-191,Greta Isabella Voelker,"Witten, Germany",Karl-Müchler Schule,womens golf,texas
-192,Kelly Xac,"Corpus Christi, Texas",Tuloso-Midway,womens golf,texas
-193,Safa Anya,"Houston, Texas",Lamar,mens swimming,texas
-194,Josh Artmann,"Austin, Texas",home schooled,mens swimming,texas
-195,Luke Bowman,"Cypress, Texas",Cypress Ranch,mens swimming,texas
-196,Jared Butler,"Rockwall, Texas",Heath,mens swimming,texas
-197,Grayson Campbell,"Vienna, Va.",James Madison,mens swimming,texas
-198,Colter Carman,"Grapevine, Texas",Carroll,mens swimming,texas
-199,Arthur Cheng,"Corpus Christi, Texas",home schooled,mens swimming,texas
-200,Thomas Colket,"Frederick, Md.",Good Counsel,mens swimming,texas
-201,Jacob Cornish,"Honolulu, Hawaii",Punahou School,mens swimming,texas
-202,Townley Haas,"Richmond, Va.",Benedictine,mens swimming,texas
-203,Ryan Harty,"Gardner, Mass.",home schooled,mens swimming,texas
-204,Max Holter,"Fort Collins, Colo.",Fort Collins,mens swimming,texas
-205,Jacob Huerta,"Corpus Christi, Texas",Corpus Christi Carroll,mens swimming,texas
-206,Tate Jackson,"Austin, Texas",Vista Ridge,mens swimming,texas
-207,Austin Katz,"Sarasota, Fla.",Riverview,mens swimming,texas
-208,Sam Kline,"Prosper, Texas",Wakeland,mens swimming,texas
-209,Jack Lanphear,"Pittsburgh, Pa.",Mt. Lebanon,mens swimming,texas
-210,JohnThomas Larson,"Bloomington, Minn.",Minnesota Online,mens swimming,texas
-211,Casey Melzer,"Mars, Pa.",North Allegheny,mens swimming,texas
-212,Reed Merritt,"Palo Alto, Calif.",Palo Alto,mens swimming,texas
-213,Braxton Moore,"Houston, Texas",N/A,mens swimming,texas
-214,Parker Neri,"Columbus, Ohio",Upper Arlington,mens swimming,texas
-215,Jeff Newkirk,"Chesterfield, Va.",Matoaca,mens swimming,texas
-216,Jeremy Nichols,"Rockwall, Texas",North Mesquite,mens swimming,texas
-217,Sam Pomajevich,"Manassas, Va.",Stonewall Jackson,mens swimming,texas
-218,Brett Ringgold,"Keller, Texas",home schooled,mens swimming,texas
-219,Jonathan Roberts,"Southlake, Texas",Carroll,mens swimming,texas
-220,Joseph Schooling,N/A,Carroll,mens swimming,texas
-221,John Shebat,"Oak Hill, Va.",Oakton,mens swimming,texas
-222,Sam Stewart,"Hattiesburg, Miss.",N/A,mens swimming,texas
-223,Austin Temple,"Virginia Beach, Va.",Cox,mens swimming,texas
-224,Mason Tenney,"Austin, Texas",Lake Travis,mens swimming,texas
-225,Preston Varozza,"Austin, Texas",Westwood,mens swimming,texas
-226,Jordan Windle,"Morrisville, N.C.",International Connections Academy,mens swimming,texas
-227,Chris Yeager,"Cedar Park, Texas",N/A,mens swimming,texas
-228,Claire Adams,"Carmel, Ind.",Carmel,womens swimming,texas
-229,Olivia Anderson,"Edina, Minn.",Edina,womens swimming,texas
-230,Murphy Bromberg,"Bexley, Ohio",Bexley,womens swimming,texas
-231,Quinn Carrozza,"Austin, Texas",home schooled,womens swimming,texas
-232,Lauren Case,"Woodstock, Ga.",Woodstock,womens swimming,texas
-233,Anelise Diener,"San Antonio, Texas",Alamo Heights,womens swimming,texas
-234,Victoria Edwards,"Austin, Texas",Westlake,womens swimming,texas
-235,Joanna Evans,"Freeport, The Bahamas",Bishop Michael Eldon,womens swimming,texas
-236,Alison Gibson,"Austin, Texas",home schooled,womens swimming,texas
-237,Brooke Hansen,"Loveland, Colo.",Loveland,womens swimming,texas
-238,Kaitlin Harty,"Beverly, Mass.",Beverly,womens swimming,texas
-239,Sammie Hashbarger,"McKinney, Texas",McKinney,womens swimming,texas
-240,Kennedy Lohman,"Louisville, Ky.",Sacred Heart,womens swimming,texas
-241,Nora McCullagh,"Charlotte, N.C.",Charlotte Catholic,womens swimming,texas
-242,Rebecca Millard,"Ladera Ranch, Calif.",JSerra Catholic,womens swimming,texas
-243,Meghan O'Brien,"Concord, Mass.",Concord Carlisle,womens swimming,texas
-244,Evie Pfeifer,"St. Louis, Mo.",Parkway West,womens swimming,texas
-245,Ashley Pollok,"Kingwood, Texas",Kingwood,womens swimming,texas
-246,Peyton Quattlebaum,"Sugar Land, Texas",George Ranch,womens swimming,texas
-247,Sofia Rauzi,"Round Rock, Texas",Cedar Ridge,womens swimming,texas
-248,Emily Reese,"The Woodlands, Texas",N/A,womens swimming,texas
-249,Grace Ritch,"Magnolia, Texas",John Cooper School,womens swimming,texas
-250,Remedy Rule,"Crozet, Va.",Western Albemarle,womens swimming,texas
-251,Mimi Schneider,"Western Springs, Ill.",Fenwick,womens swimming,texas
-252,Logan Shiller,"Houston, Texas",N/A,womens swimming,texas
-253,Sam Sutton,"Cedar Park, Texas",Anderson,womens swimming,texas
-254,Ella Tierney,"Wilmette, Ill.",N/A,womens swimming,texas
-255,Jordan Wheeler,"Humble, Texas",Atascocita,womens swimming,texas
-256,Maxine Wolters,"Hamburg, Germany",N/A,womens swimming,texas
-257,Rodrigo Banzer,"La Paz, Bolivia",Athletic Study Center,mens tennis,texas
-258,Johnny Goodwin,"Mission Hills, Kansas",Kansas City Christian School,mens tennis,texas
-259,Yuya Ito,"Yokohama, Japan",St. Peter's College (Australia),mens tennis,texas
-260,Colin Markes,"Austin, Texas",Westwood,mens tennis,texas
-261,John Mee,"Highland Park, Texas",Spring Creek Academy,mens tennis,texas
-262,Adrian Ortiz,"Ensenada, Mexico",Preparatoria Abierta del Estado,mens tennis,texas
-263,Harrison Scott,"Calgary, Alberta (Canada)",N/A,mens tennis,texas
-264,Christian Sigsgaard,"Naestved, Denmark",N/A,mens tennis,texas
-265,Leonardo Telles,"Sao Paulo, Brazil",N/A,mens tennis,texas
-266,Madison Cleff,"Colleyville, Texas",Grapevine,womens tennis,texas
-267,Chelsea Crovetti,"Henderson, Nev.",Bishop Gorman,womens tennis,texas
-268,Tyler Duncum,"Austin, Texas",Vandegrift,womens tennis,texas
-269,Petra Granic,"Split, Croatia",Dopisna Opca Gimnazija,womens tennis,texas
-270,Fernanda Labraña,"Santiago, Chile",Sagrado Corazon de Talagante High School,womens tennis,texas
-271,Bojana Markovic,"Belgrade, Serbia",Poljoprivredna Skola,womens tennis,texas
-272,Marta Perez-Mur,"Santa Cruz de Tenerife, Spain",Deutsch Schule Tenerife,womens tennis,texas
-273,Katie Poluta,"Cape Town, South Africa",Parklands College,womens tennis,texas
-274,Anna Turati,"Barzano, Italy",Liceo Scientifico Leonardo Da Vinci,womens tennis,texas
-275,Bianca Turati,"Barzano, Italy",Liceo Scientifico Leonardo Da Vinci,womens tennis,texas
-276,Dani Wagland,"Sydney, Australia",Pymble Ladies College,womens tennis,texas
-277,Garek Bielaczyc,"Salt Lake City, Utah",East,mens track,texas
-278,Washington Brown,"St. James, Jamaica",Cornwall College,mens track,texas
-279,"Terry Brown, Jr.","Cedar Park, Texas",Round Rock,mens track,texas
-280,John Burt,"Tallahassee, Fla.",Lincoln,mens track,texas
-281,Eric Cain,"Copperas Cove, Texas",Copperas Cove,mens track,texas
-282,Mohamed Deyaf,"Austin, Texas",Bowie,mens track,texas
-283,Jared Dupree,"Orange, Texas",West Orange-Stark,mens track,texas
-284,Logan Emery,"The Woodlands, Texas",The Woodlands,mens track,texas
-285,Dan Golden,"The Woodlands, Texas",The Woodlands,mens track,texas
-286,Grahm Gonzalez,"Bosqueville, Texas",Bosqueville,mens track,texas
-287,Robert Gonzalez,"Corpus Christi, Texas",Corpus Christi King,mens track,texas
-288,Zach Hamstra,"Flower Mound, Texas",Flower Mound,mens track,texas
-289,Micaiah Harris,"Virginia Beach, Va.",Western Branch,mens track,texas
-290,Trevor Heinz,"Dripping Springs, Texas",Dripping Springs,mens track,texas
-291,Connor Hendrickson,"Southlake, Texas",Southlake Carroll,mens track,texas
-292,Chris Ibarra,"Atlanta, Texas",Atlanta,mens track,texas
-293,Fabian Jara Dohmann,"Fernando de la Mora, Paraguay",Colegio Goethe,mens track,texas
-294,Jake Johnson,"Allen, Texas",Allen,mens track,texas
-295,Eric Kroon,"The Woodlands, Texas",The Woodlands,mens track,texas
-296,Isaiah Lucas,"Houston, Texas",Cypress Falls,mens track,texas
-297,Kirema Macharia,"Round Rock, Texas",Round Rock,mens track,texas
-298,Wolf Mahler,"Temple, Texas",Belton,mens track,texas
-299,Steffin McCarter,"Copperas Cove, Texas",Lampasas,mens track,texas
-300,Matthew McClellan,"The Woodlands, Texas",The Woodlands,mens track,texas
-301,Spencer McCloud,"Argyle, Texas",Argyle,mens track,texas
-302,Jake McConnell,"Keller, Texas",Keller,mens track,texas
-303,Nicholas Meaders,"Gatesville, Texas",Gatesville,mens track,texas
-304,Charles Mills,"Kingwood, Texas",Kingwood,mens track,texas
-305,Ika Morton,"Lacey, Wash.",River Ridge,mens track,texas
-306,Pedro Nasta,"The Woodlands, Texas",John Cooper,mens track,texas
-307,Christopher Ntreh,"Murphy, Texas",Plano East,mens track,texas
-308,Connor O'Neill,"Dallas, Texas",Dallas Jesuit,mens track,texas
-309,George Patrick,"Brentwood, Tenn.",Brentwood Academy,mens track,texas
-310,Brian Peterson,"Round Rock, Texas",Cedar Ridge,mens track,texas
-311,Jacob Pickle,"Southlake, Texas",Southlake Carroll,mens track,texas
-312,Tripp Piperi,"The Woodlands, Texas",The Woodlands,mens track,texas
-313,Barrett Poth,"The Woodlands, Texas",Klein Oak,mens track,texas
-314,John Rice,"Brooklyn, N.Y.",Xavier,mens track,texas
-315,Medric Roberson,"Arlington, Texas",Mansfield Summit,mens track,texas
-316,Alex Rogers,"New Braunfels, Texas",New Braunfels Canyon,mens track,texas
-317,David Rueff,"Katy, Texas",Seven Lakes,mens track,texas
-318,Wesley Ward,"Flower Mound, Texas",Flower Mound,mens track,texas
-319,Steele Wasik,"Medina, Ohio",St. Edward,mens track,texas
-320,O'Brien Wasome,"Central Village, Jamaica",Jamaica College,mens track,texas
-321,Sam Worley,"New Braunfels, Texas",New Braunfels Canyon,mens track,texas
-322,Alan Zapalac,"Wallis, Texas",Brazos,mens track,texas
-323,Mariam Abdul-Rashid,"Ontario, Canada",Eastdale C.V.I.,womens track,texas
-324,Katelyn Anderson,"Katy, Texas",Katy Thompkins,womens track,texas
-325,Shayna Bains,"Basking Ridge, N.J.",Ridge,womens track,texas
-326,Claudine Blancaflor,N/A,Ridge,womens track,texas
-327,Skyler Bollinger,"Temecula, Calif.",Great Oak,womens track,texas
-328,Elena Bruckner,"San Jose, Calif.",Valley Christian,womens track,texas
-329,Abby Brudnick,"Katy, Texas",Katy,womens track,texas
-330,Rushelle Burton,N/A,Katy,womens track,texas
-331,Lauryn Caldwell,"Dickinson, Texas",Dickinson,womens track,texas
-332,Jonesy Chauvot,"Pearland, Texas",Dawson,womens track,texas
-333,Destiny Collins,"Temecula, Calif.",Great Oak,womens track,texas
-334,Gabby Crank,"Dallas, Texas",Highland Park,womens track,texas
-335,Haley Crouser,"Gresham, Ore.",Gresham,womens track,texas
-336,Alex Cruz,"Edinburg, Texas",Edinburg,womens track,texas
-337,Teahna Daniels,"Orlando, Fla.",The First Academy,womens track,texas
-338,Serenity Douglas,"Grayson, Ga.",Archer,womens track,texas
-339,Lauren Edwards,"Grapevine, Texas",Grapevine,womens track,texas
-340,Sydne Fowler,"Austin, Texas",Westlake,womens track,texas
-341,Zola Golden,"Sicklerville, N.J.",Arlington,womens track,texas
-342,Hannah Grubb,"State College, Pa.",State College,womens track,texas
-343,Marleen Guerrero,"Pearland, Texas",Houston Lutheran South,womens track,texas
-344,Abby Guidry,"Kingwood, Texas",Kingwood,womens track,texas
-345,Mary Beth Hamilton,"Dallas, Texas",Highland Park,womens track,texas
-346,Abigail Hirst,"Stratford, Texas",Stratford,womens track,texas
-347,Martha Hughes,"Austin, Texas",Austin Brentwood Academy,womens track,texas
-348,Mackenzie Jensen,"Smithson Valley, Texas",Smithson Valley,womens track,texas
-349,Camille Johnson,"San Jose, Calif.",Valley Christian,womens track,texas
-350,Ariel Jones,"Houston, Texas",Atascocita,womens track,texas
-351,Anne Sofie Kirkegaard,N/A,Atascocita,womens track,texas
-352,Meghan Lloyd,"Keller, Texas",Keller,womens track,texas
-353,Kally Long,"Wimberley, Texas",Wimberley,womens track,texas
-354,Tamea McKelvy,"Detroit, Mich.",Oak Park,womens track,texas
-355,Ashley Miller,"Greenwood Village, Colo.",East Ridge,womens track,texas
-356,Anna Norman,"Boerne, Texas",Boerne Champion,womens track,texas
-357,Shay Petty,"San Antonio, Texas",St. Mary's Hall,womens track,texas
-358,Virginia Preiss,"Corpus Christi, Texas",Richard King,womens track,texas
-359,Lauren Reynnelles,N/A,Richard King,womens track,texas
-360,Megan Rourke,"Austin, Texas",Lake Travis,womens track,texas
-361,Katie Ruhala,"Lucas, Texas",Lovejoy,womens track,texas
-362,Pedrya Seymour,"Nassau, Bahamas",St. Annes School,womens track,texas
-363,Celesia Smith,"San Antonio, Texas",Brandeis,womens track,texas
-364,Calie Spencer,"New Braunfels, Texas",New Braunfels Canyon,womens track,texas
-365,Olivia Thompson,"Kingwood, Texas",Kingwood,womens track,texas
-366,Ali Uhle,"Tomball, Texas",Tomball,womens track,texas
-367,Georgia Wahl,"Houston, Texas",Episcopal,womens track,texas
-368,Jordan Welborn,"Lumberton, Texas",Lumberton,womens track,texas
-369,Ashtin Zamzow,"Goliad, Texas",Goliad,womens track,texas
-370,Shannon Barry,"Dallas, Texas",Ursuline Academy,womens rowing,texas
-371,Blair Bartholomew,"Round Rock, Texas",Cedar Ridge,womens rowing,texas
-372,Jenna Bearden,"Los Gatos, Calif.",Los Gatos,womens rowing,texas
-373,Fanny Bon,"Amsterdam, The Netherlands",Sint Nicholaas Liceum,womens rowing,texas
-374,Katelyn Bouthillette,"The Woodlands, Texas",The Woodlands,womens rowing,texas
-375,Alice Bowyer,"Preston Lancashire, Great Britain",Bishop Rawstorne,womens rowing,texas
-376,Elysse Brenner,"Oklahoma City, Okla.",Edmond Memorial,womens rowing,texas
-377,Sarah Cadman,"Kingston, Ontario",Kingston Collegiate and Vocational Institute,womens rowing,texas
-378,Kendall Chapman,"Orlando, Fla.",Winter Park,womens rowing,texas
-379,Aspa Christodoulidis,"Athens, Greece",Lycée Francais de Varsovie,womens rowing,texas
-380,Emily Courtois,"Southlake, Texas",Ursuline Academy,womens rowing,texas
-381,Courtney Crossley,"Winter Park, Fla.",Winter Park,womens rowing,texas
-382,Margaret Dail,"Vienna, Va.",James Madison,womens rowing,texas
-383,Claudia Destefani,"Sabaudia, Italy",Liceo Scientifico E. Majorana Latina,womens rowing,texas
-384,Lindsey Devore,"Mamaroneck, N.Y.",Mamaroneck,womens rowing,texas
-385,Marlow Eldridge,"Madison, Wis.",James Madison Memorial,womens rowing,texas
-386,Samantha Ennis,"Sarasota, Fla.",Pine View School,womens rowing,texas
-387,Merilynn Finley,"Bristow, Va.",Osbourn Park,womens rowing,texas
-388,Rachel Fleming,"Dallas, Texas",Richardson,womens rowing,texas
-389,Emily Froehlich,"Fishers, Ind.",Hamilton Southeastern,womens rowing,texas
-390,Neve Gallagher,"Crozet, Va.",Western Albemarle,womens rowing,texas
-391,Rebecca Gehring,"Alexandria, Va.",West Potomac,womens rowing,texas
-392,Allyson Hite,"Apopka, Fla.",Lake Brantley,womens rowing,texas
-393,Ashley Jacobs,"Arlington, Texas",Martin,womens rowing,texas
-394,Mick Jonkers,"Amsterdam, The Netherlands",Gerrit van der Veen,womens rowing,texas
-395,Ljiljana Josic,"Curug, Serbia",Gimnazija Becej,womens rowing,texas
-396,Madison Karns,N/A,Gimnazija Becej,womens rowing,texas
-397,Barb Klavin,"Tampa, Fla.",H.B. Plant,womens rowing,texas
-398,Alexis Lelon,"Wellesley, Mass.",Noble & Greenough School,womens rowing,texas
-399,Alexa McAuliffe,"Newton, Mass.",Newton North,womens rowing,texas
-400,Aine McGinn,"Plan II Honors, Communications","Nashville, Tenn.",womens rowing,texas
-401,Kenza McKerrihan,"Austin, Texas",LASA,womens rowing,texas
-402,McKenna Michels,"Dallas, Texas",Highland Park,womens rowing,texas
-403,Lauren Mufarreh,"San Francisco, Calif.",St. Ignatius,womens rowing,texas
-404,Kay Murphy,"Duxbury, Mass.",Duxbury,womens rowing,texas
-405,Sara Neaves,"Rhetoric & Writing, Linguistics","Austin, Texas",womens rowing,texas
-406,Eden Norris,"Nashville, Tenn.",Brentwood,womens rowing,texas
-407,Maddy Lou Nutting,"San Diego, Calif.",Point Loma,womens rowing,texas
-408,Sydney Ortiz,N/A,Point Loma,womens rowing,texas
-409,Sophie Pendrill,"Scarsdale, N.Y.",Scarsdale,womens rowing,texas
-410,Sabrina Pham,"Plano, Texas",Plano West,womens rowing,texas
-411,Maddie Prator,"Houston, Texas",Memorial,womens rowing,texas
-412,Jill Renly,"San Diego, Calif.",University City,womens rowing,texas
-413,Mara Royse,"Stilwell, Kan.",Killeen,womens rowing,texas
-414,Maisie Sajbel,"Austin, Texas",Liberal Arts and Science Academy,womens rowing,texas
-415,Mary Schumann,N/A,Liberal Arts and Science Academy,womens rowing,texas
-416,Caitlin Shick,"Millbrae, Calif.",St. Ignatius College Prep,womens rowing,texas
-417,Milica Slijepcevic,"Novi Sad, Serbia",Gimnazija Jovan Jovanovic Zmaj,womens rowing,texas
-418,Mariam Soufi,"Atlanta, Ga.",Westminster,womens rowing,texas
-419,Hannah Thornton,"The Woodlands, Texas",The Woodlands,womens rowing,texas
-420,Maria Valencia,"Brownsville, Texas",Saint Joseph Academy,womens rowing,texas
-421,Paige Vinnicombe,"San Mateo, Calif.",St. Ignatius College Prep,womens rowing,texas
-422,Jenny Warren,"Athens, Texas",LaPoynor,womens rowing,texas
-423,Alexandra Watson,"Leicester, Great Britain",Robert Smyth Academy,womens rowing,texas
-424,Ciera Schick,"Rancho Cucamonga, Calif.",Los Osos,softball,texas
-425,Chloe Romero,"Helendale, Calif.",Academy of Careers & Exploration,softball,texas
-426,Janae  Jefferson,"Humble, Texas",Nimitz Senior,softball,texas
-427,Kaitlyn Slack,"Liberty, Texas",Liberty,softball,texas
-428,Reagan Hathaway,"Lenexa, Kan.",Olathe Northwest,softball,texas
-429,Ki'Audra Hayter,"Nacogdoches, Texas",Garrison,softball,texas
-430,Malory Schattle,"Salado, Texas",Salado,softball,texas
-431,Bekah Alcozer,"Belton, Texas",Belton,softball,texas
-432,Taylor Ellsworth,"Georgetown, Texas",Georgetown,softball,texas
-433,Brooke Bolinger,"Yucaipa, Calif.",Yucaipa,softball,texas
-434,Ariana Adams,"Magnolia, Texas",Magnolia West,softball,texas
-435,MK Tedder,"Hoover, Ala.",Spain Park,softball,texas
-436,Tuesday DerMargosian,"Fort Worth, Texas",Northwest,softball,texas
-437,Kaitlyn Washington,"Humble, Texas",Atascocita,softball,texas
-438,Shealyn  O'Leary,"Castaic, Calif.",Valencia,softball,texas
-439,McKenzie Parker,"Conroe, Texas",Willis,softball,texas
-440,Micaya White,"Frisco, Texas",Centennial,womens volleyball,texas
-441,Riley Fisbeck,"La Grange, Texas",La Grange High School,womens volleyball,texas
-442,Claire Hahn,"Austin, Texas",Westlake High School,womens volleyball,texas
-443,Ashley  Shook,"Plainfield, Ill.",Plainfield Central High School,womens volleyball,texas
-444,Brionne Butler,"Kendleton, Texas",Boling High School,womens volleyball,texas
-445,Morgan Johnson,"DeSoto, Texas",DeSoto,womens volleyball,texas
-446,Autumn Rounsaville,"Dripping Springs, Texas",Dripping Springs High School,womens volleyball,texas
-447,Blair Westerlund,"Round Rock, Texas",Brentwood Christian School,womens volleyball,texas
-448,Yaasmeen Bedart-Ghani,"Los Angeles, Calif.",Redondo Union,womens volleyball,texas
-449,Orie Agbaji,"Kansas City, Mo.",Oak Park High School,womens volleyball,texas
-450,Logan Eggleston,"Brentwood, Tenn.",Brentwood HS,womens volleyball,texas
-451,Jhenna Gabriel,"Honolulu, Hawaii",Maryknoll HS,womens volleyball,texas
-452,Asjia O'Neal,"Southlake, Texas",Southlake Carroll,womens volleyball,texas
-453,Sydney Petersen,"Dike, Iowa",Dike-New Hartford HS,womens volleyball,texas
+66,Casey Thompson,"Newcastle, Okla.",Newcastle,football,texas
+67,Jalen Green,"Houston, Texas",Heights,football,texas
+68,Cameron Rising,"Ventura, Calif.",Newbury Park,football,texas
+69,Anthony Cook,"Houston, Texas",Lamar,football,texas
+70,Tre Watson,"Corona, Calif.",Centennial,football,texas
+71,Devin Duvernay,"Sachse, Texas",Sachse,football,texas
+72,Shane Buechele,"Arlington, Texas",Lamar,football,texas
+73,Caden Sterns,"Cibolo, Texas",Steele,football,texas
+74,Ryan Bujcevski,"Sydney, Australia",Marist Catholic College Penshurst,football,texas
+75,Collin Johnson,"San Jose, Calif.",Valley Christian,football,texas
+76,Sam Ehlinger,"Austin, Texas",Westlake,football,texas
+77,P.J. Locke III,"Beaumont, Texas",Central,football,texas
+78,Jerrod Heard,"Denton, Texas",Guyer,football,texas
+79,Joshua Moore,"Yoakum, Texas",Yoakum,football,texas
+80,Chris Brown,"Houston, Texas",Elsik,football,texas
+81,Travis West,"Dallas, Texas",Woodrow Wilson,football,texas
+82,Davion Curtis,"Temple, Texas",Temple,football,texas
+83,Cameron Dicker,"Austin, Texas",Lake Travis,football,texas
+84,D'Shawn Jamison,"Houston, Texas",Lamar,football,texas
+85,Davante Davis,"Miami, Fla.",Booker T. Washington,football,texas
+86,Tremayne Prudehomme,"Houston, Texas",Aldine Davis,football,texas
+87,Brandon Jones,"Nacogdoches, Texas",Nacogdoches,football,texas
+88,Kyle Porter,"Katy, Texas",Katy,football,texas
+89,Turner Symonds,"Fort Worth, Texas",Fort Worth Country Day,football,texas
+90,Jeffrey McCulloch,"Houston, Texas",Davis,football,texas
+91,Jarrett Smith,"Webster, Texas",Clear Brook,football,texas
+92,John Bonney,"Houston, Texas",Lamar,football,texas
+93,B.J. Foster,"Angleton, Texas",Angleton,football,texas
+94,Eric Cuffee,"Waco, Texas",Waco,football,texas
+95,Keaontay Ingram,"Carthage, Texas",Carthage,football,texas
+96,Donovan Duvernay,"Sachse, Texas",Sachse,football,texas
+97,Jarmarquis Durst,"Conroe, Texas",Oak Ridge,football,texas
+98,Kirk Johnson,"San Jose, Calif.",Valley Christian,football,texas
+99,Josh Thompson,"Nacogdoches, Texas",Nacogdoches,football,texas
+100,Toneil Carter,"Houston, Texas",Langham Creek,football,texas
+101,Mason Ramirez,"Round Rock, Texas",Round Rock,football,texas
+102,Kyle Hrncir,"San Antonio, Texas",Johnson,football,texas
+103,DeMarvion  Overshown,"Arp, Texas",Arp,football,texas
+104,Malcolm Roach,"Baton Rouge, La.",Madison Prep Academy,football,texas
+105,Daniel Young,"Houston, Texas",Westfield,football,texas
+106,Gary  Johnson,"Douglas, Ala.",Douglas/Dodge City CC,football,texas
+107,Tim Yoder,"Plano, Texas",Plano,football,texas
+108,Russell Hine,"Austin, Texas",Regents School,football,texas
+109,Demarco Boyd,"Gilmer, Texas",Gilmer,football,texas
+110,Kamari Williams,"Conroe, Texas",Oak Ridge,football,texas
+111,Chase Moore,"Los Angeles, Calif.",Verbum Dei,football,texas
+112,Michael Williams,"Baton Rouge, La.",Dunham School,football,texas
+113,Kobe Boyce,"Corinth, Texas",Lake Dallas,football,texas
+114,Jack Geiger,"San Jose, Calif.",Bellarmine,football,texas
+115,Montrell Estell,"Hooks, Texas",Hooks,football,texas
+116,Edward Pequeno,"McAllen, Texas",Memorial,football,texas
+117,Ayodele Adeoye,"St. Louis, Mo.",IMG Academy [Fla.],football,texas
+118,Hank Coutoumanos,"Southlake, Texas",Southlake Carroll,football,texas
+119,Tristian Houston,"Galena Park, Texas",North Shore,football,texas
+120,Marqez Bimage,"Brenham, Texas",Brenham,football,texas
+121,Femi  Yemi-Ese,"Houston, Texas",Alief Elsik,football,texas
+122,Cameron Townsend,"Missouri City, Texas",Ridge Point,football,texas
+123,Breckyn Hager,"Austin, Texas",Westlake,football,texas
+124,Chris Naggar,"Arlington, Texas",Arlington,football,texas
+125,Anthony Wheeler,"Dallas, Texas",Skyline,football,texas
+126,Luke Brockermeyer,"Fort Worth, Texas",All-Saints Episcopal,football,texas
+127,Joseph Ossai,"Conroe, Texas",Oak Ridge,football,texas
+128,Andrew Beck,"Tampa, Fla.",Plant,football,texas
+129,Andrew Fitzgerald,"Flower Mound, Texas",Marcus,football,texas
+130,Ta'Quon Graham,"Temple, Texas",Temple,football,texas
+131,Joshua Rowland,"Madison, Miss.",Madison Central,football,texas
+132,Byron Vaughns,"Fort Worth, Texas",Eastern Hills,football,texas
+133,Samuel Cosmi,"Humble, Texas",Atascocita,football,texas
+134,Jackson Hanna,"Houston, Texas",St. Thomas,football,texas
+135,Jak Holbrook,"Austin, Texas",McCallum,football,texas
+136,Justin Mader,"Magnolia, Texas",Magnolia,football,texas
+137,D'Andre Christmas,"New Orleans, La.",St. Augustine,football,texas
+138,Zach Shackelford,"Belton, Texas",Belton,football,texas
+139,Cort Jaquess,"San Antonio, Texas",Churchill,football,texas
+140,Mikey Grandy,"San Jose, Calif.",Palo Alto,football,texas
+141,Ishan Rison,"Katy, Texas",Cinco Ranch,football,texas
+142,Jeremy Thompson-Seyon,"Lewisville, Texas",Hebron,football,texas
+143,Troy Torres,"El Paso, Texas",Bowie,football,texas
+144,Calvin Anderson,"Austin, Texas",Westlake,football,texas
+145,Tope Imade,"Arlington, Texas",Bowie,football,texas
+146,Derek Kerstetter,"San Antonio, Texas",Reagan,football,texas
+147,Austin Allsup,"Austin, Texas",Lorena,football,texas
+148,Christian Jones,"Cypress, Texas",Cypress Woods,football,texas
+149,J.P. Urquidez,"Copperas Cove, Texas",Copperas Cove,football,texas
+150,Elijah Rodriguez,"Houston, Texas",Cypress Creek,football,texas
+151,Patrick Hudson,"Silsbee, Texas",Silsbee,football,texas
+152,Rafiti Ghirmai,"Frisco, Texas",Wakeland,football,texas
+153,Junior  Angilau,"Salt Lake City, Utah",East,football,texas
+154,Reese Moore,"Seminole, Texas",Seminole,football,texas
+155,Patrick Vahe,"Euless, Texas",Trinity,football,texas
+156,Denzel Okafor,"Lewisville, Texas",Lewisville,football,texas
+157,Matt Frost,"Folsom, Calif.",Folsom,football,texas
+158,Cade Brewer,"Austin, Texas",Lake Travis,football,texas
+159,Reese Leitao,"Jenks, Okla.",Jenks,football,texas
+160,Brennan Eagles,"Houston, Texas",Alief Taylor,football,texas
+161,Michael David Poujol,"Houston, Texas",Memorial,football,texas
+162,Al'Vonte Woodard,"Houston, Texas",Lamar,football,texas
+163,Lil'Jordan Humphrey,"Southlake, Texas",Southlake Carroll,football,texas
+164,Malcolm  Epps,"Houston, Texas",Dekaney,football,texas
+165,Philipp Moeller,"Plano, Texas",Plano,football,texas
+166,Jordan Pouncey,"Winter Park, Fla.",Winter Park,football,texas
+167,Austin Hibbetts,"Cypress, Texas",Cy Falls,football,texas
+168,Joshua Matthews,"Conroe, Texas",Willis,football,texas
+169,Daniel Carson,"Kansas City, Mo.",Chrisman,football,texas
+170,Kai Jarmon,"Los Altos, Calif.",Los Altos,football,texas
+171,Max Cummins,"Fort Worth, Texas",All-Saints Episcopal,football,texas
+172,Chris Fehr,"Austin, Texas",McNeil,football,texas
+173,Charles Omenihu,"Rowlett, Texas",Rowlett,football,texas
+174,Jamari Chisholm,"Valdosta, Ga.",Valdosta,football,texas
+175,Gerald Wilbon,"Saint Rose, La.",Destrehan,football,texas
+176,Tristan Bennett,"Irving, Texas",Ranchview,football,texas
+177,Chris Nelson,"Lakeland, Fla.",Victory Christian,football,texas
+178,Moro Ojomo,"Katy, Texas",Katy,football,texas
+179,Keondre Coburn,"Houston, Texas",Westfield,football,texas
+180,Savannah Madden,"San Diego, Calif.",Scripps Ranch,womens soccer,texas
+181,Cameron Brooks,"Round Rock, Texas",Cedar Ridge,womens soccer,texas
+182,Haley Berg,"Celina, Texas",Celina,womens soccer,texas
+183,Emily  Strouphauer,"Round Rock, Texas",Cedar Ridge,womens soccer,texas
+184,Cydney Billups,"Greenwood Village, Colo.",Mountain Vista,womens soccer,texas
+185,Carlee Allen,"Austin, Texas",Lake Travis,womens soccer,texas
+186,Alexa  Adams,"Lancaster, Calif.",Quartz Hill,womens soccer,texas
+187,Chelsea Surpris,"Crowley, Texas",Nolan Catholic,womens soccer,texas
+188,Tecora Turner,"Memphis, Tenn.",St. Agnes Academy,womens soccer,texas
+189,Nakia Graham,"Austin, Texas",Westwood,womens soccer,texas
+190,Emily Martin,"Las Vegas, Nev.",Bishop Gorman,womens soccer,texas
+191,Cyera Hintzen,"Garland, Texas",Sachse,womens soccer,texas
+192,Peyton McGee,"Mansfield, Texas",Mansfield Legacy,womens soccer,texas
+193,Kayra Dollas,"Orange, Calif.",Lutheran of Orange County,womens soccer,texas
+194,Amber Stearns,"San Antonio, Texas",Johnson,womens soccer,texas
+195,Atu Mshana,"Garland, Texas",Bishop Lynch,womens soccer,texas
+196,Kyra Falcone,"San Antonio, Texas",Douglas MacArthur,womens soccer,texas
+197,Nicole Curry,"Dallas, Texas",Episcopal School of Dallas,womens soccer,texas
+198,Emma Jett,"Coppell, Texas",Coppell,womens soccer,texas
+199,Katie Glenn,"Round Rock, Texas",Rouse,womens soccer,texas
+200,Paige Hooper,"Beaumont, Texas",Monsignor Kelly Catholic,womens soccer,texas
+201,Maddie Dorsett,"Carrollton, Texas",Prestonwood Christian Academy,womens soccer,texas
+202,Taylor Currie,"Raleigh, N.C.",Cardinal Gibbons,womens soccer,texas
+203,Natalie  Weidenbach,"North Bend, Wash.",Mount Si,womens soccer,texas
+204,Bailey Dobbs,"Katy, Texas",Seven Lakes,womens soccer,texas
+205,Tatyana Byars,"Richardson, Texas",Parish Episcopal School,womens soccer,texas
+206,Julia Grosso,"Vancouver, British Columbia",Burnaby Central,womens soccer,texas
+207,Madison Hogue,"Ladera Ranch, Calif.",Tesoro,womens soccer,texas
+208,Mackenzie McFarland,"Coppell, Texas",Coppell,womens soccer,texas
+209,Emma Regan,"Burnaby, British Columbia",Burnaby Central,womens soccer,texas
+210,Kailey Smith,"Lake Forest, Calif.",El Toro,womens soccer,texas
+211,Christoffer  Bring,"Naestved, Denmark",Herlufsholm School,mens golf,texas
+212,Cash Carter,"Dallas, Texas",Highland Park,mens golf,texas
+213,Steven Chervony,"Boca Raton, Fla.",Pinecrest School,mens golf,texas
+214,Pierceson Coody,"Plano, Texas",Plano West,mens golf,texas
+215,Parker Coody,"Plano, Texas",Plano West,mens golf,texas
+216,Nick Costello,"Austin, Texas",Westlake High School,mens golf,texas
+217,Cole Hammer,"Houston, Texas",Houston-Kinkaid,mens golf,texas
+218,Drew Jones,"Decatur, Texas",Decatur High School,mens golf,texas
+219,Blake Pettle,"Dallas, Texas",Highland Park,mens golf,texas
+220,Parker Sexton,"Memphis, Tenn.",Memphis University School,mens golf,texas
+221,Spencer Soosman,"Westlake Village, Calif.",Westlake High School,mens golf,texas
+222,Maren Cipolla,"Lewiston, N.Y.",Nichols,womens golf,texas
+223,Hailee Cooper,"Montgomery, Texas",Montgomery,womens golf,texas
+224,Emilee  Hoffman,"Folsom, Calif.",Vista Del Lago,womens golf,texas
+225,Sára Kousková,"Prague, Czech Republic",Gymnazium Oty Pavla,womens golf,texas
+226,Agathe Laisne,"Paris, France",CNED,womens golf,texas
+227,Maddie Luitwieler,"Katy, Texas",Cinco Ranch,womens golf,texas
+228,Kaitlyn Papp,"Austin, Texas",Lake Travis,womens golf,texas
+229,Greta Isabella Voelker,"Witten, Germany",Karl-Müchler Schule,womens golf,texas
+230,Kelly Xac,"Corpus Christi, Texas",Tuloso-Midway,womens golf,texas
+231,Safa Anya,"Houston, Texas",Lamar,mens swimming,texas
+232,Josh Artmann,"Austin, Texas",home schooled,mens swimming,texas
+233,Luke Bowman,"Cypress, Texas",Cypress Ranch,mens swimming,texas
+234,Jared Butler,"Rockwall, Texas",Heath,mens swimming,texas
+235,Grayson Campbell,"Vienna, Va.",James Madison,mens swimming,texas
+236,Colter Carman,"Grapevine, Texas",Carroll,mens swimming,texas
+237,Arthur Cheng,"Corpus Christi, Texas",home schooled,mens swimming,texas
+238,Thomas Colket,"Frederick, Md.",Good Counsel,mens swimming,texas
+239,Jacob Cornish,"Honolulu, Hawaii",Punahou School,mens swimming,texas
+240,Townley Haas,"Richmond, Va.",Benedictine,mens swimming,texas
+241,Ryan Harty,"Gardner, Mass.",home schooled,mens swimming,texas
+242,Max Holter,"Fort Collins, Colo.",Fort Collins,mens swimming,texas
+243,Jacob Huerta,"Corpus Christi, Texas",Corpus Christi Carroll,mens swimming,texas
+244,Tate Jackson,"Austin, Texas",Vista Ridge,mens swimming,texas
+245,Austin Katz,"Sarasota, Fla.",Riverview,mens swimming,texas
+246,Sam Kline,"Prosper, Texas",Wakeland,mens swimming,texas
+247,Jack Lanphear,"Pittsburgh, Pa.",Mt. Lebanon,mens swimming,texas
+248,JohnThomas Larson,"Bloomington, Minn.",Minnesota Online,mens swimming,texas
+249,Casey Melzer,"Mars, Pa.",North Allegheny,mens swimming,texas
+250,Reed Merritt,"Palo Alto, Calif.",Palo Alto,mens swimming,texas
+251,Braxton Moore,"Houston, Texas",N/A,mens swimming,texas
+252,Parker Neri,"Columbus, Ohio",Upper Arlington,mens swimming,texas
+253,Jeff Newkirk,"Chesterfield, Va.",Matoaca,mens swimming,texas
+254,Jeremy Nichols,"Rockwall, Texas",North Mesquite,mens swimming,texas
+255,Sam Pomajevich,"Manassas, Va.",Stonewall Jackson,mens swimming,texas
+256,Brett Ringgold,"Keller, Texas",home schooled,mens swimming,texas
+257,Jonathan Roberts,"Southlake, Texas",Carroll,mens swimming,texas
+258,Joseph Schooling,N/A,N/A,mens swimming,texas
+259,John Shebat,"Oak Hill, Va.",Oakton,mens swimming,texas
+260,Sam Stewart,"Hattiesburg, Miss.",N/A,mens swimming,texas
+261,Austin Temple,"Virginia Beach, Va.",Cox,mens swimming,texas
+262,Mason Tenney,"Austin, Texas",Lake Travis,mens swimming,texas
+263,Preston Varozza,"Austin, Texas",Westwood,mens swimming,texas
+264,Jordan Windle,"Morrisville, N.C.",International Connections Academy,mens swimming,texas
+265,Chris Yeager,"Cedar Park, Texas",N/A,mens swimming,texas
+266,Claire Adams,"Carmel, Ind.",Carmel,womens swimming,texas
+267,Olivia Anderson,"Edina, Minn.",Edina,womens swimming,texas
+268,Murphy Bromberg,"Bexley, Ohio",Bexley,womens swimming,texas
+269,Quinn Carrozza,"Austin, Texas",home schooled,womens swimming,texas
+270,Lauren Case,"Woodstock, Ga.",Woodstock,womens swimming,texas
+271,Anelise Diener,"San Antonio, Texas",Alamo Heights,womens swimming,texas
+272,Victoria Edwards,"Austin, Texas",Westlake,womens swimming,texas
+273,Joanna Evans,"Freeport, The Bahamas",Bishop Michael Eldon,womens swimming,texas
+274,Alison Gibson,"Austin, Texas",home schooled,womens swimming,texas
+275,Brooke Hansen,"Loveland, Colo.",Loveland,womens swimming,texas
+276,Kaitlin Harty,"Beverly, Mass.",Beverly,womens swimming,texas
+277,Sammie Hashbarger,"McKinney, Texas",McKinney,womens swimming,texas
+278,Kennedy Lohman,"Louisville, Ky.",Sacred Heart,womens swimming,texas
+279,Nora McCullagh,"Charlotte, N.C.",Charlotte Catholic,womens swimming,texas
+280,Rebecca Millard,"Ladera Ranch, Calif.",JSerra Catholic,womens swimming,texas
+281,Meghan O'Brien,"Concord, Mass.",Concord Carlisle,womens swimming,texas
+282,Evie Pfeifer,"St. Louis, Mo.",Parkway West,womens swimming,texas
+283,Ashley Pollok,"Kingwood, Texas",Kingwood,womens swimming,texas
+284,Peyton Quattlebaum,"Sugar Land, Texas",George Ranch,womens swimming,texas
+285,Sofia Rauzi,"Round Rock, Texas",Cedar Ridge,womens swimming,texas
+286,Emily Reese,"The Woodlands, Texas",N/A,womens swimming,texas
+287,Grace Ritch,"Magnolia, Texas",John Cooper School,womens swimming,texas
+288,Remedy Rule,"Crozet, Va.",Western Albemarle,womens swimming,texas
+289,Mimi Schneider,"Western Springs, Ill.",Fenwick,womens swimming,texas
+290,Logan Shiller,"Houston, Texas",N/A,womens swimming,texas
+291,Sam Sutton,"Cedar Park, Texas",Anderson,womens swimming,texas
+292,Ella Tierney,"Wilmette, Ill.",N/A,womens swimming,texas
+293,Jordan Wheeler,"Humble, Texas",Atascocita,womens swimming,texas
+294,Maxine Wolters,"Hamburg, Germany",N/A,womens swimming,texas
+295,Rodrigo Banzer,"La Paz, Bolivia",Athletic Study Center,mens tennis,texas
+296,Johnny Goodwin,"Mission Hills, Kansas",Kansas City Christian School,mens tennis,texas
+297,Yuya Ito,"Yokohama, Japan",St. Peter's College (Australia),mens tennis,texas
+298,Colin Markes,"Austin, Texas",Westwood,mens tennis,texas
+299,John Mee,"Highland Park, Texas",Spring Creek Academy,mens tennis,texas
+300,Adrian Ortiz,"Ensenada, Mexico",Preparatoria Abierta del Estado,mens tennis,texas
+301,Harrison Scott,"Calgary, Alberta (Canada)",N/A,mens tennis,texas
+302,Christian Sigsgaard,"Naestved, Denmark",N/A,mens tennis,texas
+303,Leonardo Telles,"Sao Paulo, Brazil",N/A,mens tennis,texas
+304,Madison Cleff,"Colleyville, Texas",Grapevine,womens tennis,texas
+305,Chelsea Crovetti,"Henderson, Nev.",Bishop Gorman,womens tennis,texas
+306,Tyler Duncum,"Austin, Texas",Vandegrift,womens tennis,texas
+307,Petra Granic,"Split, Croatia",Dopisna Opca Gimnazija,womens tennis,texas
+308,Fernanda Labraña,"Santiago, Chile",Sagrado Corazon de Talagante High School,womens tennis,texas
+309,Bojana Markovic,"Belgrade, Serbia",Poljoprivredna Skola,womens tennis,texas
+310,Marta Perez-Mur,"Santa Cruz de Tenerife, Spain",Deutsch Schule Tenerife,womens tennis,texas
+311,Katie Poluta,"Cape Town, South Africa",Parklands College,womens tennis,texas
+312,Anna Turati,"Barzano, Italy",Liceo Scientifico Leonardo Da Vinci,womens tennis,texas
+313,Bianca Turati,"Barzano, Italy",Liceo Scientifico Leonardo Da Vinci,womens tennis,texas
+314,Dani Wagland,"Sydney, Australia",Pymble Ladies College,womens tennis,texas
+315,Garek Bielaczyc,"Salt Lake City, Utah",East,mens track,texas
+316,Washington Brown,"St. James, Jamaica",Cornwall College,mens track,texas
+317,"Terry Brown, Jr.","Cedar Park, Texas",Round Rock,mens track,texas
+318,John Burt,"Tallahassee, Fla.",Lincoln,mens track,texas
+319,Eric Cain,"Copperas Cove, Texas",Copperas Cove,mens track,texas
+320,Mohamed Deyaf,"Austin, Texas",Bowie,mens track,texas
+321,Jared Dupree,"Orange, Texas",West Orange-Stark,mens track,texas
+322,Logan Emery,"The Woodlands, Texas",The Woodlands,mens track,texas
+323,Dan Golden,"The Woodlands, Texas",The Woodlands,mens track,texas
+324,Grahm Gonzalez,"Bosqueville, Texas",Bosqueville,mens track,texas
+325,Robert Gonzalez,"Corpus Christi, Texas",Corpus Christi King,mens track,texas
+326,Zach Hamstra,"Flower Mound, Texas",Flower Mound,mens track,texas
+327,Micaiah Harris,"Virginia Beach, Va.",Western Branch,mens track,texas
+328,Trevor Heinz,"Dripping Springs, Texas",Dripping Springs,mens track,texas
+329,Connor Hendrickson,"Southlake, Texas",Southlake Carroll,mens track,texas
+330,Chris Ibarra,"Atlanta, Texas",Atlanta,mens track,texas
+331,Fabian Jara Dohmann,"Fernando de la Mora, Paraguay",Colegio Goethe,mens track,texas
+332,Jake Johnson,"Allen, Texas",Allen,mens track,texas
+333,Eric Kroon,"The Woodlands, Texas",The Woodlands,mens track,texas
+334,Isaiah Lucas,"Houston, Texas",Cypress Falls,mens track,texas
+335,Kirema Macharia,"Round Rock, Texas",Round Rock,mens track,texas
+336,Wolf Mahler,"Temple, Texas",Belton,mens track,texas
+337,Steffin McCarter,"Copperas Cove, Texas",Lampasas,mens track,texas
+338,Matthew McClellan,"The Woodlands, Texas",The Woodlands,mens track,texas
+339,Spencer McCloud,"Argyle, Texas",Argyle,mens track,texas
+340,Jake McConnell,"Keller, Texas",Keller,mens track,texas
+341,Nicholas Meaders,"Gatesville, Texas",Gatesville,mens track,texas
+342,Charles Mills,"Kingwood, Texas",Kingwood,mens track,texas
+343,Ika Morton,"Lacey, Wash.",River Ridge,mens track,texas
+344,Pedro Nasta,"The Woodlands, Texas",John Cooper,mens track,texas
+345,Christopher Ntreh,"Murphy, Texas",Plano East,mens track,texas
+346,Connor O'Neill,"Dallas, Texas",Dallas Jesuit,mens track,texas
+347,George Patrick,"Brentwood, Tenn.",Brentwood Academy,mens track,texas
+348,Brian Peterson,"Round Rock, Texas",Cedar Ridge,mens track,texas
+349,Jacob Pickle,"Southlake, Texas",Southlake Carroll,mens track,texas
+350,Tripp Piperi,"The Woodlands, Texas",The Woodlands,mens track,texas
+351,Barrett Poth,"The Woodlands, Texas",Klein Oak,mens track,texas
+352,John Rice,"Brooklyn, N.Y.",Xavier,mens track,texas
+353,Medric Roberson,"Arlington, Texas",Mansfield Summit,mens track,texas
+354,Alex Rogers,"New Braunfels, Texas",New Braunfels Canyon,mens track,texas
+355,David Rueff,"Katy, Texas",Seven Lakes,mens track,texas
+356,Wesley Ward,"Flower Mound, Texas",Flower Mound,mens track,texas
+357,Steele Wasik,"Medina, Ohio",St. Edward,mens track,texas
+358,O'Brien Wasome,"Central Village, Jamaica",Jamaica College,mens track,texas
+359,Sam Worley,"New Braunfels, Texas",New Braunfels Canyon,mens track,texas
+360,Alan Zapalac,"Wallis, Texas",Brazos,mens track,texas
+361,Mariam Abdul-Rashid,"Ontario, Canada",Eastdale C.V.I.,womens track,texas
+362,Katelyn Anderson,"Katy, Texas",Katy Thompkins,womens track,texas
+363,Shayna Bains,"Basking Ridge, N.J.",Ridge,womens track,texas
+364,Claudine Blancaflor,N/A,N/A,womens track,texas
+365,Skyler Bollinger,"Temecula, Calif.",Great Oak,womens track,texas
+366,Elena Bruckner,"San Jose, Calif.",Valley Christian,womens track,texas
+367,Abby Brudnick,"Katy, Texas",Katy,womens track,texas
+368,Rushelle Burton,N/A,N/A,womens track,texas
+369,Lauryn Caldwell,"Dickinson, Texas",Dickinson,womens track,texas
+370,Jonesy Chauvot,"Pearland, Texas",Dawson,womens track,texas
+371,Destiny Collins,"Temecula, Calif.",Great Oak,womens track,texas
+372,Gabby Crank,"Dallas, Texas",Highland Park,womens track,texas
+373,Haley Crouser,"Gresham, Ore.",Gresham,womens track,texas
+374,Alex Cruz,"Edinburg, Texas",Edinburg,womens track,texas
+375,Teahna Daniels,"Orlando, Fla.",The First Academy,womens track,texas
+376,Serenity Douglas,"Grayson, Ga.",Archer,womens track,texas
+377,Lauren Edwards,"Grapevine, Texas",Grapevine,womens track,texas
+378,Sydne Fowler,"Austin, Texas",Westlake,womens track,texas
+379,Zola Golden,"Sicklerville, N.J.",Arlington,womens track,texas
+380,Hannah Grubb,"State College, Pa.",State College,womens track,texas
+381,Marleen Guerrero,"Pearland, Texas",Houston Lutheran South,womens track,texas
+382,Abby Guidry,"Kingwood, Texas",Kingwood,womens track,texas
+383,Mary Beth Hamilton,"Dallas, Texas",Highland Park,womens track,texas
+384,Abigail Hirst,"Stratford, Texas",Stratford,womens track,texas
+385,Martha Hughes,"Austin, Texas",Austin Brentwood Academy,womens track,texas
+386,Mackenzie Jensen,"Smithson Valley, Texas",Smithson Valley,womens track,texas
+387,Camille Johnson,"San Jose, Calif.",Valley Christian,womens track,texas
+388,Ariel Jones,"Houston, Texas",Atascocita,womens track,texas
+389,Anne Sofie Kirkegaard,N/A,N/A,womens track,texas
+390,Meghan Lloyd,"Keller, Texas",Keller,womens track,texas
+391,Kally Long,"Wimberley, Texas",Wimberley,womens track,texas
+392,Tamea McKelvy,"Detroit, Mich.",Oak Park,womens track,texas
+393,Ashley Miller,"Greenwood Village, Colo.",East Ridge,womens track,texas
+394,Anna Norman,"Boerne, Texas",Boerne Champion,womens track,texas
+395,Shay Petty,"San Antonio, Texas",St. Mary's Hall,womens track,texas
+396,Virginia Preiss,"Corpus Christi, Texas",Richard King,womens track,texas
+397,Lauren Reynnelles,N/A,N/A,womens track,texas
+398,Megan Rourke,"Austin, Texas",Lake Travis,womens track,texas
+399,Katie Ruhala,"Lucas, Texas",Lovejoy,womens track,texas
+400,Pedrya Seymour,"Nassau, Bahamas",St. Annes School,womens track,texas
+401,Celesia Smith,"San Antonio, Texas",Brandeis,womens track,texas
+402,Calie Spencer,"New Braunfels, Texas",New Braunfels Canyon,womens track,texas
+403,Olivia Thompson,"Kingwood, Texas",Kingwood,womens track,texas
+404,Ali Uhle,"Tomball, Texas",Tomball,womens track,texas
+405,Georgia Wahl,"Houston, Texas",Episcopal,womens track,texas
+406,Jordan Welborn,"Lumberton, Texas",Lumberton,womens track,texas
+407,Ashtin Zamzow,"Goliad, Texas",Goliad,womens track,texas
+408,Shannon Barry,"Dallas, Texas",Ursuline Academy,womens rowing,texas
+409,Blair Bartholomew,"Round Rock, Texas",Cedar Ridge,womens rowing,texas
+410,Jenna Bearden,"Los Gatos, Calif.",Los Gatos,womens rowing,texas
+411,Fanny Bon,"Amsterdam, The Netherlands",Sint Nicholaas Liceum,womens rowing,texas
+412,Katelyn Bouthillette,"The Woodlands, Texas",The Woodlands,womens rowing,texas
+413,Alice Bowyer,"Preston Lancashire, Great Britain",Bishop Rawstorne,womens rowing,texas
+414,Elysse Brenner,"Oklahoma City, Okla.",Edmond Memorial,womens rowing,texas
+415,Sarah Cadman,"Kingston, Ontario",Kingston Collegiate and Vocational Institute,womens rowing,texas
+416,Kendall Chapman,"Orlando, Fla.",Winter Park,womens rowing,texas
+417,Aspa Christodoulidis,"Athens, Greece",Lycée Francais de Varsovie,womens rowing,texas
+418,Emily Courtois,"Southlake, Texas",Ursuline Academy,womens rowing,texas
+419,Courtney Crossley,"Winter Park, Fla.",Winter Park,womens rowing,texas
+420,Margaret Dail,"Vienna, Va.",James Madison,womens rowing,texas
+421,Claudia Destefani,"Sabaudia, Italy",Liceo Scientifico E. Majorana Latina,womens rowing,texas
+422,Lindsey Devore,"Mamaroneck, N.Y.",Mamaroneck,womens rowing,texas
+423,Marlow Eldridge,"Madison, Wis.",James Madison Memorial,womens rowing,texas
+424,Samantha Ennis,"Sarasota, Fla.",Pine View School,womens rowing,texas
+425,Merilynn Finley,"Bristow, Va.",Osbourn Park,womens rowing,texas
+426,Rachel Fleming,"Dallas, Texas",Richardson,womens rowing,texas
+427,Emily Froehlich,"Fishers, Ind.",Hamilton Southeastern,womens rowing,texas
+428,Neve Gallagher,"Crozet, Va.",Western Albemarle,womens rowing,texas
+429,Rebecca Gehring,"Alexandria, Va.",West Potomac,womens rowing,texas
+430,Allyson Hite,"Apopka, Fla.",Lake Brantley,womens rowing,texas
+431,Ashley Jacobs,"Arlington, Texas",Martin,womens rowing,texas
+432,Mick Jonkers,"Amsterdam, The Netherlands",Gerrit van der Veen,womens rowing,texas
+433,Ljiljana Josic,"Curug, Serbia",Gimnazija Becej,womens rowing,texas
+434,Madison Karns,N/A,N/A,womens rowing,texas
+435,Barb Klavin,"Tampa, Fla.",H.B. Plant,womens rowing,texas
+436,Alexis Lelon,"Wellesley, Mass.",Noble & Greenough School,womens rowing,texas
+437,Alexa McAuliffe,"Newton, Mass.",Newton North,womens rowing,texas
+438,Aine McGinn,"Plan II Honors, Communications","Nashville, Tenn.",womens rowing,texas
+439,Kenza McKerrihan,"Austin, Texas",LASA,womens rowing,texas
+440,McKenna Michels,"Dallas, Texas",Highland Park,womens rowing,texas
+441,Lauren Mufarreh,"San Francisco, Calif.",St. Ignatius,womens rowing,texas
+442,Kay Murphy,"Duxbury, Mass.",Duxbury,womens rowing,texas
+443,Sara Neaves,"Rhetoric & Writing, Linguistics","Austin, Texas",womens rowing,texas
+444,Eden Norris,"Nashville, Tenn.",Brentwood,womens rowing,texas
+445,Maddy Lou Nutting,"San Diego, Calif.",Point Loma,womens rowing,texas
+446,Sydney Ortiz,N/A,N/A,womens rowing,texas
+447,Sophie Pendrill,"Scarsdale, N.Y.",Scarsdale,womens rowing,texas
+448,Sabrina Pham,"Plano, Texas",Plano West,womens rowing,texas
+449,Maddie Prator,"Houston, Texas",Memorial,womens rowing,texas
+450,Jill Renly,"San Diego, Calif.",University City,womens rowing,texas
+451,Mara Royse,"Stilwell, Kan.",Killeen,womens rowing,texas
+452,Maisie Sajbel,"Austin, Texas",Liberal Arts and Science Academy,womens rowing,texas
+453,Mary Schumann,N/A,N/A,womens rowing,texas
+454,Caitlin Shick,"Millbrae, Calif.",St. Ignatius College Prep,womens rowing,texas
+455,Milica Slijepcevic,"Novi Sad, Serbia",Gimnazija Jovan Jovanovic Zmaj,womens rowing,texas
+456,Mariam Soufi,"Atlanta, Ga.",Westminster,womens rowing,texas
+457,Hannah Thornton,"The Woodlands, Texas",The Woodlands,womens rowing,texas
+458,Maria Valencia,"Brownsville, Texas",Saint Joseph Academy,womens rowing,texas
+459,Paige Vinnicombe,"San Mateo, Calif.",St. Ignatius College Prep,womens rowing,texas
+460,Jenny Warren,"Athens, Texas",LaPoynor,womens rowing,texas
+461,Alexandra Watson,"Leicester, Great Britain",Robert Smyth Academy,womens rowing,texas
+462,Ciera Schick,"Rancho Cucamonga, Calif.",Los Osos,softball,texas
+463,Chloe Romero,"Helendale, Calif.",Academy of Careers & Exploration,softball,texas
+464,Janae  Jefferson,"Humble, Texas",Nimitz Senior,softball,texas
+465,Kaitlyn Slack,"Liberty, Texas",Liberty,softball,texas
+466,Janna Roberts,"Pearland, Texas",Pearland,softball,texas
+467,Reagan Hathaway,"Lenexa, Kan.",Olathe Northwest,softball,texas
+468,McKenzie Parker,"Conroe, Texas",Willis,softball,texas
+469,Ki'Audra Hayter,"Nacogdoches, Texas",Garrison,softball,texas
+470,Malory Schattle,"Salado, Texas",Salado,softball,texas
+471,Bekah Alcozer,"Belton, Texas",Belton,softball,texas
+472,Taylor Ellsworth,"Georgetown, Texas",Georgetown,softball,texas
+473,Brooke Bolinger,"Yucaipa, Calif.",Yucaipa,softball,texas
+474,Ariana Adams,"Magnolia, Texas",Magnolia West,softball,texas
+475,MK Tedder,"Hoover, Ala.",Spain Park,softball,texas
+476,Jaden Hoelker,"Aubrey, Texas",Billy Ryan,softball,texas
+477,Tuesday DerMargosian,"Fort Worth, Texas",Northwest,softball,texas
+478,Kaitlyn Washington,"Humble, Texas",Atascocita,softball,texas
+479,Shealyn  O'Leary,"Castaic, Calif.",Valencia,softball,texas
+480,Macy Smith,"Bigfoot, Texas",Lytle,softball,texas
+481,Micaya White,"Frisco, Texas",Centennial,womens volleyball,texas
+482,Jhenna Gabriel,"Honolulu, Hawaii",Maryknoll HS,womens volleyball,texas
+483,Riley Fisbeck,"La Grange, Texas",La Grange High School,womens volleyball,texas
+484,Claire Hahn,"Austin, Texas",Westlake High School,womens volleyball,texas
+485,Asjia O'Neal,"Southlake, Texas",Southlake Carroll,womens volleyball,texas
+486,Sydney Petersen,"Dike, Iowa",Dike-New Hartford HS,womens volleyball,texas
+487,Ashley  Shook,"Plainfield, Ill.",Plainfield Central High School,womens volleyball,texas
+488,Brionne Butler,"Kendleton, Texas",Boling High School,womens volleyball,texas
+489,Morgan Johnson,"DeSoto, Texas",DeSoto,womens volleyball,texas
+490,Autumn Rounsaville,"Dripping Springs, Texas",Dripping Springs High School,womens volleyball,texas
+491,Blair Westerlund,"Round Rock, Texas",Brentwood Christian School,womens volleyball,texas
+492,Yaasmeen Bedart-Ghani,"Los Angeles, Calif.",Redondo Union,womens volleyball,texas
+493,Logan Eggleston,"Brentwood, Tenn.",Brentwood HS,womens volleyball,texas
+494,Orie Agbaji,"Kansas City, Mo.",Oak Park High School,womens volleyball,texas

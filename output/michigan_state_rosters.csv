@@ -16,14 +16,17 @@
 14,george conner,"Okemos, Mich./Okemos","Okemos, Mich./Okemos","Okemos, Mich./Okemos",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,michigan_state
 15,ward nick,"Gahanna, Ohio/Lincoln","Gahanna, Ohio/Lincoln","Gahanna, Ohio/Lincoln",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,michigan_state
 0,colley shay,"Brampton, Ontario, Canada/South Carolina",N/A,"Brampton, Ontario, Canada/South Carolina",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
-1,cooks sidney,"Kenosha, Wis./St. Joseph High School",N/A,"Kenosha, Wis./St. Joseph High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
+1,ozment tory,"Buford, Ga./Buford High School",N/A,"Buford, Ga./Buford High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
 2,cook mardrekia,"Muskegon, Mich./Muskegon High School",N/A,"Muskegon, Mich./Muskegon High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
 3,mccutcheon taryn,"East Lansing, Mich./East Lansing High School",N/A,"East Lansing, Mich./East Lansing High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
 4,hendrickson claire,"Wyoming, Mich./Wyoming High School",N/A,"Wyoming, Mich./Wyoming High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
-5,dambo nathy,"Fort-de-France, Martinique/Junipero Serra High School",N/A,"Fort-de-France, Martinique/Junipero Serra High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
-6,hollie nia,"Minneapolis, Minn./Hopkins High School",N/A,"Minneapolis, Minn./Hopkins High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
-7,gaines victoria,"Merrillville, Ind./Merrillville High School",N/A,"Merrillville, Ind./Merrillville High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
-8,allen jenna,"Bedford, Ind./North Lawrence High School",N/A,"Bedford, Ind./North Lawrence High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
+5,cooks sidney,"Kenosha, Wis./St. Joseph High School",N/A,"Kenosha, Wis./St. Joseph High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
+6,dambo nathy,"Fort-de-France, Martinique/Junipero Serra High School",N/A,"Fort-de-France, Martinique/Junipero Serra High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
+7,hollie nia,"Minneapolis, Minn./Hopkins High School",N/A,"Minneapolis, Minn./Hopkins High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
+8,gaines victoria,"Merrillville, Ind./Merrillville High School",N/A,"Merrillville, Ind./Merrillville High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
+9,clouden nia,"Owing Mills, Md./St. Frances High School",N/A,"Owing Mills, Md./St. Frances High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
+10,allen jenna,"Bedford, Ind./North Lawrence High School",N/A,"Bedford, Ind./North Lawrence High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
+11,belles kayla,"Ithaca, Mich./Ithaca High School",N/A,"Ithaca, Mich./Ithaca High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens basketball,michigan_state
 0,gleaves danny,"Homer Glen, Ill.",N/A,St. Rita,Last Name,Hometown,N/A,Last School,baseball,michigan_state
 1,bechina marty,"Chicago, Ill.",N/A,St. Rita,Last Name,Hometown,N/A,Last School,baseball,michigan_state
 2,mccauley riley,"Sterling Heights, Mich.",N/A,Stevenson,Last Name,Hometown,N/A,Last School,baseball,michigan_state
@@ -154,62 +157,68 @@
 95,williams raequan,"Chicago, Ill. - DePaul College Prep",N/A,"Chicago, Ill. - DePaul College Prep",Last Name,Hometown - Last School,N/A,Hometown - Last School,football,michigan_state
 96,willis khari,"Jackson, Mich. - Lumen Christi",N/A,"Jackson, Mich. - Lumen Christi",Last Name,Hometown - Last School,N/A,Hometown - Last School,football,michigan_state
 0,hague jimmy,"Walled Lake, Mich./Walled Lake Western",N/A,"Walled Lake, Mich./Walled Lake Western",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
-1,scott ryan,"Grand Rapids, Mich./Forest Hills Eastern",N/A,"Grand Rapids, Mich./Forest Hills Eastern",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
-2,fiscus jimmy,"Novi, Mich./Northville",N/A,"Novi, Mich./Northville",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
+1,beck jack,"Dewitt, Mich./Dewitt",N/A,"Dewitt, Mich./Dewitt",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
+2,nielsen patrick,"Copenhagen, Denmark/Cincinnati",N/A,"Copenhagen, Denmark/Cincinnati",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
 3,woodruff nick,"Attleboro, Mass./Bishop Feehan",N/A,"Attleboro, Mass./Bishop Feehan",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
 4,pimlott michael,"Farmington Hills, Mich./Farmington",N/A,"Farmington Hills, Mich./Farmington",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
 5,jones dejuan,"Lansing, Mich./East Lansing",N/A,"Lansing, Mich./East Lansing",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
 6,barone hunter,"Grandville, Mich./East Kentwood",N/A,"Grandville, Mich./East Kentwood",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
-7,centala brad,"Grosse Pointe Woods, Mich./Grosse Pointe Woods North",N/A,"Grosse Pointe Woods, Mich./Grosse Pointe Woods North",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
-8,marcantognini michael,"Sudbury, Ontario/St. Andrews College",N/A,"Sudbury, Ontario/St. Andrews College",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
+7,shterenberg alex,"Westwood, Mass./Westwood",N/A,"Westwood, Mass./Westwood",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
+8,mutatu farai,"Haslett, Mich./Haslett",N/A,"Haslett, Mich./Haslett",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
 9,barone giuseppe,"Grandville, Mich./East Kentwood",N/A,"Grandville, Mich./East Kentwood",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
 10,sierakowski ryan,"McHenry, Ill./McHenry West",N/A,"McHenry, Ill./McHenry West",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
 11,freitag john,"Arlington Heights, Ill./DePaul",N/A,"Arlington Heights, Ill./DePaul",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
 12,cort robbie,"Bloomfield Hills, Mich./Brother Rice",N/A,"Bloomfield Hills, Mich./Brother Rice",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
-13,shterenberg alex,"Westwood, Mass./Westwood",N/A,"Westwood, Mass./Westwood",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
-14,thompson trey,"Arlington, Va./Courtland",N/A,"Arlington, Va./Courtland",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
+13,ogunwale olu,"East Brunswick, NJ/YSC Academy",N/A,"East Brunswick, NJ/YSC Academy",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
+14,stanley colton,"The Woodlands, TX/The Woodlands",N/A,"The Woodlands, TX/The Woodlands",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
 15,corrigan connor,"Fishers, Ind./Hamilton Southeastern",N/A,"Fishers, Ind./Hamilton Southeastern",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
 16,wetungu michael,"Rochester Hill, Mich./Adams",N/A,"Rochester Hill, Mich./Adams",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
 17,miller michael,"Normal, Ill./Normal Community",N/A,"Normal, Ill./Normal Community",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
 18,sweatte cody,"Bluemont, Va./Virginia Commonwealth",N/A,"Bluemont, Va./Virginia Commonwealth",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
-19,beckett michael,"Holly, Mich./St Mary's Prep",N/A,"Holly, Mich./St Mary's Prep",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
-20,krolicki ken,"Plymouth, Mich./Canton",N/A,"Plymouth, Mich./Canton",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
+19,ajroja julian,"Sleepy Hollow, Ill./Dundee Crown",N/A,"Sleepy Hollow, Ill./Dundee Crown",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
+20,perkins will,"Gross Pointe Park, Mich./UofD Jesuit",N/A,"Gross Pointe Park, Mich./UofD Jesuit",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
 21,menne luke,"Grand Ledge, Mich./Grand Ledge",N/A,"Grand Ledge, Mich./Grand Ledge",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
 22,wineman connor,"Petoskey, Mich./Petoskey",N/A,"Petoskey, Mich./Petoskey",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
-23,kovan zach,"Okemos, Mich./Okemos",N/A,"Okemos, Mich./Okemos",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
-24,stair philip,"Flint, Mich./Powers Catholic",N/A,"Flint, Mich./Powers Catholic",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
-25,morse hunter,"Belleville, Mich./Huron",N/A,"Belleville, Mich./Huron",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
-0,wojtanowski savanna,"Traverse City, Mich./Ferris State",N/A,"Traverse City, Mich./Ferris State",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-1,ott reilley,"Grapevine, Texas/Grapevine",N/A,"Grapevine, Texas/Grapevine",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-2,krause amy,"Brighton, Mich./Brighton",N/A,"Brighton, Mich./Brighton",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-3,stephan danielle,"DeWitt, Mich./DeWitt",N/A,"DeWitt, Mich./DeWitt",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-4,kovacs michaela,"Hudsonville, Mich./Hudsonville",N/A,"Hudsonville, Mich./Hudsonville",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-5,madrigal kassidy,"Scottsdale, Ariz./Notre Dame Prep",N/A,"Scottsdale, Ariz./Notre Dame Prep",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-6,franks lydia,"Kentwood, Mich./East Kentwood",N/A,"Kentwood, Mich./East Kentwood",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-7,duncan madison,"Troy, Mich./Louisiana-Lafayette",N/A,"Troy, Mich./Louisiana-Lafayette",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-8,fisher sofanit,"White Lake, Mich./Walled Lake Northern",N/A,"White Lake, Mich./Walled Lake Northern",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-9,jodzis bella,"Macomb, Mich./Utica Eisenhower",N/A,"Macomb, Mich./Utica Eisenhower",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-10,yewah kristelle,"East Lansing, Mich./Okemos",N/A,"East Lansing, Mich./Okemos",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-11,crowe julia,"Ann Arbor, Mich./Akron",N/A,"Ann Arbor, Mich./Akron",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-12,marx sabrina,"Spring, Texas/The Woodlands",N/A,"Spring, Texas/The Woodlands",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-13,biondi athena,"Penn Trafford, Pa./Penn Trafford",N/A,"Penn Trafford, Pa./Penn Trafford",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-14,warner lexy,"Ypsilanti, Mich./Father Gabriel Richard",N/A,"Ypsilanti, Mich./Father Gabriel Richard",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-15,cheslik jamie,"Northville, Mich./Northville",N/A,"Northville, Mich./Northville",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-16,thomas alexandra,"Dryden, Mich./Lapeer",N/A,"Dryden, Mich./Lapeer",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-17,jones hannah,"Port Huron, Mich./Northern",N/A,"Port Huron, Mich./Northern",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-18,childers lexi,"Grand Blanc, Mich./Grand Blanc",N/A,"Grand Blanc, Mich./Grand Blanc",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-19,gappy marta,"Woodbridge, Va./Osborn Park",N/A,"Woodbridge, Va./Osborn Park",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-20,oatis celia,"Maumee, Ohio/St. Ursula",N/A,"Maumee, Ohio/St. Ursula",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-21,jaqua devin,"Kalamazoo, Mich./Portage Central",N/A,"Kalamazoo, Mich./Portage Central",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-22,leon brielle,"La Quinta, Calif./La Quinta",N/A,"La Quinta, Calif./La Quinta",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-23,tanner brittany,"Caledonia, Mich./East Kentwood",N/A,"Caledonia, Mich./East Kentwood",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-24,misiewicz sadie,"Holland, Mich./Holland",N/A,"Holland, Mich./Holland",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-25,herring michelle,"Freeland, Mich./Freeland",N/A,"Freeland, Mich./Freeland",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-26,vandyke madison,"Hudsonville, Mich./Unity Christian",N/A,"Hudsonville, Mich./Unity Christian",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-27,cockerill brenna,"Brighton, Mich./Ferris State",N/A,"Brighton, Mich./Ferris State",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-28,mckerchie morgan,"Clio, Mich./Flint Powers",N/A,"Clio, Mich./Flint Powers",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-29,clem madison,"Okemos, Mich./Williamston",N/A,"Okemos, Mich./Williamston",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
-30,argeros olivia,"Oakland Twp., Mich./Rochester Adams",N/A,"Oakland Twp., Mich./Rochester Adams",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+23,azali karo,"Corpus Christi, TX/Flour Bluff",N/A,"Corpus Christi, TX/Flour Bluff",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
+24,kovan zach,"Okemos, Mich./Okemos",N/A,"Okemos, Mich./Okemos",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
+25,handspike isiah,"Dewitt, Mich./Spring Arbor",N/A,"Dewitt, Mich./Spring Arbor",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
+26,morse hunter,"Belleville, Mich./Huron",N/A,"Belleville, Mich./Huron",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
+27,hooten davis,"Rock Hill, SC/Northwestern",N/A,"Rock Hill, SC/Northwestern",Last Name,Hometown/Last School,N/A,Hometown/Last School,mens soccer,michigan_state
+0,clem madison,"Okemos, Mich./Williamston",N/A,"Okemos, Mich./Williamston",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+1,kozal lauren,"Ada, Mich./Forest Hills Northern",N/A,"Ada, Mich./Forest Hills Northern",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+2,ott reilley,"Grapevine, Texas/Grapevine",N/A,"Grapevine, Texas/Grapevine",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+3,krause amy,"Brighton, Mich./Brighton",N/A,"Brighton, Mich./Brighton",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+4,stephan danielle,"DeWitt, Mich./DeWitt",N/A,"DeWitt, Mich./DeWitt",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+5,kovacs michaela,"Hudsonville, Mich./Hudsonville",N/A,"Hudsonville, Mich./Hudsonville",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+6,madrigal kassidy,"Scottsdale, Ariz./Notre Dame Prep",N/A,"Scottsdale, Ariz./Notre Dame Prep",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+7,franks lydia,"Kentwood, Mich./East Kentwood",N/A,"Kentwood, Mich./East Kentwood",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+8,fregoli mya,"Washington Twp., Mich./Romeo",N/A,"Washington Twp., Mich./Romeo",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+9,fisher sofanit,"White Lake, Mich./Walled Lake Northern",N/A,"White Lake, Mich./Walled Lake Northern",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+10,jodzis bella,"Macomb, Mich./Utica Eisenhower",N/A,"Macomb, Mich./Utica Eisenhower",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+11,evans camryn,"Fenton, Mich./Flint Powers",N/A,"Fenton, Mich./Flint Powers",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+12,crowe julia,"Ann Arbor, Mich./Akron",N/A,"Ann Arbor, Mich./Akron",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+13,marx sabrina,"Spring, Texas/The Woodlands",N/A,"Spring, Texas/The Woodlands",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+14,biondi athena,"Penn Trafford, Pa./Penn Trafford",N/A,"Penn Trafford, Pa./Penn Trafford",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+15,warner lexy,"Ypsilanti, Mich./Father Gabriel Richard",N/A,"Ypsilanti, Mich./Father Gabriel Richard",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+16,wahlberg gia,"South Elgin, Ill./St. Charles North",N/A,"South Elgin, Ill./St. Charles North",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+17,thomas alexandra,"Dryden, Mich./Lapeer",N/A,"Dryden, Mich./Lapeer",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+18,jones hannah,"Port Huron, Mich./Northern",N/A,"Port Huron, Mich./Northern",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+19,childers alexandra,"Grand Blanc, Mich./Grand Blanc",N/A,"Grand Blanc, Mich./Grand Blanc",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+20,gappy marta,"Woodbridge, Va./Osborn Park",N/A,"Woodbridge, Va./Osborn Park",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+21,oatis celia,"Maumee, Ohio/St. Ursula",N/A,"Maumee, Ohio/St. Ursula",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+22,jaqua devin,"Kalamazoo, Mich./Portage Central",N/A,"Kalamazoo, Mich./Portage Central",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+23,gardiner abby,"Novi, Mich./Northville",N/A,"Novi, Mich./Northville",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+24,tanner brittany,"Caledonia, Mich./East Kentwood",N/A,"Caledonia, Mich./East Kentwood",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+25,misiewicz sadie,"Holland, Mich./Holland",N/A,"Holland, Mich./Holland",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+26,hart miranda,"Albuquerque, NM/St. Pius X",N/A,"Albuquerque, NM/St. Pius X",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+27,herring michelle,"Freeland, Mich./Freeland",N/A,"Freeland, Mich./Freeland",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+28,vandyke madison,"Hudsonville, Mich./Unity Christian",N/A,"Hudsonville, Mich./Unity Christian",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+29,cockerill brenna,"Brighton, Mich./Ferris State",N/A,"Brighton, Mich./Ferris State",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+30,diggins ava,"Far Hills, NJ/Gill St. Bernard's",N/A,"Far Hills, NJ/Gill St. Bernard's",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+31,sklarski samantha,"Grosse Pointe Park, Mich./Gross Pointe South",N/A,"Grosse Pointe Park, Mich./Gross Pointe South",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+32,white samantha,"Mckees Rocks, Penn./Montour",N/A,"Mckees Rocks, Penn./Montour",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+33,honet annabelle,"West Bloomfield, Mich./Groves",N/A,"West Bloomfield, Mich./Groves",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
+34,argeros olivia,"Oakland Twp., Mich./Rochester Adams",N/A,"Oakland Twp., Mich./Rochester Adams",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens soccer,michigan_state
 0,beadlescomb morgan,"Algonac, Mich./Algonac","Algonac, Mich./Algonac","Algonac, Mich./Algonac",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens cross country,michigan_state
 1,beauchamp luke,"Bellevue, Wash./Interlake","Bellevue, Wash./Interlake","Bellevue, Wash./Interlake",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens cross country,michigan_state
 2,benoit max,"Royal Oak, Mich./Royal Oak","Royal Oak, Mich./Royal Oak","Royal Oak, Mich./Royal Oak",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens cross country,michigan_state
@@ -559,28 +568,29 @@
 31,thompson austin,"Marysville, Mich./Marysville",N/A,"Marysville, Mich./Marysville",Last Name,Hometown/Last School,N/A,Hometown/Last School,wrestling,michigan_state
 32,tucker jake,"Lowell, Ind./Mt. Carmel (Ill.)",N/A,"Lowell, Ind./Mt. Carmel (Ill.)",Last Name,Hometown/Last School,N/A,Hometown/Last School,wrestling,michigan_state
 33,wilton brad,"Mason, Mich./Mason",N/A,"Mason, Mich./Mason",Last Name,Hometown/Last School,N/A,Hometown/Last School,wrestling,michigan_state
-0,fletcher mairi,"Glasgow, Scotland/Hutchesons' Grammar School",N/A,"Glasgow, Scotland/Hutchesons' Grammar School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
-1,miller katie,"Country Kildare, Ireland/The King's Hospital",N/A,"Country Kildare, Ireland/The King's Hospital",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
-2,santi grace,"Oceanport, NJ/Shore Regional",N/A,"Oceanport, NJ/Shore Regional",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
+0,arundell jade,"County Kildare, Ireland/The Kings Hospital",N/A,"County Kildare, Ireland/The Kings Hospital",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
+1,jardell monique,"Columbus, Ohio/Granvlle",N/A,"Columbus, Ohio/Granvlle",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
+2,mcdonough madeline,"Kennett Square, Pa./Unionville",N/A,"Kennett Square, Pa./Unionville",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
 3,siegel samantha,"Bedminster, NJ/Bernards High School",N/A,"Bedminster, NJ/Bernards High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
 4,robinson amanda,"Mount Joy, Pa./Donegal High School",N/A,"Mount Joy, Pa./Donegal High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
 5,sinisi lia,"North Caldwell, N.J./West Essex High School",N/A,"North Caldwell, N.J./West Essex High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
 6,cole meghan,"Chelsea, Mich./Chelsea",N/A,"Chelsea, Mich./Chelsea",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
 7,cole maggie,"Chelsea, Mich./Chelsea",N/A,"Chelsea, Mich./Chelsea",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
-8,macadré sophie,"Wellington, New Zealand/Queen Margaret College",N/A,"Wellington, New Zealand/Queen Margaret College",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
+8,ryan paige,"Pittsburgh, Pa./Fox Chapel Area",N/A,"Pittsburgh, Pa./Fox Chapel Area",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
 9,brown makenzie,"Glasgow, Scotland/Kelvinside Academy",N/A,"Glasgow, Scotland/Kelvinside Academy",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
 10,o'neill madison,"Hummelstown, Pa./Lower Dauphin High School",N/A,"Hummelstown, Pa./Lower Dauphin High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
 11,higgins bailey,"Louisville, KY/Assumption High School",N/A,"Louisville, KY/Assumption High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
 12,vann maddie,"Yorktown, VA/Tabb High School",N/A,"Yorktown, VA/Tabb High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
 13,ackers hannah,"White Haven, Pa./Crestwood",N/A,"White Haven, Pa./Crestwood",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
-14,vagnoni simone,"Collegeville, Pa./Spring-Ford",N/A,"Collegeville, Pa./Spring-Ford",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
-15,post sawyer,"Oceanside, California/Vista High School",N/A,"Oceanside, California/Vista High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
-16,anderson kendal,"Shaker Heights, Ohio/Shaker Heights",N/A,"Shaker Heights, Ohio/Shaker Heights",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
-17,mahon jillian,"Wilton, Conn./Wilton",N/A,"Wilton, Conn./Wilton",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
-18,bonshak cara,"Whitehall, Pa./Whitehall High School",N/A,"Whitehall, Pa./Whitehall High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
-19,ross meredith,"Berwyn, Pa./Conestoga High School",N/A,"Berwyn, Pa./Conestoga High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
-20,keener kelsey,"Millerstown, Pa./Greenwood",N/A,"Millerstown, Pa./Greenwood",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
-21,bonness lauren,"State College, Pa./State College Area",N/A,"State College, Pa./State College Area",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
+14,voorman daphne,"Laren, The Netherlands/Joke Smit College",N/A,"Laren, The Netherlands/Joke Smit College",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
+15,van der weij isa,"Bussum, The Netherlands/Sint Vitus College",N/A,"Bussum, The Netherlands/Sint Vitus College",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
+16,post sawyer,"Oceanside, California/Vista High School",N/A,"Oceanside, California/Vista High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
+17,osinga aisha,"Zeist, The Netherlands/Openbaar Lyceum Zeist",N/A,"Zeist, The Netherlands/Openbaar Lyceum Zeist",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
+18,mahon jillian,"Wilton, Conn./Wilton",N/A,"Wilton, Conn./Wilton",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
+19,bonshak cara,"Whitehall, Pa./Whitehall High School",N/A,"Whitehall, Pa./Whitehall High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
+20,ross meredith,"Berwyn, Pa./Conestoga High School",N/A,"Berwyn, Pa./Conestoga High School",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
+21,keener kelsey,"Millerstown, Pa./Greenwood",N/A,"Millerstown, Pa./Greenwood",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
+22,mack lori,"Shaker Heights, Ohio/Shaker Heights",N/A,"Shaker Heights, Ohio/Shaker Heights",Last Name,Hometown/Last School,N/A,Hometown/Last School,womens field hockey,michigan_state
 0,bagley madelyn,"Waterford, Mich/Our Lady of the Lakes","Waterford, Mich/Our Lady of the Lakes","Waterford, Mich/Our Lady of the Lakes",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,michigan_state
 1,becker jordan,"Flower Mound, Texas/Flower Mound","Flower Mound, Texas/Flower Mound","Flower Mound, Texas/Flower Mound",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,michigan_state
 2,bender molly,"Allen Park, Mich./Allen Park","Allen Park, Mich./Allen Park","Allen Park, Mich./Allen Park",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,michigan_state

@@ -7,13 +7,9 @@ import _proj_functions as proj
 import _lookups as lookups
 import re
 
-class MyOpener(FancyURLopener):
-	version = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11)'
-myopener = MyOpener()
-
 outdir = '../output'
 
-# cross country not formatted consistently - 4/17/2018
+# cross country not formatted consistently - 6/29/2018
 
 ##### ole miss #################
 school = 'ole_miss'

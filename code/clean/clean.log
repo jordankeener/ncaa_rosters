@@ -1,0 +1,2137 @@
+-----------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\jrk5012/Documents/GitHub/ncaa_rosters/code/clean/clean.
+> log
+  log type:  text
+ opened on:  17 Jul 2018, 23:06:15
+
+. 
+. run ${code}/ancillary_data/state_abbrevs.do
+
+. cd ${code}
+C:\Users\jrk5012\Documents\GitHub\ncaa_rosters\code\clean
+
+. run _clean_functions.do
+
+. 
+. // cleans raw roster data
+. 
+. ***************************************************************************
+> ***
+. // build local with schools and make schools dataset
+. import excel using ${homedir}/notes/schools.xlsx, clear firstrow
+
+. drop if missing(scrape_date)
+(0 observations deleted)
+
+. gen dset = subinstr(filename, ".py", "", 1)
+
+. local schools ""
+
+. local N = _N
+
+. forvalues i = 1/`N' {
+  2.         local x = dset[`i']
+  3.         local schools = "`schools' `x'"
+  4. }
+
+. 
+. // make school summary dataset
+. rename school   school_full_name
+
+. rename dset     school
+
+. assert table + ul + grid == 1
+
+. gen scrape_type = "table" if table==1
+(45 missing values generated)
+
+. replace scrape_type = "ul" if ul==1
+(41 real changes made)
+
+. replace scrape_type = "grid" if grid==1
+(4 real changes made)
+
+. local keepvars school school_full_name conference scrape_date football_url 
+> scrape_type
+
+. keep  `keepvars'
+
+. order `keepvars'
+
+. 
+. // school lists by scrape type
+. foreach stype in table ul grid {
+  2.         local schools_`stype' = ""
+  3.         forvalues i = 1/`N' {
+  4.                 local is_`stype' = scrape_type[`i'] == "`stype'"
+  5.                 if `is_`stype'' {
+  6.                         local x = school[`i']
+  7.                         local schools_`stype'= "`schools_`stype'' `x'"
+  8.                 }
+  9.         }
+ 10.         disp "`schools_`stype''"
+ 11. }
+ arkansas clemson florida_state georgia_tech illinois indiana louisville mich
+> igan_state nc_state northwestern notre_dame ohio_state oklahoma_state ole_m
+> iss penn_state south_carolina tcu vanderbilt wake_forest wisconsin
+ alabama arizona arizona_state auburn baylor boston_college cal colorado flor
+> ida georgia iowa iowa_state kansas kansas_state kentucky maryland miami mic
+> higan minnesota miss_state missouri oregon oregon_state pitt purdue rutgers
+>  stanford syracuse tennessee texas texas_am texas_tech ucla north_carolina 
+> usc utah virginia virginia_tech washington washington_state west_virginia
+ duke lsu nebraska oklahoma
+
+. 
+. 
+. la var school                           "College"
+
+. la var school_full_name         "Full College Name"
+
+. la var conference                       "Conference"
+
+. la var scrape_date                      "Date rosters scraped"
+
+. la var football_url             "URL of football roster"
+
+. 
+. rename school college
+
+. rename school_full_name college_full_name
+
+. 
+. export excel using ${outdata}/schools.csv, replace
+file C:\Users\jrk5012/Documents/GitHub/ncaa_rosters/output/cleaned/schools.cs
+> v saved
+
+. save ${outdata}/schools, replace
+file ~/Documents/GitHub/ncaa_rosters/output/cleaned/schools.dta saved
+
+. 
+. ***************************************************************************
+> ***
+. // loop through schools and combine by scrape type
+. 
+. foreach grp in table ul grid {
+  2.         clear
+  3.         tempfile `grp's
+  4.         local i = 0
+  5.         foreach school in `schools_`grp'' {
+  6.                 import delimited using ${indata}/`school'_rosters.csv, c
+> lear varnames(1)
+  7.                 cap drop v1
+  8. 
+.                 if `i'>0 {
+  9.                         append using ``grp's'
+ 10.                 }
+ 11.                 save ``grp's', replace
+ 12. 
+.                 local ++i
+ 13. 
+.         }
+ 14. }
+(11 vars, 480 obs)
+(note: file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp not found)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 297 obs)
+(note: variable name was str23, now str24 to accommodate using data's
+       values)
+(note: variable hometown was str30, now str32 to accommodate using data's
+       values)
+(note: variable highschool was str3, now str73 to accommodate using data's
+       values)
+(note: variable school was str30, now str73 to accommodate using data's
+       values)
+(note: variable highschooltext was str3, now str36 to accommodate using
+       data's values)
+(note: variable schooltext was str22, now str36 to accommodate using data's
+       values)
+(note: variable sport was str17, now str20 to accommodate using data's
+       values)
+(note: variable college was str7, now str8 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 553 obs)
+(note: variable name was str23, now str24 to accommodate using data's
+       values)
+(note: variable highschool was str36, now str73 to accommodate using data's
+       values)
+(note: variable school was str36, now str73 to accommodate using data's
+       values)
+(note: variable hometowntext was str8, now str22 to accommodate using
+       data's values)
+(note: variable highschooltext was str11, now str36 to accommodate using
+       data's values)
+(note: variable schooltext was str11, now str36 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 453 obs)
+(note: variable highschool was str72, now str73 to accommodate using data's
+       values)
+(note: variable school was str72, now str73 to accommodate using data's
+       values)
+(note: variable highschooltext was str33, now str36 to accommodate using
+       data's values)
+(note: variable schooltext was str33, now str36 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str12, now str13 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 501 obs)
+(note: variable hometown was str63, now str72 to accommodate using data's
+       values)
+(note: variable highschool was str63, now str73 to accommodate using data's
+       values)
+(note: variable school was str63, now str73 to accommodate using data's
+       values)
+(note: variable hometowntext was str22, now str33 to accommodate using
+       data's values)
+(note: variable highschooltext was str29, now str36 to accommodate using
+       data's values)
+(note: variable schooltext was str29, now str36 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str8, now str13 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 574 obs)
+(note: variable name was str21, now str36 to accommodate using data's
+       values)
+(note: variable hometowntext was str26, now str33 to accommodate using
+       data's values)
+(note: variable highschooltext was str22, now str36 to accommodate using
+       data's values)
+(note: variable schooltext was str26, now str36 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str7, now str13 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 550 obs)
+(note: variable name was str29, now str36 to accommodate using data's
+       values)
+(note: variable hometown was str89, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str89, now str90 to accommodate using data's
+       values)
+(note: variable school was str89, now str90 to accommodate using data's
+       values)
+(note: variable hometowntext was str26, now str33 to accommodate using
+       data's values)
+(note: variable highschooltext was str22, now str36 to accommodate using
+       data's values)
+(note: variable schooltext was str26, now str36 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str10, now str13 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 732 obs)
+(note: variable name was str28, now str36 to accommodate using data's
+       values)
+(note: variable hometown was str62, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str58, now str90 to accommodate using data's
+       values)
+(note: variable school was str62, now str90 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 542 obs)
+(note: variable name was str22, now str36 to accommodate using data's
+       values)
+(note: variable hometown was str54, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str66, now str90 to accommodate using data's
+       values)
+(note: variable school was str66, now str90 to accommodate using data's
+       values)
+(note: variable hometowntext was str24, now str37 to accommodate using
+       data's values)
+(note: variable highschooltext was str29, now str37 to accommodate using
+       data's values)
+(note: variable schooltext was str29, now str37 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str8, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 448 obs)
+(note: variable name was str24, now str36 to accommodate using data's
+       values)
+(note: variable hometown was str60, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str60, now str90 to accommodate using data's
+       values)
+(note: variable school was str60, now str90 to accommodate using data's
+       values)
+(note: variable nametext was str4, now str9 to accommodate using data's
+       values)
+(note: variable hometowntext was str22, now str37 to accommodate using
+       data's values)
+(note: variable highschooltext was str22, now str37 to accommodate using
+       data's values)
+(note: variable schooltext was str22, now str37 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str12, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 689 obs)
+(note: variable name was str28, now str36 to accommodate using data's
+       values)
+(note: variable hometown was str66, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str66, now str90 to accommodate using data's
+       values)
+(note: variable school was str66, now str90 to accommodate using data's
+       values)
+(note: variable hometowntext was str36, now str37 to accommodate using
+       data's values)
+(note: variable highschooltext was str36, now str37 to accommodate using
+       data's values)
+(note: variable schooltext was str36, now str37 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str10, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 878 obs)
+(note: variable name was str27, now str36 to accommodate using data's
+       values)
+(note: variable hometown was str67, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str49, now str90 to accommodate using data's
+       values)
+(note: variable school was str67, now str90 to accommodate using data's
+       values)
+(note: variable hometowntext was str33, now str37 to accommodate using
+       data's values)
+(note: variable highschooltext was str33, now str37 to accommodate using
+       data's values)
+(note: variable schooltext was str33, now str37 to accommodate using data's
+       values)
+(note: variable college was str10, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 465 obs)
+(note: variable name was str26, now str36 to accommodate using data's
+       values)
+(note: variable hometowntext was str22, now str37 to accommodate using
+       data's values)
+(note: variable highschooltext was str22, now str37 to accommodate using
+       data's values)
+(note: variable schooltext was str22, now str37 to accommodate using data's
+       values)
+(note: variable sport was str17, now str23 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 342 obs)
+(note: variable name was str21, now str36 to accommodate using data's
+       values)
+(note: variable hometown was str61, now str99 to accommodate using data's
+       values)
+(note: variable highschool was str61, now str99 to accommodate using data's
+       values)
+(note: variable school was str61, now str99 to accommodate using data's
+       values)
+(note: variable hometowntext was str33, now str37 to accommodate using
+       data's values)
+(note: variable highschooltext was str33, now str37 to accommodate using
+       data's values)
+(note: variable schooltext was str33, now str37 to accommodate using data's
+       values)
+(note: variable sport was str17, now str23 to accommodate using data's
+       values)
+(note: variable college was str8, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 787 obs)
+(note: variable name was str25, now str36 to accommodate using data's
+       values)
+(note: variable hometown was str72, now str99 to accommodate using data's
+       values)
+(note: variable highschool was str72, now str99 to accommodate using data's
+       values)
+(note: variable school was str72, now str99 to accommodate using data's
+       values)
+(note: variable hometowntext was str33, now str37 to accommodate using
+       data's values)
+(note: variable highschooltext was str33, now str37 to accommodate using
+       data's values)
+(note: variable schooltext was str33, now str37 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str10, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 542 obs)
+(note: variable name was str30, now str36 to accommodate using data's
+       values)
+(note: variable hometown was str62, now str99 to accommodate using data's
+       values)
+(note: variable highschool was str62, now str99 to accommodate using data's
+       values)
+(note: variable school was str62, now str99 to accommodate using data's
+       values)
+(note: variable hometowntext was str33, now str37 to accommodate using
+       data's values)
+(note: variable highschooltext was str33, now str37 to accommodate using
+       data's values)
+(note: variable schooltext was str33, now str37 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 444 obs)
+(note: variable name was str22, now str36 to accommodate using data's
+       values)
+(note: variable hometown was str27, now str99 to accommodate using data's
+       values)
+(note: variable highschool was str41, now str99 to accommodate using data's
+       values)
+(note: variable school was str41, now str99 to accommodate using data's
+       values)
+(note: variable hometowntext was str8, now str37 to accommodate using
+       data's values)
+(note: variable highschooltext was str11, now str37 to accommodate using
+       data's values)
+(note: variable schooltext was str11, now str37 to accommodate using data's
+       values)
+(note: variable college was str3, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 341 obs)
+(note: variable name was str21, now str36 to accommodate using data's
+       values)
+(note: variable hometown was str77, now str99 to accommodate using data's
+       values)
+(note: variable highschool was str77, now str99 to accommodate using data's
+       values)
+(note: variable school was str77, now str99 to accommodate using data's
+       values)
+(note: variable hometowntext was str33, now str37 to accommodate using
+       data's values)
+(note: variable highschooltext was str33, now str37 to accommodate using
+       data's values)
+(note: variable schooltext was str33, now str37 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str10, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 394 obs)
+(note: variable name was str22, now str36 to accommodate using data's
+       values)
+(note: variable hometown was str55, now str99 to accommodate using data's
+       values)
+(note: variable highschool was str53, now str99 to accommodate using data's
+       values)
+(note: variable school was str55, now str99 to accommodate using data's
+       values)
+(note: variable hometowntext was str33, now str37 to accommodate using
+       data's values)
+(note: variable highschooltext was str33, now str37 to accommodate using
+       data's values)
+(note: variable schooltext was str33, now str37 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str11, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(11 vars, 742 obs)
+(note: variable name was str27, now str36 to accommodate using data's
+       values)
+(note: variable hometown was str97, now str99 to accommodate using data's
+       values)
+(note: variable highschool was str97, now str99 to accommodate using data's
+       values)
+(note: variable school was str97, now str99 to accommodate using data's
+       values)
+(note: variable hometowntext was str22, now str37 to accommodate using
+       data's values)
+(note: variable highschooltext was str25, now str37 to accommodate using
+       data's values)
+(note: variable schooltext was str25, now str37 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str9, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(6 vars, 504 obs)
+(note: file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp not found)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 456 obs)
+(note: variable hometown was str32, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str55, now str99 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 578 obs)
+(note: variable name was str24, now str26 to accommodate using data's
+       values)
+(note: variable hometown was str49, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str45, now str99 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 446 obs)
+(note: variable name was str21, now str26 to accommodate using data's
+       values)
+(note: variable hometown was str44, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str34, now str99 to accommodate using data's
+       values)
+(note: variable sport was str17, now str23 to accommodate using data's
+       values)
+(note: variable college was str6, now str13 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 471 obs)
+(note: variable name was str21, now str26 to accommodate using data's
+       values)
+(note: variable hometown was str28, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str38, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str6, now str13 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 718 obs)
+(note: variable name was str25, now str26 to accommodate using data's
+       values)
+(note: variable hometown was str34, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str51, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 790 obs)
+(note: variable name was str25, now str26 to accommodate using data's
+       values)
+(note: variable hometown was str32, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str63, now str99 to accommodate using data's
+       values)
+(note: variable college was str3, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 385 obs)
+(note: variable name was str23, now str26 to accommodate using data's
+       values)
+(note: variable hometown was str33, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str71, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str8, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 518 obs)
+(note: variable name was str24, now str26 to accommodate using data's
+       values)
+(note: variable hometown was str40, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str52, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str7, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 525 obs)
+(note: variable name was str25, now str26 to accommodate using data's
+       values)
+(note: variable hometown was str81, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str97, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str7, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 612 obs)
+(note: variable name was str22, now str26 to accommodate using data's
+       values)
+(note: variable hometown was str43, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str77, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str4, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 394 obs)
+(note: variable name was str23, now str26 to accommodate using data's
+       values)
+(note: variable hometown was str31, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str37, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str10, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 445 obs)
+(note: variable name was str25, now str26 to accommodate using data's
+       values)
+(note: variable hometown was str25, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str46, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str6, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 380 obs)
+(note: variable name was str19, now str26 to accommodate using data's
+       values)
+(note: variable hometown was str45, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str46, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str12, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 415 obs)
+(note: variable hometown was str33, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str40, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str8, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 483 obs)
+(note: variable name was str23, now str26 to accommodate using data's
+       values)
+(note: variable hometown was str30, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str49, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str8, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 355 obs)
+(note: variable hometown was str28, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str54, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str5, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 822 obs)
+(note: variable name was str26, now str27 to accommodate using data's
+       values)
+(note: variable hometown was str30, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str76, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str8, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 682 obs)
+(note: variable hometown was str26, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str78, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str9, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 386 obs)
+(note: variable name was str24, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str24, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str43, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str10, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 511 obs)
+(note: variable name was str25, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str30, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str44, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str8, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 418 obs)
+(note: variable name was str25, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str25, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str43, now str99 to accommodate using data's
+       values)
+(note: variable college was str6, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 447 obs)
+(note: variable name was str24, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str27, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str47, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str12, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 431 obs)
+(note: variable name was str24, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str60, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str74, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str4, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 370 obs)
+(note: variable name was str22, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str73, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str85, now str99 to accommodate using data's
+       values)
+(note: variable sport was str17, now str23 to accommodate using data's
+       values)
+(note: variable college was str6, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 631 obs)
+(note: variable name was str24, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str35, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str49, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str7, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 847 obs)
+(note: variable name was str24, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str43, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str47, now str99 to accommodate using data's
+       values)
+(note: variable college was str8, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 520 obs)
+(note: variable name was str23, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str38, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str65, now str99 to accommodate using data's
+       values)
+(note: variable sport was str19, now str23 to accommodate using data's
+       values)
+(note: variable college was str8, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 501 obs)
+(note: variable name was str23, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str28, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str76, now str99 to accommodate using data's
+       values)
+(note: variable sport was str17, now str23 to accommodate using data's
+       values)
+(note: variable college was str9, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 495 obs)
+(note: variable name was str22, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str33, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str44, now str99 to accommodate using data's
+       values)
+(note: variable sport was str17, now str23 to accommodate using data's
+       values)
+(note: variable college was str5, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 537 obs)
+(note: variable name was str26, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str33, now str83 to accommodate using data's
+       values)
+(note: variable highschool was str63, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str8, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 407 obs)
+(note: variable name was str26, now str58 to accommodate using data's
+       values)
+(note: variable highschool was str95, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str10, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 645 obs)
+(note: variable name was str23, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str28, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str45, now str99 to accommodate using data's
+       values)
+(note: variable college was str4, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 752 obs)
+(note: variable name was str24, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str30, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str55, now str99 to accommodate using data's
+       values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 510 obs)
+(note: variable name was str28, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str88, now str90 to accommodate using data's
+       values)
+(note: variable college was str3, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 431 obs)
+(note: variable name was str26, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str34, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str79, now str154 to accommodate using
+       data's values)
+(note: variable college was str4, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 650 obs)
+(note: variable name was str22, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str35, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str46, now str154 to accommodate using
+       data's values)
+(note: variable sport was str19, now str23 to accommodate using data's
+       values)
+(note: variable college was str8, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 555 obs)
+(note: variable name was str24, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str40, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str54, now str154 to accommodate using
+       data's values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str13, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 574 obs)
+(note: variable name was str22, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str35, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str40, now str154 to accommodate using
+       data's values)
+(note: variable college was str10, now str14 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 408 obs)
+(note: variable name was str24, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str31, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str39, now str154 to accommodate using
+       data's values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(6 vars, 434 obs)
+(note: variable name was str25, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str47, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str83, now str154 to accommodate using
+       data's values)
+(note: variable sport was str20, now str23 to accommodate using data's
+       values)
+(note: variable college was str13, now str16 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(7 vars, 578 obs)
+(note: file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000003.tmp not found)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000003.tmp saved
+(7 vars, 427 obs)
+(note: variable hometown was str34, now str38 to accommodate using data's
+       values)
+(note: variable high_school was str40, now str56 to accommodate using
+       data's values)
+(note: variable college was str3, now str4 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000003.tmp saved
+(7 vars, 597 obs)
+(note: variable hometown was str27, now str38 to accommodate using data's
+       values)
+(note: variable high_school was str42, now str56 to accommodate using
+       data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000003.tmp saved
+(7 vars, 466 obs)
+(note: variable name was str23, now str24 to accommodate using data's
+       values)
+(note: variable hometown was str30, now str38 to accommodate using data's
+       values)
+(note: variable sport was str19, now str23 to accommodate using data's
+       values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000003.tmp saved
+
+. 
+. // unordered lists - easy
+. use `uls', clear
+
+. replace highschool = "" if highschool == "N/A"
+(1,410 real changes made)
+
+. replace highschool = stritrim(highschool)
+(520 real changes made)
+
+. tempfile full
+
+. save `full'
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000004.tmp saved
+
+. 
+. // grids - easy
+. use `grids', clear
+
+. rename high_school highschool
+
+. assert !missing(highschool) & highschool != "N/A"
+
+. replace highschool = stritrim(highschool)
+(0 real changes made)
+
+. // fix sport name in cases where gender specified
+. replace sport = subinstr(sport, "mixed", "mens", 1) if gender == "Men"
+(267 real changes made)
+
+. replace sport = subinstr(sport, "mixed", "womens", 1) if gender == "Women"
+(317 real changes made)
+
+. drop gender
+
+. append using `full'
+(note: variable name was str24, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str38, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str60, now str154 to accommodate using
+       data's values)
+(note: variable college was str8, now str16 to accommodate using data's
+       values)
+
+. save `full', replace
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000004.tmp saved
+
+. 
+. // tables - harder but more structured
+. use `tables', clear
+
+. foreach v of varlist *text {
+  2.         replace `v' = upper(`v')
+  3. }
+(10,556 real changes made)
+(10,423 real changes made)
+(6,677 real changes made)
+(9,844 real changes made)
+
+. tab hometowntext
+
+                        hometown text |      Freq.     Percent        Cum.
+--------------------------------------+-----------------------------------
+                             HOMETOWN |      3,987       37.07       37.07
+               HOMETOWN (HIGH SCHOOL) |        355        3.30       40.38
+               HOMETOWN (LAST SCHOOL) |        642        5.97       46.35
+               HOMETOWN (PREV SCHOOL) |        872        8.11       54.45
+               HOMETOWN - LAST SCHOOL |        163        1.52       55.97
+               HOMETOWN / HIGH SCHOOL |      1,469       13.66       69.63
+                        HOMETOWN / HS |        120        1.12       70.75
+               HOMETOWN / LAST SCHOOL |          9        0.08       70.83
+           HOMETOWN / PREVIOUS SCHOOL |        213        1.98       72.81
+                 HOMETOWN/HIGH SCHOOL |      1,607       14.94       87.75
+         HOMETOWN/HIGH SCHOOL/COLLEGE |         37        0.34       88.10
+    HOMETOWN/HIGH SCHOOL/LAST COLLEGE |        845        7.86       95.95
+     HOMETOWN/HIGH SCHOOL/LAST SCHOOL |         49        0.46       96.41
+HOMETOWN/HIGH SCHOOL/PREVIOUS COLLEGE |         12        0.11       96.52
+ HOMETOWN/HIGH SCHOOL/PREVIOUS SCHOOL |         30        0.28       96.80
+                 HOMETOWN/LAST SCHOOL |        180        1.67       98.47
+             HOMETOWN/PREVIOUS SCHOOL |         88        0.82       99.29
+               LAST SCHOOL - HOMETOWN |         36        0.33       99.63
+                                  N/A |         40        0.37      100.00
+--------------------------------------+-----------------------------------
+                                Total |     10,754      100.00
+
+. tab highschooltext
+
+                     high school text |      Freq.     Percent        Cum.
+--------------------------------------+-----------------------------------
+                          HIGH SCHOOL |      1,585       14.74       14.74
+            HIGH SCHOOL (LAST SCHOOL) |         56        0.52       15.26
+        HIGH SCHOOL (PREVIOUS SCHOOL) |          9        0.08       15.34
+ HIGH SCHOOL (PREVIOUS SCHOOL) / CLUB |         30        0.28       15.62
+            HIGH SCHOOL / LAST SCHOOL |         29        0.27       15.89
+        HIGH SCHOOL / PREVIOUS SCHOOL |        128        1.19       17.08
+                   HIGH SCHOOL SPORTS |         47        0.44       17.52
+              HIGH SCHOOL/LAST SCHOOL |        228        2.12       19.64
+          HIGH SCHOOL/PREVIOUS SCHOOL |        452        4.20       23.84
+               HOMETOWN (HIGH SCHOOL) |        355        3.30       27.14
+               HOMETOWN / HIGH SCHOOL |      1,469       13.66       40.80
+                 HOMETOWN/HIGH SCHOOL |      1,607       14.94       55.75
+         HOMETOWN/HIGH SCHOOL/COLLEGE |         37        0.34       56.09
+    HOMETOWN/HIGH SCHOOL/LAST COLLEGE |        845        7.86       63.95
+     HOMETOWN/HIGH SCHOOL/LAST SCHOOL |         49        0.46       64.40
+HOMETOWN/HIGH SCHOOL/PREVIOUS COLLEGE |         12        0.11       64.52
+ HOMETOWN/HIGH SCHOOL/PREVIOUS SCHOOL |         30        0.28       64.79
+                                  N/A |      3,786       35.21      100.00
+--------------------------------------+-----------------------------------
+                                Total |     10,754      100.00
+
+. gen ht_hs_same = hometowntext == highschooltext
+
+. tab ht_hs_same
+
+ ht_hs_same |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |      6,350       59.05       59.05
+          1 |      4,404       40.95      100.00
+------------+-----------------------------------
+      Total |     10,754      100.00
+
+. 
+. ** basic cases
+. gen ht_clean = hometown if hometowntext == "HOMETOWN"
+(6,785 missing values generated)
+
+. gen hs_clean = highschool if highschooltext == "HIGH SCHOOL"
+(9,190 missing values generated)
+
+. 
+. replace ht_clean = strtrim(substr(hometown, strpos(hometown, "-") + 1, .)) 
+> ///
+>                                         if hometowntext == "LAST SCHOOL - H
+> OMETOWN"
+(36 real changes made)
+
+. 
+. ** hometown is always first other than the one above
+. local chr_list "(" "-" "/"
+
+. foreach chr in "`chr_list'" {
+  2.         replace ht_clean = strtrim(substr(hometown, 1, strpos(hometown, 
+> "`chr'")-1)) ///
+>                 if missing(ht_clean) & strpos(hometowntext, "`chr'") != 0 &
+>  hometowntext != "N/A"
+  3. 
+.         replace ht_clean = hometown if strpos(hometowntext, "`chr'") > 0 & 
+> ///
+>                 strpos(hometown, "`chr'") == 0 & missing(ht_clean)
+  4. }
+(1,469 real changes made)
+(395 real changes made)
+(163 real changes made)
+(0 real changes made)
+(4,583 real changes made)
+(67 real changes made)
+
+. 
+. ** if hometown not in high school field, high school is always first
+. ** same approach as with hometown above
+. local chr_list "(" "/"
+
+. foreach chr in "`chr_list'" {
+  2.         replace hs_clean = strtrim(substr(highschool, 1, strpos(highscho
+> ol, "`chr'")-1)) ///
+>                 if strpos(highschooltext, "HOMETOWN") == 0 & missing(hs_cle
+> an) & highschooltext != "N/A"
+  3. 
+.         replace hs_clean = highschool if strpos(highschooltext, "HOMETOWN")
+>  == 0 & ///
+>                 missing(hs_clean) & highschooltext != "N/A" & ///
+>                 strpos(highschool, "`chr'") == 0 & strpos(highschooltext, "
+> `chr'") > 0
+  4. }
+(22 real changes made)
+(89 real changes made)
+(99 real changes made)
+(719 real changes made)
+
+. 
+. ** cases where hometown and high school need to be separated
+. tempvar x
+
+. gen `x' = strpos(highschool, "(") + 1
+
+. replace hs_clean = strtrim(substr(highschool, `x', strlen(highschool) - `x'
+> )) ///
+>         if highschooltext == "HOMETOWN (HIGH SCHOOL)" & strpos(highschool, 
+> "(") > 0
+(340 real changes made)
+
+. drop `x'
+
+. 
+. tempvar x
+
+. gen `x' = strpos(highschool, "/") + 1
+
+. replace hs_clean = strtrim(substr(highschool, `x', .)) ///
+>         if inlist(highschooltext, "HOMETOWN / HIGH SCHOOL", "HOMETOWN/HIGH 
+> SCHOOL") & `x' > 1
+(3,011 real changes made)
+
+. 
+. ** high school if between /
+. replace hs_clean = strtrim(substr(highschool, `x', strrpos(highschool, "/")
+>  - `x')) ///
+>         if strrpos(highschool, "/") > strpos(highschool, "/") & strrpos(hig
+> hschool, "/") > 0 & ///
+>         inlist(highschooltext, "HOMETOWN/HIGH SCHOOL/COLLEGE", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/LA
+> ST COLLEGE", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/LA
+> ST SCHOOL", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/PR
+> EV. COLLEGE", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/PR
+> EVIOUS COLLEGE", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/PR
+> EVIOUS SCHOOL")
+(83 real changes made)
+
+. 
+. ** high school if no other/previous school
+. replace hs_clean = strtrim(substr(highschool, `x', .)) ///
+>         if strrpos(highschool, "/") == strpos(highschool, "/") & strrpos(hi
+> ghschool, "/") > 0 & ///
+>         inlist(highschooltext, "HOMETOWN/HIGH SCHOOL/COLLEGE", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/LA
+> ST COLLEGE", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/LA
+> ST SCHOOL", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/PR
+> EV. COLLEGE", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/PR
+> EVIOUS COLLEGE", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/PR
+> EVIOUS SCHOOL")
+(869 real changes made)
+
+. drop `x'
+
+. 
+. 
+. ** now need to use "school" field where highschooltext == "N/A"
+. gen ls_clean = ""
+(10,754 missing values generated)
+
+. la var ls_clean "Last/Previous School"
+
+. // list school if missing(hs_clean) & schooltext == "HOMETOWN (LAST SCHOOL)
+> "
+. 
+. replace ls_clean = school if inlist(schooltext, "LAST SCHOOL", "PREV SCHOOL
+> ", "PREVIOUS SCHOOL")
+variable ls_clean was str1 now str49
+(819 real changes made)
+
+. 
+. tempvar x
+
+. gen `x' = strpos(school, "(") + 1
+
+. replace ls_clean = strtrim(substr(school, `x', strlen(school) - `x')) ///
+>         if inlist(schooltext, "HOMETOWN (LAST SCHOOL)", "HOMETOWN (PREV SCH
+> OOL)") & strpos(school, "(") > 0
+(1,129 real changes made)
+
+. drop `x'
+
+. 
+. tempvar x
+
+. gen `x' = strpos(school, "-") + 1
+
+. replace ls_clean = strtrim(substr(school, `x', strlen(school) - `x')) ///
+>         if inlist(schooltext, "HOMETOWN - LAST SCHOOL") & strpos(school, "-
+> ") > 0
+(163 real changes made)
+
+. replace ls_clean = strtrim(substr(school, 1, `x' - 1)) ///
+>         if schooltext == "LAST SCHOOL - HOMETOWN" & strpos(school, "-") > 0
+(36 real changes made)
+
+. drop `x'
+
+. 
+. tempvar x
+
+. gen `x' = strpos(school, "/") + 1
+
+. replace ls_clean = strtrim(substr(school, `x', strlen(school) - `x')) ///
+>         if inlist(schooltext, "HOMETOWN / LAST SCHOOL", "HOMETOWN / PREVIOU
+> S SCHOOL", ///
+>         "HOMETOWN/LAST SCHOOL", "HOMETOWN/PREVIOUS SCHOOL") & strpos(school
+> , "/") > 0
+variable ls_clean was str49 now str66
+(467 real changes made)
+
+. drop `x'
+
+. 
+. // converting these + high school to "prevschool" variable
+. replace hs_clean = ls_clean if missing(hs_clean)
+(2,614 real changes made)
+
+. 
+. replace ht_clean = strtrim(stritrim(ht_clean))
+(28 real changes made)
+
+. replace hs_clean = strtrim(stritrim(hs_clean))
+(37 real changes made)
+
+. 
+. keep name ht_clean hs_clean sport college
+
+. rename ht_clean hometown
+
+. rename hs_clean highschool
+
+. 
+. append using `full'
+(note: variable name was str36, now str58 to accommodate using data's
+       values)
+(note: variable hometown was str84, now str90 to accommodate using data's
+       values)
+(note: variable highschool was str74, now str154 to accommodate using
+       data's values)
+(note: variable college was str14, now str16 to accommodate using data's
+       values)
+
+. 
+. rename highschool prevschool 
+
+. 
+. compress
+  variable prevschool was str154 now str83
+  (2,432,531 bytes saved)
+
+. save `full', replace
+file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000004.tmp saved
+
+. 
+. 
+. ***************************************************************************
+> ****
+. use `full', clear
+
+. //  clean hometown variable and match to correct state variable
+. parse_hometown, hometown(hometown) city(city) state(state)
+(72 missing values generated)
+(11 real changes made)
+(463 real changes made)
+(64 real changes made)
+(648 missing values generated)
+(72 missing values generated)
+
+. do _match_state_abbrev.do
+
+. // dummy example
+. 
+. // // make crosswalk
+. // clear
+. // set obs 2
+. // forvalues i = 1/3 {
+. //      gen x`i' = ""
+. // }
+. //
+. // replace x1 = "IN" in 1
+. // replace x1 = "IL" in 2
+. // replace x2 = "Ind." in 1
+. // replace x2 = "Ill." in 2
+. // replace x3 = "Indiana" in 1
+. // replace x3 = "Illinois" in 2
+. //
+. // tempfile crosswalk
+. // save `crosswalk', replace
+. //
+. // // make data
+. // clear
+. // set obs 8
+. // gen state = ""
+. // replace state = "Ind." in 1
+. // replace state = "Ill." in 2
+. // replace state = "IN" in 3
+. // replace state = "Illinois" in 4
+. // replace state = "Ind." in 5
+. // replace state = "Ill." in 6
+. // replace state = "IN" in 7
+. // replace state = "Illi" in 8
+. //
+. // // algorithm
+. // gen desired_state = ""
+. // forval j = 1/3 {
+. //      gen x`j' = state
+. //      merge m:1 x`j' using `crosswalk', keep(1 3) keepusing(x1)
+. //      replace desired_state = x1 if _merge==3
+. //      drop x`j' _merge
+. //      cap drop x1
+. // }
+. 
+. ***************************************************************************
+> *
+. // _match_state_abbrev
+. * attempts to merge the state variable with all possible types in state_abb
+> revs
+. quietly {
+
+. 
+end of do-file
+
+. gen nonUS = missing(desired_state)
+
+. rename state state_country_raw
+
+. order state_country_raw, after(hometown)
+
+. rename desired_state state
+
+. replace city = "" if missing(state)
+(3,149 real changes made)
+
+. 
+. rename nonUS nonUSmatch
+
+. 
+. // check false positives
+. preserve
+
+.         drop if missing(state)
+(3,796 observations deleted)
+
+.         levelsof state, local(states)
+`"AK"' `"AL"' `"AR"' `"AZ"' `"CA"' `"CO"' `"CT"' `"DC"' `"DE"' `"FL"' `"GA"' 
+> `"HI"' `"IA"' `"ID"' `"IL"' `"IN"' `"KS"' `"KY"' `"LA"' `"MA"' `"MD"' `"ME"
+> ' `"MI"' `"MN"' `"MO"' `"MS"' `"MT"' `"NC"' `"ND"' `"NE"' `"NH"' `"NJ"' `"N
+> M"' `"NV"' `"NY"' `"OH"' `"OK"' `"OR"' `"PA"' `"RI"' `"SC"' `"SD"' `"TN"' `
+> "TX"' `"UT"' `"VA"' `"VT"' `"WA"' `"WI"' `"WV"' `"WY"'
+
+.         foreach state in `states' {
+  2.                 disp "`state'"
+  3.                 tab state_country_raw if state=="`state'"
+  4.                 disp ""
+  5.                 disp "***************************"
+  6.         }
+AK
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     AK |          3       13.04       13.04
+                                 Alaska |         20       86.96      100.00
+----------------------------------------+-----------------------------------
+                                  Total |         23      100.00
+
+***************************
+AL
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     AL |         47       10.06       10.06
+                                    Ala |          1        0.21       10.28
+                                   Ala. |        415       88.87       99.14
+                                Alabama |          4        0.86      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        467      100.00
+
+***************************
+AR
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     AR |          9        4.95        4.95
+                                    Ark |          2        1.10        6.04
+                                   Ark. |        166       91.21       97.25
+                               Arkansas |          5        2.75      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        182      100.00
+
+***************************
+AZ
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     AZ |         11        2.18        2.18
+                                    AZ. |          1        0.20        2.38
+                                   Ariz |          2        0.40        2.77
+                                  Ariz. |        482       95.45       98.22
+                                Arizona |          8        1.58       99.80
+                                    Az. |          1        0.20      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        505      100.00
+
+***************************
+CA
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     CA |        231        6.52        6.52
+                                    CA. |          2        0.06        6.57
+                                    Ca. |          4        0.11        6.69
+                                  Calif |         24        0.68        7.36
+                                 Calif. |      3,259       91.93       99.29
+                             California |         25        0.71      100.00
+----------------------------------------+-----------------------------------
+                                  Total |      3,545      100.00
+
+***************************
+CO
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     CO |         19        3.35        3.35
+                                    Co. |          5        0.88        4.23
+                                   Col. |          6        1.06        5.29
+                                  Colo. |        522       92.06       97.35
+                               Colorado |         15        2.65      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        567      100.00
+
+***************************
+CT
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     CT |         14        4.43        4.43
+                                    CT. |          1        0.32        4.75
+                                   Conn |          1        0.32        5.06
+                                  Conn. |        293       92.72       97.78
+                            Connecticut |          5        1.58       99.37
+                                    Ct. |          2        0.63      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        316      100.00
+
+***************************
+DC
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                   D.C. |         63       92.65       92.65
+                                     DC |          5        7.35      100.00
+----------------------------------------+-----------------------------------
+                                  Total |         68      100.00
+
+***************************
+DE
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     DE |          4        6.15        6.15
+                                   Del. |         61       93.85      100.00
+----------------------------------------+-----------------------------------
+                                  Total |         65      100.00
+
+***************************
+FL
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     FL |        152        7.88        7.88
+                                    Fl. |          2        0.10        7.98
+                                    Fla |          4        0.21        8.19
+                                   Fla. |      1,739       90.10       98.29
+                                Florida |         33        1.71      100.00
+----------------------------------------+-----------------------------------
+                                  Total |      1,930      100.00
+
+***************************
+GA
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     GA |         75        4.78        4.78
+                                    GA. |          1        0.06        4.84
+                                     Ga |          2        0.13        4.97
+                                    Ga. |      1,473       93.82       98.79
+                                Georgia |         18        1.15       99.94
+                               Georgia. |          1        0.06      100.00
+----------------------------------------+-----------------------------------
+                                  Total |      1,570      100.00
+
+***************************
+HI
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     HI |         11        7.86        7.86
+                                   Haw. |          1        0.71        8.57
+                                Hawai'I |          1        0.71        9.29
+                                Hawai'i |         33       23.57       32.86
+                                 Hawaii |         93       66.43       99.29
+                                     Hi |          1        0.71      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        140      100.00
+
+***************************
+IA
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     IA |         13        2.61        2.61
+                                    Ia. |          1        0.20        2.81
+                                   Iowa |        484       96.99       99.80
+                                  Iowa. |          1        0.20      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        499      100.00
+
+***************************
+ID
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     ID |          2        2.50        2.50
+                                    Id. |          1        1.25        3.75
+                                   Ida. |          1        1.25        5.00
+                                  Idaho |         76       95.00      100.00
+----------------------------------------+-----------------------------------
+                                  Total |         80      100.00
+
+***************************
+IL
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     IL |         62        4.29        4.29
+                                    IL. |          1        0.07        4.36
+                                    Ill |          8        0.55        4.91
+                                   Ill. |      1,318       91.21       96.12
+                               Illinois |         56        3.88      100.00
+----------------------------------------+-----------------------------------
+                                  Total |      1,445      100.00
+
+***************************
+IN
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     IN |         25        3.29        3.29
+                                    Ind |          2        0.26        3.55
+                                   Ind. |        722       94.88       98.42
+                                Indiana |         12        1.58      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        761      100.00
+
+***************************
+KS
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     KS |          9        1.91        1.91
+                                    Kan |          1        0.21        2.13
+                                   Kan. |        422       89.79       91.91
+                                 Kansas |         35        7.45       99.36
+                                    Ks. |          3        0.64      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        470      100.00
+
+***************************
+KY
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     KY |         13        3.54        3.54
+                                  Kent. |          1        0.27        3.81
+                               Kentucky |          8        2.18        5.99
+                                     Ky |          1        0.27        6.27
+                                    Ky, |          2        0.54        6.81
+                                    Ky. |        342       93.19      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        367      100.00
+
+***************************
+LA
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     LA |         33        8.23        8.23
+                                     La |          1        0.25        8.48
+                                    La. |        363       90.52       99.00
+                              Louisiana |          4        1.00      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        401      100.00
+
+***************************
+MA
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     MA |         24        4.62        4.62
+                                     MS |        113       21.77       26.40
+                                    Ma. |          1        0.19       26.59
+                                   Mass |          3        0.58       27.17
+                                  Mass. |        375       72.25       99.42
+                          Massachusetts |          3        0.58      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        519      100.00
+
+***************************
+MD
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     MD |         36        4.81        4.81
+                                    MD. |          5        0.67        5.48
+                               Maryland |          8        1.07        6.55
+                                     Md |          4        0.53        7.09
+                                    Md. |        695       92.91      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        748      100.00
+
+***************************
+ME
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     ME |          1        3.57        3.57
+                                  Maine |         26       92.86       96.43
+                                    Me. |          1        3.57      100.00
+----------------------------------------+-----------------------------------
+                                  Total |         28      100.00
+
+***************************
+MI
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                   Mich |          5        0.47        0.47
+                                  Mich. |      1,036       98.39       98.86
+                               Michigan |         12        1.14      100.00
+----------------------------------------+-----------------------------------
+                                  Total |      1,053      100.00
+
+***************************
+MN
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     MN |         19        2.84        2.84
+                                   Minn |          1        0.15        2.99
+                                  Minn. |        632       94.61       97.60
+                              Minnesota |         16        2.40      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        668      100.00
+
+***************************
+MO
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     MO |         11        2.27        2.27
+                                    MO. |          1        0.21        2.47
+                               Missouri |         15        3.09        5.57
+                                     Mo |          1        0.21        5.77
+                                    Mo. |        457       94.23      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        485      100.00
+
+***************************
+MS
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     MI |         32       17.30       17.30
+                                   Miss |          1        0.54       17.84
+                                  Miss. |        150       81.08       98.92
+                            Mississippi |          2        1.08      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        185      100.00
+
+***************************
+MT
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                   Mont |          1        2.22        2.22
+                                  Mont. |         44       97.78      100.00
+----------------------------------------+-----------------------------------
+                                  Total |         45      100.00
+
+***************************
+NC
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                   N.C. |        940       94.76       94.76
+                                     NC |         49        4.94       99.70
+                         North Carolina |          3        0.30      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        992      100.00
+
+***************************
+ND
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                   N.D. |         29       96.67       96.67
+                           North Dakota |          1        3.33      100.00
+----------------------------------------+-----------------------------------
+                                  Total |         30      100.00
+
+***************************
+NE
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                    Neb |          1        0.36        0.36
+                                   Neb. |        267       95.36       95.71
+                               Nebraska |         12        4.29      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        280      100.00
+
+***************************
+NH
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                    N.H |          1        1.67        1.67
+                                   N.H. |         55       91.67       93.33
+                                     NH |          3        5.00       98.33
+                          New Hampshire |          1        1.67      100.00
+----------------------------------------+-----------------------------------
+                                  Total |         60      100.00
+
+***************************
+NJ
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                  N. J. |          2        0.17        0.17
+                                    N.J |          1        0.09        0.26
+                                   N.J. |      1,092       94.22       94.48
+                                     NJ |         58        5.00       99.48
+                             New Jersey |          6        0.52      100.00
+----------------------------------------+-----------------------------------
+                                  Total |      1,159      100.00
+
+***************************
+NM
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                   N.M. |         41       82.00       82.00
+                                     NM |          7       14.00       96.00
+                             New Mexico |          2        4.00      100.00
+----------------------------------------+-----------------------------------
+                                  Total |         50      100.00
+
+***************************
+NV
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     NV |         13        8.67        8.67
+                                    NV. |          1        0.67        9.33
+                                   Nev. |        127       84.67       94.00
+                                 Nevada |          9        6.00      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        150      100.00
+
+***************************
+NY
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                    N.Y |          6        0.62        0.62
+                                   N.Y. |        876       90.78       91.40
+                                     NY |         63        6.53       97.93
+                               New York |         20        2.07      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        965      100.00
+
+***************************
+OH
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                   O.H. |          2        0.18        0.18
+                                     OH |         47        4.26        4.45
+                                    Oh. |          1        0.09        4.54
+                                   Ohio |      1,049       95.19       99.73
+                                  Ohio. |          3        0.27      100.00
+----------------------------------------+-----------------------------------
+                                  Total |      1,102      100.00
+
+***************************
+OK
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     OK |         44       10.60       10.60
+                                  Okla. |        338       81.45       92.05
+                               Oklahoma |         33        7.95      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        415      100.00
+
+***************************
+OR
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     OR |         11        2.89        2.89
+                                    Ore |          3        0.79        3.68
+                                   Ore. |        359       94.47       98.16
+                                 Oregon |          7        1.84      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        380      100.00
+
+***************************
+PA
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     PA |         46        3.72        3.72
+                                    PA. |          4        0.32        4.05
+                                     Pa |          4        0.32        4.37
+                                    Pa. |      1,136       91.98       96.36
+                                   Penn |          1        0.08       96.44
+                                  Penn. |         34        2.75       99.19
+                           Pennsylvania |         10        0.81      100.00
+----------------------------------------+-----------------------------------
+                                  Total |      1,235      100.00
+
+***************************
+RI
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                   R.I. |         40       90.91       90.91
+                                     RI |          3        6.82       97.73
+                           Rhode Island |          1        2.27      100.00
+----------------------------------------+-----------------------------------
+                                  Total |         44      100.00
+
+***************************
+SC
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                    S.C |          1        0.26        0.26
+                                   S.C. |        367       94.83       95.09
+                                     SC |         19        4.91      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        387      100.00
+
+***************************
+SD
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                   S.D. |         30       83.33       83.33
+                                     SD |          2        5.56       88.89
+                           South Dakota |          4       11.11      100.00
+----------------------------------------+-----------------------------------
+                                  Total |         36      100.00
+
+***************************
+TN
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     TN |         43        7.93        7.93
+                                  Tenn. |        493       90.96       98.89
+                              Tennessee |          6        1.11      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        542      100.00
+
+***************************
+TX
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     TX |        121        4.30        4.30
+                                    TX. |          1        0.04        4.33
+                                   Tex. |          5        0.18        4.51
+                                  Texas |      2,683       95.31       99.82
+                                 Texas. |          1        0.04       99.86
+                                    Tx. |          4        0.14      100.00
+----------------------------------------+-----------------------------------
+                                  Total |      2,815      100.00
+
+***************************
+UT
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     UT |          5        2.72        2.72
+                                    Ut. |          1        0.54        3.26
+                                   Utah |        178       96.74      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        184      100.00
+
+***************************
+VA
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     VA |         44        4.35        4.35
+                                    VA. |          2        0.20        4.55
+                                     Va |          4        0.40        4.94
+                                    Va. |        947       93.58       98.52
+                               Virginia |         15        1.48      100.00
+----------------------------------------+-----------------------------------
+                                  Total |      1,012      100.00
+
+***************************
+VT
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     VT |          2       13.33       13.33
+                                    Vt. |         13       86.67      100.00
+----------------------------------------+-----------------------------------
+                                  Total |         15      100.00
+
+***************************
+WA
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     WA |         21        2.76        2.76
+                                    WA. |          1        0.13        2.89
+                                    Wa. |          1        0.13        3.02
+                                  Wash. |        731       95.93       98.95
+                             Washington |          8        1.05      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        762      100.00
+
+***************************
+WI
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     WI |         12        2.06        2.06
+                                    Wis |          1        0.17        2.23
+                                   Wis. |        518       88.85       91.08
+                                  Wisc. |         31        5.32       96.40
+                              Wisconsin |         21        3.60      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        583      100.00
+
+***************************
+WV
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                 W. Va. |         10        8.70        8.70
+                                   W.V. |         10        8.70       17.39
+                                  W.Va. |         94       81.74       99.13
+                                     WV |          1        0.87      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        115      100.00
+
+***************************
+WY
+
+                      state_country_raw |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                     WY |          1        5.00        5.00
+                                   Wyo. |         18       90.00       95.00
+                                Wyoming |          1        5.00      100.00
+----------------------------------------+-----------------------------------
+                                  Total |         20      100.00
+
+***************************
+
+. restore
+
+. 
+. 
+. // merge conference
+. merge m:1 college using ${outdata}/schools, assert(3) nogen keepusing(confe
+> rence)
+
+    Result                           # of obs.
+    -----------------------------------------
+    not matched                             0
+    matched                            34,261  
+    -----------------------------------------
+
+. 
+. // cleanup
+. la var name "Athlete Name (as scraped)"
+
+. la var hometown "Athlete Hometown (as scraped)"
+
+. la var prevschool "Athlete Previous School (as scraped)"
+
+. la var sport "Sport (by gender)"
+
+. la var college "College"
+
+. la var city "City (if US)"
+
+. la var state "State"
+
+. la var nonUS "Hometown not matched to US state"
+
+. 
+. drop state_country_raw
+
+. order nonUSmatch, last
+
+. 
+. // assert no complete duplicates (there is just one for some reason)
+. bysort *: gen N = _N
+
+. qui count if N > 1
+
+. local x = r(N)
+
+. assert `x' == 2
+
+. duplicates drop
+
+Duplicates in terms of all variables
+
+(1 observation deleted)
+
+. drop N
+
+. 
+. // make sure cross-sport duplicates are truly multi-sport
+. // i.e. make sure didn't scrape mens or womens roster twice and apply to ot
+> her
+. preserve
+
+.         bysort name college hometown: gen N = _N
+
+.         tab N
+
+          N |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |     30,908       90.22       90.22
+          2 |      3,340        9.75       99.96
+          3 |         12        0.04      100.00
+------------+-----------------------------------
+      Total |     34,260      100.00
+
+.         keep if N>1
+(30,908 observations deleted)
+
+.         gen gender = "M" if regexm(sport,"mens")
+(42 missing values generated)
+
+.         replace gender = "F" if regexm(sport,"womens")
+(2,014 real changes made)
+
+.         drop if missing(gender)
+(42 observations deleted)
+
+.         keep name college hometown sport gender
+
+.         bysort name college hometown: egen maxF = max(gender=="F")
+
+.         bysort name college hometown: egen minF = min(gender=="F")
+
+.         assert maxF == minF
+
+. restore
+
+. 
+. tab nonUSmatch
+
+   Hometown |
+not matched |
+to US state |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     30,464       88.92       88.92
+          1 |      3,796       11.08      100.00
+------------+-----------------------------------
+      Total |     34,260      100.00
+
+. count if !nonUSmatch
+  30,464
+
+. count if !nonUSmatch & !missing(city)
+  30,463
+
+. count if !nonUSmatch & !missing(city) & !missing(prevschool)
+  28,729
+
+. 
+. export delimited using ${outdata}/rosters.csv, replace
+file C:\Users\jrk5012/Documents/GitHub/ncaa_rosters/output/cleaned/rosters.cs
+> v saved
+
+. save ${outdata}/rosters, replace
+file ~/Documents/GitHub/ncaa_rosters/output/cleaned/rosters.dta saved
+
+. 
+. log close
+      name:  <unnamed>
+       log:  C:\Users\jrk5012/Documents/GitHub/ncaa_rosters/code/clean/clean.
+> log
+  log type:  text
+ closed on:  17 Jul 2018, 23:06:24
+-----------------------------------------------------------------------------

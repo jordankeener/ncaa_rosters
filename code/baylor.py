@@ -7,38 +7,33 @@ import _proj_functions as proj
 import _lookups as lookups
 import re
 
-class MyOpener(FancyURLopener):
-	version = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11)'
-myopener = MyOpener()
-
 outdir = '../output'
-
 
 ##### baylor #################
 school = 'baylor'
-url_template = 'http://www.baylorbears.com/sports/{sporturl}/mtt/bay-{sporturl}-mtt.html'
+url_template = 'https://baylorbears.com/roster.aspx?path={sporturl}'
 tableid_template = 'sortable_roster'
 
 # bring in sports dictionary (sports: empty list)
 sports_dict = lookups.get_sports_dict()
 # sport_id: [sporturl, sport_table]
-sports_dict['mens basketball'] = ['m-baskbl']
-sports_dict['womens basketball'] = ['w-baskbl']
-sports_dict['football'] = ['m-footbl']
-sports_dict['mens cross country'] = ['c-xc']
-sports_dict['womens cross country'] = ['c-xc']
-sports_dict['baseball'] = ['m-basebl']
-sports_dict['womens soccer'] = ['w-soccer']
-sports_dict['mens golf'] = ['m-golf']
-sports_dict['womens golf'] = ['w-golf']
-sports_dict['mens tennis'] = ['m-tennis']
-sports_dict['womens tennis'] = ['w-tennis']
-sports_dict['mens track'] = ['c-track']
-sports_dict['womens track'] = ['c-track']
-sports_dict['softball'] = ['w-softbl']
-sports_dict['womens volleyball'] = ['w-volley']
-sports_dict['womens equestrian'] = ['w-equest']
-sports_dict['womens acrobatics'] = ['w-acro']
+sports_dict['mens basketball'] = ['mbball']
+sports_dict['womens basketball'] = ['wbball']
+sports_dict['football'] = ['football']
+sports_dict['mens cross country'] = ['xc']
+sports_dict['womens cross country'] = ['xc']
+sports_dict['baseball'] = ['baseball']
+sports_dict['womens soccer'] = ['wsoc']
+sports_dict['mens golf'] = ['mgolf']
+sports_dict['womens golf'] = ['wgolf']
+sports_dict['mens tennis'] = ['mten']
+sports_dict['womens tennis'] = ['wten']
+sports_dict['mens track'] = ['track']
+sports_dict['womens track'] = ['track']
+sports_dict['softball'] = ['softball']
+sports_dict['womens volleyball'] = ['wvball']
+sports_dict['womens equestrian'] = ['equest']
+sports_dict['womens acrobatics'] = ['acro']
 
 
 # remove empty sports
@@ -46,18 +41,15 @@ for (key, value) in sports_dict.copy().items():
 	if value == []:
 		del sports_dict[key]
 
-# change table names where necessary
+# change list number if not first ul of given classname on page
 for (key, value) in sports_dict.items():
-	if key in ['mens cross country', 'mens track']:
-		value.append(tableid_template + "_M")
-	elif key in ['womens cross country', 'womens track']:
-		value.append(tableid_template + "_F")
+	if key in ['womens cross country', 'womens track']:
+		value.append(2)
 	else:
-		value.append(tableid_template)
+		value.append(1)
 
 # collect roster for each sport
-find_cols = ['name', 'hometown', 'high school', 'school']
-rosters = proj.gather_rosters_table(sports_dict, find_cols, url_template)
+rosters = proj.gather_rosters_ul(sports_dict, url_template)
 rosters['college'] = school
 csvname = school + '_rosters.csv'
 rosters.to_csv(os.path.join(outdir, csvname))

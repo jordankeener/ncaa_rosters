@@ -1,418 +1,418 @@
 ,name,hometown,high school?,sport,college
 0,Marcus Garrett,"Dallas, Texas",Skyline HS,mens basketball,kansas
 1,Dedric Lawson,"Memphis, Tenn.",Hamilton HS,mens basketball,kansas
-2,Lagerald Vick,"Memphis, Tenn.",Douglass HS,mens basketball,kansas
+2,Charlie Moore,"Chicago, Ill.",Morgan Park HS,mens basketball,kansas
 3,Sam Cunliffe,"Seattle, Wash.",Rainier Beach HS,mens basketball,kansas
-4,Devonte' Graham,"Raleigh, N.C.",Broughton HS,mens basketball,kansas
-5,Charlie Moore,"Chicago, Ill.",Morgan Park HS,mens basketball,kansas
-6,Sviatoslav Mykhailiuk,"Cherkasy, Ukraine",Cherkasy First City Gymnasia,mens basketball,kansas
+4,Quentin Grimes,"The Woodlands, Texas",College Park HS,mens basketball,kansas
+5,Elijah Elliott,"Southlake, Texas",Carroll Senior HS,mens basketball,kansas
+6,Devon Dotson,"Charlotte, N.C.",Providence Day School,mens basketball,kansas
 7,Chris Teahan,"Leawood, Kan.",Rockhurst HS,mens basketball,kansas
 8,K.J. Lawson,"Memphis, Tenn.",Hamilton HS,mens basketball,kansas
-9,Malik Newman,"Jackson, Miss.",Callaway HS,mens basketball,kansas
-10,Clay Young,"Lansing, Kan.",Lansing HS,mens basketball,kansas
-11,Silvio De Sousa,"Luanda, Angola",IMG Academy [Fla.],mens basketball,kansas
-12,Udoka Azubuike,"Delta, Nigeria",Potter's House Christian Academy [Fla.],mens basketball,kansas
-13,Mitch Lightfoot,"Gilbert, Ariz.",Gilbert Christian HS,mens basketball,kansas
-14,James Sosinski,"Chandler, Ariz.",Hamilton HS,mens basketball,kansas
-15,Christalah Lyons,"Dallas, Texas",Trinity Valley CC,womens basketball,kansas
-16,Chelsea Lott,"Fresno, Texas",Fort Bend Hightower HS,womens basketball,kansas
-17,Brianna Osorio,"Las Vegas, Nev.",Southern Idaho,womens basketball,kansas
-18,Jessica  Washington,"Tulsa, Okla.",University of North Carolina,womens basketball,kansas
-19,Mariane De Carvalho,"Araraquara, Brazil",Highland CC,womens basketball,kansas
-20,Aniya Thomas,"Duncanville, Texas",N/A,womens basketball,kansas
-21,Niccolly Ramalho,"Sao Paulo, Brazil",Highland CC,womens basketball,kansas
-22,Micaela Wilson,"Rayville, La.",Rayville HS,womens basketball,kansas
-23,Austin  Richardson,"Lee's Summit, Mo.",Johnson County CC,womens basketball,kansas
-24,Brooklyn Mitchell,"New Orleans, La.",N/A,womens basketball,kansas
-25,Brittany  Franklin,"Plymouth, N.C.",Plymouth HS,womens basketball,kansas
-26,Kylee Kopatich,"Olathe, Kan.",Olathe South HS,womens basketball,kansas
-27,Bailey  Helgren,"Edina, Minn.",Edina HS,womens basketball,kansas
-28,Sara Boric,"Kator Varos, Bosnia",Northeast Oklahoma A&M,womens basketball,kansas
-29,Tyler Johnson,"Leavenworth, Kan.",Leavenworth HS,womens basketball,kansas
-30,Benjamin Sems,"Chesterfield, Mo.",Westminster Christian,baseball,kansas
-31,David Kyriacou,"Oakland, Calif.",Bishop O'Dowd,baseball,kansas
-32,Owen Taylor,"Grand Junction, Colo.",Grand Junction,baseball,kansas
-33,Skyler Messinger,"Niwot, Colo.",Niwot,baseball,kansas
-34,Ty Denzer,"Victoria, Minn.",Chanhassen,baseball,kansas
-35,Mateo Zunica,"Palos Park, Ill.",St. Rita,baseball,kansas
-36,James Cosentino,"Leawood, Kan.",St. Thomas Aquinas,baseball,kansas
-37,Jon Hander,"Sioux Falls, S.D.",Washington HS,baseball,kansas
-38,Tanner Gragg,"Overland Park, Kan.",Blue Valley West,baseball,kansas
-39,Ryan Ralston,"Overland Park, Kan.",Blue Valley West,baseball,kansas
-40,Brett Vosik,"Omaha, Neb.",Creighton Prep,baseball,kansas
-41,Jaxx Groshans,"Magnolia, Texas",Magnolia,baseball,kansas
-42,Brandon Johnson,"Las Vegas, Nev.",Faith Lutheran,baseball,kansas
-43,Casey Douglas,"Los Altos, Calif.",St. Francis,baseball,kansas
-44,Jackson Goddard,"Tulsa, Okla.",Holland Hall,baseball,kansas
-45,Ryan Zeferjahn,"Topeka, Kan.",Seaman,baseball,kansas
-46,Kaimana Souza-Paaluhi,"Mililani, Hawaii",Mililani,baseball,kansas
-47,Tyler Davis,"Springville, Calif.",Porterville,baseball,kansas
-48,Devin Foyle,"Fountain Hills, Ariz.",Fountain Hills,baseball,kansas
-49,Blake Shinkle,"Olathe, Kan.",Blue Valley Southwest,baseball,kansas
-50,Brooks Asher,"Hastings, Neb.",St. Cecelia,baseball,kansas
-51,Nolan Metcalf,"Granger, Ind.",Penn,baseball,kansas
-52,Blaine Ray,"Ottawa, Kan.",Ottawa,baseball,kansas
-53,Jonah Ulane,"Omaha, Neb.",Millard South,baseball,kansas
-54,Conner VanCleave,"Holcomb, Kan.",Holcomb,baseball,kansas
-55,Blake Goldsberry,"Highlands Ranch, Colo.",Cherry Creek,baseball,kansas
-56,Ryan Cyr,"Leawood, Kan.",Blue Valley,baseball,kansas
-57,Antonio Garcia,"San Jose, Calif.",Bellarmine,baseball,kansas
-58,Brandon Ponticelli,"Chatsworth, Calif.",Bishop Alemany,baseball,kansas
-59,Rudy Karre,"Peoria, Ariz.",Liberty,baseball,kansas
-60,Tom Lichty,"Reno, Nev.",Galena,baseball,kansas
-61,Eli Davis,"Shawnee, Okla.",Shawnee,baseball,kansas
-62,Daniel Hegarty,"Leawood, Kan.",Blue Valley,baseball,kansas
-63,Taylor Turski,"Temecula, Calif.",Temecula Valley,baseball,kansas
-64,Gabriel Sotomayor,"Gurabo, Puerto Rico",Cache (Okla.),baseball,kansas
-65,Brendt Citta,"San Jose, Calif.",Leland,baseball,kansas
-66,Steve Washilewski,"Dyer, Ind.",Saint Rita,baseball,kansas
-67,Luke Bakula,"St. Louis, Mo.",Parkway South,baseball,kansas
-68,Zack Leban,"Bellevue, Wash.",Sammamish,baseball,kansas
-69,Bryce  Torneden,"Lawrence, Kan.",Free State HS,football,kansas
-70,Daylon Charlot,"Patterson, La.",Patterson HS,football,kansas
-71,Corione Harris,"New Orleans, La.",Landry-Walker HS,football,kansas
-72,Tyler Patrick,"The Woodlands, Texas",The Woodlands HS,football,kansas
-73,Shaquille Richmond,"Dallas, Texas",Mansfield Timberview HS,football,kansas
-74,Bobby Hartzog Jr.,"Houston, Texas",Westside HS,football,kansas
-75,Stephon Robinson Jr.,"Los Angeles, Calif.",Narbonne HS,football,kansas
-76,Quan Hampton,"Texarkana, Texas",Texas HS,football,kansas
-77,Isi Holani,"Kaumana, Hawaii",Hilo HS,football,kansas
-78,Peyton Bender,"Fort Lauderdale, Fla.",Cardinal Gibbons HS,football,kansas
-79,Miles Kendrick,"Morgan Hill, Calif.",Valley Christian HS,football,kansas
-80,Shakial Taylor,"Lakeland, Fla.",Chaparral HS,football,kansas
-81,Kyron Johnson,"Arlington, Texas",Lamar HS,football,kansas
-82,Carter Stanley,"Vero Beach, Fla.",Vero Beach HS,football,kansas
-83,Najee Stevens-McKenzie,"Cleveland, Ohio",Bedford HS,football,kansas
-84,Khalil Herbert,"Coral Springs, Fla.",American Heritage HS,football,kansas
-85,Mike Lee,"New Orleans, La.",Landry Walker HS,football,kansas
-86,Steven Sims Jr.,"Houston, Texas",Travis HS,football,kansas
-87,Jeremiah McCullough,"Baltimore, Md.",Mount St. Joseph HS,football,kansas
-88,Hasan Defense,"Jacksonville, Fla.",Atlantic Coast HS,football,kansas
-89,Kenyon Tabor,"Derby, Kan.",Derby HS,football,kansas
-90,Kerr Johnson Jr.,"Santa Rosa, Calif.",Analy HS,football,kansas
-91,Miles Fallin,"Canyon Country, Calif.",Canyon HS,football,kansas
-92,Kyle  Mayberry,"Tulsa, Okla.",Booker T. Washington HS,football,kansas
-93,Takulve Williams,"New Orleans, La.",St. Augustine HS,football,kansas
-94,Josh Ehambe,"Arlington, Texas",Prime Prep Academy,football,kansas
-95,Damon Jackson,"Kansas City, Kan.",Washington HS,football,kansas
-96,Denzel Feaster,"Austin, Texas",Manor HS,football,kansas
-97,Evan Fairs,"Fulshear, Texas",Foster HS,football,kansas
-98,Davon Ferguson,"Baltimore, Md.",St. Vincent Pallotti HS,football,kansas
-99,Emmanuel Moore,"Fort Worth, Texas",Northwest HS,football,kansas
-100,Tyrone Miller Jr.,"Ann Arbor, Mich.",Saline HS,football,kansas
-101,Taylor Martin,"Fort Worth, Texas",Dunbar HS,football,kansas
-102,Julian  Chandler,"Houston, Texas",Fort Bend Hightower HS,football,kansas
-103,Dom Williams,"McKinney, Texas",Independence HS,football,kansas
-104,Deron  Thompson,"Wichita, Kan.",Northwest HS,football,kansas
-105,DeAnte  Ford,"Houston, Texas",Ridge Point HS,football,kansas
-106,Kendall  Morris,"St. Louis, Mo.",Francis Howell Central HS,football,kansas
-107,Robert Topps III,"Chicago, Ill.",Marist HS,football,kansas
-108,Joe Dineen Jr.,"Lawrence, Kan.",Free State HS,football,kansas
-109,Kezelee Flomo,"Fridley, Minn.",Totino Grace HS,football,kansas
-110,Cooper Root,"Wichita, Kan.",Wichita Collegiate HS,football,kansas
-111,Osaze Ogbebor,"Lorton, Va.",Heritage HS (Texas),football,kansas
-112,Reese  Randall,"Lawrence, Kan.",Baldwin HS,football,kansas
-113,Ryan Schadler,"Hesston, Kan.",Hesston HS,football,kansas
-114,Nate Betts,"Kerens, Texas",Kerens HS,football,kansas
-115,Caperton  Humphrey,"Ona, W.Va.",Cabell Midland HS,football,kansas
-116,D'Juan Moore,"Baltimore, Md.",Dunbar HS,football,kansas
-117,Cole Brungardt,"Lawrence, Kan.",Lawrence HS,football,kansas
-118,Quinton McQuillan,"Leavenworth, Kan.",Lansing HS,football,kansas
-119,Kyle Thompson,"El Cajon, Calif.",Christian HS,football,kansas
-120,Gabriel  Rui,"Hinton, Okla.",Hinton HS,football,kansas
-121,Dru Prox,"Kaufman, Texas",Kaufman HS,football,kansas
-122,Tom Barrett,"Cleveland, Ohio",St. Ignatius HS,football,kansas
-123,Jay Dineen,"Lawrence, Kan.",Free State HS,football,kansas
-124,Willie McCaleb,"Grenada, Miss.",Grenada HS,football,kansas
-125,Mazin Aql,"Stilwell, Kan.",Blue Valley HS,football,kansas
-126,Nick Caudle,"Atchison, Kan.",Maur Hill HS,football,kansas
-127,Liam Jones,"Choctaw, Okla.",Choctaw HS,football,kansas
-128,Sam Schroeder,"Wichita, Kan.",Trinity Academy,football,kansas
-129,Keith Loneker Jr.,"Lawrence, Kan.",Free State HS,football,kansas
-130,Hudson  Hall,"Austin, Texas",Westlake HS,football,kansas
-131,Blaine Boudreaux,"Shawnee, Kan.",Mill Valley HS,football,kansas
-132,Jacob Bragg,"Nacogdoches, Texas",Nacogdoches HS,football,kansas
-133,Beau Lawrence,"Overland Park, Kan.",Blue Valley Southwest HS,football,kansas
-134,Malik  Clark,"New Orleans, La.",Warren Easton HS,football,kansas
-135,Jack Williams,"Argyle, Texas",Argyle HS,football,kansas
-136,Kolin  Hayes,"Kansas City, Mo.",Park Hill HS,football,kansas
-137,Hunter Saulsbury,"Stilwell, Kan.",Blue Valley West HS,football,kansas
-138,Logan  Klusman,"Lafayette, La.",St. Thomas More HS,football,kansas
-139,Earl Bostick Jr.,"Barnwell, S.C.",Barnwell HS,football,kansas
+9,Garrett Luinstra,"Lawrence, Kan.",Lawrence Free State HS,mens basketball,kansas
+10,Silvio De Sousa,"Luanda, Angola",IMG Academy [Fla.],mens basketball,kansas
+11,Lagerald Vick,"Memphis, Tenn.",Douglass HS,mens basketball,kansas
+12,Ochai Agbaji,"Kansas City, Mo.",Oak Park HS,mens basketball,kansas
+13,David McCormack,"Norfolk, Va.",Oak Hill Academy,mens basketball,kansas
+14,Udoka Azubuike,"Delta, Nigeria",Potter's House Christian Academy [Fla.],mens basketball,kansas
+15,Mitch Lightfoot,"Gilbert, Ariz.",Gilbert Christian HS,mens basketball,kansas
+16,Christalah Lyons,"Dallas, Texas",Trinity Valley CC,womens basketball,kansas
+17,Chelsea Lott,"Fresno, Texas",Fort Bend Hightower HS,womens basketball,kansas
+18,Brianna Osorio,"Las Vegas, Nev.",Southern Idaho,womens basketball,kansas
+19,Jessica  Washington,"Tulsa, Okla.",University of North Carolina,womens basketball,kansas
+20,Mariane De Carvalho,"Araraquara, Brazil",Highland CC,womens basketball,kansas
+21,Aniya Thomas,"Duncanville, Texas",N/A,womens basketball,kansas
+22,Niccolly Ramalho,"Sao Paulo, Brazil",Highland CC,womens basketball,kansas
+23,Micaela Wilson,"Rayville, La.",Rayville HS,womens basketball,kansas
+24,Austin  Richardson,"Lee's Summit, Mo.",Johnson County CC,womens basketball,kansas
+25,Brooklyn Mitchell,"New Orleans, La.",N/A,womens basketball,kansas
+26,Brittany  Franklin,"Plymouth, N.C.",Plymouth HS,womens basketball,kansas
+27,Kylee Kopatich,"Olathe, Kan.",Olathe South HS,womens basketball,kansas
+28,Bailey  Helgren,"Edina, Minn.",Edina HS,womens basketball,kansas
+29,Sara Boric,"Kator Varos, Bosnia",Northeast Oklahoma A&M,womens basketball,kansas
+30,Tyler Johnson,"Leavenworth, Kan.",Leavenworth HS,womens basketball,kansas
+31,Benjamin Sems,"Chesterfield, Mo.",Westminster Christian,baseball,kansas
+32,Skyler Messinger,"Niwot, Colo.",Niwot,baseball,kansas
+33,Ty Denzer,"Victoria, Minn.",Chanhassen,baseball,kansas
+34,Mateo Zunica,"Palos Park, Ill.",St. Rita,baseball,kansas
+35,James Cosentino,"Leawood, Kan.",St. Thomas Aquinas,baseball,kansas
+36,Jared Padgett,N/A,N/A,baseball,kansas
+37,Ryan Ralston,"Overland Park, Kan.",Blue Valley West,baseball,kansas
+38,Brett Vosik,"Omaha, Neb.",Creighton Prep,baseball,kansas
+39,Jaxx Groshans,"Magnolia, Texas",Magnolia,baseball,kansas
+40,Ryan Zeferjahn,"Topeka, Kan.",Seaman,baseball,kansas
+41,Kaimana Souza-Paaluhi,"Mililani, Hawaii",Mililani,baseball,kansas
+42,Blake Shinkle,"Olathe, Kan.",Blue Valley Southwest,baseball,kansas
+43,Brooks Asher,"Hastings, Neb.",St. Cecelia,baseball,kansas
+44,Nolan Metcalf,"Granger, Ind.",Penn,baseball,kansas
+45,Blaine Ray,"Ottawa, Kan.",Ottawa,baseball,kansas
+46,Jonah Ulane,"Omaha, Neb.",Millard South,baseball,kansas
+47,Conner VanCleave,"Holcomb, Kan.",Holcomb,baseball,kansas
+48,Blake Goldsberry,"Highlands Ranch, Colo.",Cherry Creek,baseball,kansas
+49,Ryan Cyr,"Leawood, Kan.",Blue Valley,baseball,kansas
+50,Antonio Garcia,"San Jose, Calif.",Bellarmine,baseball,kansas
+51,Brandon Ponticelli,"Chatsworth, Calif.",Bishop Alemany,baseball,kansas
+52,Rudy Karre,"Peoria, Ariz.",Liberty,baseball,kansas
+53,Tom Lichty,"Reno, Nev.",Galena,baseball,kansas
+54,Eli Davis,"Shawnee, Okla.",Shawnee,baseball,kansas
+55,Daniel Hegarty,"Leawood, Kan.",Blue Valley,baseball,kansas
+56,Gabriel Sotomayor,"Gurabo, Puerto Rico",Cache (Okla.),baseball,kansas
+57,Nathan Barry,"Reno, Nev.",N/A,baseball,kansas
+58,Steve Washilewski,"Dyer, Ind.",Saint Rita,baseball,kansas
+59,Bryce  Torneden,"Lawrence, Kan.",Free State HS,football,kansas
+60,Pooka  Williams Jr.,"Boutte, La.",Hahnville HS,football,kansas
+61,Daylon Charlot,"Patterson, La.",Patterson HS,football,kansas
+62,Corione Harris,"New Orleans, La.",Landry-Walker HS,football,kansas
+63,Evan Fairs,"Fulshear, Texas",Foster HS,football,kansas
+64,Tyler Patrick,"The Woodlands, Texas",The Woodlands HS,football,kansas
+65,Shaquille Richmond,"Dallas, Texas",Mansfield Timberview HS,football,kansas
+66,Azur Kamara,"Glendale, Ariz.",Central HS,football,kansas
+67,Stephon Robinson Jr.,"Los Angeles, Calif.",Narbonne HS,football,kansas
+68,Quan Hampton,"Texarkana, Texas",Texas HS,football,kansas
+69,Isi Holani,"Kaumana, Hawaii",Hilo HS,football,kansas
+70,Peyton Bender,"Fort Lauderdale, Fla.",Cardinal Gibbons HS,football,kansas
+71,Davon Ferguson,"Baltimore, Md.",St. Vincent Pallotti HS,football,kansas
+72,Gabriel  Rui,"Hinton, Okla.",Hinton HS,football,kansas
+73,Miles Kendrick,"Morgan Hill, Calif.",Valley Christian HS,football,kansas
+74,Shakial Taylor,"Lakeland, Fla.",Chaparral HS,football,kansas
+75,Carter Stanley,"Vero Beach, Fla.",Vero Beach HS,football,kansas
+76,Najee Stevens-McKenzie,"Cleveland, Ohio",Bedford HS,football,kansas
+77,Julian  Chandler,"Houston, Texas",Fort Bend Hightower HS,football,kansas
+78,Khalil Herbert,"Coral Springs, Fla.",American Heritage HS,football,kansas
+79,Mike Lee,"New Orleans, La.",Landry Walker HS,football,kansas
+80,Steven Sims Jr.,"Houston, Texas",Travis HS,football,kansas
+81,Jeremiah McCullough,"Baltimore, Md.",Mount St. Joseph HS,football,kansas
+82,Hasan Defense,"Jacksonville, Fla.",Atlantic Coast HS,football,kansas
+83,Billy Maples,"Kansas City, Mo.",Park Hill HS,football,kansas
+84,Kerr Johnson Jr.,"Santa Rosa, Calif.",Analy HS,football,kansas
+85,Miles Fallin,"Canyon Country, Calif.",Canyon HS,football,kansas
+86,Kyron Johnson,"Arlington, Texas",Lamar HS,football,kansas
+87,Kyle  Mayberry,"Tulsa, Okla.",Booker T. Washington HS,football,kansas
+88,Takulve Williams,"New Orleans, La.",St. Augustine HS,football,kansas
+89,Elijah Jones,"Cape Coral, Fla.",North Fort Meyers HS,football,kansas
+90,Denzel Feaster,"Austin, Texas",Manor HS,football,kansas
+91,Kenny  Bastida,"Pompano Beach, Fla.",Deerfield Beach HS,football,kansas
+92,Emmanuel Moore,"Fort Worth, Texas",Northwest HS,football,kansas
+93,Tyrone Miller Jr.,"Ann Arbor, Mich.",Saline HS,football,kansas
+94,Elmore Hempstead Jr.,"Smackover, Ark.",Smackover HS,football,kansas
+95,Dom Williams,"McKinney, Texas",Independence HS,football,kansas
+96,Cody McNerney,"Wichita, Kan.",Wichita Collegiate HS,football,kansas
+97,Deron  Thompson,"Wichita, Kan.",Northwest HS,football,kansas
+98,DeAnte  Ford,"Houston, Texas",Ridge Point HS,football,kansas
+99,Kendall  Morris,"St. Louis, Mo.",Francis Howell Central HS,football,kansas
+100,Robert Topps III,"Chicago, Ill.",Marist HS,football,kansas
+101,Joe Dineen Jr.,"Lawrence, Kan.",Free State HS,football,kansas
+102,Kezelee Flomo,"Fridley, Minn.",Totino Grace HS,football,kansas
+103,Cooper Root,"Wichita, Kan.",Wichita Collegiate HS,football,kansas
+104,Osaze Ogbebor,"Lorton, Va.",Heritage HS (Texas),football,kansas
+105,Reese  Randall,"Lawrence, Kan.",Baldwin HS,football,kansas
+106,Ryan Schadler,"Hesston, Kan.",Hesston HS,football,kansas
+107,Nate Betts,"Kerens, Texas",Kerens HS,football,kansas
+108,Caperton  Humphrey,"Ona, W.Va.",Cabell Midland HS,football,kansas
+109,D'Juan Moore,"Baltimore, Md.",Dunbar HS,football,kansas
+110,Ryan Malbrough,"Cecilia, La.",Cecilia HS,football,kansas
+111,Dru Prox,"Kaufman, Texas",Kaufman HS,football,kansas
+112,Tom Barrett,"Cleveland, Ohio",St. Ignatius HS,football,kansas
+113,Jay Dineen,"Lawrence, Kan.",Free State HS,football,kansas
+114,Willie McCaleb,"Grenada, Miss.",Grenada HS,football,kansas
+115,Mazin Aql,"Stilwell, Kan.",Blue Valley HS,football,kansas
+116,Nick Caudle,"Atchison, Kan.",Maur Hill HS,football,kansas
+117,Dylan Freberg,"Overland Park, Kan.",Blue Valley North HS,football,kansas
+118,Liam Jones,"Choctaw, Okla.",Choctaw HS,football,kansas
+119,Sam Schroeder,"Wichita, Kan.",Trinity Academy,football,kansas
+120,Keith Loneker Jr.,"Lawrence, Kan.",Free State HS,football,kansas
+121,Hudson  Hall,"Austin, Texas",Westlake HS,football,kansas
+122,Nick Channel,"Wichita, Kan.",Kapaun Mt. Carmel HS,football,kansas
+123,John Lillig,"Kansas City, Mo.",St Pius X HS,football,kansas
+124,Alex Fontana,"Toronto, Canada",Kent Prep HS,football,kansas
+125,Mac Copeland,"Wichita, Kan.",Wichita Collegiate HS,football,kansas
+126,Brian Lipscomb,"Hampton, Va.",Kecoughtan HS,football,kansas
+127,Jack Murphy,"Kansas City, Mo.",Rockhurst HS,football,kansas
+128,Beau Lawrence,"Overland Park, Kan.",Blue Valley Southwest HS,football,kansas
+129,Malik  Clark,"New Orleans, La.",Warren Easton HS,football,kansas
+130,Jack Williams,"Argyle, Texas",Argyle HS,football,kansas
+131,Kolin  Hayes,"Kansas City, Mo.",Park Hill HS,football,kansas
+132,Jalan Robinson,"Lawrence, Kan.",Lawrence Free State HS,football,kansas
+133,Hunter Saulsbury,"Stilwell, Kan.",Blue Valley West HS,football,kansas
+134,Kevin Feder,"Ramsey, N.J.",Don Boscoe Prep,football,kansas
+135,Logan  Klusman,"Lafayette, La.",St. Thomas More HS,football,kansas
+136,Earl Bostick Jr.,"Barnwell, S.C.",Barnwell HS,football,kansas
+137,Spencer Roe,"Lawrence, Kan.",Lawrence Free State HS,football,kansas
+138,Jacobi Lott,"Amarillo, Texas",Tascosa HS,football,kansas
+139,Nick Williams,"Overland, Mo.",Ritenour HS,football,kansas
 140,Cam Durley,"Houston, Texas",Houston Christian HS,football,kansas
-141,Charles Baldwin,"Windsor, Conn.",Windsor HS,football,kansas
-142,Larry Hughes,"Carrollton, Texas",Creekview HS,football,kansas
-143,Clyde McCauley III,"Arlington, Texas",Bowie HS,football,kansas
-144,Antione  Frazier,"Huffman, Texas",Hargrave HS,football,kansas
-145,Chris  Hughes,"Harker Heights, Texas",Harker Heights HS,football,kansas
-146,Andru Tovi,"Halawa, Hawaii",Mililani HS,football,kansas
-147,Nick Williams,"Overland, Mo.",Ritenour HS,football,kansas
-148,Hakeem Adeniji,"Garland, Texas",Garland HS,football,kansas
-149,Joseph Gilbertson,"Wichita, Kan.",Wichita Northwest,football,kansas
-150,Hunter Kaufman,"Pratt, Kan.",Pratt HS,football,kansas
-151,Kameron McQueen,"Tulsa, Okla.",Union HS,football,kansas
-152,James Sosinski,"Chandler, Ariz.",Hamilton HS,football,kansas
-153,Kwamie  Lassiter II,"Chandler, Ariz.",Hamilton HS,football,kansas
+141,Larry Hughes,"Carrollton, Texas",Creekview HS,football,kansas
+142,Clyde McCauley III,"Arlington, Texas",Bowie HS,football,kansas
+143,Antione  Frazier,"Huffman, Texas",Hargrave HS,football,kansas
+144,Chris  Hughes,"Harker Heights, Texas",Harker Heights HS,football,kansas
+145,Andru Tovi,"Halawa, Hawaii",Mililani HS,football,kansas
+146,Hakeem Adeniji,"Garland, Texas",Garland HS,football,kansas
+147,Joseph Gilbertson,"Wichita, Kan.",Wichita Northwest,football,kansas
+148,Hunter Kaufman,"Pratt, Kan.",Pratt HS,football,kansas
+149,Kyle Thompson,"El Cajon, Calif.",Christian HS,football,kansas
+150,Kameron McQueen,"Tulsa, Okla.",Union HS,football,kansas
+151,James Sosinski,"Chandler, Ariz.",Hamilton HS,football,kansas
+152,Kwamie  Lassiter II,"Chandler, Ariz.",Hamilton HS,football,kansas
+153,Jack Parks,"Olathe, Kan.",Olathe Northwest HS,football,kansas
 154,Zach Nachbar,"Salina, Kan.",Salina South HS,football,kansas
 155,Andrew Kelow,"Kansas City, Mo.",Rockhurst HS,football,kansas
 156,John Wirtel,"Orland Park, Ill.",Mount Carmel HS,football,kansas
 157,Jeremiah Booker,"College Station, Texas",College Station HS,football,kansas
 158,J.J. Holmes,"Chipley, Fla.",Chipley HS,football,kansas
 159,Mavin Saunders,"Bimini, Bahamas",The Kinkaid School,football,kansas
-160,Jelani Arnold,"Irving, Texas",MacArthur HS,football,kansas
-161,Dai Coye Haley,"Atchison, Kan.",Atchison HS,football,kansas
-162,Codey Cole,"Ypsilanti, Mich.",Bellevue HS,football,kansas
-163,Vaughn Taylor Jr.,"Washington, D.C.",Friendship Collegiate Academy,football,kansas
-164,Daniel  Wise,"Lewisville, Texas",Hebron HS,football,kansas
-165,Sam Burt,"Abilene, Kan.",Abilene HS,football,kansas
-166,KeyShaun Simmons,"Jackson, Miss.",Ridgeland HS,football,kansas
-167,Foster Dixson,"Los Angeles, Calif.",Fairfax HS,football,kansas
-168,Lauren Breshears,"St. Peters, Mo.",Fort Zumwalt South HS,womens soccer,kansas
-169,Sarah Peters,"Lee's Summit, Mo.",Lee's Summit North HS,womens soccer,kansas
-170,Regan Gibbs,"Naches, Wash.",West Valley HS,womens soccer,kansas
-171,Kaycie Young,"Castle Rock, Colo.",Rock Canyon HS,womens soccer,kansas
-172,Maya Swaby,"Hamilton, Ont.",Bishop Ryan Secondary,womens soccer,kansas
-173,Kailey Lane,"Omaha, Neb.",Millard North HS,womens soccer,kansas
-174,Olivia Pesek,"Omaha, Neb.",Millard West HS,womens soccer,kansas
-175,Kaela Hansen,"Burnaby, B.C.",Burnaby Central Secondary,womens soccer,kansas
-176,Avery Hall,"McKinney, Texas",McKinney Boyd HS,womens soccer,kansas
-177,Anna Courtney,"Parkville, Mo.",Park Hill South HS,womens soccer,kansas
-178,Madison Meador,"Ballwin, Mo.",Marquette HS,womens soccer,kansas
-179,Miriam Melugin,"Springfield, Mo.",Kickapoo HS,womens soccer,kansas
-180,Chais Wright,"Kansas City, Mo.",Park Hill HS,womens soccer,kansas
-181,Katie McClure,"Wichita, Kan.",Maize HS,womens soccer,kansas
-182,Kathryn Castro,"Plano, Texas",Plano West Senior High,womens soccer,kansas
-183,Sam Barnett,"Edmond, Okla.",Edmond Memorial HS,womens soccer,kansas
-184,Ceri Holland,"West Yorkshire, England",South Craven School,womens soccer,kansas
-185,Italia Bradley,"Coppell, Texas",Coppell HS,womens soccer,kansas
-186,Taylor Christie,"Overland Park, Kan.",Shawnee Mission South HS,womens soccer,kansas
-187,Emelie Gavillet,"Montreux, Switzerland",Wilhelm Hausenstein Gymnasium,womens soccer,kansas
-188,Eva Elíasdóttir,"Thorlakshofn, Iceland",Fjölbrautaskóli Suðurlands,womens soccer,kansas
-189,Avery Ripple,"Papillion, Neb.",Papillion La-Vista South HS,womens soccer,kansas
-190,Isabella Cavalcante,"Glen Ellyn, Ill.",Glenbard West HS,womens soccer,kansas
-191,Mandi Duggan,"Aurora, Colo.",Grandview HS,womens soccer,kansas
-192,Grace Wiltgen,"Denton, Texas",Denton HS,womens soccer,kansas
-193,Elise Reina,"Fayetteville, Ark.",Har-Ber HS,womens soccer,kansas
-194,Grace Hagan,"Wichita, Kan.",Kapaun Mt. Carmel Catholic HS,womens soccer,kansas
-195,Addisyn Merrick,"Lee's Summit, Mo.",Lee's Summit North HS,womens soccer,kansas
-196,Sophie Maierhofer,"Graz, Austria",University of Bremen,womens soccer,kansas
-197,Bri Amos,"Tulsa, Okla.",Union HS,womens soccer,kansas
-198,Ben Burchstead,"Overland Park, Kan.",Shawnee Mission North HS,mens cross country,kansas
-199,Ethan Donley,"Lawrence, Kan.",Lawrence Free State HS,mens cross country,kansas
-200,Quanah Gardiner,"Ashland, Kan.",Ashland HS,mens cross country,kansas
-201,Avery Hale,"New Town, N.D.",New Town HS,mens cross country,kansas
-202,Chace Hale,"New Town, N.D.",New Town HS,mens cross country,kansas
-203,Dylan Hodgson,"Washington, Kan.",Washington County HS,mens cross country,kansas
-204,Bryce Hoppel,"Midland, Texas",Midland Senior HS,mens cross country,kansas
-205,George Letner,"Baldwin City, Kan.",Baldwin HS,mens cross country,kansas
-206,John Luder,"Shawnee, Kan.",Rockhurst HS,mens cross country,kansas
-207,Jack McDonald,"Fairway, Kan.",Shawnee Mission East HS,mens cross country,kansas
-208,Chris Melgares,"Manhattan, Kan.",Manhattan HS,mens cross country,kansas
-209,Michael Melgares,"Manhattan, Kan.",Manhattan HS,mens cross country,kansas
-210,Marcus Quere,"Loveland, Colo.",Loveland HS,mens cross country,kansas
-211,Bryce Richards,"Mundelein, Ill.",Mundelein HS,mens cross country,kansas
-212,Carson Vickroy,"Coppell, Texas",Coppell HS,mens cross country,kansas
-213,Jack Young,"Mission Hills, Kan.",Shawnee Mission East HS,mens cross country,kansas
-214,Alexys Barton,"Liberal, Mo.",Liberal HS,womens cross country,kansas
-215,Riley Cooney,"Loveland, Colo.",Mountain View HS,womens cross country,kansas
-216,Hannah Dimmick,"McLean, Va.",McLean HS,womens cross country,kansas
-217,Carly Flake,"Andover, Kan.",Andover HS,womens cross country,kansas
-218,Cameron Gueldner,"Olathe, Kan.",Olathe Northwest HS,womens cross country,kansas
-219,Lauren Harrell,"Shawnee, Kan.",Maranatha Academy,womens cross country,kansas
-220,Talley Hill,"Arroyo Grande, Calif.",Arroyo Grande HS,womens cross country,kansas
-221,Lisa Lauschke,"Rogers, Ark.",Rogers HS,womens cross country,kansas
-222,Catherine Liggett,"Parker, Colo.",Legend HS,womens cross country,kansas
-223,Sharon Lokedi,"Eldoret, Kenya",Kapkenda Girls' HS,womens cross country,kansas
-224,Alaina Schroeder,"Manhattan, Kan.",Manhattan HS,womens cross country,kansas
-225,Emmie Skopec,"Iowa City, Iowa",West HS,womens cross country,kansas
-226,Charlie Hillier,"Te Puke, New Zealand",Te Puke HS,mens golf,kansas
-227,Harry Hillier,"Te Puke, New Zealand",Te Puke HS,mens golf,kansas
-228,Daniel Hudson,"LaGrange, Ill.",Lyons Township HS,mens golf,kansas
-229,Jake Scarrow,"Mission, British Columbia",Hatzic Secondary,mens golf,kansas
-230,Drew Shepherd,"Chicago, Ill.",Hinsdale Central,mens golf,kansas
-231,Ben Sigel,"Deephaven, Minn.",Minnetonka HS,mens golf,kansas
-232,Andy Spencer,"Leawood, Kan.",Shawnee Mission East,mens golf,kansas
-233,Daniel Sutton,"Birmingham, England",Stretley School,mens golf,kansas
-234,Aristelle Acuff,"Springfield, Mo.",Kickapoo HS,womens golf,kansas
-235,Annika Cedo,"Makati, Philippines",St. Paul College Pasig,womens golf,kansas
-236,Victoria Chandra,"Denpasar, Bali",CHIS High School,womens golf,kansas
-237,Yi-Tsen Chou,"Kaohsiung, Taiwan",Kaohsiung Municipal San-min Senior High School,womens golf,kansas
-238,Ariadna Fonseca Diaz,"Caracas, Venezuela",Foundation Academy,womens golf,kansas
-239,Kallie Gonzales,"Montgomery, Texas",Montgomery HS,womens golf,kansas
-240,Chomchana  Phuchanbanchob,"Chiang Rai, Thailand",IJGA Academy,womens golf,kansas
-241,Sera Tadokoro,"Osaka, Japan",Heritage Academy,womens golf,kansas
-242,Pitsinee Winyarat,"Bangkok, Thailand",Bromsgrove International School,womens golf,kansas
-243,Xinyun Yu,"Shanghai, China",Shanghai Yan'an High School,womens golf,kansas
-244,Elizabeth Amato-Hanner,"Omaha, Neb.",Westside HS,womens swimming,kansas
-245,Briana Balsbough,"West Linn, Ore.",West Linn HS,womens swimming,kansas
-246,Breonna Barker,"Broken Arrow, Okla.",Broken Arrow HS,womens swimming,kansas
-247,Haley  Bishop,"Apex, N.C.",Panther Creek HS,womens swimming,kansas
-248,Crissie Blomquist,"Fairway, Kan.",Shawnee Mission East HS,womens swimming,kansas
-249,Peri Charapich,"Marietta, Ga.",Walton HS,womens swimming,kansas
-250,Jasmine Deng,"Overland Park, Kan.",Shawnee Mission East HS,womens swimming,kansas
-251,Haley Downey,"Bartlesville, Okla.",Bartlesville HS,womens swimming,kansas
-252,Hannah Driscoll,"Niwot, Colo.",Niwot HS,womens swimming,kansas
-253,T.J. Duckett,"St. Louis, Mo.",Fort Zumwalt North HS,womens swimming,kansas
-254,Nika Fellows,"Albuquerque, N.M.",La Cueva HS,womens swimming,kansas
-255,Ellie Flanagan,"Columbia, Mo.",Rock Bridge HS,womens swimming,kansas
-256,Madison Hutchison,"Wichita, Kan.",Bishop Carroll HS,womens swimming,kansas
-257,Nadia Khechfe,"Lincoln, Neb.",Lincoln HS,womens swimming,kansas
-258,Manon Manning,N/A,Lincoln HS,womens swimming,kansas
-259,Jenny Nusbaum,"Cary, N.C.",Green Hope HS,womens swimming,kansas
-260,Lauryn Parrish,"Fishers, Ind.",Fishers HS,womens swimming,kansas
-261,Cassaundra  Pino,"Albuquerque, N.M.",Albuquerque HS,womens swimming,kansas
-262,Lydia Pocisk,"Dayton, Ohio",Oakwood HS,womens swimming,kansas
-263,Katy Schlies,"Carmel, Ind.",Carmel HS,womens swimming,kansas
-264,Caroline Schultz,"Carmel, Ind.",Carmel HS,womens swimming,kansas
-265,Taylor  Sieperda,"Spirit Lake, Iowa",Spirit Lake HS,womens swimming,kansas
-266,Carly Straight,"Fort Worth, Texas",Keller Central HS,womens swimming,kansas
-267,Madison Straight,"Fort Worth, Texas",Keller Central HS,womens swimming,kansas
-268,Zoya Wahlstrom,"Lakeville, Minn.",Lakeville North HS,womens swimming,kansas
-269,Libby  Walker,"Columbia, Mo.",Hickman HS,womens swimming,kansas
-270,Nina Khmelnitckaia,"Moscow, Russia",School of Mytishchi #8,womens tennis,kansas
-271,Janet Koch,"Durbanville, South Africa",Curro Durbanville,womens tennis,kansas
-272,Anastasia Rychagova,"Moscow, Russia",Moscow 197,womens tennis,kansas
-273,Maria Toran Ribes,"Algemesí, Spain",IES Jose Maria Parra,womens tennis,kansas
-274,Despoina  Vogasari,"Athens, Greece",Geniko Lykeio Drosia/Houston,womens tennis,kansas
-275,Barden Adams,"West Orange, N.J.",West Orange HS,mens track,kansas
-276,Hussain Al Hizam,"Jubail, Saudi Arabia",Kaab bin Malek,mens track,kansas
-277,Matt Anyiwo,"Flossmoor, Ill.",Homewood-Flossmoor HS,mens track,kansas
-278,Paulo Benavides,"El Paso, Texas",El Paso Franklin HS,mens track,kansas
-279,Ben Burchstead,"Overland Park, Kan.",Shawnee Mission North HS,mens track,kansas
-280,Nicolai Ceban,"Camenca, Moldova",Liceul Teoretic Alexei Mateevici,mens track,kansas
-281,Isaiah Cole,"Hazelwood, Mo.",Hazelwood West HS,mens track,kansas
-282,Quentin Dancer,"West, Texas",West HS,mens track,kansas
-283,Tre Daniels,"Manhattan, Kan.",Manhattan HS,mens track,kansas
-284,Marcus Davis,"Florissant, Mo.",Hazelwood Central HS,mens track,kansas
-285,Ethan Donley,"Lawrence, Kan.",Lawrence Free State HS,mens track,kansas
-286,Gleb Dudarev,"Vitebsk, Belarus",Vitebsk State College,mens track,kansas
-287,George Evans,"Inverness, Scotland",Strathallan School,mens track,kansas
-288,Quanah Gardiner,"Ashland, Kan.",Ashland HS,mens track,kansas
-289,Nick Giusti,"Wichita, Kan.",Bishop Carroll Catholic HS,mens track,kansas
-290,Chris Gleghorn,"Maryland Heights, Mo.",Pattonville HS,mens track,kansas
-291,Jacob Goldberg,"Milwaukee, Wis.",Shorewood HS,mens track,kansas
-292,Mitch Grosserode,"Lincoln, Neb.",Lincoln Pius X HS,mens track,kansas
-293,Avery Hale,"New Town, N.D.",New Town HS,mens track,kansas
-294,Chace Hale,"New Town, N.D.",New Town HS,mens track,kansas
-295,Jaron Hartley,"Houston, Texas",Houston Westside HS,mens track,kansas
-296,Ivan Henry,"St. Catherine, Jamaica",St. Jago HS,mens track,kansas
-297,Christian Hicks,"Derby, Kan.",Derby HS,mens track,kansas
-298,Dylan Hodgson,"Washington, Kan.",Washington County HS,mens track,kansas
-299,Bryce Hoppel,"Midland, Texas",Midland Senior HS,mens track,kansas
-300,Cody Johnson,"El Paso, Texas",El Paso Franklin HS,mens track,kansas
-301,Braden Kleinschmidt,"Lincoln, Neb.",Lincoln East HS,mens track,kansas
-302,George Letner,"Baldwin City, Kan.",Baldwin HS,mens track,kansas
-303,Brandon Lombardino,"Round Lake, Ill.",Grant Community HS,mens track,kansas
-304,Joel Long,"Topeka, Kan.",Topeka HS,mens track,kansas
-305,John Luder,"Shawnee, Kan.",Rockhurst HS,mens track,kansas
-306,Jack McDonald,"Fairway, Kan.",Shawnee Mission East HS,mens track,kansas
-307,Michael Melgares,"Manhattan, Kan.",Manhattan HS,mens track,kansas
-308,Chris Melgares,"Manhattan, Kan.",Manhattan HS,mens track,kansas
-309,Nick Meyer,"Kingman, Kan.",Bishop Carroll HS,mens track,kansas
-310,Dinsdale Morgan,"Overland Park, Kan.",Blue Valley Southwest HS,mens track,kansas
-311,David-Marquis Patrick,"Austin, Texas",Lake Travis HS,mens track,kansas
-312,Chase Pennewell,"Monroe City, Mo.",Monroe City HS,mens track,kansas
-313,Marcus Quere,"Loveland, Colo.",Loveland HS,mens track,kansas
-314,Javan Reece,"Lantana, Texas",Guyer HS,mens track,kansas
-315,Darius Releford,"Edmond, Okla.",Edmond Memorial HS,mens track,kansas
-316,Kyle Rogers,"Liberty, Mo.",Liberty HS,mens track,kansas
-317,Lucas Shaw,"Topeka, Kan.",Seaman HS,mens track,kansas
-318,Aaron Thacker,"Olathe, Kan.",Olathe South HS,mens track,kansas
-319,Joshua Washington,"Leawood, Kan.",Blue Valley HS,mens track,kansas
-320,Ezekiel Welch,"Wichita, Kan.",Maize HS,mens track,kansas
-321,Jack Young,"Mission Hills, Kan.",Shawnee Mission East HS,mens track,kansas
-322,Chloe Akin-Otiko,"Bellevue, Neb.",Bellevue West HS,womens track,kansas
-323,Alexys Barton,"Liberal, Mo.",Liberal HS,womens track,kansas
-324,Khristen Bryant,"Columbia, Mo.",Columbia Independent HS,womens track,kansas
-325,Jedah Caldwell,"Chanhassen, Minn.",Chanhassen HS,womens track,kansas
-326,Rachel Clowers,"Pleasant Hill, Ill.",Pleasant Hill HS,womens track,kansas
-327,Daria Cook,"Fairfield, Calif.",Vacaville HS,womens track,kansas
-328,Riley Cooney,"Loveland, Colo.",Mountain View HS,womens track,kansas
-329,Courtney Coppinger,"Leawood, Kan.",St. Teresa's Academy,womens track,kansas
-330,Gabbi Dabney,"Lawrence, Kan.",Lawrence Free State HS,womens track,kansas
-331,Dorie Dalzell,"Sammamish, Wash.",Skyline HS,womens track,kansas
-332,Zantori Dickerson,"Judson, Texas",Converse Judson HS,womens track,kansas
-333,Hannah Dimmick,"McLean, Va.",McLean HS,womens track,kansas
-334,Hannah Driscoll,"Niwot, Colo.",Niwot HS,womens track,kansas
-335,Adia Eberle,"Freeman, Mo.",Midway HS,womens track,kansas
-336,Alexandra Emilianov,"Chisinau, Moldova",Liceul Natalia Gheorghiu,womens track,kansas
-337,Marleena Eubanks,"Kingston, Jamaica",Edwin Allen HS,womens track,kansas
-338,Honour Finley,"Bloomington, Minn.",John F. Kennedy HS,womens track,kansas
-339,Carly Flake,"Andover, Kan.",Andover HS,womens track,kansas
-340,Courtney Griffiths,"Arkansas City, Kan.",Winfield HS,womens track,kansas
-341,Morgan Griffiths,"St. Charles, Mo.",St. Charles West HS,womens track,kansas
-342,Cameron Gueldner,"Olathe, Kan.",Olathe Northwest HS,womens track,kansas
-343,Lauren Harrell,"Shawnee, Kan.",Maranatha Academy,womens track,kansas
-344,Callie Hicks,"Lawrence, Kan.",Lawrence Free State HS,womens track,kansas
-345,Talley Hill,"Arroyo Grande, Calif.",Arroyo Grande HS,womens track,kansas
-346,Teri Huslig,"Lawrence, Kan.",Veritas Christian School,womens track,kansas
-347,LaTyria Jefferson,"Desoto, Texas",Desoto HS,womens track,kansas
-348,Mariah Kuykendoll,"Judson, Texas",Converse Judson HS,womens track,kansas
-349,Lisa Lauschke,"Rogers, Ark.",Rogers HS,womens track,kansas
-350,Catherine Liggett,"Parker, Colo.",Legend HS,womens track,kansas
-351,Megan Linder,"Eagan, Minn.",Cretin-Derham Hall HS,womens track,kansas
-352,Sharon Lokedi,"Eldoret, Kenya",Kapkenda Girls' HS,womens track,kansas
-353,Shalei Matthews,"Independence, Kan.",Independence HS,womens track,kansas
-354,Nicole Montgomery,"Colorado Springs, Colo.",Lewis-Palmer HS,womens track,kansas
-355,Morganne Mukes,"Edmond, Okla.",Edmond Memorial HS,womens track,kansas
-356,Wumi Omare,"Overland Park, Kan.",Blue Valley North HS,womens track,kansas
-357,Megan Paule,"Overland Park, Kan.",Blue Valley Southwest HS,womens track,kansas
-358,Lea Riedel,"Esslingen, Germany",Wirtemberg Gymnasium,womens track,kansas
-359,Alexis Romero,"Reno, Nev.",Wooster HS,womens track,kansas
-360,Zainab Sanni,"Aurora, Colo.",Smoky Hill HS,womens track,kansas
-361,Alaina Schroeder,"Manhattan, Kan.",Manhattan HS,womens track,kansas
-362,Anna Siemens,"Rogers, Ark.",Providence Academy,womens track,kansas
-363,Emmie Skopec,"Iowa City, Iowa",West HS,womens track,kansas
-364,Caraline Slattery,"Lakeville, Minn.",Lakeville South HS,womens track,kansas
-365,Shaylyn Stallbaumer,"Seneca, Kan.",Nemaha Central HS,womens track,kansas
-366,Bailee Swift,"Cottonwood Falls, Kan.",Chase County HS,womens track,kansas
-367,Laura Taylor,"Tualatin, Ore.",Tualatin HS,womens track,kansas
-368,Taryn Tempel,"Garden City, Kan.",Garden City HS,womens track,kansas
-369,Allie Twietmeyer,"Cheney, Kan.",Cheney HS,womens track,kansas
-370,Andrea Willis,"Colorado Springs, Colo.",Classical Academy,womens track,kansas
-371,London Acree,"Mahomet, Illinois",Mahomet-Seymour HS,womens rowing,kansas
-372,Megan Akers,"Newton, Kansas",Newton HS,womens rowing,kansas
-373,Peyton Anderson,"Leawood, Kansas",Saratoga HS [Calif.],womens rowing,kansas
-374,Reese Arnold,"Centreville, Virginia",Westfield HS,womens rowing,kansas
-375,Hannah Bishop,"Independence, Missouri",Van Horn HS,womens rowing,kansas
-376,Kalyn Blessing,"Great Bend, Kansas",Great Bend HS,womens rowing,kansas
-377,Bailey  Blood,"Overland Park, Kansas",Blue Valley Southwest HS,womens rowing,kansas
-378,Taylor  Brown,"West Chester, Ohio",Lakota West HS,womens rowing,kansas
-379,Heidi Burns,"Girard, Kansas",Girard HS,womens rowing,kansas
-380,Shannon Cody,"Alamosa, Colorado",Alamosa HS,womens rowing,kansas
-381,Katie Donnellan,"Kansas City, Missouri",St. Theresa's Academy,womens rowing,kansas
-382,Maggie Duffy,"Wyoming, Minnesota",Forest Lake HS,womens rowing,kansas
-383,Maggie Dupuie,"Traverse City, Michigan",Traverse City Central HS,womens rowing,kansas
-384,Kate Englander,"Woodinville, Washington",Redmond HS,womens rowing,kansas
-385,Lauren Fee,"Rochester, Minnesota",John Marshall HS,womens rowing,kansas
-386,Kaitlyn Finger,"Larned, Kansas",Larned HS,womens rowing,kansas
-387,Jaryn  Folk,"Parsons, Kansas",Parsons HS,womens rowing,kansas
-388,Moira Frakes,"Overland Park, Kansas",Spring Hill HS,womens rowing,kansas
-389,Samantha Hanley,"McHenry, Illinois",McHenry HS,womens rowing,kansas
-390,Isabel Horosz,"Olathe, Kansas",Olathe North HS,womens rowing,kansas
-391,Hailey Humiston,"Lincoln, Nebraska",Lincoln Southwest HS,womens rowing,kansas
-392,Emily Hybl,"Wichita, Kansas",Bishop Carroll Catholic HS,womens rowing,kansas
-393,Julia Isbell,"San Diego, California",Academy of Our Lady of Peace,womens rowing,kansas
-394,Anne Kelly,"Chicago, Illinois",Mother McAuley HS,womens rowing,kansas
-395,Kelly Koenigsman,"Hays, Kansas",Hays HS,womens rowing,kansas
-396,Morgan Kottas,"Great Bend, Kansas",Great Bend HS,womens rowing,kansas
-397,Kate Mizell,"Bradenton, Florida",Sarasota Military Academy,womens rowing,kansas
-398,Kaeli Nielsen,"Burlingame, California",Mercy HS,womens rowing,kansas
-399,Liana Ochoa,"Leavenworth, Kansas",Ramstein HS,womens rowing,kansas
-400,Aminah Reid-Brydon,"Sunrise, Florida",Brentwood School,womens rowing,kansas
-401,McKayla Ross,"Kansas City, Missouri",Shawnee Mission Northwest HS,womens rowing,kansas
-402,Laurel Salisbury,"Tulsa, Oklahoma",Holland Hall HS,womens rowing,kansas
-403,Lilly Stewart,"Tecumseh, Kansas",Shawnee Heights HS,womens rowing,kansas
-404,Raven Swingler,"Florissant, Missouri",Hazelwood Central HS,womens rowing,kansas
-405,Valerie Swisher,"Wamego, Kansas",Wamego HS,womens rowing,kansas
-406,Michaela Theis,"Kingman, Kansas",Kingman HS,womens rowing,kansas
-407,Celia Tise,"Apple Valley, Minnesota",Saint Paul Conservatory for Performing Artists,womens rowing,kansas
-408,Kristen Underhill,"Columbus, Ohio",New Albany HS,womens rowing,kansas
-409,Anna Van Driel,"Derby, Kansas",Rose Hill HS,womens rowing,kansas
-410,Riley Varuska,"Kansas City, Missouri",Staley HS,womens rowing,kansas
-411,Emma Yowell,"McPherson, Kansas",McPherson HS,womens rowing,kansas
-412,Sam Dellinger,"Papillion, Neb.",Papillion-La Vista HS,softball,kansas
-413,Cheyenne Hornbuckle,"Bakersfield, Calif.",Stockdale HS,softball,kansas
+160,Jelani Brown,"San Jose, Calif.",Oak Grove HS,football,kansas
+161,Jelani Arnold,"Irving, Texas",MacArthur HS,football,kansas
+162,Cole Brungardt,"Lawrence, Kan.",Lawrence HS,football,kansas
+163,Donovan Gagen,"Belleville, Ill.",Althoff Catholic HS,football,kansas
+164,Sam Burt,"Abilene, Kan.",Abilene HS,football,kansas
+165,Codey Cole,"Ypsilanti, Mich.",Bellevue HS,football,kansas
+166,Vaughn Taylor Jr.,"Washington, D.C.",Friendship Collegiate Academy,football,kansas
+167,Daniel  Wise,"Lewisville, Texas",Hebron HS,football,kansas
+168,KeyShaun Simmons,"Jackson, Miss.",Ridgeland HS,football,kansas
+169,Foster Dixson,"Los Angeles, Calif.",Fairfax HS,football,kansas
+170,Lauren Breshears,"St. Peters, Mo.",Fort Zumwalt South HS,womens soccer,kansas
+171,Sarah Peters,"Lee's Summit, Mo.",Lee's Summit North HS,womens soccer,kansas
+172,Regan Gibbs,"Naches, Wash.",West Valley HS,womens soccer,kansas
+173,Kaycie Young,"Castle Rock, Colo.",Rock Canyon HS,womens soccer,kansas
+174,Maya Swaby,"Hamilton, Ont.",Bishop Ryan Secondary,womens soccer,kansas
+175,Kailey Lane,"Omaha, Neb.",Millard North HS,womens soccer,kansas
+176,Olivia Pesek,"Omaha, Neb.",Millard West HS,womens soccer,kansas
+177,Kaela Hansen,"Burnaby, B.C.",Burnaby Central Secondary,womens soccer,kansas
+178,Avery Hall,"McKinney, Texas",McKinney Boyd HS,womens soccer,kansas
+179,Anna Courtney,"Parkville, Mo.",Park Hill South HS,womens soccer,kansas
+180,Madison Meador,"Ballwin, Mo.",Marquette HS,womens soccer,kansas
+181,Miriam Melugin,"Springfield, Mo.",Kickapoo HS,womens soccer,kansas
+182,Chais Wright,"Kansas City, Mo.",Park Hill HS,womens soccer,kansas
+183,Katie McClure,"Wichita, Kan.",Maize HS,womens soccer,kansas
+184,Kathryn Castro,"Plano, Texas",Plano West Senior High,womens soccer,kansas
+185,Sam Barnett,"Edmond, Okla.",Edmond Memorial HS,womens soccer,kansas
+186,Ceri Holland,"West Yorkshire, England",South Craven School,womens soccer,kansas
+187,Italia Bradley,"Coppell, Texas",Coppell HS,womens soccer,kansas
+188,Taylor Christie,"Overland Park, Kan.",Shawnee Mission South HS,womens soccer,kansas
+189,Emelie Gavillet,"Montreux, Switzerland",Wilhelm Hausenstein Gymnasium,womens soccer,kansas
+190,Eva Elíasdóttir,"Thorlakshofn, Iceland",Fjölbrautaskóli Suðurlands,womens soccer,kansas
+191,Avery Ripple,"Papillion, Neb.",Papillion La-Vista South HS,womens soccer,kansas
+192,Isabella Cavalcante,"Glen Ellyn, Ill.",Glenbard West HS,womens soccer,kansas
+193,Mandi Duggan,"Aurora, Colo.",Grandview HS,womens soccer,kansas
+194,Grace Wiltgen,"Denton, Texas",Denton HS,womens soccer,kansas
+195,Elise Reina,"Fayetteville, Ark.",Har-Ber HS,womens soccer,kansas
+196,Grace Hagan,"Wichita, Kan.",Kapaun Mt. Carmel Catholic HS,womens soccer,kansas
+197,Addisyn Merrick,"Lee's Summit, Mo.",Lee's Summit North HS,womens soccer,kansas
+198,Sophie Maierhofer,"Graz, Austria",University of Bremen,womens soccer,kansas
+199,Bri Amos,"Tulsa, Okla.",Union HS,womens soccer,kansas
+200,Ben Burchstead,"Overland Park, Kan.",Shawnee Mission North HS,mens cross country,kansas
+201,Ethan Donley,"Lawrence, Kan.",Lawrence Free State HS,mens cross country,kansas
+202,Quanah Gardiner,"Ashland, Kan.",Ashland HS,mens cross country,kansas
+203,Avery Hale,"New Town, N.D.",New Town HS,mens cross country,kansas
+204,Chace Hale,"New Town, N.D.",New Town HS,mens cross country,kansas
+205,Dylan Hodgson,"Washington, Kan.",Washington County HS,mens cross country,kansas
+206,Bryce Hoppel,"Midland, Texas",Midland Senior HS,mens cross country,kansas
+207,George Letner,"Baldwin City, Kan.",Baldwin HS,mens cross country,kansas
+208,John Luder,"Shawnee, Kan.",Rockhurst HS,mens cross country,kansas
+209,Jack McDonald,"Fairway, Kan.",Shawnee Mission East HS,mens cross country,kansas
+210,Chris Melgares,"Manhattan, Kan.",Manhattan HS,mens cross country,kansas
+211,Michael Melgares,"Manhattan, Kan.",Manhattan HS,mens cross country,kansas
+212,Marcus Quere,"Loveland, Colo.",Loveland HS,mens cross country,kansas
+213,Bryce Richards,"Mundelein, Ill.",Mundelein HS,mens cross country,kansas
+214,Carson Vickroy,"Coppell, Texas",Coppell HS,mens cross country,kansas
+215,Jack Young,"Mission Hills, Kan.",Shawnee Mission East HS,mens cross country,kansas
+216,Alexys Barton,"Liberal, Mo.",Liberal HS,womens cross country,kansas
+217,Riley Cooney,"Loveland, Colo.",Mountain View HS,womens cross country,kansas
+218,Hannah Dimmick,"McLean, Va.",McLean HS,womens cross country,kansas
+219,Carly Flake,"Andover, Kan.",Andover HS,womens cross country,kansas
+220,Cameron Gueldner,"Olathe, Kan.",Olathe Northwest HS,womens cross country,kansas
+221,Lauren Harrell,"Shawnee, Kan.",Maranatha Academy,womens cross country,kansas
+222,Talley Hill,"Arroyo Grande, Calif.",Arroyo Grande HS,womens cross country,kansas
+223,Lisa Lauschke,"Rogers, Ark.",Rogers HS,womens cross country,kansas
+224,Catherine Liggett,"Parker, Colo.",Legend HS,womens cross country,kansas
+225,Sharon Lokedi,"Eldoret, Kenya",Kapkenda Girls' HS,womens cross country,kansas
+226,Alaina Schroeder,"Manhattan, Kan.",Manhattan HS,womens cross country,kansas
+227,Emmie Skopec,"Iowa City, Iowa",West HS,womens cross country,kansas
+228,Charlie Hillier,"Te Puke, New Zealand",Te Puke HS,mens golf,kansas
+229,Harry Hillier,"Te Puke, New Zealand",Te Puke HS,mens golf,kansas
+230,Daniel Hudson,"LaGrange, Ill.",Lyons Township HS,mens golf,kansas
+231,Jake Scarrow,"Mission, British Columbia",Hatzic Secondary,mens golf,kansas
+232,Ben Sigel,"Deephaven, Minn.",Minnetonka HS,mens golf,kansas
+233,Andy Spencer,"Leawood, Kan.",Shawnee Mission East,mens golf,kansas
+234,Daniel Sutton,"Birmingham, England",Stretley School,mens golf,kansas
+235,Aristelle Acuff,"Springfield, Mo.",Kickapoo HS,womens golf,kansas
+236,Annika Cedo,"Makati, Philippines",St. Paul College Pasig,womens golf,kansas
+237,Victoria Chandra,"Denpasar, Bali",CHIS High School,womens golf,kansas
+238,Yi-Tsen Chou,"Kaohsiung, Taiwan",Kaohsiung Municipal San-min Senior High School,womens golf,kansas
+239,Ariadna Fonseca Diaz,"Caracas, Venezuela",Foundation Academy,womens golf,kansas
+240,Kallie Gonzales,"Montgomery, Texas",Montgomery HS,womens golf,kansas
+241,Chomchana  Phuchanbanchob,"Chiang Rai, Thailand",IJGA Academy,womens golf,kansas
+242,Sera Tadokoro,"Osaka, Japan",Heritage Academy,womens golf,kansas
+243,Pitsinee Winyarat,"Bangkok, Thailand",Bromsgrove International School,womens golf,kansas
+244,Xinyun Yu,"Shanghai, China",Shanghai Yan'an High School,womens golf,kansas
+245,Elizabeth Amato-Hanner,"Omaha, Neb.",Westside HS,womens swimming,kansas
+246,Briana Balsbough,"West Linn, Ore.",West Linn HS,womens swimming,kansas
+247,Breonna Barker,"Broken Arrow, Okla.",Broken Arrow HS,womens swimming,kansas
+248,Haley  Bishop,"Apex, N.C.",Panther Creek HS,womens swimming,kansas
+249,Crissie Blomquist,"Fairway, Kan.",Shawnee Mission East HS,womens swimming,kansas
+250,Peri Charapich,"Marietta, Ga.",Walton HS,womens swimming,kansas
+251,Jasmine Deng,"Overland Park, Kan.",Shawnee Mission East HS,womens swimming,kansas
+252,Haley Downey,"Bartlesville, Okla.",Bartlesville HS,womens swimming,kansas
+253,Hannah Driscoll,"Niwot, Colo.",Niwot HS,womens swimming,kansas
+254,T.J. Duckett,"St. Louis, Mo.",Fort Zumwalt North HS,womens swimming,kansas
+255,Nika Fellows,"Albuquerque, N.M.",La Cueva HS,womens swimming,kansas
+256,Ellie Flanagan,"Columbia, Mo.",Rock Bridge HS,womens swimming,kansas
+257,Madison Hutchison,"Wichita, Kan.",Bishop Carroll HS,womens swimming,kansas
+258,Nadia Khechfe,"Lincoln, Neb.",Lincoln HS,womens swimming,kansas
+259,Manon Manning,N/A,N/A,womens swimming,kansas
+260,Jenny Nusbaum,"Cary, N.C.",Green Hope HS,womens swimming,kansas
+261,Lauryn Parrish,"Fishers, Ind.",Fishers HS,womens swimming,kansas
+262,Cassaundra  Pino,"Albuquerque, N.M.",Albuquerque HS,womens swimming,kansas
+263,Lydia Pocisk,"Dayton, Ohio",Oakwood HS,womens swimming,kansas
+264,Katy Schlies,"Carmel, Ind.",Carmel HS,womens swimming,kansas
+265,Caroline Schultz,"Carmel, Ind.",Carmel HS,womens swimming,kansas
+266,Taylor  Sieperda,"Spirit Lake, Iowa",Spirit Lake HS,womens swimming,kansas
+267,Carly Straight,"Fort Worth, Texas",Keller Central HS,womens swimming,kansas
+268,Madison Straight,"Fort Worth, Texas",Keller Central HS,womens swimming,kansas
+269,Zoya Wahlstrom,"Lakeville, Minn.",Lakeville North HS,womens swimming,kansas
+270,Libby  Walker,"Columbia, Mo.",Hickman HS,womens swimming,kansas
+271,Nina Khmelnitckaia,"Moscow, Russia",School of Mytishchi #8,womens tennis,kansas
+272,Janet Koch,"Durbanville, South Africa",Curro Durbanville,womens tennis,kansas
+273,Anastasia Rychagova,"Moscow, Russia",Moscow 197,womens tennis,kansas
+274,Maria Toran Ribes,"Algemesí, Spain",IES Jose Maria Parra,womens tennis,kansas
+275,Despoina  Vogasari,"Athens, Greece",Geniko Lykeio Drosia/Houston,womens tennis,kansas
+276,Barden Adams,"West Orange, N.J.",West Orange HS,mens track,kansas
+277,Hussain Al Hizam,"Jubail, Saudi Arabia",Kaab bin Malek,mens track,kansas
+278,Matt Anyiwo,"Flossmoor, Ill.",Homewood-Flossmoor HS,mens track,kansas
+279,Paulo Benavides,"El Paso, Texas",El Paso Franklin HS,mens track,kansas
+280,Ben Burchstead,"Overland Park, Kan.",Shawnee Mission North HS,mens track,kansas
+281,Nicolai Ceban,"Camenca, Moldova",Liceul Teoretic Alexei Mateevici,mens track,kansas
+282,Isaiah Cole,"Hazelwood, Mo.",Hazelwood West HS,mens track,kansas
+283,Quentin Dancer,"West, Texas",West HS,mens track,kansas
+284,Tre Daniels,"Manhattan, Kan.",Manhattan HS,mens track,kansas
+285,Marcus Davis,"Florissant, Mo.",Hazelwood Central HS,mens track,kansas
+286,Ethan Donley,"Lawrence, Kan.",Lawrence Free State HS,mens track,kansas
+287,Gleb Dudarev,"Vitebsk, Belarus",Vitebsk State College,mens track,kansas
+288,George Evans,"Inverness, Scotland",Strathallan School,mens track,kansas
+289,Quanah Gardiner,"Ashland, Kan.",Ashland HS,mens track,kansas
+290,Nick Giusti,"Wichita, Kan.",Bishop Carroll Catholic HS,mens track,kansas
+291,Chris Gleghorn,"Maryland Heights, Mo.",Pattonville HS,mens track,kansas
+292,Jacob Goldberg,"Milwaukee, Wis.",Shorewood HS,mens track,kansas
+293,Mitch Grosserode,"Lincoln, Neb.",Lincoln Pius X HS,mens track,kansas
+294,Avery Hale,"New Town, N.D.",New Town HS,mens track,kansas
+295,Chace Hale,"New Town, N.D.",New Town HS,mens track,kansas
+296,Jaron Hartley,"Houston, Texas",Houston Westside HS,mens track,kansas
+297,Ivan Henry,"St. Catherine, Jamaica",St. Jago HS,mens track,kansas
+298,Christian Hicks,"Derby, Kan.",Derby HS,mens track,kansas
+299,Dylan Hodgson,"Washington, Kan.",Washington County HS,mens track,kansas
+300,Bryce Hoppel,"Midland, Texas",Midland Senior HS,mens track,kansas
+301,Cody Johnson,"El Paso, Texas",El Paso Franklin HS,mens track,kansas
+302,Braden Kleinschmidt,"Lincoln, Neb.",Lincoln East HS,mens track,kansas
+303,George Letner,"Baldwin City, Kan.",Baldwin HS,mens track,kansas
+304,Brandon Lombardino,"Round Lake, Ill.",Grant Community HS,mens track,kansas
+305,Joel Long,"Topeka, Kan.",Topeka HS,mens track,kansas
+306,John Luder,"Shawnee, Kan.",Rockhurst HS,mens track,kansas
+307,Jack McDonald,"Fairway, Kan.",Shawnee Mission East HS,mens track,kansas
+308,Michael Melgares,"Manhattan, Kan.",Manhattan HS,mens track,kansas
+309,Chris Melgares,"Manhattan, Kan.",Manhattan HS,mens track,kansas
+310,Nick Meyer,"Kingman, Kan.",Bishop Carroll HS,mens track,kansas
+311,Dinsdale Morgan,"Overland Park, Kan.",Blue Valley Southwest HS,mens track,kansas
+312,David-Marquis Patrick,"Austin, Texas",Lake Travis HS,mens track,kansas
+313,Chase Pennewell,"Monroe City, Mo.",Monroe City HS,mens track,kansas
+314,Marcus Quere,"Loveland, Colo.",Loveland HS,mens track,kansas
+315,Javan Reece,"Lantana, Texas",Guyer HS,mens track,kansas
+316,Darius Releford,"Edmond, Okla.",Edmond Memorial HS,mens track,kansas
+317,Kyle Rogers,"Liberty, Mo.",Liberty HS,mens track,kansas
+318,Lucas Shaw,"Topeka, Kan.",Seaman HS,mens track,kansas
+319,Aaron Thacker,"Olathe, Kan.",Olathe South HS,mens track,kansas
+320,Joshua Washington,"Leawood, Kan.",Blue Valley HS,mens track,kansas
+321,Ezekiel Welch,"Wichita, Kan.",Maize HS,mens track,kansas
+322,Jack Young,"Mission Hills, Kan.",Shawnee Mission East HS,mens track,kansas
+323,Chloe Akin-Otiko,"Bellevue, Neb.",Bellevue West HS,womens track,kansas
+324,Alexys Barton,"Liberal, Mo.",Liberal HS,womens track,kansas
+325,Khristen Bryant,"Columbia, Mo.",Columbia Independent HS,womens track,kansas
+326,Jedah Caldwell,"Chanhassen, Minn.",Chanhassen HS,womens track,kansas
+327,Rachel Clowers,"Pleasant Hill, Ill.",Pleasant Hill HS,womens track,kansas
+328,Daria Cook,"Fairfield, Calif.",Vacaville HS,womens track,kansas
+329,Riley Cooney,"Loveland, Colo.",Mountain View HS,womens track,kansas
+330,Courtney Coppinger,"Leawood, Kan.",St. Teresa's Academy,womens track,kansas
+331,Gabbi Dabney,"Lawrence, Kan.",Lawrence Free State HS,womens track,kansas
+332,Dorie Dalzell,"Sammamish, Wash.",Skyline HS,womens track,kansas
+333,Zantori Dickerson,"Judson, Texas",Converse Judson HS,womens track,kansas
+334,Hannah Dimmick,"McLean, Va.",McLean HS,womens track,kansas
+335,Hannah Driscoll,"Niwot, Colo.",Niwot HS,womens track,kansas
+336,Adia Eberle,"Freeman, Mo.",Midway HS,womens track,kansas
+337,Alexandra Emilianov,"Chisinau, Moldova",Liceul Natalia Gheorghiu,womens track,kansas
+338,Marleena Eubanks,"Kingston, Jamaica",Edwin Allen HS,womens track,kansas
+339,Honour Finley,"Bloomington, Minn.",John F. Kennedy HS,womens track,kansas
+340,Carly Flake,"Andover, Kan.",Andover HS,womens track,kansas
+341,Courtney Griffiths,"Arkansas City, Kan.",Winfield HS,womens track,kansas
+342,Morgan Griffiths,"St. Charles, Mo.",St. Charles West HS,womens track,kansas
+343,Cameron Gueldner,"Olathe, Kan.",Olathe Northwest HS,womens track,kansas
+344,Lauren Harrell,"Shawnee, Kan.",Maranatha Academy,womens track,kansas
+345,Callie Hicks,"Lawrence, Kan.",Lawrence Free State HS,womens track,kansas
+346,Talley Hill,"Arroyo Grande, Calif.",Arroyo Grande HS,womens track,kansas
+347,Teri Huslig,"Lawrence, Kan.",Veritas Christian School,womens track,kansas
+348,LaTyria Jefferson,"Desoto, Texas",Desoto HS,womens track,kansas
+349,Mariah Kuykendoll,"Judson, Texas",Converse Judson HS,womens track,kansas
+350,Lisa Lauschke,"Rogers, Ark.",Rogers HS,womens track,kansas
+351,Catherine Liggett,"Parker, Colo.",Legend HS,womens track,kansas
+352,Megan Linder,"Eagan, Minn.",Cretin-Derham Hall HS,womens track,kansas
+353,Sharon Lokedi,"Eldoret, Kenya",Kapkenda Girls' HS,womens track,kansas
+354,Shalei Matthews,"Independence, Kan.",Independence HS,womens track,kansas
+355,Nicole Montgomery,"Colorado Springs, Colo.",Lewis-Palmer HS,womens track,kansas
+356,Morganne Mukes,"Edmond, Okla.",Edmond Memorial HS,womens track,kansas
+357,Wumi Omare,"Overland Park, Kan.",Blue Valley North HS,womens track,kansas
+358,Megan Paule,"Overland Park, Kan.",Blue Valley Southwest HS,womens track,kansas
+359,Lea Riedel,"Esslingen, Germany",Wirtemberg Gymnasium,womens track,kansas
+360,Alexis Romero,"Reno, Nev.",Wooster HS,womens track,kansas
+361,Zainab Sanni,"Aurora, Colo.",Smoky Hill HS,womens track,kansas
+362,Alaina Schroeder,"Manhattan, Kan.",Manhattan HS,womens track,kansas
+363,Anna Siemens,"Rogers, Ark.",Providence Academy,womens track,kansas
+364,Emmie Skopec,"Iowa City, Iowa",West HS,womens track,kansas
+365,Caraline Slattery,"Lakeville, Minn.",Lakeville South HS,womens track,kansas
+366,Shaylyn Stallbaumer,"Seneca, Kan.",Nemaha Central HS,womens track,kansas
+367,Bailee Swift,"Cottonwood Falls, Kan.",Chase County HS,womens track,kansas
+368,Laura Taylor,"Tualatin, Ore.",Tualatin HS,womens track,kansas
+369,Taryn Tempel,"Garden City, Kan.",Garden City HS,womens track,kansas
+370,Allie Twietmeyer,"Cheney, Kan.",Cheney HS,womens track,kansas
+371,Andrea Willis,"Colorado Springs, Colo.",Classical Academy,womens track,kansas
+372,London Acree,"Mahomet, Illinois",Mahomet-Seymour HS,womens rowing,kansas
+373,Megan Akers,"Newton, Kansas",Newton HS,womens rowing,kansas
+374,Peyton Anderson,"Leawood, Kansas",Saratoga HS [Calif.],womens rowing,kansas
+375,Reese Arnold,"Centreville, Virginia",Westfield HS,womens rowing,kansas
+376,Hannah Bishop,"Independence, Missouri",Van Horn HS,womens rowing,kansas
+377,Kalyn Blessing,"Great Bend, Kansas",Great Bend HS,womens rowing,kansas
+378,Bailey  Blood,"Overland Park, Kansas",Blue Valley Southwest HS,womens rowing,kansas
+379,Taylor  Brown,"West Chester, Ohio",Lakota West HS,womens rowing,kansas
+380,Heidi Burns,"Girard, Kansas",Girard HS,womens rowing,kansas
+381,Shannon Cody,"Alamosa, Colorado",Alamosa HS,womens rowing,kansas
+382,Katie Donnellan,"Kansas City, Missouri",St. Theresa's Academy,womens rowing,kansas
+383,Maggie Duffy,"Wyoming, Minnesota",Forest Lake HS,womens rowing,kansas
+384,Maggie Dupuie,"Traverse City, Michigan",Traverse City Central HS,womens rowing,kansas
+385,Kate Englander,"Woodinville, Washington",Redmond HS,womens rowing,kansas
+386,Lauren Fee,"Rochester, Minnesota",John Marshall HS,womens rowing,kansas
+387,Kaitlyn Finger,"Larned, Kansas",Larned HS,womens rowing,kansas
+388,Jaryn  Folk,"Parsons, Kansas",Parsons HS,womens rowing,kansas
+389,Moira Frakes,"Overland Park, Kansas",Spring Hill HS,womens rowing,kansas
+390,Samantha Hanley,"McHenry, Illinois",McHenry HS,womens rowing,kansas
+391,Isabel Horosz,"Olathe, Kansas",Olathe North HS,womens rowing,kansas
+392,Hailey Humiston,"Lincoln, Nebraska",Lincoln Southwest HS,womens rowing,kansas
+393,Emily Hybl,"Wichita, Kansas",Bishop Carroll Catholic HS,womens rowing,kansas
+394,Julia Isbell,"San Diego, California",Academy of Our Lady of Peace,womens rowing,kansas
+395,Anne Kelly,"Chicago, Illinois",Mother McAuley HS,womens rowing,kansas
+396,Kelly Koenigsman,"Hays, Kansas",Hays HS,womens rowing,kansas
+397,Morgan Kottas,"Great Bend, Kansas",Great Bend HS,womens rowing,kansas
+398,Kate Mizell,"Bradenton, Florida",Sarasota Military Academy,womens rowing,kansas
+399,Kaeli Nielsen,"Burlingame, California",Mercy HS,womens rowing,kansas
+400,Liana Ochoa,"Leavenworth, Kansas",Ramstein HS,womens rowing,kansas
+401,Aminah Reid-Brydon,"Sunrise, Florida",Brentwood School,womens rowing,kansas
+402,McKayla Ross,"Kansas City, Missouri",Shawnee Mission Northwest HS,womens rowing,kansas
+403,Laurel Salisbury,"Tulsa, Oklahoma",Holland Hall HS,womens rowing,kansas
+404,Lilly Stewart,"Tecumseh, Kansas",Shawnee Heights HS,womens rowing,kansas
+405,Raven Swingler,"Florissant, Missouri",Hazelwood Central HS,womens rowing,kansas
+406,Valerie Swisher,"Wamego, Kansas",Wamego HS,womens rowing,kansas
+407,Michaela Theis,"Kingman, Kansas",Kingman HS,womens rowing,kansas
+408,Celia Tise,"Apple Valley, Minnesota",Saint Paul Conservatory for Performing Artists,womens rowing,kansas
+409,Kristen Underhill,"Columbus, Ohio",New Albany HS,womens rowing,kansas
+410,Anna Van Driel,"Derby, Kansas",Rose Hill HS,womens rowing,kansas
+411,Riley Varuska,"Kansas City, Missouri",Staley HS,womens rowing,kansas
+412,Emma Yowell,"McPherson, Kansas",McPherson HS,womens rowing,kansas
+413,Sam Dellinger,"Papillion, Neb.",Papillion-La Vista HS,softball,kansas
 414,Mandy Roberts,"Lee's Summit, Mo.",Lee's Summit West HS,softball,kansas
 415,Madison Sykes,"Blue Springs, Mo.",Blue Springs HS,softball,kansas
 416,Brittany Jackson,"Mansfield, Texas",Lake Ridge HS,softball,kansas
@@ -420,26 +420,27 @@
 418,Tarin Travieso,"San Antonio, Texas",Antonian College Prep HS,softball,kansas
 419,Miranda Rodriguez,"Elk Grove, Calif.",Elk Grove HS,softball,kansas
 420,Becki  Monaghan,"Stony Plain, Alberta",Memorial Composite HS,softball,kansas
-421,Haidyn Bassett,"Oskaloosa, Kan.",Oskaloosa HS,softball,kansas
+421,Cheyenne Hornbuckle,"Bakersfield, Calif.",Stockdale HS,softball,kansas
 422,Macy Omli,"Goddard, Kan.",Eisenhower HS,softball,kansas
 423,Brynn Minor,"Wichita, Kan.",Eisenhower HS,softball,kansas
 424,Sydnee Ramsey,"Oklahoma City, Okla.",Westmoore HS,softball,kansas
-425,Zara  Voulgaris,"Lockport, Ill.",Lockport Township HS,softball,kansas
-426,Morgyn Wynne,"Pittsburg, Calif.",Concord HS,softball,kansas
-427,Addie Balderston,"Wildwood, Mo.",Lafayette HS,softball,kansas
+425,Morgyn Wynne,"Pittsburg, Calif.",Concord HS,softball,kansas
+426,Addie Balderston,"Wildwood, Mo.",Lafayette HS,softball,kansas
+427,Kirsten Pruett,"Bastrop, Texas",Cedar Creek HS,softball,kansas
 428,Emily  Bermel,"Lawrence, Kan.",Lawrence Free State HS,softball,kansas
 429,Shelby Gayre,"D'Hanis, Texas",D'Hanis HS,softball,kansas
-430,Jennifer Marwitz,"Oklahoma City, Okla.",Mount Saint Mary HS,softball,kansas
-431,Allie Nelson,"Chicago, Ill.",Oak Park-River Forest HS,womens volleyball,kansas
-432,Jacqui Mostrom,"Springfield, Mo.",Glendale HS,womens volleyball,kansas
-433,Jada Burse,"DeSoto, Texas",DeSoto HS,womens volleyball,kansas
-434,Gabby Simpson,"Colorado Springs, Colo.",Doherty HS,womens volleyball,kansas
-435,Zoe Hill,"Houston, Texas",Glenda Dawson HS,womens volleyball,kansas
-436,Mmachi Nwoke,"Grand Prairie, Texas",South Grand Prairie HS,womens volleyball,kansas
-437,Ashley Smith,"Las Vegas, Nev.",Shadow Ridge HS,womens volleyball,kansas
-438,Patricia Montero,"Ponce, Puerto Rico",Colegio Ponceño HS,womens volleyball,kansas
-439,Annika Carlson,"Olathe, Kan.",Olathe South HS,womens volleyball,kansas
-440,Lacey Angello,"Lansing, Kan.",Lansing HS,womens volleyball,kansas
-441,Kailea Carrier,"Olathe, Kan.",Olathe East HS,womens volleyball,kansas
-442,Camryn Ennis,"San Antonio, Texas",Reagan HS,womens volleyball,kansas
-443,Rachel Langs,"Fairview, Texas",Lovejoy HS,womens volleyball,kansas
+430,Hannah Todd,"Cartersville, Ga.",Cartersville HS,softball,kansas
+431,Jennifer Marwitz,"Oklahoma City, Okla.",Mount Saint Mary HS,softball,kansas
+432,Allie Nelson,"Chicago, Ill.",Oak Park-River Forest HS,womens volleyball,kansas
+433,Rachel Langs,"Fairview, Texas",Lovejoy HS,womens volleyball,kansas
+434,Jacqui Mostrom,"Springfield, Mo.",Glendale HS,womens volleyball,kansas
+435,Jada Burse,"DeSoto, Texas",DeSoto HS,womens volleyball,kansas
+436,Gabby Simpson,"Colorado Springs, Colo.",Doherty HS,womens volleyball,kansas
+437,Zoe Hill,"Houston, Texas",Glenda Dawson HS,womens volleyball,kansas
+438,Camryn Ennis,"San Antonio, Texas",Reagan HS,womens volleyball,kansas
+439,Kailea Carrier,"Olathe, Kan.",Olathe East HS,womens volleyball,kansas
+440,Mmachi Nwoke,"Grand Prairie, Texas",South Grand Prairie HS,womens volleyball,kansas
+441,Ashley Smith,"Las Vegas, Nev.",Shadow Ridge HS,womens volleyball,kansas
+442,Patricia Montero,"Ponce, Puerto Rico",Colegio Ponceño HS,womens volleyball,kansas
+443,Lacey Angello,"Lansing, Kan.",Lansing HS,womens volleyball,kansas
+444,Annika Carlson,"Olathe, Kan.",Olathe South HS,womens volleyball,kansas

@@ -7,14 +7,7 @@ import _proj_functions as proj
 import _lookups as lookups
 import re
 
-class MyOpener(FancyURLopener):
-	version = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11)'
-myopener = MyOpener()
-
 outdir = '../output'
-
-# mens and womens swimming not connecting to web page on 4/16/2018
-# mens tennis hometowns not listed on main page
 
 ##### kentucky #################
 school = 'kentucky'
@@ -30,8 +23,8 @@ sports_dict['mens soccer'] = ['msoc']
 sports_dict['womens soccer'] = ['wsoc']
 sports_dict['mens golf'] = ['mgolf']
 sports_dict['womens golf'] = ['wgolf']
-# sports_dict['mens swimming'] = ['swimming']
-# sports_dict['womens swimming'] = ['swimming']
+sports_dict['mens swimming'] = ['mswim']
+sports_dict['womens swimming'] = ['wswim']
 sports_dict['mens tennis'] = ['mten']
 sports_dict['womens tennis'] = ['wten']
 sports_dict['mens track'] = ['track']

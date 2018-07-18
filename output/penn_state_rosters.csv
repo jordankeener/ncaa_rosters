@@ -8,7 +8,7 @@
 6,mccloskey kyle,"Lower Gwynedd, Pa.",Germantown Academy,Germantown Academy,Last Name,Hometown,High School,High School,mens basketball,penn_state
 7,stevens lamar,"North Wales, Pa.",Roman Catholic,Roman Catholic,Last Name,Hometown,High School,High School,mens basketball,penn_state
 8,brockington izaiah,"Philadelphia, Pa.",Archibishop Ryan,Archibishop Ryan,Last Name,Hometown,High School,High School,mens basketball,penn_state
-9,bolton rasir,"Chesterfield, Va.",Massanutten Academy,Massanutten Academy,Last Name,Hometown,High School,High School,mens basketball,penn_state
+9,bolton rasir,"Petersburg, Va.",Massanutten Academy,Massanutten Academy,Last Name,Hometown,High School,High School,mens basketball,penn_state
 10,nussbaum taylor,"South Salem, N.Y.",Cheshire Academy (Conn.),Cheshire Academy (Conn.),Last Name,Hometown,High School,High School,mens basketball,penn_state
 11,harrar john,"Wallingford, Pa.",Strath Haven,Strath Haven,Last Name,Hometown,High School,High School,mens basketball,penn_state
 12,hazle grant,"Kingwood, Texas",Westbury Christian,Westbury Christian,Last Name,Hometown,High School,High School,mens basketball,penn_state
@@ -76,7 +76,7 @@
 12,butler jabari,"Potomac, Md./Bishop Gorman (Nev.)","Potomac, Md./Bishop Gorman (Nev.)","Potomac, Md./Bishop Gorman (Nev.)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,penn_state
 13,calcagno joe,"Elmhurst, Ill./Fenwick","Elmhurst, Ill./Fenwick","Elmhurst, Ill./Fenwick",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,penn_state
 14,castro-fields tariq,"Upper Marlboro, Md./Riverdale Baptist School","Upper Marlboro, Md./Riverdale Baptist School","Upper Marlboro, Md./Riverdale Baptist School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,penn_state
-15,chisena dan,"Exton, Pa./Downingtown-East","Exton, Pa./Downingtown-East","Exton, Pa./Downingtown-East",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,penn_state
+15,chisena dan,"Downingtown, Pa./Downingtown-East","Downingtown, Pa./Downingtown-East","Downingtown, Pa./Downingtown-East",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,penn_state
 16,chizmar max,"Mars, Pa./Mars Area","Mars, Pa./Mars Area","Mars, Pa./Mars Area",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,penn_state
 17,clifford sean,"Cincinnati, Ohio/Saint Xavier","Cincinnati, Ohio/Saint Xavier","Cincinnati, Ohio/Saint Xavier",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,penn_state
 18,cooper jake,"Doylestown, Pa./Archbishop Wood","Doylestown, Pa./Archbishop Wood","Doylestown, Pa./Archbishop Wood",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,penn_state
@@ -179,28 +179,30 @@
 2,ireland brennan,"Annapolis, Md./Fox Chapel","Annapolis, Md./Fox Chapel","Annapolis, Md./Fox Chapel",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
 3,pritchatt callum,"Kinghurst, Birmingham/Sandwell Academy","Kinghurst, Birmingham/Sandwell Academy","Kinghurst, Birmingham/Sandwell Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
 4,conneh mikey,"Sheffield, Yorkshire, England/Meadowhead School","Sheffield, Yorkshire, England/Meadowhead School","Sheffield, Yorkshire, England/Meadowhead School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-5,molloy aaron,"Dublin, Ireland/Keiser University","Dublin, Ireland/Keiser University","Dublin, Ireland/Keiser University",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-6,maloney austin,"Harrisburg, Pa./Bishop McDevitt","Harrisburg, Pa./Bishop McDevitt","Harrisburg, Pa./Bishop McDevitt",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-7,beckford ethan,"Manchester, England/St. Maximillian Colbe CHS","Manchester, England/St. Maximillian Colbe CHS","Manchester, England/St. Maximillian Colbe CHS",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-8,reedy pierre,"Kutztown, Pa./Kutztown Area","Kutztown, Pa./Kutztown Area","Kutztown, Pa./Kutztown Area",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-9,rieple nick,"Kirtland, Ohio/Lake Catholic","Kirtland, Ohio/Lake Catholic","Kirtland, Ohio/Lake Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-10,curran mac,"York, Pa./Dallastown","York, Pa./Dallastown","York, Pa./Dallastown",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-11,bringolf mitchel,"Montreal, Quebec, Canada/John Rennie","Montreal, Quebec, Canada/John Rennie","Montreal, Quebec, Canada/John Rennie",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-12,marks dani,"Ra'anana, Israel/International School of Berne (Switzerland)","Ra'anana, Israel/International School of Berne (Switzerland)","Ra'anana, Israel/International School of Berne (Switzerland)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-13,gallagher ryan,"Pine Bush, N.Y./Don Bosco Prep (N.J.)","Pine Bush, N.Y./Don Bosco Prep (N.J.)","Pine Bush, N.Y./Don Bosco Prep (N.J.)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-14,kenney stephen,"State College, Pa./State College Area","State College, Pa./State College Area","State College, Pa./State College Area",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-15,pilato noah,"Oak Hill, Va./Oakton","Oak Hill, Va./Oakton","Oak Hill, Va./Oakton",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-16,gonzalez daniel,"San Jose, Costa Rica/Forest Trail Academy","San Jose, Costa Rica/Forest Trail Academy","San Jose, Costa Rica/Forest Trail Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-17,perno kyle,"New Hyde Park, N.Y./Kellenberg Memorial","New Hyde Park, N.Y./Kellenberg Memorial","New Hyde Park, N.Y./Kellenberg Memorial",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-18,sload christian,"Reading, Pa./Wilson","Reading, Pa./Wilson","Reading, Pa./Wilson",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-19,keil travis,"Bear Creek, Pa./James M. Coughlin","Bear Creek, Pa./James M. Coughlin","Bear Creek, Pa./James M. Coughlin",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-20,levine josh,"Rockville Centre, N.Y./South Side","Rockville Centre, N.Y./South Side","Rockville Centre, N.Y./South Side",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
-21,bergevin wes,"Hinsdale, Ill./Hinsdale","Hinsdale, Ill./Hinsdale","Hinsdale, Ill./Hinsdale",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+5,rafanello jeremy,"Delran, N.J./YSC Academy","Delran, N.J./YSC Academy","Delran, N.J./YSC Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+6,molloy aaron,"Dublin, Ireland/Keiser University","Dublin, Ireland/Keiser University","Dublin, Ireland/Keiser University",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+7,maloney austin,"Harrisburg, Pa./Bishop McDevitt","Harrisburg, Pa./Bishop McDevitt","Harrisburg, Pa./Bishop McDevitt",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+8,beckford ethan,"Manchester, England/St. Maximillian Colbe CHS","Manchester, England/St. Maximillian Colbe CHS","Manchester, England/St. Maximillian Colbe CHS",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+9,reedy pierre,"Kutztown, Pa./Kutztown Area","Kutztown, Pa./Kutztown Area","Kutztown, Pa./Kutztown Area",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+10,rieple nick,"Kirtland, Ohio/Lake Catholic","Kirtland, Ohio/Lake Catholic","Kirtland, Ohio/Lake Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+11,curran mac,"York, Pa./Dallastown","York, Pa./Dallastown","York, Pa./Dallastown",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+12,bringolf mitchel,"Montreal, Quebec, Canada/John Rennie","Montreal, Quebec, Canada/John Rennie","Montreal, Quebec, Canada/John Rennie",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+13,dabora joshua,"Kentfield, Calif./Redwood","Kentfield, Calif./Redwood","Kentfield, Calif./Redwood",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+14,marks dani,"Ra'anana, Israel/International School of Berne (Switzerland)","Ra'anana, Israel/International School of Berne (Switzerland)","Ra'anana, Israel/International School of Berne (Switzerland)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+15,gallagher ryan,"Pine Bush, N.Y./Don Bosco Prep (N.J.)","Pine Bush, N.Y./Don Bosco Prep (N.J.)","Pine Bush, N.Y./Don Bosco Prep (N.J.)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+16,kenney stephen,"State College, Pa./State College Area","State College, Pa./State College Area","State College, Pa./State College Area",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+17,pilato noah,"Oak Hill, Va./Oakton","Oak Hill, Va./Oakton","Oak Hill, Va./Oakton",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+18,gonzalez daniel,"San Jose, Costa Rica/Forest Trail Academy","San Jose, Costa Rica/Forest Trail Academy","San Jose, Costa Rica/Forest Trail Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+19,perno kyle,"New Hyde Park, N.Y./Kellenberg Memorial","New Hyde Park, N.Y./Kellenberg Memorial","New Hyde Park, N.Y./Kellenberg Memorial",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+20,sload christian,"Reading, Pa./Wilson","Reading, Pa./Wilson","Reading, Pa./Wilson",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+21,keil travis,"Bear Creek, Pa./James M. Coughlin","Bear Creek, Pa./James M. Coughlin","Bear Creek, Pa./James M. Coughlin",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+22,levine josh,"Rockville Centre, N.Y./South Side","Rockville Centre, N.Y./South Side","Rockville Centre, N.Y./South Side",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
+23,bergevin wes,"Hinsdale, Ill./Hinsdale","Hinsdale, Ill./Hinsdale","Hinsdale, Ill./Hinsdale",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,penn_state
 0,valenti sarafina,"Bechtelsville, Pa.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
 1,dennis amanda,"San Diego, Calif.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
 2,abello kerry,"Batavia, Ill.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
 3,riehl kaleigh,"Fairfax Station, Va.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
-4,elliston maddie,"Omaha, Neb.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
+4,nolf maddie,"Omaha, Neb.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
 5,schnurr kristin,"Bristow, Va.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
 6,ogle emily,"Strongsville, Ohio",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
 7,williams charlotte,"Rochester, N.Y.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
@@ -210,15 +212,14 @@
 11,moyer shea,"Wyomissing, Pa.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
 12,tagliaferri frankie,"Colts Neck, N.J.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
 13,ballow casey,"Ijamsville, Md.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
-14,campbell-phipps taylor,"Orlando, Fla.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
-15,sheva marissa,"Sellersville, Pa.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
-16,suero laura,"Royersford, Pa.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
-17,asman katherine,"Roswell, Ga.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
-18,beiler kelli,"Mount Pleasant Mills, Pa.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
-19,haislip caitlin,"Munster, Ind.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
-20,myers maddie,"Grand Rapids, Mich.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
-21,schlegel ally,"Parker, Colo.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
-22,wasserman rachel,"Dallas, Texas",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
+14,sheva marissa,"Sellersville, Pa.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
+15,suero laura,"Royersford, Pa.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
+16,asman katherine,"Roswell, Ga.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
+17,beiler kelli,"Mount Pleasant Mills, Pa.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
+18,haislip caitlin,"Munster, Ind.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
+19,myers maddie,"Grand Rapids, Mich.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
+20,schlegel ally,"Parker, Colo.",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
+21,wasserman rachel,"Dallas, Texas",N/A,N/A,Last Name,Hometown,N/A,N/A,womens soccer,penn_state
 0,abert colin,"Easton, Pa.",N/A,Easton,Last Name,Hometown,N/A,Last School,mens cross country,penn_state
 1,abrahams james,"Havertown, Pa.",N/A,Havertown Township,Last Name,Hometown,N/A,Last School,mens cross country,penn_state
 2,ashenfelter william,"Needham, MA",N/A,Needham,Last Name,Hometown,N/A,Last School,mens cross country,penn_state
@@ -507,7 +508,7 @@
 8,mcnally lauren,"Marmora, N.J./Ocean City","Marmora, N.J./Ocean City","Marmora, N.J./Ocean City",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens field hockey,penn_state
 9,reese madison,"Coopersburg, Pa./Southern Lehigh","Coopersburg, Pa./Southern Lehigh","Coopersburg, Pa./Southern Lehigh",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens field hockey,penn_state
 10,reese meghan,"Coopersburg, Pa./Southern Lehigh","Coopersburg, Pa./Southern Lehigh","Coopersburg, Pa./Southern Lehigh",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens field hockey,penn_state
-11,barraco gabrielle,"Allentown, Pa./Parkland","Allentown, Pa./Parkland","Allentown, Pa./Parkland",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens field hockey,penn_state
+11,barraco brie,"Allentown, Pa./Parkland","Allentown, Pa./Parkland","Allentown, Pa./Parkland",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens field hockey,penn_state
 12,prodes eleni,"Bethlehem, Pa./Liberty","Bethlehem, Pa./Liberty","Bethlehem, Pa./Liberty",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens field hockey,penn_state
 13,kline cassie,"Millersville, Pa./Penn Manor","Millersville, Pa./Penn Manor","Millersville, Pa./Penn Manor",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens field hockey,penn_state
 14,conley cori,"Oak Park, Ill./Oak Park and River Forest","Oak Park, Ill./Oak Park and River Forest","Oak Park, Ill./Oak Park and River Forest",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens field hockey,penn_state
@@ -521,32 +522,29 @@
 22,meijer aurelia,"Hattem, Netherlands/Gymnasium Celeanum","Hattem, Netherlands/Gymnasium Celeanum","Hattem, Netherlands/Gymnasium Celeanum",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens field hockey,penn_state
 23,bramley gini,"Elizabethtown, Pa./Lower Dauphin","Elizabethtown, Pa./Lower Dauphin","Elizabethtown, Pa./Lower Dauphin",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens field hockey,penn_state
 24,dembrowski katie,"Palmyra, Pa./Palmyra","Palmyra, Pa./Palmyra","Palmyra, Pa./Palmyra",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens field hockey,penn_state
-0,cummings jessica,"Owings, Md./Northern","Owings, Md./Northern","Owings, Md./Northern",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-1,grieco amanda,"Basking Ridge, N.J./Union Catholic Regional","Basking Ridge, N.J./Union Catholic Regional","Basking Ridge, N.J./Union Catholic Regional",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-2,wagner christa,"Plainville, Mass./King Phillip","Plainville, Mass./King Phillip","Plainville, Mass./King Phillip",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-3,legg kennedy,"Keller, Texas/Keller","Keller, Texas/Keller","Keller, Texas/Keller",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-4,shaffer madison,"New Castle, Pa./Neshannock","New Castle, Pa./Neshannock","New Castle, Pa./Neshannock",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-5,fey dani,"Bangor, Pa./Bangor","Bangor, Pa./Bangor","Bangor, Pa./Bangor",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-6,dubois tori,"Mt. Vernon, N.H./Bishop Guertin","Mt. Vernon, N.H./Bishop Guertin","Mt. Vernon, N.H./Bishop Guertin",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-7,hudgins emily,"Wadsworth, Ill/Warren Township","Wadsworth, Ill/Warren Township","Wadsworth, Ill/Warren Township",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-8,murray erin,"Great Falls, Va./Paul VI Catholic","Great Falls, Va./Paul VI Catholic","Great Falls, Va./Paul VI Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-9,mensinger ashton,"Nescopeck, Pa./Berwick","Nescopeck, Pa./Berwick","Nescopeck, Pa./Berwick",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-10,johnson paige,"Clarksville, Tenn./Montgomery Central","Clarksville, Tenn./Montgomery Central","Clarksville, Tenn./Montgomery Central",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-11,smith madey,"Washington, N.J./Warren Hills Regional","Washington, N.J./Warren Hills Regional","Washington, N.J./Warren Hills Regional",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-12,arrizurieta gianna,"Pembroke Pines, Fla./American Heritage Plantation","Pembroke Pines, Fla./American Heritage Plantation","Pembroke Pines, Fla./American Heritage Plantation",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-13,vallejos haley,"Chandler, Ariz./Corona Del Sol","Chandler, Ariz./Corona Del Sol","Chandler, Ariz./Corona Del Sol",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-14,elling delaney,"Washington, Pa./Trinity","Washington, Pa./Trinity","Washington, Pa./Trinity",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-15,hackenberg tori,"Mifflinburg, Pa./Mifflinburg Area","Mifflinburg, Pa./Mifflinburg Area","Mifflinburg, Pa./Mifflinburg Area",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-16,weber destiny,"Grafton, Ohio/Keystone","Grafton, Ohio/Keystone","Grafton, Ohio/Keystone",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-17,polk toni,"Niagara Falls, N.Y./Niagara Falls","Niagara Falls, N.Y./Niagara Falls","Niagara Falls, N.Y./Niagara Falls",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
-18,williams meghan,"Bethlehem, Pa./Salisbury","Bethlehem, Pa./Salisbury","Bethlehem, Pa./Salisbury",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+0,grieco amanda,"Basking Ridge, N.J./Union Catholic Regional","Basking Ridge, N.J./Union Catholic Regional","Basking Ridge, N.J./Union Catholic Regional",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+1,wagner christa,"Plainville, Mass./King Phillip","Plainville, Mass./King Phillip","Plainville, Mass./King Phillip",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+2,legg kennedy,"Keller, Texas/Keller","Keller, Texas/Keller","Keller, Texas/Keller",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+3,shaffer madison,"New Castle, Pa./Neshannock","New Castle, Pa./Neshannock","New Castle, Pa./Neshannock",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+4,fey dani,"Bangor, Pa./Bangor","Bangor, Pa./Bangor","Bangor, Pa./Bangor",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+5,dubois tori,"Mt. Vernon, N.H./Bishop Guertin","Mt. Vernon, N.H./Bishop Guertin","Mt. Vernon, N.H./Bishop Guertin",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+6,hudgins emily,"Wadsworth, Ill/Warren Township","Wadsworth, Ill/Warren Township","Wadsworth, Ill/Warren Township",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+7,murray erin,"Great Falls, Va./Paul VI Catholic","Great Falls, Va./Paul VI Catholic","Great Falls, Va./Paul VI Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+8,johnson paige,"Clarksville, Tenn./Montgomery Central","Clarksville, Tenn./Montgomery Central","Clarksville, Tenn./Montgomery Central",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+9,smith madey,"Washington, N.J./Warren Hills Regional","Washington, N.J./Warren Hills Regional","Washington, N.J./Warren Hills Regional",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+10,vallejos haley,"Chandler, Ariz./Corona Del Sol","Chandler, Ariz./Corona Del Sol","Chandler, Ariz./Corona Del Sol",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+11,elling delaney,"Washington, Pa./Trinity","Washington, Pa./Trinity","Washington, Pa./Trinity",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+12,hackenberg tori,"Mifflinburg, Pa./Mifflinburg Area","Mifflinburg, Pa./Mifflinburg Area","Mifflinburg, Pa./Mifflinburg Area",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+13,weber destiny,"Grafton, Ohio/Keystone","Grafton, Ohio/Keystone","Grafton, Ohio/Keystone",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+14,polk toni,"Niagara Falls, N.Y./Niagara Falls","Niagara Falls, N.Y./Niagara Falls","Niagara Falls, N.Y./Niagara Falls",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
+15,williams meghan,"Bethlehem, Pa./Salisbury","Bethlehem, Pa./Salisbury","Bethlehem, Pa./Salisbury",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,penn_state
 0,gorrell tori,"Oakville, Ontario/Abbey Park","Oakville, Ontario/Abbey Park","Oakville, Ontario/Abbey Park",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,womens volleyball,penn_state
 1,holcomb keeton,"Bellville, Texas/Bellville","Bellville, Texas/Bellville","Bellville, Texas/Bellville",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,womens volleyball,penn_state
 2,krause kristin,"Allentown, Pa./Parkland","Allentown, Pa./Parkland","Allentown, Pa./Parkland",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,womens volleyball,penn_state
 3,reed nia,"Fort Lee, N.J./Immaculate Heart","Fort Lee, N.J./Immaculate Heart","Fort Lee, N.J./Immaculate Heart",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,womens volleyball,penn_state
 4,sciorra emily,"Chantilly, Va./Chantilly","Chantilly, Va./Chantilly","Chantilly, Va./Chantilly",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,womens volleyball,penn_state
 5,weiskircher bryanna,"Rockford, Ill./Boylan Catholic","Rockford, Ill./Boylan Catholic","Rockford, Ill./Boylan Catholic",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,womens volleyball,penn_state
-6,white kendall,"Indianapolis, Ind./Cathedral","Indianapolis, Ind./Cathedral","Indianapolis, Ind./Cathedral",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,womens volleyball,penn_state
+6,white kendall,"Zionsville, Ind./Cathedral","Zionsville, Ind./Cathedral","Zionsville, Ind./Cathedral",Last Name,Hometown/High School/Last College,Hometown/High School/Last College,Hometown/High School/Last College,womens volleyball,penn_state
 0,andrade alejandro,"Quito, Ecuador",N/A,N/A,Last Name,Hometown,N/A,N/A,mens fencing,penn_state
 1,barnett stephen,"Clinton, Conn.",N/A,N/A,Last Name,Hometown,N/A,N/A,mens fencing,penn_state
 2,beaty chad,"State College, Pa.",N/A,N/A,Last Name,Hometown,N/A,N/A,mens fencing,penn_state

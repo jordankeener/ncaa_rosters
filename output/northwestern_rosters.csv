@@ -1,24 +1,32 @@
 ,name,hometown,high school,school,name text,hometown text,high school text,school text,sport,college
-0,Vic Law,"South Holland, Ill. / St. Rita","South Holland, Ill. / St. Rita","South Holland, Ill. / St. Rita",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
-1,Dererk Pardon,"Cleveland, Ohio / Villa Angela-St. Joseph","Cleveland, Ohio / Villa Angela-St. Joseph","Cleveland, Ohio / Villa Angela-St. Joseph",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
-2,Charlie Hall,"Los Angeles, Calif. / Crossroads School","Los Angeles, Calif. / Crossroads School","Los Angeles, Calif. / Crossroads School",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
-3,Anthony Gaines,"Kingston, N.Y. / New Hampton School (N.H.)","Kingston, N.Y. / New Hampton School (N.H.)","Kingston, N.Y. / New Hampton School (N.H.)",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
-4,A.J. Turner,"Mt. Clemens, Mich. / New Hampton School (N.H.)","Mt. Clemens, Mich. / New Hampton School (N.H.)","Mt. Clemens, Mich. / New Hampton School (N.H.)",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
-5,Jordan Ash,"Bolingbrook, Ill. / St. Joseph","Bolingbrook, Ill. / St. Joseph","Bolingbrook, Ill. / St. Joseph",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
-6,Barret Benson,"Willowbrook, Ill. / Hinsdale South","Willowbrook, Ill. / Hinsdale South","Willowbrook, Ill. / Hinsdale South",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
-7,Tino Malnati,"Northfield, Ill. / New Trier","Northfield, Ill. / New Trier","Northfield, Ill. / New Trier",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
-8,Aaron Falzon,"Newton, Mass. / Northfield Mount Hermon","Newton, Mass. / Northfield Mount Hermon","Newton, Mass. / Northfield Mount Hermon",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
-0,Lauryn Satterwhite,"Avondale, Ariz. / Valley Vista","Avondale, Ariz. / Valley Vista","Avondale, Ariz. / Valley Vista",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
-1,Bryana Hopkins,"Palatine, Ill. / William Fremd","Palatine, Ill. / William Fremd","Palatine, Ill. / William Fremd",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
-2,Lindsey Pulliam,"Silver Spring, Md. / Our Lady of Good Counsel","Silver Spring, Md. / Our Lady of Good Counsel","Silver Spring, Md. / Our Lady of Good Counsel",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
-3,Brooke Pikiell,"Far Hills, N.J. / Rutgers Prep","Far Hills, N.J. / Rutgers Prep","Far Hills, N.J. / Rutgers Prep",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
-4,Lydia Rohde,"Brookfield, Wis. / Brookfield Central","Brookfield, Wis. / Brookfield Central","Brookfield, Wis. / Brookfield Central",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
-5,Pallas Kunaiyi-Akpanah,"Abuja, Nigeria / Rabun Gap - Nacoochee School","Abuja, Nigeria / Rabun Gap - Nacoochee School","Abuja, Nigeria / Rabun Gap - Nacoochee School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
-6,Abbie Wolf,"Greenwich, Conn. / Greenwich","Greenwich, Conn. / Greenwich","Greenwich, Conn. / Greenwich",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
-7,Byrdy Galernik,"Toledo, Ohio / Toledo Central Catholic","Toledo, Ohio / Toledo Central Catholic","Toledo, Ohio / Toledo Central Catholic",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
-8,Jordan Hamilton,"Frisco, Texas / Frisco Liberty","Frisco, Texas / Frisco Liberty","Frisco, Texas / Frisco Liberty",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
-9,Oceana Hamilton,"Mississauga, Ontario / St. Edmund Champion","Mississauga, Ontario / St. Edmund Champion","Mississauga, Ontario / St. Edmund Champion",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
-10,Abi Scheid,"Elk River, Minn. / Elk River","Elk River, Minn. / Elk River","Elk River, Minn. / Elk River",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
+0,Ryan Greer,"Atlanta, Ga. / Northfield Mount Hermon (Mass.)","Atlanta, Ga. / Northfield Mount Hermon (Mass.)","Atlanta, Ga. / Northfield Mount Hermon (Mass.)",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
+1,Vic Law,"South Holland, Ill. / St. Rita","South Holland, Ill. / St. Rita","South Holland, Ill. / St. Rita",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
+2,Dererk Pardon,"Cleveland, Ohio / Villa Angela-St. Joseph","Cleveland, Ohio / Villa Angela-St. Joseph","Cleveland, Ohio / Villa Angela-St. Joseph",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
+3,Miller Kopp,"Houston, Texas / Houston Christian","Houston, Texas / Houston Christian","Houston, Texas / Houston Christian",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
+4,Anthony Gaines,"Kingston, N.Y. / New Hampton School (N.H.)","Kingston, N.Y. / New Hampton School (N.H.)","Kingston, N.Y. / New Hampton School (N.H.)",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
+5,Ryan Taylor,"Gary, Ind. / St. John's Northwestern Military Academy (Wis.)","Gary, Ind. / St. John's Northwestern Military Academy (Wis.)","Gary, Ind. / St. John's Northwestern Military Academy (Wis.)",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
+6,Ryan Young,"Stewartsville, N.J. / Bethlehem (Pa.) Catholic","Stewartsville, N.J. / Bethlehem (Pa.) Catholic","Stewartsville, N.J. / Bethlehem (Pa.) Catholic",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
+7,A.J. Turner,"Mt. Clemens, Mich. / New Hampton School (N.H.)","Mt. Clemens, Mich. / New Hampton School (N.H.)","Mt. Clemens, Mich. / New Hampton School (N.H.)",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
+8,Pete Nance,"Akron, Ohio / Revere","Akron, Ohio / Revere","Akron, Ohio / Revere",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
+9,Jordan Ash,"Bolingbrook, Ill. / St. Joseph","Bolingbrook, Ill. / St. Joseph","Bolingbrook, Ill. / St. Joseph",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
+10,Barret Benson,"Willowbrook, Ill. / Hinsdale South","Willowbrook, Ill. / Hinsdale South","Willowbrook, Ill. / Hinsdale South",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
+11,Tino Malnati,"Northfield, Ill. / New Trier","Northfield, Ill. / New Trier","Northfield, Ill. / New Trier",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
+12,Charlie Hall,"Los Angeles, Calif. / Crossroads School","Los Angeles, Calif. / Crossroads School","Los Angeles, Calif. / Crossroads School",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
+13,Aaron Falzon,"Newton, Mass. / Northfield Mount Hermon","Newton, Mass. / Northfield Mount Hermon","Newton, Mass. / Northfield Mount Hermon",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,northwestern
+0,Jess Sancataldo,"Sydney, Australia / Turamurra","Sydney, Australia / Turamurra","Sydney, Australia / Turamurra",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
+1,Lauryn Satterwhite,"Avondale, Ariz. / Valley Vista","Avondale, Ariz. / Valley Vista","Avondale, Ariz. / Valley Vista",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
+2,Sydney Wood,"Olney, Md. / St. John's College HS","Olney, Md. / St. John's College HS","Olney, Md. / St. John's College HS",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
+3,Bryana Hopkins,"Palatine, Ill. / William Fremd","Palatine, Ill. / William Fremd","Palatine, Ill. / William Fremd",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
+4,Lindsey Pulliam,"Silver Spring, Md. / Our Lady of Good Counsel","Silver Spring, Md. / Our Lady of Good Counsel","Silver Spring, Md. / Our Lady of Good Counsel",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
+5,Brooke Pikiell,"Far Hills, N.J. / Rutgers Prep","Far Hills, N.J. / Rutgers Prep","Far Hills, N.J. / Rutgers Prep",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
+6,Veronica Burton,"Newton, Mass. / Newton South","Newton, Mass. / Newton South","Newton, Mass. / Newton South",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
+7,Pallas Kunaiyi-Akpanah,"Abuja, Nigeria / Rabun Gap - Nacoochee School","Abuja, Nigeria / Rabun Gap - Nacoochee School","Abuja, Nigeria / Rabun Gap - Nacoochee School",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
+8,Courtney Shaw,"Perry Hall, Md. / Perry Hall","Perry Hall, Md. / Perry Hall","Perry Hall, Md. / Perry Hall",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
+9,Abbie Wolf,"Greenwich, Conn. / Greenwich","Greenwich, Conn. / Greenwich","Greenwich, Conn. / Greenwich",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
+10,Byrdy Galernik,"Toledo, Ohio / Toledo Central Catholic","Toledo, Ohio / Toledo Central Catholic","Toledo, Ohio / Toledo Central Catholic",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
+11,Jordan Hamilton,"Frisco, Texas / Frisco Liberty","Frisco, Texas / Frisco Liberty","Frisco, Texas / Frisco Liberty",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
+12,Amber Jamison,"Rochester Hills, Mich. / Rochester Adams","Rochester Hills, Mich. / Rochester Adams","Rochester Hills, Mich. / Rochester Adams",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
+13,Abi Scheid,"Elk River, Minn. / Elk River","Elk River, Minn. / Elk River","Elk River, Minn. / Elk River",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens basketball,northwestern
 0,Jack Dunn,"Alpharetta, Ga. / Blessed Trinity","Alpharetta, Ga. / Blessed Trinity","Alpharetta, Ga. / Blessed Trinity",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,northwestern
 1,Nick Paciorek,"Sherman Oaks, Calif. / Oaks Christian","Sherman Oaks, Calif. / Oaks Christian","Sherman Oaks, Calif. / Oaks Christian",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,northwestern
 2,Alex Erro,"Miami, Fla. / Gulliver Prep","Miami, Fla. / Gulliver Prep","Miami, Fla. / Gulliver Prep",Name,Hometown / High School,Hometown / High School,Hometown / High School,baseball,northwestern
@@ -238,27 +246,22 @@
 6,Louise McCulloch,"Wilmette, Ill. / New Trier","Wilmette, Ill. / New Trier","Wilmette, Ill. / New Trier",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens golf,northwestern
 7,Brooke Riley,"Manteca, Calif. / East Union","Manteca, Calif. / East Union","Manteca, Calif. / East Union",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens golf,northwestern
 8,Julia Tournant,"Paris, France / Lycée Jean de la Fontaine","Paris, France / Lycée Jean de la Fontaine","Paris, France / Lycée Jean de la Fontaine",Name,Hometown / High School,Hometown / High School,Hometown / High School,womens golf,northwestern
-0,Jonathan Blansfield,"Westport, Conn. / Staples","Westport, Conn. / Staples","Westport, Conn. / Staples",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-1,Keegan Bundy,"Denver, Colo. / South","Denver, Colo. / South","Denver, Colo. / South",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-2,Robert Cecil,"Tampa, Fla.  / Berkeley Prep","Tampa, Fla.  / Berkeley Prep","Tampa, Fla.  / Berkeley Prep",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-3,Jeffrey Durmer,"Atlanta, Ga. / St. Pius X","Atlanta, Ga. / St. Pius X","Atlanta, Ga. / St. Pius X",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-4,Liam Gately,"Berthoud, Colo.  / Thompson Valley","Berthoud, Colo.  / Thompson Valley","Berthoud, Colo.  / Thompson Valley",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-5,Justin Hanson,"Newport Beach, Calif. / Corona del Mar","Newport Beach, Calif. / Corona del Mar","Newport Beach, Calif. / Corona del Mar",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-6,Will Hofstadter,"Irvine, Calif. / University High School","Irvine, Calif. / University High School","Irvine, Calif. / University High School",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-7,George Horvath,"Irvine, Calif. / University","Irvine, Calif. / University","Irvine, Calif. / University",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-8,DJ Hwang,"Honolulu, Hawaii / Kalani","Honolulu, Hawaii / Kalani","Honolulu, Hawaii / Kalani",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-9,Gage Kohner,"Boca Raton, Fla. / Boca Raton Community","Boca Raton, Fla. / Boca Raton Community","Boca Raton, Fla. / Boca Raton Community",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-10,Thanas Kountroubis,"Lansdale, Pa. / North Penn","Lansdale, Pa. / North Penn","Lansdale, Pa. / North Penn",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-11,Peter Lewczyk,"Mill Valley, Calif. / St. Ignatius","Mill Valley, Calif. / St. Ignatius","Mill Valley, Calif. / St. Ignatius",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-12,Tyler Lis,"Longmont, Colo. / Silver Creek","Longmont, Colo. / Silver Creek","Longmont, Colo. / Silver Creek",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-13,Ben Magliato,"Bethesda, Md. / Sidwell Friends School","Bethesda, Md. / Sidwell Friends School","Bethesda, Md. / Sidwell Friends School",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-14,Almog Olshtein,"Haifa, Israel / Haifa","Haifa, Israel / Haifa","Haifa, Israel / Haifa",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-15,Nick Petersen,"Thiensville, Wis. / Homestead","Thiensville, Wis. / Homestead","Thiensville, Wis. / Homestead",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-16,Arjun Sharma,"Alamo, Calif. / The College Preparatory School","Alamo, Calif. / The College Preparatory School","Alamo, Calif. / The College Preparatory School",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-17,Alex Snarski,"Libertyville, Ill. / Libertyville","Libertyville, Ill. / Libertyville","Libertyville, Ill. / Libertyville",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-18,Ryan Tate,"Omaha, Neb. / Creighton Prep","Omaha, Neb. / Creighton Prep","Omaha, Neb. / Creighton Prep",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-19,Jack Thorne,"Berthoud, Colo. / Thompson Valley","Berthoud, Colo. / Thompson Valley","Berthoud, Colo. / Thompson Valley",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
-20,Lyon Zhang,"Freemont, Calif. / Mission San Jose","Freemont, Calif. / Mission San Jose","Freemont, Calif. / Mission San Jose",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+0,Keegan Bundy,"Denver, Colo. / South","Denver, Colo. / South","Denver, Colo. / South",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+1,Robert Cecil,"Tampa, Fla. / Berkeley Prep","Tampa, Fla. / Berkeley Prep","Tampa, Fla. / Berkeley Prep",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+2,Jeffrey Durmer,"Atlanta, Ga. / St. Pius X","Atlanta, Ga. / St. Pius X","Atlanta, Ga. / St. Pius X",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+3,Liam Gately,"Berthoud, Colo. / Thompson Valley","Berthoud, Colo. / Thompson Valley","Berthoud, Colo. / Thompson Valley",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+4,Justin Hanson,"Newport Beach, Calif. / Corona del Mar","Newport Beach, Calif. / Corona del Mar","Newport Beach, Calif. / Corona del Mar",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+5,Will Hofstadter,"Irvine, Calif. / University High School","Irvine, Calif. / University High School","Irvine, Calif. / University High School",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+6,George Horvath,"Irvine, Calif. / University","Irvine, Calif. / University","Irvine, Calif. / University",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+7,DJ Hwang,"Honolulu, Hawaii / Kalani","Honolulu, Hawaii / Kalani","Honolulu, Hawaii / Kalani",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+8,Thanas Kountroubis,"Lansdale, Pa. / North Penn","Lansdale, Pa. / North Penn","Lansdale, Pa. / North Penn",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+9,Peter Lewczyk,"Mill Valley, Calif. / St. Ignatius","Mill Valley, Calif. / St. Ignatius","Mill Valley, Calif. / St. Ignatius",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+10,Tyler Lis,"Longmont, Colo. / Silver Creek","Longmont, Colo. / Silver Creek","Longmont, Colo. / Silver Creek",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+11,Ben Magliato,"Bethesda, Md. / Sidwell Friends School","Bethesda, Md. / Sidwell Friends School","Bethesda, Md. / Sidwell Friends School",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+12,Arjun Sharma,"Alamo, Calif. / The College Preparatory School","Alamo, Calif. / The College Preparatory School","Alamo, Calif. / The College Preparatory School",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+13,Ryan Tate,"Omaha, Neb. / Creighton Prep","Omaha, Neb. / Creighton Prep","Omaha, Neb. / Creighton Prep",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+14,Jack Thorne,"Berthoud, Colo. / Thompson Valley","Berthoud, Colo. / Thompson Valley","Berthoud, Colo. / Thompson Valley",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
+15,Lyon Zhang,"Freemont, Calif. / Mission San Jose","Freemont, Calif. / Mission San Jose","Freemont, Calif. / Mission San Jose",Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,northwestern
 0,Nicole Aarts,"Hoboken, N.J.",Convent of the Sacred Heart,Convent of the Sacred Heart,Name,Hometown,High School,High School,womens swimming,northwestern
 1,Lindsay Adamski,"Hartland, Wis.",Arrowhead,Arrowhead,Name,Hometown,High School,High School,womens swimming,northwestern
 2,Irune Andres,"Buffalo Grove, Ill.",Adlai E. Stevenson,Adlai E. Stevenson,Name,Hometown,High School,High School,womens swimming,northwestern
@@ -341,22 +344,23 @@
 16,Florien Marcussen,"Soest, The Netherlands",Het Baarnsch Lyceum,Het Baarnsch Lyceum,Name,Hometown,High School,High School,womens field hockey,northwestern
 17,Caroline Hughes,"Houston, Texas",Houston Christian,Houston Christian,Name,Hometown,High School,High School,womens field hockey,northwestern
 0,Mac Dunlap,"Crown Point, Ind.",Crown Point,Crown Point,Name,Hometown,High School,High School,softball,northwestern
-1,Brooke Marquez,"Brea, Calif.",Pacifica,Pacifica,Name,Hometown,High School,High School,softball,northwestern
-2,Marissa Panko,"Naperville, Ill.",Benet Academy,Benet Academy,Name,Hometown,High School,High School,softball,northwestern
-3,Sabrina Rabin,"St. Charles, Ill.",St. Charles North,St. Charles North,Name,Hometown,High School,High School,softball,northwestern
-4,Morgan Nelson,"Scottsdale, Ariz.",Scottsdale Prep Academy,Scottsdale Prep Academy,Name,Hometown,High School,High School,softball,northwestern
+1,Lauren Dvorak,"San Diego, Calif.",La Jolla Country Day,La Jolla Country Day,Name,Hometown,High School,High School,softball,northwestern
+2,Maeve Nelson,"River Forest, Ill.",Oak Park River Forest,Oak Park River Forest,Name,Hometown,High School,High School,softball,northwestern
+3,Morgan Nelson,"Scottsdale, Ariz.",Scottsdale Prep Academy,Scottsdale Prep Academy,Name,Hometown,High School,High School,softball,northwestern
+4,Skyler Shellmyer,"Urbandale, Iowa",Urbandale,Urbandale,Name,Hometown,High School,High School,softball,northwestern
 5,Lily Novak,"Winnetka, Ill.",New Trier,New Trier,Name,Hometown,High School,High School,softball,northwestern
 6,Rachel Lewis,"Liberty Township, Ohio",Lakota East,Lakota East,Name,Hometown,High School,High School,softball,northwestern
-7,Sammy Nettling,"Tucson, Ariz.",Canyon Del Oro,Canyon Del Oro,Name,Hometown,High School,High School,softball,northwestern
+7,Lauren Caldrone,"Mt. Prospect, Ill.",Prospect,Prospect,Name,Hometown,High School,High School,softball,northwestern
 8,Eva Stees,"Chicago, Ill.",Lane Tech,Lane Tech,Name,Hometown,High School,High School,softball,northwestern
-9,Abbey Boyd,"Wilmette, Ill.",New Trier,New Trier,Name,Hometown,High School,High School,softball,northwestern
-10,Morgan Newport,"DeKalb, Ill.",DeKalb,DeKalb,Name,Hometown,High School,High School,softball,northwestern
-11,Nicole Bond,"Clayton, N.C.",Clayton,Clayton,Name,Hometown,High School,High School,softball,northwestern
-12,Renee Ariola,"Bloomington, Ill.",Normal Community,Normal Community,Name,Hometown,High School,High School,softball,northwestern
-13,Emma Bartz,"Mundelein, Ill.",Carmel Catholic,Carmel Catholic,Name,Hometown,High School,High School,softball,northwestern
-14,Maegan Hollins,"Houston, Texas",Bellaire,Bellaire,Name,Hometown,High School,High School,softball,northwestern
-15,Kaley Winegarner,"Garden Grove, Calif.",Pacifica,Pacifica,Name,Hometown,High School,High School,softball,northwestern
+9,Morgan Newport,"DeKalb, Ill.",DeKalb,DeKalb,Name,Hometown,High School,High School,softball,northwestern
+10,Emma Bartz,"Mundelein, Ill.",Carmel Catholic,Carmel Catholic,Name,Hometown,High School,High School,softball,northwestern
+11,Sammy Stanley,"Del Mar, Calif.",La Jolla Country Day,La Jolla Country Day,Name,Hometown,High School,High School,softball,northwestern
+12,Danielle Williams,"Pleasanton, Calif.",Amador Valley,Amador Valley,Name,Hometown,High School,High School,softball,northwestern
+13,Maegan Hollins,"Houston, Texas",Bellaire,Bellaire,Name,Hometown,High School,High School,softball,northwestern
+14,Kaley Winegarner,"Garden Grove, Calif.",Pacifica,Pacifica,Name,Hometown,High School,High School,softball,northwestern
+15,Nikki Cuchran,"Downers Grove, Ill.",Montini Catholic,Montini Catholic,Name,Hometown,High School,High School,softball,northwestern
 16,Kenna Wilkey,"Braidwood, Ill.",Reed Custer,Reed Custer,Name,Hometown,High School,High School,softball,northwestern
+17,Jordyn Rudd,"Greenwood, Ind.",Center Grove,Center Grove,Name,Hometown,High School,High School,softball,northwestern
 0,Michelle Lee,"Naperville, Ill.",Waubonsie Valley,Waubonsie Valley,Name,Hometown,High School,High School,womens volleyball,northwestern
 1,Abryanna Cannon,"Novi, Mich.",Novi,Novi,Name,Hometown,High School,High School,womens volleyball,northwestern
 2,Allie Lindroth,"Plainfield, Ill.",Plainfield North,Plainfield North,Name,Hometown,High School,High School,womens volleyball,northwestern
@@ -371,10 +375,9 @@
 11,Olivia Viscuso,"Arlington, Texas",Lamar,Lamar,Name,Hometown,High School,High School,womens volleyball,northwestern
 12,Danyelle Williams,"Chicago, Ill.",Whitney Young,Whitney Young,Name,Hometown,High School,High School,womens volleyball,northwestern
 13,Ella Grbac,"Cleveland, Ohio",Gilmour,Gilmour,Name,Hometown,High School,High School,womens volleyball,northwestern
-14,Kaitlin Tavarez,"Menlo Park, Calif.",Menlo-Atherton,Menlo-Atherton,Name,Hometown,High School,High School,womens volleyball,northwestern
-15,Nia Robinson,"Indianapolis, Ind.",Cathedral,Cathedral,Name,Hometown,High School,High School,womens volleyball,northwestern
-16,Hanna Lesiak,"Frankfort, Ill.",Lincoln-Way East,Lincoln-Way East,Name,Hometown,High School,High School,womens volleyball,northwestern
-17,Alana Walker,"Chicago, Ill.",Whitney Young,Whitney Young,Name,Hometown,High School,High School,womens volleyball,northwestern
+14,Nia Robinson,"Indianapolis, Ind.",Cathedral,Cathedral,Name,Hometown,High School,High School,womens volleyball,northwestern
+15,Hanna Lesiak,"Frankfort, Ill.",Lincoln-Way East,Lincoln-Way East,Name,Hometown,High School,High School,womens volleyball,northwestern
+16,Alana Walker,"Chicago, Ill.",Whitney Young,Whitney Young,Name,Hometown,High School,High School,womens volleyball,northwestern
 0,Maddy Curzon,"Portland, Ore.",St. Mary's Academy,St. Mary's Academy,Name,Hometown,High School,High School,womens fencing,northwestern
 1,Abby Tartell,"Miami, Fla.",Pine Crest,Pine Crest,Name,Hometown,High School,High School,womens fencing,northwestern
 2,Emine Yücel,"Istanbul, Turkey",The Koç School,The Koç School,Name,Hometown,High School,High School,womens fencing,northwestern

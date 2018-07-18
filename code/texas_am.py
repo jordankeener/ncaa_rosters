@@ -7,12 +7,7 @@ import _proj_functions as proj
 import _lookups as lookups
 import re
 
-class MyOpener(FancyURLopener):
-	version = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11)'
-myopener = MyOpener()
-
 outdir = '../output'
-
 
 ##### texas a&m #################
 school = 'texas_am'
@@ -21,7 +16,7 @@ url_template = 'https://12thman.com/roster.aspx?path={sporturl}'
 sports_dict = lookups.get_sports_dict()
 # sport_id: [sporturl, sport_table]
 sports_dict['baseball'] = ['baseball']
-# sports_dict['mens basketball'] = ['mbball']
+sports_dict['mens basketball'] = ['mbball']
 sports_dict['womens basketball'] = ['wbball']
 sports_dict['football'] = ['football']
 sports_dict['womens soccer'] = ['wsoc']

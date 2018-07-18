@@ -1,39 +1,8 @@
 
-# dictionary from our sport names to default URL
-# def get_sports_url_dict():
-#     sports_url_dict = {'mens basketball':'mbball',
-#                   'womens basketball': 'wbball',
-#                   'baseball': 'baseball',
-#                   'football': 'football',
-#                   'mens soccer': 'msoc',
-#                   'womens soccer': 'wsoc',
-#                   'mens cross country': 'xc',
-#                   'womens cross country': 'xc',
-#                   'mens golf': 'mgolf',
-#                   'womens golf': 'wgolf',
-#                   'mens swimming': 'mswim',
-#                   'womens swimming':'wswim',
-#                   'mens tennis': 'mten',
-#                   'womens tennis': 'wten',
-#                   'mens track': 'track',
-#                   'womens track': 'track',
-#                   'wrestling': 'wrestling',
-#                   'womens field hockey': 'fhockey',
-#                   'womens rowing': 'wrow',
-#                   'softball': 'softball',
-#                   'womens volleyball': 'wvball',
-#                   'womens water polo': 'wwpolo'}
-#
-#     return sports_url_dict
-
-# x = get_sports_url_dict()
-# sports_list = x.keys()
-#
-# # dictionary for default table/class ID
-# def make_sport_objectid_dict(def_object_name = None):
-#     sports_objectid_dict = dict.fromkeys(sports_list, def_object_name)
-#     return sports_objectid_dict
-
+# list of sports
+# note that "mixed" often means mens and womens teams can't be separated easily
+# on the roster page, so they are grouped together here and gender
+# is determined later on (in the grid scrape function)
 def get_sports_list():
     x = ['mens basketball',
          'womens basketball',
@@ -92,6 +61,7 @@ def get_sports_list():
          'mens rugby']
     return x
 
+# converting list of sports to dict 
 def get_sports_dict():
     # . --> dictionary with sport keys and empty list values
     sports_list = get_sports_list()

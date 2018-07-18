@@ -7,12 +7,7 @@ import _proj_functions as proj
 import _lookups as lookups
 import re
 
-class MyOpener(FancyURLopener):
-	version = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11)'
-myopener = MyOpener()
-
 outdir = '../output'
-
 
 ##### florida #################
 school = 'florida'
@@ -48,7 +43,7 @@ for (key, value) in sports_dict.copy().items():
 
 # change list number if not first ul of given classname on page
 for (key, value) in sports_dict.items():
-	if key in []:
+	if key in ['womens cross country', 'womens track']:
 		value.append(2)
 	else:
 		value.append(1)

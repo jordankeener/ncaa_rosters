@@ -8,7 +8,7 @@
 6,Norense Odiase,"Fort Worth,                                                                Texas",North Crowley HS,mens basketball,texas_tech
 7,Parker Hicks,"Decatur, Texas",Decatur HS,mens basketball,texas_tech
 8,Mia Castaneda,"Hereford, Texas",Hereford HS,womens basketball,texas_tech
-9,Erin DeGrate,"Waco, TX",La Vega HS,womens basketball,texas_tech
+9,Erin DeGrate,"Waco, Texas",La Vega HS,womens basketball,texas_tech
 10,Sydney Goodson,"Argyle, Texas",Liberty Christian HS,womens basketball,texas_tech
 11,Eryka Sidney,"Houston, Texas",Wheatley HS,womens basketball,texas_tech
 12,Chrislyn Carr,"Davenport, Iowa",West HS,womens basketball,texas_tech
@@ -18,7 +18,7 @@
 16,Brittany Brewer,"Abilene,                                                                Texas",Wylie HS,womens basketball,texas_tech
 17,Angel Hayden,"Canyon, Texas",Canyon HS,womens basketball,texas_tech
 18,Marcella Lamark dos Santos,"Sao Paulo, Brazil",College of Central Florida,womens basketball,texas_tech
-19,Zuri Sanders,"Evansville,                                                                Indiana",Evansville Central HS,womens basketball,texas_tech
+19,Zuri Sanders,"Evansville, Ind.",Evansville Central HS,womens basketball,texas_tech
 20,Kiara Shoals,"Foreman, Ark.",Foreman HS,womens basketball,texas_tech
 21,Cody Farhat,"Plano,                                                                Texas",Plano,baseball,texas_tech
 22,Gabe Holt,"Bonaire, Georgia",Veterans,baseball,texas_tech
@@ -166,240 +166,243 @@
 164,Joseph  Wallace,"Dallas, Texas",Skyline,football,texas_tech
 165,Nick  McCann,"Texarkana, Ark.",Arkansas City,football,texas_tech
 166,Preston Gordon,"McKinney, Texas",Frisco Heritage,football,texas_tech
-167,Carissa Christensen,"Alta Loma,                                                                Calif.",Los Onos,womens soccer,texas_tech
-168,Brittany Maldonado,"Georgetown, Texas",East View,womens soccer,texas_tech
+167,Brecht Haakma,"Amsterdam, Netherlands",Barlaeus Gymnasium,womens soccer,texas_tech
+168,Averi Isaacs,"Plano, Texas",West,womens soccer,texas_tech
 169,Marissa Zucchetto,"Mississauga, Ontario, Canada",St. Joan Of Arc Secondary,womens soccer,texas_tech
-170,Brooke Denesik,"Anthem,                                                                Ariz.",Boulder Creek,womens soccer,texas_tech
-171,Jordie  Harr,"Sachse, Texas",Sachse,womens soccer,texas_tech
-172,Hannah Fernandez,"Van Alstyne,                                                                Texas",Alstyne,womens soccer,texas_tech
-173,Macy Chilton,"Vidor, Texas",Vidor,womens soccer,texas_tech
-174,Cassie Boren,"Albuquerque,                                                                N.M.",La Cueva,womens soccer,texas_tech
-175,Jade King,"Apple Valley, MN",Eagan,womens soccer,texas_tech
-176,Demi Koulizakis,"Sydney, Australia",Endeavor Sport,womens soccer,texas_tech
-177,Ally Griffin,"Southlake, Texas",Southlake Carroll,womens soccer,texas_tech
-178,Brittany Martin,"Southlake, Texas",Southlake Carroll,womens soccer,texas_tech
-179,Carly Wickenheiser,"St. Louis, Mo.",St.                                                                Joseph's Academy,womens soccer,texas_tech
-180,Savanna  Jones,"Dallas, Texas",Highland Park,womens soccer,texas_tech
-181,Jordan Duke,"Amarillo,                                                                Texas",Amarillo,womens soccer,texas_tech
-182,Macy Hairgrove,"Castlerock, Colorado",Rock Canyon,womens soccer,texas_tech
-183,Gabbie Puente,"Fort Worth,                                                                Texas",Nolan Catholic,womens soccer,texas_tech
-184,Gwennie Puente,"Fort Worth,                                                                Texas",Nolan Catholic,womens soccer,texas_tech
-185,Alexis Rushlow,"Glendora, California",Glendora,womens soccer,texas_tech
-186,Kirsten Davis,"St. Louis, Missouri",Westminster Christian Academy,womens soccer,texas_tech
-187,Kamryn Birk,"Katy, Texas",Cinco Ranch,womens soccer,texas_tech
-188,Margaret Begley,"Omaha,                                                                Neb.",Marian,womens soccer,texas_tech
-189,Victoria Winship,"Richardson, Texas",Richardson,womens soccer,texas_tech
-190,Kayla Fithian,"Georgetown, Texas",Georgetown,womens soccer,texas_tech
-191,Mary Heiberger,"Katy, Texas",Katy                                                                Taylor,womens soccer,texas_tech
-192,Brianna Stewart,"Katy, Texas",Seven Lakes,womens soccer,texas_tech
-193,Stephen Alvarez,"El Paso, Texas",Socorro,mens cross country,texas_tech
-194,Grayson Barber,"Grapevine, Texas",Colleyville Heritage High School,mens cross country,texas_tech
-195,Michael Benoit,"Abilene, Texas",Cooper High School,mens cross country,texas_tech
-196,Clark Blunt,"Frisco,                                                                Texas",Heritage,mens cross country,texas_tech
-197,Nathan Gift,"Katy, Texas",Cinco Ranch,mens cross country,texas_tech
-198,Riley Gonzales,"Grapevine,                                                                Texas",Grapevine,mens cross country,texas_tech
-199,Caleb Hughes,"Flower Mound, Texas",Flower Mound High School,mens cross country,texas_tech
-200,Connor Hughes,"Keller, Texas",Keller High School,mens cross country,texas_tech
-201,Grant LaSelle,"Irving,                                                                Texas",Ranchview,mens cross country,texas_tech
-202,Reagan Mead,"Cleburne, Texas",Cleburne,mens cross country,texas_tech
-203,Todd Mickey,"Victoria,                                                                Texas",Victoria West,mens cross country,texas_tech
-204,Matthew Munoz,"El Paso, Texas",Eastwood,mens cross country,texas_tech
-205,Luke Phillips,"Houston, Texas",Clear Lake High School,mens cross country,texas_tech
-206,Shea Whatley,"Southlake, Texas",Carroll,mens cross country,texas_tech
-207,Ebenether Wondaferew,"Dallas, Texas",Lake                                                                Highlands,mens cross country,texas_tech
-208,Joacim Zuniga,"El Paso,                                                                Texas",Socorro HS,mens cross country,texas_tech
-209,Kaylee Amershek,"Albuquerque,                                                                N.M.",Volcano Vista,womens cross country,texas_tech
-210,Karyss Betzen,"Amarillo, Texas",Randall High School,womens cross country,texas_tech
-211,Denae Chapman,"Keller, Texas",Fort Worth Christian,womens cross country,texas_tech
-212,Nokuthula Dlamini,"Germiston, Gauteng (South Africa)",Thuli High School,womens cross country,texas_tech
-213,Jessica Gallardo,"Walnut, Calif.",Bishop Amat,womens cross country,texas_tech
-214,Jade Greer,"Hallsville,                                                                Texas",Hallsville,womens cross country,texas_tech
-215,Allison Halloran,"Houston, Texas",Clear Lake,womens cross country,texas_tech
-216,Kate Halloran,"Houston, Texas",Clear Lake,womens cross country,texas_tech
-217,Arianna Lopez,"Southlake, Texas",Southlake Carroll Senior High School,womens cross country,texas_tech
-218,Jazmyn Martinez,"Miami, Florida",John A. Ferguson Senior High School,womens cross country,texas_tech
-219,Bret Leigh Nance,"Blanco, Texas",Blanco,womens cross country,texas_tech
-220,Lauren Offerman,"Loveland, Colorado",Mountain View High School,womens cross country,texas_tech
-221,Taryn Otto,"Houston, Texas",Clear Lake High School,womens cross country,texas_tech
-222,Natalie Parks,"Georgetown, Texas",Georgetown,womens cross country,texas_tech
-223,Rianna Randolph,"San Antonio,                                                                Texas",Southlake Carroll,womens cross country,texas_tech
-224,Lauren Schiller,"Sugar Land,                                                                Texas",St. Agnes Academy,womens cross country,texas_tech
-225,Hattie Schunk,"Albuquerque, N.M.",La                                                            Cueva,womens cross country,texas_tech
-226,Kaitlyn Tharp,"North Richland Hills, Texas",Richland High School,womens cross country,texas_tech
-227,Jasmine Torres,"El Paso,                                                                Texas",Socorro HS,womens cross country,texas_tech
-228,Lauren Younger,"Dallas,                                                                Texas",Ursuline Academy,womens cross country,texas_tech
-229,Thomas Allkins,"Lake Mary, Fla.",N/A,mens golf,texas_tech
-230,Wes Artac,"Kingwood,                                                                Texas",Kingwood,mens golf,texas_tech
-231,Adam Blomme,"Kungsangen, Sweden",Odessa College,mens golf,texas_tech
-232,Kyle Hogan,"Cypress, Texas",Cypress Ranch HS,mens golf,texas_tech
-233,Hurly Long,"Mannheim,                                                                Germany",Oregon,mens golf,texas_tech
-234,Fredrik Nilehn,"Goteborg, Sweden",Katrinelundymnasiat,mens golf,texas_tech
-235,Ivan Ramirez,"Bucaramanga,                                                                Colombia",Colegio                                                                Panamericano,mens golf,texas_tech
-236,Robert Rickard,"Austin, Texas",Westlake High School,mens golf,texas_tech
-237,Sandy  Scott,"Nairn, Scotland",N/A,mens golf,texas_tech
-238,Gabby Barker,"Caldwell,                                                                Idaho",Vallivue,womens golf,texas_tech
-239,Louisa Brunt,"Manchester, England",Bury Grammar Girls School,womens golf,texas_tech
-240,Sofia Garcia,"Asuncion, Paraguay",Sol de America,womens golf,texas_tech
-241,Lauren Mason,"Queensland,                                                                Australia",Siena                                                                Catholic,womens golf,texas_tech
-242,Amy  Taylor,"Norwich, England",Wymondham College,womens golf,texas_tech
-243,Mami Yamamoto,"Tokyo, Japan",Montverde                                                                Academy,womens golf,texas_tech
-244,Justin Bloss,"El Paso, Texas",K12 International Academy,mens tennis,texas_tech
-245,Jackson  Cobb,"Austin, Texas",Bowie HS,mens tennis,texas_tech
-246,Connor Curry,"Wichita Falls, Texas",Rider HS,mens tennis,texas_tech
-247,Pyry  Hyrkkönen,"Pirkkala, Finland",N/A,mens tennis,texas_tech
-248,Artem Kapshuk,"Kiev, Ukraine",Donetsk Educational,mens tennis,texas_tech
-249,Matheus Leite,"Sao Paulo, Brazil",Colegio Ateneu,mens tennis,texas_tech
-250,Tommy Mylnikov,"Manitoba, Canada",N/A,mens tennis,texas_tech
-251,Alex Sendegeya,"Liverpool, England",Keystone National HS,mens tennis,texas_tech
-252,Bjorn Thomson,"Birmingham, United Kingdom",IMG Academy,mens tennis,texas_tech
-253,Ilgiz  Valiev,"Ufa, Russia",Gimnasia 39,mens tennis,texas_tech
-254,Reagan Collins,"Lubbock, Texas",Coronado HS,womens tennis,texas_tech
-255,Sarah Dvorak,"Kurtistown,                                                                Hawai'I",Waiakea HS,womens tennis,texas_tech
-256,Sabrina Federici,"Westhoughton,                                                                England",Bolton (UK) St.                                                                Joseph's HS,womens tennis,texas_tech
-257,Katelyn Jackson,"Roland,                                                                Arkansas",Laurel Springs                                                                School,womens tennis,texas_tech
-258,Felicity Maltby,"Sunnyvale,                                                                California",Archbishop Mitty                                                                HS,womens tennis,texas_tech
-259,Lana Rush,"London, England",Cheam High School,womens tennis,texas_tech
-260,Gabriela Talaba,"Galati,                                                                Romania",Liceul cu Program                                                                Sportiv Galati,womens tennis,texas_tech
-261,Gabriela Tenorio,"Jupiter, Fla.",Homeschooled,womens tennis,texas_tech
-262,Alex Valenstein,"Laguna Hills,                                                                California",Laguna Hills                                                                HS,womens tennis,texas_tech
-263,Stephen Alvarez,"El Paso, Texas",Socorro,mens track,texas_tech
-264,Miguel Bautista,"Harbor City,                                                                Calif.",Long Beach Poly HS,mens track,texas_tech
-265,Jake Benninghoff,"Rogers, Arkansas",Rogers High School,mens track,texas_tech
-266,Michael Benoit,"Abilene, Texas",Cooper High School,mens track,texas_tech
-267,Clark Blunt,"Frisco,                                                                Texas",Heritage,mens track,texas_tech
-268,Werner Bouwer,"Tzaneen, South Africa",Hoerskool Nelspruit,mens track,texas_tech
-269,Brandon Bray,"China Spring,                                                                Texas",China Spring,mens track,texas_tech
-270,Charles Brown,"Wichita Falls,                                                                Texas",Hirschi,mens track,texas_tech
-271,Jett Buchanan,"Lubbock, Texas",Trinity Christian,mens track,texas_tech
-272,Hunter Carlton,"Burleson, Texas",Mansfield Legacy,mens track,texas_tech
-273,Ardran  Carr,"Grand Prairie, Texas",Arlington Bowie,mens track,texas_tech
-274,Steven Champlin,"Castroville,                                                                Texas",Medina Valley HS,mens track,texas_tech
-275,Vincent Crisp,"Huntersville,                                                                N.C.",North Mecklenburg,mens track,texas_tech
-276,Trey Culver,"Lubbock,                                                                Texas",Coronado HS,mens track,texas_tech
-277,Braden  Darrow,"Abilene, Texas",Wylie High School,mens track,texas_tech
-278,Steven Duran,"Albuquerque, New Mexico",St. Pius X High School,mens track,texas_tech
-279,Colten Gayle,"Cisco,                                                                Texas",Cisco,mens track,texas_tech
-280,Nathan Gift,"Katy, Texas",Cinco Ranch,mens track,texas_tech
-281,Riley Gonzales,"Grapevine,                                                                Texas",Grapevine,mens track,texas_tech
-282,Phillip Green III,"Dallas, Texas",Richardson HS,mens track,texas_tech
-283,Clark Griffith,"Taylor, Texas",Taylor HS,mens track,texas_tech
-284,Norman Grimes Jr.,"Amarillo, Texas",Canyon,mens track,texas_tech
-285,Justin Hall,"Blue Springs, Missouri",Blue Springs,mens track,texas_tech
-286,Hunter Hopkins,"Van, Texas",Van,mens track,texas_tech
-287,Andrew Hudson,"Cibolo,                                                                Texas",Steele,mens track,texas_tech
-288,Connor Hughes,"Keller, Texas",Keller High School,mens track,texas_tech
-289,C.J. Jones,"St. Louis,                                                                Mo.",Cardinal Ritter Prep,mens track,texas_tech
-290,Duke Kicinski,"Rhome, Texas",Northwest,mens track,texas_tech
-291,Cornelius Kiprotich,N/A,Northwest,mens track,texas_tech
-292,Grant LaSelle,"Irving,                                                                Texas",Ranchview,mens track,texas_tech
-293,Joel Latson,"Bellaire,                                                                Texas",Bellaire Episcopal,mens track,texas_tech
-294,Odaine Lewis,"Montego Bay, Jamaica",Iowa Central Community College,mens track,texas_tech
-295,Erin Lopez,"Lubbock, TX",Lubbock,mens track,texas_tech
-296,Josiah Macinnis,"Amarillo, Texas",Tascosa HS,mens track,texas_tech
-297,Tyreek Mathis,"Philadelphia, Pennsylvania",Martin Luther King HS,mens track,texas_tech
-298,Drew McMichael,"Fort Meyers, Florida",Evangelical Christian School,mens track,texas_tech
-299,Jessie McNary,"Aubrey, Texas",Denton Ryan High School,mens track,texas_tech
-300,Reagan Mead,"Cleburne, Texas",Cleburne,mens track,texas_tech
-301,Todd Mickey,"Victoria,                                                                Texas",Victoria West,mens track,texas_tech
-302,Matthew Munoz,"El Paso, Texas",Eastwood,mens track,texas_tech
-303,Divine Oduduru,"Delta State, Nigeria",N/A,mens track,texas_tech
-304,Luke Phillips,"Houston, Texas",Clear Lake High School,mens track,texas_tech
-305,Caleb Richmond,"Cypress,                                                                Texas",Cy-Fair,mens track,texas_tech
-306,Jack Robb,"Littleton,                                                                Colo.",Littleton,mens track,texas_tech
-307,John Romanow,N/A,Littleton,mens track,texas_tech
-308,Isaac Shepard,"Arlington,                                                                Texas",Arlington Seguin,mens track,texas_tech
-309,Chancellor Stephenson,"Whitehouse, Texas",Whitehouse,mens track,texas_tech
-310,Hagen Stoute,"Wall,                                                                Texas",Wall,mens track,texas_tech
-311,Holden Stoute,"Wall, Texas",Wall HS,mens track,texas_tech
-312,Darien Tennon,"Fort Worth,                                                                Texas",Trimble Tech,mens track,texas_tech
-313,Kameron Washington,"Porter, Texas",Porter HS,mens track,texas_tech
-314,Shea Whatley,"Southlake, Texas",Carroll,mens track,texas_tech
-315,Hunter Wigington,N/A,Carroll,mens track,texas_tech
-316,Dorian Williams Jr.,"Las Vegas, Nevada",Arbor View,mens track,texas_tech
-317,Ebenether Wondaferew,"Dallas, Texas",Lake                                                                Highlands,mens track,texas_tech
-318,Joacim Zuniga,"El Paso,                                                                Texas",Socorro HS,mens track,texas_tech
-319,Zuliat Alli,"Balch Springs, Texas",Dr. John Horn High School,womens track,texas_tech
-320,Kaylee Amershek,"Albuquerque,                                                                N.M.",Volcano Vista,womens track,texas_tech
-321,Dorleta Armendariz-Lasa,"Ordizia, Gipuzkoa- Spain",Instituto de Educacion Secundaria les Oianguren,womens track,texas_tech
-322,Chloe Cavazos,"Desoto, Texas",Desoto HS / Cibolo Steele HS,womens track,texas_tech
-323,Denae Chapman,"Keller, Texas",Fort Worth Christian,womens track,texas_tech
-324,Chelsey Cole,"McKinney, Texas",Allen High School,womens track,texas_tech
-325,Nokuthula Dlamini,"Germiston, Gauteng (South Africa)",Thuli High School,womens track,texas_tech
-326,G'Auna Edwards,"Houston, Texas",Spring High School,womens track,texas_tech
-327,Jessica Gallardo,"Walnut, Calif.",Bishop Amat,womens track,texas_tech
-328,Kyla Glenn,N/A,Bishop Amat,womens track,texas_tech
-329,Daja Gordon,"Dallas, Texas",Hampton Preparatory,womens track,texas_tech
-330,Jade Greer,"Hallsville,                                                                Texas",Hallsville,womens track,texas_tech
-331,Allison Halloran,"Houston, Texas",Clear Lake,womens track,texas_tech
-332,Kate Halloran,"Houston, Texas",Clear Lake,womens track,texas_tech
-333,Kaylor Harris,"Mesquite, Texas",John Horn High,womens track,texas_tech
-334,Kaylee Hinton,"Rockwall,                                                                Texas",Rockwall,womens track,texas_tech
-335,Tayler Jameson,"Mesa, Ariz.",Red                                                                Mountain,womens track,texas_tech
-336,Alexandria Johnson,"Lubbock, Texas",Lubbock High School,womens track,texas_tech
-337,Brianna  Johnson,"Tomball, Texas",Klein Oak,womens track,texas_tech
-338,Kirsten Johnson,"Grand Prairie, Texas",South Grand Prairie,womens track,texas_tech
-339,Tiffani Johnson,"Duncanville,                                                                Texas",Duncanville,womens track,texas_tech
-340,Sara Limp,"Los Alamitos,                                                                Calif.",Los Alamitos,womens track,texas_tech
-341,Arianna Lopez,"Southlake, Texas",Southlake Carroll Senior High School,womens track,texas_tech
-342,Jazmyn Martinez,"Miami, Florida",John A. Ferguson Senior High School,womens track,texas_tech
-343,Jesnica McNary,"Aubrey, Texas",Denton Ryan High School,womens track,texas_tech
-344,Brooke Merrick,"McKinney, Texas",Mckinney,womens track,texas_tech
-345,Talajah Murrell,"San Antonio,                                                                Texas",Converse Judson,womens track,texas_tech
-346,Bret Leigh Nance,"Blanco, Texas",Blanco,womens track,texas_tech
-347,Rose Njoku,"Wylie, Texas",Rockwall,womens track,texas_tech
-348,Lauren Offerman,"Loveland, Colorado",Mountain View High School,womens track,texas_tech
-349,Happiness Okeke,"Klein,                                                                Texas",Klein,womens track,texas_tech
-350,Crystal Onwukaife,"Cedar Park, Texas",Cedar Park,womens track,texas_tech
-351,Taryn Otto,"Houston, Texas",Clear Lake High School,womens track,texas_tech
-352,Natalie Parks,"Georgetown, Texas",Georgetown,womens track,texas_tech
-353,Paetyn Revell,N/A,Georgetown,womens track,texas_tech
-354,Peyton Ricks,"Carrollton, Texas",Hebron High School,womens track,texas_tech
-355,Faith Roberson,"Wall, Texas",Wall High School,womens track,texas_tech
-356,Taylor Rockwell,"Lancaster,                                                                Texas",Lancaster,womens track,texas_tech
-357,Tiana  Rodgers,"Houston, Texas",Elsik,womens track,texas_tech
-358,Lauren Schiller,"Sugar Land,                                                                Texas",St. Agnes Academy,womens track,texas_tech
-359,Hattie Schunk,"Albuquerque, N.M.",La                                                            Cueva,womens track,texas_tech
-360,Maygen Smith,"Friendswood,                                                                Texas",Clear Brook,womens track,texas_tech
-361,Kaitlyn Tharp,"North Richland Hills, Texas",Richland High School,womens track,texas_tech
-362,Jasmine Torres,"El Paso,                                                                Texas",Socorro HS,womens track,texas_tech
-363,Seasons Usual,"Brandywine, Maryland",Frederick Douglass High School,womens track,texas_tech
-364,Cyre Virgo,"Fleetwood,                                                                Penn.",Fleetwood Area,womens track,texas_tech
-365,Ivy Walker,"Arlington, Texas",Mansfield Summit,womens track,texas_tech
-366,Chloe Wall,"Farmersville, Texas",Farmersville High School,womens track,texas_tech
-367,Jadsia Warden,"Oxford, Georgia",Chapin,womens track,texas_tech
-368,Zarriea Willis,"Phoenix,                                                                Ariz.",Alhambra,womens track,texas_tech
-369,Megan Wood,"Aledo,                                                                TX",Aledo,womens track,texas_tech
-370,Lauren Younger,"Dallas,                                                                Texas",Ursuline Academy,womens track,texas_tech
-371,Kassidy Scott,"Piedmont, Okla.",Piedmont,softball,texas_tech
-372,Heaven Burton,"Round Rock, Texas",Cedar Ridge HS,softball,texas_tech
-373,Erin Edmoundson,"Deer Park, Texas",Deer Park HS,softball,texas_tech
-374,Claire McKissick,"Houston, Texas",Fort Bend Christian Academy,softball,texas_tech
-375,Kaylee Strickland,"Princeton, Texas",Princeton,softball,texas_tech
-376,Kenzie Davis,"Angleton, Texas",Angleton,softball,texas_tech
-377,Hannah Broseman,"Cypress, Texas",Ranch,softball,texas_tech
-378,Jessica Hartwell,"Galt, Calif.",Liberty Ranch,softball,texas_tech
-379,Kelcy Leach,"The Woodlands, Texas",The Woodlands HS,softball,texas_tech
-380,Taylor Satchell,"Rayne, La.",Notre Dame HS,softball,texas_tech
-381,Allison Knopp,"Saint Louis, Mo.",Butler Community College,softball,texas_tech
-382,Marissa Mirabal,"Wolfforth, Texas",Frenship HS,softball,texas_tech
-383,Olga Zamarripa,"Corpus Christi, Texas",Carroll HS,softball,texas_tech
-384,Karli Hamilton,"Houston, Texas",Cinco Ranch,softball,texas_tech
-385,Breanna Russell,"Crosby, Texas",Cosby HS,softball,texas_tech
-386,Kiana Workman,"Tomball, Texas",Tomball,softball,texas_tech
-387,Myamie Thompson,"Lancaster, Calif.",Paraclete HS,softball,texas_tech
-388,Michaela Cochran,"Ennis, Texas",Ennis,softball,texas_tech
-389,Cheyene Powell,"Blanchard, Okla.",Blanchard,softball,texas_tech
-390,Haley Harman,"Dallas, Texas",Lake Highlands HS,womens volleyball,texas_tech
-391,Kylie Rittimann,"San Antonio, Texas",Johnson HS,womens volleyball,texas_tech
-392,Kyndal Cowan,"Midland, Texas",Midland HS,womens volleyball,texas_tech
-393,Missy Owens,"Yorba Linda, Calif.",Yorba Linda HS,womens volleyball,texas_tech
-394,Emerson Solano,"Amarillo, Texas",Amarillo HS,womens volleyball,texas_tech
-395,Sarah Redding,"Friendswood,                                                                Texas",Friendswood HS,womens volleyball,texas_tech
-396,Allison White,"Argyle, Texas",Argyle HS,womens volleyball,texas_tech
-397,Andrea Janss,"Austin, Texas",McCallum HS,womens volleyball,texas_tech
-398,Katy Keenan,"Argyle,                                                                Texas",Argyle HS,womens volleyball,texas_tech
-399,Alex Kirby,"Knoxville, Tenn.",Hardin Valley Academy,womens volleyball,texas_tech
-400,Emily Hill,"Denton, Texas",Guyer HS,womens volleyball,texas_tech
-401,Maggie Sagers,"Plano, Texas",Plano Senior HS,womens volleyball,texas_tech
-402,Chandler Atwood,"Allen, Texas",Allen HS,womens volleyball,texas_tech
-403,Haley Killinger,"Prosper, Texas",Prosper HS,womens volleyball,texas_tech
+170,Sierra Jones,"Dallas, Texas",Highland Park,womens soccer,texas_tech
+171,Brooke Denesik,"Anthem,                                                                Ariz.",Boulder Creek,womens soccer,texas_tech
+172,Charlotte Teeter,"Alpharetta, Ga.",Cambridge,womens soccer,texas_tech
+173,Jordie  Harr,"Sachse, Texas",Sachse,womens soccer,texas_tech
+174,Hannah Fernandez,"Van Alstyne,                                                                Texas",Alstyne,womens soccer,texas_tech
+175,Alyssa D'Aloise,"Dallas, Texas",Ursuline Academy of Dallas,womens soccer,texas_tech
+176,Brittany Martin,"Southlake, Texas",Southlake Carroll,womens soccer,texas_tech
+177,Jade King,"Apple Valley, MN",Eagan,womens soccer,texas_tech
+178,Demi Koulizakis,"Sydney, Australia",Endeavor Sport,womens soccer,texas_tech
+179,Ally Griffin,"Southlake, Texas",Southlake Carroll,womens soccer,texas_tech
+180,Marissa Ling,"Mansfield, Texas",Lake Ridge,womens soccer,texas_tech
+181,Carly Wickenheiser,"St. Louis, Mo.",St.                                                                Joseph's Academy,womens soccer,texas_tech
+182,Savanna  Jones,"Dallas, Texas",Highland Park,womens soccer,texas_tech
+183,Jordan Duke,"Amarillo,                                                                Texas",Amarillo,womens soccer,texas_tech
+184,Macy Hairgrove,"Castlerock, Colorado",Rock Canyon,womens soccer,texas_tech
+185,Gabbie Puente,"Fort Worth,                                                                Texas",Nolan Catholic,womens soccer,texas_tech
+186,Gwennie Puente,"Fort Worth,                                                                Texas",Nolan Catholic,womens soccer,texas_tech
+187,Jayne Lydiatt,"Colorado Springs, Colo.",Pine Creek,womens soccer,texas_tech
+188,Cassandra Hiatt,"Parker, Colo.",Chaparral,womens soccer,texas_tech
+189,Kirsten Davis,"St. Louis, Missouri",Westminster Christian Academy,womens soccer,texas_tech
+190,Kamryn Birk,"Katy, Texas",Cinco Ranch,womens soccer,texas_tech
+191,Margaret Begley,"Omaha,                                                                Neb.",Marian,womens soccer,texas_tech
+192,Victoria Winship,"Richardson, Texas",Richardson,womens soccer,texas_tech
+193,Kayla Fithian,"Georgetown, Texas",Georgetown,womens soccer,texas_tech
+194,Mary Heiberger,"Katy, Texas",Katy                                                                Taylor,womens soccer,texas_tech
+195,Brittany Weatherford,"Frisco, Texas",Hebron,womens soccer,texas_tech
+196,Cassie Boren,"Albuquerque,                                                                N.M.",La Cueva,womens soccer,texas_tech
+197,Michaela Sheehy,"Plano, Texas",West,womens soccer,texas_tech
+198,Jen Rose,"Orange, Calif.",Canyon,womens soccer,texas_tech
+199,Stephen Alvarez,"El Paso, Texas",Socorro,mens cross country,texas_tech
+200,Bennett Barnett,"Oklahoma City, Okla.",Mount Saint Mary,mens cross country,texas_tech
+201,Miguel Bautista,"Harbor City,                                                                Calif.",Long Beach Poly HS,mens cross country,texas_tech
+202,Michael Benoit,"Abilene, Texas",Cooper High School,mens cross country,texas_tech
+203,Luke Estes,"San Antonio, Texas",San Antonio Christian,mens cross country,texas_tech
+204,Nathan Gift,"Katy, Texas",Cinco Ranch,mens cross country,texas_tech
+205,Riley Gonzales,"Grapevine,                                                                Texas",Grapevine,mens cross country,texas_tech
+206,Connor Hughes,"Keller, Texas",Keller High School,mens cross country,texas_tech
+207,Cornelius Kiprotich,N/A,N/A,mens cross country,texas_tech
+208,Grant LaSelle,"Irving,                                                                Texas",Ranchview,mens cross country,texas_tech
+209,Eric Maclean,"McKinney, Texas",McKinney,mens cross country,texas_tech
+210,Reagan Mead,"Cleburne, Texas",Cleburne,mens cross country,texas_tech
+211,Matthew Munoz,"El Paso, Texas",Eastwood,mens cross country,texas_tech
+212,Luke Phillips,"Houston, Texas",Clear Lake High School,mens cross country,texas_tech
+213,Shea Whatley,"Southlake, Texas",Carroll,mens cross country,texas_tech
+214,Seselia Dala,"Amarillo, Texas",Tascosa,womens cross country,texas_tech
+215,Nokuthula Dlamini,"Germiston, Gauteng (South Africa)",Thuli High School,womens cross country,texas_tech
+216,Jessica Gallardo,"Walnut, Calif.",Bishop Amat,womens cross country,texas_tech
+217,Natalie Gomez,"El Paso, Texas",Socorro,womens cross country,texas_tech
+218,Allison Halloran,"Houston, Texas",Clear Lake,womens cross country,texas_tech
+219,Kate Halloran,"Houston, Texas",Clear Lake,womens cross country,texas_tech
+220,Kaitlyn Irving,"Carrollton, Texas",Lewisville Hebron,womens cross country,texas_tech
+221,Binta Ka,"North Richland Hills, Texas",Richland,womens cross country,texas_tech
+222,Faith Keitany,N/A,N/A,womens cross country,texas_tech
+223,Arianna Lopez,"Southlake, Texas",Southlake Carroll Senior High School,womens cross country,texas_tech
+224,Jazmyn Martinez,"Miami, Florida",John A. Ferguson Senior High School,womens cross country,texas_tech
+225,Lauren Offerman,"Loveland, Colorado",Mountain View High School,womens cross country,texas_tech
+226,Natalie Parks,"Georgetown, Texas",Georgetown,womens cross country,texas_tech
+227,Lauren Schiller,"Sugar Land,                                                                Texas",St. Agnes Academy,womens cross country,texas_tech
+228,Susanne Sides,"El Paso, Texas",Socorro,womens cross country,texas_tech
+229,Kaitlyn Tharp,"North Richland Hills, Texas",Richland High School,womens cross country,texas_tech
+230,Sydney White,"Keller, Texas",Keller,womens cross country,texas_tech
+231,Kyra Young,"Brownwood, Texas",Brownwood,womens cross country,texas_tech
+232,Thomas Allkins,"Lake Mary, Fla.",N/A,mens golf,texas_tech
+233,Wes Artac,"Kingwood,                                                                Texas",Kingwood,mens golf,texas_tech
+234,Adam Blomme,"Kungsangen, Sweden",Odessa College,mens golf,texas_tech
+235,Kyle Hogan,"Cypress, Texas",Cypress Ranch HS,mens golf,texas_tech
+236,Hurly Long,"Mannheim,                                                                Germany",Oregon,mens golf,texas_tech
+237,Fredrik Nilehn,"Goteborg, Sweden",Katrinelundymnasiat,mens golf,texas_tech
+238,Ivan Ramirez,"Bucaramanga,                                                                Colombia",Colegio                                                                Panamericano,mens golf,texas_tech
+239,Robert Rickard,"Austin, Texas",Westlake High School,mens golf,texas_tech
+240,Sandy  Scott,"Nairn, Scotland",N/A,mens golf,texas_tech
+241,Gabby Barker,"Caldwell,                                                                Idaho",Vallivue,womens golf,texas_tech
+242,Louisa Brunt,"Manchester, England",Bury Grammar Girls School,womens golf,texas_tech
+243,Sofia Garcia,"Asuncion, Paraguay",Sol de America,womens golf,texas_tech
+244,Lauren Mason,"Queensland,                                                                Australia",Siena                                                                Catholic,womens golf,texas_tech
+245,Amy  Taylor,"Norwich, England",Wymondham College,womens golf,texas_tech
+246,Mami Yamamoto,"Tokyo, Japan",Montverde                                                                Academy,womens golf,texas_tech
+247,Justin Bloss,"El Paso, Texas",K12 International Academy,mens tennis,texas_tech
+248,Jackson  Cobb,"Austin, Texas",Bowie HS,mens tennis,texas_tech
+249,Connor Curry,"Wichita Falls, Texas",Rider HS,mens tennis,texas_tech
+250,Pyry  Hyrkkönen,"Pirkkala, Finland",N/A,mens tennis,texas_tech
+251,Artem Kapshuk,"Kiev, Ukraine",Donetsk Educational,mens tennis,texas_tech
+252,Matheus Leite,"Sao Paulo, Brazil",Colegio Ateneu,mens tennis,texas_tech
+253,Tommy Mylnikov,"Manitoba, Canada",N/A,mens tennis,texas_tech
+254,Alex Sendegeya,"Liverpool, England",Keystone National HS,mens tennis,texas_tech
+255,Bjorn Thomson,"Birmingham, United Kingdom",IMG Academy,mens tennis,texas_tech
+256,Ilgiz  Valiev,"Ufa, Russia",Gimnasia 39,mens tennis,texas_tech
+257,Reagan Collins,"Lubbock, Texas",Coronado HS,womens tennis,texas_tech
+258,Sarah Dvorak,"Kurtistown,                                                                Hawai'I",Waiakea HS,womens tennis,texas_tech
+259,Sabrina Federici,"Westhoughton,                                                                England",Bolton (UK) St.                                                                Joseph's HS,womens tennis,texas_tech
+260,Katelyn Jackson,"Roland,                                                                Arkansas",Laurel Springs                                                                School,womens tennis,texas_tech
+261,Felicity Maltby,"Sunnyvale,                                                                California",Archbishop Mitty                                                                HS,womens tennis,texas_tech
+262,Lana Rush,"London, England",Cheam High School,womens tennis,texas_tech
+263,Gabriela Talaba,"Galati,                                                                Romania",Liceul cu Program                                                                Sportiv Galati,womens tennis,texas_tech
+264,Gabriela Tenorio,"Jupiter, Fla.",Homeschooled,womens tennis,texas_tech
+265,Alex Valenstein,"Laguna Hills,                                                                California",Laguna Hills                                                                HS,womens tennis,texas_tech
+266,Stephen Alvarez,"El Paso, Texas",Socorro,mens track,texas_tech
+267,Miguel Bautista,"Harbor City,                                                                Calif.",Long Beach Poly HS,mens track,texas_tech
+268,Jake Benninghoff,"Rogers, Arkansas",Rogers High School,mens track,texas_tech
+269,Michael Benoit,"Abilene, Texas",Cooper High School,mens track,texas_tech
+270,Clark Blunt,"Frisco,                                                                Texas",Heritage,mens track,texas_tech
+271,Werner Bouwer,"Tzaneen, South Africa",Hoerskool Nelspruit,mens track,texas_tech
+272,Brandon Bray,"China Spring,                                                                Texas",China Spring,mens track,texas_tech
+273,Charles Brown,"Wichita Falls,                                                                Texas",Hirschi,mens track,texas_tech
+274,Jett Buchanan,"Lubbock, Texas",Trinity Christian,mens track,texas_tech
+275,Hunter Carlton,"Burleson, Texas",Mansfield Legacy,mens track,texas_tech
+276,Ardran  Carr,"Grand Prairie, Texas",Arlington Bowie,mens track,texas_tech
+277,Steven Champlin,"Castroville,                                                                Texas",Medina Valley HS,mens track,texas_tech
+278,Vincent Crisp,"Huntersville,                                                                N.C.",North Mecklenburg,mens track,texas_tech
+279,Trey Culver,"Lubbock,                                                                Texas",Coronado HS,mens track,texas_tech
+280,Braden  Darrow,"Abilene, Texas",Wylie High School,mens track,texas_tech
+281,Steven Duran,"Albuquerque, New Mexico",St. Pius X High School,mens track,texas_tech
+282,Colten Gayle,"Cisco,                                                                Texas",Cisco,mens track,texas_tech
+283,Nathan Gift,"Katy, Texas",Cinco Ranch,mens track,texas_tech
+284,Riley Gonzales,"Grapevine,                                                                Texas",Grapevine,mens track,texas_tech
+285,Phillip Green III,"Dallas, Texas",Richardson HS,mens track,texas_tech
+286,Clark Griffith,"Taylor, Texas",Taylor HS,mens track,texas_tech
+287,Norman Grimes Jr.,"Amarillo, Texas",Canyon,mens track,texas_tech
+288,Justin Hall,"Blue Springs, Missouri",Blue Springs,mens track,texas_tech
+289,Hunter Hopkins,"Van, Texas",Van,mens track,texas_tech
+290,Andrew Hudson,"Cibolo,                                                                Texas",Steele,mens track,texas_tech
+291,Connor Hughes,"Keller, Texas",Keller High School,mens track,texas_tech
+292,C.J. Jones,"St. Louis,                                                                Mo.",Cardinal Ritter Prep,mens track,texas_tech
+293,Duke Kicinski,"Rhome, Texas",Northwest,mens track,texas_tech
+294,Cornelius Kiprotich,N/A,N/A,mens track,texas_tech
+295,Grant LaSelle,"Irving,                                                                Texas",Ranchview,mens track,texas_tech
+296,Joel Latson,"Bellaire,                                                                Texas",Bellaire Episcopal,mens track,texas_tech
+297,Odaine Lewis,"Montego Bay, Jamaica",Iowa Central Community College,mens track,texas_tech
+298,Erin Lopez,"Lubbock, TX",Lubbock,mens track,texas_tech
+299,Josiah Macinnis,"Amarillo, Texas",Tascosa HS,mens track,texas_tech
+300,Tyreek Mathis,"Philadelphia, Pennsylvania",Martin Luther King HS,mens track,texas_tech
+301,Drew McMichael,"Fort Meyers, Florida",Evangelical Christian School,mens track,texas_tech
+302,Jessie McNary,"Aubrey, Texas",Denton Ryan High School,mens track,texas_tech
+303,Reagan Mead,"Cleburne, Texas",Cleburne,mens track,texas_tech
+304,Todd Mickey,"Victoria,                                                                Texas",Victoria West,mens track,texas_tech
+305,Matthew Munoz,"El Paso, Texas",Eastwood,mens track,texas_tech
+306,Divine Oduduru,"Delta State, Nigeria",N/A,mens track,texas_tech
+307,Luke Phillips,"Houston, Texas",Clear Lake High School,mens track,texas_tech
+308,Caleb Richmond,"Cypress,                                                                Texas",Cy-Fair,mens track,texas_tech
+309,Jack Robb,"Littleton,                                                                Colo.",Littleton,mens track,texas_tech
+310,John Romanow,N/A,N/A,mens track,texas_tech
+311,Isaac Shepard,"Arlington,                                                                Texas",Arlington Seguin,mens track,texas_tech
+312,Chancellor Stephenson,"Whitehouse, Texas",Whitehouse,mens track,texas_tech
+313,Hagen Stoute,"Wall,                                                                Texas",Wall,mens track,texas_tech
+314,Holden Stoute,"Wall, Texas",Wall HS,mens track,texas_tech
+315,Darien Tennon,"Fort Worth,                                                                Texas",Trimble Tech,mens track,texas_tech
+316,Kameron Washington,"Porter, Texas",Porter HS,mens track,texas_tech
+317,Shea Whatley,"Southlake, Texas",Carroll,mens track,texas_tech
+318,Hunter Wigington,N/A,N/A,mens track,texas_tech
+319,Dorian Williams Jr.,"Las Vegas, Nevada",Arbor View,mens track,texas_tech
+320,Ebenether Wondaferew,"Dallas, Texas",Lake                                                                Highlands,mens track,texas_tech
+321,Joacim Zuniga,"El Paso,                                                                Texas",Socorro HS,mens track,texas_tech
+322,Zuliat Alli,"Balch Springs, Texas",Dr. John Horn High School,womens track,texas_tech
+323,Kaylee Amershek,"Albuquerque,                                                                N.M.",Volcano Vista,womens track,texas_tech
+324,Dorleta Armendariz-Lasa,"Ordizia, Gipuzkoa- Spain",Instituto de Educacion Secundaria les Oianguren,womens track,texas_tech
+325,Chloe Cavazos,"Desoto, Texas",Desoto HS / Cibolo Steele HS,womens track,texas_tech
+326,Denae Chapman,"Keller, Texas",Fort Worth Christian,womens track,texas_tech
+327,Chelsey Cole,"McKinney, Texas",Allen High School,womens track,texas_tech
+328,Nokuthula Dlamini,"Germiston, Gauteng (South Africa)",Thuli High School,womens track,texas_tech
+329,G'Auna Edwards,"Houston, Texas",Spring High School,womens track,texas_tech
+330,Jessica Gallardo,"Walnut, Calif.",Bishop Amat,womens track,texas_tech
+331,Kyla Glenn,N/A,N/A,womens track,texas_tech
+332,Daja Gordon,"Dallas, Texas",Hampton Preparatory,womens track,texas_tech
+333,Jade Greer,"Hallsville,                                                                Texas",Hallsville,womens track,texas_tech
+334,Allison Halloran,"Houston, Texas",Clear Lake,womens track,texas_tech
+335,Kate Halloran,"Houston, Texas",Clear Lake,womens track,texas_tech
+336,Kaylor Harris,"Mesquite, Texas",John Horn High,womens track,texas_tech
+337,Kaylee Hinton,"Rockwall,                                                                Texas",Rockwall,womens track,texas_tech
+338,Tayler Jameson,"Mesa, Ariz.",Red                                                                Mountain,womens track,texas_tech
+339,Alexandria Johnson,"Lubbock, Texas",Lubbock High School,womens track,texas_tech
+340,Brianna  Johnson,"Tomball, Texas",Klein Oak,womens track,texas_tech
+341,Kirsten Johnson,"Grand Prairie, Texas",South Grand Prairie,womens track,texas_tech
+342,Tiffani Johnson,"Duncanville,                                                                Texas",Duncanville,womens track,texas_tech
+343,Sara Limp,"Los Alamitos,                                                                Calif.",Los Alamitos,womens track,texas_tech
+344,Arianna Lopez,"Southlake, Texas",Southlake Carroll Senior High School,womens track,texas_tech
+345,Jazmyn Martinez,"Miami, Florida",John A. Ferguson Senior High School,womens track,texas_tech
+346,Jesnica McNary,"Aubrey, Texas",Denton Ryan High School,womens track,texas_tech
+347,Brooke Merrick,"McKinney, Texas",Mckinney,womens track,texas_tech
+348,Talajah Murrell,"San Antonio,                                                                Texas",Converse Judson,womens track,texas_tech
+349,Bret Leigh Nance,"Blanco, Texas",Blanco,womens track,texas_tech
+350,Rose Njoku,"Wylie, Texas",Rockwall,womens track,texas_tech
+351,Lauren Offerman,"Loveland, Colorado",Mountain View High School,womens track,texas_tech
+352,Happiness Okeke,"Klein,                                                                Texas",Klein,womens track,texas_tech
+353,Crystal Onwukaife,"Cedar Park, Texas",Cedar Park,womens track,texas_tech
+354,Taryn Otto,"Houston, Texas",Clear Lake High School,womens track,texas_tech
+355,Natalie Parks,"Georgetown, Texas",Georgetown,womens track,texas_tech
+356,Paetyn Revell,N/A,N/A,womens track,texas_tech
+357,Peyton Ricks,"Carrollton, Texas",Hebron High School,womens track,texas_tech
+358,Faith Roberson,"Wall, Texas",Wall High School,womens track,texas_tech
+359,Taylor Rockwell,"Lancaster,                                                                Texas",Lancaster,womens track,texas_tech
+360,Tiana  Rodgers,"Houston, Texas",Elsik,womens track,texas_tech
+361,Lauren Schiller,"Sugar Land,                                                                Texas",St. Agnes Academy,womens track,texas_tech
+362,Hattie Schunk,"Albuquerque, N.M.",La                                                            Cueva,womens track,texas_tech
+363,Maygen Smith,"Friendswood,                                                                Texas",Clear Brook,womens track,texas_tech
+364,Kaitlyn Tharp,"North Richland Hills, Texas",Richland High School,womens track,texas_tech
+365,Jasmine Torres,"El Paso,                                                                Texas",Socorro HS,womens track,texas_tech
+366,Seasons Usual,"Brandywine, Maryland",Frederick Douglass High School,womens track,texas_tech
+367,Cyre Virgo,"Fleetwood,                                                                Penn.",Fleetwood Area,womens track,texas_tech
+368,Ivy Walker,"Arlington, Texas",Mansfield Summit,womens track,texas_tech
+369,Chloe Wall,"Farmersville, Texas",Farmersville High School,womens track,texas_tech
+370,Jadsia Warden,"Oxford, Georgia",Chapin,womens track,texas_tech
+371,Zarriea Willis,"Phoenix,                                                                Ariz.",Alhambra,womens track,texas_tech
+372,Megan Wood,"Aledo,                                                                TX",Aledo,womens track,texas_tech
+373,Lauren Younger,"Dallas,                                                                Texas",Ursuline Academy,womens track,texas_tech
+374,Kassidy Scott,"Piedmont, Okla.",Piedmont,softball,texas_tech
+375,Heaven Burton,"Round Rock, Texas",Cedar Ridge HS,softball,texas_tech
+376,Erin Edmoundson,"Deer Park, Texas",Deer Park HS,softball,texas_tech
+377,Claire McKissick,"Houston, Texas",Fort Bend Christian Academy,softball,texas_tech
+378,Kaylee Strickland,"Princeton, Texas",Princeton,softball,texas_tech
+379,Kenzie Davis,"Angleton, Texas",Angleton,softball,texas_tech
+380,Hannah Broseman,"Cypress, Texas",Ranch,softball,texas_tech
+381,Jessica Hartwell,"Galt, Calif.",Liberty Ranch,softball,texas_tech
+382,Kelcy Leach,"The Woodlands, Texas",The Woodlands HS,softball,texas_tech
+383,Taylor Satchell,"Rayne, La.",Notre Dame HS,softball,texas_tech
+384,Allison Knopp,"Saint Louis, Mo.",Butler Community College,softball,texas_tech
+385,Marissa Mirabal,"Wolfforth, Texas",Frenship HS,softball,texas_tech
+386,Olga Zamarripa,"Corpus Christi, Texas",Carroll HS,softball,texas_tech
+387,Karli Hamilton,"Houston, Texas",Cinco Ranch,softball,texas_tech
+388,Breanna Russell,"Crosby, Texas",Cosby HS,softball,texas_tech
+389,Kiana Workman,"Tomball, Texas",Tomball,softball,texas_tech
+390,Myamie Thompson,"Lancaster, Calif.",Paraclete HS,softball,texas_tech
+391,Michaela Cochran,"Ennis, Texas",Ennis,softball,texas_tech
+392,Cheyene Powell,"Blanchard, Okla.",Blanchard,softball,texas_tech
+393,Haley Harman,"Dallas, Texas",Lake Highlands HS,womens volleyball,texas_tech
+394,Kylie Rittimann,"San Antonio, Texas",Johnson HS,womens volleyball,texas_tech
+395,Kyndal Cowan,"Midland, Texas",Midland HS,womens volleyball,texas_tech
+396,Missy Owens,"Yorba Linda, Calif.",Yorba Linda HS,womens volleyball,texas_tech
+397,Emerson Solano,"Amarillo, Texas",Amarillo HS,womens volleyball,texas_tech
+398,Sarah Redding,"Friendswood,                                                                Texas",Friendswood HS,womens volleyball,texas_tech
+399,Allison White,"Argyle, Texas",Argyle HS,womens volleyball,texas_tech
+400,Andrea Janss,"Austin, Texas",McCallum HS,womens volleyball,texas_tech
+401,Katy Keenan,"Argyle,                                                                Texas",Argyle HS,womens volleyball,texas_tech
+402,Alex Kirby,"Knoxville, Tenn.",Hardin Valley Academy,womens volleyball,texas_tech
+403,Emily Hill,"Denton, Texas",Guyer HS,womens volleyball,texas_tech
+404,Maggie Sagers,"Plano, Texas",Plano Senior HS,womens volleyball,texas_tech
+405,Chandler Atwood,"Allen, Texas",Allen HS,womens volleyball,texas_tech
+406,Haley Killinger,"Prosper, Texas",Prosper HS,womens volleyball,texas_tech
