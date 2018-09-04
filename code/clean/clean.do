@@ -62,7 +62,7 @@ la var football_url 		"URL of football roster"
 rename school college
 rename school_full_name college_full_name
 
-export excel using ${outdata}/schools.csv, replace
+export delimited using ${outdata}/schools.csv, replace
 save ${outdata}/schools, replace
 
 ******************************************************************************
@@ -218,7 +218,7 @@ rename hs_clean highschool
 
 append using `full'
 
-rename highschool prevschool 
+rename highschool prevschool
 
 compress
 save `full', replace

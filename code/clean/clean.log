@@ -1,9 +1,8 @@
------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
       name:  <unnamed>
-       log:  C:\Users\jrk5012/Documents/GitHub/ncaa_rosters/code/clean/clean.
-> log
+       log:  C:\Users\jrk5012/Documents/GitHub/ncaa_rosters/code/clean/clean.log
   log type:  text
- opened on:  17 Jul 2018, 23:06:15
+ opened on:   4 Sep 2018, 12:19:51
 
 . 
 . run ${code}/ancillary_data/state_abbrevs.do
@@ -16,8 +15,7 @@ C:\Users\jrk5012\Documents\GitHub\ncaa_rosters\code\clean
 . 
 . // cleans raw roster data
 . 
-. ***************************************************************************
-> ***
+. ******************************************************************************
 . // build local with schools and make schools dataset
 . import excel using ${homedir}/notes/schools.xlsx, clear firstrow
 
@@ -52,8 +50,7 @@ C:\Users\jrk5012\Documents\GitHub\ncaa_rosters\code\clean
 . replace scrape_type = "grid" if grid==1
 (4 real changes made)
 
-. local keepvars school school_full_name conference scrape_date football_url 
-> scrape_type
+. local keepvars school school_full_name conference scrape_date football_url scrape_type
 
 . keep  `keepvars'
 
@@ -72,14 +69,11 @@ C:\Users\jrk5012\Documents\GitHub\ncaa_rosters\code\clean
   9.         }
  10.         disp "`schools_`stype''"
  11. }
- arkansas clemson florida_state georgia_tech illinois indiana louisville mich
-> igan_state nc_state northwestern notre_dame ohio_state oklahoma_state ole_m
-> iss penn_state south_carolina tcu vanderbilt wake_forest wisconsin
- alabama arizona arizona_state auburn baylor boston_college cal colorado flor
-> ida georgia iowa iowa_state kansas kansas_state kentucky maryland miami mic
-> higan minnesota miss_state missouri oregon oregon_state pitt purdue rutgers
->  stanford syracuse tennessee texas texas_am texas_tech ucla north_carolina 
-> usc utah virginia virginia_tech washington washington_state west_virginia
+ arkansas clemson florida_state georgia_tech illinois indiana louisville michigan_state nc_state northwestern notre_dame ohio_state oklahoma_state ole_miss penn_state south_carol
+> ina tcu vanderbilt wake_forest wisconsin
+ alabama arizona arizona_state auburn baylor boston_college cal colorado florida georgia iowa iowa_state kansas kansas_state kentucky maryland miami michigan minnesota miss_state
+>  missouri oregon oregon_state pitt purdue rutgers stanford syracuse tennessee texas texas_am texas_tech ucla north_carolina usc utah virginia virginia_tech washington washingto
+> n_state west_virginia
  duke lsu nebraska oklahoma
 
 . 
@@ -100,16 +94,14 @@ C:\Users\jrk5012\Documents\GitHub\ncaa_rosters\code\clean
 . rename school_full_name college_full_name
 
 . 
-. export excel using ${outdata}/schools.csv, replace
-file C:\Users\jrk5012/Documents/GitHub/ncaa_rosters/output/cleaned/schools.cs
-> v saved
+. export delimited using ${outdata}/schools.csv, replace
+file C:\Users\jrk5012/Documents/GitHub/ncaa_rosters/output/cleaned/schools.csv saved
 
 . save ${outdata}/schools, replace
 file ~/Documents/GitHub/ncaa_rosters/output/cleaned/schools.dta saved
 
 . 
-. ***************************************************************************
-> ***
+. ******************************************************************************
 . // loop through schools and combine by scrape type
 . 
 . foreach grp in table ul grid {
@@ -117,8 +109,7 @@ file ~/Documents/GitHub/ncaa_rosters/output/cleaned/schools.dta saved
   3.         tempfile `grp's
   4.         local i = 0
   5.         foreach school in `schools_`grp'' {
-  6.                 import delimited using ${indata}/`school'_rosters.csv, c
-> lear varnames(1)
+  6.                 import delimited using ${indata}/`school'_rosters.csv, clear varnames(1)
   7.                 cap drop v1
   8. 
 .                 if `i'>0 {
@@ -131,812 +122,475 @@ file ~/Documents/GitHub/ncaa_rosters/output/cleaned/schools.dta saved
 .         }
  14. }
 (11 vars, 480 obs)
-(note: file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp not found)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp not found)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 297 obs)
-(note: variable name was str23, now str24 to accommodate using data's
-       values)
-(note: variable hometown was str30, now str32 to accommodate using data's
-       values)
-(note: variable highschool was str3, now str73 to accommodate using data's
-       values)
-(note: variable school was str30, now str73 to accommodate using data's
-       values)
-(note: variable highschooltext was str3, now str36 to accommodate using
-       data's values)
-(note: variable schooltext was str22, now str36 to accommodate using data's
-       values)
-(note: variable sport was str17, now str20 to accommodate using data's
-       values)
-(note: variable college was str7, now str8 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str23, now str24 to accommodate using data's values)
+(note: variable hometown was str30, now str32 to accommodate using data's values)
+(note: variable highschool was str3, now str73 to accommodate using data's values)
+(note: variable school was str30, now str73 to accommodate using data's values)
+(note: variable highschooltext was str3, now str36 to accommodate using data's values)
+(note: variable schooltext was str22, now str36 to accommodate using data's values)
+(note: variable sport was str17, now str20 to accommodate using data's values)
+(note: variable college was str7, now str8 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 553 obs)
-(note: variable name was str23, now str24 to accommodate using data's
-       values)
-(note: variable highschool was str36, now str73 to accommodate using data's
-       values)
-(note: variable school was str36, now str73 to accommodate using data's
-       values)
-(note: variable hometowntext was str8, now str22 to accommodate using
-       data's values)
-(note: variable highschooltext was str11, now str36 to accommodate using
-       data's values)
-(note: variable schooltext was str11, now str36 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str23, now str24 to accommodate using data's values)
+(note: variable highschool was str36, now str73 to accommodate using data's values)
+(note: variable school was str36, now str73 to accommodate using data's values)
+(note: variable hometowntext was str8, now str22 to accommodate using data's values)
+(note: variable highschooltext was str11, now str36 to accommodate using data's values)
+(note: variable schooltext was str11, now str36 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 453 obs)
-(note: variable highschool was str72, now str73 to accommodate using data's
-       values)
-(note: variable school was str72, now str73 to accommodate using data's
-       values)
-(note: variable highschooltext was str33, now str36 to accommodate using
-       data's values)
-(note: variable schooltext was str33, now str36 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str12, now str13 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable highschool was str72, now str73 to accommodate using data's values)
+(note: variable school was str72, now str73 to accommodate using data's values)
+(note: variable highschooltext was str33, now str36 to accommodate using data's values)
+(note: variable schooltext was str33, now str36 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str12, now str13 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 501 obs)
-(note: variable hometown was str63, now str72 to accommodate using data's
-       values)
-(note: variable highschool was str63, now str73 to accommodate using data's
-       values)
-(note: variable school was str63, now str73 to accommodate using data's
-       values)
-(note: variable hometowntext was str22, now str33 to accommodate using
-       data's values)
-(note: variable highschooltext was str29, now str36 to accommodate using
-       data's values)
-(note: variable schooltext was str29, now str36 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str8, now str13 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable hometown was str63, now str72 to accommodate using data's values)
+(note: variable highschool was str63, now str73 to accommodate using data's values)
+(note: variable school was str63, now str73 to accommodate using data's values)
+(note: variable hometowntext was str22, now str33 to accommodate using data's values)
+(note: variable highschooltext was str29, now str36 to accommodate using data's values)
+(note: variable schooltext was str29, now str36 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str8, now str13 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 574 obs)
-(note: variable name was str21, now str36 to accommodate using data's
-       values)
-(note: variable hometowntext was str26, now str33 to accommodate using
-       data's values)
-(note: variable highschooltext was str22, now str36 to accommodate using
-       data's values)
-(note: variable schooltext was str26, now str36 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str7, now str13 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str21, now str36 to accommodate using data's values)
+(note: variable hometowntext was str26, now str33 to accommodate using data's values)
+(note: variable highschooltext was str22, now str36 to accommodate using data's values)
+(note: variable schooltext was str26, now str36 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str7, now str13 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 550 obs)
-(note: variable name was str29, now str36 to accommodate using data's
-       values)
-(note: variable hometown was str89, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str89, now str90 to accommodate using data's
-       values)
-(note: variable school was str89, now str90 to accommodate using data's
-       values)
-(note: variable hometowntext was str26, now str33 to accommodate using
-       data's values)
-(note: variable highschooltext was str22, now str36 to accommodate using
-       data's values)
-(note: variable schooltext was str26, now str36 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str10, now str13 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str29, now str36 to accommodate using data's values)
+(note: variable hometown was str89, now str90 to accommodate using data's values)
+(note: variable highschool was str89, now str90 to accommodate using data's values)
+(note: variable school was str89, now str90 to accommodate using data's values)
+(note: variable hometowntext was str26, now str33 to accommodate using data's values)
+(note: variable highschooltext was str22, now str36 to accommodate using data's values)
+(note: variable schooltext was str26, now str36 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str10, now str13 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 732 obs)
-(note: variable name was str28, now str36 to accommodate using data's
-       values)
-(note: variable hometown was str62, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str58, now str90 to accommodate using data's
-       values)
-(note: variable school was str62, now str90 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str28, now str36 to accommodate using data's values)
+(note: variable hometown was str62, now str90 to accommodate using data's values)
+(note: variable highschool was str58, now str90 to accommodate using data's values)
+(note: variable school was str62, now str90 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 542 obs)
-(note: variable name was str22, now str36 to accommodate using data's
-       values)
-(note: variable hometown was str54, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str66, now str90 to accommodate using data's
-       values)
-(note: variable school was str66, now str90 to accommodate using data's
-       values)
-(note: variable hometowntext was str24, now str37 to accommodate using
-       data's values)
-(note: variable highschooltext was str29, now str37 to accommodate using
-       data's values)
-(note: variable schooltext was str29, now str37 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str8, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str22, now str36 to accommodate using data's values)
+(note: variable hometown was str54, now str90 to accommodate using data's values)
+(note: variable highschool was str66, now str90 to accommodate using data's values)
+(note: variable school was str66, now str90 to accommodate using data's values)
+(note: variable hometowntext was str24, now str37 to accommodate using data's values)
+(note: variable highschooltext was str29, now str37 to accommodate using data's values)
+(note: variable schooltext was str29, now str37 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str8, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 448 obs)
-(note: variable name was str24, now str36 to accommodate using data's
-       values)
-(note: variable hometown was str60, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str60, now str90 to accommodate using data's
-       values)
-(note: variable school was str60, now str90 to accommodate using data's
-       values)
-(note: variable nametext was str4, now str9 to accommodate using data's
-       values)
-(note: variable hometowntext was str22, now str37 to accommodate using
-       data's values)
-(note: variable highschooltext was str22, now str37 to accommodate using
-       data's values)
-(note: variable schooltext was str22, now str37 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str12, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str24, now str36 to accommodate using data's values)
+(note: variable hometown was str60, now str90 to accommodate using data's values)
+(note: variable highschool was str60, now str90 to accommodate using data's values)
+(note: variable school was str60, now str90 to accommodate using data's values)
+(note: variable nametext was str4, now str9 to accommodate using data's values)
+(note: variable hometowntext was str22, now str37 to accommodate using data's values)
+(note: variable highschooltext was str22, now str37 to accommodate using data's values)
+(note: variable schooltext was str22, now str37 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str12, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 689 obs)
-(note: variable name was str28, now str36 to accommodate using data's
-       values)
-(note: variable hometown was str66, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str66, now str90 to accommodate using data's
-       values)
-(note: variable school was str66, now str90 to accommodate using data's
-       values)
-(note: variable hometowntext was str36, now str37 to accommodate using
-       data's values)
-(note: variable highschooltext was str36, now str37 to accommodate using
-       data's values)
-(note: variable schooltext was str36, now str37 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str10, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str28, now str36 to accommodate using data's values)
+(note: variable hometown was str66, now str90 to accommodate using data's values)
+(note: variable highschool was str66, now str90 to accommodate using data's values)
+(note: variable school was str66, now str90 to accommodate using data's values)
+(note: variable hometowntext was str36, now str37 to accommodate using data's values)
+(note: variable highschooltext was str36, now str37 to accommodate using data's values)
+(note: variable schooltext was str36, now str37 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str10, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 878 obs)
-(note: variable name was str27, now str36 to accommodate using data's
-       values)
-(note: variable hometown was str67, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str49, now str90 to accommodate using data's
-       values)
-(note: variable school was str67, now str90 to accommodate using data's
-       values)
-(note: variable hometowntext was str33, now str37 to accommodate using
-       data's values)
-(note: variable highschooltext was str33, now str37 to accommodate using
-       data's values)
-(note: variable schooltext was str33, now str37 to accommodate using data's
-       values)
-(note: variable college was str10, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str27, now str36 to accommodate using data's values)
+(note: variable hometown was str67, now str90 to accommodate using data's values)
+(note: variable highschool was str49, now str90 to accommodate using data's values)
+(note: variable school was str67, now str90 to accommodate using data's values)
+(note: variable hometowntext was str33, now str37 to accommodate using data's values)
+(note: variable highschooltext was str33, now str37 to accommodate using data's values)
+(note: variable schooltext was str33, now str37 to accommodate using data's values)
+(note: variable college was str10, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 465 obs)
-(note: variable name was str26, now str36 to accommodate using data's
-       values)
-(note: variable hometowntext was str22, now str37 to accommodate using
-       data's values)
-(note: variable highschooltext was str22, now str37 to accommodate using
-       data's values)
-(note: variable schooltext was str22, now str37 to accommodate using data's
-       values)
-(note: variable sport was str17, now str23 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str26, now str36 to accommodate using data's values)
+(note: variable hometowntext was str22, now str37 to accommodate using data's values)
+(note: variable highschooltext was str22, now str37 to accommodate using data's values)
+(note: variable schooltext was str22, now str37 to accommodate using data's values)
+(note: variable sport was str17, now str23 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 342 obs)
-(note: variable name was str21, now str36 to accommodate using data's
-       values)
-(note: variable hometown was str61, now str99 to accommodate using data's
-       values)
-(note: variable highschool was str61, now str99 to accommodate using data's
-       values)
-(note: variable school was str61, now str99 to accommodate using data's
-       values)
-(note: variable hometowntext was str33, now str37 to accommodate using
-       data's values)
-(note: variable highschooltext was str33, now str37 to accommodate using
-       data's values)
-(note: variable schooltext was str33, now str37 to accommodate using data's
-       values)
-(note: variable sport was str17, now str23 to accommodate using data's
-       values)
-(note: variable college was str8, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str21, now str36 to accommodate using data's values)
+(note: variable hometown was str61, now str99 to accommodate using data's values)
+(note: variable highschool was str61, now str99 to accommodate using data's values)
+(note: variable school was str61, now str99 to accommodate using data's values)
+(note: variable hometowntext was str33, now str37 to accommodate using data's values)
+(note: variable highschooltext was str33, now str37 to accommodate using data's values)
+(note: variable schooltext was str33, now str37 to accommodate using data's values)
+(note: variable sport was str17, now str23 to accommodate using data's values)
+(note: variable college was str8, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 787 obs)
-(note: variable name was str25, now str36 to accommodate using data's
-       values)
-(note: variable hometown was str72, now str99 to accommodate using data's
-       values)
-(note: variable highschool was str72, now str99 to accommodate using data's
-       values)
-(note: variable school was str72, now str99 to accommodate using data's
-       values)
-(note: variable hometowntext was str33, now str37 to accommodate using
-       data's values)
-(note: variable highschooltext was str33, now str37 to accommodate using
-       data's values)
-(note: variable schooltext was str33, now str37 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str10, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str25, now str36 to accommodate using data's values)
+(note: variable hometown was str72, now str99 to accommodate using data's values)
+(note: variable highschool was str72, now str99 to accommodate using data's values)
+(note: variable school was str72, now str99 to accommodate using data's values)
+(note: variable hometowntext was str33, now str37 to accommodate using data's values)
+(note: variable highschooltext was str33, now str37 to accommodate using data's values)
+(note: variable schooltext was str33, now str37 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str10, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 542 obs)
-(note: variable name was str30, now str36 to accommodate using data's
-       values)
-(note: variable hometown was str62, now str99 to accommodate using data's
-       values)
-(note: variable highschool was str62, now str99 to accommodate using data's
-       values)
-(note: variable school was str62, now str99 to accommodate using data's
-       values)
-(note: variable hometowntext was str33, now str37 to accommodate using
-       data's values)
-(note: variable highschooltext was str33, now str37 to accommodate using
-       data's values)
-(note: variable schooltext was str33, now str37 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str30, now str36 to accommodate using data's values)
+(note: variable hometown was str62, now str99 to accommodate using data's values)
+(note: variable highschool was str62, now str99 to accommodate using data's values)
+(note: variable school was str62, now str99 to accommodate using data's values)
+(note: variable hometowntext was str33, now str37 to accommodate using data's values)
+(note: variable highschooltext was str33, now str37 to accommodate using data's values)
+(note: variable schooltext was str33, now str37 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 444 obs)
-(note: variable name was str22, now str36 to accommodate using data's
-       values)
-(note: variable hometown was str27, now str99 to accommodate using data's
-       values)
-(note: variable highschool was str41, now str99 to accommodate using data's
-       values)
-(note: variable school was str41, now str99 to accommodate using data's
-       values)
-(note: variable hometowntext was str8, now str37 to accommodate using
-       data's values)
-(note: variable highschooltext was str11, now str37 to accommodate using
-       data's values)
-(note: variable schooltext was str11, now str37 to accommodate using data's
-       values)
-(note: variable college was str3, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str22, now str36 to accommodate using data's values)
+(note: variable hometown was str27, now str99 to accommodate using data's values)
+(note: variable highschool was str41, now str99 to accommodate using data's values)
+(note: variable school was str41, now str99 to accommodate using data's values)
+(note: variable hometowntext was str8, now str37 to accommodate using data's values)
+(note: variable highschooltext was str11, now str37 to accommodate using data's values)
+(note: variable schooltext was str11, now str37 to accommodate using data's values)
+(note: variable college was str3, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 341 obs)
-(note: variable name was str21, now str36 to accommodate using data's
-       values)
-(note: variable hometown was str77, now str99 to accommodate using data's
-       values)
-(note: variable highschool was str77, now str99 to accommodate using data's
-       values)
-(note: variable school was str77, now str99 to accommodate using data's
-       values)
-(note: variable hometowntext was str33, now str37 to accommodate using
-       data's values)
-(note: variable highschooltext was str33, now str37 to accommodate using
-       data's values)
-(note: variable schooltext was str33, now str37 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str10, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str21, now str36 to accommodate using data's values)
+(note: variable hometown was str77, now str99 to accommodate using data's values)
+(note: variable highschool was str77, now str99 to accommodate using data's values)
+(note: variable school was str77, now str99 to accommodate using data's values)
+(note: variable hometowntext was str33, now str37 to accommodate using data's values)
+(note: variable highschooltext was str33, now str37 to accommodate using data's values)
+(note: variable schooltext was str33, now str37 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str10, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 394 obs)
-(note: variable name was str22, now str36 to accommodate using data's
-       values)
-(note: variable hometown was str55, now str99 to accommodate using data's
-       values)
-(note: variable highschool was str53, now str99 to accommodate using data's
-       values)
-(note: variable school was str55, now str99 to accommodate using data's
-       values)
-(note: variable hometowntext was str33, now str37 to accommodate using
-       data's values)
-(note: variable highschooltext was str33, now str37 to accommodate using
-       data's values)
-(note: variable schooltext was str33, now str37 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str11, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str22, now str36 to accommodate using data's values)
+(note: variable hometown was str55, now str99 to accommodate using data's values)
+(note: variable highschool was str53, now str99 to accommodate using data's values)
+(note: variable school was str55, now str99 to accommodate using data's values)
+(note: variable hometowntext was str33, now str37 to accommodate using data's values)
+(note: variable highschooltext was str33, now str37 to accommodate using data's values)
+(note: variable schooltext was str33, now str37 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str11, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (11 vars, 742 obs)
-(note: variable name was str27, now str36 to accommodate using data's
-       values)
-(note: variable hometown was str97, now str99 to accommodate using data's
-       values)
-(note: variable highschool was str97, now str99 to accommodate using data's
-       values)
-(note: variable school was str97, now str99 to accommodate using data's
-       values)
-(note: variable hometowntext was str22, now str37 to accommodate using
-       data's values)
-(note: variable highschooltext was str25, now str37 to accommodate using
-       data's values)
-(note: variable schooltext was str25, now str37 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str9, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000001.tmp saved
+(note: variable name was str27, now str36 to accommodate using data's values)
+(note: variable hometown was str97, now str99 to accommodate using data's values)
+(note: variable highschool was str97, now str99 to accommodate using data's values)
+(note: variable school was str97, now str99 to accommodate using data's values)
+(note: variable hometowntext was str22, now str37 to accommodate using data's values)
+(note: variable highschooltext was str25, now str37 to accommodate using data's values)
+(note: variable schooltext was str25, now str37 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str9, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000001.tmp saved
 (6 vars, 504 obs)
-(note: file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp not found)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp not found)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 456 obs)
-(note: variable hometown was str32, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str55, now str99 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable hometown was str32, now str83 to accommodate using data's values)
+(note: variable highschool was str55, now str99 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 578 obs)
-(note: variable name was str24, now str26 to accommodate using data's
-       values)
-(note: variable hometown was str49, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str45, now str99 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str24, now str26 to accommodate using data's values)
+(note: variable hometown was str49, now str83 to accommodate using data's values)
+(note: variable highschool was str45, now str99 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 446 obs)
-(note: variable name was str21, now str26 to accommodate using data's
-       values)
-(note: variable hometown was str44, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str34, now str99 to accommodate using data's
-       values)
-(note: variable sport was str17, now str23 to accommodate using data's
-       values)
-(note: variable college was str6, now str13 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str21, now str26 to accommodate using data's values)
+(note: variable hometown was str44, now str83 to accommodate using data's values)
+(note: variable highschool was str34, now str99 to accommodate using data's values)
+(note: variable sport was str17, now str23 to accommodate using data's values)
+(note: variable college was str6, now str13 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 471 obs)
-(note: variable name was str21, now str26 to accommodate using data's
-       values)
-(note: variable hometown was str28, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str38, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str6, now str13 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str21, now str26 to accommodate using data's values)
+(note: variable hometown was str28, now str83 to accommodate using data's values)
+(note: variable highschool was str38, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str6, now str13 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 718 obs)
-(note: variable name was str25, now str26 to accommodate using data's
-       values)
-(note: variable hometown was str34, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str51, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str25, now str26 to accommodate using data's values)
+(note: variable hometown was str34, now str83 to accommodate using data's values)
+(note: variable highschool was str51, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 790 obs)
-(note: variable name was str25, now str26 to accommodate using data's
-       values)
-(note: variable hometown was str32, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str63, now str99 to accommodate using data's
-       values)
-(note: variable college was str3, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str25, now str26 to accommodate using data's values)
+(note: variable hometown was str32, now str83 to accommodate using data's values)
+(note: variable highschool was str63, now str99 to accommodate using data's values)
+(note: variable college was str3, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 385 obs)
-(note: variable name was str23, now str26 to accommodate using data's
-       values)
-(note: variable hometown was str33, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str71, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str8, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str23, now str26 to accommodate using data's values)
+(note: variable hometown was str33, now str83 to accommodate using data's values)
+(note: variable highschool was str71, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str8, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 518 obs)
-(note: variable name was str24, now str26 to accommodate using data's
-       values)
-(note: variable hometown was str40, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str52, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str7, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str24, now str26 to accommodate using data's values)
+(note: variable hometown was str40, now str83 to accommodate using data's values)
+(note: variable highschool was str52, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str7, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 525 obs)
-(note: variable name was str25, now str26 to accommodate using data's
-       values)
-(note: variable hometown was str81, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str97, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str7, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str25, now str26 to accommodate using data's values)
+(note: variable hometown was str81, now str83 to accommodate using data's values)
+(note: variable highschool was str97, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str7, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 612 obs)
-(note: variable name was str22, now str26 to accommodate using data's
-       values)
-(note: variable hometown was str43, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str77, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str4, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str22, now str26 to accommodate using data's values)
+(note: variable hometown was str43, now str83 to accommodate using data's values)
+(note: variable highschool was str77, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str4, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 394 obs)
-(note: variable name was str23, now str26 to accommodate using data's
-       values)
-(note: variable hometown was str31, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str37, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str10, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str23, now str26 to accommodate using data's values)
+(note: variable hometown was str31, now str83 to accommodate using data's values)
+(note: variable highschool was str37, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str10, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 445 obs)
-(note: variable name was str25, now str26 to accommodate using data's
-       values)
-(note: variable hometown was str25, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str46, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str6, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str25, now str26 to accommodate using data's values)
+(note: variable hometown was str25, now str83 to accommodate using data's values)
+(note: variable highschool was str46, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str6, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 380 obs)
-(note: variable name was str19, now str26 to accommodate using data's
-       values)
-(note: variable hometown was str45, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str46, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str12, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str19, now str26 to accommodate using data's values)
+(note: variable hometown was str45, now str83 to accommodate using data's values)
+(note: variable highschool was str46, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str12, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 415 obs)
-(note: variable hometown was str33, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str40, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str8, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable hometown was str33, now str83 to accommodate using data's values)
+(note: variable highschool was str40, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str8, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 483 obs)
-(note: variable name was str23, now str26 to accommodate using data's
-       values)
-(note: variable hometown was str30, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str49, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str8, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str23, now str26 to accommodate using data's values)
+(note: variable hometown was str30, now str83 to accommodate using data's values)
+(note: variable highschool was str49, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str8, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 355 obs)
-(note: variable hometown was str28, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str54, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str5, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable hometown was str28, now str83 to accommodate using data's values)
+(note: variable highschool was str54, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str5, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 822 obs)
-(note: variable name was str26, now str27 to accommodate using data's
-       values)
-(note: variable hometown was str30, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str76, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str8, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str26, now str27 to accommodate using data's values)
+(note: variable hometown was str30, now str83 to accommodate using data's values)
+(note: variable highschool was str76, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str8, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 682 obs)
-(note: variable hometown was str26, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str78, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str9, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable hometown was str26, now str83 to accommodate using data's values)
+(note: variable highschool was str78, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str9, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 386 obs)
-(note: variable name was str24, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str24, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str43, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str10, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str24, now str58 to accommodate using data's values)
+(note: variable hometown was str24, now str83 to accommodate using data's values)
+(note: variable highschool was str43, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str10, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 511 obs)
-(note: variable name was str25, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str30, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str44, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str8, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str25, now str58 to accommodate using data's values)
+(note: variable hometown was str30, now str83 to accommodate using data's values)
+(note: variable highschool was str44, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str8, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 418 obs)
-(note: variable name was str25, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str25, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str43, now str99 to accommodate using data's
-       values)
-(note: variable college was str6, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str25, now str58 to accommodate using data's values)
+(note: variable hometown was str25, now str83 to accommodate using data's values)
+(note: variable highschool was str43, now str99 to accommodate using data's values)
+(note: variable college was str6, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 447 obs)
-(note: variable name was str24, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str27, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str47, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str12, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str24, now str58 to accommodate using data's values)
+(note: variable hometown was str27, now str83 to accommodate using data's values)
+(note: variable highschool was str47, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str12, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 431 obs)
-(note: variable name was str24, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str60, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str74, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str4, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str24, now str58 to accommodate using data's values)
+(note: variable hometown was str60, now str83 to accommodate using data's values)
+(note: variable highschool was str74, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str4, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 370 obs)
-(note: variable name was str22, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str73, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str85, now str99 to accommodate using data's
-       values)
-(note: variable sport was str17, now str23 to accommodate using data's
-       values)
-(note: variable college was str6, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str22, now str58 to accommodate using data's values)
+(note: variable hometown was str73, now str83 to accommodate using data's values)
+(note: variable highschool was str85, now str99 to accommodate using data's values)
+(note: variable sport was str17, now str23 to accommodate using data's values)
+(note: variable college was str6, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 631 obs)
-(note: variable name was str24, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str35, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str49, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str7, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str24, now str58 to accommodate using data's values)
+(note: variable hometown was str35, now str83 to accommodate using data's values)
+(note: variable highschool was str49, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str7, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 847 obs)
-(note: variable name was str24, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str43, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str47, now str99 to accommodate using data's
-       values)
-(note: variable college was str8, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str24, now str58 to accommodate using data's values)
+(note: variable hometown was str43, now str83 to accommodate using data's values)
+(note: variable highschool was str47, now str99 to accommodate using data's values)
+(note: variable college was str8, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 520 obs)
-(note: variable name was str23, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str38, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str65, now str99 to accommodate using data's
-       values)
-(note: variable sport was str19, now str23 to accommodate using data's
-       values)
-(note: variable college was str8, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str23, now str58 to accommodate using data's values)
+(note: variable hometown was str38, now str83 to accommodate using data's values)
+(note: variable highschool was str65, now str99 to accommodate using data's values)
+(note: variable sport was str19, now str23 to accommodate using data's values)
+(note: variable college was str8, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 501 obs)
-(note: variable name was str23, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str28, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str76, now str99 to accommodate using data's
-       values)
-(note: variable sport was str17, now str23 to accommodate using data's
-       values)
-(note: variable college was str9, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str23, now str58 to accommodate using data's values)
+(note: variable hometown was str28, now str83 to accommodate using data's values)
+(note: variable highschool was str76, now str99 to accommodate using data's values)
+(note: variable sport was str17, now str23 to accommodate using data's values)
+(note: variable college was str9, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 495 obs)
-(note: variable name was str22, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str33, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str44, now str99 to accommodate using data's
-       values)
-(note: variable sport was str17, now str23 to accommodate using data's
-       values)
-(note: variable college was str5, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str22, now str58 to accommodate using data's values)
+(note: variable hometown was str33, now str83 to accommodate using data's values)
+(note: variable highschool was str44, now str99 to accommodate using data's values)
+(note: variable sport was str17, now str23 to accommodate using data's values)
+(note: variable college was str5, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 537 obs)
-(note: variable name was str26, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str33, now str83 to accommodate using data's
-       values)
-(note: variable highschool was str63, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str8, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str26, now str58 to accommodate using data's values)
+(note: variable hometown was str33, now str83 to accommodate using data's values)
+(note: variable highschool was str63, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str8, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 407 obs)
-(note: variable name was str26, now str58 to accommodate using data's
-       values)
-(note: variable highschool was str95, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str10, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str26, now str58 to accommodate using data's values)
+(note: variable highschool was str95, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str10, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 645 obs)
-(note: variable name was str23, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str28, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str45, now str99 to accommodate using data's
-       values)
-(note: variable college was str4, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str23, now str58 to accommodate using data's values)
+(note: variable hometown was str28, now str90 to accommodate using data's values)
+(note: variable highschool was str45, now str99 to accommodate using data's values)
+(note: variable college was str4, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 752 obs)
-(note: variable name was str24, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str30, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str55, now str99 to accommodate using data's
-       values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str24, now str58 to accommodate using data's values)
+(note: variable hometown was str30, now str90 to accommodate using data's values)
+(note: variable highschool was str55, now str99 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 510 obs)
-(note: variable name was str28, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str88, now str90 to accommodate using data's
-       values)
-(note: variable college was str3, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str28, now str58 to accommodate using data's values)
+(note: variable hometown was str88, now str90 to accommodate using data's values)
+(note: variable college was str3, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 431 obs)
-(note: variable name was str26, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str34, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str79, now str154 to accommodate using
-       data's values)
-(note: variable college was str4, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str26, now str58 to accommodate using data's values)
+(note: variable hometown was str34, now str90 to accommodate using data's values)
+(note: variable highschool was str79, now str154 to accommodate using data's values)
+(note: variable college was str4, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 650 obs)
-(note: variable name was str22, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str35, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str46, now str154 to accommodate using
-       data's values)
-(note: variable sport was str19, now str23 to accommodate using data's
-       values)
-(note: variable college was str8, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str22, now str58 to accommodate using data's values)
+(note: variable hometown was str35, now str90 to accommodate using data's values)
+(note: variable highschool was str46, now str154 to accommodate using data's values)
+(note: variable sport was str19, now str23 to accommodate using data's values)
+(note: variable college was str8, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 555 obs)
-(note: variable name was str24, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str40, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str54, now str154 to accommodate using
-       data's values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str13, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str24, now str58 to accommodate using data's values)
+(note: variable hometown was str40, now str90 to accommodate using data's values)
+(note: variable highschool was str54, now str154 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str13, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 574 obs)
-(note: variable name was str22, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str35, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str40, now str154 to accommodate using
-       data's values)
-(note: variable college was str10, now str14 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str22, now str58 to accommodate using data's values)
+(note: variable hometown was str35, now str90 to accommodate using data's values)
+(note: variable highschool was str40, now str154 to accommodate using data's values)
+(note: variable college was str10, now str14 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 408 obs)
-(note: variable name was str24, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str31, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str39, now str154 to accommodate using
-       data's values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str24, now str58 to accommodate using data's values)
+(note: variable hometown was str31, now str90 to accommodate using data's values)
+(note: variable highschool was str39, now str154 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (6 vars, 434 obs)
-(note: variable name was str25, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str47, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str83, now str154 to accommodate using
-       data's values)
-(note: variable sport was str20, now str23 to accommodate using data's
-       values)
-(note: variable college was str13, now str16 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000002.tmp saved
+(note: variable name was str25, now str58 to accommodate using data's values)
+(note: variable hometown was str47, now str90 to accommodate using data's values)
+(note: variable highschool was str83, now str154 to accommodate using data's values)
+(note: variable sport was str20, now str23 to accommodate using data's values)
+(note: variable college was str13, now str16 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000002.tmp saved
 (7 vars, 578 obs)
-(note: file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000003.tmp not found)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000003.tmp saved
+(note: file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000003.tmp not found)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000003.tmp saved
 (7 vars, 427 obs)
-(note: variable hometown was str34, now str38 to accommodate using data's
-       values)
-(note: variable high_school was str40, now str56 to accommodate using
-       data's values)
-(note: variable college was str3, now str4 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000003.tmp saved
+(note: variable hometown was str34, now str38 to accommodate using data's values)
+(note: variable high_school was str40, now str56 to accommodate using data's values)
+(note: variable college was str3, now str4 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000003.tmp saved
 (7 vars, 597 obs)
-(note: variable hometown was str27, now str38 to accommodate using data's
-       values)
-(note: variable high_school was str42, now str56 to accommodate using
-       data's values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000003.tmp saved
+(note: variable hometown was str27, now str38 to accommodate using data's values)
+(note: variable high_school was str42, now str56 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000003.tmp saved
 (7 vars, 466 obs)
-(note: variable name was str23, now str24 to accommodate using data's
-       values)
-(note: variable hometown was str30, now str38 to accommodate using data's
-       values)
-(note: variable sport was str19, now str23 to accommodate using data's
-       values)
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000003.tmp saved
+(note: variable name was str23, now str24 to accommodate using data's values)
+(note: variable hometown was str30, now str38 to accommodate using data's values)
+(note: variable sport was str19, now str23 to accommodate using data's values)
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000003.tmp saved
 
 . 
 . // unordered lists - easy
@@ -951,7 +605,7 @@ file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000003.tmp saved
 . tempfile full
 
 . save `full'
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000004.tmp saved
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000004.tmp saved
 
 . 
 . // grids - easy
@@ -974,17 +628,13 @@ file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000004.tmp saved
 . drop gender
 
 . append using `full'
-(note: variable name was str24, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str38, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str60, now str154 to accommodate using
-       data's values)
-(note: variable college was str8, now str16 to accommodate using data's
-       values)
+(note: variable name was str24, now str58 to accommodate using data's values)
+(note: variable hometown was str38, now str90 to accommodate using data's values)
+(note: variable highschool was str60, now str154 to accommodate using data's values)
+(note: variable college was str8, now str16 to accommodate using data's values)
 
 . save `full', replace
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000004.tmp saved
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000004.tmp saved
 
 . 
 . // tables - harder but more structured
@@ -1069,10 +719,8 @@ HOMETOWN/HIGH SCHOOL/PREVIOUS COLLEGE |         12        0.11       64.52
 (9,190 missing values generated)
 
 . 
-. replace ht_clean = strtrim(substr(hometown, strpos(hometown, "-") + 1, .)) 
-> ///
->                                         if hometowntext == "LAST SCHOOL - H
-> OMETOWN"
+. replace ht_clean = strtrim(substr(hometown, strpos(hometown, "-") + 1, .)) ///
+>                                         if hometowntext == "LAST SCHOOL - HOMETOWN"
 (36 real changes made)
 
 . 
@@ -1080,13 +728,10 @@ HOMETOWN/HIGH SCHOOL/PREVIOUS COLLEGE |         12        0.11       64.52
 . local chr_list "(" "-" "/"
 
 . foreach chr in "`chr_list'" {
-  2.         replace ht_clean = strtrim(substr(hometown, 1, strpos(hometown, 
-> "`chr'")-1)) ///
->                 if missing(ht_clean) & strpos(hometowntext, "`chr'") != 0 &
->  hometowntext != "N/A"
+  2.         replace ht_clean = strtrim(substr(hometown, 1, strpos(hometown, "`chr'")-1)) ///
+>                 if missing(ht_clean) & strpos(hometowntext, "`chr'") != 0 & hometowntext != "N/A"
   3. 
-.         replace ht_clean = hometown if strpos(hometowntext, "`chr'") > 0 & 
-> ///
+.         replace ht_clean = hometown if strpos(hometowntext, "`chr'") > 0 & ///
 >                 strpos(hometown, "`chr'") == 0 & missing(ht_clean)
   4. }
 (1,469 real changes made)
@@ -1102,16 +747,12 @@ HOMETOWN/HIGH SCHOOL/PREVIOUS COLLEGE |         12        0.11       64.52
 . local chr_list "(" "/"
 
 . foreach chr in "`chr_list'" {
-  2.         replace hs_clean = strtrim(substr(highschool, 1, strpos(highscho
-> ol, "`chr'")-1)) ///
->                 if strpos(highschooltext, "HOMETOWN") == 0 & missing(hs_cle
-> an) & highschooltext != "N/A"
+  2.         replace hs_clean = strtrim(substr(highschool, 1, strpos(highschool, "`chr'")-1)) ///
+>                 if strpos(highschooltext, "HOMETOWN") == 0 & missing(hs_clean) & highschooltext != "N/A"
   3. 
-.         replace hs_clean = highschool if strpos(highschooltext, "HOMETOWN")
->  == 0 & ///
+.         replace hs_clean = highschool if strpos(highschooltext, "HOMETOWN") == 0 & ///
 >                 missing(hs_clean) & highschooltext != "N/A" & ///
->                 strpos(highschool, "`chr'") == 0 & strpos(highschooltext, "
-> `chr'") > 0
+>                 strpos(highschool, "`chr'") == 0 & strpos(highschooltext, "`chr'") > 0
   4. }
 (22 real changes made)
 (89 real changes made)
@@ -1124,10 +765,8 @@ HOMETOWN/HIGH SCHOOL/PREVIOUS COLLEGE |         12        0.11       64.52
 
 . gen `x' = strpos(highschool, "(") + 1
 
-. replace hs_clean = strtrim(substr(highschool, `x', strlen(highschool) - `x'
-> )) ///
->         if highschooltext == "HOMETOWN (HIGH SCHOOL)" & strpos(highschool, 
-> "(") > 0
+. replace hs_clean = strtrim(substr(highschool, `x', strlen(highschool) - `x')) ///
+>         if highschooltext == "HOMETOWN (HIGH SCHOOL)" & strpos(highschool, "(") > 0
 (340 real changes made)
 
 . drop `x'
@@ -1138,45 +777,31 @@ HOMETOWN/HIGH SCHOOL/PREVIOUS COLLEGE |         12        0.11       64.52
 . gen `x' = strpos(highschool, "/") + 1
 
 . replace hs_clean = strtrim(substr(highschool, `x', .)) ///
->         if inlist(highschooltext, "HOMETOWN / HIGH SCHOOL", "HOMETOWN/HIGH 
-> SCHOOL") & `x' > 1
+>         if inlist(highschooltext, "HOMETOWN / HIGH SCHOOL", "HOMETOWN/HIGH SCHOOL") & `x' > 1
 (3,011 real changes made)
 
 . 
 . ** high school if between /
-. replace hs_clean = strtrim(substr(highschool, `x', strrpos(highschool, "/")
->  - `x')) ///
->         if strrpos(highschool, "/") > strpos(highschool, "/") & strrpos(hig
-> hschool, "/") > 0 & ///
+. replace hs_clean = strtrim(substr(highschool, `x', strrpos(highschool, "/") - `x')) ///
+>         if strrpos(highschool, "/") > strpos(highschool, "/") & strrpos(highschool, "/") > 0 & ///
 >         inlist(highschooltext, "HOMETOWN/HIGH SCHOOL/COLLEGE", ///
->                                                    "HOMETOWN/HIGH SCHOOL/LA
-> ST COLLEGE", ///
->                                                    "HOMETOWN/HIGH SCHOOL/LA
-> ST SCHOOL", ///
->                                                    "HOMETOWN/HIGH SCHOOL/PR
-> EV. COLLEGE", ///
->                                                    "HOMETOWN/HIGH SCHOOL/PR
-> EVIOUS COLLEGE", ///
->                                                    "HOMETOWN/HIGH SCHOOL/PR
-> EVIOUS SCHOOL")
+>                                                    "HOMETOWN/HIGH SCHOOL/LAST COLLEGE", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/LAST SCHOOL", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/PREV. COLLEGE", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/PREVIOUS COLLEGE", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/PREVIOUS SCHOOL")
 (83 real changes made)
 
 . 
 . ** high school if no other/previous school
 . replace hs_clean = strtrim(substr(highschool, `x', .)) ///
->         if strrpos(highschool, "/") == strpos(highschool, "/") & strrpos(hi
-> ghschool, "/") > 0 & ///
+>         if strrpos(highschool, "/") == strpos(highschool, "/") & strrpos(highschool, "/") > 0 & ///
 >         inlist(highschooltext, "HOMETOWN/HIGH SCHOOL/COLLEGE", ///
->                                                    "HOMETOWN/HIGH SCHOOL/LA
-> ST COLLEGE", ///
->                                                    "HOMETOWN/HIGH SCHOOL/LA
-> ST SCHOOL", ///
->                                                    "HOMETOWN/HIGH SCHOOL/PR
-> EV. COLLEGE", ///
->                                                    "HOMETOWN/HIGH SCHOOL/PR
-> EVIOUS COLLEGE", ///
->                                                    "HOMETOWN/HIGH SCHOOL/PR
-> EVIOUS SCHOOL")
+>                                                    "HOMETOWN/HIGH SCHOOL/LAST COLLEGE", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/LAST SCHOOL", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/PREV. COLLEGE", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/PREVIOUS COLLEGE", ///
+>                                                    "HOMETOWN/HIGH SCHOOL/PREVIOUS SCHOOL")
 (869 real changes made)
 
 . drop `x'
@@ -1189,11 +814,9 @@ HOMETOWN/HIGH SCHOOL/PREVIOUS COLLEGE |         12        0.11       64.52
 
 . la var ls_clean "Last/Previous School"
 
-. // list school if missing(hs_clean) & schooltext == "HOMETOWN (LAST SCHOOL)
-> "
+. // list school if missing(hs_clean) & schooltext == "HOMETOWN (LAST SCHOOL)"
 . 
-. replace ls_clean = school if inlist(schooltext, "LAST SCHOOL", "PREV SCHOOL
-> ", "PREVIOUS SCHOOL")
+. replace ls_clean = school if inlist(schooltext, "LAST SCHOOL", "PREV SCHOOL", "PREVIOUS SCHOOL")
 variable ls_clean was str1 now str49
 (819 real changes made)
 
@@ -1203,8 +826,7 @@ variable ls_clean was str1 now str49
 . gen `x' = strpos(school, "(") + 1
 
 . replace ls_clean = strtrim(substr(school, `x', strlen(school) - `x')) ///
->         if inlist(schooltext, "HOMETOWN (LAST SCHOOL)", "HOMETOWN (PREV SCH
-> OOL)") & strpos(school, "(") > 0
+>         if inlist(schooltext, "HOMETOWN (LAST SCHOOL)", "HOMETOWN (PREV SCHOOL)") & strpos(school, "(") > 0
 (1,129 real changes made)
 
 . drop `x'
@@ -1215,8 +837,7 @@ variable ls_clean was str1 now str49
 . gen `x' = strpos(school, "-") + 1
 
 . replace ls_clean = strtrim(substr(school, `x', strlen(school) - `x')) ///
->         if inlist(schooltext, "HOMETOWN - LAST SCHOOL") & strpos(school, "-
-> ") > 0
+>         if inlist(schooltext, "HOMETOWN - LAST SCHOOL") & strpos(school, "-") > 0
 (163 real changes made)
 
 . replace ls_clean = strtrim(substr(school, 1, `x' - 1)) ///
@@ -1231,10 +852,8 @@ variable ls_clean was str1 now str49
 . gen `x' = strpos(school, "/") + 1
 
 . replace ls_clean = strtrim(substr(school, `x', strlen(school) - `x')) ///
->         if inlist(schooltext, "HOMETOWN / LAST SCHOOL", "HOMETOWN / PREVIOU
-> S SCHOOL", ///
->         "HOMETOWN/LAST SCHOOL", "HOMETOWN/PREVIOUS SCHOOL") & strpos(school
-> , "/") > 0
+>         if inlist(schooltext, "HOMETOWN / LAST SCHOOL", "HOMETOWN / PREVIOUS SCHOOL", ///
+>         "HOMETOWN/LAST SCHOOL", "HOMETOWN/PREVIOUS SCHOOL") & strpos(school, "/") > 0
 variable ls_clean was str49 now str66
 (467 real changes made)
 
@@ -1261,17 +880,13 @@ variable ls_clean was str49 now str66
 
 . 
 . append using `full'
-(note: variable name was str36, now str58 to accommodate using data's
-       values)
-(note: variable hometown was str84, now str90 to accommodate using data's
-       values)
-(note: variable highschool was str74, now str154 to accommodate using
-       data's values)
-(note: variable college was str14, now str16 to accommodate using data's
-       values)
+(note: variable name was str36, now str58 to accommodate using data's values)
+(note: variable hometown was str84, now str90 to accommodate using data's values)
+(note: variable highschool was str74, now str154 to accommodate using data's values)
+(note: variable college was str14, now str16 to accommodate using data's values)
 
 . 
-. rename highschool prevschool 
+. rename highschool prevschool
 
 . 
 . compress
@@ -1279,12 +894,11 @@ variable ls_clean was str49 now str66
   (2,432,531 bytes saved)
 
 . save `full', replace
-file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000004.tmp saved
+file C:\Users\jrk5012\AppData\Local\Temp\ST_3bf8_000004.tmp saved
 
 . 
 . 
-. ***************************************************************************
-> ****
+. *******************************************************************************
 . use `full', clear
 
 . //  clean hometown variable and match to correct state variable
@@ -1340,11 +954,9 @@ file C:\Users\jrk5012\AppData\Local\Temp\ST_49f8_000004.tmp saved
 . //      cap drop x1
 . // }
 . 
-. ***************************************************************************
-> *
+. ****************************************************************************
 . // _match_state_abbrev
-. * attempts to merge the state variable with all possible types in state_abb
-> revs
+. * attempts to merge the state variable with all possible types in state_abbrevs
 . quietly {
 
 . 
@@ -1372,11 +984,9 @@ end of do-file
 (3,796 observations deleted)
 
 .         levelsof state, local(states)
-`"AK"' `"AL"' `"AR"' `"AZ"' `"CA"' `"CO"' `"CT"' `"DC"' `"DE"' `"FL"' `"GA"' 
-> `"HI"' `"IA"' `"ID"' `"IL"' `"IN"' `"KS"' `"KY"' `"LA"' `"MA"' `"MD"' `"ME"
-> ' `"MI"' `"MN"' `"MO"' `"MS"' `"MT"' `"NC"' `"ND"' `"NE"' `"NH"' `"NJ"' `"N
-> M"' `"NV"' `"NY"' `"OH"' `"OK"' `"OR"' `"PA"' `"RI"' `"SC"' `"SD"' `"TN"' `
-> "TX"' `"UT"' `"VA"' `"VT"' `"WA"' `"WI"' `"WV"' `"WY"'
+`"AK"' `"AL"' `"AR"' `"AZ"' `"CA"' `"CO"' `"CT"' `"DC"' `"DE"' `"FL"' `"GA"' `"HI"' `"IA"' `"ID"' `"IL"' `"IN"' `"KS"' `"KY"' `"LA"' `"MA"' `"MD"' `"ME"' `"MI"' `"MN"' `"MO"' `"M
+> S"' `"MT"' `"NC"' `"ND"' `"NE"' `"NH"' `"NJ"' `"NM"' `"NV"' `"NY"' `"OH"' `"OK"' `"OR"' `"PA"' `"RI"' `"SC"' `"SD"' `"TN"' `"TX"' `"UT"' `"VA"' `"VT"' `"WA"' `"WI"' `"WV"' `"WY
+> "'
 
 .         foreach state in `states' {
   2.                 disp "`state'"
@@ -2008,8 +1618,7 @@ WY
 . 
 . 
 . // merge conference
-. merge m:1 college using ${outdata}/schools, assert(3) nogen keepusing(confe
-> rence)
+. merge m:1 college using ${outdata}/schools, assert(3) nogen keepusing(conference)
 
     Result                           # of obs.
     -----------------------------------------
@@ -2060,8 +1669,7 @@ Duplicates in terms of all variables
 
 . 
 . // make sure cross-sport duplicates are truly multi-sport
-. // i.e. make sure didn't scrape mens or womens roster twice and apply to ot
-> her
+. // i.e. make sure didn't scrape mens or womens roster twice and apply to other
 . preserve
 
 .         bysort name college hometown: gen N = _N
@@ -2121,8 +1729,7 @@ to US state |      Freq.     Percent        Cum.
 
 . 
 . export delimited using ${outdata}/rosters.csv, replace
-file C:\Users\jrk5012/Documents/GitHub/ncaa_rosters/output/cleaned/rosters.cs
-> v saved
+file C:\Users\jrk5012/Documents/GitHub/ncaa_rosters/output/cleaned/rosters.csv saved
 
 . save ${outdata}/rosters, replace
 file ~/Documents/GitHub/ncaa_rosters/output/cleaned/rosters.dta saved
@@ -2130,8 +1737,7 @@ file ~/Documents/GitHub/ncaa_rosters/output/cleaned/rosters.dta saved
 . 
 . log close
       name:  <unnamed>
-       log:  C:\Users\jrk5012/Documents/GitHub/ncaa_rosters/code/clean/clean.
-> log
+       log:  C:\Users\jrk5012/Documents/GitHub/ncaa_rosters/code/clean/clean.log
   log type:  text
- closed on:  17 Jul 2018, 23:06:24
------------------------------------------------------------------------------
+ closed on:   4 Sep 2018, 12:20:10
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
