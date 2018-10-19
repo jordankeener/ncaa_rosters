@@ -1,6 +1,6 @@
 ,name,hometown,high school?,sport,college
 0,Aaron Wheeler,"Stamford, Conn.",Brewster Academy                                                (N.H.,mens basketball,purdue
-1,Eric Hunter,"Indianapolis, Ind.",Tindley                                                Prep,mens basketball,purdue
+1,Eric Hunter Jr.,"Indianapolis, Ind.",Tindley                                                Prep,mens basketball,purdue
 2,Carsen Edwards,"Atascocita, Texas",Atascocita,mens basketball,purdue
 3,Emmanuel Dowuona,"Miami, Fla.",Westwood                                                Christian,mens basketball,purdue
 4,Evan Boudreaux,"Lake Forest, Ill.",Lake Forest,mens basketball,purdue
@@ -9,363 +9,370 @@
 7,Nojel Eastern,"Evanston, Ill.",Evanston                                                Township,mens basketball,purdue
 8,Kyle King,"St. Charles, Ill.",St. Charles North,mens basketball,purdue
 9,Grady Eifert,"Fort Wayne, Ind.",Bishop                                                Dwenger,mens basketball,purdue
-10,Matt Haarms,"Amsterdam, Netherlands",Sunrise                                                Christian (Kan.,mens basketball,purdue
-11,Trevion Williams,"Chicago, Ill.",Henry Ford Academy                                                (Mich.,mens basketball,purdue
+10,Matt Haarms,"Amsterdam, Netherlands",Sunrise Christian (Kansas),mens basketball,purdue
+11,Trevion Williams,"Chicago, Ill.",Henry Ford Academy (Mich.),mens basketball,purdue
 12,Sasha Stefanovic,"Crown Point, Ind.",Crown Point,mens basketball,purdue
 13,Karissa McLaughlin,"Fort Wayne, Ind.",Homestead,womens basketball,purdue
 14,Abby Abel,"Carmel, Ind.",Carmel,womens basketball,purdue
 15,Lyndsey Whilby,"Powder Springs, Ga.",McEachern,womens basketball,purdue
-16,Cassidy Hardin,"Bargersville, Ind.",Center                                                Grove,womens basketball,purdue
+16,Cassidy Hardin,"Bargersville, Ind.",Center Grove,womens basketball,purdue
 17,Dominique Oden,"Atlanta, Ga.",Marist,womens basketball,purdue
 18,Nora Kiesler,"Louisville, Ky.",Assumption,womens basketball,purdue
-19,Ajah Stallings,"Indianapolis, Ind.",North                                                Central,womens basketball,purdue
-20,Léony Boudreau,"Montreal, Quebec",Dawson                                                College,womens basketball,purdue
+19,Ajah Stallings,"Indianapolis, Ind.",North Central,womens basketball,purdue
+20,Léony Boudreau,"Montreal, Quebec",Dawson College,womens basketball,purdue
 21,Jenelle Grant,"London, England",Harris Westminster,womens basketball,purdue
-22,Kayana Traylor,"Martinsville,                                                Ind.",Martinsville,womens basketball,purdue
-23,Tamara Farquhar,"Pierrefonds, Quebec",Dawson                                                College,womens basketball,purdue
+22,Kayana Traylor,"Martinsville, Ind.",Martinsville,womens basketball,purdue
+23,Tamara Farquhar,"Pierrefonds, Quebec",Dawson College,womens basketball,purdue
 24,Nyagoa Gony,"Lincoln, Neb.",Lincoln,womens basketball,purdue
-25,Ae'Rianna Harris,"Indianapolis, Ind.",Lawrence                                                North,womens basketball,purdue
-26,Lamina Cooper,"Indianapolis, Ind.",Lawrence                                                North,womens basketball,purdue
-27,Fatou Diagne,"Thies, Senegal",Kocc Barma,womens basketball,purdue
-28,Owen Jansen,"Oakville, Ontario",Iroquois                                                Ridge,baseball,purdue
-29,Tyler Powers,"Lafayette, Ind.",Central                                                Catholic,baseball,purdue
-30,Skyler Hunter,"Hood River, Ore.",Hood River Valley,baseball,purdue
-31,Harry Shipley,"Fishers, Ind.",Indianapolis                                                Cathedral,baseball,purdue
-32,Evan Warden,"Kokomo, Ind.",Western,baseball,purdue
-33,Nick Dalesandro,"Plainfield, Ill.",Joliet Catholic,baseball,purdue
-34,Alec West-Guillen,"Reno, Nev.",Bishop Manogue,baseball,purdue
-35,Alec Olund,"Crown Point, Ind.",Lake Central,baseball,purdue
-36,Tanner Andrews,"Rochester, Ind.",Tippecanoe Valley,baseball,purdue
-37,Cory Brooks,"Hilliard, Ohio",Hilliard Darby,baseball,purdue
-38,Evan Kennedy,"Lafayette, Ind.",Central                                                Catholic,baseball,purdue
-39,Trevor Cheaney,"Muenster, Texas",Muenster,baseball,purdue
-40,Nick Evarts,"Colleyville, Texas",Grapevine,baseball,purdue
-41,Justin Fugitt,"Hilliard, Ohio",Hilliard Darby,baseball,purdue
-42,Mike Kornacker,"Lemont, Ill.",St. Laurence,baseball,purdue
-43,Bryce Bonner,"Allen, Texas",Jesuit Prep,baseball,purdue
-44,Charlie Nasuti,"Long Beach, Calif.",Saint John Bosco,baseball,purdue
-45,Milo Beam,"Westfield, Ind.",Westfield,baseball,purdue
-46,Ross Learnard,"Catlin, Ill.",Catlin,baseball,purdue
-47,Jacson McGowan,"Brownsburg, Ind.",Brownsburg,baseball,purdue
-48,Patrick J. Smith,"Schaumburg, Ill.",Conant,baseball,purdue
-49,Cameron Williams,"Seabrook, Texas",Bastrop,baseball,purdue
-50,Gareth Stroh,"Kearney, Neb.",Gibbon,baseball,purdue
-51,Andrew Bohm,"Fishers, Ind.",Hamilton                                                Southeastern,baseball,purdue
-52,Ben Nisle,"Schererville, Ind.",Lake                                                Central,baseball,purdue
-53,Trent Johnson,"Crawfordsville,                                                Ind.",Crawfordsville,baseball,purdue
-54,Ryan Beard,"Boise, Idaho",Rocky Mountain,baseball,purdue
-55,Dalton Parker,"St. Joseph, Ill.",St. Joseph-Ogden,baseball,purdue
-56,Patrick W. Smith,"El Dorado Hills, Calif.",Oak Ridge,baseball,purdue
-57,Matt Moore,"Avon, Ind.",Avon,baseball,purdue
-58,Hayden Wynja,"Indianapolis, Ind.",Heritage                                                Christian,baseball,purdue
-59,Braden Giroux,"Lafayette, Ind.",McCutcheon,baseball,purdue
-60,Bo Hofstra,"Schererville, Ind.",Illiana Christian,baseball,purdue
-61,D.J. Knox,"Fairburn, Ga.",Creekside,football,purdue
-62,Dedrick Mackey,"Miami, Fla.",Booker T.                                                Washington,football,purdue
-63,Elijah Sindelar,"Princeton, Ky.",Caldwell                                                County,football,purdue
-64,D'J Edwards,"West Palm Beach, Fla.",Palm Beach                                                Lakes,football,purdue
-65,Kamal Hardy,"Miramar, Fla.",N/A,football,purdue
-66,Griffin Alstott,"St. Petersburg, Fla.",Northside                                                Christian,football,purdue
-67,T.J. Jallow,"Olive Branch, Miss.",N/A,football,purdue
-68,Tyler Hamilton,"Hilton Head, S.C.",Hilton Head,football,purdue
-69,Isaac Zico,"Milledgeville, Ga.",N/A,football,purdue
-70,Markell Jones,"Columbus, Ind.",Columbus East,football,purdue
-71,Lorenzo Neal,"Houston, Texas",Saint Thomas,football,purdue
-72,Terry Wright,"Memphis, Tenn.",Coffeyville,football,purdue
-73,Amad Anderson Jr.,"Staten Island, N.Y.",Curtis,football,purdue
-74,Mike Little,"Newhall, Calif.",Notre Dame,football,purdue
-75,David Blough,"Carrollton, Texas",Creekview,football,purdue
-76,Jared Sparks,"Geismar, La.",Dutchtown,football,purdue
-77,Spencer Evans,"Arlington, Texas",Baylor,football,purdue
-78,Jack Plummer,"Gilbert, Ariz.",Gilbert,football,purdue
-79,Antonio Blackmon,"Fort Wayne, Ind.",Bishop                                                Dwenger,football,purdue
-80,Danny Carollo,"Lake Forest, Ill.",Lake Forest,football,purdue
-81,Aidan O'Connell,"Lincolnshire, Ill.",Stevenson,football,purdue
-82,Nick Sipe,"Villa Park, Calif.",Villa Park,football,purdue
-83,KeyRon Catlett,"Hopkinsville, Ky.",Christian                                                County,football,purdue
-84,Cameron Northern,"Jeffersonville,                                                Ind.",Jeffersonville,football,purdue
-85,Aaron Banks,"Indianapolis, Ind.",Brebeuf,football,purdue
-86,Benaiah Franklin,"Marietta, Ga.,",Wheeler,football,purdue
-87,Kenneth Major,"Hopkinsville, Ky.",Christian                                                County,football,purdue
-88,Markus Bailey,"Columbus, Ohio",Hilliard                                                Davidson,football,purdue
-89,Tim Cason,"Clarkston, Mich.",Clarkston,football,purdue
-90,Tario Fuller,"Sugar Hill, Ga.",Lanier,football,purdue
-91,Brandon Shuman,"Miami, Fla.",Gulliver Prep,football,purdue
-92,Navon Mosley,"West Bloomfield, Mich.",West                                                Bloomfield,football,purdue
-93,Jacob Abrams,"Carmel, Ind.",Carmel,football,purdue
-94,Simeon Smiley,"Pensacola, Fla.",Pensacola                                                Catholic,football,purdue
-95,Tobias Larry,"Lakeland, Fla.",Kathleen,football,purdue
-96,Joe Schopper,"Indianapolis, Ind.",Cathedral,football,purdue
-97,Jackson Anthrop,"West Lafayette, Ind.",Central                                                Catholic,football,purdue
-98,Jonah Williams,"West Lafayette, Ind.",West                                                Lafayette,football,purdue
-99,Richie Worship,"Cleveland, Ohio",Valley Forge,football,purdue
-100,Zac Collins,"Louisville, Ky.",Saint Xavier,football,purdue
-101,Brennan Thieneman,"Noblesville, Ind.",Guerin                                                Catholic,football,purdue
-102,Zach Randall,"Fishers, Ind.",Hamilton                                                Southeastern,football,purdue
-103,Ronnie Hill,"Indianapolis, Ind.",Cathedral,football,purdue
-104,Alexander Horvath,"Mishawaka, Ind.",Marian,football,purdue
-105,Jacob Thieneman,"Noblesville, Ind.",Guerin                                                Catholic,football,purdue
-106,Brian Bravo,"North Aurora, Ill.",Joliet                                                Catholic,football,purdue
-107,David Day,"Indianapolis, Ind.",North                                                Central,football,purdue
-108,Myles Homan,"Cincinnati, Ohio",St. Xavier,football,purdue
-109,Anthony Watts,"Houston, Texas",Jack Yates,football,purdue
-110,Cornel Jones,"Miami, Fla.",Miami Central,football,purdue
-111,Ben Makowski,"Osceola, Ind.",Penn,football,purdue
-112,Jeff Marks,"Mobile, Ala.",Davidson,football,purdue
-113,Ryan Sadkowski,"Glen Ellyn, Ill.",Glenbard                                                South,football,purdue
-114,Keiwan Jones,"Ocala, Fla.",Dunnellon,football,purdue
-115,Bearooz Yacoobi,"Dearborn, Mich.",Dearborn,football,purdue
-116,Bryce Brown,"Evansville, Ind.",Evansville                                                North,football,purdue
-117,Kirk Barron,"Mishawaka, Ind.",Marian,football,purdue
-118,Mike Zeigler,"Springfield, Ill.",Southern                                                Illinois,football,purdue
-119,Derrick Barnes,"Covington, Ky.",Holy Cross,football,purdue
-120,Michael Mendez,"Los Fresnos, Texas",Los                                                Fresnos,football,purdue
-121,Viktor Beach,"Fort Myers, Fla.",Bishop Verot,football,purdue
-122,Semisi Fakasiieiki,"Compton, Calif.",Dominguez,football,purdue
-123,Ryan Flaherty,"New Carlisle, Ind.",New                                                Prairie,football,purdue
-124,Eric Swingler,"Munster, Ind.",Munster,football,purdue
-125,Allen Daniels,"Dacula, Ga.",Dacula,football,purdue
-126,Eric Ferguson,"Noblesville, Ind.",Noblesville,football,purdue
-127,Marc Roland,"Indianapolis, Ind.",Roncalli,football,purdue
-128,Alex Criddle,"Broken Arrow, Okla.",Thomas                                                Edison,football,purdue
-129,Peyton Truitt,"West Lafayette, Ind.",West                                                Lafayette,football,purdue
-130,Sam Loebig,"Bethesda, Md.",Bethesda-Chevy                                                Chase,football,purdue
-131,Sam Garvin,"Fishers, Ind.",Hamilton                                                Southeastern,football,purdue
-132,Ethan Smart,"Southaven, Miss.",N/A,football,purdue
-133,Graham Keller,"Noblesville, Ind.",Guerin                                                Catholic,football,purdue
-134,Shane Evans,"Crystal Lake, Ill.",NIU,football,purdue
-135,Mark Stickford,"Carmel, Ind.",Carmel,football,purdue
-136,D.J. Washington,"Louisville, Ky.",Ballard,football,purdue
-137,Grant Hermanns,"Albuquerque, N.M.",Rio Rancho,football,purdue
-138,Matt McCann,"Fishers, Ind.",Bishop Chatard,football,purdue
-139,Jarrett Burgess,"Miami, Fla.",Florida Christian,football,purdue
-140,Darius Pittman,"Gulfport, Miss.",Saint                                                Stanislaus,football,purdue
-141,Malcolm Dotson,"Indianapolis, Ind.",Cathedral,football,purdue
-142,Jess Trussell,"Arlington, Texas",James Martin,football,purdue
-143,J.D. Dellinger,"Charlotte, N.C.",Charlotte Country                                                Day,football,purdue
-144,Noah Ellison,"Louisville, Ky.",Trinity,football,purdue
-145,Ryan James,"Chicago, Ill.",De La Salle,football,purdue
-146,Cole Herdman,"Leesburg, Va.",Flint Hill,football,purdue
-147,Brycen Hopkins,"Nashville, Tenn.",Ensworth,football,purdue
-148,Brooks Royal,"Fitzgerald, Ga.",Fitzgerald,football,purdue
-149,Giovanni Reviere,"Chattanooga, Tenn.",McCallie,football,purdue
-150,Robert McWilliams III,"South Miami, Fla.",Coral Gables,football,purdue
-151,Ray Ellis,"San Jose, Calif.",N/A,football,purdue
-152,Jake Herr,"Carmel, Ind.",Carmel,football,purdue
-153,Conor Sweeney,"Indianapolis, Ind.",Fork Union                                                Military Academy,football,purdue
-154,Kai Higgins,"Pomona, Calif.",N/A,football,purdue
-155,Emily Graham,"Brookfield, Ill.",Riverside Brookfield,womens soccer,purdue
-156,Katie Luce,"Lewis Center, Ohio",Olentangy                                                Orange,womens soccer,purdue
-157,Julia Ware,"Frisco, Texas",John Paul II,womens soccer,purdue
-158,Sam Slagle,"Solon, Ohio",Solon,womens soccer,purdue
-159,Breana Robbins,"Darien, Ill.",Downers Grove                                                South,womens soccer,purdue
-160,Sarah Clark,"Brighton, Mich.",Mercy,womens soccer,purdue
-161,Ryan Dudycha,"Naperville, Ill.",Naperville                                                Central,womens soccer,purdue
-162,Brady Riley,"Fishers, Ind.",Fishers,womens soccer,purdue
-163,Alyssa Cwidak,"Arlington Heights,                                                Ill.",Prospect,womens soccer,purdue
-164,Aly Mielke,"Davie, Fla.",Calvary Christian Academy,womens soccer,purdue
-165,Ena Sabanagic,"Hanover Park, Ill.",Hoffman                                                Estates,womens soccer,purdue
-166,Mia Roth,"Mission Viejo, Calif.",Santa Margarita,womens soccer,purdue
-167,Katie Stephens,"Oceanport, N.J.",Shore                                                Regional,womens soccer,purdue
-168,Kylie Hase,"Orland Park, Ill.",Carl                                                Sandburg,womens soccer,purdue
-169,Alyssa Lum,"Milton, Mass.",Milton,womens soccer,purdue
-170,Teagan Jones,"Cary, Ill.",Cary-Grove,womens soccer,purdue
-171,Hannah Melchiorre,"Thunder Bay, Ontario",Shattuck St. Mary's (Minn.),womens soccer,purdue
-172,Sydney Duarte,"Lake Forest, Calif.",Saddleback Academy,womens soccer,purdue
-173,Dannah Williams,"Naperville, Ill.",Neuqua                                                Valley,womens soccer,purdue
-174,Hannah Mussallem,"Palos Heights, Ill.",Amos Alonzo Stagg,womens soccer,purdue
-175,Jordan Oetting,"Festus, Mo.",Festus,womens soccer,purdue
-176,Grace Dunker,"Southlake, Texas",Carroll,womens soccer,purdue
-177,Ally Mussallem,"Palos Heights, Ill.",Amos Alonzo Stagg,womens soccer,purdue
-178,Maddy Duncan,"Danville, Calif.",Carondelet,womens soccer,purdue
-179,Skylar Giacobetti,"Dana Point, Calif.",JSerra Catholic,womens soccer,purdue
-180,Lexi Marks,"Granger, Ind.",Penn,womens soccer,purdue
-181,Maya Lambert,"Northbrook, Ill.",Glenbrook                                                North,womens soccer,purdue
-182,Skylurr Patrick,"Lowell, Ark.",Rogers,womens soccer,purdue
-183,Grace Walsh,"Kensington, Md.",St. John's College,womens soccer,purdue
-184,Abby Crabtree,"Glen Carbon,                                                Ill.",Edwardsville,womens soccer,purdue
-185,Sarah Griffith,"Naperville, Ill.",Waubonsie                                                Valley,womens soccer,purdue
-186,Marisa Bova,"Hartland, Wis.",Arrowhead Union,womens soccer,purdue
-187,Paige Liebel,"St. Petersburg, Fla.",Canterbury School of Florida,womens soccer,purdue
-188,Cole Bradley,"West Lafayette, Ind.",Harrison,mens golf,purdue
-189,Andrew Farraye,"St. Augustine, Fla.",Ponte Vedra,mens golf,purdue
-190,Timmy Hildebrand,"Westfield, Ind.",Westfield,mens golf,purdue
-191,Jason Hong,"Lidcombe, Australia",Sydney                                                Boys,mens golf,purdue
-192,Andrew Lewis,"Westfield, Ind.",Westfield,mens golf,purdue
-193,Thomas Lewis,"Westfield, Ind.",Westfield,mens golf,purdue
-194,Matt Lloyd,"San Jose, Calif.",Archbishop                                                Mitty,mens golf,purdue
-195,Filippo Massobrio,"San Damiano D'Asti,                                                Italy",Windermere Prep (Fla.),mens golf,purdue
-196,Jarle Volden,"Oslo, Norway",Wang Toppidrett,mens golf,purdue
-197,Joe Weiler,"Bloomington, Ind.",Bloomington                                                South,mens golf,purdue
-198,Linn Andersson,"Jonkoping, Sweden",Abyskolan,womens golf,purdue
-199,Micaela Farah,"Lima, Peru",Altair School,womens golf,purdue
-200,Lauren Guiao,"Evansville, Ind.",Memorial,womens golf,purdue
-201,Marta Martin,"Madrid, Spain",IES Ortega y Gasset                                                Blume,womens golf,purdue
-202,Ida Putri,"Bali, Indonesia",SMAN 3                                                Denpasar,womens golf,purdue
-203,Hashilla Rivai,"Jakarta, Indonesia",Thornton                                                Academy,womens golf,purdue
-204,Covadonga SanJuan,"Aviles, Spain",IES Ortega y Gasset                                                Blume,womens golf,purdue
-205,Inez Wanamarta,"Surabaya, Indonesia",Elyon                                                Christian,womens golf,purdue
-206,Marat Amaltdinov,"Orenburg, Russia",Moscow Olympic                                                Reserve N3,mens swimming,purdue
-207,Chris Bals,"South Bend, Ind.",St. Joseph,mens swimming,purdue
-208,Nathan Barsanti,"Brentwood, Calif.",Heritage,mens swimming,purdue
-209,Tim Barth,"North Caldwell, N.J.",West                                                Essex,mens swimming,purdue
-210,Nikola Bjelajac,"Banja Luka, Bosnia",N/A,mens swimming,purdue
-211,James Boone,"Centennial, Colo.",Grandview,mens swimming,purdue
-212,Hudson Bursch,"Granger, Ind.",Penn,mens swimming,purdue
-213,Joe Cifelli,"Crown Point, Ind.",Marian Catholic                                                (Ill.,mens swimming,purdue
-214,Alex Close,"New Haven, Ind.",New Haven,mens swimming,purdue
-215,Joe Gardner,"Munster, Ind.",Munster,mens swimming,purdue
-216,Sean Gartland,"Carlsbad, Calif.",Pacific                                                Ridge,mens swimming,purdue
-217,Keith Gill,"Spring, Texas",Klein Oak,mens swimming,purdue
-218,Gabi Gomez-Treig,"Barcelona, Spain",The Bolles School                                                (Fla.,mens swimming,purdue
-219,Kaleb Gould,"Phoenix, Ariz.",Horizon,mens swimming,purdue
-220,Batuhan Hakan,"Istanbul, Turkey",Saint Joseph,mens swimming,purdue
-221,Jake Heidecker,"Newburgh, Ind.",Castle,mens swimming,purdue
-222,Jackson Higgins,"Dayton, Ohio",Oakwood,mens swimming,purdue
-223,Luke Ingram,"Fishers, Ind.",Fishers,mens swimming,purdue
-224,Steele Johnson,"Carmel, Ind.",Laurel Springs,mens swimming,purdue
-225,Erik Juliusson,"Laguna Beach, Calif.",Laguna                                                Beach,mens swimming,purdue
-226,Jason Jung,"Seoul, South Korea",Westford                                                Academy (Mass.,mens swimming,purdue
-227,Kiki Komlenic,"Zagreb, Croatia",Pucko Otvoreno                                                Uciliste,mens swimming,purdue
-228,Ryan Lawrence,"Birmingham, Mich.",Seaholm,mens swimming,purdue
-229,Grant Lewis,"Avon, Ind.",Avon,mens swimming,purdue
-230,Brandon Loschiavo,"Huntington Beach,                                                Calif.",Huntington Beach,mens swimming,purdue
-231,Gavin McCulloch,"Cary, N.C.",Green Hope,mens swimming,purdue
-232,Nick McDowell,"Las Vegas, Nev.",Durango,mens swimming,purdue
-233,Adam Noens,"Indianapolis, Ind.",Lawrence                                                North,mens swimming,purdue
-234,Trent Pellini,"Dana Point, Calif.",Dana Hills,mens swimming,purdue
-235,Jared Schimmelpfenning,"Pekin, Ill.",Peoria Notre Dame,mens swimming,purdue
-236,Will Schrensky,"Fort Wayne, Ind.",Carroll,mens swimming,purdue
-237,Michael Smith,"Dana Point, Calif.",Dana Hills,mens swimming,purdue
-238,Jake Thomas,"Lafayette, Ind.",Central                                                Catholic,mens swimming,purdue
-239,Nate Thomas,"Pace, Fla.",Pace,mens swimming,purdue
-240,Konnor Venecia,"Englewood, Colo.",Cherry Creek,mens swimming,purdue
-241,Dale Williams,"Fox Island, Wash.",Gig Harbor,mens swimming,purdue
-242,Joe Young,"Fishers, Ind.",Hamilton                                                Southeastern,mens swimming,purdue
-243,Eddy Zawatski,"Larksville, Pa.",Wyoming Valley                                                West,mens swimming,purdue
-244,Danielle Auckley,"Lafayette, Ind.",McCutcheon,womens swimming,purdue
-245,Maddie Barta,"Hartland, Wis.",Arrowhead,womens swimming,purdue
-246,Emily Bretscher,"Knoxville, Tenn.",L&N STEM                                                Academy,womens swimming,purdue
-247,Caylee Casbon,"Porter, Ind.",Chesterton,womens swimming,purdue
-248,Alex Clarke,"Carmel, Ind.",Carmel,womens swimming,purdue
-249,Emily Converse,"Grand Rapids, Mich.",East Grand                                                Rapids,womens swimming,purdue
-250,Gretta DeCoursey,"Zionsville, Ind.",Zionsville,womens swimming,purdue
-251,Cady Farlow,"Berne, Ind.",South Adams,womens swimming,purdue
-252,Alex Ford,"Spring, Texas",The Woodlands,womens swimming,purdue
-253,Anna Giesler,"Holland, Mich.",Holland,womens swimming,purdue
-254,Roxy Griffore,"Milford, Mich.",Mercy,womens swimming,purdue
-255,Julianne Heyde,"Carmel, Ind.",Carmel,womens swimming,purdue
-256,Rachel Ho,"West Lafayette, Ind.",West                                                Lafayette,womens swimming,purdue
-257,Hanna House,"Carmel, Ind.",Carmel,womens swimming,purdue
-258,Katie Hughes,"Bristol, Ind.",Northridge,womens swimming,purdue
-259,Megan Johnson,"Fort Wayne, Ind.",Homestead,womens swimming,purdue
-260,Evan King,"Weston-super-Mare,                                                England",Churchill Academy,womens swimming,purdue
-261,Riley Kishman,"Grand Rapids, Mich.",Catholic                                                Central,womens swimming,purdue
-262,Taite Kitchel,"Zionsville, Ind.",Zionsville,womens swimming,purdue
-263,Courtney Kresl,"Fort Wayne, Ind.",Carroll,womens swimming,purdue
-264,Kelsey Macaddino,"Northville, Mich.",Northville,womens swimming,purdue
-265,Kate May,"Glen Carbon,                                                Ill.",Edwardsville,womens swimming,purdue
-266,Emily Meaney,"Thornlands,                                                Australia",Ormiston,womens swimming,purdue
-267,Emily Meckstroth,"Granger, Ind.",Penn,womens swimming,purdue
-268,Kaersten Meitz,"Waukesha, Wis.",Waukesha South,womens swimming,purdue
-269,Morgan Meixner,"Indianapolis, Ind.",Lawrence                                                North,womens swimming,purdue
-270,Paige Miller,"Leesburg, Ind.",Wawasee,womens swimming,purdue
-271,Brenna Morgan,"Winona Lake, Ind.",Warsaw,womens swimming,purdue
-272,Natalie Mudd,"Fishers, Ind.",Hamilton                                                Southeastern,womens swimming,purdue
-273,Natalie Myers,"Plainfield, Ind.",Avon,womens swimming,purdue
-274,Angela Pan,"Mississauga, Ontario",The                                                Woodlands,womens swimming,purdue
-275,Jinq En Phee,"Subang Jaya, Malaysia",Kuen Cheng,womens swimming,purdue
-276,Emmy Rawson,"Muncie, Ind.",Muncie Central,womens swimming,purdue
-277,Samm Reese,"Granger, Ind.",St. Joseph,womens swimming,purdue
-278,Breanna Robinson,"North Webster, Ind.",Wawasee,womens swimming,purdue
-279,Cally Sampson,"Zionsville, Ind.",Zionsville,womens swimming,purdue
-280,Cassidy Sampson,"Zionsville, Ind.",Zionsville,womens swimming,purdue
-281,Maizie Seidl,"Mount Horeb, Wis.",Verona,womens swimming,purdue
-282,Jackie Smailis,"Highland, Ind.",Highland,womens swimming,purdue
-283,Annie Spalding,"Mishawaka, Ind.",Penn,womens swimming,purdue
-284,Reagan Thom,"New Albany, Ind.",New Albany,womens swimming,purdue
-285,Lexi Vincent,"Peru, Ind.",Oak Hill,womens swimming,purdue
-286,Athell Bennett,"Valley Stream, N.Y.",Valley Stream                                                Central,mens tennis,purdue
-287,Renan Hanayama,"São Paulo, Brazil",Escola Nossa                                                Senhora das Gracas,mens tennis,purdue
-288,Mateo Julio,"Olavarria, Argentina",N/A,mens tennis,purdue
-289,Stephan Koenigsfest,"La Paz, Bolivia",Colegio Aleman                                                Mariscal Braun,mens tennis,purdue
-290,Gergely Madarasz,"Baja, Hungary",Vorosmarty Mihaly                                                Gimnazium,mens tennis,purdue
-291,Ali Mooraj,"Karachi, Sindh, Pakistan",St.                                                Joseph's Institution International,mens tennis,purdue
-292,Maksymilian Raupuk,"Gdynia, Poland",Sopocka Akademia                                                Tenisowa,mens tennis,purdue
-293,Javier Rodriguez,"Trujillo, Peru",N/A,mens tennis,purdue
-294,Dominik Sochurek,"Prague, Czech Republic",Gymnasium                                                Jana Palacha,mens tennis,purdue
-295,Silvia Ambrosio,"Frankfurt,                                                Germany",Liebigschule,womens tennis,purdue
-296,Ena Babic,"Cakovec, Croatia",Economic                                                Gymnasium,womens tennis,purdue
-297,Rafaella Baquerizo,"Guayaquil, Ecuador",Unidad                                                Educativa Bilingue Delta,womens tennis,purdue
-298,Caitlin Calkins,"Tulsa, Okla.",N/A,womens tennis,purdue
-299,Zala Dovnik,"Maribor, Slovenia",II. gymnasium                                                Maribor,womens tennis,purdue
-300,Amina Mukhametshina,"Tashkent, Uzbekistan",N/A,womens tennis,purdue
-301,Alex Sabe,"Rye, N.Y.",Laurel Springs,womens tennis,purdue
-302,Seira Shimizu,"Saitama, Japan",Weil Tennis                                                Academy,womens tennis,purdue
-303,Jacob Aven,"Zionsville, Ind.",Zionsville,wrestling,purdue
-304,Christian Brunner,"East Dundee,                                                Ill.",Dundee-Crown,wrestling,purdue
-305,Jack Cheney,"Westlake Village, Calif.",N/A,wrestling,purdue
-306,Patrick Cody,"Ridgewood, N.J.",Bergen                                                Catholic,wrestling,purdue
-307,Marshall Craig V,"Bradenton, Fla.",Manatee,wrestling,purdue
-308,Elijah Davis,"Oceanside, Calif.",Vista,wrestling,purdue
-309,David Eli,"Elkhart, Ind.",Elkhart                                                Memorial,wrestling,purdue
-310,Parker Filius,"Havre, Mont.",Havre,wrestling,purdue
-311,Jared Florell,"Ham Lake, Minn.",Totino-Grace,wrestling,purdue
-312,Laine Frazee,"Hillsboro, Ind.",Fountain                                                Central,wrestling,purdue
-313,Nate Limmex,"Ada, Mich.",Grand Rapids Catholic                                                Central,wrestling,purdue
-314,Dylan Lydy,"Indianapolis, Ind.",Ben Davis,wrestling,purdue
-315,Max Lyon,"Dyersville, Iowa",Western                                                Dubuque,wrestling,purdue
-316,Jon Morales,"Kirklin, Ind.",Western Boone,wrestling,purdue
-317,Jacob Morrissey,"Oconto Falls, Wis.",Oconto                                                Falls,wrestling,purdue
-318,Austin Nash,"Florham Park, N.J.",Hanover                                                Park,wrestling,purdue
-319,Griffin Parriott,"New Prague, Minn.",New Prague,wrestling,purdue
-320,Koby Reyes,"Billings, Mont.",Billings West,wrestling,purdue
-321,Devin Schroder,"Northview, Mich.",Grand Rapids                                                Catholic Central,wrestling,purdue
-322,Bjorn Schroeder,"Bozeman, Mont.",Bozeman,wrestling,purdue
-323,Austin Singer,"Naperville, Ill.",Neuqua                                                Valley,wrestling,purdue
-324,Shawn Streck,"Merrillville,                                                Ind.",Merrillville,wrestling,purdue
-325,Ben Thornton,"Stoddard, Wis.",La Crosse                                                Central,wrestling,purdue
-326,Tanner Webster,"Crawfordsville, Ind.",North                                                Montgomery,wrestling,purdue
-327,Luke Welch,"Newburgh, Ind.",Castle,wrestling,purdue
-328,Alec White,"New Palestine, Ind.",New                                                Palestine,wrestling,purdue
-329,Cole Wysocki,"Edwardsville, Ill.",Triad,wrestling,purdue
-330,Halle Hixenbaugh,"Osceola, Ind.",N/A,softball,purdue
-331,Mallory Baker,"Greenwood, Ind.",Center Grove,softball,purdue
-332,Maddie Damon,"West Concord,                                                Minn.",Kasson-Mantorville,softball,purdue
-333,Siena Wagner,"Goleta, Calif.",Dos Pueblos High                                                School,softball,purdue
-334,Ryleigh Scott,"Terre Haute, Ind.",Terre Haute                                                North Vigo,softball,purdue
-335,Tayler Wullenweber,"Lawrenceburg, Ind.",East                                                Central,softball,purdue
-336,Kaitlynn Moody,"West Lafayette, Ind.",IUPUI,softball,purdue
-337,Rachel Krzysko,"Barrington Hills, Ill.",Barrington                                                High School,softball,purdue
-338,Morgan Cavinder,"Wheatfield, Ind.",Kankakee                                                Valley,softball,purdue
-339,Amanda Jacobson,"Riverside, Calif.",Martin Luther                                                King High School,softball,purdue
-340,Jenny Behan,"Mundelein, Ill.",James Madison,softball,purdue
-341,Alexa Binckes,"Ashburn, Va.",Briar Woods,softball,purdue
-342,Savanna Harrison,"Battle Ground, Ind.",Frontier,softball,purdue
-343,Kaylah Hampton,"Goodyear, Ariz.",Verrado,softball,purdue
-344,Emily Kenny,"Ashburn, Va.",Stone Bridge,softball,purdue
-345,Stephanie Ramsey,"Noblesville, Ind.",Noblesville,softball,purdue
-346,Erika Beeler,"Sharpsville, Ind.",N/A,softball,purdue
-347,Maya Hughes,"Nolensville, Tenn.",Oakland,softball,purdue
-348,Sydney Bates,"Davie, Fla.",N/A,softball,purdue
-349,Lexi Huffman,"Waller, Texas",Waller,softball,purdue
-350,Molly Meenan,"Sydney, Australia",James                                                Madison,softball,purdue
-351,Madison Douglass,"Frankfort, Ind.",Clinton                                                Prairie,softball,purdue
-352,Lianna Mullins,"Wellington, Fla.",Oxbridge                                                Academy,softball,purdue
-353,Giana Lopez,"Lakewood, Calif.",St. Joseph High                                                School,softball,purdue
-354,Hayley Bush,"Union, Ky.",Ryle,womens volleyball,purdue
-355,Brooke Peters,"Avon, Ind.",Avon,womens volleyball,purdue
-356,Caitlyn Newton,"Terre Haute, Ind.",Terre Haute                                                South Vigo,womens volleyball,purdue
-357,Julianna Reisinger,"Coto de Caza, Calif.",Santa                                                Margarita Catholic,womens volleyball,purdue
-358,Garrett Joiner,"Brentwood, Tenn.",Brentwood,womens volleyball,purdue
-359,Shavona Cuttino,"Indianapolis, Ind.",Ben Davis,womens volleyball,purdue
-360,Marissa Hornung,"New Albany, Ind.",Providence,womens volleyball,purdue
-361,Emma Terwilliger,"Valparaiso, Ind.",Valparaiso,womens volleyball,purdue
-362,Erin Williams,"Cerritos, Calif.",LMU,womens volleyball,purdue
-363,Olivia Zelst,"Glenview, Ill.",Loyola Academy,womens volleyball,purdue
-364,Joy Chen,"Ann Arbor, Mich.",Huron,womens volleyball,purdue
-365,Sherridan Atkinson,"Long Beach, Calif.",N/A,womens volleyball,purdue
-366,Blake Mohler,"Ocean Springs, Miss.",Ocean                                                Springs,womens volleyball,purdue
-367,Jael Johnson,"Mooresville, Ind.",Avon,womens volleyball,purdue
-368,Jena Otec,"Crystal City, Mo.",St. Pius X,womens volleyball,purdue
-369,Grace Cleveland,"Bloomington, Ill.",N/A,womens volleyball,purdue
+25,Ae'Rianna Harris,"Indianapolis, Ind.",Lawrence North,womens basketball,purdue
+26,Fatou Diagne,"Thies, Senegal",Kocc Barma,womens basketball,purdue
+27,Owen Jansen,"Oakville, Ontario",Iroquois Ridge,baseball,purdue
+28,Tyler Powers,"Lafayette, Ind.",Central Catholic,baseball,purdue
+29,Skyler Hunter,"Hood River, Ore.",Hood River Valley,baseball,purdue
+30,Cory Brooks,"Hilliard, Ohio",Hilliard Darby,baseball,purdue
+31,Trevor Cheaney,"Muenster, Texas",Muenster,baseball,purdue
+32,Nick Evarts,"Colleyville, Texas",Grapevine,baseball,purdue
+33,Justin Fugitt,"Hilliard, Ohio",Hilliard Darby,baseball,purdue
+34,Bryce Bonner,"Allen, Texas",Jesuit Prep,baseball,purdue
+35,Charlie Nasuti,"Long Beach, Calif.",Saint John Bosco,baseball,purdue
+36,Milo Beam,"Westfield, Ind.",Westfield,baseball,purdue
+37,Patrick J. Smith,"Schaumburg, Ill.",Conant,baseball,purdue
+38,Andrew Bohm,"Fishers, Ind.",Hamilton Southeastern,baseball,purdue
+39,Ben Nisle,"Schererville, Ind.",Lake Central,baseball,purdue
+40,Trent Johnson,"Crawfordsville, Ind.",Crawfordsville,baseball,purdue
+41,Ryan Beard,"Boise, Idaho",Rocky Mountain,baseball,purdue
+42,Dalton Parker,"St. Joseph, Ill.",St. Joseph-Ogden,baseball,purdue
+43,Patrick W. Smith,"El Dorado Hills, Calif.",Oak Ridge,baseball,purdue
+44,Matt Moore,"Avon, Ind.",Avon,baseball,purdue
+45,Hayden Wynja,"Indianapolis, Ind.",Heritage                                                Christian,baseball,purdue
+46,Bo Hofstra,"Schererville, Ind.",Illiana Christian,baseball,purdue
+47,D.J. Knox,"Selling and Sales Management, Retail Management","Fairburn, Ga.",football,purdue
+48,Dedrick Mackey,"Miami, Fla.",Booker T.                                                Washington,football,purdue
+49,Kenneth Major,"Hopkinsville, Ky.",Christian                                                County,football,purdue
+50,Elijah Sindelar,"Princeton, Ky.",Caldwell                                                County,football,purdue
+51,Kamal Hardy,"Miramar, Fla.",St. Thomas Aquinas,football,purdue
+52,Rondale Moore,"New Albany, Ind.",Trinity,football,purdue
+53,Tyler Hamilton,"Hilton Head, S.C.",Hilton Head,football,purdue
+54,Isaac Zico,"Atlanta, Ga.",Alexander,football,purdue
+55,Markell Jones,"Columbus, Ind.",Columbus East,football,purdue
+56,Lorenzo Neal,"Houston, Texas",Saint Thomas,football,purdue
+57,Terry Wright,"Memphis, Tenn.",Coffeyville,football,purdue
+58,Amad Anderson Jr.,"Staten Island, N.Y.",Curtis,football,purdue
+59,Jordan Rucker,"Denton, Texas",Ryan,football,purdue
+60,David Blough,"Carrollton, Texas",Creekview,football,purdue
+61,Kadin Smith,"Taylorville, Ky.",Spencer County,football,purdue
+62,Jared Sparks,"Geismar, La.",Dutchtown,football,purdue
+63,Spencer Evans,"Arlington, Texas",Martin,football,purdue
+64,Jack Plummer,"Gilbert, Ariz.",Gilbert,football,purdue
+65,Antonio Blackmon,"Fort Wayne, Ind.",Bishop                                                Dwenger,football,purdue
+66,Danny Carollo,"Lake Forest, Ill.",Lake Forest,football,purdue
+67,Kory Taylor,"Hilliard, Ohio",Bradley,football,purdue
+68,Aidan O'Connell,"Lincolnshire, Ill.",Stevenson,football,purdue
+69,Byron Perkins,"Chicago, Ill.",De La Salle,football,purdue
+70,Nick Sipe,"Villa Park, Calif.",Villa Park,football,purdue
+71,KeyRon Catlett,"Hopkinsville, Ky.",Christian                                                County,football,purdue
+72,Aaron Banks,"Indianapolis, Ind.",Brebeuf,football,purdue
+73,Benaiah Franklin,"Marietta, Ga.,",Wheeler,football,purdue
+74,Markus Bailey,"Columbus, Ohio",Hilliard                                                Davidson,football,purdue
+75,Jordan Bonner,"Carrollton, Ga.",Carrollton,football,purdue
+76,Alfred Armour,"Indianapolis, Ind.",Warren Central,football,purdue
+77,Cory Trice,"Hopkinsville, Ky.",Christian County,football,purdue
+78,Tim Cason,"Clarkston, Mich.",Clarkston,football,purdue
+79,Tario Fuller,"Sugar Hill, Ga.",Lanier,football,purdue
+80,Walt Foster,"Lafayette, Ind.",McCutcheon,football,purdue
+81,Navon Mosley,"West Bloomfield, Mich.",West                                                Bloomfield,football,purdue
+82,Jacob Abrams,"Carmel, Ind.",Carmel,football,purdue
+83,Evan Anderson,"Suwanee, Ga.",Collins Hills,football,purdue
+84,Simeon Smiley,"Pensacola, Fla.",Pensacola                                                Catholic,football,purdue
+85,Tobias Larry,"Lakeland, Fla.",Kathleen,football,purdue
+86,Joe Schopper,"Indianapolis, Ind.",Cathedral,football,purdue
+87,Elijah Ball,"Indianapolis, Ind.",Ben Davis,football,purdue
+88,Jackson Anthrop,"West Lafayette, Ind.",Central                                                Catholic,football,purdue
+89,Jonah Williams,"West Lafayette, Ind.",West                                                Lafayette,football,purdue
+90,Richie Worship,"Cleveland, Ohio",Valley Forge,football,purdue
+91,Ja'Qurius  Smith,"Lakeland, Fla.",Lakeland,football,purdue
+92,Jaylan Alexander,"River Grove, Ill.",Hoffman Estates,football,purdue
+93,Jones Asher,"Indianapolis, Ind.",Roncalli,football,purdue
+94,Zac Collins,"Louisville, Ky.",Saint Xavier,football,purdue
+95,Brennan Thieneman,"Noblesville, Ind.",Guerin                                                Catholic,football,purdue
+96,Zach Randall,"Fishers, Ind.",Hamilton                                                Southeastern,football,purdue
+97,Brooks Royal,"Fitzgerald, Ga.",Fitzgerald,football,purdue
+98,Ronnie Hill,"Psychological Sciences, Classical Studies","Indianapolis, Ind.",football,purdue
+99,Alexander Horvath,"Mishawaka, Ind.",Marian,football,purdue
+100,Jacob Thieneman,"Noblesville, Ind.",Guerin                                                Catholic,football,purdue
+101,Brian Bravo,"North Aurora, Ill.",Joliet                                                Catholic,football,purdue
+102,David Day,"Indianapolis, Ind.",North                                                Central,football,purdue
+103,Myles Homan,"Cincinnati, Ohio",St. Xavier,football,purdue
+104,Anthony Watts,"Houston, Texas",Jack Yates,football,purdue
+105,Byron Hubbard,"Westfield, Ind.",Westfield,football,purdue
+106,Cornel Jones,"Miami, Fla.",Miami Central,football,purdue
+107,Ben Makowski,"Osceola, Ind.",Penn,football,purdue
+108,Jeff Marks,"Mobile, Ala.",Davidson,football,purdue
+109,Cade Morgan,"Indianapolis, Ind.",Roncalli,football,purdue
+110,Ryan Sadkowski,"Glen Ellyn, Ill.",Glenbard                                                South,football,purdue
+111,Zane Greene,"Indianapolis, Ind.",Pike,football,purdue
+112,Keiwan Jones,"Ocala, Fla.",Dunnellon,football,purdue
+113,Bearooz Yacoobi,"Dearborn, Mich.",Dearborn,football,purdue
+114,Bryce Brown,"Evansville, Ind.",Evansville                                                North,football,purdue
+115,Willie Lane,"Winter Haven, Fla.",Winter Haven,football,purdue
+116,Kirk Barron,"Mishawaka, Ind.",Marian,football,purdue
+117,Luke Staton,"West Lafayette, Ind.",West Lafayette,football,purdue
+118,Derrick Barnes,"Covington, Ky.",Holy Cross,football,purdue
+119,Michael Mendez,"Los Fresnos, Texas",Los                                                Fresnos,football,purdue
+120,Viktor Beach,"Fort Myers, Fla.",Bishop Verot,football,purdue
+121,Tim Johns,"Greenwood, Ind.",Greenwood,football,purdue
+122,Branson Deen,"Indianapolis, Ind.",Lawrence Central,football,purdue
+123,Jimmy McKenna,"Avon, Ohio",Avon,football,purdue
+124,KJ Stokes,"Millbrook, Ala.",Stanhope Elmore,football,purdue
+125,Eric Swingler,"Munster, Ind.",Munster,football,purdue
+126,Ryan Flaherty,"New Carlisle, Ind.",New                                                Prairie,football,purdue
+127,Allen Daniels,"Dacula, Ga.",Dacula,football,purdue
+128,Graham Keller,"Noblesville, Ind.",Guerin                                                Catholic,football,purdue
+129,Dennis Edwards,"Snellville, Ga.",South Gwinnett,football,purdue
+130,Marc Roland,"Indianapolis, Ind.",Roncalli,football,purdue
+131,Alex Criddle,"Broken Arrow, Okla.",Thomas Edison Academy,football,purdue
+132,Will Bramel,"Danville, Ky.",Boyle County,football,purdue
+133,Sam Loebig,"Bethesda, Md.",Bethesda-Chevy                                                Chase,football,purdue
+134,Sam Garvin,"Fishers, Ind.",Hamilton                                                Southeastern,football,purdue
+135,Conor Sweeney,"Indianapolis, Ind.",Fork Union                                                Military Academy,football,purdue
+136,Ethan Smart,"Southaven, Miss.",DeSoto Central,football,purdue
+137,Eric Miller,"Mason, Ohio",William Mason,football,purdue
+138,Shane Evans,"Crystal Lake, Ill.",Northern Illinois,football,purdue
+139,Mark Stickford,"Carmel, Ind.",Carmel,football,purdue
+140,DJ Washington,"Louisville, Ky.",Ballard,football,purdue
+141,Grant Hermanns,"Albuquerque, N.M.",Rio Rancho,football,purdue
+142,Matt McCann,"Fishers, Ind.",Bishop Chatard,football,purdue
+143,Jarrett Burgess,"Miami, Fla.",Florida Christian,football,purdue
+144,Darius Pittman,"Gulfport, Miss.",Saint                                                Stanislaus,football,purdue
+145,Kieren Douglas,"Pickerington, Ohio",Pickerington Central,football,purdue
+146,Malcolm Dotson,"Indianapolis, Ind.",Cathedral,football,purdue
+147,Jess Trussell,"Arlington, Texas",James Martin,football,purdue
+148,J.D. Dellinger,"Charlotte, N.C.",Charlotte Country                                                Day,football,purdue
+149,Noah Ellison,"Louisville, Ky.",Trinity,football,purdue
+150,Ryan James,"Chicago, Ill.",De La Salle,football,purdue
+151,Payne Durham,"Suwanee, Ga.",Peachtree Ridge,football,purdue
+152,Cole Herdman,"Leesburg, Va.",Flint Hill,football,purdue
+153,Brycen Hopkins,"Nashville, Tenn.",Ensworth,football,purdue
+154,Lawrence Johnson,"Fort Wayne, Ind.",Snider,football,purdue
+155,Vincent Smith,"Crown Point, Ind.",Crown Point,football,purdue
+156,Chazmyn Turner,"Mooresville, N.C.",Mooresville,football,purdue
+157,Giovanni Reviere,"Chattanooga, Tenn.",McCallie,football,purdue
+158,Robert McWilliams III,"South Miami, Fla.",Coral Gables,football,purdue
+159,Jack Cravaack,"Cincinnati, Ohio",Madeira,football,purdue
+160,Ray Ellis,"San Jose, Calif.",Branham,football,purdue
+161,Jake Herr,"Carmel, Ind.",Carmel,football,purdue
+162,Semisi Fakasiieiki,"Compton, Calif.",Dominguez,football,purdue
+163,Kai Higgins,"Pomona, Calif.",Bishop Amat,football,purdue
+164,Jack Sullivan,"Plainfield, Ill.",Plainfield East,football,purdue
+165,Emily Graham,"Brookfield, Ill.",Riverside Brookfield,womens soccer,purdue
+166,Katie Luce,"Lewis Center, Ohio",Olentangy                                                Orange,womens soccer,purdue
+167,Julia Ware,"Frisco, Texas",John Paul II,womens soccer,purdue
+168,Sam Slagle,"Solon, Ohio",Solon,womens soccer,purdue
+169,Breana Robbins,"Darien, Ill.",Downers Grove                                                South,womens soccer,purdue
+170,Sarah Clark,"Brighton, Mich.",Mercy,womens soccer,purdue
+171,Ryan Dudycha,"Naperville, Ill.",Naperville Central,womens soccer,purdue
+172,Brady Riley,"Fishers, Ind.",Fishers,womens soccer,purdue
+173,Alyssa Cwidak,"Arlington Heights, Ill.",Prospect,womens soccer,purdue
+174,Aly Mielke,"Davie, Fla.",Calvary Christian Academy,womens soccer,purdue
+175,Ena Sabanagic,"Hanover Park, Ill.",Hoffman Estates,womens soccer,purdue
+176,Mia Roth,"Mission Viejo, Calif.",Santa Margarita,womens soccer,purdue
+177,Katie Stephens,"Oceanport, N.J.",Shore Regional,womens soccer,purdue
+178,Kylie Hase,"Orland Park, Ill.",Carl                                                Sandburg,womens soccer,purdue
+179,Alyssa Lum,"Milton, Mass.",Milton,womens soccer,purdue
+180,Teagan Jones,"Cary, Ill.",Cary-Grove,womens soccer,purdue
+181,Hannah Melchiorre,"Thunder Bay, Ontario",Shattuck St. Mary's (Minn.),womens soccer,purdue
+182,Sydney Duarte,"Lake Forest, Calif.",Saddleback Academy,womens soccer,purdue
+183,Dannah Williams,"Naperville, Ill.",Neuqua                                                Valley,womens soccer,purdue
+184,Hannah Mussallem,"Palos Heights, Ill.",Amos Alonzo Stagg,womens soccer,purdue
+185,Jordan Oetting,"Festus, Mo.",Festus,womens soccer,purdue
+186,Grace Dunker,"Southlake, Texas",Carroll,womens soccer,purdue
+187,Ally Mussallem,"Palos Heights, Ill.",Amos Alonzo Stagg,womens soccer,purdue
+188,Maddy Duncan,"Danville, Calif.",Carondelet,womens soccer,purdue
+189,Skylar Giacobetti,"Dana Point, Calif.",JSerra Catholic,womens soccer,purdue
+190,Lexi Marks,"Granger, Ind.",Penn,womens soccer,purdue
+191,Maya Lambert,"Northbrook, Ill.",Glenbrook                                                North,womens soccer,purdue
+192,Skylurr Patrick,"Lowell, Ark.",Rogers,womens soccer,purdue
+193,Grace Walsh,"Kensington, Md.",St. John's College,womens soccer,purdue
+194,Abby Crabtree,"Glen Carbon,                                                Ill.",Edwardsville,womens soccer,purdue
+195,Sarah Griffith,"Naperville, Ill.",Waubonsie                                                Valley,womens soccer,purdue
+196,Marisa Bova,"Hartland, Wis.",Arrowhead Union,womens soccer,purdue
+197,Paige Liebel,"St. Petersburg, Fla.",Canterbury School of Florida,womens soccer,purdue
+198,Cole Bradley,"West Lafayette, Ind.",Harrison,mens golf,purdue
+199,Andrew Farraye,"St. Augustine, Fla.",Ponte Vedra,mens golf,purdue
+200,Timmy Hildebrand,"Westfield, Ind.",Westfield,mens golf,purdue
+201,Jason Hong,"Lidcombe, Australia",Sydney                                                Boys,mens golf,purdue
+202,Andrew Lewis,"Westfield, Ind.",Westfield,mens golf,purdue
+203,Thomas Lewis,"Westfield, Ind.",Westfield,mens golf,purdue
+204,Matt Lloyd,"San Jose, Calif.",Archbishop                                                Mitty,mens golf,purdue
+205,Filippo Massobrio,"San Damiano D'Asti,                                                Italy",Windermere Prep (Fla.),mens golf,purdue
+206,Jarle Volden,"Oslo, Norway",Wang Toppidrett,mens golf,purdue
+207,Joe Weiler,"Bloomington, Ind.",Bloomington                                                South,mens golf,purdue
+208,Danielle du Toit,"Pretoria, South Africa",Gauteng North,womens golf,purdue
+209,Micaela Farah,"Lima, Peru",Altair School,womens golf,purdue
+210,RuQing Guan,"Guangzhou, Guangdong, China",Guangzhou,womens golf,purdue
+211,Lauren Guiao,"Evansville, Ind.",Memorial,womens golf,purdue
+212,Ida Ayu Indira Melati Putri,"Bali, Indonesia",SMAN 3 Denpasar,womens golf,purdue
+213,Hashilla Rivai,"Jakarta, Indonesia",Thornton Academy,womens golf,purdue
+214,Covadonga SanJuan,"Aviles, Spain",IES Ortega y Gasset Blume,womens golf,purdue
+215,Inez Wanamarta,"Surabaya, Indonesia",Elyon Christian,womens golf,purdue
+216,Nikola Acin,"Zrenjanin, Serbia",Zrenjaninska Gimnazija,mens swimming,purdue
+217,Nathan Barsanti,"Brentwood, Calif.",Heritage,mens swimming,purdue
+218,Tim Barth,"North Caldwell, N.J.",West Essex,mens swimming,purdue
+219,Nikola Bjelajac,"Banja Luka, Bosnia",Tesla Electro-Technical,mens swimming,purdue
+220,James Boone,"Centennial, Colo.",Grandview,mens swimming,purdue
+221,Ben Bramley,"Wellesley, Mass.",Belmont Hill,mens swimming,purdue
+222,Joe Cifelli,"Crown Point, Ind.",Marian Catholic (Ill.),mens swimming,purdue
+223,Greg Duncan,"Oakton, Va.",James Madison,mens swimming,purdue
+224,David Forsyth,"San Antonio, Texas",KB Christian Academy,mens swimming,purdue
+225,Joe Gardner,"Munster, Ind.",Munster,mens swimming,purdue
+226,Gabi Gomez-Treig,"Barcelona, Spain",The Bolles School (Fla.),mens swimming,purdue
+227,Kaleb Gould,"Phoenix, Ariz.",Horizon,mens swimming,purdue
+228,Batuhan Hakan,"Istanbul, Turkey",Saint Joseph,mens swimming,purdue
+229,Jake Heidecker,"Newburgh, Ind.",Castle,mens swimming,purdue
+230,Jackson Higgins,"Dayton, Ohio",Oakwood,mens swimming,purdue
+231,Ryan Hrosik,"Valparaiso, Ind.",Valparaiso,mens swimming,purdue
+232,Luke Ingram,"Fishers, Ind.",Fishers,mens swimming,purdue
+233,Steele Johnson,"Carmel, Ind.",Laurel Springs,mens swimming,purdue
+234,Erik Juliusson,"Laguna Beach, Calif.",Laguna Beach,mens swimming,purdue
+235,Jason Jung,"Seoul, South Korea",Westford Academy (Mass.),mens swimming,purdue
+236,Kiki Komlenic,"Zagreb, Croatia",Pucko Otvoreno Uciliste,mens swimming,purdue
+237,Ryan Lawrence,"Birmingham, Mich.",Seaholm,mens swimming,purdue
+238,Grant Lewis,"Avon, Ind.",Avon,mens swimming,purdue
+239,Brandon Loschiavo,"Huntington Beach, Calif.",Huntington Beach,mens swimming,purdue
+240,Gavin McCulloch,"Cary, N.C.",Green Hope,mens swimming,purdue
+241,Nick McDowell,"Las Vegas, Nev.",Durango,mens swimming,purdue
+242,Trent Pellini,"Dana Point, Calif.",Dana Hills,mens swimming,purdue
+243,Brett Riley,"Sarasota, Fla.",Riverview,mens swimming,purdue
+244,Brady Robinson,"North Webster, Ind.",Wawasee,mens swimming,purdue
+245,Will Schrensky,"Fort Wayne, Ind.",Carroll,mens swimming,purdue
+246,Nick Sherman,"Peyton, Colo.",Pine Creek,mens swimming,purdue
+247,Michael Smith,"Dana Point, Calif.",Dana Hills,mens swimming,purdue
+248,Dale Williams,"Fox Island, Wash.",Gig Harbor,mens swimming,purdue
+249,Joe Young,"Fishers, Ind.",Hamilton Southeastern,mens swimming,purdue
+250,Eddy Zawatski,"Larksville, Pa.",Wyoming Valley West,mens swimming,purdue
+251,Danielle Auckley,"Lafayette, Ind.",McCutcheon,womens swimming,purdue
+252,Emily Bretscher,"Knoxville, Tenn.",L&N STEM Academy,womens swimming,purdue
+253,Caylee Casbon,"Porter, Ind.",Chesterton,womens swimming,purdue
+254,Alex Clarke,"Carmel, Ind.",Carmel,womens swimming,purdue
+255,Emily Converse,"Grand Rapids, Mich.",East Grand Rapids,womens swimming,purdue
+256,Gretta DeCoursey,"Zionsville, Ind.",Zionsville,womens swimming,purdue
+257,Sydnee Emerson,"Goshen, Ind.",Northridge,womens swimming,purdue
+258,Cady Farlow,"Berne, Ind.",South Adams,womens swimming,purdue
+259,Anna Giesler,"Holland, Mich.",Holland,womens swimming,purdue
+260,Roxy Griffore,"Milford, Mich.",Mercy,womens swimming,purdue
+261,Katie Hughes,"Bristol, Ind.",Northridge,womens swimming,purdue
+262,Megan Johnson,"Fort Wayne, Ind.",Homestead,womens swimming,purdue
+263,McKenna Jule,"Pendleton, Ind.",Pendleton Heights,womens swimming,purdue
+264,Evan King,"Weston-super-Mare, England",Churchill Academy,womens swimming,purdue
+265,Riley Kishman,"Grand Rapids, Mich.",Catholic Central,womens swimming,purdue
+266,Taite Kitchel,"Zionsville, Ind.",Zionsville,womens swimming,purdue
+267,Jade Knueppel,"Milwaukee, Wis.",Milwaukee School of Languages,womens swimming,purdue
+268,Courtney Kresl,"Fort Wayne, Ind.",Carroll,womens swimming,purdue
+269,Kelsey Macaddino,"Northville, Mich.",Northville,womens swimming,purdue
+270,Kate May,"Glen Carbon, Ill.",Edwardsville,womens swimming,purdue
+271,Emily Meaney,"Thornlands, Australia",Ormiston,womens swimming,purdue
+272,Emily Meckstroth,"Granger, Ind.",Penn,womens swimming,purdue
+273,Morgan Meixner,"Indianapolis, Ind.",Lawrence North,womens swimming,purdue
+274,Maggie Merriman,"Orlando, Fla.",Olympia,womens swimming,purdue
+275,Paige Miller,"Leesburg, Ind.",Wawasee,womens swimming,purdue
+276,Natalie Mudd,"Fishers, Ind.",Hamilton Southeastern,womens swimming,purdue
+277,Natalie Myers,"Plainfield, Ind.",Avon,womens swimming,purdue
+278,Lera Nasedkina,"Foster City, Calif.",San Mateo,womens swimming,purdue
+279,Angela Pan,"Mississauga, Ontario",The Woodlands,womens swimming,purdue
+280,Jinq En Phee,"Subang Jaya, Malaysia",Kuen Cheng,womens swimming,purdue
+281,Ella Pheifer,"Greenwood, Ind.",Franklin Community,womens swimming,purdue
+282,Breanna Robinson,"North Webster, Ind.",Wawasee,womens swimming,purdue
+283,Cally Sampson,"Zionsville, Ind.",Zionsville,womens swimming,purdue
+284,Cassidy Sampson,"Zionsville, Ind.",Zionsville,womens swimming,purdue
+285,Maizie Seidl,"Mount Horeb, Wis.",Verona,womens swimming,purdue
+286,Jackie Smailis,"Highland, Ind.",Highland,womens swimming,purdue
+287,Reagan Thom,"New Albany, Ind.",New Albany,womens swimming,purdue
+288,Lexi Vincent,"Peru, Ind.",Oak Hill,womens swimming,purdue
+289,Tessa Wrightson,"Zionsville, Ind.",Zionsville,womens swimming,purdue
+290,Athell Bennett,"Valley Stream, N.Y.",Valley Stream                                                Central,mens tennis,purdue
+291,Mateo Julio,"Olavarria, Argentina",N/A,mens tennis,purdue
+292,Stephan Koenigsfest,"La Paz, Bolivia",Colegio Aleman                                                Mariscal Braun,mens tennis,purdue
+293,Franz Luna,"Guatemala City, Guatemala",Laurel Springs,mens tennis,purdue
+294,Maksymilian Raupuk,"Gdynia, Poland",Sopocka Akademia                                                Tenisowa,mens tennis,purdue
+295,Julian Saborio,"San Jose, Costa Rica",Educational Prep and Learning,mens tennis,purdue
+296,Dominik Sochurek,"Prague, Czech Republic",Gymnasium                                                Jana Palacha,mens tennis,purdue
+297,Silvia Ambrosio,"Frankfurt,                                                Germany",Liebigschule,womens tennis,purdue
+298,Ena Babic,"Cakovec, Croatia",Economic                                                Gymnasium,womens tennis,purdue
+299,Rafaella Baquerizo,"Guayaquil, Ecuador",Unidad                                                Educativa Bilingue Delta,womens tennis,purdue
+300,Caitlin Calkins,"Tulsa, Okla.",N/A,womens tennis,purdue
+301,Zala Dovnik,"Maribor, Slovenia",II. gymnasium                                                Maribor,womens tennis,purdue
+302,Amina Mukhametshina,"Tashkent, Uzbekistan",N/A,womens tennis,purdue
+303,Alex Sabe,"Rye, N.Y.",Laurel Springs,womens tennis,purdue
+304,Seira Shimizu,"Saitama, Japan",Weil Tennis                                                Academy,womens tennis,purdue
+305,Jacob Aven,"Zionsville, Ind.",Zionsville,wrestling,purdue
+306,Christian Brunner,"East Dundee,                                                Ill.",Dundee-Crown,wrestling,purdue
+307,Jack Cheney,"Westlake Village, Calif.",Chaminade College Preparatory,wrestling,purdue
+308,Patrick Cody,"Ridgewood, N.J.",Bergen                                                Catholic,wrestling,purdue
+309,Kendall Coleman,"South Holland, Ill.",Mt. Carmel,wrestling,purdue
+310,Marshall Craig V,"Bradenton, Fla.",Manatee,wrestling,purdue
+311,Nate Cummings,"Downers Grove, Ill.",Downers Grove North,wrestling,purdue
+312,Elijah Davis,"Oceanside, Calif.",Vista,wrestling,purdue
+313,David Eli,"Elkhart, Ind.",Elkhart                                                Memorial,wrestling,purdue
+314,Parker Filius,"Havre, Mont.",Havre,wrestling,purdue
+315,Jared Florell,"Ham Lake, Minn.",Totino-Grace,wrestling,purdue
+316,Laine Frazee,"Hillsboro, Ind.",Fountain                                                Central,wrestling,purdue
+317,Nate Limmex,"Ada, Mich.",Grand Rapids Catholic                                                Central,wrestling,purdue
+318,Dylan Lydy,"Indianapolis, Ind.",Ben Davis,wrestling,purdue
+319,Max Lyon,"Dyersville, Iowa",Western                                                Dubuque,wrestling,purdue
+320,Terrin Machart,"Sterling Heights, Mich.",Utica Ford II,wrestling,purdue
+321,Zach Melloh,"Indianapolis, Ind.",Cathedral,wrestling,purdue
+322,Jon Morales,"Kirklin, Ind.",Western Boone,wrestling,purdue
+323,Austin Nash,"Florham Park, N.J.",Hanover                                                Park,wrestling,purdue
+324,Griffin Parriott,"New Prague, Minn.",New Prague,wrestling,purdue
+325,Thomas Penola,"Zionsville, Ind.",Zionsville,wrestling,purdue
+326,Koby Reyes,"Billings, Mont.",Billings West,wrestling,purdue
+327,Devin Schroder,"Northview, Mich.",Grand Rapids                                                Catholic Central,wrestling,purdue
+328,Bjorn Schroeder,"Bozeman, Mont.",Bozeman,wrestling,purdue
+329,Austin Singer,"Naperville, Ill.",Neuqua                                                Valley,wrestling,purdue
+330,Ethan Smiley,"Beech Grove, Ind.",Beech Grove,wrestling,purdue
+331,Emil Soehnlen,"Canton, Ohio",Massillon Perry,wrestling,purdue
+332,Ben Thornton,"Stoddard, Wis.",La Crosse                                                Central,wrestling,purdue
+333,Tanner Webster,"Crawfordsville, Ind.",North                                                Montgomery,wrestling,purdue
+334,Alec White,"New Palestine, Ind.",New                                                Palestine,wrestling,purdue
+335,Cole Wysocki,"Edwardsville, Ill.",Triad,wrestling,purdue
+336,Halle Hixenbaugh,"Osceola, Ind.",Penn,softball,purdue
+337,Mallory Baker,"Greenwood, Ind.",Center Grove,softball,purdue
+338,Maddie Damon,"West Concord,                                                Minn.",Kasson-Mantorville,softball,purdue
+339,Siena Wagner,"Goleta, Calif.",Dos Pueblos,softball,purdue
+340,Ryleigh Scott,"Terre Haute, Ind.",Terre Haute                                                North Vigo,softball,purdue
+341,Kasey  Wilhoit,"Franklin, Ind.",Indian Creek,softball,purdue
+342,Kaitlynn Moody,"West Lafayette, Ind.",IUPUI,softball,purdue
+343,Rachel Krzysko,"Barrington Hills, Ill.",Barrington                                                High School,softball,purdue
+344,Sydney Preston,"Temecula, Calif.",Great Oak,softball,purdue
+345,Jenny Behan,"Mundelein, Ill.",James Madison,softball,purdue
+346,Nicole Siess,"Orange, Calif.",Rosary Academy,softball,purdue
+347,Alexa Binckes,"Ashburn, Va.",Briar Woods,softball,purdue
+348,Rachel Becker,"McHenry, Ill.",Lakes Community,softball,purdue
+349,Shyanne  Sheffield,"Tullahoma, Tenn.",Tullahoma,softball,purdue
+350,Becca  Jones,"Raleigh, N.C.",Leesville Road,softball,purdue
+351,Alex Echazarreta,"Sierra Vista, Ariz.",James Madison,softball,purdue
+352,Rylee Platusic,"Munster, Ind.",Lake Central,softball,purdue
+353,Sydney Bates,"Davie, Fla.",N/A,softball,purdue
+354,Kaeley Hallada,"West Lafayette, Ind.",Harrison,softball,purdue
+355,Lexi Huffman,"Waller, Texas",Waller,softball,purdue
+356,Kendall Chase,"Orlando, Fla.",Lake Brantley,softball,purdue
+357,Molly Meenan,"Sydney, Australia",James                                                Madison,softball,purdue
+358,Brenna Smith,"Riverside, Calf.",Martin Luther King,softball,purdue
+359,Madison Douglass,"Frankfort, Ind.",Clinton                                                Prairie,softball,purdue
+360,Lianna Mullins,"Wellington, Fla.",Oxbridge                                                Academy,softball,purdue
+361,Hayley Bush,"Union, Ky.",Ryle,womens volleyball,purdue
+362,Brooke Peters,"Avon, Ind.",Avon,womens volleyball,purdue
+363,Caitlyn Newton,"Terre Haute, Ind.",Terre Haute,womens volleyball,purdue
+364,Julianna Reisinger,"Coto de Caza, Calif.",Santa                                                Margarita Catholic,womens volleyball,purdue
+365,Garrett Joiner,"Brentwood, Tenn.",Brentwood,womens volleyball,purdue
+366,Shavona Cuttino,"Indianapolis, Ind.",Ben Davis,womens volleyball,purdue
+367,Marissa Hornung,"New Albany, Ind.",Providence,womens volleyball,purdue
+368,Emma Terwilliger,"Valparaiso, Ind.",Valparaiso,womens volleyball,purdue
+369,Erin Williams,"Cerritos, Calif.",LMU,womens volleyball,purdue
+370,Olivia Van Zelst,"Glenview, Ill.",Loyola Academy,womens volleyball,purdue
+371,Joy Chen,"Ann Arbor, Mich.",Huron,womens volleyball,purdue
+372,Sherridan Atkinson,"Long Beach, Calif.",Millikan,womens volleyball,purdue
+373,Blake Mohler,"Ocean Springs, Miss.",Ocean                                                Springs,womens volleyball,purdue
+374,Jael Johnson,"Mooresville, Ind.",Avon,womens volleyball,purdue
+375,Jena Otec,"Crystal City, Mo.",St. Pius X,womens volleyball,purdue
+376,Grace Cleveland,"Bloomington, Ill.",Normal Community,womens volleyball,purdue

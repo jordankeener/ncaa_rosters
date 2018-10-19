@@ -1,690 +1,704 @@
-,name,hometown,high school,school,name text,hometown text,high school text,school text,sport,college
-0,pflueger rex,"Dana Point, CA/Mater Dei","Dana Point, CA/Mater Dei","Dana Point, CA/Mater Dei",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,notre_dame
-1,hubb prentiss,"Upper Marlboro, MD/Gonzaga College","Upper Marlboro, MD/Gonzaga College","Upper Marlboro, MD/Gonzaga College",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,notre_dame
-2,harvey d.j.,"Bowie, MD/DeMatha","Bowie, MD/DeMatha","Bowie, MD/DeMatha",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,notre_dame
-3,gibbs jr. temple 't.j.',"Scotch Plains, NJ/Seton Hall Prep","Scotch Plains, NJ/Seton Hall Prep","Scotch Plains, NJ/Seton Hall Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,notre_dame
-4,durham juwan,"Tampa, FL/Tampa Prep","Tampa, FL/Tampa Prep","Tampa, FL/Tampa Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,notre_dame
-5,burns elijah,"Troy, NY/Blair Academy (N.J.)","Troy, NY/Blair Academy (N.J.)","Troy, NY/Blair Academy (N.J.)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,notre_dame
-6,djogo nikola,"Hamilton, Ontario/Athlete Institute Prep","Hamilton, Ontario/Athlete Institute Prep","Hamilton, Ontario/Athlete Institute Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,notre_dame
-7,laszewski nate,"Jupiter, FL/Northfield Mount Herman (MA)","Jupiter, FL/Northfield Mount Herman (MA)","Jupiter, FL/Northfield Mount Herman (MA)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,notre_dame
-8,doherty chris,"Marlborough, MA/Marlborough","Marlborough, MA/Marlborough","Marlborough, MA/Marlborough",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,notre_dame
-9,goodwin dane,"Upper Arlington, OH/Upper Arlington","Upper Arlington, OH/Upper Arlington","Upper Arlington, OH/Upper Arlington",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,notre_dame
-10,carmody robby,"Mars, PA/Mars Area","Mars, PA/Mars Area","Mars, PA/Mars Area",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,notre_dame
-11,nelligan liam,"La Grange Park, IL/Benet Academy","La Grange Park, IL/Benet Academy","La Grange Park, IL/Benet Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,notre_dame
-12,mooney john,"Orlando, FL/Lake Brantley","Orlando, FL/Lake Brantley","Orlando, FL/Lake Brantley",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens basketball,notre_dame
-0,benz nicole,"Valencia, Calif./William S. Hart","Valencia, Calif./William S. Hart","Valencia, Calif./William S. Hart",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens basketball,notre_dame
-1,butler maureen,"Livonia, Mich./Dearborn Divine Child","Livonia, Mich./Dearborn Divine Child","Livonia, Mich./Dearborn Divine Child",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens basketball,notre_dame
-2,cole kaitlin,"Toledo, Ohio/Sylvania Northview","Toledo, Ohio/Sylvania Northview","Toledo, Ohio/Sylvania Northview",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens basketball,notre_dame
-3,johnson mychal,"Huntington, W.Va./Huntington St. Joseph","Huntington, W.Va./Huntington St. Joseph","Huntington, W.Va./Huntington St. Joseph",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens basketball,notre_dame
-4,mabrey marina,"Belmar, N.J./Manasquan","Belmar, N.J./Manasquan","Belmar, N.J./Manasquan",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens basketball,notre_dame
-5,nelson kristina,"Buford, Ga./Buford","Buford, Ga./Buford","Buford, Ga./Buford",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens basketball,notre_dame
-6,ogunbowale arike,"Milwaukee, Wis./Divine Savior Holy Angels","Milwaukee, Wis./Divine Savior Holy Angels","Milwaukee, Wis./Divine Savior Holy Angels",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens basketball,notre_dame
-7,patterson danielle,"Brooklyn, N.Y./The Mary Louis Academy","Brooklyn, N.Y./The Mary Louis Academy","Brooklyn, N.Y./The Mary Louis Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens basketball,notre_dame
-8,shepard jessica,"Fremont, Neb./Fremont","Fremont, Neb./Fremont","Fremont, Neb./Fremont",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens basketball,notre_dame
-9,thompson lili,"Mansfield, Texas/Timberview","Mansfield, Texas/Timberview","Mansfield, Texas/Timberview",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens basketball,notre_dame
-10,turner brianna,"Pearland, Texas/Manvel","Pearland, Texas/Manvel","Pearland, Texas/Manvel",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens basketball,notre_dame
-11,vaughn mikayla,"Philadelphia, Penn/Paul VI","Philadelphia, Penn/Paul VI","Philadelphia, Penn/Paul VI",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens basketball,notre_dame
-12,westbeld kathryn,"Kettering, Ohio/Kettering Fairmont","Kettering, Ohio/Kettering Fairmont","Kettering, Ohio/Kettering Fairmont",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens basketball,notre_dame
-13,young jackie,"Princeton, Ind./Princeton Community","Princeton, Ind./Princeton Community","Princeton, Ind./Princeton Community",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens basketball,notre_dame
-0,arndorfer john,"Lake Oswego, OR/Jesuit","Lake Oswego, OR/Jesuit","Lake Oswego, OR/Jesuit",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-1,belcik andrew,"Oldsmar, FL/East Lake","Oldsmar, FL/East Lake","Oldsmar, FL/East Lake",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-2,boyle joe,"Goshen, KY/North Oldham","Goshen, KY/North Oldham","Goshen, KY/North Oldham",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-3,brown cameron,"Lakewood, CO/D'Evelyn","Lakewood, CO/D'Evelyn","Lakewood, CO/D'Evelyn",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-4,cole ryan,"San Ramon, CA/De La Salle","San Ramon, CA/De La Salle","San Ramon, CA/De La Salle",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-5,combs shane,"Wellesley, MA/St. John's High School","Wellesley, MA/St. John's High School","Wellesley, MA/St. John's High School",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-6,daily cole,"Springfield, IL/Springfield Sacred Heart-Griffin","Springfield, IL/Springfield Sacred Heart-Griffin","Springfield, IL/Springfield Sacred Heart-Griffin",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-7,dreznin zachary,"Saddle River, NJ/Northern Highlands Regional","Saddle River, NJ/Northern Highlands Regional","Saddle River, NJ/Northern Highlands Regional",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-8,feliz eric,"Englewood Cliffs, NJ/IMG Academy (Bradenton, FL)","Englewood Cliffs, NJ/IMG Academy (Bradenton, FL)","Englewood Cliffs, NJ/IMG Academy (Bradenton, FL)",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-9,gilgenbach eric,"Rochester Hills, MI/Stoney Creek","Rochester Hills, MI/Stoney Creek","Rochester Hills, MI/Stoney Creek",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-10,gray bryce,"Flossmoor, IL/Homewood-Flossmoor","Flossmoor, IL/Homewood-Flossmoor","Flossmoor, IL/Homewood-Flossmoor",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-11,holubecki anthony,"Elburn, IL/IMG Academy (Fla.)","Elburn, IL/IMG Academy (Fla.)","Elburn, IL/IMG Academy (Fla.)",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-12,james matt,"Ferndale, WA/Ferndale","Ferndale, WA/Ferndale","Ferndale, WA/Ferndale",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-13,jung daniel,"La Mirada, CA/La Mirada","La Mirada, CA/La Mirada","La Mirada, CA/La Mirada",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-14,junker cameron,"Cincinnati, OH/Moeller","Cincinnati, OH/Moeller","Cincinnati, OH/Moeller",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-15,kavadas niko,"Granger, IN/Penn","Granger, IN/Penn","Granger, IN/Penn",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-16,kmet cole,"Lake Barrington, IL/St. Viator","Lake Barrington, IL/St. Viator","Lake Barrington, IL/St. Viator",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-17,knarr brandon,"York, Pa./Eastern York","York, Pa./Eastern York","York, Pa./Eastern York",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-18,lamanna david,"Saddle River, NJ/Bergen Catholic","Saddle River, NJ/Bergen Catholic","Saddle River, NJ/Bergen Catholic",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-19,martin zack,"Plainfield, IL/Plainfield North","Plainfield, IL/Plainfield North","Plainfield, IL/Plainfield North",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-20,mcdonald patrick,"Marietta, GA/Woodberry Forest","Marietta, GA/Woodberry Forest","Marietta, GA/Woodberry Forest",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-21,miller jared,"Marietta, GA/Pope","Marietta, GA/Pope","Marietta, GA/Pope",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-22,morrell brian,"Shoreham, NY/Shoreham-Wading River","Shoreham, NY/Shoreham-Wading River","Shoreham, NY/Shoreham-Wading River",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-23,myers spencer,"Tampa, FL/Berkeley Prep","Tampa, FL/Berkeley Prep","Tampa, FL/Berkeley Prep",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-24,podkul nick,"Schererville, IN/Andrean","Schererville, IN/Andrean","Schererville, IN/Andrean",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-25,sheehan jack,"Brielle, NJ/Manasquan","Brielle, NJ/Manasquan","Brielle, NJ/Manasquan",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-26,sheehan tommy,"Brielle, NJ/Manasquan","Brielle, NJ/Manasquan","Brielle, NJ/Manasquan",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-27,singer jake,"San Diego, CA/Torrey Pines","San Diego, CA/Torrey Pines","San Diego, CA/Torrey Pines",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-28,vail tommy,"Seattle, WA/Bishop Blanchet","Seattle, WA/Bishop Blanchet","Seattle, WA/Bishop Blanchet",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-29,vierling matt,"St. Louis, MO/Christian Brothers College High School","St. Louis, MO/Christian Brothers College High School","St. Louis, MO/Christian Brothers College High School",Last Name,Hometown/High School/Previous School,Hometown/High School/Previous School,Hometown/High School/Previous School,baseball,notre_dame
-0,adams david,"Pittsburgh, PA/Central Catholic","Pittsburgh, PA/Central Catholic","Pittsburgh, PA/Central Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-1,agoro temitope,"Riverdale, MD/Parkdale","Riverdale, MD/Parkdale","Riverdale, MD/Parkdale",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-2,armstrong jafar,"Lee's Summit, MO/Bishop Miege","Lee's Summit, MO/Bishop Miege","Lee's Summit, MO/Bishop Miege",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-3,assaf mick,"Atlanta, GA/Pace Academy","Atlanta, GA/Pace Academy","Atlanta, GA/Pace Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-4,ball brian,"Indianapolis, IN/Bishop Chatard","Indianapolis, IN/Bishop Chatard","Indianapolis, IN/Bishop Chatard",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-5,banks aaron,"Alameda, CA/El Cerrito","Alameda, CA/El Cerrito","Alameda, CA/El Cerrito",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-6,bars alex,"Nashville, TN/Montgomery Bell Academy","Nashville, TN/Montgomery Bell Academy","Nashville, TN/Montgomery Bell Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-7,bauer bo,"Harborcreek, PA/Cathedral Prep","Harborcreek, PA/Cathedral Prep","Harborcreek, PA/Cathedral Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-8,bilal asmar,"Indianapolis, IN/Ben Davis","Indianapolis, IN/Ben Davis","Indianapolis, IN/Ben Davis",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-9,bonner jonathan,"Chesterfield, MO/Parkway Central","Chesterfield, MO/Parkway Central","Chesterfield, MO/Parkway Central",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-10,book ian,"El Dorado Hills, CA/Oak Ridge","El Dorado Hills, CA/Oak Ridge","El Dorado Hills, CA/Oak Ridge",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-11,boykin miles,"Tinley Park, IL/Providence Catholic","Tinley Park, IL/Providence Catholic","Tinley Park, IL/Providence Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-12,bushland matt,"Dallas, TX/John Paul II","Dallas, TX/John Paul II","Dallas, TX/John Paul II",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-13,canteen freddy,"Elkton, MD/Eastern Christian","Elkton, MD/Eastern Christian","Elkton, MD/Eastern Christian",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-14,carney j.d.,"San Diego, CA/Cathedral Catholic","San Diego, CA/Cathedral Catholic","San Diego, CA/Cathedral Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-15,claypool chase,"Abbotsford, BC/Abbotsford","Abbotsford, BC/Abbotsford","Abbotsford, BC/Abbotsford",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-16,coleman nick,"Dayton, OH/Archbishop Alter","Dayton, OH/Archbishop Alter","Dayton, OH/Archbishop Alter",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-17,coney te'von,"Palm Beach Gardens, FL/Palm Beach Gardens","Palm Beach Gardens, FL/Palm Beach Gardens","Palm Beach Gardens, FL/Palm Beach Gardens",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-18,crawford shaun,"Lakewood, OH/St. Edward","Lakewood, OH/St. Edward","Lakewood, OH/St. Edward",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-19,davis avery,"Cedar Hill, TX/Cedar Hill","Cedar Hill, TX/Cedar Hill","Cedar Hill, TX/Cedar Hill",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-20,dew-treadway micah,"Bolingbrook, IL/Bolingbrook","Bolingbrook, IL/Bolingbrook","Bolingbrook, IL/Bolingbrook",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-21,doerer jonathan,"Charlotte, NC/South Mecklenburg","Charlotte, NC/South Mecklenburg","Charlotte, NC/South Mecklenburg",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-22,eichenberg liam,"Cleveland, OH/Saint Ignatius","Cleveland, OH/Saint Ignatius","Cleveland, OH/Saint Ignatius",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-23,ekanayake cameron,"Niles, MI/Edwardsburg","Niles, MI/Edwardsburg","Niles, MI/Edwardsburg",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-24,elliott jalen,"Richmond, VA/Lloyd C. Bird","Richmond, VA/Lloyd C. Bird","Richmond, VA/Lloyd C. Bird",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-25,ewell darnell,"Norfolk, VA/Lake Taylor","Norfolk, VA/Lake Taylor","Norfolk, VA/Lake Taylor",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-26,feist lincoln,"Rapid City, SD/St. Thomas More","Rapid City, SD/St. Thomas More","Rapid City, SD/St. Thomas More",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-27,fertitta nicco,"Las Vegas, NV/Bishop Gorman","Las Vegas, NV/Bishop Gorman","Las Vegas, NV/Bishop Gorman",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-28,finke chris,"Dayton, OH/Archbishop Alter","Dayton, OH/Archbishop Alter","Dayton, OH/Archbishop Alter",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-29,garcia brandon,"Casa Grande, AZ/Seton Catholic Prep","Casa Grande, AZ/Seton Catholic Prep","Casa Grande, AZ/Seton Catholic Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-30,genmark heath jordan,"San Diego, CA/Cathedral Catholic","San Diego, CA/Cathedral Catholic","San Diego, CA/Cathedral Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-31,gibbons dillan,"Clearwater, FL/Clearwater Central Catholic","Clearwater, FL/Clearwater Central Catholic","Clearwater, FL/Clearwater Central Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-32,gilman alohi,"Laie, HI/Kahuku","Laie, HI/Kahuku","Laie, HI/Kahuku",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-33,griffith houston,"Chicago, IL/IMG Academy (IMG)","Chicago, IL/IMG Academy (IMG)","Chicago, IL/IMG Academy (IMG)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-34,grunhard colin,"Mission, KS/Bishop Miege","Mission, KS/Bishop Miege","Mission, KS/Bishop Miege",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-35,hainsey robert,"Pittsburgh, PA/IMG Academy (FL)","Pittsburgh, PA/IMG Academy (FL)","Pittsburgh, PA/IMG Academy (FL)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-36,hayes daelin,"Belleville, MI/Skyline","Belleville, MI/Skyline","Belleville, MI/Skyline",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-37,henige jack,"Hinsdale, IL/Fenwick","Hinsdale, IL/Fenwick","Hinsdale, IL/Fenwick",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-38,henry nolan,"Vancouver, WA/Union","Vancouver, WA/Union","Vancouver, WA/Union",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-39,hinish kurt,"Pittsburgh, PA/Central Catholic","Pittsburgh, PA/Central Catholic","Pittsburgh, PA/Central Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-40,hutson brandon,"Battle Creek, MI/Harper Creek Community","Battle Creek, MI/Harper Creek Community","Battle Creek, MI/Harper Creek Community",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-41,jones jamir,"Rochester, NY/Aquinas Institute","Rochester, NY/Aquinas Institute","Rochester, NY/Aquinas Institute",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-42,jones jonathan,"Ocoee, FL/Oak Ridge","Ocoee, FL/Oak Ridge","Ocoee, FL/Oak Ridge",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-43,jones jr. tony,"St. Petersburg, FL/IMG Academy","St. Petersburg, FL/IMG Academy","St. Petersburg, FL/IMG Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-44,jones micah,"Gurnee, IL/Warren","Gurnee, IL/Warren","Gurnee, IL/Warren",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-45,kareem khalid,"Detroit, MI/Harrison","Detroit, MI/Harrison","Detroit, MI/Harrison",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-46,kmet cole,"Lake Barrington, IL/St. Viator","Lake Barrington, IL/St. Viator","Lake Barrington, IL/St. Viator",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-47,kraemer tommy,"Cincinnati, OH/Elder","Cincinnati, OH/Elder","Cincinnati, OH/Elder",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-48,lamb jack,"Temecula, CA/Great Oak","Temecula, CA/Great Oak","Temecula, CA/Great Oak",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-49,lezynski xavier,"Newtown, PA/Notre Dame (NJ)","Newtown, PA/Notre Dame (NJ)","Newtown, PA/Notre Dame (NJ)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-50,love julian,"Westchester, IL/Nazareth","Westchester, IL/Nazareth","Westchester, IL/Nazareth",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-51,lugg josh,"Wexford, PA/North Allegheny Senior","Wexford, PA/North Allegheny Senior","Wexford, PA/North Allegheny Senior",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-52,mack alizé,"Las Vegas, NV/Bishop Gorman","Las Vegas, NV/Bishop Gorman","Las Vegas, NV/Bishop Gorman",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-53,mahoney john,"West Des Moines, IA/Valley","West Des Moines, IA/Valley","West Des Moines, IA/Valley",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-54,mckinley javon,"Corona, CA/Centennial","Corona, CA/Centennial","Corona, CA/Centennial",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-55,morgan d.j.,"Norwalk, CA/Saint John Bosco","Norwalk, CA/Saint John Bosco","Norwalk, CA/Saint John Bosco",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-56,mustipher sam,"Owings Mills, MD/Good Counsel","Owings Mills, MD/Good Counsel","Owings Mills, MD/Good Counsel",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-57,newsome tyler,"Carrollton, GA/Carrollton","Carrollton, GA/Carrollton","Carrollton, GA/Carrollton",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-58,oghoufo ovie,"Lathrup Village, MI/Harrison","Lathrup Village, MI/Harrison","Lathrup Village, MI/Harrison",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-59,ogundeji adetokunbo,"West Bloomfield, MI/Walled Lake Central","West Bloomfield, MI/Walled Lake Central","West Bloomfield, MI/Walled Lake Central",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-60,okwara julian,"Charlotte, NC/Ardrey-Kell","Charlotte, NC/Ardrey-Kell","Charlotte, NC/Ardrey-Kell",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-61,owusu-koramoah jeremiah,"Hampton, VA/Bethel","Hampton, VA/Bethel","Hampton, VA/Bethel",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-62,pelini patrick,"Youngstown, OH/Cardinal Mooney","Youngstown, OH/Cardinal Mooney","Youngstown, OH/Cardinal Mooney",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-63,plantz logan,"Frankfort, IL/Providence Catholic","Frankfort, IL/Providence Catholic","Frankfort, IL/Providence Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-64,pride jr. troy,"Greer, SC/Greer Senior","Greer, SC/Greer Senior","Greer, SC/Greer Senior",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-65,regan robert,"Darien, IL/Hinsdale South","Darien, IL/Hinsdale South","Darien, IL/Hinsdale South",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-66,riney jeff,"Katy, TX/Seven Lakes","Katy, TX/Seven Lakes","Katy, TX/Seven Lakes",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-67,robertson isaiah,"Bolingbrook, IL/Neuqua Valley","Bolingbrook, IL/Neuqua Valley","Bolingbrook, IL/Neuqua Valley",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-68,ruhland trevor,"Cary, IL/Cary-Grove Community","Cary, IL/Cary-Grove Community","Cary, IL/Cary-Grove Community",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-69,schilling christopher,"Overland Park, KS/St. Thomas Aquinas","Overland Park, KS/St. Thomas Aquinas","Overland Park, KS/St. Thomas Aquinas",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-70,shannon john,"Lake Forest, IL/Loyola Academy","Lake Forest, IL/Loyola Academy","Lake Forest, IL/Loyola Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-71,shinaver arion,"Carmel, IN/Guerin Catholic","Carmel, IN/Guerin Catholic","Carmel, IN/Guerin Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-72,smith jahmir,"Sanford, NC/Lee County","Sanford, NC/Lee County","Sanford, NC/Lee County",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-73,spruell devyn,"Warren, NJ/Watchung Hills","Warren, NJ/Watchung Hills","Warren, NJ/Watchung Hills",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-74,studstill devin,"Riviera Beach, FL/Palm Beach Gardens","Riviera Beach, FL/Palm Beach Gardens","Riviera Beach, FL/Palm Beach Gardens",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-75,tagovailoa-amosa myron,"Ewa Beach, HI/Kapole","Ewa Beach, HI/Kapole","Ewa Beach, HI/Kapole",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-76,takacs george,"Naples, FL/Gulf Coast","Naples, FL/Gulf Coast","Naples, FL/Gulf Coast",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-77,thompson jimmy,"Hinsdale, IL/Central","Hinsdale, IL/Central","Hinsdale, IL/Central",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-78,tillery jerry,"Shreveport, LA/Evangel Christian Academy","Shreveport, LA/Evangel Christian Academy","Shreveport, LA/Evangel Christian Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-79,tranquill drue,"Fort Wayne, IN/Carroll","Fort Wayne, IN/Carroll","Fort Wayne, IN/Carroll",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-80,vaughn donte,"Memphis, TN/Whitehaven","Memphis, TN/Whitehaven","Memphis, TN/Whitehaven",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-81,wardlow kofi,"Washington, DC/St. John's College","Washington, DC/St. John's College","Washington, DC/St. John's College",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-82,watkins nick,"DeSoto, TX/Bishop Dunne","DeSoto, TX/Bishop Dunne","DeSoto, TX/Bishop Dunne",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-83,weishar nic,"Midlothian, IL/Marist","Midlothian, IL/Marist","Midlothian, IL/Marist",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-84,white drew,"Boca Raton, FL/St. Thomas Aquinas","Boca Raton, FL/St. Thomas Aquinas","Boca Raton, FL/St. Thomas Aquinas",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-85,williams dexter,"Orlando, FL/West Orange","Orlando, FL/West Orange","Orlando, FL/West Orange",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-86,wimbush brandon,"Teaneck, NJ/St. Peter's Prep","Teaneck, NJ/St. Peter's Prep","Teaneck, NJ/St. Peter's Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-87,wright brock,"Cypress, TX/Cy-Fair","Cypress, TX/Cy-Fair","Cypress, TX/Cy-Fair",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-88,yoon justin,"Nashville, TN/Milton Academy (MA)","Nashville, TN/Milton Academy (MA)","Nashville, TN/Milton Academy (MA)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-89,young michael,"Saint Rose, LA/Destrehan","Saint Rose, LA/Destrehan","Saint Rose, LA/Destrehan",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,football,notre_dame
-0,krutz ryan,"Norman, OK/Blue Valley North (KS)","Norman, OK/Blue Valley North (KS)","Norman, OK/Blue Valley North (KS)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-1,quinton philip,"Portland, OR/Grant","Portland, OR/Grant","Portland, OR/Grant",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-2,farina spencer,"Wilmette, IL/New Trier","Wilmette, IL/New Trier","Wilmette, IL/New Trier",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-3,finn brian,"Basking Ridge, NJ/Delbarton School","Basking Ridge, NJ/Delbarton School","Basking Ridge, NJ/Delbarton School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-4,dumas felicien,"Tokyo, Japan/Paris, France/United World College of South East Asia","Tokyo, Japan/Paris, France/United World College of South East Asia","Tokyo, Japan/Paris, France/United World College of South East Asia",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-5,macleod sean,"Troon, Scotland/Marr College","Troon, Scotland/Marr College","Troon, Scotland/Marr College",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-6,casey jack,"Morristown, NJ/The Pingry School","Morristown, NJ/The Pingry School","Morristown, NJ/The Pingry School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-7,cullen nick,"Colorado Springs, CO/Pine Creek","Colorado Springs, CO/Pine Creek","Colorado Springs, CO/Pine Creek",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-8,rea john,"Tempe, AZ/Corona del Sol","Tempe, AZ/Corona del Sol","Tempe, AZ/Corona del Sol",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-9,townes blake,"Canton, MI/Salem","Canton, MI/Salem","Canton, MI/Salem",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-10,dedrick sean,"Wilton, CT/Wilton","Wilton, CT/Wilton","Wilton, CT/Wilton",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-11,silver bryan,"Herndon, VA/Oakton","Herndon, VA/Oakton","Herndon, VA/Oakton",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-12,turnbull duncan,"Geneva, IL/Geneva","Geneva, IL/Geneva","Geneva, IL/Geneva",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-13,roennecke simon,"Pleasant Ridge, MI/The Roeper School","Pleasant Ridge, MI/The Roeper School","Pleasant Ridge, MI/The Roeper School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-14,mcfadden aiden,"West Chester, PA/Henderson","West Chester, PA/Henderson","West Chester, PA/Henderson",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-15,mccabe tommy,"South Orange, NJ/IMG Academy (FL)","South Orange, NJ/IMG Academy (FL)","South Orange, NJ/IMG Academy (FL)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-16,farrelly senan,"Havertown, PA/The Haverford School","Havertown, PA/The Haverford School","Havertown, PA/The Haverford School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-17,meyer townsend,"San Diego, CA/Point Loma","San Diego, CA/Point Loma","San Diego, CA/Point Loma",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-18,mclaughlin keagan,"Zanesville, OH/Bishop Rosecrans","Zanesville, OH/Bishop Rosecrans","Zanesville, OH/Bishop Rosecrans",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-19,coleman patrick,"Antioch, IL/Antioach Community","Antioch, IL/Antioach Community","Antioch, IL/Antioach Community",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-20,ueland thomas,"Lexington, KY/Henry Clay","Lexington, KY/Henry Clay","Lexington, KY/Henry Clay",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-21,aschieris ian,"Solana Beach, CA/Torrey Pines","Solana Beach, CA/Torrey Pines","Solana Beach, CA/Torrey Pines",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-22,macdonald mitch,"Troy, MI/Troy","Troy, MI/Troy","Troy, MI/Troy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-23,rothrock paul,"Seattle, WA/Lakeside School","Seattle, WA/Lakeside School","Seattle, WA/Lakeside School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-24,berneski patrick,"Warrington, PA/Central Bucks South","Warrington, PA/Central Bucks South","Warrington, PA/Central Bucks South",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-25,giacobello ben,"San Clemente, CA/San Clemente","San Clemente, CA/San Clemente","San Clemente, CA/San Clemente",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-26,lynn jack,"St. Louis, MO/Chaminade College Preparatory","St. Louis, MO/Chaminade College Preparatory","St. Louis, MO/Chaminade College Preparatory",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-27,shea tyler,"Dallas, TX/Jesuit College Preparatory","Dallas, TX/Jesuit College Preparatory","Dallas, TX/Jesuit College Preparatory",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-28,omar mohamed,"Toronto, ON/Berkshire School (MA)","Toronto, ON/Berkshire School (MA)","Toronto, ON/Berkshire School (MA)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-29,guinane sam,"San Juan Capistrano, CA/JSerra Catholic","San Juan Capistrano, CA/JSerra Catholic","San Juan Capistrano, CA/JSerra Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens soccer,notre_dame
-0,boice chloe,"Aliso Viejo, Calif./Santa Margarita Catholic High School","Aliso Viejo, Calif./Santa Margarita Catholic High School","Aliso Viejo, Calif./Santa Margarita Catholic High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-1,cartwright bailey,"Connellsville, Pa./Greensburg Central Catholic","Connellsville, Pa./Greensburg Central Catholic","Connellsville, Pa./Greensburg Central Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-2,colantuono nikki,"Otisville, N.Y./Minisink Valley High School","Otisville, N.Y./Minisink Valley High School","Otisville, N.Y./Minisink Valley High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-3,delgado luisa,"Manhattan Beach, Calif./Vistamar School","Manhattan Beach, Calif./Vistamar School","Manhattan Beach, Calif./Vistamar School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-4,dyke camryn,"Littleton, Colo./Valor Christian","Littleton, Colo./Valor Christian","Littleton, Colo./Valor Christian",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-5,eckert jaina,"Newnan, Ga./Heritage School","Newnan, Ga./Heritage School","Newnan, Ga./Heritage School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-6,fisher sammi,"Simi Valley, Calif./Grace Brethren","Simi Valley, Calif./Grace Brethren","Simi Valley, Calif./Grace Brethren",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-7,flores sabrina,"Livingston, N.J./Livingston","Livingston, N.J./Livingston","Livingston, N.J./Livingston",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-8,gosar jade,"Fort Collins, Colo./Rocky Mountain High School","Fort Collins, Colo./Rocky Mountain High School","Fort Collins, Colo./Rocky Mountain High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-9,heard rachel,"Decatur, Ga./St. Pius X Catholic","Decatur, Ga./St. Pius X Catholic","Decatur, Ga./St. Pius X Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-10,hendricks shannon,"Granger, Ind./Marian","Granger, Ind./Marian","Granger, Ind./Marian",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-11,hurm eva,"Upper Saddle River, N.J./Northern Highlands Regional","Upper Saddle River, N.J./Northern Highlands Regional","Upper Saddle River, N.J./Northern Highlands Regional",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-12,interian mattie,"Pasadena, Calif./Halstrom Academy","Pasadena, Calif./Halstrom Academy","Pasadena, Calif./Halstrom Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-13,littman brooke,"Rancho Palos Verdes, Calif./Rancho Palos Verdes","Rancho Palos Verdes, Calif./Rancho Palos Verdes","Rancho Palos Verdes, Calif./Rancho Palos Verdes",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-14,martel-lamothe alexis,"Ottawa, Ontario, Canada/CollÃ¨ge Catholique Samuel-Genest","Ottawa, Ontario, Canada/CollÃ¨ge Catholique Samuel-Genest","Ottawa, Ontario, Canada/CollÃ¨ge Catholique Samuel-Genest",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-15,martinez brianna,"Albuquerque, N.M./Volcano Vista High School","Albuquerque, N.M./Volcano Vista High School","Albuquerque, N.M./Volcano Vista High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-16,mclaughlin megan,"Granger, Ind./Penn","Granger, Ind./Penn","Granger, Ind./Penn",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-17,moss kelly,"Lumberton, N.J./Rancocas Valley High School","Lumberton, N.J./Rancocas Valley High School","Lumberton, N.J./Rancocas Valley High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-18,muya karin,"London, England/Burntwood School","London, England/Burntwood School","London, England/Burntwood School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-19,niro ann marie,"Barrington, Ill./Barrington","Barrington, Ill./Barrington","Barrington, Ill./Barrington",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-20,o'connor kate,"Coto de Caza, Calif./Tesoro High School","Coto de Caza, Calif./Tesoro High School","Coto de Caza, Calif./Tesoro High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-21,ospeck erin,"Danville, Calif./Carondelet","Danville, Calif./Carondelet","Danville, Calif./Carondelet",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-22,vandyck brooke,South Bend/Penn High School,South Bend/Penn High School,South Bend/Penn High School,Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-23,ward natalie,"Newport Beach, Calif./Newport Harbor","Newport Beach, Calif./Newport Harbor","Newport Beach, Calif./Newport Harbor",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-24,watkins genevieve,"Manhattan Beach, Calif./Mira Costa High School","Manhattan Beach, Calif./Mira Costa High School","Manhattan Beach, Calif./Mira Costa High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-25,westendorf jennifer,"Grayson, Ga./Grayson","Grayson, Ga./Grayson","Grayson, Ga./Grayson",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-26,winebrenner jenna,"Kansas City, Mo./Park Hill","Kansas City, Mo./Park Hill","Kansas City, Mo./Park Hill",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-27,wingate olivia,"Wilmington, Mass./Wilmington High School","Wilmington, Mass./Wilmington High School","Wilmington, Mass./Wilmington High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens soccer,notre_dame
-0,alexander andrew,"Toronto, Canada",Neil McNeil High School,Neil McNeil High School,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-1,cole william,"Overland Park, Ks.",St. Thomas Aquinas,St. Thomas Aquinas,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-2,flannery john,"Bronxville, NY",Bronxville,Bronxville,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-3,fraser brendan,"Pontiac, Mich.",Pontiac Notre Dame Prep,Pontiac Notre Dame Prep,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-4,fulk kyle,"Norwood, N.Y.",,,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-5,griffith brian,"Lake Zurich, Ill.",Lake Zurich High School,Lake Zurich High School,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-6,jones parker,"Pendleton, Ind.",Pendleton High School,Pendleton High School,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-7,kennedy brent,"Allegheny Township, PA",Kiski Area,Kiski Area,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-8,keslin tyler,"Munster, Ind.",Munster,Munster,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-9,kurdy sean,"Citrus Heights, Calif.",Jesuit High School,Jesuit High School,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-10,macuiba dustin,"Gurnee, Ill.",Warren Township,Warren Township,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-11,monahan peter,"Worcester, Mass.",Saint John's,Saint John's,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-12,nuguse yared,"Louisville, Ky.",Dupont Manual High School,Dupont Manual High School,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-13,pulliam kevin,"McLean, VA",Gonzaga College H.S.,Gonzaga College H.S.,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-14,schweizer ryan,"Urbandale, IA",Dowling Catholic,Dowling Catholic,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-15,sheryak connor,"Louisville, Ky.",St. Xavier,St. Xavier,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-16,silva elijah,"Toronto, Canada",Brebeuf College School,Brebeuf College School,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-17,wattleworth bradley,"Woodbridge, UK",University of Birmingham UK,University of Birmingham UK,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-18,williams anthony,"Bloomington, Ind.",Bloomington South,Bloomington South,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-19,zona vincent,"LaGrange, Ill.",Lyons Township High School,Lyons Township High School,Last Name,Hometown,High School,High School,mens cross country,notre_dame
-0,dadamio rachel,"Bloomfield Village, Mich.",Seaholm,Seaholm,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-1,daugherty alexis,"Sammamish, WA",Skyline,Skyline,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-2,driscoll taylor,"Saratoga Springs, N.Y.",Saratoga Springs Senior,Saratoga Springs Senior,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-3,finnane toni,"Morago, Calif.",Campolindo,Campolindo,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-4,foreman sydney,"Charlotte, NC",Ardrey Kell,Ardrey Kell,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-5,franz emily,"Johnstown, Ohio",Bishop Hartley,Bishop Hartley,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-6,frei kaitlin,"Winnetka, IL",New Trier,New Trier,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-7,harris jessica,"Cockeysville, MD",Mount de Sales,Mount de Sales,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-8,hart kelly,"Arlington, Va.",Yorktown,Yorktown,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-9,heffernan annie,"Cincinnati, Ohio",Saint Ursula Academy,Saint Ursula Academy,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-10,keller annasophia,"Effingham, Ill.",St. Anthony High School,St. Anthony High School,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-11,knight stephanie,"Maple Plain, MN",Orono,Orono,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-12,koehnen kelly,"Hamilton City, Calif.",Hamilton High School,Hamilton High School,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-13,leonard maryclare,"Orland Park, Ill.",Marist High School,Marist High School,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-14,magnussen claudia,"Pana, Ill.",Pana High School,Pana High School,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-15,murray samantha,"Defiance, OH",Defiance,Defiance,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-16,pelletier lexi,"Hampton, N.H.",Winnacunnett,Winnacunnett,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-17,rohrer anna,"Mishawaka, Ind.",Mishawaka,Mishawaka,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-18,ronzone madison,"Batavia, Ill.",Rosary,Rosary,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-19,sullivan erin,"Indianapolis, Ind.",Southport High School,Southport High School,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-20,trossen brooke,"San Diego, Calif.",Francis Parker High School,Francis Parker High School,Last Name,Hometown,High School,High School,womens cross country,notre_dame
-0,albin ben,"Sante Fe, NM",Albuquerque Academy,Albuquerque Academy,Last Name,Hometown,High School,High School,mens golf,notre_dame
-1,chatfield davis,"Attleboro, Mass.",Bishop Feehan,Bishop Feehan,Last Name,Hometown,High School,High School,mens golf,notre_dame
-2,conners kevin,"Downingtown, PA",Bishop Shanahan,Bishop Shanahan,Last Name,Hometown,High School,High School,mens golf,notre_dame
-3,delgado miguel,"Novato, CA",Branson,Branson,Last Name,Hometown,High School,High School,mens golf,notre_dame
-4,felitto john,"Mountainside, NJ",Oratory Preparatory School,Oratory Preparatory School,Last Name,Hometown,High School,High School,mens golf,notre_dame
-5,jamieson alex,"Duxbury, Mass.",Duxbury,Duxbury,Last Name,Hometown,High School,High School,mens golf,notre_dame
-6,lamb davis,"Potomac, MD",Georgetown Preparatory School,Georgetown Preparatory School,Last Name,Hometown,High School,High School,mens golf,notre_dame
-7,ostrom hunter,"Eagle, ID",Bishop Kelly,Bishop Kelly,Last Name,Hometown,High School,High School,mens golf,notre_dame
-8,steve thomas,"Upper St. Clair, PA",Upper St. Clair,Upper St. Clair,Last Name,Hometown,High School,High School,mens golf,notre_dame
-9,verhey jens,"Reno, NV",Bishop Manogue Catholic,Bishop Manogue Catholic,Last Name,Hometown,High School,High School,mens golf,notre_dame
-0,albrecht emma,"Ormond Beach, Fla./Father Lopez","Ormond Beach, Fla./Father Lopez","Ormond Beach, Fla./Father Lopez",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens golf,notre_dame
-1,ayer mia,"Waco, Texas/Midway","Waco, Texas/Midway","Waco, Texas/Midway",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens golf,notre_dame
-2,bellville kari,"Granger, Ind./Penn","Granger, Ind./Penn","Granger, Ind./Penn",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens golf,notre_dame
-3,dilisio isabella,"Hatfield, Pa./Mount Saint Joseph Academy","Hatfield, Pa./Mount Saint Joseph Academy","Hatfield, Pa./Mount Saint Joseph Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens golf,notre_dame
-4,hamilton maddie rose,"Louisville, Ky./Sacred Heart Academy","Louisville, Ky./Sacred Heart Academy","Louisville, Ky./Sacred Heart Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens golf,notre_dame
-5,heck abby,"Memphis, Tenn./St. Agnes Academy","Memphis, Tenn./St. Agnes Academy","Memphis, Tenn./St. Agnes Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens golf,notre_dame
-6,snakard alison,"Collegeville, Pa./Mount Saint Joseph Academy","Collegeville, Pa./Mount Saint Joseph Academy","Collegeville, Pa./Mount Saint Joseph Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens golf,notre_dame
-0,afrik tabahn,"Holland, MI/West Ottawa","Holland, MI/West Ottawa","Holland, MI/West Ottawa",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-1,barrett luke,"South Bend, Ind./St. Joseph","South Bend, Ind./St. Joseph","South Bend, Ind./St. Joseph",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-2,becker john paul,"Rochester, Minn./Rochester Lourdes","Rochester, Minn./Rochester Lourdes","Rochester, Minn./Rochester Lourdes",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-3,cumberland william,"Bristow, Va./Patriot","Bristow, Va./Patriot","Bristow, Va./Patriot",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-4,fujan daniel,"Byron, MN/Byron","Byron, MN/Byron","Byron, MN/Byron",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-5,grauslys matt,"Manchester, N.H./Manchester Memorial","Manchester, N.H./Manchester Memorial","Manchester, N.H./Manchester Memorial",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-6,herrera cristian,"Montebello, CA/Troy High School","Montebello, CA/Troy High School","Montebello, CA/Troy High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-7,mckeen sadler,"Birmingham, Ala./Briarwood Christian","Birmingham, Ala./Briarwood Christian","Birmingham, Ala./Briarwood Christian",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-8,milikich nick,"Austin, TX/Cedar Ridge","Austin, TX/Cedar Ridge","Austin, TX/Cedar Ridge",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-9,montesi jack,"Riverside, CT/Greenwich","Riverside, CT/Greenwich","Riverside, CT/Greenwich",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-10,riley rex,"Erie, PA/Cathedral Prep","Erie, PA/Cathedral Prep","Erie, PA/Cathedral Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-11,russell jack,"Birmingham, MI/Seaholm","Birmingham, MI/Seaholm","Birmingham, MI/Seaholm",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-12,santana brendan,"San Diego, Calif./University City","San Diego, Calif./University City","San Diego, Calif./University City",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-13,schultz aaron,"Richmond, VA/Deep Run","Richmond, VA/Deep Run","Richmond, VA/Deep Run",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-14,shek steven,"Mount Laurel, N.J./Lenape","Mount Laurel, N.J./Lenape","Mount Laurel, N.J./Lenape",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-15,smith christopher,"Middletown, N.J./Middletown","Middletown, N.J./Middletown","Middletown, N.J./Middletown",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-16,turk joseph,"North Andover, Mass./St. John's Prep","North Andover, Mass./St. John's Prep","North Andover, Mass./St. John's Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-17,waszak david,"North Canton, Ohio/Hoover","North Canton, Ohio/Hoover","North Canton, Ohio/Hoover",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-18,yeadon zach,"San Antonio, Texas/Reagan","San Antonio, Texas/Reagan","San Antonio, Texas/Reagan",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens swimming,notre_dame
-0,andrews claire,"The Woodlands, Texas/The Woodlands College Park High School","The Woodlands, Texas/The Woodlands College Park High School","The Woodlands, Texas/The Woodlands College Park High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-1,berdusco ellie,"Bradenton, FL/Saint Stephenson's Episcopal School","Bradenton, FL/Saint Stephenson's Episcopal School","Bradenton, FL/Saint Stephenson's Episcopal School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-2,deselm claire,"Chapel Hill, NC/Chapel Hill","Chapel Hill, NC/Chapel Hill","Chapel Hill, NC/Chapel Hill",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-3,dolan abbie,"Sunfish Lake, MN/Visitation","Sunfish Lake, MN/Visitation","Sunfish Lake, MN/Visitation",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-4,fore skylar,"Cedarburg, Wis./Cedarburg","Cedarburg, Wis./Cedarburg","Cedarburg, Wis./Cedarburg",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-5,grunhard cailey,"Mission Hills, Kan./Bishop Miege","Mission Hills, Kan./Bishop Miege","Mission Hills, Kan./Bishop Miege",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-6,heller lauren,"Stow, OH/Hawken","Stow, OH/Hawken","Stow, OH/Hawken",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-7,isola erin,"Allegan, MI/Allegan High School","Allegan, MI/Allegan High School","Allegan, MI/Allegan High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-8,jacob kelly,"Oconomowoc, WI/Arrowhead","Oconomowoc, WI/Arrowhead","Oconomowoc, WI/Arrowhead",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-9,kammeyer carolyn,"Charlotte, NC/Ardrey Kell","Charlotte, NC/Ardrey Kell","Charlotte, NC/Ardrey Kell",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-10,kaplan paige,"Bellmore, NY/John F. Kennedy","Bellmore, NY/John F. Kennedy","Bellmore, NY/John F. Kennedy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-11,lanigan reilly,"Lake Forest, IL/Lake Forest","Lake Forest, IL/Lake Forest","Lake Forest, IL/Lake Forest",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-12,mccahan kate,"Dunwoody, Ga./Wesleyan","Dunwoody, Ga./Wesleyan","Dunwoody, Ga./Wesleyan",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-13,o'donnell meaghan,"Wayne, NJ/Wayne Valley","Wayne, NJ/Wayne Valley","Wayne, NJ/Wayne Valley",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-14,quast carly,"Maple Grove, Minn./Wayzata","Maple Grove, Minn./Wayzata","Maple Grove, Minn./Wayzata",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-15,rentz katie,"Aurora, IL/Rosary","Aurora, IL/Rosary","Aurora, IL/Rosary",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-16,revilak sofia,"Mexico City, Mexico/Christa McAuliffe School of Arts and Sciences","Mexico City, Mexico/Christa McAuliffe School of Arts and Sciences","Mexico City, Mexico/Christa McAuliffe School of Arts and Sciences",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-17,sarazen kyra,"North Hampton, NH/St. Thomas Aquinas","North Hampton, NH/St. Thomas Aquinas","North Hampton, NH/St. Thomas Aquinas",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-18,sheehan erin,"Upper Arlington, OH/Upper Arlington","Upper Arlington, OH/Upper Arlington","Upper Arlington, OH/Upper Arlington",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-19,smith katie,"Rochester, NY/Pittsford Sutherland","Rochester, NY/Pittsford Sutherland","Rochester, NY/Pittsford Sutherland",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-20,smith nikki,"Munster, IN/Munster","Munster, IN/Munster","Munster, IN/Munster",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-21,steigerwald sammy,"Colorado Springs, CO/Air Academy","Colorado Springs, CO/Air Academy","Colorado Springs, CO/Air Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-22,stone lindsay,"Pittsford, N.Y./Pittsford","Pittsford, N.Y./Pittsford","Pittsford, N.Y./Pittsford",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-23,straub kelly,"Omaha, Neb./Marian","Omaha, Neb./Marian","Omaha, Neb./Marian",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-24,treuth alice,"Salisbury, MD/James M. Bennett","Salisbury, MD/James M. Bennett","Salisbury, MD/James M. Bennett",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-25,walton rebecca,"Honolulu, HI/Mid-Pacific Institute","Honolulu, HI/Mid-Pacific Institute","Honolulu, HI/Mid-Pacific Institute",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-26,wittmer rachel,"Edina, Minn./Edina","Edina, Minn./Edina","Edina, Minn./Edina",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens swimming,notre_dame
-0,broadus grayson,"Carollton, TX/ATA College Prep","Carollton, TX/ATA College Prep","Carollton, TX/ATA College Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens tennis,notre_dame
-1,cabrera guillermo,"Lima, Peru/Colegio Franklin Delano Roosevelt","Lima, Peru/Colegio Franklin Delano Roosevelt","Lima, Peru/Colegio Franklin Delano Roosevelt",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens tennis,notre_dame
-2,ciamarra richard,"Southington, CT/Xavier","Southington, CT/Xavier","Southington, CT/Xavier",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens tennis,notre_dame
-3,gamble matt,"Webster, NY/Webster Schroeder","Webster, NY/Webster Schroeder","Webster, NY/Webster Schroeder",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens tennis,notre_dame
-4,gota paul,"Moreland Hills, Ohio/CRC Tennis Academy","Moreland Hills, Ohio/CRC Tennis Academy","Moreland Hills, Ohio/CRC Tennis Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens tennis,notre_dame
-5,griffin nathan,"Broadview Heights, OH/St. Ignatius","Broadview Heights, OH/St. Ignatius","Broadview Heights, OH/St. Ignatius",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens tennis,notre_dame
-6,howells william,"Boca Raton, FL/Laurel Springs","Boca Raton, FL/Laurel Springs","Boca Raton, FL/Laurel Springs",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens tennis,notre_dame
-7,lebedev alex,"Island Park, NY/Laurel Springs","Island Park, NY/Laurel Springs","Island Park, NY/Laurel Springs",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens tennis,notre_dame
-8,mccormick tristan,"Berwyn, PA/Dwight School","Berwyn, PA/Dwight School","Berwyn, PA/Dwight School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens tennis,notre_dame
-9,nefve axel,,,,Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens tennis,notre_dame
-10,rayl daniel,"Carmel, IN/Park Tudor","Carmel, IN/Park Tudor","Carmel, IN/Park Tudor",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens tennis,notre_dame
-11,small johnathan,"Zionsville, Ind./Laurel Springs","Zionsville, Ind./Laurel Springs","Zionsville, Ind./Laurel Springs",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens tennis,notre_dame
-12,somers conor,"Virginia Beach, VA/Cape Henry Collegiate","Virginia Beach, VA/Cape Henry Collegiate","Virginia Beach, VA/Cape Henry Collegiate",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens tennis,notre_dame
-0,bojczuk ally,"Franklin, Tenn./Laurel Springs","Franklin, Tenn./Laurel Springs","Franklin, Tenn./Laurel Springs",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens tennis,notre_dame
-1,broda brooke,"West Chester, OH/Lakota West High School","West Chester, OH/Lakota West High School","West Chester, OH/Lakota West High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens tennis,notre_dame
-2,chong rachel,"Danville, California/K12 International Academy","Danville, California/K12 International Academy","Danville, California/K12 International Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens tennis,notre_dame
-3,corse cameron,"Baltimore, Md./Bryn Mawr School","Baltimore, Md./Bryn Mawr School","Baltimore, Md./Bryn Mawr School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens tennis,notre_dame
-4,dunleavy caroline,"Darien, Conn./Greenwich Academy","Darien, Conn./Greenwich Academy","Darien, Conn./Greenwich Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens tennis,notre_dame
-5,miller allison,"Norcross, GA/Rivers Academy","Norcross, GA/Rivers Academy","Norcross, GA/Rivers Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens tennis,notre_dame
-6,shannon evangeline,"Grosse Pointe Farms, Mich./Saddlebrook Prep","Grosse Pointe Farms, Mich./Saddlebrook Prep","Grosse Pointe Farms, Mich./Saddlebrook Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens tennis,notre_dame
-7,siegfried hayden,"Tulsa, Okla./Cascia Hall Preparatory","Tulsa, Okla./Cascia Hall Preparatory","Tulsa, Okla./Cascia Hall Preparatory",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens tennis,notre_dame
-8,spence zoe,"Chicago, Illinois/Francis W. Parker","Chicago, Illinois/Francis W. Parker","Chicago, Illinois/Francis W. Parker",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens tennis,notre_dame
-9,waldram bess,"Portland, Oregon/Jesuit","Portland, Oregon/Jesuit","Portland, Oregon/Jesuit",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens tennis,notre_dame
-0,alexander andrew,"Toronto, Ont./Neil Mcneil High School","Toronto, Ont./Neil Mcneil High School","Toronto, Ont./Neil Mcneil High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-1,birzer matthew,"Leawood, Kansas/Blue Valley West","Leawood, Kansas/Blue Valley West","Leawood, Kansas/Blue Valley West",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-2,cheatham edward,"Manlius, New York/Fayetteville-Manlius","Manlius, New York/Fayetteville-Manlius","Manlius, New York/Fayetteville-Manlius",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-3,cole william,"Overland Park, Ks./St. Thomas Aquinas High School","Overland Park, Ks./St. Thomas Aquinas High School","Overland Park, Ks./St. Thomas Aquinas High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-4,dolan billy,"Mullica Hill, NJ/Clearview Regional","Mullica Hill, NJ/Clearview Regional","Mullica Hill, NJ/Clearview Regional",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-5,dumford jacob,"Westerville, OH/Westerville North","Westerville, OH/Westerville North","Westerville, OH/Westerville North",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-6,ekwuene nathaniel,"Medford, Wis.","Medford, Wis.","Medford, Wis.",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-7,flannery john,"Bronxville, NY/Bronxville","Bronxville, NY/Bronxville","Bronxville, NY/Bronxville",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-8,fox kevin,"Moorestown, N.J./Moorsetown High School","Moorestown, N.J./Moorsetown High School","Moorestown, N.J./Moorsetown High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-9,fraizer matt,"West Des Moines, Iowa/Dowling Catholic High School","West Des Moines, Iowa/Dowling Catholic High School","West Des Moines, Iowa/Dowling Catholic High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-10,fraser brendan,"Pontiac, Mich./Notre Dame Prep","Pontiac, Mich./Notre Dame Prep","Pontiac, Mich./Notre Dame Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-11,fulk kyle,"Norwood, N.Y./Norwood-Norfolk High School","Norwood, N.Y./Norwood-Norfolk High School","Norwood, N.Y./Norwood-Norfolk High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-12,goldman clay,"St. John, Ind./Lake Central","St. John, Ind./Lake Central","St. John, Ind./Lake Central",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-13,griffith brian,"Lake Zurich, Ill./Lake Zurich High School","Lake Zurich, Ill./Lake Zurich High School","Lake Zurich, Ill./Lake Zurich High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-14,hansen kirk,"Lake Orion, MI/Lake Orion","Lake Orion, MI/Lake Orion","Lake Orion, MI/Lake Orion",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-15,hardiman daniel,"Farmington, Conn./Farmington","Farmington, Conn./Farmington","Farmington, Conn./Farmington",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-16,holton hunter,"Pataskala, OH/Watkins Memorial","Pataskala, OH/Watkins Memorial","Pataskala, OH/Watkins Memorial",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-17,jesse jack,"Middleton, Wisc./Middleton","Middleton, Wisc./Middleton","Middleton, Wisc./Middleton",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-18,jones parker,"Pendleton, Ind./Pendleton High School","Pendleton, Ind./Pendleton High School","Pendleton, Ind./Pendleton High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-19,kennedy brent,"Allegheny Township, PA/Kiski Area","Allegheny Township, PA/Kiski Area","Allegheny Township, PA/Kiski Area",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-20,keslin tyler,"Munster, Ind./Munster","Munster, Ind./Munster","Munster, Ind./Munster",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-21,kurdy sean,"Citrus Heights, Calif./Jesuit High School","Citrus Heights, Calif./Jesuit High School","Citrus Heights, Calif./Jesuit High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-22,kusky logan,"Youngstown, Ohio/Austintown Fitch","Youngstown, Ohio/Austintown Fitch","Youngstown, Ohio/Austintown Fitch",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-23,macuiba dustin,"Gurnee, Ill./Warren Township","Gurnee, Ill./Warren Township","Gurnee, Ill./Warren Township",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-24,monahan peter,"Worcester, Mass./St. John's","Worcester, Mass./St. John's","Worcester, Mass./St. John's",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-25,nuguse yared,"Louisville, KY/Dupont Manual High School","Louisville, KY/Dupont Manual High School","Louisville, KY/Dupont Manual High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-26,o'mara patrick,"Montgomery, Ala./Montgomery Catholic Preparatory School","Montgomery, Ala./Montgomery Catholic Preparatory School","Montgomery, Ala./Montgomery Catholic Preparatory School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-27,pride jr. troy,"Greer, S.C./Greer Senior","Greer, S.C./Greer Senior","Greer, S.C./Greer Senior",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-28,pulliam kevin,"McLean, VA/Gonzaga College H.S.","McLean, VA/Gonzaga College H.S.","McLean, VA/Gonzaga College H.S.",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-29,richartz nathan,"Island Lake, IL/McHenry","Island Lake, IL/McHenry","Island Lake, IL/McHenry",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-30,salvano kevin,"Arlington Heights, Ill./Buffalo Grove","Arlington Heights, Ill./Buffalo Grove","Arlington Heights, Ill./Buffalo Grove",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-31,schweizer ryan,"Des Moines, Iowa/Dowling Catholic","Des Moines, Iowa/Dowling Catholic","Des Moines, Iowa/Dowling Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-32,shank landon,"Fullerton, Calif./Servite","Fullerton, Calif./Servite","Fullerton, Calif./Servite",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-33,sheryak connor,"Louisville, KY","Louisville, KY","Louisville, KY",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-34,silva elijah,"Toronto, Ont.","Toronto, Ont.","Toronto, Ont.",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-35,stefan john,"Deer Park, Ill.","Deer Park, Ill.","Deer Park, Ill.",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-36,stimson drake,"Cincinnati, OH/Indian Hill","Cincinnati, OH/Indian Hill","Cincinnati, OH/Indian Hill",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-37,villegas jimenez antonio,"Floyds Knobs, Ind./Floyd Central High School","Floyds Knobs, Ind./Floyd Central High School","Floyds Knobs, Ind./Floyd Central High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-38,watkins shae,"Findlay, Ohio/Arcadia","Findlay, Ohio/Arcadia","Findlay, Ohio/Arcadia",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-39,wattelworth bradley,"Woodbridge, UK","Woodbridge, UK","Woodbridge, UK",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-40,werling peter,"Fishers, Ind./Fishers High School","Fishers, Ind./Fishers High School","Fishers, Ind./Fishers High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-41,williams anthony,"Bloomington, Ind./Bloomington South","Bloomington, Ind./Bloomington South","Bloomington, Ind./Bloomington South",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-42,zajdel zachary,"Syracuse, NY/Christian Brothers Academy","Syracuse, NY/Christian Brothers Academy","Syracuse, NY/Christian Brothers Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-43,zona vincent,"LaGrange, Ill./Lyons Township High School","LaGrange, Ill./Lyons Township High School","LaGrange, Ill./Lyons Township High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens track,notre_dame
-0,bartoszewicz allison,"Pittsburgh, PA/Vincentian Academy","Pittsburgh, PA/Vincentian Academy","Pittsburgh, PA/Vincentian Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-1,butler michaela,"Findlay, Ohio/Liberty-Benton High School","Findlay, Ohio/Liberty-Benton High School","Findlay, Ohio/Liberty-Benton High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-2,bzik emma,"Bedford, N.H.","Bedford, N.H.","Bedford, N.H.",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-3,caskey mckenna,"Huntington Beach, Calif.","Huntington Beach, Calif.","Huntington Beach, Calif.",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-4,coubal alexa,"Thousand Oaks, Calif./Thousand Oaks High School","Thousand Oaks, Calif./Thousand Oaks High School","Thousand Oaks, Calif./Thousand Oaks High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-5,cronin grace,"Elmhurst, Ill./Fenwick","Elmhurst, Ill./Fenwick","Elmhurst, Ill./Fenwick",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-6,dadamio rachel,"Bloomfield Village, Mich./Seaholm","Bloomfield Village, Mich./Seaholm","Bloomfield Village, Mich./Seaholm",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-7,daugherty alexis,"Sammamish, WA/Skyline","Sammamish, WA/Skyline","Sammamish, WA/Skyline",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-8,devito laura,"Rocky River, Ohio/Rocky River High School","Rocky River, Ohio/Rocky River High School","Rocky River, Ohio/Rocky River High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-9,diederich gabrielle,"Salina, Kansas","Salina, Kansas","Salina, Kansas",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-10,finnane toni,"Moraga, Calif./Campolindo","Moraga, Calif./Campolindo","Moraga, Calif./Campolindo",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-11,foreman sydney,"Charlotte, NC/Ardrey Kell","Charlotte, NC/Ardrey Kell","Charlotte, NC/Ardrey Kell",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-12,franz emily,"Johnstown, Ohio/Bishop Hartley","Johnstown, Ohio/Bishop Hartley","Johnstown, Ohio/Bishop Hartley",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-13,frei kaitlin,"Winnetka, IL/New Trier","Winnetka, IL/New Trier","Winnetka, IL/New Trier",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-14,harris jessica,"Cockeysville, MD/Mount de Sales","Cockeysville, MD/Mount de Sales","Cockeysville, MD/Mount de Sales",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-15,hart kelly,"Arlington, Va./Yorktown","Arlington, Va./Yorktown","Arlington, Va./Yorktown",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-16,heffernan annie,"Cincinnati, Ohio/Saint Ursula Academy","Cincinnati, Ohio/Saint Ursula Academy","Cincinnati, Ohio/Saint Ursula Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-17,hunter madysen,"Southlake, TX/Carroll","Southlake, TX/Carroll","Southlake, TX/Carroll",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-18,ifft kassadee,"Fairbury, IL/Prairie Central","Fairbury, IL/Prairie Central","Fairbury, IL/Prairie Central",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-19,jackson indi,"Pontiac, MI/Walled Lake Central","Pontiac, MI/Walled Lake Central","Pontiac, MI/Walled Lake Central",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-20,kapitan abbey,"Munster, Ind./Munster","Munster, Ind./Munster","Munster, Ind./Munster",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-21,keller annasophia,"Effingham, Ill.","Effingham, Ill.","Effingham, Ill.",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-22,knight stephanie,"Maple Plain, MN/Orono","Maple Plain, MN/Orono","Maple Plain, MN/Orono",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-23,koehnen kelly,"Glenn, Calif./Hamilton High School","Glenn, Calif./Hamilton High School","Glenn, Calif./Hamilton High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-24,leonard mary clare,"Orland Oark, Ill./Marist High School","Orland Oark, Ill./Marist High School","Orland Oark, Ill./Marist High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-25,lewis kyla,"Rockville, Md./Bullis School","Rockville, Md./Bullis School","Rockville, Md./Bullis School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-26,magnussen claudia,"Oconee, Ill./Pana High School","Oconee, Ill./Pana High School","Oconee, Ill./Pana High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-27,miller payton,"Golden, CO/Golden","Golden, CO/Golden","Golden, CO/Golden",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-28,murray samantha,"Defiance, OH/Defiance","Defiance, OH/Defiance","Defiance, OH/Defiance",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-29,pelletier lexi,"Hampton, N.H./Winnacunnett","Hampton, N.H./Winnacunnett","Hampton, N.H./Winnacunnett",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-30,rhodes rachel,"Sherman, IL/Williamsville","Sherman, IL/Williamsville","Sherman, IL/Williamsville",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-31,rohrer anna,"Mishawaka, Ind./Mishawaka","Mishawaka, Ind./Mishawaka","Mishawaka, Ind./Mishawaka",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-32,ronzone madison,"Batavia, Ill./Rosary","Batavia, Ill./Rosary","Batavia, Ill./Rosary",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-33,sharp naya,"Garland, TX/Greenhill School","Garland, TX/Greenhill School","Garland, TX/Greenhill School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-34,shead jordan,"St. Charles, IL/St. Charles East","St. Charles, IL/St. Charles East","St. Charles, IL/St. Charles East",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-35,sullivan erin,"Indianapolis, Ind./Southport High School","Indianapolis, Ind./Southport High School","Indianapolis, Ind./Southport High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-36,tanczos rachel,"Daniellesville, Penn.","Daniellesville, Penn.","Daniellesville, Penn.",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-37,thorpe summer,"Pittsburgh, PA/Sewickley Academy","Pittsburgh, PA/Sewickley Academy","Pittsburgh, PA/Sewickley Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-38,trossen brooke,"Coronado, Calif./Francis Parker High School","Coronado, Calif./Francis Parker High School","Coronado, Calif./Francis Parker High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens track,notre_dame
-0,bhalla mara,"Belmont, NC/Gaston Day School","Belmont, NC/Gaston Day School","Belmont, NC/Gaston Day School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-1,brandt lexi,"Savage, MN/Prior Lake","Savage, MN/Prior Lake","Savage, MN/Prior Lake",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-2,brogan cailey,"Lloyd Harbor, NY/Cold Spring Harbor","Lloyd Harbor, NY/Cold Spring Harbor","Lloyd Harbor, NY/Cold Spring Harbor",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-3,coady madeline,"Haverhill, MA/Haverhill","Haverhill, MA/Haverhill","Haverhill, MA/Haverhill",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-4,daum ellie,"Oakland, CA/Bishop O'Dowd","Oakland, CA/Bishop O'Dowd","Oakland, CA/Bishop O'Dowd",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-5,delgado-castillo isabella,"Winter Garden, FL/FLVS/Foundation Academy","Winter Garden, FL/FLVS/Foundation Academy","Winter Garden, FL/FLVS/Foundation Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-6,dolan erin,"North Kingstown, RI/Bay View Academy","North Kingstown, RI/Bay View Academy","North Kingstown, RI/Bay View Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-7,dubois stephanie,"McLean, VA/Langley","McLean, VA/Langley","McLean, VA/Langley",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-8,edgar isabel,"Rosemount, MN/Rosemount","Rosemount, MN/Rosemount","Rosemount, MN/Rosemount",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-9,farnan jeanne,"Pittsburgh, PA/Seton La-Salle","Pittsburgh, PA/Seton La-Salle","Pittsburgh, PA/Seton La-Salle",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-10,ferrero hana,"Seattle, WA/Holy Names Academy","Seattle, WA/Holy Names Academy","Seattle, WA/Holy Names Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-11,fischer kelly,"Titusville, NJ/Hopewell Valley Central","Titusville, NJ/Hopewell Valley Central","Titusville, NJ/Hopewell Valley Central",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-12,geyer bridget,"Powell, OH/Bishop Watterson","Powell, OH/Bishop Watterson","Powell, OH/Bishop Watterson",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-13,gilbert elizabeth,"Wellesley, MA/Wellesley","Wellesley, MA/Wellesley","Wellesley, MA/Wellesley",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-14,greene meghan,"Chattanooga, TN/Notre Dame","Chattanooga, TN/Notre Dame","Chattanooga, TN/Notre Dame",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-15,groth jennifer,"Fairfax Station, VA/James W. Robinson Secondary School","Fairfax Station, VA/James W. Robinson Secondary School","Fairfax Station, VA/James W. Robinson Secondary School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-16,gulyas grace,"Grosse Pointe Farms, MI/Grosse Pointe South","Grosse Pointe Farms, MI/Grosse Pointe South","Grosse Pointe Farms, MI/Grosse Pointe South",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-17,hadi halena,"Springfield, MO/Central","Springfield, MO/Central","Springfield, MO/Central",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-18,halligan brenna,"Newark, DE/Cab Calloway School of the Arts","Newark, DE/Cab Calloway School of the Arts","Newark, DE/Cab Calloway School of the Arts",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-19,hemm chloe,"Dayton, OH/The Miami Valley School","Dayton, OH/The Miami Valley School","Dayton, OH/The Miami Valley School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-20,hills caroline,"Camp Hill, PA/Trinity","Camp Hill, PA/Trinity","Camp Hill, PA/Trinity",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-21,johanni gen,"Columbus, OH/Upper Arlington","Columbus, OH/Upper Arlington","Columbus, OH/Upper Arlington",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-22,johnson katharine,"Westport, CT/Staples","Westport, CT/Staples","Westport, CT/Staples",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-23,kearney reilly,"San Mateo, CA/St. Ignatius College Preparatory","San Mateo, CA/St. Ignatius College Preparatory","San Mateo, CA/St. Ignatius College Preparatory",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-24,lee alex,"Old Greenwich, CT/Greenwich","Old Greenwich, CT/Greenwich","Old Greenwich, CT/Greenwich",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-25,manfreda samantha,"Bethel, CT","Bethel, CT","Bethel, CT",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-26,mansouri tala,"Ponte Vedra, FL/Allen D. Nease","Ponte Vedra, FL/Allen D. Nease","Ponte Vedra, FL/Allen D. Nease",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-27,matchett lauren,"Ambler, PA/Mount Saint Joseph Academy","Ambler, PA/Mount Saint Joseph Academy","Ambler, PA/Mount Saint Joseph Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-28,mcgovern rosemary,"Clifton, VA/Georgetown Visitation","Clifton, VA/Georgetown Visitation","Clifton, VA/Georgetown Visitation",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-29,mckee lauren,"Lake Zurich, IL/Lake Zurich","Lake Zurich, IL/Lake Zurich","Lake Zurich, IL/Lake Zurich",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-30,mcmanus evelyn,"Orinda, CA/Miramonte","Orinda, CA/Miramonte","Orinda, CA/Miramonte",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-31,migliore laura,"Tampa, FL/HB Plant","Tampa, FL/HB Plant","Tampa, FL/HB Plant",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-32,mountford killian,"Granger, IN/Saint Joseph","Granger, IN/Saint Joseph","Granger, IN/Saint Joseph",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-33,murphy kathleen,"Alexandria, VA/T.C. Williams","Alexandria, VA/T.C. Williams","Alexandria, VA/T.C. Williams",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-34,o'tighearnaigh treasa,"Powell, OH/Olentangy Liberty","Powell, OH/Olentangy Liberty","Powell, OH/Olentangy Liberty",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-35,parsons mariah,"Fair Haven, NJ/Rumson-Fair Haven","Fair Haven, NJ/Rumson-Fair Haven","Fair Haven, NJ/Rumson-Fair Haven",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-36,perham olivia,"Moorestown, NJ/Moorestown","Moorestown, NJ/Moorestown","Moorestown, NJ/Moorestown",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-37,phelan mary grace,"Geneva, IL/Geneva","Geneva, IL/Geneva","Geneva, IL/Geneva",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-38,pierce molly,"Wayland, MA/Wayland","Wayland, MA/Wayland","Wayland, MA/Wayland",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-39,pines analisa,"Orinda, CA/The College Preparatory School","Orinda, CA/The College Preparatory School","Orinda, CA/The College Preparatory School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-40,pratt natalie,"Niles, MI/Seton Home Study School","Niles, MI/Seton Home Study School","Niles, MI/Seton Home Study School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-41,randall julia,"Montclair, NJ/Montclair Kimberley Academy","Montclair, NJ/Montclair Kimberley Academy","Montclair, NJ/Montclair Kimberley Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-42,regan audrey,"Fenton, MI/Hartland","Fenton, MI/Hartland","Fenton, MI/Hartland",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-43,renkes anja,"Jackson, WY/Holy Names Academy","Jackson, WY/Holy Names Academy","Jackson, WY/Holy Names Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-44,ryan mary,"Seal Beach, CA/Mater Dei","Seal Beach, CA/Mater Dei","Seal Beach, CA/Mater Dei",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-45,saunee lauren,"New Orleans, LA/Mount Carmel Academy","New Orleans, LA/Mount Carmel Academy","New Orleans, LA/Mount Carmel Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-46,schindele-murayama christine,"Singapore, Singapore/Singapore American School","Singapore, Singapore/Singapore American School","Singapore, Singapore/Singapore American School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-47,schoonmaker laura,"Arlington, MA/Arlington","Arlington, MA/Arlington","Arlington, MA/Arlington",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-48,schrieber elizabeth,"Berwyn, PA/Merion Mercy Academy","Berwyn, PA/Merion Mercy Academy","Berwyn, PA/Merion Mercy Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-49,smith carrie,"Charlottesville, VA/Western Albemarle","Charlottesville, VA/Western Albemarle","Charlottesville, VA/Western Albemarle",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-50,sodi allegra,"Manhasset, NY/Manhasset","Manhasset, NY/Manhasset","Manhasset, NY/Manhasset",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-51,stinebaugh emily,"Wayzata, MN/Orono","Wayzata, MN/Orono","Wayzata, MN/Orono",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-52,swartz meredith,"Westerville, OH/Columbus School For Girls","Westerville, OH/Columbus School For Girls","Westerville, OH/Columbus School For Girls",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-53,visnic colleen,"Branford, CT/Branford","Branford, CT/Branford","Branford, CT/Branford",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-54,walsh patricia,"Bettendorf, IA/Assumption","Bettendorf, IA/Assumption","Bettendorf, IA/Assumption",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-55,walter elizabeth,"Orchard Park, NY/Nardin Academy","Orchard Park, NY/Nardin Academy","Orchard Park, NY/Nardin Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-56,white emily,"Naperville, IL/Naperville Central","Naperville, IL/Naperville Central","Naperville, IL/Naperville Central",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-57,wiedenhoft katie,"Rockville Centre, NY/Sacred Heart Academy","Rockville Centre, NY/Sacred Heart Academy","Rockville Centre, NY/Sacred Heart Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-58,young ashley,"Fayetteville, AR/Haas Hall Academy","Fayetteville, AR/Haas Hall Academy","Fayetteville, AR/Haas Hall Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens rowing,notre_dame
-0,mccracken maddie,"Olathe, Kan./Olathe North","Olathe, Kan./Olathe North","Olathe, Kan./Olathe North",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-1,genz sarah,"Lakeville, Minn./Homeschooled (Lakeville North)","Lakeville, Minn./Homeschooled (Lakeville North)","Lakeville, Minn./Homeschooled (Lakeville North)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-2,heide madison,"Belton, Mo./Notre Dame de Sion","Belton, Mo./Notre Dame de Sion","Belton, Mo./Notre Dame de Sion",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-3,richards ellie,"Pendleton, Ore./Pendleton","Pendleton, Ore./Pendleton","Pendleton, Ore./Pendleton",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-4,purcell chelsea,"La Habra, Calif./Sonora","La Habra, Calif./Sonora","La Habra, Calif./Sonora",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-5,brooks cait,"Burbank, Calif./Burbank","Burbank, Calif./Burbank","Burbank, Calif./Burbank",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-6,bigler bailey,"Newtown, Pa./Council Rock North","Newtown, Pa./Council Rock North","Newtown, Pa./Council Rock North",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-7,reed morgan,"Maylene, Ala./Briarwood Christian","Maylene, Ala./Briarwood Christian","Maylene, Ala./Briarwood Christian",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-8,white sara,"San Diego, Calif./Rancho Bernardo","San Diego, Calif./Rancho Bernardo","San Diego, Calif./Rancho Bernardo",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-9,wester riley,"Huntington Beach, Calif./Edison","Huntington Beach, Calif./Edison","Huntington Beach, Calif./Edison",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-10,holloway alexis,"Crown Point, Ind./Crown Point","Crown Point, Ind./Crown Point","Crown Point, Ind./Crown Point",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-11,sweet abby,"Newhall, Calif./Hart","Newhall, Calif./Hart","Newhall, Calif./Hart",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-12,marino katie,"Warren, N.J./The Pingry School","Warren, N.J./The Pingry School","Warren, N.J./The Pingry School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-13,bonamy mk,"Hoover, Ala./Spain Park","Hoover, Ala./Spain Park","Hoover, Ala./Spain Park",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-14,beriont katie,"Colts Neck, N.J./St. John Vianney","Colts Neck, N.J./St. John Vianney","Colts Neck, N.J./St. John Vianney",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-15,ryan morgan,"Greensburg, Pa./Hempfield","Greensburg, Pa./Hempfield","Greensburg, Pa./Hempfield",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-16,wester ali,"Huntington Beach, Calif./Edison","Huntington Beach, Calif./Edison","Huntington Beach, Calif./Edison",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-17,bazos alexis,"Pound Ridge, N.Y./Fox Lane","Pound Ridge, N.Y./Fox Lane","Pound Ridge, N.Y./Fox Lane",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-18,rochford melissa,"Irvine, Calif./Mater Dei","Irvine, Calif./Mater Dei","Irvine, Calif./Mater Dei",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,softball,notre_dame
-0,byrne kelly,"Manhattan Beach, CA/Marymount","Manhattan Beach, CA/Marymount","Manhattan Beach, CA/Marymount",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-1,nunez zoe,"Rockford, IL/Keith Country Day School","Rockford, IL/Keith Country Day School","Rockford, IL/Keith Country Day School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-2,bent sydney,"Miami Shores, FL/Ransom Everglades School","Miami Shores, FL/Ransom Everglades School","Miami Shores, FL/Ransom Everglades School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-3,dejarld ryann,"Chicago, IL/Mother McAuley","Chicago, IL/Mother McAuley","Chicago, IL/Mother McAuley",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-4,niego charley,"Chicago, IL/Mother McAuley","Chicago, IL/Mother McAuley","Chicago, IL/Mother McAuley",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-5,wenzel lauren,"Bloomfield Hills, MI/Marian","Bloomfield Hills, MI/Marian","Bloomfield Hills, MI/Marian",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-6,olsen monroe,"Valparaiso, IN/Valparaiso","Valparaiso, IN/Valparaiso","Valparaiso, IN/Valparaiso",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-7,nunge rebecca,"Newburgh, IN/Castle","Newburgh, IN/Castle","Newburgh, IN/Castle",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-8,woodard lauren,"San Diego, CA/Cathedral Catholic","San Diego, CA/Cathedral Catholic","San Diego, CA/Cathedral Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-9,yeadon jemma,"Mercer Island, WA/Mercer Island","Mercer Island, WA/Mercer Island","Mercer Island, WA/Mercer Island",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-10,thompson hannah,"Albuquerque, NM/Cibola","Albuquerque, NM/Cibola","Albuquerque, NM/Cibola",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-11,morningstar meg,"Wexford, PA/North Allegheny","Wexford, PA/North Allegheny","Wexford, PA/North Allegheny",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-12,baer kristin,"San Jose, CA/St. Francis","San Jose, CA/St. Francis","San Jose, CA/St. Francis",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-13,cottrill emma,"Wexford, PA/Pine Richland","Wexford, PA/Pine Richland","Wexford, PA/Pine Richland",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-14,truett halle,"Elmhurst, IL/York","Elmhurst, IL/York","Elmhurst, IL/York",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-15,cruzado madison,"Elyria, OH/Elyria","Elyria, OH/Elyria","Elyria, OH/Elyria",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens volleyball,notre_dame
-0,aguilar christian,"Medford, NJ/Moorestown Friends School","Medford, NJ/Moorestown Friends School","Medford, NJ/Moorestown Friends School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-1,antekeier aidan,"Columbus, Ga./Mirabeau B. Lamar Senior (TX)","Columbus, Ga./Mirabeau B. Lamar Senior (TX)","Columbus, Ga./Mirabeau B. Lamar Senior (TX)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-2,antipas michael,"Stony Brook, NY/Ward Melville","Stony Brook, NY/Ward Melville","Stony Brook, NY/Ward Melville",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-3,brown david,"Gainesville, FL/Eastside","Gainesville, FL/Eastside","Gainesville, FL/Eastside",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-4,burke rory,"Andover, MA/St. John's Prep","Andover, MA/St. John's Prep","Andover, MA/St. John's Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-5,campbell colin,"Washington, D.C./Bullis School","Washington, D.C./Bullis School","Washington, D.C./Bullis School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-6,cepak paul,"Morris Plains, NJ/Parsippany Hills","Morris Plains, NJ/Parsippany Hills","Morris Plains, NJ/Parsippany Hills",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-7,cheng zachary,"Bloomington, Ill./Normal Community","Bloomington, Ill./Normal Community","Bloomington, Ill./Normal Community",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-8,croitoru ari,"Golden Beach, Fla./Scheck Hillel Community Day","Golden Beach, Fla./Scheck Hillel Community Day","Golden Beach, Fla./Scheck Hillel Community Day",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-9,emge spicer,"Los Angeles, CA/Campbell Hall Episcopal","Los Angeles, CA/Campbell Hall Episcopal","Los Angeles, CA/Campbell Hall Episcopal",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-10,ewart stephen,"Lancaster, Calif./Paraclete","Lancaster, Calif./Paraclete","Lancaster, Calif./Paraclete",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-11,felt steffen,"Redmond, WA/Interlake","Redmond, WA/Interlake","Redmond, WA/Interlake",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-12,fitzgerald jonathan,"East Brunswick, NJ/East Brunswick","East Brunswick, NJ/East Brunswick","East Brunswick, NJ/East Brunswick",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-13,french dylan,"Richmond, British Columbia/Magee Secondary","Richmond, British Columbia/Magee Secondary","Richmond, British Columbia/Magee Secondary",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-14,gou jarred,"Saratoga, Calif./Saratoga","Saratoga, Calif./Saratoga","Saratoga, Calif./Saratoga",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-15,hanahan nicholas,"Indianapolis, IN/Cathedral","Indianapolis, IN/Cathedral","Indianapolis, IN/Cathedral",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-16,itkin nick,"Los Angeles, Calif./Palisades Charter","Los Angeles, Calif./Palisades Charter","Los Angeles, Calif./Palisades Charter",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-17,ju alexander,"Berkeley Heights, N.J./Governor Livingston","Berkeley Heights, N.J./Governor Livingston","Berkeley Heights, N.J./Governor Livingston",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-18,khazbak hazem,"Lexington, KY/Paul Laurence Dunbar","Lexington, KY/Paul Laurence Dunbar","Lexington, KY/Paul Laurence Dunbar",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-19,kiefer axel,"Lexington, KY/Paul Laurence Dunbar","Lexington, KY/Paul Laurence Dunbar","Lexington, KY/Paul Laurence Dunbar",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-20,mallette cole,"Keizer, OR/South Salem","Keizer, OR/South Salem","Keizer, OR/South Salem",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-21,marino joseph,"Rockville Centre, N.Y./South Side","Rockville Centre, N.Y./South Side","Rockville Centre, N.Y./South Side",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-22,murphy blake,"Atlanta, Ga./Pace Academy","Atlanta, Ga./Pace Academy","Atlanta, Ga./Pace Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-23,murray thomas,"Staten Island, N.Y./Staten Island Tech","Staten Island, N.Y./Staten Island Tech","Staten Island, N.Y./Staten Island Tech",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-24,panteleev arsenii,"Moscow, Russia/XXI Century Integration International Secondary Sc","Moscow, Russia/XXI Century Integration International Secondary Sc","Moscow, Russia/XXI Century Integration International Secondary Sc",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-25,rohan jack,"Stony Brook, N.Y./Ward Melville","Stony Brook, N.Y./Ward Melville","Stony Brook, N.Y./Ward Melville",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-26,scholl ben,"Portland, Ore./Woodrow Wilson","Portland, Ore./Woodrow Wilson","Portland, Ore./Woodrow Wilson",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-27,shainberg jonah,"Rye, NY/Rye","Rye, NY/Rye","Rye, NY/Rye",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-28,simmons ariel,"Bellaire, Texas/Carnegie Vanguard","Bellaire, Texas/Carnegie Vanguard","Bellaire, Texas/Carnegie Vanguard",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-29,sloan nicholas,"Lexington, Ky./Lafayette","Lexington, Ky./Lafayette","Lexington, Ky./Lafayette",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-30,tichacek matthew,"Spring Lake, N.J./High Technology","Spring Lake, N.J./High Technology","Spring Lake, N.J./High Technology",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-31,wong robert,"Chappaqua, N.Y./Horace Greeley","Chappaqua, N.Y./Horace Greeley","Chappaqua, N.Y./Horace Greeley",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-32,zeller zachary,"Las Vegas, Nev./Bishop Gorman","Las Vegas, Nev./Bishop Gorman","Las Vegas, Nev./Bishop Gorman",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens fencing,notre_dame
-0,barry julia,"Boulder, Colo./Boulder","Boulder, Colo./Boulder","Boulder, Colo./Boulder",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-1,boitano christina,"Portland, Ore./Jesuit","Portland, Ore./Jesuit","Portland, Ore./Jesuit",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-2,clarke katherine,"Grand Rapids, MI/Forrest Hills Northern","Grand Rapids, MI/Forrest Hills Northern","Grand Rapids, MI/Forrest Hills Northern",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-3,deschner stefani,"Versailles, Ky./George Washington U. OHS","Versailles, Ky./George Washington U. OHS","Versailles, Ky./George Washington U. OHS",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-4,disher natalie,"Milwaukee, OR/Alliance Charter Academy","Milwaukee, OR/Alliance Charter Academy","Milwaukee, OR/Alliance Charter Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-5,elizondo isabelle,"Cypress, Texas/Cypress Woods","Cypress, Texas/Cypress Woods","Cypress, Texas/Cypress Woods",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-6,fitzgerald reagan,"North Haven, CT/North Haven","North Haven, CT/North Haven","North Haven, CT/North Haven",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-7,gallagher madeline,"Larchmont, NY/Rye County Day School","Larchmont, NY/Rye County Day School","Larchmont, NY/Rye County Day School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-8,gorman nicole,"Granger, IN/John Adams","Granger, IN/John Adams","Granger, IN/John Adams",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-9,hassett tara,"Portland, OR/Aloha","Portland, OR/Aloha","Portland, OR/Aloha",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-10,hudson molly,"Houston, TX/Westchester Academy for International Studies","Houston, TX/Westchester Academy for International Studies","Houston, TX/Westchester Academy for International Studies",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-11,kleiner elyssa,"San Francisco, CA/The Urban School","San Francisco, CA/The Urban School","San Francisco, CA/The Urban School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-12,kulmacz claudia,"Upper Saddle River, NJ/Bergen County Academies","Upper Saddle River, NJ/Bergen County Academies","Upper Saddle River, NJ/Bergen County Academies",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-13,loh zoe,"Mississauga, Ontario, Canada/Woodlands High School","Mississauga, Ontario, Canada/Woodlands High School","Mississauga, Ontario, Canada/Woodlands High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-14,mageras finnula,"Darien, Conn./Darien","Darien, Conn./Darien","Darien, Conn./Darien",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-15,massialas sabrina,"San Francisco, CA/Drew","San Francisco, CA/Drew","San Francisco, CA/Drew",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-16,mone kellsey,"Winnetka, IL/New Trier","Winnetka, IL/New Trier","Winnetka, IL/New Trier",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-17,norville jamie,"Oregon City, OR/Gladstone","Oregon City, OR/Gladstone","Oregon City, OR/Gladstone",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-18,o'brien regina,"Wellesley, Mass./Wellesley","Wellesley, Mass./Wellesley","Wellesley, Mass./Wellesley",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-19,partridge morgan,"Swansea, Mass./Providence Country Day","Swansea, Mass./Providence Country Day","Swansea, Mass./Providence Country Day",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-20,roche marie-anne,"Paris, France/Ecole Active Jeannine Manuel","Paris, France/Ecole Active Jeannine Manuel","Paris, France/Ecole Active Jeannine Manuel",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-21,russo francesca,"Wayne, NJ/Wayne Valley","Wayne, NJ/Wayne Valley","Wayne, NJ/Wayne Valley",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-22,sirico amanda,"Bowie, MD/Alpha Omega Academy","Bowie, MD/Alpha Omega Academy","Bowie, MD/Alpha Omega Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-23,summers mari,"Tigard, Ore./Tigard","Tigard, Ore./Tigard","Tigard, Ore./Tigard",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-24,tatarian alexandra,"Manhasset, N.Y./Manhasset","Manhasset, N.Y./Manhasset","Manhasset, N.Y./Manhasset",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-25,tsai erica,"Salt Lake City, Utah/American International School","Salt Lake City, Utah/American International School","Salt Lake City, Utah/American International School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-26,verrecchia beatrice,"Florence, Italy/Culver Girls Academy (Ind.)","Florence, Italy/Culver Girls Academy (Ind.)","Florence, Italy/Culver Girls Academy (Ind.)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-27,viqueira samantha,"Maplewood, N.J./Columbia","Maplewood, N.J./Columbia","Maplewood, N.J./Columbia",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-28,wallace katherine,"New York, N.Y./NEST+m","New York, N.Y./NEST+m","New York, N.Y./NEST+m",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-29,ward reghan,"Fort Worth, Texas/A Beka Academy","Fort Worth, Texas/A Beka Academy","Fort Worth, Texas/A Beka Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-30,yefremenko dasha,"Manalapan, N.J./Manalapan","Manalapan, N.J./Manalapan","Manalapan, N.J./Manalapan",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens fencing,notre_dame
-0,st. cyr dylan,"Northville, Michigan",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-1,bretzman tony,"Mendota Heights, Minnesota",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-2,gross jordan,"Maple Grove, Minnesota",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-3,gilbert dennis,"Buffalo, New York",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-4,hellickson matt,"Rogers, Minnesota",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-5,dello tory,"Crystal Lake, Illinois",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-6,steeves matt,"Bedford, New Hampshire",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-7,cook dawson,"Cadillac, Michigan",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-8,burke cal,"Boxborough, Massachusetts",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-9,holmberg felix,"Stockholm, Sweden",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-10,theisen colin,"Monroe, Michigan",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-11,eisenmenger max,"Münster, Germany",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-12,oglevie andrew,"Fullerton, California",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-13,crawford pierce,"Park Ridge, Illinois",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-14,evans jake,"Toronto, Ontario",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-15,o'leary mike,"Halifax, Nova Scotia",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-16,wade justin,"Aurora, Illinois",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-17,wegwerth joe,"Brewster, New York",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-18,peeke andrew,"Parkland, Florida",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-19,novak luke,"Waukesha, Wisconsin",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-20,ripley luke,"Kitimat, British Columbia",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-21,malmquist dylan,"Edina, Minnesota",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-22,morrison cam,"Aurora, Ontario",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-23,nardella bobby,"Rosemont, Illinois",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-24,jenkins jack,"Lake Bluff, Illinois",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-25,brauer bo,"Edina, Minnesota",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-26,morris cale,"Larkspur, Colorado",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-27,sanford nick,"Morristown, New Jersey",N/A,N/A,Last Name,Hometown,N/A,N/A,mens hockey,notre_dame
-0,morin connor,"Bernardsville, NJ/Morristown-Beard","Bernardsville, NJ/Morristown-Beard","Bernardsville, NJ/Morristown-Beard",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-1,chase stephen,"Tallahassee, FL/Maclay School","Tallahassee, FL/Maclay School","Tallahassee, FL/Maclay School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-2,mcnamara thomas,"Villanova, PA/The Haverford School","Villanova, PA/The Haverford School","Villanova, PA/The Haverford School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-3,gaiss austin,"North Andover, MA/Phillips Academy","North Andover, MA/Phillips Academy","North Andover, MA/Phillips Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-4,"travisano, jr. john","Ellicott City, MD/Howard","Ellicott City, MD/Howard","Ellicott City, MD/Howard",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-5,drake mikey,"Wilmington, DE/Salesianum School","Wilmington, DE/Salesianum School","Wilmington, DE/Salesianum School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-6,restic eric,"Lake Oswego, OR/Jesuit","Lake Oswego, OR/Jesuit","Lake Oswego, OR/Jesuit",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-7,menke auden,"Sandy, UT/New Hampton School","Sandy, UT/New Hampton School","Sandy, UT/New Hampton School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-8,gleason brendan,"Essex, VT/Essex","Essex, VT/Essex","Essex, VT/Essex",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-9,kielty jack,"Morristown, NJ/Delbarton School","Morristown, NJ/Delbarton School","Morristown, NJ/Delbarton School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-10,milikin carlson,"Richmond, VA/Woodberry Forest School","Richmond, VA/Woodberry Forest School","Richmond, VA/Woodberry Forest School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-11,stinn nick,"San Francisco, CA/St. Ignatius College Prep","San Francisco, CA/St. Ignatius College Prep","San Francisco, CA/St. Ignatius College Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-12,marchese michael,"Haddonfield, NJ/St. Joe's Prep","Haddonfield, NJ/St. Joe's Prep","Haddonfield, NJ/St. Joe's Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-13,beare jack,"Dallas, TX/Episcopal School of Dallas/Phillips Academy","Dallas, TX/Episcopal School of Dallas/Phillips Academy","Dallas, TX/Episcopal School of Dallas/Phillips Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-14,walter jordan,"Cold Spring Harbor, NY/Cold Spring Harbor","Cold Spring Harbor, NY/Cold Spring Harbor","Cold Spring Harbor, NY/Cold Spring Harbor",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-15,frane jacob,"Highlands Ranch, CO/Mountain Vista","Highlands Ranch, CO/Mountain Vista","Highlands Ranch, CO/Mountain Vista",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-16,olinger mitch,"Alamo, CA/De La Salle","Alamo, CA/De La Salle","Alamo, CA/De La Salle",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-17,willetts brian,"Saint James, NY/Smithtown East","Saint James, NY/Smithtown East","Saint James, NY/Smithtown East",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-18,zullo john,"Rockville Centre, NY/Chaminade","Rockville Centre, NY/Chaminade","Rockville Centre, NY/Chaminade",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-19,schantz drew,"Allentown, PA/Malvern Prep","Allentown, PA/Malvern Prep","Allentown, PA/Malvern Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-20,hyland kyle,"Hinsdale, IL/Hinsdale Central","Hinsdale, IL/Hinsdale Central","Hinsdale, IL/Hinsdale Central",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-21,hadley patrick,"Hopkinton, NH/Deerfield Academy","Hopkinton, NH/Deerfield Academy","Hopkinton, NH/Deerfield Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-22,phillips timmy,"Alexandria, VA/Episcopal","Alexandria, VA/Episcopal","Alexandria, VA/Episcopal",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-23,wynne mikey,"Sykesville, MD/St. Paul's","Sykesville, MD/St. Paul's","Sykesville, MD/St. Paul's",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-24,mirer morrison,"San Diego, CA/Cathedral Catholic","San Diego, CA/Cathedral Catholic","San Diego, CA/Cathedral Catholic",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-25,costabile bryan,"Sykesville, MD/Mount Saint Joseph","Sykesville, MD/Mount Saint Joseph","Sykesville, MD/Mount Saint Joseph",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-26,hallenbeck john,"Indianapolis, IN/Culver Military Academy","Indianapolis, IN/Culver Military Academy","Indianapolis, IN/Culver Military Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-27,trense charlie,"Atlanta, GA/The Westminster Schools","Atlanta, GA/The Westminster Schools","Atlanta, GA/The Westminster Schools",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-28,blommer matthew,"Radnor, PA/Episcopal Academy","Radnor, PA/Episcopal Academy","Radnor, PA/Episcopal Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-29,crance hugh,"Newport Beach, CA/Corona del Mar","Newport Beach, CA/Corona del Mar","Newport Beach, CA/Corona del Mar",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-30,cassidy daniel,"Royersford, PA/Spring-Ford","Royersford, PA/Spring-Ford","Royersford, PA/Spring-Ford",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-31,kanak jacob,"Marshall, WI/Culver Military Academy","Marshall, WI/Culver Military Academy","Marshall, WI/Culver Military Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-32,byrne pierre,"South Bend, IN/Culver Military Academy","South Bend, IN/Culver Military Academy","South Bend, IN/Culver Military Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-33,farnish michael,"Villanova, PA/Radnor","Villanova, PA/Radnor","Villanova, PA/Radnor",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-34,littlefield james,"South Hamilton, MA/Hamilton-Wenham","South Hamilton, MA/Hamilton-Wenham","South Hamilton, MA/Hamilton-Wenham",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-35,cohen arden,"New York, NY/Darien","New York, NY/Darien","New York, NY/Darien",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-36,komatz keaton,"Littleton, CO/Heritage","Littleton, CO/Heritage","Littleton, CO/Heritage",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-37,gayhardt peter,"Bryn Mawr, PA/St. Joseph's Prep","Bryn Mawr, PA/St. Joseph's Prep","Bryn Mawr, PA/St. Joseph's Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-38,allen davis,"Pelham, NY/Pelham Memorial","Pelham, NY/Pelham Memorial","Pelham, NY/Pelham Memorial",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-39,schmidt matt,"Columbus, OH/Culver Military Academy","Columbus, OH/Culver Military Academy","Columbus, OH/Culver Military Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-40,young william,"New York, NY/Phillips Academy (MA)","New York, NY/Phillips Academy (MA)","New York, NY/Phillips Academy (MA)",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-41,fay michael,"Malvern, PA/Malvern Prep/Lawrenceville","Malvern, PA/Malvern Prep/Lawrenceville","Malvern, PA/Malvern Prep/Lawrenceville",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-42,tyrrell brooks,"Marblehead, MA/Marblehead","Marblehead, MA/Marblehead","Marblehead, MA/Marblehead",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-43,sexton john,"Sudbury, MA/Lincoln-Sudbury","Sudbury, MA/Lincoln-Sudbury","Sudbury, MA/Lincoln-Sudbury",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-44,leonard charles,"Highlands Ranch, CO/Arapahoe","Highlands Ranch, CO/Arapahoe","Highlands Ranch, CO/Arapahoe",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-45,langdon michael,"Bloomfield Hills, MI/Cranbrook Kingswood","Bloomfield Hills, MI/Cranbrook Kingswood","Bloomfield Hills, MI/Cranbrook Kingswood",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-46,cochran carson,"Bloomfield Hills, MI/Brother Rice","Bloomfield Hills, MI/Brother Rice","Bloomfield Hills, MI/Brother Rice",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-47,garnsey ryder,"Wolfeboro, NH/Phillips Academy/Brewster Academy","Wolfeboro, NH/Phillips Academy/Brewster Academy","Wolfeboro, NH/Phillips Academy/Brewster Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-48,collins brendan,"Bethesda, MD/Georgetown Prep","Bethesda, MD/Georgetown Prep","Bethesda, MD/Georgetown Prep",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-49,hurdle alex,"Cockeysville, MD/McDonogh","Cockeysville, MD/McDonogh","Cockeysville, MD/McDonogh",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-50,ruhl tyler,"Baltimore, MD/Gilman","Baltimore, MD/Gilman","Baltimore, MD/Gilman",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-51,molloy owen,"Basking Ridge, NJ/Ridge","Basking Ridge, NJ/Ridge","Basking Ridge, NJ/Ridge",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-52,jackoboice wheaton,"Kansas City, MO/Culver Military Academy","Kansas City, MO/Culver Military Academy","Kansas City, MO/Culver Military Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-53,gallant griffin,"Indianapolis, IN/Cathedral","Indianapolis, IN/Cathedral","Indianapolis, IN/Cathedral",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,mens lacrosse,notre_dame
-0,aldave andie,"Catonsville, Md./McDonogh School","Catonsville, Md./McDonogh School","Catonsville, Md./McDonogh School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-1,anderson sydney,"Durham, N.C./Cardinal Gibbons","Durham, N.C./Cardinal Gibbons","Durham, N.C./Cardinal Gibbons",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-2,biagini cece,"Chevy Chase, Md./Georgetown Visitation","Chevy Chase, Md./Georgetown Visitation","Chevy Chase, Md./Georgetown Visitation",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-3,buchanan savannah,"Baltimore, Md./McDonogh School","Baltimore, Md./McDonogh School","Baltimore, Md./McDonogh School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-4,carr maddie,"Rockville, Md./Stone Ridge School of the Sacred Heart","Rockville, Md./Stone Ridge School of the Sacred Heart","Rockville, Md./Stone Ridge School of the Sacred Heart",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-5,carr mollie,"Rockville, Md./Stone Ridge School of the Sacred Heart","Rockville, Md./Stone Ridge School of the Sacred Heart","Rockville, Md./Stone Ridge School of the Sacred Heart",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-6,casadonte jenn,"Dix Hills, N.Y./Half Hollow Hills","Dix Hills, N.Y./Half Hollow Hills","Dix Hills, N.Y./Half Hollow Hills",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-7,deehan bridget,"Milton, Ga./Milton High School","Milton, Ga./Milton High School","Milton, Ga./Milton High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-8,doherty lizzy,"Chatham, N.J./Oak Knoll School","Chatham, N.J./Oak Knoll School","Chatham, N.J./Oak Knoll School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-9,donnelly kelly,"Indianapolis, Ind./Cathedral","Indianapolis, Ind./Cathedral","Indianapolis, Ind./Cathedral",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-10,dorney hannah,"Port Jefferson Station, N.Y./Comsewogue HS","Port Jefferson Station, N.Y./Comsewogue HS","Port Jefferson Station, N.Y./Comsewogue HS",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-11,enrietto katie,"Winnetka, Ill./Loyola Academy","Winnetka, Ill./Loyola Academy","Winnetka, Ill./Loyola Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-12,field cailin,"Moorestown, N.J./Moorestown HS","Moorestown, N.J./Moorestown HS","Moorestown, N.J./Moorestown HS",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-13,flynn sydney,"Louisville, Ky./Sacred Heart Academy","Louisville, Ky./Sacred Heart Academy","Louisville, Ky./Sacred Heart Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-14,ford cassie,"Summit, N.J./Oak Knoll","Summit, N.J./Oak Knoll","Summit, N.J./Oak Knoll",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-15,giacolone samantha,"Manorville, N.Y./Eastville South Manor","Manorville, N.Y./Eastville South Manor","Manorville, N.Y./Eastville South Manor",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-16,hagan molly,"Pasadena, Calif./St. Monica Academy","Pasadena, Calif./St. Monica Academy","Pasadena, Calif./St. Monica Academy",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-17,howe maddie,"Fairport, N.Y./Fairport High School","Fairport, N.Y./Fairport High School","Fairport, N.Y./Fairport High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-18,jacobsen olivia,"Sammamish, Wash./Eastside Catholic High School","Sammamish, Wash./Eastside Catholic High School","Sammamish, Wash./Eastside Catholic High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-19,kelly diana,"Chatham, N.J./Oak Knoll School","Chatham, N.J./Oak Knoll School","Chatham, N.J./Oak Knoll School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-20,lynch samantha,"Huntington, N.Y./Huntington","Huntington, N.Y./Huntington","Huntington, N.Y./Huntington",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-21,masinko jessi,"Roswell, Ga./Milton","Roswell, Ga./Milton","Roswell, Ga./Milton",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-22,massimino nicole,"Villanova, Pa./Radnor High School","Villanova, Pa./Radnor High School","Villanova, Pa./Radnor High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-23,mcbride erin,"Marietta, Ga./George Walton Comprehensive","Marietta, Ga./George Walton Comprehensive","Marietta, Ga./George Walton Comprehensive",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-24,messier kaci,"Victor, N.Y./Victor High School","Victor, N.Y./Victor High School","Victor, N.Y./Victor High School",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-25,mote madison,"Alexandria, Va./Bishop Ireton HS","Alexandria, Va./Bishop Ireton HS","Alexandria, Va./Bishop Ireton HS",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-26,ortega nikki,"Centereach, N.Y./Centereach","Centereach, N.Y./Centereach","Centereach, N.Y./Centereach",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-27,pearsall makenna,"Wilton, Conn./Wilton","Wilton, Conn./Wilton","Wilton, Conn./Wilton",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-28,proctor hannah,"Radnor, Pa./Radnor","Radnor, Pa./Radnor","Radnor, Pa./Radnor",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-29,roe kathleen,"Denver, Colo./Regis Jesuit","Denver, Colo./Regis Jesuit","Denver, Colo./Regis Jesuit",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-30,schultz haley,"Burnt Hills, N.Y./Ballston Lake","Burnt Hills, N.Y./Ballston Lake","Burnt Hills, N.Y./Ballston Lake",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-31,scutaro kirsten,"Mount Sinai, N.Y./Mount Sinai HS","Mount Sinai, N.Y./Mount Sinai HS","Mount Sinai, N.Y./Mount Sinai HS",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-32,scutaro meaghan,"Mount Sinai, N.Y./Mount Sinai HS","Mount Sinai, N.Y./Mount Sinai HS","Mount Sinai, N.Y./Mount Sinai HS",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
-33,steffens grace,"Chestertown, Md./Queen Anne's County","Chestertown, Md./Queen Anne's County","Chestertown, Md./Queen Anne's County",Last Name,Hometown/High School,Hometown/High School,Hometown/High School,womens lacrosse,notre_dame
+,name,hometown,high school?,sport,college
+0,Rex Pflueger,"Dana Point, CA",Mater Dei,mens basketball,notre_dame
+1,Prentiss Hubb,"Upper Marlboro, MD",Gonzaga,mens basketball,notre_dame
+2,D.J. Harvey,"Bowie, MD",DeMatha,mens basketball,notre_dame
+3,Temple 'T.J.' Gibbs,"Scotch Plains, NJ",Seton Hall Prep,mens basketball,notre_dame
+4,Juwan Durham,"Tampa, FL",Tampa Prep,mens basketball,notre_dame
+5,Elijah Burns,"Troy, NY",Blair Academy (N.J.,mens basketball,notre_dame
+6,Nikola Djogo,"Hamilton, Ontario",Athlete Institute Prep,mens basketball,notre_dame
+7,Nate Laszewski,"Jupiter, FL",Northfield Mount Herman (MA,mens basketball,notre_dame
+8,Chris Doherty,"Marlborough, MA",Marlborough,mens basketball,notre_dame
+9,Dane Goodwin,"Upper Arlington, OH",Upper Arlington,mens basketball,notre_dame
+10,Robby Carmody,"Mars, PA",Mars Area,mens basketball,notre_dame
+11,Liam Nelligan,"La Grange Park, IL",Benet Academy,mens basketball,notre_dame
+12,John Mooney,"Orlando, FL",Lake Brantley,mens basketball,notre_dame
+13,Jordan Nixon,"New York City, N.Y.",Mary Louis Academy,womens basketball,notre_dame
+14,Kaitlin Cole,"Toledo, Ohio",Sylvania Northview,womens basketball,notre_dame
+15,Marina Mabrey,"Belmar, N.J.",Manasquan,womens basketball,notre_dame
+16,Jackie Young,"Princeton, Ind.",Princeton Community,womens basketball,notre_dame
+17,Katlyn Gilbert,"Indianapolis, Ind.",Heritage Christian,womens basketball,notre_dame
+18,Brianna Turner,"Pearland, Texas",Manvel,womens basketball,notre_dame
+19,Abby Prohaska,"Liberty Township, Ohio",Lakota West,womens basketball,notre_dame
+20,Danielle Cosgrove,"Holbrook, N.Y.",Sachem East,womens basketball,notre_dame
+21,Arike Ogunbowale,"Milwaukee, Wis.",Divine Savior Holy Angels,womens basketball,notre_dame
+22,Mikayla Vaughn,"Philadelphia, Penn",Paul VI,womens basketball,notre_dame
+23,Jessica Shepard,"Fremont, Neb.",Fremont,womens basketball,notre_dame
+24,Danielle Patterson,"Brooklyn, N.Y.",The Mary Louis Academy,womens basketball,notre_dame
+25,Maureen Butler,"Livonia, Mich.",Dearborn Divine Child,womens basketball,notre_dame
+26,Ryan Cole,"San Ramon, CA",De La Salle,baseball,notre_dame
+27,Spencer Myers,"Tampa, FL",Berkeley Prep,baseball,notre_dame
+28,David LaManna,"Saddle River, NJ",Bergen Catholic,baseball,notre_dame
+29,Bryce Gray,"Flossmoor, IL",Homewood-Flossmoor,baseball,notre_dame
+30,Jake Singer,"San Diego, CA",Torrey Pines,baseball,notre_dame
+31,Tommy Vail,"Seattle, WA",Bishop Blanchet,baseball,notre_dame
+32,Niko Kavadas,"Granger, IN",Penn,baseball,notre_dame
+33,John Arndorfer,"Lake Oswego, OR",Jesuit,baseball,notre_dame
+34,Eric Gilgenbach,"Rochester Hills, MI",Stoney Creek,baseball,notre_dame
+35,Jared Miller,"Marietta, GA",Pope,baseball,notre_dame
+36,Eric Feliz,"Englewood Cliffs, NJ","IMG Academy (Bradenton, FL",baseball,notre_dame
+37,Anthony Holubecki,"Elburn, IL",IMG Academy (Fla.,baseball,notre_dame
+38,Zack Martin,"Plainfield, IL",Plainfield North,baseball,notre_dame
+39,Jack Sheehan,"Brielle, NJ",Manasquan,baseball,notre_dame
+40,Cameron Brown,"Lakewood, CO",D'Evelyn,baseball,notre_dame
+41,Brian Morrell,"Shoreham, NY",Shoreham-Wading River,baseball,notre_dame
+42,Daniel Jung,"La Mirada, CA",La Mirada,baseball,notre_dame
+43,Cameron Junker,"Cincinnati, OH",Moeller,baseball,notre_dame
+44,Cole Kmet,"Lake Barrington, IL",St. Viator,baseball,notre_dame
+45,Zachary Dreznin,"Saddle River, NJ",Northern Highlands Regional,baseball,notre_dame
+46,Patrick McDonald,"Marietta, GA",Woodberry Forest,baseball,notre_dame
+47,Tommy Sheehan,"Brielle, NJ",Manasquan,baseball,notre_dame
+48,Andrew Belcik,"Oldsmar, FL",East Lake,baseball,notre_dame
+49,Joe Boyle,"Goshen, KY",North Oldham,baseball,notre_dame
+50,Shane Combs,"Wellesley, MA",St. John's High School,baseball,notre_dame
+51,Jack Alexander,"Loch Loyd, MO",Mount Paran Christian School,baseball,notre_dame
+52,Ryan Carr,"Saddle River, N.J.",Don Bosco Prep,baseball,notre_dame
+53,Michiel Coetzee,"Mahomet, Ill.",Mahomet-Seymour HS,baseball,notre_dame
+54,Ethan Copeland,"Cedar Rapids, Iowa",Prairie HS,baseball,notre_dame
+55,Michael Feliz,"Englewood Cliffs, NJ",IMG Academy (Fla.,baseball,notre_dame
+56,Henry Gladson,"Chesterfield, Mo.",Chaminade HS,baseball,notre_dame
+57,Zach Mazur,"West Palm Beach, Fla.",Oxbridge Academy of the Palm Beaches,baseball,notre_dame
+58,Mitch Megias,"Gahanna, Ohio",Gahanna Lincoln HS,baseball,notre_dame
+59,Will Mercer,"Houston, Texas",Strake Jesuit College Prep,baseball,notre_dame
+60,Zack Prajzner,"Carlsbad, Calif.",San Marcos HS,baseball,notre_dame
+61,Carter Putz,"Belton, Mo.",Bishop Miege HS,baseball,notre_dame
+62,Alex Rao,"Hope Sound, Fla.",Oxbridge Academy,baseball,notre_dame
+63,Evan Tenuta,"Orland Park, Ill.",Carl Sandburg HS,baseball,notre_dame
+64,Aidan Tyrell,"Joliet, Ill.",Joliet Catholic Academy,baseball,notre_dame
+65,Jack Zyska,"Berkeley Heights, N.J.",Seton Hall Prep,baseball,notre_dame
+66,Jordan Genmark Heath,"San Diego, CA",Cathedral Catholic,football,notre_dame
+67,Dexter Williams,"Orlando, FL",West Orange,football,notre_dame
+68,Avery Davis,"Cedar Hill, TX",Cedar Hill,football,notre_dame
+69,Houston Griffith,"Chicago, IL",IMG Academy (FL),football,notre_dame
+70,Kevin Austin Jr.,"Ft. Lauderdale, FL",North Broward Prep,football,notre_dame
+71,Te'von Coney,"Palm Beach Gardens, FL",Palm Beach Gardens,football,notre_dame
+72,Troy Pride Jr.,"Greer, SC",Greer Senior,football,notre_dame
+73,Tony Jones Jr.,"St. Petersburg, FL",IMG Academy,football,notre_dame
+74,Derrik Allen,"Marietta, GA",Lassiter,football,notre_dame
+75,Brandon Wimbush,"Teaneck, NJ",St. Peter's Prep,football,notre_dame
+76,Jafar Armstrong,"Lee's Summit, MO",Bishop Miege,football,notre_dame
+77,Donte Vaughn,"Memphis, TN",Whitehaven,football,notre_dame
+78,Daelin Hayes,"Belleville, MI",Skyline,football,notre_dame
+79,Chris Finke,"Dayton, OH",Archbishop Alter,football,notre_dame
+80,Alohi Gilman,"Laie, HI",Kahuku,football,notre_dame
+81,Ian Book,"El Dorado Hills, CA",Oak Ridge,football,notre_dame
+82,DJ Brown,"Annapolis, MD",St. John's College,football,notre_dame
+83,Lawrence Keys III,"New Orleans, LA",McDonogh 35,football,notre_dame
+84,Paul Moala,"Mishawaka, IN",Penn,football,notre_dame
+85,J.D. Carney,"San Diego, CA",Cathedral Catholic,football,notre_dame
+86,Devin Studstill,"Riviera Beach, FL",Palm Beach Gardens,football,notre_dame
+87,Phil Jurkovec,"Pittsburgh, PA",Pine-Richland,football,notre_dame
+88,D.J. Morgan,"Norwalk, CA",Saint John Bosco,football,notre_dame
+89,Noah Boykin,"Washington, DC",Howard D. Woodson,football,notre_dame
+90,Cameron Ekanayake,"Niles, MI",Edwardsburg,football,notre_dame
+91,Nolan Henry,"Vancouver, WA",Union,football,notre_dame
+92,Isaiah Robertson,"Bolingbrook, IL",Neuqua Valley,football,notre_dame
+93,Joe Wilkins,"North Fort Myers, FL",North Fort Myers,football,notre_dame
+94,Justin Ademilola,"Jackson, NJ",St. Peter's Prep,football,notre_dame
+95,Justin Yoon,"Nashville, TN",Milton Academy (MA,football,notre_dame
+96,Shaun Crawford,"Lakewood, OH",St. Edward,football,notre_dame
+97,C'Bo Flemister,"Williamson, GA",Pike County,football,notre_dame
+98,Jalen Elliott,"Richmond, VA",Lloyd C. Bird,football,notre_dame
+99,Asmar Bilal,"Indianapolis, IN",Ben Davis,football,notre_dame
+100,Drue Tranquill,"Fort Wayne, IN",Carroll,football,notre_dame
+101,Nick Coleman,"Dayton, OH",Archbishop Alter,football,notre_dame
+102,Tommy Tremble,"Johns Creek, GA",Wesleyan,football,notre_dame
+103,Braden Lenzy,"Tigard, OR",Tigard Senior,football,notre_dame
+104,John Mahoney,"West Des Moines, IA",Valley,football,notre_dame
+105,Temitope Agoro,"Riverdale, MD",Parkdale,football,notre_dame
+106,Leo Albano,"Charleston, SC",Bishop England,football,notre_dame
+107,Julian Love,"Westchester, IL",Nazareth,football,notre_dame
+108,Arion Shinaver,"Carmel, IN",Guerin Catholic,football,notre_dame
+109,Nicco Fertitta,"Las Vegas, NV",Bishop Gorman,football,notre_dame
+110,Ovie Oghoufo,"Lathrup Village, MI",Harrison,football,notre_dame
+111,Matt Salerno,"Valencia, CA",Crespi Carmelite,football,notre_dame
+112,Jeremiah Owusu-Koramoah,"Hampton, VA",Bethel,football,notre_dame
+113,Jake Rittman,"Lawrence, KS",Free State,football,notre_dame
+114,Cole Capen,"Yorba Linda, CA",Orange Lutheran,football,notre_dame
+115,Jack Lamb,"Temecula, CA",Great Oak,football,notre_dame
+116,Mick Assaf,"Atlanta, GA",Pace Academy,football,notre_dame
+117,Patrick Pelini,"Youngstown, OH",Cardinal Mooney,football,notre_dame
+118,Shayne Simon,"West Orange, NJ",St. Peter's Prep,football,notre_dame
+119,Keenan Sweeney,"Snellville, GA",Brookwood,football,notre_dame
+120,Jahmir Smith,"Sanford, NC",Lee County,football,notre_dame
+121,TaRiq Bracy,"Milpitas, CA",Milpitas,football,notre_dame
+122,Brian Ball,"Indianapolis, IN",Bishop Chatard,football,notre_dame
+123,Robert Regan,"Darien, IL",Hinsdale South,football,notre_dame
+124,Christopher Schilling,"Overland Park, KS",St. Thomas Aquinas,football,notre_dame
+125,Jonathan Doerer,"Charlotte, NC",South Mecklenburg,football,notre_dame
+126,Brandon Garcia,"Casa Grande, AZ",Seton Catholic Prep,football,notre_dame
+127,Drew White,"Boca Raton, FL",St. Thomas Aquinas,football,notre_dame
+128,Kurt Hinish,"Pittsburgh, PA",Central Catholic,football,notre_dame
+129,Julian Okwara,"Charlotte, NC",Ardrey-Kell,football,notre_dame
+130,Jeff Riney,"Katy, TX",Seven Lakes,football,notre_dame
+131,Greg Mailey,"Hudson, OH",Hudson,football,notre_dame
+132,Marcus Thorne,"Washington, IN",Washington,football,notre_dame
+133,Jamir Jones,"Rochester, NY",Aquinas Institute,football,notre_dame
+134,Jonathan Jones,"Ocoee, FL",Oak Ridge,football,notre_dame
+135,Matt Bushland,"Dallas, TX",John Paul II,football,notre_dame
+136,Jimmy Thompson,"Hinsdale, IL",Central,football,notre_dame
+137,Kofi Wardlow,"Washington, DC",St. John's College,football,notre_dame
+138,Xavier Lezynski,"Newtown, PA",Notre Dame (NJ),football,notre_dame
+139,Jack Henige,"Hinsdale, IL",Fenwick,football,notre_dame
+140,Brandon Hutson,"Battle Creek, MI",Harper Creek Community,football,notre_dame
+141,Devyn Spruell,"Warren, NJ",Watchung Hills,football,notre_dame
+142,Bo Bauer,"Harborcreek, PA",Cathedral Prep,football,notre_dame
+143,Khalid Kareem,"Detroit, MI",Harrison,football,notre_dame
+144,Sam Mustipher,"Owings Mills, MD",Good Counsel,football,notre_dame
+145,Lincoln Feist,"Rapid City, SD",St. Thomas More,football,notre_dame
+146,John Shannon,"Lake Forest, IL",Loyola Academy,football,notre_dame
+147,Jonathan Bonner,"Chesterfield, MO",Parkway Central,football,notre_dame
+148,Jarrett Patterson,"Laguna Hills, CA",Mission Viejo,football,notre_dame
+149,John Dirksen,"Maria Stein, OH",Marion Local,football,notre_dame
+150,Jayson Ademilola,"Jackson, NJ",St. Peter's Prep,football,notre_dame
+151,Trevor Ruhland,"Cary, IL",Cary-Grove Community,football,notre_dame
+152,Darnell Ewell,"Norfolk, VA",Lake Taylor,football,notre_dame
+153,Kier Murphy,"Rock Island, IL",Alleman,football,notre_dame
+154,Cole Mabry,"Brentwood, TN",Brentwood,football,notre_dame
+155,Colin Grunhard,"Mission, KS",Bishop Miege,football,notre_dame
+156,Logan Plantz,"Frankfort, IL",Providence Catholic,football,notre_dame
+157,Cody Benjamin,"Tampa, FL",Berkeley Prep,football,notre_dame
+158,Max Siegel,"Fishers, IN",Brebeuf Jesuit,football,notre_dame
+159,Michael Vinson,"Winnetka, IL",New Trier,football,notre_dame
+160,Aaron Banks,"Alameda, CA",El Cerrito,football,notre_dame
+161,Luke Jones,"Little Rock, AR",Pulaski Academy,football,notre_dame
+162,Alex Bars,"Nashville, TN",Montgomery Bell Academy,football,notre_dame
+163,Robert Hainsey,"Pittsburgh, PA",IMG Academy (FL),football,notre_dame
+164,Liam Eichenberg,"Cleveland, OH",Saint Ignatius,football,notre_dame
+165,Josh Lugg,"Wexford, PA",North Allegheny Senior,football,notre_dame
+166,Dillan Gibbons,"Clearwater, FL",Clearwater Central Catholic,football,notre_dame
+167,Tommy Kraemer,"Cincinnati, OH",Elder,football,notre_dame
+168,Micah Jones,"Gurnee, IL",Warren,football,notre_dame
+169,Miles Boykin,"Tinley Park, IL",Providence Catholic,football,notre_dame
+170,Nic Weishar,"Midlothian, IL",Marist,football,notre_dame
+171,Chase Claypool,"Abbotsford, BC",Abbotsford,football,notre_dame
+172,Cole Kmet,"Lake Barrington, IL",St. Viator,football,notre_dame
+173,Tyler Newsome,"Carrollton, GA",Carrollton,football,notre_dame
+174,George Takacs,"Naples, FL",Gulf Coast,football,notre_dame
+175,Alizé Mack,"Las Vegas, NV",Bishop Gorman,football,notre_dame
+176,Michael Young,"Saint Rose, LA",Destrehan,football,notre_dame
+177,Javon McKinley,"Corona, CA",Centennial,football,notre_dame
+178,Brock Wright,"Cypress, TX",Cy-Fair,football,notre_dame
+179,Adetokunbo Ogundeji,"West Bloomfield, MI",Walled Lake Central,football,notre_dame
+180,Myron Tagovailoa-Amosa,"Ewa Beach, HI",Kapole,football,notre_dame
+181,Micah Dew-Treadway,"Bolingbrook, IL",Bolingbrook,football,notre_dame
+182,Jamion Franklin,"Ridgely, MD",North Caroline,football,notre_dame
+183,Jerry Tillery,"Shreveport, LA",Evangel Christian Academy,football,notre_dame
+184,Ryan Krutz,"Norman, OK",Blue Valley North (KS,mens soccer,notre_dame
+185,Philip Quinton,"Portland, OR",Grant,mens soccer,notre_dame
+186,Spencer Farina,"Wilmette, IL",New Trier,mens soccer,notre_dame
+187,Brian Finn,"Basking Ridge, NJ",Delbarton School,mens soccer,notre_dame
+188,Felicien Dumas,"Tokyo, Japan","Paris, France",mens soccer,notre_dame
+189,Sean MacLeod,"Troon, Scotland",N/A,mens soccer,notre_dame
+190,Jack Casey,"Morristown, NJ",The Pingry School,mens soccer,notre_dame
+191,Nick Cullen,"Colorado Springs, CO",Pine Creek,mens soccer,notre_dame
+192,John Rea,"Tempe, AZ",Corona del Sol,mens soccer,notre_dame
+193,Blake Townes,"Canton, MI",Salem,mens soccer,notre_dame
+194,Sean Dedrick,"Wilton, CT",Wilton,mens soccer,notre_dame
+195,Bryan Silver,"Herndon, VA",Oakton,mens soccer,notre_dame
+196,Duncan Turnbull,"Geneva, IL",Geneva,mens soccer,notre_dame
+197,Simon Roennecke,"Pleasant Ridge, MI",The Roeper School,mens soccer,notre_dame
+198,Aiden McFadden,"West Chester, PA",Henderson,mens soccer,notre_dame
+199,Tommy McCabe,"South Orange, NJ",IMG Academy (FL,mens soccer,notre_dame
+200,Senan Farrelly,"Havertown, PA",The Haverford School,mens soccer,notre_dame
+201,Townsend Meyer,"San Diego, CA",Point Loma,mens soccer,notre_dame
+202,Keagan McLaughlin,"Zanesville, OH",Bishop Rosecrans,mens soccer,notre_dame
+203,Patrick Coleman,"Antioch, IL",N/A,mens soccer,notre_dame
+204,Thomas Ueland,"Lexington, KY",Henry Clay,mens soccer,notre_dame
+205,Ian Aschieris,"Solana Beach, CA",Torrey Pines,mens soccer,notre_dame
+206,Mitch MacDonald,"Troy, MI",Troy,mens soccer,notre_dame
+207,Paul Rothrock,"Seattle, WA",Lakeside School,mens soccer,notre_dame
+208,Patrick Berneski,"Warrington, PA",Central Bucks South,mens soccer,notre_dame
+209,Ben Giacobello,"San Clemente, CA",San Clemente,mens soccer,notre_dame
+210,Jack Lynn,"St. Louis, MO",N/A,mens soccer,notre_dame
+211,Tyler Shea,"Dallas, TX",N/A,mens soccer,notre_dame
+212,Mohamed Omar,"Toronto, ON",Berkshire School (MA,mens soccer,notre_dame
+213,Sam Guinane,"San Juan Capistrano, CA",JSerra Catholic,mens soccer,notre_dame
+214,Mattie Interian,"Pasadena, Calif.",Halstrom Academy,womens soccer,notre_dame
+215,Brooke Littman,"Rancho Palos Verdes, Calif.",Rancho Palos Verdes,womens soccer,notre_dame
+216,Jade Gosar,"Fort Collins, Colo.",Rocky Mountain High School,womens soccer,notre_dame
+217,Natalie Ward,"Newport Beach, Calif.",Newport Harbor,womens soccer,notre_dame
+218,Sammi Fisher,"Simi Valley, Calif.",Grace Brethren,womens soccer,notre_dame
+219,Alexis Martel-Lamothe,"Ottawa, Ontario, Canada",CollÃ¨ge Catholique Samuel-Genest,womens soccer,notre_dame
+220,Brooke VanDyck,N/A,N/A,womens soccer,notre_dame
+221,Karin Muya,"London, England",Burntwood School,womens soccer,notre_dame
+222,Sabrina Flores,"Livingston, N.J.",Livingston,womens soccer,notre_dame
+223,Olivia Wingate,"Wilmington, Mass.",Wilmington High School,womens soccer,notre_dame
+224,Jennifer Westendorf,"Grayson, Ga.",Grayson,womens soccer,notre_dame
+225,Shannon Hendricks,"Granger, Ind.",Marian,womens soccer,notre_dame
+226,Camryn Dyke,"Littleton, Colo.",Valor Christian,womens soccer,notre_dame
+227,Nikki Colantuono,"Otisville, N.Y.",Minisink Valley High School,womens soccer,notre_dame
+228,Eva Hurm,"Upper Saddle River, N.J.",Northern Highlands Regional,womens soccer,notre_dame
+229,Ann Marie Niro,"Barrington, Ill.",Barrington,womens soccer,notre_dame
+230,Brianna Martinez,"Albuquerque, N.M.",Volcano Vista High School,womens soccer,notre_dame
+231,Rachel Heard,"Decatur, Ga.",St. Pius X Catholic,womens soccer,notre_dame
+232,Chloe Boice,"Aliso Viejo, Calif.",Santa Margarita Catholic High School,womens soccer,notre_dame
+233,Jenna Winebrenner,"Kansas City, Mo.",Park Hill,womens soccer,notre_dame
+234,Bailey Cartwright,"Connellsville, Pa.",Greensburg Central Catholic,womens soccer,notre_dame
+235,Erin Ospeck,"Danville, Calif.",Carondelet,womens soccer,notre_dame
+236,Luisa Delgado,"Manhattan Beach, Calif.",Vistamar School,womens soccer,notre_dame
+237,Megan McLaughlin,"Granger, Ind.",Penn,womens soccer,notre_dame
+238,Kate O'Connor,"Coto de Caza, Calif.",Tesoro High School,womens soccer,notre_dame
+239,Jaina Eckert,"Newnan, Ga.",Heritage School,womens soccer,notre_dame
+240,Kelly Moss,"Lumberton, N.J.",Rancocas Valley High School,womens soccer,notre_dame
+241,Andrew Alexander,"Toronto, Canada",Neil McNeil High School,mens cross country,notre_dame
+242,Matthew  Carmody,"Des Moines, Iowa",Dowling Catholic High School,mens cross country,notre_dame
+243,Brendan Fraser,"Pontiac, Mich.",Pontiac Notre Dame Prep,mens cross country,notre_dame
+244,Kyle Fulk,"Norwood, N.Y.",N/A,mens cross country,notre_dame
+245,Brian Griffith,"Lake Zurich, Ill.",Lake Zurich High School,mens cross country,notre_dame
+246,Dylan Jacobs,"Orland Park, Ill.",Carl Sandburg High School,mens cross country,notre_dame
+247,Parker Jones,"Pendleton, Ind.",Pendleton High School,mens cross country,notre_dame
+248,Tyler Keslin,"Munster, Ind.",Munster,mens cross country,notre_dame
+249,Danny Kilrea,N/A,N/A,mens cross country,notre_dame
+250,Zach Kreft,"Sunbury, Ohio",Buckeye Valley High School,mens cross country,notre_dame
+251,Dustin Macuiba,"Gurnee, Ill.",Warren Township,mens cross country,notre_dame
+252,Jack McNabola,"Chicago, Ill.",Francis W. Parker School,mens cross country,notre_dame
+253,Peter Monahan,"Worcester, Mass.",Saint John's,mens cross country,notre_dame
+254,Amani Morrell,"South Bend, Ind.",St. Anthony's (NY)/St. Joseph (Ind.),mens cross country,notre_dame
+255,Yared Nuguse,"Louisville, Ky.",Dupont Manual High School,mens cross country,notre_dame
+256,Luke Phillips,"Wilmette, Ill.",Loyola Academy,mens cross country,notre_dame
+257,Kevin Pulliam,"McLean, VA",N/A,mens cross country,notre_dame
+258,Kevin Salvano,"Arlington Heights, Ill.",Buffalo Grove,mens cross country,notre_dame
+259,Ryan Schweizer,"Urbandale, IA",Dowling Catholic,mens cross country,notre_dame
+260,Bradley Wattleworth,"Woodbridge, UK",N/A,mens cross country,notre_dame
+261,Anthony Williams,"Bloomington, Ind.",Bloomington South,mens cross country,notre_dame
+262,Vincent Zona,"LaGrange, Ill.",Lyons Township High School,mens cross country,notre_dame
+263,Erin Archibeck,"Albuquerque, New Mexico",Albuquerque Academy,womens cross country,notre_dame
+264,Katie Rose Blachowicz,"Sun Prairie, Wis.",Sun Prairie High School,womens cross country,notre_dame
+265,Rachel DaDamio,"Bloomfield Village, Mich.",Seaholm,womens cross country,notre_dame
+266,Elena Denner,"El Dorado Hills, Calif.",Oak Ridge High School,womens cross country,notre_dame
+267,Toni Finnane,"Morago, Calif.",Campolindo,womens cross country,notre_dame
+268,Anna Fischer,"St. Joseph, Mich.",St. Joseph High School,womens cross country,notre_dame
+269,Sydney Foreman,"Charlotte, NC",Ardrey Kell,womens cross country,notre_dame
+270,Emily Franz,"Johnstown, Ohio",Bishop Hartley,womens cross country,notre_dame
+271,Jacqueline  Gaughan,"Exeter, N.H.",Exeter High School,womens cross country,notre_dame
+272,Elizabeth Hannon,"Franklin, Massachusetts",Bishop Freehan High School,womens cross country,notre_dame
+273,Kelly Hart,"Arlington, Va.",Yorktown,womens cross country,notre_dame
+274,Annie Heffernan,"Cincinnati, Ohio",Saint Ursula Academy,womens cross country,notre_dame
+275,Annasophia Keller,"Effingham, Ill.",St. Anthony High School,womens cross country,notre_dame
+276,Stephanie Knight,"Maple Plain, MN",Orono,womens cross country,notre_dame
+277,Kelly Koehnen,"Hamilton City, Calif.",Hamilton High School,womens cross country,notre_dame
+278,Maryclare Leonard,"Orland Park, Ill.",Marist High School,womens cross country,notre_dame
+279,Claudia Magnussen,"Pana, Ill.",Pana High School,womens cross country,notre_dame
+280,Olivia Niziolek,"Park Ridge, Ill.",Maine South High School,womens cross country,notre_dame
+281,Kelli Reagan,"Corrales, N.M.",N/A,womens cross country,notre_dame
+282,Anna Rohrer,"Mishawaka, Ind.",Mishawaka,womens cross country,notre_dame
+283,Madison Ronzone,"Batavia, Ill.",Rosary,womens cross country,notre_dame
+284,Mikayla Schneider,"Wayne, Penn.",Academy of Notre Dame,womens cross country,notre_dame
+285,Brooke Trossen,"San Diego, Calif.",Francis Parker High School,womens cross country,notre_dame
+286,Ben Albin,"Sante Fe, NM",Albuquerque Academy,mens golf,notre_dame
+287,Davis Chatfield,"Attleboro, Mass.",Bishop Feehan,mens golf,notre_dame
+288,Kevin Conners,"Downingtown, PA",Bishop Shanahan,mens golf,notre_dame
+289,Miguel Delgado,"Novato, CA",Branson,mens golf,notre_dame
+290,John Felitto,"Mountainside, NJ",Oratory Preparatory School,mens golf,notre_dame
+291,Alex Jamieson,"Duxbury, Mass.",Duxbury,mens golf,notre_dame
+292,Taichi Kho,"Hong Kong, China",Discovery College,mens golf,notre_dame
+293,Davis Lamb,"Potomac, MD",Georgetown Preparatory School,mens golf,notre_dame
+294,Andrew O'Leary,"Norfolk, Mass.",Catholic Memorial,mens golf,notre_dame
+295,Hunter Ostrom,"Eagle, ID",Bishop Kelly,mens golf,notre_dame
+296,Emma Albrecht,"Ormond Beach, Fla.",Father Lopez,womens golf,notre_dame
+297,Claire Albrecht,"Ormond Beach, Fla.",Mainland High School,womens golf,notre_dame
+298,Mia Ayer,"Waco, Texas",Midway,womens golf,notre_dame
+299,Isabella DiLisio,"Hatfield, Pa.",Mount Saint Joseph Academy,womens golf,notre_dame
+300,Maddie Rose Hamilton,"Louisville, Ky.",Sacred Heart Academy,womens golf,notre_dame
+301,Abby Heck,"Memphis, Tenn.",St. Agnes Academy,womens golf,notre_dame
+302,Tabahn Afrik,"Holland, MI",West Ottawa,mens swimming,notre_dame
+303,Dan Bannon,"Virginia Beach, VA",Frank Cox,mens swimming,notre_dame
+304,Luke Barrett,"South Bend, Ind.",St. Joseph,mens swimming,notre_dame
+305,Marton Barta,"Szombathely, Hungary",N/A,mens swimming,notre_dame
+306,John Becker,"Rochester, Minn.",Rochester Lourdes,mens swimming,notre_dame
+307,Josh Bottelberghe,"Vancouver, WA",Columbia River,mens swimming,notre_dame
+308,William Cumberland,"Bristow, Va.",Patriot,mens swimming,notre_dame
+309,Austin Flaute,"Centerville, OH",Centerville,mens swimming,notre_dame
+310,Daniel Fujan,"Byron, MN",Byron,mens swimming,notre_dame
+311,Matt Grauslys,"Manchester, N.H.",Manchester Memorial,mens swimming,notre_dame
+312,Cristian Herrera,"Montebello, CA",Troy High School,mens swimming,notre_dame
+313,Matthew Limbacher,"Naples, FL",Naples,mens swimming,notre_dame
+314,Sadler McKeen,"Birmingham, Ala.",Briarwood Christian,mens swimming,notre_dame
+315,Nick Milikich,"Austin, TX",Cedar Ridge,mens swimming,notre_dame
+316,Max Miranda,"East Greenwich, RI",Suffield Academy,mens swimming,notre_dame
+317,Jack Montesi,"Riverside, CT",Greenwich,mens swimming,notre_dame
+318,David  Petrison,N/A,N/A,mens swimming,notre_dame
+319,Rex Riley,"Erie, PA",Cathedral Prep,mens swimming,notre_dame
+320,Jack Russell,"Birmingham, MI",Seaholm,mens swimming,notre_dame
+321,Brendan Santana,"San Diego, Calif.",University City,mens swimming,notre_dame
+322,Aaron Schultz,"Richmond, VA",Deep Run,mens swimming,notre_dame
+323,Steven Shek,"Mount Laurel, N.J.",Lenape,mens swimming,notre_dame
+324,Zachary Smith,"Tuscaloosa, AL",Holy Spirit,mens swimming,notre_dame
+325,Matthew  Somerville,N/A,N/A,mens swimming,notre_dame
+326,Joseph Turk,"North Andover, Mass.",St. John's Prep,mens swimming,notre_dame
+327,Andrew Winton,"Suwanee, GA",N/A,mens swimming,notre_dame
+328,Zach Yeadon,"San Antonio, Texas",Reagan,mens swimming,notre_dame
+329,Claire Andrews,"The Woodlands, Texas",N/A,womens swimming,notre_dame
+330,Ellie Berdusco,"Bradenton, FL",Saint Stephenson's Episcopal School,womens swimming,notre_dame
+331,Catherine Brennan,N/A,N/A,womens swimming,notre_dame
+332,Claire DeSelm,"Chapel Hill, NC",Chapel Hill,womens swimming,notre_dame
+333,Abbie Dolan,"Sunfish Lake, MN",Visitation,womens swimming,notre_dame
+334,Sinead Eksteen,"Vienna, VA",McLean,womens swimming,notre_dame
+335,Sammie Eyolfson,"Boise, ID",Boise,womens swimming,notre_dame
+336,Skylar Fore,"Cedarburg, Wis.",Cedarburg,womens swimming,notre_dame
+337,Cailey Grunhard,"Mission Hills, Kan.",Bishop Miege,womens swimming,notre_dame
+338,Lauren Heller,"Stow, OH",Hawken,womens swimming,notre_dame
+339,Erin Isola,"Allegan, MI",Allegan High School,womens swimming,notre_dame
+340,Kelly Jacob,"Oconomowoc, WI",Arrowhead,womens swimming,notre_dame
+341,Paige Kaplan,"Bellmore, NY",John F. Kennedy,womens swimming,notre_dame
+342,Reilly Lanigan,"Lake Forest, IL",Lake Forest,womens swimming,notre_dame
+343,Madeline LaPorte,"Vienna, VA",James Madison,womens swimming,notre_dame
+344,Kate McCahan,"Dunwoody, Ga.",Wesleyan,womens swimming,notre_dame
+345,Sarah Nicholls,"Liberty Lake, WA",Central Valley,womens swimming,notre_dame
+346,Meaghan O'Donnell,"Wayne, NJ",Wayne Valley,womens swimming,notre_dame
+347,Carly Quast,"Maple Grove, Minn.",Wayzata,womens swimming,notre_dame
+348,Katie Rentz,"Aurora, IL",Rosary,womens swimming,notre_dame
+349,Sofia Revilak,"Mexico City, Mexico",Christa McAuliffe School of Arts and Sciences,womens swimming,notre_dame
+350,Kyra Sarazen,"North Hampton, NH",St. Thomas Aquinas,womens swimming,notre_dame
+351,Erin Sheehan,"Upper Arlington, OH",Upper Arlington,womens swimming,notre_dame
+352,Katie Smith,"Rochester, NY",Pittsford Sutherland,womens swimming,notre_dame
+353,Nikki Smith,"Munster, IN",Munster,womens swimming,notre_dame
+354,Sammy Steigerwald,"Colorado Springs, CO",Air Academy,womens swimming,notre_dame
+355,Bayley Stewart,"Fort Collins, Colo.",Fossil Ridge,womens swimming,notre_dame
+356,Lindsay Stone,"Pittsford, N.Y.",Pittsford,womens swimming,notre_dame
+357,Kelly Straub,"Omaha, Neb.",Marian,womens swimming,notre_dame
+358,Tegan Sweeney,N/A,N/A,womens swimming,notre_dame
+359,Luciana Thomas,"Fayetteville, AR",Haas Hall Academy,womens swimming,notre_dame
+360,Alice Treuth,"Salisbury, MD",James M. Bennett,womens swimming,notre_dame
+361,Rebecca Walton,"Honolulu, HI",Mid-Pacific Institute,womens swimming,notre_dame
+362,Annie Wiese,"Carmel, IN",Indiana Connections Academy,womens swimming,notre_dame
+363,Rachel Wittmer,"Edina, Minn.",Edina,womens swimming,notre_dame
+364,Grayson Broadus,"Carollton, TX",ATA College Prep,mens tennis,notre_dame
+365,Guillermo Cabrera,"Lima, Peru",Colegio Franklin Delano Roosevelt,mens tennis,notre_dame
+366,Richard Ciamarra,"Southington, CT",Xavier,mens tennis,notre_dame
+367,Matt Gamble,"Webster, NY",Webster Schroeder,mens tennis,notre_dame
+368,Paul Gota,"Moreland Hills, Ohio",CRC Tennis Academy,mens tennis,notre_dame
+369,Nathan Griffin,"Broadview Heights, OH",St. Ignatius,mens tennis,notre_dame
+370,William Howells,"Boca Raton, FL",Laurel Springs,mens tennis,notre_dame
+371,Alex Lebedev,"Island Park, NY",Laurel Springs,mens tennis,notre_dame
+372,Tristan McCormick,"Berwyn, PA",Dwight School,mens tennis,notre_dame
+373,Axel Nefve,N/A,N/A,mens tennis,notre_dame
+374,Daniel Rayl,"Carmel, IN",Park Tudor,mens tennis,notre_dame
+375,Johnathan Small,"Zionsville, Ind.",Laurel Springs,mens tennis,notre_dame
+376,Conor Somers,"Virginia Beach, VA",Cape Henry Collegiate,mens tennis,notre_dame
+377,Ally Bojczuk,"Franklin, TN",Laurel Springs,womens tennis,notre_dame
+378,Brooke Broda,"West Chester, OH",Lakota West High School,womens tennis,notre_dame
+379,Rachel Chong,"Danville, CA",K12 International Academy,womens tennis,notre_dame
+380,Cameron Corse,"Baltimore, MD",Bryn Mawr School,womens tennis,notre_dame
+381,Maeve Koscielski,"Indianapolis, IN",Cathedral,womens tennis,notre_dame
+382,Zoe Spence,"Chicago, IL",Francis W. Parker,womens tennis,notre_dame
+383,Zoe Taylor,"Long Grove, IL",Adlai E. Stevenson,womens tennis,notre_dame
+384,Bess Waldram,"Portland, OR",Jesuit,womens tennis,notre_dame
+385,Andrew Alexander,"Toronto, Canada",Neil McNeil High School,mens track,notre_dame
+386,Edward Cheatham,"Manlius, New York",Fayetteville-Manlius,mens track,notre_dame
+387,William Cole,"Overland Park, Ks.",St. Thomas Aquinas,mens track,notre_dame
+388,Nathaniel Ekwuene,"Medford, Wis.",N/A,mens track,notre_dame
+389,Kevin Fox,"Moorestown, N.J.",Moorsetown High School,mens track,notre_dame
+390,Matt Fraizer,"West Des Moines, Iowa",Dowling Catholic High School,mens track,notre_dame
+391,Brendan Fraser,"Pontiac, Mich.",Pontiac Notre Dame Prep,mens track,notre_dame
+392,Kyle Fulk,"Norwood, N.Y.",N/A,mens track,notre_dame
+393,Clay Goldman,"St. John, Ind.",Lake Central,mens track,notre_dame
+394,Brian Griffith,"Lake Zurich, Ill.",Lake Zurich High School,mens track,notre_dame
+395,Daniel Hardiman,"Farmington, Conn.",Farmington,mens track,notre_dame
+396,Jack Jesse,"Middleton, Wisc.",Middleton,mens track,notre_dame
+397,Antonio Jimenez,"Floyds Knobs, Ind.",Floyd Central High School,mens track,notre_dame
+398,Parker Jones,"Pendleton, Ind.",Pendleton High School,mens track,notre_dame
+399,Tyler Keslin,"Munster, Ind.",Munster,mens track,notre_dame
+400,Sean Kurdy,"Citrus Heights, Calif.",Jesuit High School,mens track,notre_dame
+401,Logan Kusky,"Youngstown, Ohio",Austintown Fitch,mens track,notre_dame
+402,Dustin Macuiba,"Gurnee, Ill.",Warren Township,mens track,notre_dame
+403,Peter Monahan,"Worcester, Mass.",Saint John's,mens track,notre_dame
+404,Yared Nuguse,"Louisville, Ky.",Dupont Manual High School,mens track,notre_dame
+405,Patrick O'Mara,"Montgomery, Ala.",Montgomery Catholic Preparatory School,mens track,notre_dame
+406,Troy Pride Jr.,"Greer, S.C.",Greer Senior,mens track,notre_dame
+407,Kevin Pulliam,"McLean, VA",N/A,mens track,notre_dame
+408,Kevin Salvano,"Arlington Heights, Ill.",Buffalo Grove,mens track,notre_dame
+409,Ryan Schweizer,"Urbandale, IA",Dowling Catholic,mens track,notre_dame
+410,John Stefan,"Deer Park, Ill.",N/A,mens track,notre_dame
+411,Shae Watkins,"Findlay, Ohio",Arcadia,mens track,notre_dame
+412,Bradley Wattelworth,"Woodbridge, UK",N/A,mens track,notre_dame
+413,Peter Werling,"Fishers, Ind.",Fishers High School,mens track,notre_dame
+414,Anthony Williams,"Bloomington, Ind.",Bloomington South,mens track,notre_dame
+415,Zachary Zajdel,"Syracuse, NY",Christian Brothers Academy,mens track,notre_dame
+416,Vincent Zona,"LaGrange, Ill.",Lyons Township High School,mens track,notre_dame
+417,Michaela Butler,"Findlay, Ohio",Liberty-Benton High School,womens track,notre_dame
+418,Emma Bzik,"Bedford, N.H.",N/A,womens track,notre_dame
+419,McKenna Caskey,"Huntington Beach, Calif.",N/A,womens track,notre_dame
+420,Alexa Coubal,"Thousand Oaks, Calif.",Thousand Oaks High School,womens track,notre_dame
+421,Grace Cronin,"Elmhurst, Ill.",Fenwick,womens track,notre_dame
+422,Rachel DaDamio,"Bloomfield Village, Mich.",Seaholm,womens track,notre_dame
+423,Laura DeVito,"Rocky River, Ohio",Rocky River High School,womens track,notre_dame
+424,Gabrielle Diederich,"Salina, Kansas",N/A,womens track,notre_dame
+425,Toni Finnane,"Morago, Calif.",Campolindo,womens track,notre_dame
+426,Sydney Foreman,"Charlotte, NC",Ardrey Kell,womens track,notre_dame
+427,Emily Franz,"Johnstown, Ohio",Bishop Hartley,womens track,notre_dame
+428,Jessica Harris,"Cockeysville, MD",Mount de Sales,womens track,notre_dame
+429,Kelly Hart,"Arlington, Va.",Yorktown,womens track,notre_dame
+430,Annie Heffernan,"Cincinnati, Ohio",Saint Ursula Academy,womens track,notre_dame
+431,Madysen Hunter,"Southlake, TX",Carroll,womens track,notre_dame
+432,Kassadee Ifft,"Fairbury, IL",Prairie Central,womens track,notre_dame
+433,Abbey Kapitan,"Munster, Ind.",Munster,womens track,notre_dame
+434,Annasophia Keller,"Effingham, Ill.",St. Anthony High School,womens track,notre_dame
+435,Kelly Koehnen,"Hamilton City, Calif.",Hamilton High School,womens track,notre_dame
+436,Mary Leonard,"Orland Oark, Ill.",Marist High School,womens track,notre_dame
+437,Kyla Lewis,"Rockville, Md.",Bullis School,womens track,notre_dame
+438,Claudia Magnussen,"Pana, Ill.",Pana High School,womens track,notre_dame
+439,Anna Rohrer,"Mishawaka, Ind.",Mishawaka,womens track,notre_dame
+440,Madison Ronzone,"Batavia, Ill.",Rosary,womens track,notre_dame
+441,Naya Sharp,"Garland, TX",Greenhill School,womens track,notre_dame
+442,Erin Sullivan,"Indianapolis, Ind.",Southport High School,womens track,notre_dame
+443,Rachel Tanczos,"Daniellesville, Penn.",N/A,womens track,notre_dame
+444,Summer Thorpe,"Pittsburgh, PA",Sewickley Academy,womens track,notre_dame
+445,Brooke Trossen,"San Diego, Calif.",Francis Parker High School,womens track,notre_dame
+446,Isabella Balder,"Maple Grove, MN",Maple Grove Senior,womens rowing,notre_dame
+447,Cynthia Barker,"Los Altos, CA",Saint Francis,womens rowing,notre_dame
+448,Mara Bhalla,"Belmont, NC",Gaston Day School,womens rowing,notre_dame
+449,Cailey Brogan,"Lloyd Harbor, NY",Cold Spring Harbor,womens rowing,notre_dame
+450,Samantha Broomfield,"Whitefish Bay, WI",N/A,womens rowing,notre_dame
+451,Madeline Coady,"Haverhill, MA",Haverhill,womens rowing,notre_dame
+452,Ellie Daum,"Oakland, CA",Bishop O'Dowd,womens rowing,notre_dame
+453,Sarah Dencker,"Denver, CO",Kent Denver School,womens rowing,notre_dame
+454,Hana Ferrero,"Seattle, WA",Holy Names Academy,womens rowing,notre_dame
+455,Kelly Fischer,"Titusville, NJ",Hopewell Valley Central,womens rowing,notre_dame
+456,Bridget Geyer,"Powell, OH",Bishop Watterson,womens rowing,notre_dame
+457,Jennifer Groth,"Fairfax Station, VA",James W. Robinson Secondary School,womens rowing,notre_dame
+458,Grace Gulyas,"Grosse Pointe Farms, MI",Grosse Pointe South,womens rowing,notre_dame
+459,Halena Hadi,"Springfield, MO",Central,womens rowing,notre_dame
+460,Brenna Halligan,"Newark, DE",Cab Calloway School of the Arts,womens rowing,notre_dame
+461,Chloe Hemm,"Dayton, OH",The Miami Valley School,womens rowing,notre_dame
+462,Caroline Hills,"Camp Hill, PA",Trinity,womens rowing,notre_dame
+463,Katharine Johnson,"Westport, CT",Staples,womens rowing,notre_dame
+464,Lauren Kelly,"Vineland, Ontario, Canada",Blessed Trinity CSS,womens rowing,notre_dame
+465,Alex Lee,"Old Greenwich, CT",Greenwich,womens rowing,notre_dame
+466,Samantha Manfreda,"Bethel, CT",N/A,womens rowing,notre_dame
+467,Tala Mansouri,"Ponte Vedra, FL",Allen D. Nease,womens rowing,notre_dame
+468,Rosemary McGovern,"Clifton, VA",Georgetown Visitation,womens rowing,notre_dame
+469,Evelyn McManus,"Orinda, CA",Miramonte,womens rowing,notre_dame
+470,Laura Migliore,"Tampa, FL",HB Plant,womens rowing,notre_dame
+471,Killian Mountford,"Granger, IN",Saint Joseph,womens rowing,notre_dame
+472,Kathleen Murphy,"Alexandria, VA",T.C. Williams,womens rowing,notre_dame
+473,Mariah Parsons,"Fair Haven, NJ",Rumson-Fair Haven,womens rowing,notre_dame
+474,Mary Grace Phelan,"Geneva, IL",Geneva,womens rowing,notre_dame
+475,Molly Pierce,"Wayland, MA",Wayland,womens rowing,notre_dame
+476,Analisa Pines,"Orinda, CA",N/A,womens rowing,notre_dame
+477,Julia Randall,"Montclair, NJ",Montclair Kimberley Academy,womens rowing,notre_dame
+478,Audrey Regan,"Fenton, MI",Hartland,womens rowing,notre_dame
+479,Anja Renkes,"Jackson, WY",Holy Names Academy,womens rowing,notre_dame
+480,Mary Ryan,"Seal Beach, CA",Mater Dei,womens rowing,notre_dame
+481,Laura Schoonmaker,"Arlington, MA",Arlington,womens rowing,notre_dame
+482,Elizabeth Schrieber,"Berwyn, PA",Merion Mercy Academy,womens rowing,notre_dame
+483,Carrie Smith,"Charlottesville, VA",Western Albemarle,womens rowing,notre_dame
+484,Allegra Sodi,"Manhasset, NY",Manhasset,womens rowing,notre_dame
+485,Emily Stinebaugh,"Wayzata, MN",Orono,womens rowing,notre_dame
+486,Colleen Visnic,"Branford, CT",Branford,womens rowing,notre_dame
+487,Katie Wiedenhoft,"Rockville Centre, NY",Sacred Heart Academy,womens rowing,notre_dame
+488,Ashley Young,"Fayetteville, AR",Haas Hall Academy,womens rowing,notre_dame
+489,Maddie McCracken,"Olathe, Kan.",Olathe North,softball,notre_dame
+490,Sarah Genz,"Lakeville, Minn.",Homeschooled (Lakeville North),softball,notre_dame
+491,Quinn Biggio,"Houston, Texas",Saint Agnes Academy,softball,notre_dame
+492,Shelby Grimm,"Valparaiso, Ind.",Chesterton,softball,notre_dame
+493,Madison Heide,"Belton, Mo.",Notre Dame de Sion,softball,notre_dame
+494,Ellie Richards,"Pendleton, Ore.",Pendleton,softball,notre_dame
+495,Chelsea Purcell,"La Habra, Calif.",Sonora,softball,notre_dame
+496,Payton Tidd,"Vista, Calif.",San Marcos,softball,notre_dame
+497,Emma Clark,"Huntington Beach, Calif.",Mater Dei,softball,notre_dame
+498,Cait Brooks,"Burbank, Calif.",Burbank,softball,notre_dame
+499,Anna Grace Wagner,"Smyrna, Ga.",The Lovett School,softball,notre_dame
+500,Riley Wester,"Huntington Beach, Calif.",Edison,softball,notre_dame
+501,Alexis Holloway,"Crown Point, Ind.",Crown Point,softball,notre_dame
+502,Abby Sweet,"Newhall, Calif.",Hart,softball,notre_dame
+503,Katie Marino,"Warren, N.J.",The Pingry School,softball,notre_dame
+504,MK Bonamy,"Hoover, Ala.",Spain Park,softball,notre_dame
+505,Morgan Ryan,"Greensburg, Pa.",Hempfield,softball,notre_dame
+506,Ali Wester,"Huntington Beach, Calif.",Edison,softball,notre_dame
+507,Alexis Bazos,"Pound Ridge, N.Y.",Fox Lane,softball,notre_dame
+508,Melissa Rochford,"Irvine, Calif.",Mater Dei,softball,notre_dame
+509,Kelly Byrne,"Manhattan Beach, CA",Marymount,womens volleyball,notre_dame
+510,Zoe Nunez,"Rockford, IL",Keith Country Day School,womens volleyball,notre_dame
+511,Sydney Bent,"Miami Shores, FL",Ransom Everglades School,womens volleyball,notre_dame
+512,Ryann DeJarld,"Chicago, IL",Mother McAuley,womens volleyball,notre_dame
+513,Charley Niego,"Chicago, IL",Mother McAuley,womens volleyball,notre_dame
+514,Lauren Wenzel,"Bloomfield Hills, MI",Marian,womens volleyball,notre_dame
+515,Monroe Olsen,"Valparaiso, IN",Valparaiso,womens volleyball,notre_dame
+516,Rebecca Nunge,"Newburgh, IN",Castle,womens volleyball,notre_dame
+517,Lauren Woodard,"San Diego, CA",Cathedral Catholic,womens volleyball,notre_dame
+518,Jemma Yeadon,"Mercer Island, WA",Mercer Island,womens volleyball,notre_dame
+519,Hannah Thompson,"Albuquerque, NM",Cibola,womens volleyball,notre_dame
+520,Meg Morningstar,"Wexford, PA",North Allegheny,womens volleyball,notre_dame
+521,Kristin Baer,"San Jose, CA",St. Francis,womens volleyball,notre_dame
+522,Emma Cottrill,"Wexford, PA",Pine Richland,womens volleyball,notre_dame
+523,Halle Truett,"Elmhurst, IL",York,womens volleyball,notre_dame
+524,Madison Cruzado,"Elyria, OH",Elyria,womens volleyball,notre_dame
+525,Christian Aguilar,"Medford, NJ",Moorestown Friends School,mens fencing,notre_dame
+526,Aidan Antekeier,"Columbus, Ga.",Mirabeau B. Lamar Senior (TX,mens fencing,notre_dame
+527,Michael Antipas,"Stony Brook, NY",Ward Melville,mens fencing,notre_dame
+528,David Brown,"Gainesville, FL",Eastside,mens fencing,notre_dame
+529,Rory Burke,"Andover, MA",St. John's Prep,mens fencing,notre_dame
+530,Colin Campbell,"Washington, D.C.",Bullis School,mens fencing,notre_dame
+531,Paul Cepak,"Morris Plains, NJ",Parsippany Hills,mens fencing,notre_dame
+532,Zachary Cheng,"Bloomington, Ill.",N/A,mens fencing,notre_dame
+533,Ari Croitoru,"Golden Beach, Fla.",N/A,mens fencing,notre_dame
+534,Spicer Emge,"Los Angeles, CA",Campbell Hall Episcopal,mens fencing,notre_dame
+535,Stephen Ewart,"Lancaster, Calif.",Paraclete,mens fencing,notre_dame
+536,Steffen Felt,"Redmond, WA",Interlake,mens fencing,notre_dame
+537,Jonathan Fitzgerald,"East Brunswick, NJ",East Brunswick,mens fencing,notre_dame
+538,Dylan French,"Richmond, British Columbia",Magee Secondary,mens fencing,notre_dame
+539,Jarred Gou,"Saratoga, Calif.",Saratoga,mens fencing,notre_dame
+540,Nicholas Hanahan,"Indianapolis, IN",Cathedral,mens fencing,notre_dame
+541,Nick Itkin,"Los Angeles, Calif.",Palisades Charter,mens fencing,notre_dame
+542,Alexander Ju,"Berkeley Heights, N.J.",Governor Livingston,mens fencing,notre_dame
+543,Hazem Khazbak,"Lexington, KY",Paul Laurence Dunbar,mens fencing,notre_dame
+544,Axel Kiefer,"Lexington, KY",Paul Laurence Dunbar,mens fencing,notre_dame
+545,Cole Mallette,"Keizer, OR",South Salem,mens fencing,notre_dame
+546,Joseph Marino,"Rockville Centre, N.Y.",South Side,mens fencing,notre_dame
+547,Blake Murphy,"Atlanta, Ga.",Pace Academy,mens fencing,notre_dame
+548,Thomas Murray,"Staten Island, N.Y.",Staten Island Tech,mens fencing,notre_dame
+549,Arsenii Panteleev,"Moscow, Russia",XXI Century Integration International Secondary Sc,mens fencing,notre_dame
+550,Jack Rohan,"Stony Brook, N.Y.",Ward Melville,mens fencing,notre_dame
+551,Ben Scholl,"Portland, Ore.",Woodrow Wilson,mens fencing,notre_dame
+552,Jonah Shainberg,"Rye, NY",Rye,mens fencing,notre_dame
+553,Ariel Simmons,"Bellaire, Texas",Carnegie Vanguard,mens fencing,notre_dame
+554,Nicholas Sloan,"Lexington, Ky.",Lafayette,mens fencing,notre_dame
+555,Matthew Tichacek,"Spring Lake, N.J.",High Technology,mens fencing,notre_dame
+556,Robert Wong,"Chappaqua, N.Y.",Horace Greeley,mens fencing,notre_dame
+557,Zachary Zeller,"Las Vegas, Nev.",Bishop Gorman,mens fencing,notre_dame
+558,Julia Barry,"Boulder, Colo.",Boulder,womens fencing,notre_dame
+559,Christina Boitano,"Portland, Ore.",Jesuit,womens fencing,notre_dame
+560,Katherine Clarke,"Grand Rapids, MI",Forrest Hills Northern,womens fencing,notre_dame
+561,Stefani Deschner,"Versailles, Ky.",George Washington U. OHS,womens fencing,notre_dame
+562,Natalie Disher,"Milwaukee, OR",Alliance Charter Academy,womens fencing,notre_dame
+563,Isabelle Elizondo,"Cypress, Texas",Cypress Woods,womens fencing,notre_dame
+564,Reagan Fitzgerald,"North Haven, CT",North Haven,womens fencing,notre_dame
+565,Madeline Gallagher,"Larchmont, NY",Rye County Day School,womens fencing,notre_dame
+566,Nicole Gorman,"Granger, IN",John Adams,womens fencing,notre_dame
+567,Tara Hassett,"Portland, OR",Aloha,womens fencing,notre_dame
+568,Molly Hudson,"Houston, TX",Westchester Academy for International Studies,womens fencing,notre_dame
+569,Elyssa Kleiner,"San Francisco, CA",The Urban School,womens fencing,notre_dame
+570,Claudia Kulmacz,"Upper Saddle River, NJ",Bergen County Academies,womens fencing,notre_dame
+571,Zoe Loh,"Mississauga, Ontario, Canada",Woodlands High School,womens fencing,notre_dame
+572,Finnula Mageras,"Darien, Conn.",Darien,womens fencing,notre_dame
+573,Sabrina Massialas,"San Francisco, CA",Drew,womens fencing,notre_dame
+574,Kellsey Mone,"Winnetka, IL",New Trier,womens fencing,notre_dame
+575,Jamie Norville,"Oregon City, OR",Gladstone,womens fencing,notre_dame
+576,Regina O'Brien,"Wellesley, Mass.",Wellesley,womens fencing,notre_dame
+577,Morgan Partridge,"Swansea, Mass.",Providence Country Day,womens fencing,notre_dame
+578,Marie-Anne Roche,"Paris, France",Ecole Active Jeannine Manuel,womens fencing,notre_dame
+579,Francesca Russo,"Wayne, NJ",Wayne Valley,womens fencing,notre_dame
+580,Amanda Sirico,"Bowie, MD",Alpha Omega Academy,womens fencing,notre_dame
+581,Mari Summers,"Tigard, Ore.",Tigard,womens fencing,notre_dame
+582,Alexandra Tatarian,"Manhasset, N.Y.",Manhasset,womens fencing,notre_dame
+583,Erica Tsai,"Salt Lake City, Utah",American International School,womens fencing,notre_dame
+584,Beatrice Verrecchia,"Florence, Italy",Culver Girls Academy (Ind.,womens fencing,notre_dame
+585,Samantha Viqueira,"Maplewood, N.J.",Columbia,womens fencing,notre_dame
+586,Katherine Wallace,"New York, N.Y.",NEST+m,womens fencing,notre_dame
+587,Reghan Ward,"Fort Worth, Texas",A Beka Academy,womens fencing,notre_dame
+588,Dasha Yefremenko,"Manalapan, N.J.",Manalapan,womens fencing,notre_dame
+589,Dylan St. Cyr,"Northville, Michigan",N/A,mens hockey,notre_dame
+590,Nate Clurman,"Boulder, Colorado",N/A,mens hockey,notre_dame
+591,Nick Leivermann,"Eden Prairie, Minnesota",N/A,mens hockey,notre_dame
+592,Matt Hellickson,"Rogers, Minnesota",N/A,mens hockey,notre_dame
+593,Tory Dello,"Crystal Lake, Illinois",N/A,mens hockey,notre_dame
+594,Matt Steeves,"Bedford, New Hampshire",N/A,mens hockey,notre_dame
+595,Cam Burke,"Boxborough, Massachusetts",N/A,mens hockey,notre_dame
+596,Cal Burke,"Boxborough, Massachusetts",N/A,mens hockey,notre_dame
+597,Felix Holmberg,"Stockholm, Sweden",N/A,mens hockey,notre_dame
+598,Colin Theisen,"Monroe, Michigan",N/A,mens hockey,notre_dame
+599,Michael Graham,"Eden Prairie, Minnesota",N/A,mens hockey,notre_dame
+600,Alex Steeves,"Bedford, New Hampshire",N/A,mens hockey,notre_dame
+601,Pierce Crawford,"Park Ridge, Illinois",N/A,mens hockey,notre_dame
+602,Graham Slaggert,"South Bend, Indiana",N/A,mens hockey,notre_dame
+603,Mike O'Leary,"Halifax, Nova Scotia",N/A,mens hockey,notre_dame
+604,Jake Pivonka,"Naperville, Illinois",N/A,mens hockey,notre_dame
+605,Joe Wegwerth,"Brewster, New York",N/A,mens hockey,notre_dame
+606,Andrew Peeke,"Parkland, Florida",N/A,mens hockey,notre_dame
+607,Luke Novak,"Waukesha, Wisconsin",N/A,mens hockey,notre_dame
+608,Spencer Stastney,"Mequon, Wisconsin",N/A,mens hockey,notre_dame
+609,Dylan Malmquist,"Edina, Minnesota",N/A,mens hockey,notre_dame
+610,Cam Morrison,"Aurora, Ontario",N/A,mens hockey,notre_dame
+611,Bobby Nardella,"Rosemont, Illinois",N/A,mens hockey,notre_dame
+612,Jack Jenkins,"Lake Bluff, Illinois",N/A,mens hockey,notre_dame
+613,Charlie Raith,"Winnetka, Illinois",N/A,mens hockey,notre_dame
+614,Cale Morris,"Larkspur, Colorado",N/A,mens hockey,notre_dame
+615,Nick Sanford,"Morristown, New Jersey",N/A,mens hockey,notre_dame
+616,Connor Morin,"Bernardsville, NJ",Morristown-Beard,mens lacrosse,notre_dame
+617,Stephen Chase,"Tallahassee, FL",Maclay School,mens lacrosse,notre_dame
+618,Thomas McNamara,"Villanova, PA",The Haverford School,mens lacrosse,notre_dame
+619,Austin Gaiss,"North Andover, MA",Phillips Academy,mens lacrosse,notre_dame
+620,Jr. John Travisano,"Ellicott City, MD",Howard,mens lacrosse,notre_dame
+621,Mikey Drake,"Wilmington, DE",Salesianum School,mens lacrosse,notre_dame
+622,Eric Restic,"Lake Oswego, OR",Jesuit,mens lacrosse,notre_dame
+623,Auden Menke,"Sandy, UT",New Hampton School,mens lacrosse,notre_dame
+624,Brendan Gleason,"Essex, VT",Essex,mens lacrosse,notre_dame
+625,Jack Kielty,"Morristown, NJ",Delbarton School,mens lacrosse,notre_dame
+626,Carlson Milikin,"Richmond, VA",Woodberry Forest School,mens lacrosse,notre_dame
+627,Nick Stinn,"San Francisco, CA",N/A,mens lacrosse,notre_dame
+628,Michael Marchese,"Haddonfield, NJ",St. Joe's Prep,mens lacrosse,notre_dame
+629,Jack Beare,"Dallas, TX",Episcopal School of Dallas,mens lacrosse,notre_dame
+630,Jordan Walter,"Cold Spring Harbor, NY",Cold Spring Harbor,mens lacrosse,notre_dame
+631,Jacob Frane,"Highlands Ranch, CO",Mountain Vista,mens lacrosse,notre_dame
+632,Mitch Olinger,"Alamo, CA",De La Salle,mens lacrosse,notre_dame
+633,Brian Willetts,"Saint James, NY",Smithtown East,mens lacrosse,notre_dame
+634,John Zullo,"Rockville Centre, NY",Chaminade,mens lacrosse,notre_dame
+635,Drew Schantz,"Allentown, PA",Malvern Prep,mens lacrosse,notre_dame
+636,Kyle Hyland,"Hinsdale, IL",Hinsdale Central,mens lacrosse,notre_dame
+637,Patrick Hadley,"Hopkinton, NH",Deerfield Academy,mens lacrosse,notre_dame
+638,Timmy Phillips,"Alexandria, VA",Episcopal,mens lacrosse,notre_dame
+639,Mikey Wynne,"Sykesville, MD",St. Paul's,mens lacrosse,notre_dame
+640,Morrison Mirer,"San Diego, CA",Cathedral Catholic,mens lacrosse,notre_dame
+641,Bryan Costabile,"Sykesville, MD",Mount Saint Joseph,mens lacrosse,notre_dame
+642,John Hallenbeck,"Indianapolis, IN",Culver Military Academy,mens lacrosse,notre_dame
+643,Charlie Trense,"Atlanta, GA",The Westminster Schools,mens lacrosse,notre_dame
+644,Matthew Blommer,"Radnor, PA",Episcopal Academy,mens lacrosse,notre_dame
+645,Hugh Crance,"Newport Beach, CA",Corona del Mar,mens lacrosse,notre_dame
+646,Daniel Cassidy,"Royersford, PA",Spring-Ford,mens lacrosse,notre_dame
+647,Jacob Kanak,"Marshall, WI",Culver Military Academy,mens lacrosse,notre_dame
+648,Pierre Byrne,"South Bend, IN",Culver Military Academy,mens lacrosse,notre_dame
+649,Michael Farnish,"Villanova, PA",Radnor,mens lacrosse,notre_dame
+650,James Littlefield,"South Hamilton, MA",Hamilton-Wenham,mens lacrosse,notre_dame
+651,Arden Cohen,"New York, NY",Darien,mens lacrosse,notre_dame
+652,Keaton Komatz,"Littleton, CO",Heritage,mens lacrosse,notre_dame
+653,Peter Gayhardt,"Bryn Mawr, PA",St. Joseph's Prep,mens lacrosse,notre_dame
+654,Davis Allen,"Pelham, NY",Pelham Memorial,mens lacrosse,notre_dame
+655,Matt Schmidt,"Columbus, OH",Culver Military Academy,mens lacrosse,notre_dame
+656,William Young,"New York, NY",Phillips Academy (MA,mens lacrosse,notre_dame
+657,Michael Fay,"Malvern, PA",Malvern Prep,mens lacrosse,notre_dame
+658,Brooks Tyrrell,"Marblehead, MA",Marblehead,mens lacrosse,notre_dame
+659,John Sexton,"Sudbury, MA",Lincoln-Sudbury,mens lacrosse,notre_dame
+660,Charles Leonard,"Highlands Ranch, CO",Arapahoe,mens lacrosse,notre_dame
+661,Michael Langdon,"Bloomfield Hills, MI",Cranbrook Kingswood,mens lacrosse,notre_dame
+662,Carson Cochran,"Bloomfield Hills, MI",Brother Rice,mens lacrosse,notre_dame
+663,Ryder Garnsey,"Wolfeboro, NH",Phillips Academy,mens lacrosse,notre_dame
+664,Brendan Collins,"Bethesda, MD",Georgetown Prep,mens lacrosse,notre_dame
+665,Alex Hurdle,"Cockeysville, MD",McDonogh,mens lacrosse,notre_dame
+666,Tyler Ruhl,"Baltimore, MD",Gilman,mens lacrosse,notre_dame
+667,Owen Molloy,"Basking Ridge, NJ",Ridge,mens lacrosse,notre_dame
+668,Wheaton Jackoboice,"Kansas City, MO",Culver Military Academy,mens lacrosse,notre_dame
+669,Griffin Gallant,"Indianapolis, IN",Cathedral,mens lacrosse,notre_dame
+670,Maddie Carr,"Rockville, Md.",Stone Ridge School of the Sacred Heart,womens lacrosse,notre_dame
+671,Kelly Donnelly,"Indianapolis, Ind.",Cathedral,womens lacrosse,notre_dame
+672,Nikki Ortega,"Centereach, N.Y.",Centereach,womens lacrosse,notre_dame
+673,Lizzy Doherty,"Chatham, N.J.",Oak Knoll School,womens lacrosse,notre_dame
+674,Jessi Masinko,"Roswell, Ga.",Milton,womens lacrosse,notre_dame
+675,Kathleen Roe,"Denver, Colo.",Regis Jesuit,womens lacrosse,notre_dame
+676,Haley Schultz,"Burnt Hills, N.Y.",Ballston Lake,womens lacrosse,notre_dame
+677,Savannah Buchanan,"Baltimore, Md.",McDonogh,womens lacrosse,notre_dame
+678,Madison Mote,"Alexandria, Va.",Bishop Ireton HS,womens lacrosse,notre_dame
+679,Hannah Proctor,"Radnor, Pa.",Radnor,womens lacrosse,notre_dame
+680,Erin McBride,"Marietta, Ga.",George Walton Comprehensive,womens lacrosse,notre_dame
+681,Diana Kelly,"Chatham, N.J.",Oak Knoll School,womens lacrosse,notre_dame
+682,Andie Aldave,"Catonsville, Md.",McDonogh School,womens lacrosse,notre_dame
+683,Olivia Jacobsen,"Sammamish, Wash.",Eastside Catholic High School,womens lacrosse,notre_dame
+684,Kaci Messier,"Victor, N.Y.",Victor High School,womens lacrosse,notre_dame
+685,Cassie Ford,"Summit, N.J.",Oak Knoll,womens lacrosse,notre_dame
+686,Sydney Anderson,"Durham, N.C.",Cardinal Gibbons,womens lacrosse,notre_dame
+687,Mollie Carr,"Rockville, Md.",Stone Ridge School of the Sacred Heart,womens lacrosse,notre_dame
+688,Makenna Pearsall,"Wilton, Conn.",Wilton,womens lacrosse,notre_dame
+689,Jenn Casadonte,"Dix Hills, N.Y.",Half Hollow Hills,womens lacrosse,notre_dame
+690,Nicole Massimino,"Villanova, Pa.",Radnor High School,womens lacrosse,notre_dame
+691,Hannah Dorney,"Port Jefferson Station, N.Y.",Comsewogue HS,womens lacrosse,notre_dame
+692,Samantha Giacolone,"Manorville, N.Y.",Eastville South Manor,womens lacrosse,notre_dame
+693,Maddie Howe,"Fairport, N.Y.",Fairport High School,womens lacrosse,notre_dame
+694,Meaghan Scutaro,"Mount Sinai, N.Y.",Mount Sinai HS,womens lacrosse,notre_dame
+695,Sydney Flynn,"Louisville, Ky.",Sacred Heart Academy,womens lacrosse,notre_dame
+696,Kirsten Scutaro,"Mount Sinai, N.Y.",Mount Sinai HS,womens lacrosse,notre_dame
+697,Katie Enrietto,"Winnetka, Ill.",Loyola Academy,womens lacrosse,notre_dame
+698,Cailin Field,"Moorestown, N.J.",Moorestown HS,womens lacrosse,notre_dame
+699,Molly Hagan,"Pasadena, Calif.",St. Monica Academy,womens lacrosse,notre_dame
+700,Bridget Deehan,"Milton, Ga.",Milton High School,womens lacrosse,notre_dame
+701,Samantha Lynch,"Huntington, N.Y.",Huntington,womens lacrosse,notre_dame
+702,Grace Steffens,"Chestertown, Md.",Queen Anne's County,womens lacrosse,notre_dame

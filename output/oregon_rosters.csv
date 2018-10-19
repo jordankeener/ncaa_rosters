@@ -1,419 +1,438 @@
 ,name,hometown,high school?,sport,college
-0,Troy Brown,"Las Vegas, Nev.",Centennial HS,mens basketball,oregon
-1,Kenny Wooten,"Manteca, Calif.",Manteca HS,mens basketball,oregon
-2,Payton Pritchard,"West Linn, Ore.",West Linn HS,mens basketball,oregon
-3,M.J. Cage,"Santa Ana, Calif",Mater Dei HS,mens basketball,oregon
-4,Elijah Brown,"Orange County, Calif.",Mater Dei HS,mens basketball,oregon
-5,Victor Bailey Jr.,"Austin, Texas",McNeil HS,mens basketball,oregon
-6,Keith Smith,"Seattle, Wash.",Rainier Beach HS,mens basketball,oregon
+0,Will Richardson,"Hinesville, Ga.",Oak Hill Academy,mens basketball,oregon
+1,Bol Bol,"Olathe, Kan.",Findlay Prep,mens basketball,oregon
+2,Louis King,"Jersey City, N.J.",Hudson Catholic HS,mens basketball,oregon
+3,Payton Pritchard,"West Linn, Ore.",West Linn HS,mens basketball,oregon
+4,Ehab Amin,"Alexandria, Egypt",Riada American School,mens basketball,oregon
+5,Miles Norris,"San Diego, Calif.",Brewster Academy,mens basketball,oregon
+6,Victor Bailey Jr.,"Austin, Texas",McNeil HS,mens basketball,oregon
 7,Paul White,"Chicago, Ill.",Whitney Young HS,mens basketball,oregon
-8,Evan Gross,"Sacramento, Calif.",Oak Ridge HS,mens basketball,oregon
-9,MiKyle McIntosh,"Pickering, Ont.",Pickering HS,mens basketball,oregon
-10,Abu Kigab,"St. Catharines, Ont.",Prolific Prep Academy,mens basketball,oregon
-11,Roman Sorkin,"Ashdod, Israel",Hof HaSharon HS,mens basketball,oregon
+8,Kenny Wooten,"Manteca, Calif.",Manteca HS,mens basketball,oregon
+9,Abu Kigab,"St. Catharines, Ont.",Prolific Prep Academy,mens basketball,oregon
+10,Luke Osborn,"Clackamas, Ore.",Tualatin HS,mens basketball,oregon
+11,Francis Okoro,"Imo, Nigeria",Normal West (Ill.) HS,mens basketball,oregon
 12,Will Johnson,"Pacific Palisades, Calif.",Palisades HS,mens basketball,oregon
 13,Satou Sabally,"Berlin, Germany",Rotteck Gymnasium,womens basketball,oregon
-14,Morgan Yaeger,"Adelaide, Australia",St. John's Grammar School,womens basketball,oregon
-15,Maite Cazorla,"Las Palmas, Spain",Segle XXI,womens basketball,oregon
-16,Lydia Giomi,"Seattle, Wash.",West Seattle HS,womens basketball,oregon
-17,Sabrina Ionescu,"Walnut Creek, Calif.",Miramonte HS,womens basketball,oregon
-18,Erin Boley,"Hodgenville, Ky.",Elizabethtown HS,womens basketball,oregon
-19,Ruthy Hebard,"Fairbanks, Alaska",West Valley HS,womens basketball,oregon
-20,Oti Gildon,"Spokane, Wash.",Gonzaga Prep,womens basketball,oregon
-21,Taylor Chavez,"Surprise, Ariz.",Valley Vista HS,womens basketball,oregon
-22,Nyara Sabally,"Berlin, Germany",Rotteck Gymnasium,womens basketball,oregon
-23,Kyle Kasser,"Brea, Calif.",Brea Olinda HS,baseball,oregon
-24,Braden Stutzman,"Twin Falls, Idaho",Twin Falls HS,baseball,oregon
-25,Brett Walker,"Fresno, Calif.",Clovis North HS,baseball,oregon
-26,Cameron Campbell,"Ellensburg, Wash.",Ellensburg HS,baseball,oregon
-27,Jonny DeLuca,"Agoura Hills, Calif.",Agoura HS,baseball,oregon
-28,Daniel Patzlaff,"Huntington Beach, Calif.",Fountain Valley HS,baseball,oregon
-29,Spencer Steer,"Long Beach, Calif.",Millikan HS,baseball,oregon
-30,Ray Soderman,"Danville, Calif.",San Ramon Valley HS,baseball,oregon
-31,Matt Mercer,"Lacey, Wash.",Timberline HS,baseball,oregon
-32,Gabe Matthews,"Salem, Ore.",South Salem HS,baseball,oregon
-33,Nico Tellache,"Canby, Ore.",Canby HS,baseball,oregon
-34,Cole Stringer,"Portland, Ore.",Central Catholic HS,baseball,oregon
-35,Jacob Bennett,"Tualatin, Ore.",Tualatin HS,baseball,oregon
-36,Isaiah Stolp,"Eugene, Ore.",Marist HS,baseball,oregon
-37,Zack Noll,"Temecula, Calif.",Great Oak HS,baseball,oregon
-38,Parker Kelly,"Portland, Ore.",Westview HS,baseball,oregon
-39,Kenyon Yovan,"Beaverton, Ore.",Westview HS,baseball,oregon
-40,Kolby Somers,"Hillsboro, Ore.",Century HS,baseball,oregon
-41,Jakob Goldfarb,"Scottsdale, Ariz.",Desert Mountain HS,baseball,oregon
-42,Evan Williams,"Scottsdale, Ariz.",Horizon HS,baseball,oregon
-43,Taylor Adams,"Lacey, Wash.",Timberline HS,baseball,oregon
-44,Trevor Windisch,"Huntington Beach, Calif",Huntington Beach HS,baseball,oregon
-45,Tristan Duncan,"Lakeside, Calif.",El Capitan HS,baseball,oregon
-46,James Acuna,"Cypress, Calif.",Cypress HS,baseball,oregon
-47,Ryne Nelson,"Henderson, Nev.",Basic HS,baseball,oregon
-48,Jacob Bravo,"Ventura, Calif.",St. Bonaventure HS,baseball,oregon
-49,Peyton Fuller,"Ashland, Ore.",Ashland HS,baseball,oregon
-50,Cullen Kafka,"Walnut Creek, Calif.",De La Salle HS,baseball,oregon
-51,Jason Drees,"Stevenson Ranch, Calif.",West Ranch HS,baseball,oregon
-52,Jesse Hobaica,"Tarzana, Calif.",Calabasas HS,baseball,oregon
-53,Alex Andranovich,"Poway, Calif.",Poway HS,baseball,oregon
-54,Taylor Travess,"Springfield, Ore.",Springfield HS,baseball,oregon
-55,Hunter Breault,"Kapolei, Hawaii",Kamehemeha Schools,baseball,oregon
-56,Thomas Graham Jr.,"Rancho Cucamonga, Calif.",Rancho Cucamonga,football,oregon
-57,Taj Griffin,"Powder Springs, Ga.",McEachern,football,oregon
-58,Ugochukwu Amadi,"Nashville, Tenn.",Overton,football,oregon
-59,Justin Herbert,"Eugene, Ore.",Sheldon,football,oregon
-60,Steve Stephens,"Fresno, Calif.",Edison HS,football,oregon
-61,Braxton Burmeister,"La Jolla, Calif.",La Jolla Country Day,football,oregon
-62,Justin Hollins,"Arlington, Texas",Martin,football,oregon
-63,Sampson Niu,"San Diego, Calif.",Madison,football,oregon
-64,Tyler Shough,"Chandler, Ariz.",Hamilton HS,football,oregon
-65,Dillon Mitchell,"Memphis, Tenn.",White Station,football,oregon
-66,Demetri Burch,"Apopka, Fla.",Apopka,football,oregon
-67,Haki Woods,"Chicago, Ill.",South Bend Washington HS (Ind.),football,oregon
-68,Deommodore Lenoir,"Los Angeles, Calif.",Salesian,football,oregon
-69,Nick Pickett,"Los Angeles, Calif.",Salesian,football,oregon
-70,Mike Irwin,"Lake Oswego, Ore.",Lakeridge,football,oregon
-71,Jalen Hall,"Los Angeles, Calif.",Long Beach Poly HS,football,oregon
-72,Tony Brooks-James,"Gainesville, Fla.",Gainesville,football,oregon
-73,Travis Dye,"Norco, Calif.",Norco HS,football,oregon
-74,Mattrell McGraw,"New Orleans, La.",John Curtis,football,oregon
-75,Darrian  Felix,"Fort Myers, Fla.",Fort Myers,football,oregon
-76,Malik Lovette,"Redlands, Calif.",Redlands East Valley,football,oregon
-77,Verone McKinley III,"Carrolton, Texas",Hebron HS,football,oregon
-78,Keith Simms,"Washington, D.C.",Landon,football,oregon
-79,Brady Breeze,"Lake Oswego, Ore.",Central Catholic,football,oregon
-80,CJ Verdell,"Chula Vista, Calif.",Mater Dei,football,oregon
-81,Kyle Buckner,"Eastvale, Calif.",Roosevelt,football,oregon
-82,Jacob Breeland,"Mission Viejo, Calif.",Trabuco Hills,football,oregon
-83,Billy Gibson,"Hialeah, Fla.",Miami Southridge,football,oregon
-84,Jaylon Redd,"Rancho Cucamonga, Calif.",Rancho Cucamonga,football,oregon
-85,Sean Killpatrick,"Pearland, Texas",St. Pius X,football,oregon
-86,La'Mar Winston Jr.,"Portland, Ore.",Central Catholic,football,oregon
-87,Jordan Adeyemi-John,"Placentia, Calif.",Valencia HS,football,oregon
-88,Cyrus Habibi-Likio,"Mountain View, Calif.",St. Francis,football,oregon
-89,Jordon Scott,"Largo, Fla.",Pinellas Park,football,oregon
-90,Troy Dye,"Norco, Calif.",Norco,football,oregon
-91,Charles Sudduth,"Fairbanks, Alaska",West Valley,football,oregon
-92,Noah Holmes,"Huntington Beach, Calif.",Marina HS,football,oregon
-93,Dexter Myers,"Pasadena, Calif.",Maranatha,football,oregon
-94,Alec Hallman,"Lithia, Fla.",Newsome,football,oregon
-95,Kaulana Apelu,"Aiea, Hawaii",Kamehameha,football,oregon
-96,Noah Dahl,"Silverton, Ore.",Silverton HS,football,oregon
-97,Zach Emerson,"Bend, Ore.",Mountain View,football,oregon
-98,Blake Maimone,"Thousand Oaks, Calif.",Oaks Christian,football,oregon
-99,Isaac Slade-Matautia,"Honolulu, Hawaii",St. Louis,football,oregon
-100,D.J.  Johnson,"Sacramento, Calif.",Luther Burbank HS,football,oregon
-101,Matt Mariota,"Honolulu, Hawaii",Saint Louis,football,oregon
-102,Gus Cumberlander,"Ellenwood, Ga.",Cedar Grove,football,oregon
-103,Nate Heaukulani,"Portland, Ore.",Jesuit HS,football,oregon
-104,Hunter Kampmoyer,"Bishop, Calif.",Bishop Union,football,oregon
-105,Popo Aumavae,"Stockton, Calf.",St. Mary's,football,oregon
-106,Gary Baker,"Upland, Calif.",Upland,football,oregon
-107,Cody Shear,"Eugene, Ore.",Sheldon,football,oregon
-108,Matt Christman,"Honolulu, Hawaii",Punahou HS,football,oregon
-109,Calvin Throckmorton,"Bellevue, Wash.",Newport,football,oregon
-110,Jake Hanson,"Eureka, Calif.",Eureka,football,oregon
-111,Bryson Young,"Clovis, Calif.",Buchanan,football,oregon
-112,Ryan Walk,"Eugene, Ore.",Sheldon,football,oregon
-113,Logan Bathke,"Orange, Calif.",Lutheran,football,oregon
-114,Charlie Landgraf,"Portland, Ore.",Hotchkiss School (Conn.),football,oregon
-115,Brady Aiello,"Lafayette, Calif.",Acalanes,football,oregon
-116,Devin Melendez,"La Habra, Calif.",La Habra,football,oregon
-117,Shane Lemieux,"Yakima, Wash.",West Valley,football,oregon
-118,Jacob Capra,"Auburn, Calif.",Placer,football,oregon
-119,Sam Poutasi,"Las Vegas, Nev.",Desert Pines,football,oregon
-120,George Moore,"Antioch, Calif.",Deer Valley,football,oregon
-121,Alex Forsyth,"West Linn, Ore.",West Linn,football,oregon
-122,Johnny Johnson III,"Chandler, Ariz.",Chandler,football,oregon
-123,Daewood Davis,"Hollywood, Fla.",Deerfield Beach,football,oregon
-124,Cam McCormick,"Bend, Ore.",Summit,football,oregon
-125,Alfonso Cobb,"Chesterhill, Ohio",Federal Hocking,football,oregon
-126,Brenden Schooler,"Dana Point, Calif.",Mission Viejo,football,oregon
-127,Ryan Bay,"Tigard, Ore.",Tigard,football,oregon
-128,Drayton Carlberg,"Minneapolis, Minn.",DeLaSalle,football,oregon
-129,Jack  Vecchi,"Portland, Ore.",Central Catholic,football,oregon
-130,Malik Young,"Marietta, GA",Sprayberry,football,oregon
-131,Adam Stack,"Honolulu, Hawaii",Kamehameha,football,oregon
-132,Jalen Jelks,"Phoenix, Ariz.",Desert Vista,football,oregon
-133,Austin Faoliu,"Santa Ana, Calif.",Mater Dei,football,oregon
-134,Katelyn Carter,"Fullerton, Calif.",Troy HS,womens soccer,oregon
-135,Halla Hinriksdottir,"Mosfellsbaer, Iceland",The Commercial College,womens soccer,oregon
-136,Eden Hardy,"Arcadia, Calif.",Arcadia HS,womens soccer,oregon
-137,Chardonnay Curran,"Ewa Beach, Hawaii",James Campbell HS,womens soccer,oregon
-138,True Dydasco,"Honolulu, Hawaii",Punahou HS,womens soccer,oregon
-139,Chai Cortez,"Kahului, Hawaii",Maui HS,womens soccer,oregon
-140,Jordan Wormdahl,"Eugene, Ore.",North Eugene HS,womens soccer,oregon
-141,Emma  Eddy,"Eugene, Ore.",Sheldon HS,womens soccer,oregon
-142,Taylor Kuroda,"Honolulu, Hawai'i",Iolani School,womens soccer,oregon
-143,Alyssa Hinojosa,"Sylmar, Calif.",Viewpoint School,womens soccer,oregon
-144,Nicole  Seaman,"Scottsdale, Ariz.",Desert Mountain HS,womens soccer,oregon
-145,Bayley Bruner,"Draper, Utah",Corner Canyon HS,womens soccer,oregon
-146,Mia  Palmer,"Portland, Ore.",Grant HS,womens soccer,oregon
-147,Kyra Fawcett,"Bountiful, Utah",Woods Cross HS,womens soccer,oregon
-148,Emily Kaestner,"Houston, Tex.",Houston Christian HS,womens soccer,oregon
-149,Jessica Yu,"Sunnyvale, Calif.",Fremont HS,womens soccer,oregon
-150,Zoe Hasenauer,"Simi Valley, Calif.",Royal HS,womens soccer,oregon
-151,Claire Watkins,"San Diego, Calif.",Helix Charter HS,womens soccer,oregon
-152,Marissa Everett,"Canyon Lake, Calif.",Temescal Canyon HS,womens soccer,oregon
-153,Brianne Parsons,"Santa Rosa, Calif.",Maria Carrillo HS,womens soccer,oregon
-154,Maja Flengsrud,"Hamar, Norway",WANG Toppidrett HS,womens soccer,oregon
-155,Mary Jane Erving,"Eugene, Ore.",Sheldon HS,womens soccer,oregon
-156,Hannah Wilson,"San Antonio, Texas",Alamo Heights HS,womens soccer,oregon
-157,Hannah  Taylor,"Edmonds, Wash.",Meadowdale HS,womens soccer,oregon
-158,Charlotte Brisley,"Excelsior, Minn.",Shattuck-St. Mary's School,womens soccer,oregon
-159,Sofia Chambers,"Westlake Village, Calif.",Agoura HS,womens soccer,oregon
-160,Jazmin Jackmon,"Pasadena, Calif.",South Pasadena HS,womens soccer,oregon
-161,Tanner Anderson,"Spokane, Wash.",North Central,mens cross country,oregon
-162,Reed Brown,"Grapevine, Texas",Southlake Carroll,mens cross country,oregon
-163,Connor Clark,"Mill Valley, Calif.",San Francisco University HS,mens cross country,oregon
-164,Bryan Fernandez,"Santa Barbara, Calif.",Dos Pueblos,mens cross country,oregon
-165,Blake Haney,"Bakersfield, Calif.",Stockdale,mens cross country,oregon
-166,Jaxson Hoey,"Downington, Pa.",Downington West,mens cross country,oregon
-167,Matthew Maton,"Bend, Ore.",Summit,mens cross country,oregon
-168,Jackson Mestler,"Eugene, Ore.",Sheldon,mens cross country,oregon
-169,Travis Neuman,"Bend, Ore.",Summit,mens cross country,oregon
-170,Sam Prakel,"Versailles, Ohio",Versailles,mens cross country,oregon
-171,Mick Stanovsek,N/A,N/A,mens cross country,oregon
-172,Austin Tamagno,"Brea, Calif.",Brea Olinda,mens cross country,oregon
-173,Cooper  Teare,"Alameda, Calif.",St. Joseph Notre Dame,mens cross country,oregon
-174,Levi Thomet,"Kodiak, Alaska",Kodiak,mens cross country,oregon
-175,James West,"Kent, England, UK",Loughborough University,mens cross country,oregon
-176,Jack Yearian,"Tacoma, Wash.",Bellarmine Prep,mens cross country,oregon
-177,Emma Abrahamson,"Carlsbad, Calif.",La Costa Canyon,womens cross country,oregon
-178,Lilli Burdon,"Auckland, New Zealand",St. Hilda's,womens cross country,oregon
-179,Carmela Cardama Baez,"Vigo, Spain",IES do Castro,womens cross country,oregon
-180,Alli Cash,"Lexexa, Kan.",Shawnee Mission West,womens cross country,oregon
-181,Susan Ejore,"Nakuru, Kenya",St. Gabriel's Mission School,womens cross country,oregon
-182,Brooke Feldmeier,"Olympia, Wash.",Tumwater,womens cross country,oregon
-183,Jessica Hull,"Albion Park, Australia",Albion Park,womens cross country,oregon
-184,Rennie Kendrick,"Portland, Ore.",Grant,womens cross country,oregon
-185,Kiley McCarthy,"Carsbad, Calif.",Carlsbad,womens cross country,oregon
-186,Kate Murphy,"Burke, Va.",Lake Braddock,womens cross country,oregon
-187,Judy Pendergast,"Naperville, Ill.",Naperville North HS,womens cross country,oregon
-188,Katie Rainsberger,"Colorado Springs, Colo.",Air Academy,womens cross country,oregon
-189,Sabrina Southerland,"New York, N.Y.",Benjamin N. Cardozo,womens cross country,oregon
-190,Marcel Boet,"Christchurch, New Zealand",St. Andrews College,mens golf,oregon
-191,Sam Foust,"Edina, Minn.",Edina HS,mens golf,oregon
-192,Kevin Geniza,"Corvallis, Ore.",Crescent Valley HS,mens golf,oregon
-193,Ryan Gronlund,"Pleasanton, Calif.",Foothill HS,mens golf,oregon
-194,Donald Kay,"San Diego, Calif.",Patrick Henry HS,mens golf,oregon
-195,Roberto Lebrija,"Rancho Santa Fe, Calif.",La Jolla Country Day HS,mens golf,oregon
-196,Kymer Li,"Hong Kong, China",IMG Academy,mens golf,oregon
-197,Thomas Mulligan,"Dublin, Ireland",St. Mary's,mens golf,oregon
-198,Teddy Oitzman,"Rancho Santa Fe, Calif.",St. Augustine HS,mens golf,oregon
-199,Norman Xiong,"Canyon Lake, Calif.",Temescal Canyon High School,mens golf,oregon
-200,Edwin Yi,"Beaumont, Calif.",Lourus Academy HS,mens golf,oregon
-201,Madi Daniel,"Bakersfield, Calif.",Bakersfield Christian,womens golf,oregon
-202,Amy Matsuoka,"Newport Beach, Calif.",Corona Del Mar,womens golf,oregon
-203,Alexis Phadungmartvorakul,"Taft, Calif.",Ambassador Bilingual School,womens golf,oregon
-204,Petra Salko,"Turku, Finland",Puolalanmaen Lukio,womens golf,oregon
-205,Kathleen Scavo,"Benicia, Calif.",Justin Siena HS,womens golf,oregon
-206,Ty Gentry,"Olympia, Wash.",Tumwater,mens tennis,oregon
-207,Thomas Laurent,"Montpellier, France",Lycee Jean Monnet High School,mens tennis,oregon
-208,Riki Oshima,"Toyama, Japan",Aioi Gakuin HS,mens tennis,oregon
-209,Charles Roberts,"Bangkok, Thailand",Thammasat University,mens tennis,oregon
-210,Armando Soemarno,"Jakarta, Indonesia",Al-izhar Pondok Labu/Homeschooling Kak Seto,mens tennis,oregon
-211,Ethan Young-Smith,"Bend, Ore.",Weil College Prepatory (Calif.),mens tennis,oregon
-212,Julia  Eshet,"Hollywood, Fla.",Laurel Springs Online HS,womens tennis,oregon
-213,Rifanty Kahfiani,"Bandung, Indonesia",Homeschooling Kak Seto,womens tennis,oregon
-214,Julia Lilien,"Scottsdale, Ariz.",Laurel Springs HS,womens tennis,oregon
-215,Daniela Nasser,"Tampa, Fla.",Academy of Holy Names,womens tennis,oregon
-216,Shweta Sangwan,"Bradenton, Fla. (India)",IMG Academy,womens tennis,oregon
-217,Paiton Wagner,"Cashmere, Wash.",Cashmere HS,womens tennis,oregon
-218,Joseph Anderson,"Rancho Cucamonga, Calif.",Upland,mens track,oregon
-219,Tanner Anderson,"Spokane, Wash.",North Central,mens track,oregon
-220,Sebastian Barajas,"Hood River, Ore.",Hood River Valley HS,mens track,oregon
-221,Seth Berdahl,"Forest Grove, OR",Forest Grove,mens track,oregon
-222,Drake  Brennan,"Grants Pass, Ore.",Grants Pass,mens track,oregon
-223,Jared Briere,"Woonsocket, RI.",Woonsocket,mens track,oregon
-224,Reed Brown,"Grapevine, Texas",Southlake Carroll,mens track,oregon
-225,Braxton Canady,"Jacksonville, Fla.",Paxon School for Advanced Studies,mens track,oregon
-226,Rieker Daniel,"Boring, Ore.",Oregon City,mens track,oregon
-227,Orwin Emilien,N/A,N/A,mens track,oregon
-228,Bryan Fernandez,"Santa Barbara, Calif.",Dos Pueblos,mens track,oregon
-229,Cravon Gillespie,"Pasadena, Calif.",Monrovia,mens track,oregon
-230,Blake Haney,"Bakersfield, Calif.",Stockdale,mens track,oregon
-231,Jonathan Harvey,"Tracy, Calif.",De La Salle,mens track,oregon
-232,Jaxson Hoey,"Downington, Pa.",Downington West,mens track,oregon
-233,Charlie Hunter,"Gosford, Australia",Central Coast Grammar School,mens track,oregon
-234,Tristan James,"Salem, Ore.",West Salem,mens track,oregon
-235,Max Lydum,"Independence, Ore.",Central,mens track,oregon
-236,Matthew Maton,"Bend, Ore.",Summit,mens track,oregon
-237,Jackson Mestler,"Eugene, Ore.",Sheldon,mens track,oregon
-238,Ben Milligan,"Portland, Ore.",Sherwood,mens track,oregon
-239,Travis Neuman,"Bend, Ore.",Summit,mens track,oregon
-240,Chin Ng,N/A,N/A,mens track,oregon
-241,John Nizich,"Oregon City, Ore.",Central Catholic,mens track,oregon
-242,Sam Prakel,"Versailles, Ohio",Versailles,mens track,oregon
-243,Rocky Rainey,"League City, Texas",LC Clear Falls,mens track,oregon
-244,Drew Russert,"Los Altos, Calif.",Mountain View HS,mens track,oregon
-245,Spenser Schmidt,"Eugene, Ore.",Churchill,mens track,oregon
-246,Julius Shellmire,"Portland, Ore.",Grant,mens track,oregon
-247,Damarcus Simpson,"Lafayatte, Ga.",Lafayette,mens track,oregon
-248,Mick Stanovsek,N/A,N/A,mens track,oregon
-249,Cameron Stone,"Sacramento, Calif.",Sheldon,mens track,oregon
-250,Rashad Swank-Jones,"Seattle, Wash.",Garfield,mens track,oregon
-251,Austin Tamagno,"Brea, Calif.",Brea Olinda,mens track,oregon
-252,Cooper  Teare,"Alameda, Calif.",St. Joseph Notre Dame,mens track,oregon
-253,Austin Tharp,"Eugene, Ore.",Sheldon,mens track,oregon
-254,Levi Thomet,"Kodiak, Alaska",Kodiak,mens track,oregon
-255,Austin Torres,"Red Bluff, Calif.",Red Bluff,mens track,oregon
-256,Jackson VanVuren,"Hillsboro, Ore.",Faith Bible Christian,mens track,oregon
-257,Myles Webb,"Glendale, Calif.",Oaks Christian,mens track,oregon
-258,James West,"Kent, England, UK",Loughborough University,mens track,oregon
-259,Jack Yearian,"Tacoma, Wash.",Bellarmine Prep,mens track,oregon
-260,JoJo Ananouko,"Portland, Ore.",Jesuit,womens track,oregon
-261,Shae Anderson,"Norco, Calif.",Norco,womens track,oregon
-262,Lilli Burdon,"Auckland, New Zealand",St. Hilda's,womens track,oregon
-263,Carmela Cardama Baez,"Vigo, Spain",IES do Castro,womens track,oregon
-264,Alli Cash,"Lexexa, Kan.",Shawnee Mission West,womens track,oregon
-265,Chaquinn Cook,"Portland, Ore.",Benson,womens track,oregon
-266,Kerissa D'Arpino,"Grants Pass, Ore.",North Valley,womens track,oregon
-267,Venessa D'Arpino,"Grants Pass, Ore.",North Valley,womens track,oregon
-268,Briyahna DesRosiers,"Chicago, Ill.",North Lawndale Prep,womens track,oregon
-269,Makenzie Dunmore,"Powder Springs, Ga.",McEachern,womens track,oregon
-270,Susan Ejore,"Nakuru, Kenya",St. Gabriel's Mission School,womens track,oregon
-271,Brooke Feldmeier,"Olympia, Wash.",Tumwater,womens track,oregon
-272,Rhesa Foster,"Clovis, Calif.",Clovis North,womens track,oregon
-273,Amanda Gehrich,"Trabuco Canyon, Calif.",Tesoro,womens track,oregon
-274,Madi Greenleaf,"Lake Oswego, Ore.",Lakeridge,womens track,oregon
-275,Ashlyn Hare,"Colorado Springs, Colo.",Rampart High,womens track,oregon
-276,Jessica Hull,"Albion Park, Australia",Albion Park,womens track,oregon
-277,Khadejah Jackson,"Atlanta, Ga.",The Lovett High School,womens track,oregon
-278,Alaysha Johnson,"Houston, Texas",Spring,womens track,oregon
-279,Rennie Kendrick,"Portland, Ore.",Grant,womens track,oregon
-280,Keira McCarrell,"Salem, Ore.",West Salem,womens track,oregon
-281,Kiley McCarthy,"Carsbad, Calif.",Carlsbad,womens track,oregon
-282,Kate Murphy,"Burke, Va.",Lake Braddock,womens track,oregon
-283,Samantha Nadel,"Glen Head, N.Y.",North Shore,womens track,oregon
-284,Kylee O'Connor,"Eugene, Ore.",Sheldon HS,womens track,oregon
-285,Judy Pendergast,"Naperville, Ill.",Naperville North HS,womens track,oregon
-286,Kiana Phelps,"Kingsley, Iowa",Kingsley-Pierson,womens track,oregon
-287,Maddie Rabing,"Lake Oswego, Ore.",Lakeridge,womens track,oregon
-288,Katie Rainsberger,"Colorado Springs, Colo.",Air Academy,womens track,oregon
-289,Jasmin Reed,"Carson, Calif.",Serra Junipero,womens track,oregon
-290,Alexis Rigmaiden,"Lake Charles, La.",St. Louis Catholic,womens track,oregon
-291,Kaylah Robinson,"Richmond, Calif.",El Cerrito,womens track,oregon
-292,Sabrina Southerland,"New York, N.Y.",Benjamin N. Cardozo,womens track,oregon
-293,Ruby Stauber,"Plymouth, Minn.",Wayzata,womens track,oregon
-294,Keera Stephen,"Ontario, Calif.",Colony,womens track,oregon
-295,Ronna Stone,"San Jose, Calif.",Valley Christian,womens track,oregon
-296,Rachel  Vinjamuri,"Newport, Ore.",Newport,womens track,oregon
-297,Sydnee Walker,"Roswell, Ga.",King's Ridge Christian,womens track,oregon
-298,Hannah Waller,"Clovis, Calif.",Buchanan,womens track,oregon
-299,Ariana Washington,"Signal Hill, Calif.",Poly,womens track,oregon
-300,Lauren Rain Williams,"Lakewood, Calif.",Oaks Christian,womens track,oregon
-301,Darya Kaboli-Nejad,"Omaha, Neb.",Skutt Catholic HS,softball,oregon
-302,Lauren Burke,"Eugene, Ore.",Marist HS,softball,oregon
-303,April Utecht,"Richland, Wash.",Richland HS,softball,oregon
-304,Mia Camuso,"Redding, Calif.",Shasta HS,softball,oregon
-305,Shannon Rhodes,"Ft. Worth, Texas",Brewer HS,softball,oregon
-306,Alexis Mack,"Brecksville, Ohio",Brecksville-Broadview HS,softball,oregon
-307,Mary Iakopo,"Carson, Calif.",Los Alamitos HS,softball,oregon
-308,Megan Kleist,"Appleton, Wis.",Kimberly HS,softball,oregon
-309,Madi Bishop,"Jonesboro, Ark.",Jonesboro HS,softball,oregon
-310,Maggie Balint,"West Grove, Pa.",Avon Grove HS,softball,oregon
-311,Haley Cruse,"San Diego, Calif.",Del Norte HS,softball,oregon
-312,Shaye Bowden,"Phoenix, Ariz.",Sunnyslope HS,softball,oregon
-313,Cherish Burks,"Manteca, Calif.",East Union HS,softball,oregon
-314,Miranda Elish,"Crown Point, Ind.",Crown Point HS,softball,oregon
-315,Allee Bunker,"Huntington Beach, Calif.",Huntington Beach HS,softball,oregon
-316,Rachel Cid,"Tracy, Calif.",Tracy HS,softball,oregon
-317,Hannah Galey,"Scappoose, Ore.",Scappoose HS,softball,oregon
-318,Alyssa Pinto,"Lodi, Calif.",Lodi HS,softball,oregon
-319,Jasmine Sievers,"Mission Viejo, Calif.",Capistrano Valley HS,softball,oregon
-320,Lexi Wagner,"Venetia, Pa.",Seaton-Lasalle HS,softball,oregon
-321,Karson Bacon,"Fontana, California",Rancho Cucamonga,womens volleyball,oregon
-322,Taylor Borup,"Leesburg, Va.",Loudon County,womens volleyball,oregon
-323,Chandlar Duff,"Detroit, Mich.",Grosse Point South,womens volleyball,oregon
-324,Sumeet Gill,"Elk Grove, Calif.",Pleasant Grove,womens volleyball,oregon
-325,Kyra Hanawahine,"Honolulu, Hawaii",Kamehameha Schools,womens volleyball,oregon
-326,Willow Johnson,"Paradise Valley, Ariz.",Notre Dame Prep,womens volleyball,oregon
-327,Brooke Nuneviller,"Chandler, Ariz.",Corona del Sol,womens volleyball,oregon
-328,Lauren Page,"Riverside, Calif.",King,womens volleyball,oregon
-329,August Raskie,"Colorado Springs, Colo.",Rampart,womens volleyball,oregon
-330,Jolie Rasmussen,"Encinitas, Calif.",Canyon Crest Academy,womens volleyball,oregon
-331,Kylie Robinson,"Upland, Calif.",Claremont,womens volleyball,oregon
-332,Ronika Stone,"San Jose, Calif.",Valley Christian,womens volleyball,oregon
-333,Camryn Tastad,"Solana Beach, Calif.",Sante Fe Christian,womens volleyball,oregon
-334,Brooke Van Sickle,"Battle Ground, Wash.",Battle Ground,womens volleyball,oregon
-335,Lindsey Vander Weide,"Turlock, Calif.",Pitman,womens volleyball,oregon
-336,Maddie Clark,"Baltimore, Md.",Institute of Notre Dame,womens lacrosse,oregon
-337,Lexy Biller,"Ashburn, Va.",Broad Run HS,womens lacrosse,oregon
-338,Lindsey White,"Queensbury, N.Y.",Queensbury HS,womens lacrosse,oregon
-339,Madeline Reece,N/A,N/A,womens lacrosse,oregon
-340,JoJo Hesketh,"Simsbury, Conn.",Simsbury HS,womens lacrosse,oregon
-341,Caroline Jaworski,"Ijamsville, Md.",Oakdale HS,womens lacrosse,oregon
-342,Lindsey Kail,"Pleasanton, Calif.",Foothill HS,womens lacrosse,oregon
-343,Julia Taylor,"Tustin, Calif.",Foothill HS,womens lacrosse,oregon
-344,Natalie Modly,"Annapolis, Md.",St. Mary's HS,womens lacrosse,oregon
-345,Heather Engellis,"Northport, N.Y.",Northport HS,womens lacrosse,oregon
-346,Jen Lanuza,"Littleton, Colo.",Chatfield Senior High,womens lacrosse,oregon
-347,Maddie Terefenko,"Sinking Spring, Pa.",Wilson HS,womens lacrosse,oregon
-348,Haileigh Farrell,"Syracuse, N.Y.",Westhill HS,womens lacrosse,oregon
-349,Jill Zubillaga,"Kennett Square, Pa.",Unionville HS,womens lacrosse,oregon
-350,Claire Domshick,"Severna Park, MD.",Severna Park HS,womens lacrosse,oregon
-351,Molly Carr,"Severna Park, MD.",Severna Park HS,womens lacrosse,oregon
-352,Devan Michael,"Shrewsbury, Mass.",Shrewsbury HS,womens lacrosse,oregon
-353,Morgan Santiago,"Fallston, Md.",John Carroll HS,womens lacrosse,oregon
-354,Cambi Cukar,"Pleasanton, Calif.",Amador Valley HS,womens lacrosse,oregon
-355,Emily Munro,"Highlands Ranch, Colo.",Kent Denver HS,womens lacrosse,oregon
-356,Lillian Stump,"Davidson, MD.",Archbishop Spalding HS,womens lacrosse,oregon
-357,Mariah Gatti,"West Linn, Ore.",West Linn HS,womens lacrosse,oregon
-358,Morgan Finklea,"West Linn, Ore.",West Linn HS,womens lacrosse,oregon
-359,Mandi Trostle,"Eldersburg, Md.",Century HS,womens lacrosse,oregon
-360,Shannon Williams,"Bel Air, Md.",Bel Air HS,womens lacrosse,oregon
-361,Brittany Read,"Gibbsboro, N.J.",Eastern Regional HS,womens lacrosse,oregon
-362,Alle Dunbar,"Mercer Island, Wash.",Mercer Island HS,womens lacrosse,oregon
-363,Allison Mervine,"Pasadena, MD.",Archbishop Spalding HS,womens lacrosse,oregon
-364,Gracyn Elliott,"Willowbrook, Ill.",Hinsdale Central HS,womens lacrosse,oregon
-365,Taylor Agost,"Happy Valley, Ore.",Clackamas,womens beach volleyball,oregon
-366,Josie Cole,"Lafayette, Calif.",N/A,womens beach volleyball,oregon
-367,Sumeet Gill,"Elk Grove, Calif.",Pleasant Grove,womens beach volleyball,oregon
-368,Marine Hall-Poirier,"Portola Valley, Calif.",Woodside Priory,womens beach volleyball,oregon
-369,Kyra Hanawahine,"Honolulu, Hawaii",Kamehameha Schools,womens beach volleyball,oregon
-370,Alex Hojnar,"Western Springs, Ill.",Lyons,womens beach volleyball,oregon
-371,Willow Johnson,"Paradise Valley, Ariz.",Notre Dame Prep,womens beach volleyball,oregon
-372,Lauren Page,"Riverside, Calif.",King,womens beach volleyball,oregon
-373,August Raskie,"Colorado Springs, Colo.",Rampart,womens beach volleyball,oregon
-374,Jolie Rasmussen,"Encinitas, Calif.",Canyon Crest Academy,womens beach volleyball,oregon
-375,Maggie Scott,"Wildwood, Mo.",Lafayette,womens beach volleyball,oregon
-376,Ronika Stone,"San Jose, Calif.",Valley Christian,womens beach volleyball,oregon
-377,Brooke Van Sickle,"Battle Ground, Wash.",Battle Ground,womens beach volleyball,oregon
-378,Lindsey Vander Weide,"Turlock, Calif.",Pitman,womens beach volleyball,oregon
-379,Callista Wulff,"Laguna Beach, Calif.",N/A,womens beach volleyball,oregon
-380,Olivia Gamboa,"Reno, Nev.",Reno HS,womens acrobatics,oregon
-381,Claire Vogelsang,"Newhall, Calif.",William S. Hart HS,womens acrobatics,oregon
-382,Sierra Garcia,"Morganville, N.J.",Red Bank Catholic HS,womens acrobatics,oregon
-383,Becky Wanca,"Glendale, Ariz.",Mountain Ridge HS,womens acrobatics,oregon
-384,TJ McCourt,"Brick, N.J.",Brick Township HS,womens acrobatics,oregon
-385,Megan Barney,"Temecula, Calif.",Great Oak HS,womens acrobatics,oregon
-386,Hannah Blair,"Springfield, Ohio",Kenton Ridge HS,womens acrobatics,oregon
-387,Casi Jackson,"Orange, Calif.",Villa Park HS,womens acrobatics,oregon
-388,Alexis Terra,"Soldtona, Alaska",Soldtona HS,womens acrobatics,oregon
-389,Alexis Cross,"Eugene, Ore.",Marist HS,womens acrobatics,oregon
-390,Calyx Hampton,"Ontario, Calif.",Western Christian HS,womens acrobatics,oregon
-391,Payton Coon,"Portland, Ore.",Sunset HS,womens acrobatics,oregon
-392,Samantha Little,"Saugus, Calif.",Saugus HS,womens acrobatics,oregon
-393,Yeelena Faustino,"San Diego, Calif.",San Diego HS,womens acrobatics,oregon
-394,Reagan Trussell,"Irvine, Calif.",Woodbridge HS,womens acrobatics,oregon
-395,Taylor Galvin,"Foothill Ranch, Calif.",El Toro HS,womens acrobatics,oregon
-396,Sabrina Peyton,"Aurora, Colo.",Grandview HS,womens acrobatics,oregon
-397,Amber Piwkiewicz,"El Dorado Hills, Calif.",Oak Ridge HS,womens acrobatics,oregon
-398,Katie Bachman,"Bridgewater, N.J.",Immaculata HS,womens acrobatics,oregon
-399,Annelyse Robinson,"Wilsonville, Ore.",Wilsonville HS,womens acrobatics,oregon
-400,Kendall Green,"Moraga, Calif.",Campolindo HS,womens acrobatics,oregon
-401,Maddy Hite,"Corvallis, Ore.",Crescent Valley HS,womens acrobatics,oregon
-402,Lillian Garvens,"San Antonio, Texas",Winston Churchill HS,womens acrobatics,oregon
-403,Cheyenne Holliday,"Boring, Ore.",Sandy HS,womens acrobatics,oregon
-404,Caitlynn Emick,"Piedmont, S.D.",Sturgis Brown HS,womens acrobatics,oregon
-405,MaKenna Jarman,"Trabuco Canyon, Calif.",Dana Hills HS,womens acrobatics,oregon
-406,Mikaela  Moore,"Franklin, Tenn.",Grace Christian Academy,womens acrobatics,oregon
-407,Caroline Matos,"Carlsbad, Calif.",La Costa Canyon HS,womens acrobatics,oregon
-408,Samantha Shulman,"Reno, Nev.",Galena HS,womens acrobatics,oregon
-409,Ashley Jamison,"Ocean City, N.J.",Ocean City HS,womens acrobatics,oregon
-410,Jackie Woods,"Fairfield, Calif.",Rodriguez HS,womens acrobatics,oregon
-411,Kalee Gamez,"Gilbert, Ariz.",Gilbert HS,womens acrobatics,oregon
-412,Kaylee Nicklos,"Bellevue, Wash.",Newport HS,womens acrobatics,oregon
-413,Addie Lacewell,"Naperville, Ill.",Neugua Valley HS,womens acrobatics,oregon
-414,Ali Garwood,"Albany, Ore.",Santiam Christian HS,womens acrobatics,oregon
-415,Daria Osborn,"Temecula, Calif.",Great Oak HS,womens acrobatics,oregon
-416,Maria Edwards,"San Antonio, Texas",International School of the Americas,womens acrobatics,oregon
-417,Tia Thomas,"Auburn, Wash.",Federal Way HS,womens acrobatics,oregon
+14,Nyara Sabally,"Berlin, Germany",Rotteck Gymnasium,womens basketball,oregon
+15,Morgan Yaeger,"Adelaide, Australia",St. John's Grammar School,womens basketball,oregon
+16,Taylor Chavez,"Surprise, Ariz.",Valley Vista HS,womens basketball,oregon
+17,Maite Cazorla,"Las Palmas, Spain",Segle XXI,womens basketball,oregon
+18,Lydia Giomi,"Seattle, Wash.",West Seattle HS,womens basketball,oregon
+19,Sabrina Ionescu,"Walnut Creek, Calif.",Miramonte HS,womens basketball,oregon
+20,Erin Boley,"Hodgenville, Ky.",Elizabethtown HS,womens basketball,oregon
+21,Ruthy Hebard,"Fairbanks, Alaska",West Valley HS,womens basketball,oregon
+22,Oti Gildon,"Spokane, Wash.",Gonzaga Prep,womens basketball,oregon
+23,Brett Walker,"Fresno, Calif.",Clovis North HS,baseball,oregon
+24,Cameron Campbell,"Ellensburg, Wash.",Ellensburg HS,baseball,oregon
+25,Jonny DeLuca,"Agoura Hills, Calif.",Agoura HS,baseball,oregon
+26,Spencer Steer,"Long Beach, Calif.",Millikan HS,baseball,oregon
+27,Gabe Matthews,"Salem, Ore.",South Salem HS,baseball,oregon
+28,Nico Tellache,"Canby, Ore.",Canby HS,baseball,oregon
+29,Cole Stringer,"Portland, Ore.",Central Catholic HS,baseball,oregon
+30,Evan Williams,"Scottsdale, Ariz.",Horizon HS,baseball,oregon
+31,Kenyon Yovan,"Beaverton, Ore.",Westview HS,baseball,oregon
+32,Jakob Goldfarb,"Scottsdale, Ariz.",Desert Mountain HS,baseball,oregon
+33,Kolby Somers,"Hillsboro, Ore.",Century HS,baseball,oregon
+34,Taylor Adams,"Lacey, Wash.",Timberline HS,baseball,oregon
+35,Tristan Duncan,"Lakeside, Calif.",El Capitan HS,baseball,oregon
+36,Ryne Nelson,"Henderson, Nev.",Basic HS,baseball,oregon
+37,Peyton Fuller,"Ashland, Ore.",Ashland HS,baseball,oregon
+38,Cullen Kafka,"Walnut Creek, Calif.",De La Salle HS,baseball,oregon
+39,Jason Drees,"Stevenson Ranch, Calif.",West Ranch HS,baseball,oregon
+40,Hunter Breault,"Kapolei, Hawaii",Kamehemeha Schools,baseball,oregon
+41,Johnny Johnson III,"Chandler, Ariz.",Chandler HS,football,oregon
+42,Thomas Graham Jr.,"Rancho Cucamonga, Calif.",Rancho Cucamonga HS,football,oregon
+43,Ugochukwu Amadi,"Nashville, Tenn.",Overton HS,football,oregon
+44,Jevon Holland,"Pleasanton, Calif.",Bishop O'Dowd HS,football,oregon
+45,Brenden Schooler,"Dana Point, Calif.",Mission Viejo HS,football,oregon
+46,Justin Herbert,"Eugene, Ore.",Sheldon HS,football,oregon
+47,Steve Stephens,"Fresno, Calif.",Edison HS,football,oregon
+48,Braxton Burmeister,"La Jolla, Calif.",La Jolla Country Day HS,football,oregon
+49,Justin Hollins,"Arlington, Texas",Martin HS,football,oregon
+50,Tyler Shough,"Chandler, Ariz.",Hamilton HS,football,oregon
+51,Haki Woods Jr.,"Chicago, Ill.",South Bend Washington HS (Ind.),football,oregon
+52,Dillon Mitchell,"Memphis, Tenn.",White Station HS,football,oregon
+53,Demetri Burch,"Apopka, Fla.",Apopka HS,football,oregon
+54,Deommodore Lenoir,"Los Angeles, Calif.",Salesian HS,football,oregon
+55,Nick Pickett,"Los Angeles, Calif.",Salesian HS,football,oregon
+56,Bradley Yaffe,"Atherton, Calif.",Sacred Heart Prep,football,oregon
+57,Tabari Hines,"Florence, S.C.",Marlboro County HS,football,oregon
+58,Mike Irwin,"Lake Oswego, Ore.",Lakeridge HS,football,oregon
+59,Spencer Webb,"Sacramento, Calif.",Christian Brothers HS,football,oregon
+60,Tony Brooks-James,"Gainesville, Fla.",Gainesville HS,football,oregon
+61,Tevin Jeannis,"Scappoose, Ore.",Scappoose HS,football,oregon
+62,Mattrell McGraw,"New Orleans, La.",John Curtis HS,football,oregon
+63,Darrian  Felix,"Fort Myers, Fla.",Fort Myers HS,football,oregon
+64,Verone McKinley III,"Carrollton, Texas",Hebron HS,football,oregon
+65,Vincenzo Logan,"Portland, Ore.",Central Catholic HS,football,oregon
+66,Keith Simms,"Washington, D.C.",Landon HS,football,oregon
+67,Brady Breeze,"Lake Oswego, Ore.",Central Catholic HS,football,oregon
+68,Kyle Buckner,"Eastvale, Calif.",Roosevelt HS,football,oregon
+69,Travis Dye,"Norco, Calif.",Norco HS,football,oregon
+70,Damon Hickok,"Portland, Ore.",Grant HS,football,oregon
+71,Jacob Breeland,"Mission Viejo, Calif.",Trabuco Hills HS,football,oregon
+72,Dexter Myers,"Pasadena, Calif.",Maranatha HS,football,oregon
+73,Justin Collins,"Los Angeles, Calif.",Carson HS,football,oregon
+74,Billy Gibson,"Hialeah, Fla.",Miami Southridge HS,football,oregon
+75,Adrian Jackson,"Denver, Colo.",Mullen HS,football,oregon
+76,John Keller,"Milipitas, Calif.",Milipitas HS,football,oregon
+77,Andrew Johnson Jr.,"Tifton, Ga.",Tift County HS,football,oregon
+78,Jaylon Redd,"Rancho Cucamonga, Calif.",Rancho Cucamonga HS,football,oregon
+79,Sean Killpatrick,"Pearland, Texas",St. Pius X HS,football,oregon
+80,KJ Maduike,"Santa Clarita, Calif.",Golden Valley HS,football,oregon
+81,La'Mar Winston Jr.,"Portland, Ore.",Central Catholic HS,football,oregon
+82,Jordan Adeyemi-John,"Placentia, Calif.",Valencia HS,football,oregon
+83,Cyrus Habibi-Likio,"Mountain View, Calif.",St. Francis HS,football,oregon
+84,Jordon Scott,"Largo, Fla.",Pinellas Park HS,football,oregon
+85,CJ Verdell,"Chula Vista, Calif.",Mater Dei HS,football,oregon
+86,Troy Dye,"Norco, Calif.",Norco HS,football,oregon
+87,Jace Krier,"Eugene, Ore.",Marist Catholic HS,football,oregon
+88,Charles Sudduth,"Fairbanks, Alaska",West Valley HS,football,oregon
+89,Kahlef Hailassie,"Elk Grove, Calif.",Cosumnes HS,football,oregon
+90,Noah Holmes,"Huntington Beach, Calif.",Marina HS,football,oregon
+91,Lucas Noland,"Tualatin, Ore.",Tualatin HS,football,oregon
+92,Tom Snee,"Melbourne, Australia",Frankston HS,football,oregon
+93,Kaulana Apelu,"Aiea, Hawaii",Kamehameha Schools,football,oregon
+94,Noah Dahl,"Silverton, Ore.",Silverton HS,football,oregon
+95,Zach Emerson,"Bend, Ore.",Mountain View HS,football,oregon
+96,Isaac Slade-Matautia,"Honolulu, Hawaii",St. Louis School,football,oregon
+97,MJ Cunningham,"Portland, Ore.",Madison HS,football,oregon
+98,Blake Maimone,"Thousand Oaks, Calif.",Oaks Christian HS,football,oregon
+99,Demarques Singleton,"Portland, Ore.",Grant HS,football,oregon
+100,Nick Wiebe,"Calgary, Alberta",IMG Academy (Fla.),football,oregon
+101,D.J.  Johnson,"Sacramento, Calif.",Luther Burbank HS,football,oregon
+102,Matt Mariota,"Honolulu, Hawaii",St. Louis School,football,oregon
+103,Gus Cumberlander,"Ellenwood, Ga.",Cedar Grove HS,football,oregon
+104,Nate Heaukulani,"Portland, Ore.",Jesuit HS,football,oregon
+105,Elijah Jones,"Sacramento, Calif.",Elk Grove HS,football,oregon
+106,Anthony Booker,"Encino, Calif.",Crespi HS,football,oregon
+107,Peyton Yanagi,"Honolulu, Hawaii",St. Louis School,football,oregon
+108,Hunter Kampmoyer,"Bishop, Calif.",Bishop Union HS,football,oregon
+109,Isaiah Pitre,"Oakland, Calif.",Bishop O'Dowd HS,football,oregon
+110,Devin Melendez,"La Habra, Calif.",La Habra HS,football,oregon
+111,Tyler Reid,"Eugene, Ore.",Churchill HS,football,oregon
+112,Popo Aumavae,"Stockton, Calf.",St. Mary's HS,football,oregon
+113,Gary Baker,"Upland, Calif.",Upland HS,football,oregon
+114,Andrew Faoliu,"Santa Ana, Calif.",Mater Dei HS,football,oregon
+115,Cody Shear,"Eugene, Ore.",Sheldon HS,football,oregon
+116,Matt Christman,"Honolulu, Hawaii",Punahou HS,football,oregon
+117,Ryan Walk,"Eugene, Ore.",Sheldon HS,football,oregon
+118,Calvin Throckmorton,"Bellevue, Wash.",Newport HS,football,oregon
+119,Jake Hanson,"Eureka, Calif.",Eureka HS,football,oregon
+120,Sampson Niu,"San Diego, Calif.",Madison HS,football,oregon
+121,Bryson Young,"Clovis, Calif.",Buchanan HS,football,oregon
+122,Ben Gomes,"Greenbrook, N.J.",Watchung Hills Regional HS,football,oregon
+123,Penei Sewell,"Saint George, Utah",Desert Hills HS,football,oregon
+124,Devin Lewis,"New Orleans, La.",Warren Easton HS,football,oregon
+125,Pou Peleti-Gore,"Rohnert Park, Calif.",Rancho Cotate,football,oregon
+126,Karsten Battles,"San Antonio, Texas",Claudia Taylor Johnson HS,football,oregon
+127,Charlie Landgraf,"Portland, Ore.",Hotchkiss School (Conn.),football,oregon
+128,Brady Aiello,"Lafayette, Calif.",Acalanes HS,football,oregon
+129,Shane Lemieux,"Yakima, Wash.",West Valley HS,football,oregon
+130,Dawson Jaramillo,"Portland, Ore.",Lake Oswego HS,football,oregon
+131,Jacob Capra,"Auburn, Calif.",Placer HS,football,oregon
+132,Sam Poutasi,"Las Vegas, Nev.",Desert Pines HS,football,oregon
+133,Justin Johnson,"Philadelphia, Pa.",Neumann-Goretti HS,football,oregon
+134,Steven Jones,"Temecula, Calif.",Chaparall HS,football,oregon
+135,Dallas Warmack,"Atlanta, Ga.",Mays HS,football,oregon
+136,George Moore,"Antioch, Calif.",Deer Valley HS,football,oregon
+137,Alex Forsyth,"West Linn, Ore.",West Linn HS,football,oregon
+138,Chris Randazzo,"Chino, Calif.",Don Lugo HS,football,oregon
+139,Bryan Addison,"Gardena, Calif.",Junipero Serra HS,football,oregon
+140,Daewood Davis,"Hollywood, Fla.",Deerfield Beach HS,football,oregon
+141,Jack  Vecchi,"Portland, Ore.",Central Catholic HS,football,oregon
+142,Alfonso Cobb,"Chesterhill, Ohio",Federal Hocking HS,football,oregon
+143,Cam McCormick,"Bend, Ore.",Summit HS,football,oregon
+144,Kano Dillon,"Ocala, Fla.",Vanguard HS,football,oregon
+145,Korbin Williams,"Portland, Ore.",Central Catholic HS,football,oregon
+146,Ryan Bay,"Tigard, Ore.",Tigard HS,football,oregon
+147,Isaah Crocker,"Sacramento, Calif.",Inderkum HS,football,oregon
+148,JJ Tucker,"Harbor City, Calif.",Narbonne HS,football,oregon
+149,Drayton Carlberg,"Minneapolis, Minn.",DeLaSalle HS,football,oregon
+150,Henry Katleman,"Topanga, Calif.",Malibu HS,football,oregon
+151,Avery Burt,"Oakland, Calif.",Berkeley HS,football,oregon
+152,Taylor Koth,"Hailey, Idaho",Wood River HS,football,oregon
+153,Miguel Nevarez,"Mountain House, Calif.",Mountain House HS,football,oregon
+154,Sione Kava,"Honolulu, Hawaii",Kalani HS,football,oregon
+155,DJ Wong,"East Palo Alto, Calif.",Hayward HS,football,oregon
+156,Adam Stack,"Honolulu, Hawaii",Kamehameha HS,football,oregon
+157,Jalen Jelks,"Phoenix, Ariz.",Desert Vista HS,football,oregon
+158,Chris Beedles,"Fort Lauderdale, Fla.",St. Thomas Aquinas HS,football,oregon
+159,Austin Faoliu,"Santa Ana, Calif.",Mater Dei HS,football,oregon
+160,Katelyn Carter,"Fullerton, Calif.",Troy HS,womens soccer,oregon
+161,Halla Hinriksdottir,"Mosfellsbaer, Iceland",The Commercial College,womens soccer,oregon
+162,Eden Hardy,"Arcadia, Calif.",Arcadia HS,womens soccer,oregon
+163,Chardonnay Curran,"Ewa Beach, Hawaii",James Campbell HS,womens soccer,oregon
+164,True Dydasco,"Honolulu, Hawaii",Punahou HS,womens soccer,oregon
+165,Chai Cortez,"Kahului, Hawaii",Maui HS,womens soccer,oregon
+166,Jordan Wormdahl,"Eugene, Ore.",North Eugene HS,womens soccer,oregon
+167,Emma  Eddy,"Eugene, Ore.",Sheldon HS,womens soccer,oregon
+168,Taylor Kuroda,"Honolulu, Hawai'i",Iolani School,womens soccer,oregon
+169,Alyssa Hinojosa,"Sylmar, Calif.",Viewpoint School,womens soccer,oregon
+170,Nicole  Seaman,"Scottsdale, Ariz.",Desert Mountain HS,womens soccer,oregon
+171,Bayley Bruner,"Draper, Utah",Corner Canyon HS,womens soccer,oregon
+172,Mia  Palmer,"Portland, Ore.",Grant HS,womens soccer,oregon
+173,Kyra Fawcett,"Bountiful, Utah",Woods Cross HS,womens soccer,oregon
+174,Emily Kaestner,"Houston, Tex.",Houston Christian HS,womens soccer,oregon
+175,Jessica Yu,"Sunnyvale, Calif.",Fremont HS,womens soccer,oregon
+176,Zoe Hasenauer,"Simi Valley, Calif.",Royal HS,womens soccer,oregon
+177,Maja Flengsrud,"Hamar, Norway",WANG Toppidrett HS,womens soccer,oregon
+178,Claire Watkins,"San Diego, Calif.",Helix Charter HS,womens soccer,oregon
+179,Marissa Everett,"Canyon Lake, Calif.",Temescal Canyon HS,womens soccer,oregon
+180,Brianne Parsons,"Santa Rosa, Calif.",Maria Carrillo HS,womens soccer,oregon
+181,Mary Jane Erving,"Eugene, Ore.",Sheldon HS,womens soccer,oregon
+182,Hannah Wilson,"San Antonio, Texas",Alamo Heights HS,womens soccer,oregon
+183,Hannah  Taylor,"Edmonds, Wash.",Meadowdale HS,womens soccer,oregon
+184,Charlotte Brisley,"Excelsior, Minn.",Shattuck-St. Mary's School,womens soccer,oregon
+185,Sofia Chambers,"Westlake Village, Calif.",Agoura HS,womens soccer,oregon
+186,Jazmin Jackmon,"Pasadena, Calif.",South Pasadena HS,womens soccer,oregon
+187,Seth Berdahl,"Forest Grove, OR",Forest Grove,mens cross country,oregon
+188,Reed Brown,"Grapevine, Texas",Southlake Carroll,mens cross country,oregon
+189,Carter Christman,"Coto de Caza, Calif.",Tesoro HS,mens cross country,oregon
+190,Alex Graffunder,"Union, Ore.",Union,mens cross country,oregon
+191,Blake Haney,"Bakersfield, Calif.",Stockdale,mens cross country,oregon
+192,Charlie Hunter,"Gosford, Australia",Central Coast Grammar School,mens cross country,oregon
+193,Jackson Mestler,"Eugene, Ore.",Sheldon,mens cross country,oregon
+194,Andrew Scherf,"Clovis, Calif.",Clovis,mens cross country,oregon
+195,Austin Tamagno,"Brea, Calif.",Brea Olinda,mens cross country,oregon
+196,Cooper  Teare,"Alameda, Calif.",St. Joseph Notre Dame,mens cross country,oregon
+197,Levi Thomet,"Kodiak, Alaska",Kodiak,mens cross country,oregon
+198,James West,"Kent, England, UK",Loughborough University,mens cross country,oregon
+199,Jack Yearian,"Tacoma, Wash.",Bellarmine Prep,mens cross country,oregon
+200,Melissa Berry,"Eugene, Ore.",Sheldon,womens cross country,oregon
+201,Phily Bowden,"Bracknell, Berkshire, UK",Edgbarrow,womens cross country,oregon
+202,Isabelle Brauer,"Stockholm, Sweden",Täby Enskilda Gymnasium,womens cross country,oregon
+203,Claudia Burgess,"Boulder, Colo.",Boulder,womens cross country,oregon
+204,Carmela Cardama Baez,"Vigo, Spain",IES do Castro,womens cross country,oregon
+205,Taylor Chiotti,"Beaverton, Ore.",Southridge,womens cross country,oregon
+206,Susan Ejore,"Nakuru, Kenya",St. Gabriel's Mission School,womens cross country,oregon
+207,Amanda Gehrich,"Trabuco Canyon, Calif.",Tesoro,womens cross country,oregon
+208,Jessica Hull,"Albion Park, Australia",Albion Park,womens cross country,oregon
+209,Rennie Kendrick,"Portland, Ore.",Grant,womens cross country,oregon
+210,Caramia Mestler,"Eugene, Ore.",Sheldon,womens cross country,oregon
+211,Kate Murphy,"Burke, Va.",Lake Braddock,womens cross country,oregon
+212,Weronika Pyzik,"Bilgoraj, Poland",Liceum Ogolnoksztalcace,womens cross country,oregon
+213,Marcel Boet,"Christchurch, New Zealand",St. Andrews College,mens golf,oregon
+214,Sam Foust,"Edina, Minn.",Edina HS,mens golf,oregon
+215,Kevin Geniza,"Corvallis, Ore.",Crescent Valley HS,mens golf,oregon
+216,Ryan Gronlund,"Pleasanton, Calif.",Foothill HS,mens golf,oregon
+217,Tom Gueant,N/A,N/A,mens golf,oregon
+218,Donald Kay,"San Diego, Calif.",Patrick Henry HS,mens golf,oregon
+219,Kymer Li,"Hong Kong, China",IMG Academy,mens golf,oregon
+220,Thomas Mulligan,"Dublin, Ireland",St. Mary's,mens golf,oregon
+221,Teddy Oitzman,"Rancho Santa Fe, Calif.",St. Augustine HS,mens golf,oregon
+222,Tom Parker,"Christchurch, New Zealand",Christchurch Boys HS,mens golf,oregon
+223,Craig Ronne,"Klamath Falls, Ore.",Klamath Union HS,mens golf,oregon
+224,Edwin Yi,"Beaumont, Calif.",Lourus Academy HS,mens golf,oregon
+225,Yin Ho Yue,"Hong Kong, China",Shanghai American School,mens golf,oregon
+226,Madi Daniel,"Bakersfield, Calif.",Bakersfield Christian,womens golf,oregon
+227,Tze-Han Lin,"Hsinchu City, Taiwan",Xiangshan HS,womens golf,oregon
+228,Amy Matsuoka,"Newport Beach, Calif.",Corona Del Mar,womens golf,oregon
+229,Alexis Phadungmartvorakul,"Taft, Calif.",Ambassador Bilingual School,womens golf,oregon
+230,Petra Salko,"Turku, Finland",Puolalanmaen Lukio,womens golf,oregon
+231,Kathleen Scavo,"Benicia, Calif.",Justin Siena HS,womens golf,oregon
+232,Bella Setio,"Rancho Santa Fe, Calif.",San Marino HS,womens golf,oregon
+233,Simar Singh,"Los Altos, Calif.",Los Altos HS,womens golf,oregon
+234,Joshua Charlton,"Traralgo, Victoria, Austrailia",N/A,mens tennis,oregon
+235,Emmanuel Coste,"Aix-en-Provence, France",N/A,mens tennis,oregon
+236,Evan Felcher,"Southbury, Connecticut",Staples HS,mens tennis,oregon
+237,Ty Gentry,"Olympia, Wash.",Tumwater,mens tennis,oregon
+238,Thomas Laurent,"Montpellier, France",Lycee Jean Monnet High School,mens tennis,oregon
+239,Riki Oshima,"Toyama, Japan",Aioi Gakuin HS,mens tennis,oregon
+240,Charles Roberts,"Bangkok, Thailand",Thammasat University,mens tennis,oregon
+241,Armando Soemarno,"Jakarta, Indonesia",Al-izhar Pondok Labu/Homeschooling Kak Seto,mens tennis,oregon
+242,Ethan Young-Smith,"Bend, Ore.",Weil College Prepatory (Calif.),mens tennis,oregon
+243,Julia  Eshet,"Hollywood, Fla.",Laurel Springs Online HS,womens tennis,oregon
+244,Rifanty Kahfiani,"Bandung, Indonesia",Homeschooling Kak Seto,womens tennis,oregon
+245,Daniela Nasser,"Tampa, Fla.",Academy of Holy Names,womens tennis,oregon
+246,Shweta Sangwan,"Bradenton, Fla. (India)",IMG Academy,womens tennis,oregon
+247,Paiton Wagner,"Cashmere, Wash.",Cashmere HS,womens tennis,oregon
+248,Derek Akey,"Gainesville, Fla.",Buchholz HS,mens track,oregon
+249,Joseph Anderson,"Rancho Cucamonga, Calif.",Upland,mens track,oregon
+250,Sebastian Barajas,"Hood River, Ore.",Hood River Valley HS,mens track,oregon
+251,Seth Berdahl,"Forest Grove, OR",Forest Grove,mens track,oregon
+252,Drake  Brennan,"Grants Pass, Ore.",Grants Pass,mens track,oregon
+253,Travis Brewster Jr.,"Brightwood, Ore.",Sandy HS,mens track,oregon
+254,Jared Briere,"Woonsocket, RI.",Woonsocket,mens track,oregon
+255,Reed Brown,"Grapevine, Texas",Southlake Carroll,mens track,oregon
+256,Braxton Canady,"Jacksonville, Fla.",Paxon School for Advanced Studies,mens track,oregon
+257,Carter Christman,"Coto de Caza, Calif.",Tesoro HS,mens track,oregon
+258,Rieker Daniel,"Boring, Ore.",Oregon City,mens track,oregon
+259,Eric Edwards Jr.,"Houston, Texas",Langham Creek HS,mens track,oregon
+260,Orwin Emilien,N/A,N/A,mens track,oregon
+261,Cravon Gillespie,"Pasadena, Calif.",Monrovia,mens track,oregon
+262,Alex Graffunder,"Union, Ore.",Union,mens track,oregon
+263,Blake Haney,"Bakersfield, Calif.",Stockdale,mens track,oregon
+264,Dalen Hargett,"Newport, Ore.",Newport,mens track,oregon
+265,Jonathan Harvey,"Tracy, Calif.",De La Salle,mens track,oregon
+266,DJ Henderson,"DeSoto, Texas",DeSoto,mens track,oregon
+267,Charlie Hunter,"Gosford, Australia",Central Coast Grammar School,mens track,oregon
+268,Tristan James,"Salem, Ore.",West Salem,mens track,oregon
+269,Pierce LaCoste,"Eugene, Ore.",Marist HS,mens track,oregon
+270,Max Lydum,"Independence, Ore.",Central,mens track,oregon
+271,Matthew Maton,"Bend, Ore.",Summit,mens track,oregon
+272,Jacoby McNamara,"Vernonia, Ore.",Redmond HS,mens track,oregon
+273,Jackson Mestler,"Eugene, Ore.",Sheldon,mens track,oregon
+274,Jacob Miller,"Salem, Ore.",West Salem,mens track,oregon
+275,Ben Milligan,"Portland, Ore.",Sherwood,mens track,oregon
+276,Chin Ng,N/A,N/A,mens track,oregon
+277,John Nizich,"Oregon City, Ore.",Central Catholic,mens track,oregon
+278,Oraine Palmer,"Kingston, Jamaica",St. George's College,mens track,oregon
+279,Andrew Scherf,"Clovis, Calif.",Clovis,mens track,oregon
+280,Spenser Schmidt,"Eugene, Ore.",Churchill,mens track,oregon
+281,Maxwell Shannon,"Sandy, Ore.",Sandy,mens track,oregon
+282,Julius Shellmire,"Portland, Ore.",Grant,mens track,oregon
+283,Rashad Swank-Jones,"Seattle, Wash.",Garfield,mens track,oregon
+284,Austin Tamagno,"Brea, Calif.",Brea Olinda,mens track,oregon
+285,Cooper  Teare,"Alameda, Calif.",St. Joseph Notre Dame,mens track,oregon
+286,Austin Tharp,"Eugene, Ore.",Sheldon,mens track,oregon
+287,Levi Thomet,"Kodiak, Alaska",Kodiak,mens track,oregon
+288,Austin Torres,"Brentwood, Calif.",Red Bluff,mens track,oregon
+289,Jackson VanVuren,"Hillsboro, Ore.",Faith Bible Christian,mens track,oregon
+290,Max Vollmer,"Ulm, Germany",Friedrich List Schule Ulm,mens track,oregon
+291,James West,"Kent, England, UK",Loughborough University,mens track,oregon
+292,Jack Yearian,"Tacoma, Wash.",Bellarmine Prep,mens track,oregon
+293,JoJo Ananouko,"Portland, Ore.",Jesuit,womens track,oregon
+294,Shae Anderson,"Norco, Calif.",Norco,womens track,oregon
+295,Melissa Berry,"Eugene, Ore.",Sheldon,womens track,oregon
+296,Phily Bowden,"Bracknell, Berkshire, UK",Edgbarrow,womens track,oregon
+297,Isabelle Brauer,"Stockholm, Sweden",Täby Enskilda Gymnasium,womens track,oregon
+298,Iman Brown,"Seattle, Wash.",Garfield HS,womens track,oregon
+299,Claudia Burgess,"Boulder, Colo.",Boulder,womens track,oregon
+300,Carmela Cardama Baez,"Vigo, Spain",IES do Castro,womens track,oregon
+301,Taylor Chiotti,"Beaverton, Ore.",Southridge,womens track,oregon
+302,Chaquinn Cook,"Portland, Ore.",Benson,womens track,oregon
+303,Asiah Cooper,"Newark, NJ",Union Catholic HS,womens track,oregon
+304,Kerissa D'Arpino,"Grants Pass, Ore.",North Valley,womens track,oregon
+305,Venessa D'Arpino,"Grants Pass, Ore.",North Valley,womens track,oregon
+306,Briyahna DesRosiers,"Chicago, Ill.",North Lawndale Prep,womens track,oregon
+307,A'Nia Diggs,"Frisco, Texas",Lone Star HS,womens track,oregon
+308,Makenzie Dunmore,"Powder Springs, Ga.",McEachern,womens track,oregon
+309,Susan Ejore,"Nakuru, Kenya",St. Gabriel's Mission School,womens track,oregon
+310,Lexi Ellis,"Tacoma, Wash.",Curtis Senior HS,womens track,oregon
+311,Rhesa Foster,"Clovis, Calif.",Clovis North,womens track,oregon
+312,Amanda Gehrich,"Trabuco Canyon, Calif.",Tesoro,womens track,oregon
+313,Ashlyn Hare,"Colorado Springs, Colo.",Rampart High,womens track,oregon
+314,Brieasha Hobbs,"St. Paul, Minn.",Cretin-Derham Hall HS,womens track,oregon
+315,Jessica Hull,"Albion Park, Australia",Albion Park,womens track,oregon
+316,Khadejah Jackson,"Atlanta, Ga.",The Lovett High School,womens track,oregon
+317,Rennie Kendrick,"Portland, Ore.",Grant,womens track,oregon
+318,Keira McCarrell,"Salem, Ore.",West Salem,womens track,oregon
+319,Caramia Mestler,"Eugene, Ore.",Sheldon,womens track,oregon
+320,Kate Murphy,"Burke, Va.",Lake Braddock,womens track,oregon
+321,Kiana Phelps,"Kingsley, Iowa",Kingsley-Pierson,womens track,oregon
+322,Weronika Pyzik,"Bilgoraj, Poland",Liceum Ogolnoksztalcace,womens track,oregon
+323,Maddie Rabing,"Lake Oswego, Ore.",Lakeridge,womens track,oregon
+324,Jasmin Reed,"Carson, Calif.",Serra Junipero,womens track,oregon
+325,Alexis Rigmaiden,"Lake Charles, La.",St. Louis Catholic,womens track,oregon
+326,Kaylah Robinson,"Richmond, Calif.",El Cerrito,womens track,oregon
+327,Jaimie Robinson,"Chicago, Ill.",Homewood Flossmoor HS,womens track,oregon
+328,Emily Sloan,"Littleton, Colo.",Rock Canyon HS,womens track,oregon
+329,Tori Sloan,"Meridian, Idaho",Mountain View HS,womens track,oregon
+330,Ruby Stauber,"Plymouth, Minn.",Wayzata,womens track,oregon
+331,Ronna Stone,"San Jose, Calif.",Valley Christian,womens track,oregon
+332,Rachel  Vinjamuri,"Newport, Ore.",Newport,womens track,oregon
+333,Sydnee Walker,"Roswell, Ga.",King's Ridge Christian,womens track,oregon
+334,Hannah Waller,"Clovis, Calif.",Buchanan,womens track,oregon
+335,Darya Kaboli-Nejad,"Omaha, Neb.",Skutt Catholic HS,softball,oregon
+336,Alyssa Pinto,"Lodi, Calif.",Lodi HS,softball,oregon
+337,Jasmine Sievers,"Mission Viejo, Calif.",Capistrano Valley HS,softball,oregon
+338,April Utecht,"Richland, Wash.",Richland HS,softball,oregon
+339,Mia Camuso,"Redding, Calif.",Shasta HS,softball,oregon
+340,Hannah Galey,"Scappoose, Ore.",Scappoose HS,softball,oregon
+341,Shannon Rhodes,"Ft. Worth, Texas",Brewer HS,softball,oregon
+342,Alexis Mack,"Brecksville, Ohio",Brecksville-Broadview HS,softball,oregon
+343,Mary Iakopo,"Carson, Calif.",Los Alamitos HS,softball,oregon
+344,Rachel Cid,"Tracy, Calif.",Tracy HS,softball,oregon
+345,Megan Kleist,"Appleton, Wis.",Kimberly HS,softball,oregon
+346,Maggie Balint,"West Grove, Pa.",Avon Grove HS,softball,oregon
+347,Haley Cruse,"San Diego, Calif.",Del Norte HS,softball,oregon
+348,Shaye Bowden,"Phoenix, Ariz.",Sunnyslope HS,softball,oregon
+349,Cherish Burks,"Manteca, Calif.",East Union HS,softball,oregon
+350,Lexi Wagner,"Venetia, Pa.",Seaton-Lasalle HS,softball,oregon
+351,Allee Bunker,"Huntington Beach, Calif.",Huntington Beach HS,softball,oregon
+352,Karson Bacon,"Fontana, California",Rancho Cucamonga,womens volleyball,oregon
+353,Taylor Borup,"Leesburg, Va.",Loudon County,womens volleyball,oregon
+354,Chandlar Duff,"Detroit, Mich.",Grosse Point South,womens volleyball,oregon
+355,Sumeet Gill,"Elk Grove, Calif.",Pleasant Grove,womens volleyball,oregon
+356,Kyra Hanawahine,"Honolulu, Hawaii",Kamehameha Schools,womens volleyball,oregon
+357,Willow Johnson,"Paradise Valley, Ariz.",Notre Dame Prep,womens volleyball,oregon
+358,Brooke Nuneviller,"Chandler, Ariz.",Corona del Sol,womens volleyball,oregon
+359,Lauren Page,"Riverside, Calif.",King,womens volleyball,oregon
+360,August Raskie,"Colorado Springs, Colo.",Rampart,womens volleyball,oregon
+361,Jolie Rasmussen,"Encinitas, Calif.",Canyon Crest Academy,womens volleyball,oregon
+362,Kylie Robinson,"Upland, Calif.",Claremont,womens volleyball,oregon
+363,Ronika Stone,"San Jose, Calif.",Valley Christian,womens volleyball,oregon
+364,Camryn Tastad,"Solana Beach, Calif.",Santa Fe Christian,womens volleyball,oregon
+365,Brooke Van Sickle,"Battle Ground, Wash.",Battle Ground,womens volleyball,oregon
+366,Lindsey Vander Weide,"Turlock, Calif.",Pitman,womens volleyball,oregon
+367,Maddie Clark,"Baltimore, Md.",Institute of Notre Dame,womens lacrosse,oregon
+368,Lexy Biller,"Ashburn, Va.",Broad Run HS,womens lacrosse,oregon
+369,Lindsey White,"Queensbury, N.Y.",Queensbury HS,womens lacrosse,oregon
+370,Madeline Reece,N/A,N/A,womens lacrosse,oregon
+371,Caroline Jaworski,"Ijamsville, Md.",Oakdale HS,womens lacrosse,oregon
+372,Julia Taylor,"Tustin, Calif.",Foothill HS,womens lacrosse,oregon
+373,Heather Engellis,"Northport, N.Y.",Northport HS,womens lacrosse,oregon
+374,Jen Lanuza,"Littleton, Colo.",Chatfield Senior High,womens lacrosse,oregon
+375,Haileigh Farrell,"Syracuse, N.Y.",Westhill HS,womens lacrosse,oregon
+376,Claire Domshick,"Severna Park, MD.",Severna Park HS,womens lacrosse,oregon
+377,Molly Carr,"Severna Park, MD.",Severna Park HS,womens lacrosse,oregon
+378,Emily Munro,"Highlands Ranch, Colo.",Kent Denver HS,womens lacrosse,oregon
+379,Lillian Stump,"Davidson, MD.",Archbishop Spalding HS,womens lacrosse,oregon
+380,Morgan Finklea,"West Linn, Ore.",West Linn HS,womens lacrosse,oregon
+381,Mandi Trostle,"Eldersburg, Md.",Century HS,womens lacrosse,oregon
+382,Shannon Williams,"Bel Air, Md.",Bel Air HS,womens lacrosse,oregon
+383,Alle Dunbar,"Mercer Island, Wash.",Mercer Island HS,womens lacrosse,oregon
+384,Allison Mervine,"Pasadena, MD.",Archbishop Spalding HS,womens lacrosse,oregon
+385,Gracyn Elliott,"Willowbrook, Ill.",Hinsdale Central HS,womens lacrosse,oregon
+386,Taylor Agost,"Happy Valley, Ore.",Clackamas,womens beach volleyball,oregon
+387,Josie Cole,"Lafayette, Calif.",N/A,womens beach volleyball,oregon
+388,Sumeet Gill,"Elk Grove, Calif.",Pleasant Grove,womens beach volleyball,oregon
+389,Marine Hall-Poirier,"Portola Valley, Calif.",Woodside Priory,womens beach volleyball,oregon
+390,Kyra Hanawahine,"Honolulu, Hawaii",Kamehameha Schools,womens beach volleyball,oregon
+391,Alex Hojnar,"Western Springs, Ill.",Lyons,womens beach volleyball,oregon
+392,Willow Johnson,"Paradise Valley, Ariz.",Notre Dame Prep,womens beach volleyball,oregon
+393,Lauren Page,"Riverside, Calif.",King,womens beach volleyball,oregon
+394,August Raskie,"Colorado Springs, Colo.",Rampart,womens beach volleyball,oregon
+395,Jolie Rasmussen,"Encinitas, Calif.",Canyon Crest Academy,womens beach volleyball,oregon
+396,Maggie Scott,"Wildwood, Mo.",Lafayette,womens beach volleyball,oregon
+397,Ronika Stone,"San Jose, Calif.",Valley Christian,womens beach volleyball,oregon
+398,Brooke Van Sickle,"Battle Ground, Wash.",Battle Ground,womens beach volleyball,oregon
+399,Lindsey Vander Weide,"Turlock, Calif.",Pitman,womens beach volleyball,oregon
+400,Callista Wulff,"Laguna Beach, Calif.",N/A,womens beach volleyball,oregon
+401,Olivia Gamboa,"Reno, Nev.",Reno HS,womens acrobatics,oregon
+402,Claire Vogelsang,"Newhall, Calif.",William S. Hart HS,womens acrobatics,oregon
+403,Sierra Garcia,"Morganville, N.J.",Red Bank Catholic HS,womens acrobatics,oregon
+404,Alyssa Hew,"Markham, Ontario",Bill Crothers Secondary School,womens acrobatics,oregon
+405,TJ McCourt,"Brick, N.J.",Brick Township HS,womens acrobatics,oregon
+406,Megan Barney,"Temecula, Calif.",Great Oak HS,womens acrobatics,oregon
+407,Hannah Blair,"Springfield, Ohio",Kenton Ridge HS,womens acrobatics,oregon
+408,Casi Jackson,"Orange, Calif.",Villa Park HS,womens acrobatics,oregon
+409,Kaylene Iriye,"Seal Beach, Cal.",Los Alamitos,womens acrobatics,oregon
+410,Calyx Hampton,"Ontario, Calif.",Western Christian HS,womens acrobatics,oregon
+411,Emily Lorimor,"Raymore, Mo.",Raymore-Peculiar,womens acrobatics,oregon
+412,Payton Coon,"Portland, Ore.",Sunset HS,womens acrobatics,oregon
+413,Samantha Little,"Saugus, Calif.",Saugus HS,womens acrobatics,oregon
+414,Yeelena Faustino,"San Diego, Calif.",San Diego HS,womens acrobatics,oregon
+415,Hannah Esterman,"Grand Rapids, Mich.",Forest Hills Central,womens acrobatics,oregon
+416,Kierstin Rouse,"Scottsdale, Ariz.",Saguaro,womens acrobatics,oregon
+417,Kyla Pollock,"Reno, Nev.",Spanish Springs,womens acrobatics,oregon
+418,Amber Piwkiewicz,"El Dorado Hills, Calif.",Oak Ridge HS,womens acrobatics,oregon
+419,Katie Bachman,"Bridgewater, N.J.",Immaculata HS,womens acrobatics,oregon
+420,Kristin Bivens,"Vancouver, Wash.",River HomeLink,womens acrobatics,oregon
+421,Sara Buchner,"Township of Washington, N.J.",Westwood Regional,womens acrobatics,oregon
+422,Mariah Tanner,"Waipahu, Hawaii",Moanalua,womens acrobatics,oregon
+423,Lillian Garvens,"San Antonio, Texas",Winston Churchill HS,womens acrobatics,oregon
+424,Caitlynn Emick,"Piedmont, S.D.",Sturgis Brown HS,womens acrobatics,oregon
+425,MaKenna Jarman,"Trabuco Canyon, Calif.",Dana Hills HS,womens acrobatics,oregon
+426,Mikaela  Moore,"Franklin, Tenn.",Grace Christian Academy,womens acrobatics,oregon
+427,Logan McBain,"Irvine, Cal.",Arnold O. Beckman,womens acrobatics,oregon
+428,Caroline Matos,"Carlsbad, Calif.",La Costa Canyon HS,womens acrobatics,oregon
+429,Ashley Jamison,"Ocean City, N.J.",Ocean City HS,womens acrobatics,oregon
+430,Savannah Gutierrez,"Yorba Linda, Cal.",El Dorado,womens acrobatics,oregon
+431,Jackie Woods,"Fairfield, Calif.",Rodriguez HS,womens acrobatics,oregon
+432,Kayla Pilcher,"San Antonio, Texas",Ronald Reagan,womens acrobatics,oregon
+433,Addie Lacewell,"Naperville, Ill.",Neugua Valley HS,womens acrobatics,oregon
+434,Daria Osborn,"Temecula, Calif.",Great Oak HS,womens acrobatics,oregon
+435,Maria Edwards,"San Antonio, Texas",International School of the Americas,womens acrobatics,oregon
+436,Tia Thomas,"Auburn, Wash.",Federal Way HS,womens acrobatics,oregon

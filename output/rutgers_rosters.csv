@@ -1,632 +1,643 @@
 ,name,hometown,high school?,sport,college
 0,Geo Baker,"Derry, N.H",Proctor Academy,mens basketball,rutgers
-1,Candido Sa,"Lisbon, Portugal",Colegio Bartolomeu Dias,mens basketball,rutgers
+1,Nick  Brooks,"Somerset, N.J.",Vermont Academy,mens basketball,rutgers
 2,Shaquille Doorson,"Amsterdam, The Netherlands",Canarias Basketball Academy,mens basketball,rutgers
-3,Corey Sanders,"Lakeland, Fla.",West Oaks Academy,mens basketball,rutgers
-4,Mike Williams,"Brooklyn, N.Y.",Bishop Loughlin,mens basketball,rutgers
-5,Jake Dadika,"Milltown, N.J.",Spotswood,mens basketball,rutgers
-6,Eugene Omoruyi,"Rexdale, Ontario",Orangeville Prep,mens basketball,rutgers
-7,Matt Bullock,"Elizabeth, N.J.",Roselle Catholic,mens basketball,rutgers
-8,Myles Johnson,"Long Beach, Calif.",Long Beach Polytechnic High School,mens basketball,rutgers
-9,Mamadou Doucoure,"Bamako, Mali",Our Savior New American School,mens basketball,rutgers
-10,Joey Downes,"East Sandwich, Mass.",East Sandwich HS,mens basketball,rutgers
-11,Aaren Smith,"Ellicott City, Md.",Mount Hebron HS,mens basketball,rutgers
-12,Peter Kiss,"New York, N.Y.",Notre Dame Prep,mens basketball,rutgers
-13,Deshawn Freeman,"Rocky Mount, N.C.",Rocky Mount Prep,mens basketball,rutgers
-14,Issa Thiam,"Dakar, Senegal",Arlington Country Day (Fla.),mens basketball,rutgers
-15,Souf Mensah,"Nantes, France",Canarias Basketball Academy,mens basketball,rutgers
-16,Luke  Nathan,"Randolph, N.J.",Randolph HS,mens basketball,rutgers
-17,Zipporah Broughton,"Wetumpka, Alabama",Robert E. Lee,womens basketball,rutgers
-18,Charise Wilson,"West Babylon, N.Y.",St. Anthony’s,womens basketball,rutgers
-19,Noga  Peleg Pelc,"Even Yehuda, Israel",N/A,womens basketball,rutgers
-20,Ciani Cryor,"Philadelphia, Pa.",Neumann-Goretti,womens basketball,rutgers
-21,Khadaizha Sanders,"Kankakee, Ill.",Bishop McNamara,womens basketball,rutgers
-22,Mael Gilles,"Montreal-Nord, Quebec",Montmorency,womens basketball,rutgers
-23,Caitlin Jenkins,"Shreveport, La.",Huntington,womens basketball,rutgers
-24,Tyia  Singleton,"Winter Haven, Fla.",Winter Haven,womens basketball,rutgers
-25,Arella Guirantes,"Bellport, N.Y.",Bellport,womens basketball,rutgers
-26,Tekia Mack,"Chicago, Ill.",Marshall,womens basketball,rutgers
-27,Stasha Carey,"Cleveland, Ohio",Berea-Midpark,womens basketball,rutgers
-28,Victoria Harris,"Snelville, Ga.",Parkview,womens basketball,rutgers
-29,Jordan Wallace,"Somerdale, N.J.",Sterling,womens basketball,rutgers
-30,Karl Blum,"Toms River, N.J.",Toms River North,baseball,rutgers
-31,Kevin Blum,"Toms River, N.J.",Toms River North,baseball,rutgers
-32,Luke Bowerbank,"Bernardsville, N.J.",Bernards,baseball,rutgers
-33,Serafino Brito,"Oakland, N.J.",Indian Hills,baseball,rutgers
-34,Anthony DeRosa,"Little Silver, N.J.",Red Bank Catholic,baseball,rutgers
-35,Tim Dezzi,"Mullica Hill, N.J.",Clearview Regional,baseball,rutgers
-36,Dan DiGeorgio,"Staten Island, N.Y.",Tottenville,baseball,rutgers
-37,Chris Folinusz,"Cranford, N.J.",Cranford,baseball,rutgers
-38,Milo Freeman,"Millburn, N.J.",Millburn,baseball,rutgers
-39,AJ Gallagher,"Wyckoff, N.J.",Bergen Catholic,baseball,rutgers
-40,Tommy Genuario,"Saddle Brook, N.J.",St. Mary,baseball,rutgers
-41,Kyle Gerace,"Linwood, N.J.",Mainland Regional,baseball,rutgers
-42,Anthony Greco,"Cold Spring Harbor, N.Y.",Chaminade,baseball,rutgers
-43,Jawuan Harris,"Pembroke Pines, Fla.",St. Thomas Aquinas,baseball,rutgers
+3,Eugene Omoruyi,"Rexdale, Ontario",Orangeville Prep,mens basketball,rutgers
+4,Joey Downes,"East Sandwich, Mass.",East Sandwich HS,mens basketball,rutgers
+5,Mamadou Doucoure,"Bamako, Mali",Our Savior New American School,mens basketball,rutgers
+6,Shaq Carter,"Ft. Lauderdale, Fla.",Eastern Florida State,mens basketball,rutgers
+7,Myles Johnson,"Long Beach, Calif.",Long Beach Polytechnic High School,mens basketball,rutgers
+8,Caleb McConnell,"Jacksonville, Fla.",SPIRE Academy (Ohio),mens basketball,rutgers
+9,Montez Mathis,"Baltimore, Md.",The John Carroll School,mens basketball,rutgers
+10,Ron Harper Jr.,"Franklin Lakes, N.J.",Don Bosco Prep,mens basketball,rutgers
+11,Peter Kiss,"New York, N.Y.",Notre Dame Prep,mens basketball,rutgers
+12,Issa Thiam,"Dakar, Senegal",Arlington Country Day (Fla.),mens basketball,rutgers
+13,Jacob Young,"Houston, Texas",Yates HS,mens basketball,rutgers
+14,Luke  Nathan,"Randolph, N.J.",Randolph HS,mens basketball,rutgers
+15,Zipporah Broughton,"Wetumpka, Alabama",Robert E. Lee,womens basketball,rutgers
+16,Noga  Peleg Pelc,"Even Yehuda, Israel",N/A,womens basketball,rutgers
+17,Charise Wilson,"West Babylon, N.Y.",St. Anthony’s,womens basketball,rutgers
+18,Sierra Calhoun,"Brooklyn, N.Y.",Christ The King,womens basketball,rutgers
+19,Ciani Cryor,"Philadelphia, Pa.",Neumann-Goretti,womens basketball,rutgers
+20,Khadaizha Sanders,"Kankakee, Ill.",Bishop McNamara,womens basketball,rutgers
+21,Mael Gilles,"Montreal-Nord, Quebec",Montmorency,womens basketball,rutgers
+22,Caitlin Jenkins,"Shreveport, La.",Huntington,womens basketball,rutgers
+23,Tyia  Singleton,"Winter Haven, Fla.",Winter Haven,womens basketball,rutgers
+24,Arella Guirantes,"Bellport, N.Y.",Bellport,womens basketball,rutgers
+25,Tekia Mack,"Chicago, Ill.",Marshall,womens basketball,rutgers
+26,Stasha Carey,"Cleveland, Ohio",Berea-Midpark,womens basketball,rutgers
+27,Victoria Harris,"Snelville, Ga.",Parkview,womens basketball,rutgers
+28,Jordan Wallace,"Somerdale, N.J.",Sterling,womens basketball,rutgers
+29,Steven Acosta,"West New York, N.J.",Memorial,baseball,rutgers
+30,Andy Axelson,"Roxbury, N.J.",Roxbury,baseball,rutgers
+31,Jared Bellissimo,"Toms River, N.J.",Toms River North,baseball,rutgers
+32,Kevin Blum,"Toms River, N.J.",Toms River North,baseball,rutgers
+33,Luke Bowerbank,"Bernardsville, N.J.",Bernards,baseball,rutgers
+34,Chris Brito,"Perth Amboy, N.J.",Perth Amboy,baseball,rutgers
+35,Serafino Brito,"Oakland, N.J.",Indian Hills,baseball,rutgers
+36,Anthony DeRosa,"Little Silver, N.J.",Red Bank Catholic,baseball,rutgers
+37,Tim Dezzi,"Mullica Hill, N.J.",Clearview Regional,baseball,rutgers
+38,Dan DiGeorgio,"Staten Island, N.Y.",Tottenville,baseball,rutgers
+39,Brian Fitzpatrick,"Port Jefferson, N.Y.",St. Anthony's,baseball,rutgers
+40,Garrett French,"Red Bank, N.J.",Middletown North,baseball,rutgers
+41,Tommy Genuario,"Saddle Brook, N.J.",St. Mary,baseball,rutgers
+42,Kyle Gerace,"Linwood, N.J.",Mainland Regional,baseball,rutgers
+43,Anthony Greco,"Cold Spring Harbor, N.Y.",Chaminade,baseball,rutgers
 44,Adam Holland,"Erial, N.J.",William Penn Charter,baseball,rutgers
 45,Miles Kelly,"Wading River, N.Y.",Shoreham-Wading River,baseball,rutgers
-46,Collin Kiernan,"Verona, N.J.",Verona,baseball,rutgers
-47,Nick Matera,"Roxbury, N.J.",Roxbury,baseball,rutgers
-48,Aaron McLaughlin,"Barnegat, N.J.",Barnegat,baseball,rutgers
-49,Tyler McNamara,"East Brunswick, N.J.",East Brunswick,baseball,rutgers
-50,Dylan McNulty,N/A,N/A,baseball,rutgers
-51,Kyle Muller,"Hamilton, N.J.",Steinert,baseball,rutgers
-52,Tevin Murray,"Ringtown, Pa.",North Schuylkill,baseball,rutgers
+46,Tommy Liu,"San Dimas, Calif.",San Dimas,baseball,rutgers
+47,Aaron McLaughlin,"Barnegat, N.J.",Barnegat,baseball,rutgers
+48,Tyler McNamara,"East Brunswick, N.J.",East Brunswick,baseball,rutgers
+49,Kyle Muller,"Hamilton, N.J.",Steinert,baseball,rutgers
+50,Tevin Murray,"Ringtown, Pa.",North Schuylkill,baseball,rutgers
+51,Joe Neglia,"Harrington Park, N.J.",St. Joseph Regional Montvale,baseball,rutgers
+52,Jacob Newman,"Glenview, Ill.",Glenbrook South,baseball,rutgers
 53,Mike Nyisztor,"Toms River, N.J.",Toms River North,baseball,rutgers
-54,John O'Reilly,"Northvale, N.J.",Northern Valley Regional at Old Tappan,baseball,rutgers
+54,Jack Parkinson,"Haddonfield, N.J.",St. Augustine Prep,baseball,rutgers
 55,Eric Reardon,"North Brunswick, N.J.",North Brunswick Township,baseball,rutgers
 56,Kevin Romero,"Garfield, N.J.",Don Bosco Prep,baseball,rutgers
-57,Harry Rutkowski,"Fords, N.J.",Woodbridge,baseball,rutgers
-58,Carmen Sclafani,"Toms River, N.J.",Brick,baseball,rutgers
-59,Kyle Walker,"Piscataway, N.J.",Pingry,baseball,rutgers
-60,Ryan Wares,"Howell, N.J.",Howell,baseball,rutgers
-61,Kevin Welsh,"Columbus, N.J.",Northern Burlington Regional,baseball,rutgers
-62,Rani Abdulaziz,"Roseland, N.J.",West Essex,football,rutgers
-63,Kessawn Abraham,"Brooklyn, N.Y.",Erasmus Hall,football,rutgers
-64,Max Anthony,"Albany, N.Y.",Christian Brothers Academy,football,rutgers
-65,Blessuan Austin,"Queens, N.Y.",Campus Magnet,football,rutgers
-66,Tre Avery,"Baltimore, Md.",Franklin,football,rutgers
-67,Elijah Barnwell,"Piscataway, N.J.",Piscataway,football,rutgers
-68,Tim Barrow,"Staten Island, N.Y.",Tottenville,football,rutgers
-69,Jon Bateky,"Boyds, Md.",Poolesville,football,rutgers
-70,Rashawn Battle,"Grentown, Pa.",Wallenpaupack,football,rutgers
-71,Jamaal Beaty,"Cliffwood, N.J.",St. John Vianney,football,rutgers
-72,Raheem Blackshear,"Warminster, Pa.",Archbishop Wood Catholic,football,rutgers
-73,Brendan Bordner,"Columbus, Ohio",Hilliard Bradley,football,rutgers
-74,Owen Bowles,"Galloway, N.J.",Cedar Creek,football,rutgers
-75,Izaia Bullock,"Linden, N.J.",Linden,football,rutgers
-76,Ryan Cassidy,"Mt. Laurel, N.J.",Lenape,football,rutgers
-77,Jalen Chatman,"Inglewood, Calif.",Narbonne,football,rutgers
-78,Micah Clark,"Cliffwood, N.J.",St. John Vianney,football,rutgers
-79,Tariq Cole,"Long Beach, N.Y.",Long Beach,football,rutgers
-80,Justin Davidovicz,"Bridgewater, N.J.",Bridgewater-Raritan,football,rutgers
-81,Parker Day,"Toms River, N.J.",Toms River North,football,rutgers
-82,Malik Dixon,"Tampa, Fla.",Port Charlotte,football,rutgers
-83,Jaohne Duggan,"Bethlehem, Pa.",Liberty,football,rutgers
-84,Olakunle Fatukasi,"Far Rockaway, N.Y.",Grand Street Campus,football,rutgers
-85,Tyshon Fogg,"Baltimore, Md.",Calvert Hall,football,rutgers
-86,Jelani Garvin,"Allendale, N.J.",Northern Highlands,football,rutgers
-87,Nakia Griffin-Stewart,"Tenafly, N.J.",Tenafly,football,rutgers
-88,Jason Griggs,"Highland Park, N.J.",Highland Park,football,rutgers
-89,Gavin Haggerty,"Montvale, N.J.",St. Joseph's (Montvale),football,rutgers
-90,Saquan Hampton,"Hamilton, N.J.",Nottingham,football,rutgers
-91,Hunter Hayek,"Wayne, N.J.",Wayne Hills,football,rutgers
-92,Tyler Hayek,"Wayne, N.J.",Wayne Hills,football,rutgers
-93,Damon Hayes,"Upper Marlboro, Md.",Dr. Henry A. Wise,football,rutgers
-94,Zack Heeman,"Budd Lake, N.J.",Mount Olive,football,rutgers
-95,Jonathan Hilliman,"Plainfield, N.J.",St. Peter's Prep,football,rutgers
-96,Sam Howson,"Sparta, N.J.",Pope John XXIII,football,rutgers
-97,Mohamed Jabbie,"Monmouth Junction, N.J.",South Brunswick,football,rutgers
-98,Jonah Jackson,"Media, Pa.",Penncrest,football,rutgers
-99,Naijee Jones,"Erial, N.J.",Timber Creek,football,rutgers
-100,Shameen Jones,"Bronx, N.Y.",Cardinal Hayes,football,rutgers
-101,Jalen Jordan,"Philadelphia, Pa.",IMG Academy,football,rutgers
-102,Adam Korsak,"Melbourne, Australia",Maribyrnong College,football,rutgers
-103,Nick Krimin,"South Amboy, N.J.",St. Joseph's (Metuchen),football,rutgers
-104,Eddie Lewis,"New York, N.Y.",Mater Dei,football,rutgers
-105,Johnathan Lewis,"East Orange, N.J.",St. Peter's Prep,football,rutgers
-106,Mike Lonsdorf,"Bound Brook, N.J.",Immaculata,football,rutgers
-107,Edwin Lopez,"Camden, N.J.",Woodrow Wilson,football,rutgers
-108,Elorm Lumor,"Piscataway, N.J.",Piscataway,football,rutgers
-109,Tyreek Maddox-Williams,"Erial, N.J.",Timber Creek,football,rutgers
-110,Michael Maietti,"West Orange, N.J.",Don Bosco Prep,football,rutgers
-111,Kobe Marfo,"Alexandria, Va.",Hayfield,football,rutgers
-112,Tijaun Mason,"Memphis, Tenn.",Trezevant,football,rutgers
-113,Bo Melton,"Mays Landing, N.J.",Cedar Creek,football,rutgers
-114,Zach Miseo,"Bridgewater, N.J.",Bridgewater-Raritan,football,rutgers
-115,Trevor Morris,"King of Prussia, Pa.",Malvern Prep,football,rutgers
-116,Cole Murphy,"Olathe, Kan.",Olathe North,football,rutgers
-117,Rob Nittolo,"Palm Beach Gardens, Fla.",Hillsborough (N.J.),football,rutgers
-118,Raiqwon O’Neal,"Conway, S.C.",Conway,football,rutgers
-119,Jim Onulak,"Belmar, N.J.",Trinity Pawling School,football,rutgers
-120,CJ Onyechi,"West Orange, N.J.",West Orange,football,rutgers
-121,Isaih Pacheco,"Vineland, N.J.",Vineland South,football,rutgers
-122,Willington Previlon,"Orange, N.J.",Orange,football,rutgers
-123,Aslan Pugh,"Wilmington, Del.",Wilmington Charter,football,rutgers
-124,Skiy Pyrame,"Queens, N.Y.",Christ the King,football,rutgers
-125,Giovanni Rescigno,"Macomb Twp., Mich.",De La Salle,football,rutgers
-126,Deonte Roberts,"Brooklyn, N.Y.",Erasmus Hall,football,rutgers
-127,Austin Rosa,"Reading, Pa.",Wilson West Lawn,football,rutgers
-128,Kamaal Seymour,"Brooklyn, N.Y.",Grand Street Campus,football,rutgers
-129,Syhiem Simmons,"Jersey City, N.J.",George Washington Carver (Ala.),football,rutgers
-130,Artur Sitkowski,"Old Bridge, N.J.",IMG Academy,football,rutgers
-131,Trey Sneed,"Orange Park, Fla.",Fleming Island,football,rutgers
-132,Charles Snorweah,"Levittown, Pa.",Pennsbury,football,rutgers
-133,Matthew Sportelli,"Wayne, N.J.",Wayne Hills,football,rutgers
-134,Lawrence Stevens,"Lawrenceville, N.J.",Don Bosco Prep,football,rutgers
-135,Billy Taylor,"Parsippany, N.J.",Parsippany Hills,football,rutgers
-136,Manny Taylor,"Philadelphia, Pa.",Roman Catholic,football,rutgers
-137,Prince Taylor,"Hackensack, N.J.",Hackensack,football,rutgers
-138,Julius Turner,"Meridian, Miss.",Meridian,football,rutgers
-139,Mike Tverdov,"Union, N.J.",Union,football,rutgers
-140,Zach Venesky,"Peckville, Pa.",Valley View,football,rutgers
-141,Travis Vokolek,"Springfield, Mo.",Kickapoo,football,rutgers
-142,Sam Vretman,"Upplands Vasby, Sweden",Cheshire Academy (Conn.),football,rutgers
-143,Jerome Washington,"Elizabeth, N.J.",Stony Brook School (N.Y.),football,rutgers
-144,Isaiah Wharton,"Kissimmee, Fla.",Gateway,football,rutgers
-145,Kevin Wilkins,"Mahwah, N.J.",St. Joseph's (Montvale),football,rutgers
-146,Nyhsere Woodson,"Trenton, N.J.",Pennington School,football,rutgers
-147,Everett Wormley,"Burlington, N.J.",Burlington Twp.,football,rutgers
-148,Charles Zarzecki,"Boonton, N.J.",Boonton,football,rutgers
-149,Rafael Pereira,"Lisbon, Portugal",Escola Secundaria Vergilio Ferreira,mens soccer,rutgers
-150,Thomas DeVizio,"Scotch Plains, N.J.",Scotch Plains-Fanwood,mens soccer,rutgers
-151,Tyejae Burchall,"Pembroke, Bermuda",South Kent School,mens soccer,rutgers
-152,Bryce Washington,"Atlanta, Ga.",North Atlanta,mens soccer,rutgers
-153,Federico Gutierrez,"Montevideo, Uruguay",Instituto Juan XXIII,mens soccer,rutgers
-154,Andrew Murray,"Scotch Plains, N.J.",Scotch Plains-Fanwood,mens soccer,rutgers
-155,Kyle  Galloway,"Manahawkin, N.J.",Pennington,mens soccer,rutgers
-156,Tim McQuaid,"Roswell, Ga.",Blessed Trinity Catholic,mens soccer,rutgers
-157,Jordan Hall,"Manchester, England",Mississippi Gulf Coast College,mens soccer,rutgers
-158,Brian Hawkins,"Chesterfield, N.J.",Notre Dame,mens soccer,rutgers
-159,Sean Dailey,"East Windsor, N.J.",Peddie School,mens soccer,rutgers
-160,Miles Hackett,"Montclair, N.J.",Montclair-Kimberley,mens soccer,rutgers
-161,Zeno Mazzucato,"Princeton, N.J.",Princeton,mens soccer,rutgers
-162,Vincenzo Pugliese,"West Windsor, N.J.",West Windsor - Plainsboro North,mens soccer,rutgers
-163,Aaron Acloque,"Ringoes, N.J.",Immaculata,mens soccer,rutgers
-164,Vincent Borden,"Ithaca, New York",N/A,mens soccer,rutgers
-165,Alex Kaczynski,"Medford, N.J.",Shawnee,mens soccer,rutgers
-166,Nick Cruz,"Monroe, N.J.",St. Joseph's,mens soccer,rutgers
-167,Miles Franklyn,"Teaneck, N.J.",Bergen Catholic,mens soccer,rutgers
-168,Kyle Goodwin,"South Brunswick, N.J.",South Brunswick,mens soccer,rutgers
-169,Chris Hawkins,"Chesterfield, N.J.",Notre Dame,mens soccer,rutgers
-170,Seth Turner,"San Pedro, Calif.",San Pedro,mens soccer,rutgers
-171,Thomas Dovell,"Moorestown, N.J.",Moorestown,mens soccer,rutgers
-172,Dominik Demcak,"Bridgewater, N.J.",Bridgewater-Raritan,mens soccer,rutgers
-173,Jake Longo,"Scotch Plains, N.J.",Scotch Plains-Fanwood,mens soccer,rutgers
-174,Brian Shushkovsky,"Morganville, N.J.",Freehold Township,mens soccer,rutgers
-175,Niko Lovoulos,"Holmdel, N.J.",Holmdel,mens soccer,rutgers
-176,Kevin Silva,"Bethlehem, Pa.",IMG Academy,mens soccer,rutgers
-177,Joe Bruno,"Edison, N.J.",St. Joseph's,mens soccer,rutgers
-178,Roberto DeAlmeida,"Basking Ridge, N.J.",Pingry,mens soccer,rutgers
-179,Rory Kemmerer,"Belle Meade, N.J.",Montgomery,mens soccer,rutgers
-180,Amirah Ali,"Voorhees, N.J.",Eastern Regional,womens soccer,rutgers
-181,Ashley Atubi,"North Plainfield, N.J.",North Plainfield,womens soccer,rutgers
-182,Taylor Aylmer,"Garnerville, N.Y.",North Rockland,womens soccer,rutgers
-183,Hayley  Baer,"Mahwah, N.J.",Mahwah,womens soccer,rutgers
-184,Nicole Binkley,"Burlington, N.J.",Burlington Township,womens soccer,rutgers
-185,Aolani Colón,"Winter Springs, FL",Winter Springs,womens soccer,rutgers
-186,Mya Daniels,"Long Branch, N.J.",Long Branch,womens soccer,rutgers
-187,Alicia D'Aoust,"Smithtown, N.Y.",Smithtown West,womens soccer,rutgers
-188,Caitlyn Ferreira,"Windham, N.H.",Central Catholic,womens soccer,rutgers
-189,Dana Goldstein,"Medford, N.J.",Shawnee,womens soccer,rutgers
-190,Emily Harrigan,"North Huntingdon, Pa.",Norwin,womens soccer,rutgers
-191,Carina Hendley,"Irvine, Calif.",Northwood,womens soccer,rutgers
-192,Shea Holland,"Toms River, N.J.",Toms River East,womens soccer,rutgers
-193,Emma Huntzinger,"East Windsor, N.J.",Hightstown,womens soccer,rutgers
-194,Jezlyn Jimenez,"Bridgewater, N.J.",N/A,womens soccer,rutgers
-195,Megan Katona,"San Antonio, Texas",Alamo Heights,womens soccer,rutgers
-196,Brittany LaPlant,"Queensbury, N.Y.",Queensbury,womens soccer,rutgers
-197,Meagan  McClelland,"Kearny, N.J.",Kearny,womens soccer,rutgers
-198,Adora Moneme,"Union, N.J.",Union,womens soccer,rutgers
-199,Nneka Moneme,"Union, N.J.",Union,womens soccer,rutgers
-200,Madison Pogarch,"Hartland, Mich.",Hartland,womens soccer,rutgers
-201,Gabby Provenzano,"Sergeantsville, N.J.",Hunterdon Central Regional,womens soccer,rutgers
-202,Jenna Sayers,"Mays Landing, N.J.",Oakcrest,womens soccer,rutgers
-203,Brianna Scarola,"Chester, N.J.",West Morris Mendham,womens soccer,rutgers
-204,Brianna Starr,"Severn, Md.",Archbishop Spalding,womens soccer,rutgers
-205,Chantelle Swaby,"West Hartford, Conn.",Hall,womens soccer,rutgers
-206,Madison Tyree,"Voorhees, N.J.",Eastern Regional,womens soccer,rutgers
-207,Amanda Visco,"Manalapan, N.J.",Colts Neck,womens soccer,rutgers
-208,Nicole Whitley,"Freehold, N.J.",Freehold Township,womens soccer,rutgers
-209,Tiernny Wiltshire,"Elmer, N.J.",Shattuck St. Mary's,womens soccer,rutgers
-210,Kenie Wright,"Mount Laurel, N.J.",Lenape,womens soccer,rutgers
-211,Genaro Anzalone,"Morganville, N.J.",Christian Brothers Academy,mens cross country,rutgers
-212,Trent Brinkofski,"Somerset, N.J.",Bishop Ahr,mens cross country,rutgers
-213,Andrew Comito,"Manalapan, N.J.",Manalapan,mens cross country,rutgers
-214,Ryan Gross,"Robbinsville, N.J.",Robbinsville,mens cross country,rutgers
-215,Billy Hill,"Somerset, N.J.",Franklin,mens cross country,rutgers
-216,Tom Holster,"Oakland, N.J.",Indian Hills,mens cross country,rutgers
-217,Alexander Livernois,"Scotch Plains, N.J.",Scotch Plains-Fanwood,mens cross country,rutgers
-218,Sean Martinek,"Millstone, N.J.",Christian Brothers Academy,mens cross country,rutgers
-219,Dom Munson,"Erial, N.J.",Timber Creek,mens cross country,rutgers
-220,Conor Murphy,"Millstone, N.J.",Allentown,mens cross country,rutgers
-221,Cole Pschunder,"Gibbsboro, N.J.",Eastern Senior,mens cross country,rutgers
-222,Patrick Walsh,"South Amboy, N.J.",South Amboy,mens cross country,rutgers
-223,Luke Wiley,"Williamstown, N.J.",Williamstown,mens cross country,rutgers
-224,Emma Bergman,"Ventor, N.J.",Ocean City,womens cross country,rutgers
-225,Allyson Black,"Denville, N.J.",Morris Knolls,womens cross country,rutgers
-226,Kaitlyn Bragen,"Point Pleasant, N.J.",Point Pleasant Boro,womens cross country,rutgers
-227,Genevieve Cickavage,"Moorestown, N.J.",Moorestown,womens cross country,rutgers
-228,Alexandra Coghlan,"Spotswood, N.J.",Spotswood,womens cross country,rutgers
-229,Kelsey Farbanish,"Pittstown, N.J.",North Hunterdon,womens cross country,rutgers
-230,Sara Gutter,"Allentown, N.J.",Allentown,womens cross country,rutgers
-231,Brianna Haspel,"Lincroft, N.J.",Middletown South,womens cross country,rutgers
-232,Alexandra Juzwiak,"North Middletown, N.J.",Middletown North,womens cross country,rutgers
-233,Olympia Martin,"Ridgewood, N.J.",Ridgewood,womens cross country,rutgers
-234,Stephanie Mauer,"Hillsborough, N.J.",Hillsborough,womens cross country,rutgers
-235,Lou Mialhe,"Princeton, N.J.",Princeton,womens cross country,rutgers
-236,Kiera Nealon,"Manalapan, N.J.",Manalapan,womens cross country,rutgers
-237,Natalie Neamtu,"Webster, N.Y.",Webster-Thomas,womens cross country,rutgers
-238,Sarah Robbie,"Marlton, N.J.",Cherokee,womens cross country,rutgers
-239,Nadia Saponara,"Ringoes, N.J.",Hunterdon Central,womens cross country,rutgers
-240,Jenna Sobieski,"Old Bridge, N.J.",Old Bridge,womens cross country,rutgers
-241,Christopher  Gotterup,"Little Silver, N.J.",Christian Brothers Academy,mens golf,rutgers
-242,Adam Gray,"Potomac, Md.",Churchill,mens golf,rutgers
-243,Matt Holuta,"Indiana, Pa.",Indiana Area,mens golf,rutgers
-244,Tony Jiang,"Bradenton, Fla.",Sarasota Christian,mens golf,rutgers
-245,Matthew Mourin,"Weston, Fla.",American Heritage,mens golf,rutgers
-246,Jack Panagos,"Hillsborough, N.J.",Hillsborough,mens golf,rutgers
-247,Toks Pedro,"Lagos, Nigeria",Hilton Head (S.C.) Preparatory,mens golf,rutgers
-248,Putt Sridama,"Bangkok, Thailand",The American School of Bangkok,mens golf,rutgers
-249,Oliver Whatley,"Rockville, Md.",Churchill,mens golf,rutgers
-250,Harriet  Allsebrook,"Shropshire, England",Wellington College,womens golf,rutgers
-251,Astrid Aneman,"Stockholm, Sweden",Ostra Reals Gymnasium,womens golf,rutgers
-252,Lori Char,"Waianae, Hawaii",Kamehameha Schools Kapalma,womens golf,rutgers
-253,Ana Cortes,"Bogota, Colombia",Marymount Bogota,womens golf,rutgers
-254,Ashleigh Greenham,"London, England",Forest School,womens golf,rutgers
-255,Tatum Jackson,"Mountain Brook, Ala",Mountain Brook,womens golf,rutgers
-256,Carrie-Ann Lee,"Hong Kong, China",Kent School,womens golf,rutgers
-257,Emily Mills,"Colts Neck, N.J.",Colts Neck,womens golf,rutgers
-258,Francesca Bertotto,"Mestre, Italy",Instituto Professionale Settore Servizi Indirizzo,womens swimming,rutgers
-259,Lily Black,"Cinnaminson, N.J.",Cinnaminson,womens swimming,rutgers
-260,Marin Bloise,"Malvern, Pa.",Agnes Irwin,womens swimming,rutgers
-261,Lauren Boone,"Elkhart, Ind.",Concord Community,womens swimming,rutgers
-262,Alexis Brewer,"Bridgewater, N.J.",Bridgewater-Raritan,womens swimming,rutgers
-263,Rachel Byrne,"Bedford, N.H.",Bedford,womens swimming,rutgers
-264,Delaney  Carey,"Orlando, Fla.",Olympia,womens swimming,rutgers
-265,Sarah Davis,"Scotch Plains, N.J.",Scotch Plains-Fanwood,womens swimming,rutgers
-266,Megan Demeo,"Bedford, Mass.",Bedford,womens swimming,rutgers
-267,Kasja Dimek,"Gardner, Mass.",Oakmont Regional,womens swimming,rutgers
-268,Katie Dougherty,"Carmel, Ind.",Carmel,womens swimming,rutgers
-269,Jenna Douglass,"Cape Town, South Africa",Springfield Convent,womens swimming,rutgers
-270,Alexandra Fabugais-Inaba,"Oakville, Ontario, Canada",St. Mildred's Lightbourn School,womens swimming,rutgers
-271,Federica Greco,"Rome, Italy",Liceo Scientifico,womens swimming,rutgers
-272,Terka Grusova,"Jablonec nad Nisou, Czech Republic",Gymnazium U Balvanu,womens swimming,rutgers
-273,Vera Koprivova,"Troubky, Czech Republic",N/A,womens swimming,rutgers
-274,Clare Lawlor,"Orland Park, Ill.",Carl Sandburg,womens swimming,rutgers
-275,Simone Lusby,"Auckland, New Zealand",Baradene College of the Sacred Heart,womens swimming,rutgers
-276,Meghan Moses,"Fremont, Ohio",Fremont Ross,womens swimming,rutgers
-277,Erin Murphy,"Galloway, N.J.",Absegami,womens swimming,rutgers
-278,Nadia Nabhan,"Virginia Beach, Va.",Potomac Falls,womens swimming,rutgers
-279,Abbey Saunders,"Oakville, Ontario, Canada",Oakville Trafalgar,womens swimming,rutgers
-280,Sveva Schiazzano,"Sorrento, Italy",Liceo Scientifico Gaetano Salvemini,womens swimming,rutgers
-281,Katherine Scott,"Lincroft, N.J.",Middletown South,womens swimming,rutgers
-282,Francesca Stoppa,"Trento, Italy",N/A,womens swimming,rutgers
-283,Maggie Tibbitt,"Colorado Springs, Colo.",Cheyenne Mountain,womens swimming,rutgers
-284,Eleonora Trentin,"Firenze, Italy",Liceo Scientifico Statale Antonio Gramsci,womens swimming,rutgers
-285,Marina Wilkins,"East Longmeadow, Mass.",East Longmeadow,womens swimming,rutgers
-286,Nora Woods,"Collingswood, N.J.",Collingswood,womens swimming,rutgers
-287,Lizzie Zeller,"Champlin, Minn.",Champlin Park,womens swimming,rutgers
-288,Jaci Cochrane,"Fort Dodge, Iowa",Fort Dodge Senior,womens tennis,rutgers
-289,Isabelle  Da Silva,"Delran, N.J.",Laurel Springs,womens tennis,rutgers
-290,Mingxiu Du,"Dalian, China",The American School,womens tennis,rutgers
-291,Maya  Jacobs,"Linden, N.J.",Centercourt Sports Academy,womens tennis,rutgers
-292,Chloe Lee,"Albuquerque, N.M.",Albuquerque,womens tennis,rutgers
-293,Lee Levy,"Haifa, Israel",Hey,womens tennis,rutgers
-294,Kat Muzik,"Mableton, Ga.",Johnson Ferry Christian Academy,womens tennis,rutgers
-295,Kyra Yap,"Brisbane, Australia",St. Peter's,womens tennis,rutgers
-296,Dylan Altland,"Logan Township, N.J.",Kingsway,mens track,rutgers
-297,Genaro Anzalone,"Morganville, N.J.",Christian Brothers Academy,mens track,rutgers
-298,Zo Aris,"Newark, N.J.",Cheshire Academy,mens track,rutgers
-299,Eric Barnes,"Egg Harbor Township, N.J.",Egg Harbor Township,mens track,rutgers
-300,Trent Brinkofski,"Somerset, N.J.",Bishop Ahr,mens track,rutgers
-301,Jarrod Brovero,"Franklinville, N.J.",Delsea Regional,mens track,rutgers
-302,Izaiah Brown,"Amsterdam, N.Y.",Amsterdam,mens track,rutgers
-303,Taj Burgess,"Carteret, N.J.",Carteret,mens track,rutgers
-304,Perry Christie,"East Orange, N.J.",Union Catholic Regional,mens track,rutgers
-305,Andrew Comito,"Manalapan, N.J.",Manalapan,mens track,rutgers
-306,Brennan Crowle,"Endwell, N.Y.",Maine Endwell,mens track,rutgers
-307,Malachi Davis,"Wilmington, Del.",Mount Pleasant,mens track,rutgers
-308,Dimitri Demos,"Branchburg, N.J.",Somerville,mens track,rutgers
-309,Jared Fisher,"South Brunswick, N.J.",South Brunswick,mens track,rutgers
-310,Zachary Ghizzone,"Union, N.J.",Union Catholic,mens track,rutgers
-311,Nate Gravesande,"Dunellen, N.J.",Franklin,mens track,rutgers
-312,Jermaine Griffith,"Hamilton, N.J.",Nottingham,mens track,rutgers
-313,Ryan Gross,"Robbinsville, N.J.",Robbinsville,mens track,rutgers
-314,Greg Harnett,"East Amwell, N.J.",Hunterdon Central,mens track,rutgers
-315,Billy Hill,"Somerset, N.J.",Franklin,mens track,rutgers
-316,Tom Holster,"Oakland, N.J.",Indian Hills,mens track,rutgers
-317,Jordan Jimerson,"Edison, N.J.",Union Catholic,mens track,rutgers
-318,Matt Krezmer,"Montoursville, Pa.",Montoursville,mens track,rutgers
-319,Alexander Livernois,"Scotch Plains, N.J.",Scotch Plains-Fanwood,mens track,rutgers
-320,Jordan Lorenzo,"Newton, N.J.",Kittatinny,mens track,rutgers
-321,Boaz Madeus,"Hamilton, N.J.",Nottingham,mens track,rutgers
-322,Sean Martinek,"Millstone, N.J.",Christian Brothers Academy,mens track,rutgers
-323,Ja'Quan Mial,"Elizabeth, N.J.",John E. Dwyer Technology Academy,mens track,rutgers
-324,Chris Mirabelli,"Lumberton, N.J.",Holy Cross,mens track,rutgers
-325,John Mooers,"Dennisville, N.J.",Middle Township,mens track,rutgers
-326,Dom Munson,"Erial, N.J.",Timber Creek,mens track,rutgers
-327,Conor Murphy,"Millstone, N.J.",Allentown,mens track,rutgers
-328,Alexander Pai,"Rockaway, N.J.",Morris Hills,mens track,rutgers
-329,Jairus Paul,"Mahwah, N.J.",Mahwah,mens track,rutgers
-330,Edwyn Pierre,"Williamstown, N.J.",Williamstown,mens track,rutgers
-331,Cole Pschunder,"Gibbsboro, N.J.",Eastern Senior,mens track,rutgers
-332,Jason Schweizer,"Rockaway, N.J.",Morris Hills,mens track,rutgers
-333,Jared Skalski,"Englishtown, N.J.",Manalapan,mens track,rutgers
-334,Tobi Tella,"Rochester, N.Y.",Mcquaid Jesuit,mens track,rutgers
-335,Michael Thomas,"Denville, N.J.",Morris Knolls,mens track,rutgers
-336,Patrick Walsh,"South Amboy, N.J.",South Amboy,mens track,rutgers
-337,Patrick Warren,"Skillman, N.J.",Montgomery,mens track,rutgers
-338,Luke Wiley,"Williamstown, N.J.",Williamstown,mens track,rutgers
-339,Semaj  Willis,"Trenton, N.J.",Trenton Central,mens track,rutgers
-340,Rudy Winkler,"Averill Park, N.Y.",Averill Park,mens track,rutgers
-341,Edward Zaleck,"Old Bridge, N.J.",Old Bridge,mens track,rutgers
-342,Bukola Akinsola,"West Orange, N.J.",West Orange,womens track,rutgers
-343,Sabrina Alexander,"Millstone, N.J.",Notre Dame,womens track,rutgers
-344,Drew Andrews,"Florence, N.J.",Florence,womens track,rutgers
-345,Imani Beauliere,"Union, N.J.",Union Catholic,womens track,rutgers
-346,Emma Bergman,"Ventor, N.J.",Ocean City,womens track,rutgers
-347,Allyson Black,"Denville, N.J.",Morris Knolls,womens track,rutgers
-348,Kaitlyn Bragen,"Point Pleasant, N.J.",Point Pleasant Boro,womens track,rutgers
-349,Kathryn Campbell,"Lake Hiawatha, N.J.",Parsippany,womens track,rutgers
-350,Courteney Campbell,"Kendall Park, N.J.",South Brunswick,womens track,rutgers
-351,Genevieve Cickavage,"Moorestown, N.J.",Moorestown,womens track,rutgers
-352,Oniesha Clarke,"Waterbury, Conn.",Chase Collegiate School,womens track,rutgers
-353,Alexandra Coghlan,"Spotswood, N.J.",Spotswood,womens track,rutgers
-354,Anna Czajkowski,"Manalapan, N.J.",Manalapan,womens track,rutgers
-355,Lynnea Davis,"Toms River, N.J.",Toms River North,womens track,rutgers
-356,Kelsey Farbanish,"Pittstown, N.J.",North Hunterdon,womens track,rutgers
-357,Dakota Gerges,"Sayreville, N.J.",Sayreville,womens track,rutgers
-358,Phyllis Gordon,"Neptune, N.J.",Neptune,womens track,rutgers
-359,Bryanna Grant,"Cranford, N.J.",Cranford,womens track,rutgers
-360,Sara Gutter,"Allentown, N.J.",Allentown,womens track,rutgers
-361,Brianna Haspel,"Lincroft, N.J.",Middletown South,womens track,rutgers
-362,Kayla Jackson,"Columbus, N.J.",Northern Burlington,womens track,rutgers
-363,Ain Jones,"Livingston, N.J.",Livingston,womens track,rutgers
-364,Alexandra Juzwiak,"North Middletown, N.J.",Middletown North,womens track,rutgers
-365,Dahria Lewis,"Maplewood, N.J.",Columbia,womens track,rutgers
-366,Olympia Martin,"Ridgewood, N.J.",Ridgewood,womens track,rutgers
-367,Stephanie Mauer,"Hillsborough, N.J.",Hillsborough,womens track,rutgers
-368,Lou Mialhe,"Princeton, N.J.",Princeton,womens track,rutgers
-369,Kiera Nealon,"Manalapan, N.J.",Manalapan,womens track,rutgers
-370,Natalie Neamtu,"Webster, N.Y.",Webster-Thomas,womens track,rutgers
-371,Nyamekye Opoku-Agyemang,"Union, N.J.",Union,womens track,rutgers
-372,Sarah Robbie,"Marlton, N.J.",Cherokee,womens track,rutgers
-373,Rhonda Rogombe,"Charlestown, W.V.",Washington,womens track,rutgers
-374,Halia Rosemond,"West Orange, N.J.",Morristown-Beard School,womens track,rutgers
-375,Nadia Saponara,"Ringoes, N.J.",Hunterdon Central,womens track,rutgers
-376,Bria Saunders,"Parsippany, N.J.",Parsippany,womens track,rutgers
-377,Jacqueline Simmons,"Beltsville, Md.",Elizabeth Seton,womens track,rutgers
-378,Jenna Sobieski,"Old Bridge, N.J.",Old Bridge,womens track,rutgers
-379,Oksana Sokolova,"Old Bridge, N.J.",Old Bridge,womens track,rutgers
-380,Ariel Strunkey,"Mount Vernon, N.Y.",Monroe College,womens track,rutgers
-381,Arianne Strunkey,"Mount Vernon, N.Y.",Monroe College,womens track,rutgers
-382,Tierra Taylor,"Browns Mills, N.J.",Pemberton,womens track,rutgers
-383,Selena Thorne,"Somerset, N.J.",Franklin,womens track,rutgers
-384,Ariyonna Wright,"Somerset, N.J.",Franklin,womens track,rutgers
-385,Nicolas Aguilar,"Gilroy, Calif.",Gilroy,wrestling,rutgers
-386,Anthony Ashnault,"South Plainfield, N.J.",South Plainfield,wrestling,rutgers
-387,Jake Benner,"Ocean Township, N.J.",Ocean,wrestling,rutgers
-388,John Ciaramella,"Waxhaw, N.C.",Marvin Ridge,wrestling,rutgers
-389,Robert  Cleary,"Bound Brook, N.J.",Bound Brook,wrestling,rutgers
-390,Christian Colucci,"Summit, N.J.",St. Peter's Prep,wrestling,rutgers
-391,Matthew Correnti,"Delran, N.J.",Holy Cross Academy,wrestling,rutgers
-392,Dylan D'Amore,"Montgomery, N.J.",Montgomery,wrestling,rutgers
-393,Nick  Denora,"West Paterson, N.J.",Passaic Valley Regional,wrestling,rutgers
-394,Kyle  DiNapoli,"Voorhees, N.J.",Voorhees,wrestling,rutgers
-395,Brett Donner,"Wall, N.J.",Wall,wrestling,rutgers
-396,Luke Ecklof,"Howell Township, N.J.",St. John Vianney,wrestling,rutgers
-397,Alex Esposito,"Cranford, N.J.",Cranford,wrestling,rutgers
-398,Zach  Firestone,"Swedesboro, N.J.",Clearview Regional,wrestling,rutgers
-399,Stephan Glasgow,"Bound Brook, N.J.",Bound Brook,wrestling,rutgers
-400,Nicholas Gravina,"Allendale, N.J.",Northern Highlands Regional,wrestling,rutgers
-401,Joseph Grello,"Newton, N.J.",Bergen Catholic,wrestling,rutgers
-402,Billy Janzer,"Monroeville, N.J.",Delsea,wrestling,rutgers
-403,Gerald Jones,"Caldwell, N.J.",Caldwell,wrestling,rutgers
-404,Kyle Lightner,"Frenchtown, N.J.",Delaware Valley,wrestling,rutgers
-405,Peter  Lipari,"Little Falls, NJ",Bergen Catholic,wrestling,rutgers
-406,Shane Metzler,"Long Valley, N.J.",West Morris,wrestling,rutgers
-407,Ralph Normandia,"Somerset, N.J.",Franklin,wrestling,rutgers
-408,Anthony Olivieri,"East Hanover, N.J.",Hanover Park,wrestling,rutgers
-409,Jordan Pagano,"South Brunswick, N.J.",Bergen Catholic,wrestling,rutgers
-410,Malcolm Robinson,"Edison, N.J.",Blair Academy,wrestling,rutgers
-411,Nick  Santos,"Clark, N.J.",St. Peter's Prep,wrestling,rutgers
-412,Willie Scott,"Brick, N.J.",Brick Township,wrestling,rutgers
-413,Nick  Suriano,"Paramus, N.J.",Bergen Catholic,wrestling,rutgers
-414,John Van Brill,"Mullica Hill, N.J.",Clearview,wrestling,rutgers
-415,Michael Van Brill,"Mullica Hill, N.J.",Clearview,wrestling,rutgers
-416,Max Wright,"Delaware, Ohio",Delaware Hayes,wrestling,rutgers
-417,Gianna  Glatz,"Medford, N.J.",Shawnee HS,womens field hockey,rutgers
-418,Carlina Sacco,"Hammonton, N.J.",St. Joseph HS,womens field hockey,rutgers
-419,Haley Meade,"Freehold, N.J.",Freehold Boro,womens field hockey,rutgers
-420,Jade Dixon,"Berlin, N.J.",Eastern Regional,womens field hockey,rutgers
-421,Daphne  Groothuis,"Nieuwerkerk ad IJssel, Netherlands",Thorbecke VO,womens field hockey,rutgers
-422,Nikki Profita,"Washington, N.J.",Warren Hills Regional,womens field hockey,rutgers
-423,Gianna  Mancini,"Medford, N.J.",Shawnee HS,womens field hockey,rutgers
-424,Kassidy  Shetler,"Ramsey, N.J.",Ramsey HS,womens field hockey,rutgers
-425,Linde van Schaik,"Amsterdam, Netherlands",Cygnus Gymnasium,womens field hockey,rutgers
-426,Simrin Dhillon,"Vancouver, British Columbia",Crofton House School,womens field hockey,rutgers
-427,Megan Cunningham,"Wilton, Conn.",Wilton,womens field hockey,rutgers
-428,Kerrie  Burns,"Portadown, Ireland",Portadown College,womens field hockey,rutgers
-429,Emily Howarth,"Bridgewater, N.J.",Bridgewater-Raritan HS,womens field hockey,rutgers
-430,Gracey Butsack,"Mohrsville, Pa.",Schuykill Valley HS,womens field hockey,rutgers
-431,Nikki Santore,"Voorhees, N.J.",Eastern Regional,womens field hockey,rutgers
-432,Amanda Lamb,"Phoenixville, Pa.",Owen J. Roberts HS,womens field hockey,rutgers
-433,Alanna Gollotto,"Voorhees, N.J.",Eastern Regional,womens field hockey,rutgers
-434,Katie Larmour,"Belfast,  Ireland",Methodist College Belfast,womens field hockey,rutgers
-435,Austyn Cuneo,"Waterford Works, N.J.",Eastern Regional,womens field hockey,rutgers
-436,Jessica Carey,"Bordentown, N.J.",Bordentown Regional,womens field hockey,rutgers
-437,Katie Beilin,"Morristown, N.J.",Morristown,womens field hockey,rutgers
-438,Alexis Achenbach,"Basking Ridge, N.J.",Ridge,womens rowing,rutgers
-439,Talya Ackerman,"Marlboro, N.J",Marlboro,womens rowing,rutgers
-440,Madison Akins,"Pine Beach, N.J.",Toms River South,womens rowing,rutgers
-441,Therese Apuzzo,"Gillette, N.J.",Watchung Hill Regional,womens rowing,rutgers
-442,Allyson-Joan Archer,"Pomona, N.Y.",Paramus Catholic,womens rowing,rutgers
-443,Rebecca Barglowski,"Hillsborough, N.J.",Hillsborough,womens rowing,rutgers
-444,Carolyn Bennett,"Maple Shade, N.J.",Maple Shade,womens rowing,rutgers
-445,Olivia Betz,"Long Valley, N.J.",West Morris Central,womens rowing,rutgers
-446,Carolyn Biernacki,"West Deptford, N.J.",Bishop Eustace Prep,womens rowing,rutgers
-447,Emily Blumstein,"Millburn, N.J.",Millburn,womens rowing,rutgers
-448,Alexandra Bossi,"Egg Harbor Township, N.J.",Egg Harbor Township,womens rowing,rutgers
-449,Kathleen Butler,"Flemington, N.J.",Delaware Valley,womens rowing,rutgers
-450,Sydney Canfield,"Tampa, Fla.",Newsome,womens rowing,rutgers
-451,Sophia Catuogno,"Freehold, N.J.",Freehold,womens rowing,rutgers
-452,Tessa Catuogno,"Freehold, N.J.",Freehold,womens rowing,rutgers
-453,Rebecca Chanin,"Titusville, N.J.",The Hun School,womens rowing,rutgers
-454,Gabriella Conmy,"Madison, N.J.",Madison,womens rowing,rutgers
-455,Mary Connelly,"Somerset, N.J.",Franklin,womens rowing,rutgers
-456,Susan Czekay,"Medford, N.J.",Shawnee,womens rowing,rutgers
-457,Margaret Dever,"Lakewood, Ohio",Lakewood,womens rowing,rutgers
-458,Haley Dittmer,"Marlton, N.J.",Richmond Hill,womens rowing,rutgers
-459,Vailey Eberhard,"Haubstadt, Ind.",Gibson Southern,womens rowing,rutgers
-460,Bryanna Eichler,"Hanover Township, Pa.",Hanover Jr.,womens rowing,rutgers
-461,Erin Ender,"Montgomery, N.J.",Montgomery,womens rowing,rutgers
-462,Brooke Enners,"Scotch Plains, N.J.",Scotch Plains-Fanwood,womens rowing,rutgers
-463,Mackenzie Evans,"Woodcliff Lake, N.J.",Pascack Hills,womens rowing,rutgers
-464,Sophia Filosa,"Haddon Township, N.J.",Haddon Township,womens rowing,rutgers
-465,Lindsay Fischer,"Marlton, N.J.",Cherokee,womens rowing,rutgers
-466,Angelina Fomina,"Stavropol, Russia",West Windsor-Plainsboro South,womens rowing,rutgers
-467,Mackenzie George,"Sutton, Mass.",Sutton Memorial,womens rowing,rutgers
-468,Rosalina Guarino,"Middlesex, N.J.",Middlesex,womens rowing,rutgers
-469,Laura Hegemann,"Falls Church, Va.",J.E.B. Stuart,womens rowing,rutgers
-470,Julia Hendricks,"Egg Harbor Township, N.J.",Egg Harbor Township,womens rowing,rutgers
-471,Rucha Janodia,"Robbinsville, N.J.",Robbinsville,womens rowing,rutgers
-472,Kirsten Jeansson,"Tabernacle, N.J.",Seneca,womens rowing,rutgers
-473,Sarah Johanek,"Cleveland, Ohio",Saint Joseph Academy,womens rowing,rutgers
-474,Omisha Jyothi,"Fairfax Station, Va.",Thomas Jefferson,womens rowing,rutgers
-475,Elizabeth Kogan,"Franklin Lakes, N.J.",Ramapo,womens rowing,rutgers
-476,Lily Lumkong,"Hightstown, N.J.",Hightstown,womens rowing,rutgers
-477,Jessie Macqueen,"Millmerran, Queensland, Australia",Stuartholme School,womens rowing,rutgers
-478,Lydia Marentette,"Toledo, Ohio",Notre Dame Academy,womens rowing,rutgers
-479,Isabella Martins,"Kearny, N.J.",Kearny,womens rowing,rutgers
-480,Olivia Maxton,"Tinton Falls, N.J.",Monmouth Regional,womens rowing,rutgers
-481,Kara McDermott,"Fair Haven, N.J.",Rumon-Fair Haven Regional,womens rowing,rutgers
-482,Adrienne Michelet,"Dunlap, IL",Dunlap,womens rowing,rutgers
-483,Anika Nelson,"Monroe, Wis.",Monroe,womens rowing,rutgers
-484,Sara Pagano,"East-Ampton, N.J.",Rancocas Valley,womens rowing,rutgers
-485,Merve Pekdemir,"Westfield, N.J.",UCTech,womens rowing,rutgers
-486,Elisabeth Peters,"Hopewell, N.J.",Hopewell Valley Central,womens rowing,rutgers
-487,Allison Proszowski,"Clifton, N.J.",Clifton,womens rowing,rutgers
-488,Kennedy Robinson,"West Orange, N.J.",Montclair Kimberly Academy,womens rowing,rutgers
-489,Madison Sieloff,"Trenton, Mich.",Trenton,womens rowing,rutgers
-490,Natalie Summerfelt,"Antioch, Ill.",Antioch Community,womens rowing,rutgers
-491,Ella Toa,"New Plymouth, Taeanaki, New Zealand",Sacred Heart Gils College New Plymouth,womens rowing,rutgers
-492,Vida Torres,"Egg Harbor Township, N.J.",Egg Harbor Township,womens rowing,rutgers
-493,Rachel Usen,"Bolton, MA",Sharon,womens rowing,rutgers
-494,Lalitha Vallabhaneni,"Paramus, N.J.",Paramus,womens rowing,rutgers
-495,Kori Warren,"Mullica Hills, N.J.",Clearview Regional,womens rowing,rutgers
-496,Stephanie Welsh,"Baltimore, Md.",Institute of Notre Dame,womens rowing,rutgers
-497,Julia Wilson,"New Providence, N.J.",New Providence,womens rowing,rutgers
-498,Larissa Wojtenko,"Princeton Junction, N.J.",West Windsor-Plainsboro North,womens rowing,rutgers
-499,Jacqueline Kott,"Burlington, N.J.",Burlington Township,softball,rutgers
-500,Nicolette Anico,"Bristol, Fla.",Sneads,softball,rutgers
-501,Hailey Hoklotubbe,"Laguna Niguel, Calif.",Dana Hills,softball,rutgers
-502,Jess Hughes,"Sewell, N.J.",Washington Township,softball,rutgers
-503,Meaghan Wells,"Piscataway, N.J.",Piscataway,softball,rutgers
-504,Cambria Keefer,"Glendora, Calif.",Glendora,softball,rutgers
-505,Rebecca Hall,"Fairfax, Va.",Fairfax,softball,rutgers
-506,Whitney Jones,"Santa Monica, Calif.",Santa Monica,softball,rutgers
-507,Adriana Burcar,"La Palma, Calif.",John F. Kennedy,softball,rutgers
-508,Christine Malito,"Frankfort, Ill.",Lincoln-Way East,softball,rutgers
-509,Madyson Cole,"Portage, Mich.",Portage Central,softball,rutgers
-510,Taryn Collins,"Hollis, N.H.",St. Paul's,softball,rutgers
-511,Sierra Maddox,"Kennesaw, Ga.",Harrison,softball,rutgers
-512,Alexis  Silinonte,"Petaluma, Calif.",Petaluma,softball,rutgers
-513,Bianca Vozenilek,"Plainfield, Ill.",Plainfield East,softball,rutgers
-514,Anyssa Iliopoulos,"Norridge, Ill.",Trinity,softball,rutgers
-515,Erin Collins,"Sparks, Md.",Hereford,softball,rutgers
-516,Allie Yoffee,"Ringwood, N.J.",Lakeland Regional,softball,rutgers
-517,Taylor  Manno,"Chanhassen, Minn.",Chanhassen,softball,rutgers
-518,Nicole Bowman,"Downers Grove, Ill.",Downers Grove South,softball,rutgers
-519,Myah Moy,"Bradenton, Fla.",Braden River,softball,rutgers
-520,Beka Kojadinovic,"Belgrade, Serbia",Sesta Beogradska Gimnazija,womens volleyball,rutgers
-521,Sahbria McLetchie,"San Antonio, Texas",James Madison,womens volleyball,rutgers
-522,Stasa Miljevic,"Belgrade, Serbia",XIII Belgrade Gymnasium,womens volleyball,rutgers
-523,Anastasiia Maksimova,"Ulyanovsk, Russia",School #12,womens volleyball,rutgers
-524,Yana Kamshilina,"Omsk, Russia",Gymnasium 85,womens volleyball,rutgers
-525,Nastya Kudryashova,"Novosibirsk, Russia",Gimnazium No. 1798,womens volleyball,rutgers
-526,Inna Balyko,"Gubkinsky, Russia",Gymnasium Phoenix 1798,womens volleyball,rutgers
-527,Merle Weidt,"Offenburg, Germany",Schul- und Leistungssportzentrum Berlin,womens volleyball,rutgers
-528,Kamila Cieslik,"Knoxville, Tenn.",Knoxville Catholic,womens volleyball,rutgers
-529,Karysa Swackenberg,"Brighton, Colo.",Brighton,womens volleyball,rutgers
-530,Jasmine Stackhouse,"Detroit, Mich.",Oakpark,womens volleyball,rutgers
-531,Riahanah Ali,"Ann Arbor, Mich.",Huron,womens gymnastics,rutgers
-532,Michelle Amoresano,"Whippany, N.J.",Whippany Park,womens gymnastics,rutgers
-533,Sophia Atienza,"Copley, Ohio",Walsh Jesuit,womens gymnastics,rutgers
-534,Jenna Crisalli,"Freehold, N.J.",Freehold Boro,womens gymnastics,rutgers
-535,Chloe DeVries,"Venice, Fla.",Venice,womens gymnastics,rutgers
-536,Emily Drauss,"Longwood, Fla.",Lake Brantley,womens gymnastics,rutgers
-537,Shannon Farrell,"Atlantic Highlands, N.J.",Henry Hudson Regional,womens gymnastics,rutgers
-538,Libby Groden,"Abbottstown, Pa.",New Oxford,womens gymnastics,rutgers
-539,Kaitlyn Hall,"Raytown, Mo.",Raytown,womens gymnastics,rutgers
-540,Belle Huang,"Gaithersburg, Md.",Tuscarora,womens gymnastics,rutgers
-541,Emma Karas,"Port Matilda, Pa.",State College Area,womens gymnastics,rutgers
-542,Rachel Ley,"Trophy Club, Texas",Byron Nelson,womens gymnastics,rutgers
-543,Erin McLachlan,"Huddersfield, England",Huddersfield New College,womens gymnastics,rutgers
-544,Polina Poliakova,"Norwich, Great Britain",Notre Dame,womens gymnastics,rutgers
-545,Hannah Prieto,"Westfield, N.J.",Westfield,womens gymnastics,rutgers
-546,Jenna Rizkalla,"Westfield, N.J.",Westfield,womens gymnastics,rutgers
-547,Eriel Santagado,"Celebration, Fla.",Florida Virtual,womens gymnastics,rutgers
-548,Makenzey Shank,"Phoenix, Ariz.",Saguaro,womens gymnastics,rutgers
-549,Toni Williams,"Olney, Md.",Sherwood,womens gymnastics,rutgers
-550,Joe Francisco,"Clark, N.J.",Arthur L. Johnson,mens lacrosse,rutgers
-551,Christian Trasolini,"New Hyde Park, N.Y.",New Hyde Park Memorial HS,mens lacrosse,rutgers
-552,Chad Toliver,"Atlanta, Ga.",Milton HS,mens lacrosse,rutgers
-553,Kieran Mullins,"Islip, N.Y.",Islip HS,mens lacrosse,rutgers
-554,Kyle Pless,"Highlands Ranch, Colo.",Mountain Vista HS,mens lacrosse,rutgers
-555,Tommy Coyne,"Naperville, Illinois",Naperville Central HS,mens lacrosse,rutgers
-556,Jules Heningburg,"Maplewood, N.J.",Seton Hall Prep,mens lacrosse,rutgers
-557,Adam Charalambides,"Georgetown, Ontario",The Hill Academy,mens lacrosse,rutgers
-558,Max Edelmann,"Middletown, Md.,",Middletown HS,mens lacrosse,rutgers
-559,David Walker,"Scotch Plains, N.J.",Scotch Plains-Fanwood HS,mens lacrosse,rutgers
-560,Austin Divitcos,"Richmond Hill, Ontario",The Hill Academy,mens lacrosse,rutgers
-561,Alex Bronzo,"Putnam Valley, N.Y.",Putnam Valley HS,mens lacrosse,rutgers
-562,Christian Scarpello,"Madison, N.J.",Madison HS,mens lacrosse,rutgers
-563,Mark Schachte,"Cary, N.C.",Cardinal Gibbons,mens lacrosse,rutgers
-564,Palmer Lloyd,"Vienna, Virginia",James Madison HS,mens lacrosse,rutgers
-565,Shane  Dougherty,"Rockaway, N.J.",Morris Knolls,mens lacrosse,rutgers
-566,Mark Christiano,"Cranford, N.J.,",Cranford HS,mens lacrosse,rutgers
-567,Garrett Bullett,"Draper, Utah",Corner Canyon HS,mens lacrosse,rutgers
-568,Casey Rose,"Salt Lake City, Utah",Corner Canyon,mens lacrosse,rutgers
-569,Christian Mazzone,"Stony Brook, N.Y.",Ward Melville,mens lacrosse,rutgers
-570,Michael Rexrode,"Leesburg, Va.",Loudoun County HS,mens lacrosse,rutgers
-571,Josh Jordan,"Lunenburg, Mass.",Brewster Academy,mens lacrosse,rutgers
-572,Ben Dodson,"Coppell, Texas",Coppell HS,mens lacrosse,rutgers
-573,Steve Hillenbrand,"Woodbridge, VA",Paul VI Catholic HS,mens lacrosse,rutgers
-574,Robert Marron,"Annandale, N.J.",North Hunterdon,mens lacrosse,rutgers
-575,Ryan Cunningham,"Long Hill, N.J.,",Watchung Hills,mens lacrosse,rutgers
-576,Liam King,"Latham, NY",Shaker HS,mens lacrosse,rutgers
-577,Liam Donnelly,"Yorktown, N.Y.",Yorktown,mens lacrosse,rutgers
-578,Connor Harryman,"Southlake, Texas",Southlake Carroll Senior High School,mens lacrosse,rutgers
-579,Jordan Pakzad,"Newport Beach, Calif.",Corona Del Mar,mens lacrosse,rutgers
-580,John  Burke,"Clayton, Calif.",De La Salle,mens lacrosse,rutgers
-581,Ryan Gallagher,"Atlanta, Ga.",Marist School,mens lacrosse,rutgers
-582,Jack Ayre,"Long Hill, N.J.",Watchung Hills,mens lacrosse,rutgers
-583,Joe Peterson,"Alamo, Calif.",Monte Vista HS,mens lacrosse,rutgers
-584,Brendan Moreau,"Far Hills, N.J.",St. Joseph's (Metuchen,mens lacrosse,rutgers
-585,Owen Mead,"Sparta, N.J.",Sparta HS,mens lacrosse,rutgers
-586,Garrett Michaeli,"Draper, Utah",Corner Canyon HS,mens lacrosse,rutgers
-587,Adam Graham,"Mullica Hill, N.J.",Clearview Regional,mens lacrosse,rutgers
-588,Michael  Sanguinetti,"Robbinsville, N.J.",Robbinsville / Trinity Pawling,mens lacrosse,rutgers
-589,Connor Vercruysse,"Yorktown Heights, N.Y.",Yorktown HS,mens lacrosse,rutgers
-590,Eddie Perlstein,"Hewlett, N.Y.",Lynbrook High School,mens lacrosse,rutgers
-591,Alex Schoen,"Short Hills, N.J.",Millburn,mens lacrosse,rutgers
-592,Brian Eletti,"Levittown, N.Y.",Island Trees HS,mens lacrosse,rutgers
-593,Jake Nordhausen,"Ellicott City, Md.",Loyola Blakefield,mens lacrosse,rutgers
-594,Sam Oltmans,"Montgomery, N.J.",Montgomery HS,mens lacrosse,rutgers
-595,Brodie Gillespie,"Port Coquitlam, B.C.",Terry Fox Secondary,mens lacrosse,rutgers
-596,Jack Thompson,"Madison, N.J.",Madison HS,mens lacrosse,rutgers
-597,Jaryd Jean-Felix,"Cumming, Ga.",Lambert High School,mens lacrosse,rutgers
-598,Cole Touhey,"Gladstone, N.J.",Rutgers Prep,mens lacrosse,rutgers
-599,Christina Petito,"West Deptford, N.J.",West Deptford,womens lacrosse,rutgers
-600,Tess Howland,"Glen Ridge, N.J.",Glen Ridge,womens lacrosse,rutgers
-601,Dana Gisonno,"Airmont, N.Y.",Suffern,womens lacrosse,rutgers
-602,Hannah Hollingsworth,"Martinsville, N.J.",Bridgewater-Raritan,womens lacrosse,rutgers
-603,Julia Lytle,"Martinsville, N.J.",Bridgewater-Raritan,womens lacrosse,rutgers
-604,Samantha Budd,"West Deptford, N.J.",West Deptford,womens lacrosse,rutgers
-605,Abbey Brooks,"Moorestown, N.J.",Moorestown,womens lacrosse,rutgers
-606,Catherine Perkins,"Readington, N.J.",Hunterdon Central,womens lacrosse,rutgers
-607,Emily Santana,"Springfield Del. County, Pa.",Springfield,womens lacrosse,rutgers
-608,Taralyn  Naslonski,"Randolph, N.J.",Randolph,womens lacrosse,rutgers
-609,Jordan Drab,"Suffern, N.Y.",Suffern,womens lacrosse,rutgers
-610,Nicole Kopyta,"Oakland, N.J.",Indian Hills,womens lacrosse,rutgers
-611,Regina Sharp,"Suffern, N.Y.",Suffern,womens lacrosse,rutgers
-612,Amanda Casten,"Brick, N.J.",Red Bank Catholic,womens lacrosse,rutgers
-613,Christine DiLullo,"Marlton, N.J.",Cherokee,womens lacrosse,rutgers
-614,Sydney Quinn,"Millstone, N.J.",Allentown,womens lacrosse,rutgers
-615,Joanna Reilly,"Spring Lake, N.J.",Manasquan,womens lacrosse,rutgers
-616,Amanda Romano,"Montclair, N.J.",Montclair,womens lacrosse,rutgers
-617,Kerri Puckhaber,"Wantagh, N.Y.",St. Anthony's,womens lacrosse,rutgers
-618,Paige Paratore,"West Deptford, N.J.",West Deptford,womens lacrosse,rutgers
-619,Monica Dresnin,"Lafayette Hill, Pa.",Plymouth Whitemarsh,womens lacrosse,rutgers
-620,Samantha Scarpello,"Shamong, N.J.",Seneca,womens lacrosse,rutgers
-621,Alana Navaroli,"Skaneateles, N.Y.",Skaneateles,womens lacrosse,rutgers
-622,Dakota Pastore,"Branchburg, N.J.",Somerville,womens lacrosse,rutgers
-623,Jenna Martinelli,"Moorestown, N.J.",Moorestown,womens lacrosse,rutgers
-624,Brianna Cirino,"Royersford, Pa.",Spring-Ford,womens lacrosse,rutgers
-625,Bianca Dente,"Yorktown Heights, N.Y.",Yorktown,womens lacrosse,rutgers
-626,Devon Kearns,"Marlton, N.J.",Cherokee,womens lacrosse,rutgers
-627,Allie  Ferrara,"Morristown, NJ",Morristown,womens lacrosse,rutgers
-628,Dana Pena,"Verona, N.J.",Verona,womens lacrosse,rutgers
-629,Jacquelyn  Jester,"Montgomeryville, Pa.",Lansdale Catholic,womens lacrosse,rutgers
-630,Kameron  Halsall,"Caledon, Ontario, Canada",The Hill Academy,womens lacrosse,rutgers
+57,Alex Russo,"Rockaway, N.J.",Morris Hills,baseball,rutgers
+58,Harry Rutkowski,"Fords, N.J.",Woodbridge,baseball,rutgers
+59,Richie Schiekofer,"Millburn, N.J.",Millburn,baseball,rutgers
+60,Carmen Sclafani,"Toms River, N.J.",Brick,baseball,rutgers
+61,Parker Scott,"Ridgewood, N.J.",Ridgewood,baseball,rutgers
+62,Peter Serruto,"Short Hills, N.J.",Millburn,baseball,rutgers
+63,David Soto,"Brentwood, N.J.",Brentwood,baseball,rutgers
+64,Brett Sternberg,"Churchville, Pa.",Holy Ghost Prep,baseball,rutgers
+65,Victor Valderrama,"Miami, Fla.",Palmetto,baseball,rutgers
+66,Kevin Welsh,"Columbus, N.J.",Northern Burlington Regional,baseball,rutgers
+67,Rani Abdulaziz,"Roseland, N.J.",West Essex,football,rutgers
+68,Kessawn Abraham,"Brooklyn, N.Y.",Erasmus Hall,football,rutgers
+69,Austin Albericci,"Closter, N.J.",Demarest,football,rutgers
+70,Nihym Anderson,"Vineland, N.J.",Vineland,football,rutgers
+71,Max Anthony,"Albany, N.Y.",Christian Brothers Academy,football,rutgers
+72,Blessuan Austin,"Queens, N.Y.",Campus Magnet,football,rutgers
+73,Tre Avery,"Baltimore, Md.",Franklin,football,rutgers
+74,Elijah Barnwell,"Piscataway, N.J.",Piscataway,football,rutgers
+75,Tim Barrow,"Staten Island, N.Y.",Tottenville,football,rutgers
+76,Jon Bateky,"Boyds, Md.",Poolesville,football,rutgers
+77,Rashawn Battle,"Grentown, Pa.",Wallenpaupack,football,rutgers
+78,Jamaal Beaty,"Cliffwood, N.J.",St. John Vianney,football,rutgers
+79,Raheem Blackshear,"Warminster, Pa.",Archbishop Wood Catholic,football,rutgers
+80,Brendan Bordner,"Columbus, Ohio",Hilliard Bradley,football,rutgers
+81,Owen Bowles,"Galloway, N.J.",Cedar Creek,football,rutgers
+82,Izaia Bullock,"Linden, N.J.",Linden,football,rutgers
+83,Ryan Cassidy,"Mt. Laurel, N.J.",Lenape,football,rutgers
+84,Jalen Chatman,"Inglewood, Calif.",Narbonne,football,rutgers
+85,Micah Clark,"Cliffwood, N.J.",St. John Vianney,football,rutgers
+86,Tariq Cole,"Long Beach, N.Y.",Long Beach,football,rutgers
+87,Justin Davidovicz,"Bridgewater, N.J.",Bridgewater-Raritan,football,rutgers
+88,Parker Day,"Toms River, N.J.",Toms River North,football,rutgers
+89,Ryan Downer,"Jackson, N.J.",Jackson Liberty,football,rutgers
+90,Jaohne Duggan,"Bethlehem, Pa.",Liberty,football,rutgers
+91,Olakunle Fatukasi,"Far Rockaway, N.Y.",Grand Street Campus,football,rutgers
+92,Liam Flite,"Blackwood, N.J.",Highland Regional,football,rutgers
+93,Tyshon Fogg,"Baltimore, Md.",Calvert Hall,football,rutgers
+94,Jelani Ray Garvin,"Allendale, N.J.",Northern Highlands,football,rutgers
+95,Nakia Griffin-Stewart,"Tenafly, N.J.",Tenafly,football,rutgers
+96,Jason Griggs,"Highland Park, N.J.",Highland Park,football,rutgers
+97,Gavin Haggerty,"Montvale, N.J.",St. Joseph (Montvale),football,rutgers
+98,Saquan Hampton,"Hamilton, N.J.",Nottingham,football,rutgers
+99,Javis Hanks,"Newark, N.J.",Shabazz,football,rutgers
+100,Hunter Hayek,"Wayne, N.J.",Wayne Hills,football,rutgers
+101,Tyler Hayek,"Wayne, N.J.",Wayne Hills,football,rutgers
+102,Damon Hayes,"Upper Marlboro, Md.",Dr. Henry A. Wise,football,rutgers
+103,Zack Heeman,"Budd Lake, N.J.",Mount Olive,football,rutgers
+104,Kiy Hester,"Plainfield, N.J.",DePaul Catholic,football,rutgers
+105,Jonathan Hilliman,"Plainfield, N.J.",St. Peter's Prep,football,rutgers
+106,Sam Howson,"Sparta, N.J.",Pope John XXIII,football,rutgers
+107,Christian Izien,"Far Rockaway, N.Y.",Erasmus Hall,football,rutgers
+108,Mohamed Jabbie,"Monmouth Junction, N.J.",South Brunswick,football,rutgers
+109,Jonah Jackson,"Media, Pa.",Penncrest,football,rutgers
+110,Deion Jennings,"Sicklerville, N.J.",Timber Creek,football,rutgers
+111,Nick Johnston,"Fredonia, N.Y.",Toledo,football,rutgers
+112,Shameen Jones,"Bronx, N.Y.",Cardinal Hayes,football,rutgers
+113,Jalen Jordan,"Philadelphia, Pa.",IMG Academy,football,rutgers
+114,Robin Jutwreten,"Stockholm, Sweden",Arlandagymnasiet,football,rutgers
+115,Adam Korsak,"Melbourne, Australia",Maribyrnong College,football,rutgers
+116,Nick Krimin,"South Amboy, N.J.",St. Joseph (Metuchen),football,rutgers
+117,Jamree Kromah,"Upper Marlboro, Md.",CH Flowers,football,rutgers
+118,Zihir Lacewell,"Staten Island, N.Y.",Tottenville,football,rutgers
+119,Eddie Lewis,"New York, N.Y.",Mater Dei,football,rutgers
+120,Johnathan Lewis,"East Orange, N.J.",St. Peter's Prep,football,rutgers
+121,Mike Lonsdorf,"Bound Brook, N.J.",Immaculata,football,rutgers
+122,Elorm Lumor,"Piscataway, N.J.",Piscataway,football,rutgers
+123,Tyreek Maddox-Williams,"Erial, N.J.",Timber Creek,football,rutgers
+124,Michael Maietti,"West Orange, N.J.",Don Bosco Prep,football,rutgers
+125,Anthony Marshall,"Middlesex, N.J.",Middlesex,football,rutgers
+126,Tijaun Mason,"Memphis, Tenn.",Trezevant,football,rutgers
+127,Bo Melton,"Mays Landing, N.J.",Cedar Creek,football,rutgers
+128,Zamir Mickens,"East Orange, N.J.",St. Peter's Prep,football,rutgers
+129,Zach Miseo,"Bridgewater, N.J.",Bridgewater-Raritan,football,rutgers
+130,Trevor Morris,"King of Prussia, Pa.",Malvern Prep,football,rutgers
+131,Cole Murphy,"Olathe, Kan.",Olathe North,football,rutgers
+132,Brandon Myers,"Bridgewater, N.J.",Bridgewater-Raritan,football,rutgers
+133,Rob Nittolo,"Palm Beach Gardens, Fla.",Hillsborough (N.J.),football,rutgers
+134,Chike Nwankwo,"Bridgewater, N.J.",Bridgewater-Raritan,football,rutgers
+135,Raiqwon O’Neal,"Conway, S.C.",Conway,football,rutgers
+136,Jim Onulak,"Belmar, N.J.",Trinity Pawling School,football,rutgers
+137,Isaih Pacheco,"Vineland, N.J.",Vineland South,football,rutgers
+138,Jarrett Paul,"Brooklyn, N.Y.",Paramus Catholic,football,rutgers
+139,Jonathan Pimentel,"Manalapan, N.J.",Manalapan,football,rutgers
+140,Willington Previlon,"Orange, N.J.",Orange,football,rutgers
+141,Aslan Pugh,"Wilmington, Del.",Wilmington Charter,football,rutgers
+142,Freddie Recio,"Union City, N.J.",St. Peter's Prep,football,rutgers
+143,Giovanni Rescigno,"Macomb Twp., Mich.",De La Salle,football,rutgers
+144,Deonte Roberts,"Brooklyn, N.Y.",Erasmus Hall,football,rutgers
+145,Daevon Robinson,"Medford, N.J.",Shawnee,football,rutgers
+146,Austin Rosa,"Reading, Pa.",Wilson West Lawn,football,rutgers
+147,Matt Rosso,"Fairless Hills, Pa.",Pennsbury,football,rutgers
+148,Kamaal Seymour,"Brooklyn, N.Y.",Grand Street Campus,football,rutgers
+149,Brendan Shank,"Franklin Township, N.J.",St. Joseph (Metuchen),football,rutgers
+150,Artur Sitkowski,"Old Bridge, N.J.",IMG Academy,football,rutgers
+151,Trey Sneed,"Orange Park, Fla.",Fleming Island,football,rutgers
+152,Charles Snorweah,"Levittown, Pa.",Pennsbury,football,rutgers
+153,Matthew Sportelli,"Wayne, N.J.",Wayne Hills,football,rutgers
+154,Zach Sterr,"Galloway, N.J.",Absegami,football,rutgers
+155,Lawrence Stevens,"Lawrenceville, N.J.",Don Bosco Prep,football,rutgers
+156,Reggie Sutton,"Towson, Md.",Calvert Hall,football,rutgers
+157,Billy Taylor,"Parsippany, N.J.",Parsippany Hills,football,rutgers
+158,Manny Taylor,"Philadelphia, Pa.",Roman Catholic,football,rutgers
+159,Prince Taylor,"Hackensack, N.J.",Hackensack,football,rutgers
+160,Matt Thomas,"Brooklyn, N.Y.",Midwood,football,rutgers
+161,Julius Turner,"Meridian, Miss.",Meridian,football,rutgers
+162,Mike Tverdov,"Union, N.J.",Union,football,rutgers
+163,Zach Venesky,"Peckville, Pa.",Valley View,football,rutgers
+164,Travis Vokolek,"Springfield, Mo.",Kickapoo,football,rutgers
+165,Sam Vretman,"Upplands Vasby, Sweden",Cheshire Academy (Conn.),football,rutgers
+166,Muhammad Wainwright,"New Brunswick, N.J.",The Hun School,football,rutgers
+167,Jerome Washington,"Elizabeth, N.J.",Stony Brook School (N.Y.),football,rutgers
+168,Isaiah Wharton,"Kissimmee, Fla.",Gateway,football,rutgers
+169,Kevin Wilkins,"Mahwah, N.J.",St. Joseph (Montvale),football,rutgers
+170,Paul Woods,"Buffalo, N.Y.",Canisius,football,rutgers
+171,Everett Wormley,"Burlington, N.J.",Burlington Twp.,football,rutgers
+172,Johnny Yorey,"Warren, N.J.",St. Peter's Prep,football,rutgers
+173,Avery Young,"Coatesville, Pa.",Coatesville,football,rutgers
+174,Charles Zarzecki,"Boonton, N.J.",Boonton,football,rutgers
+175,Rafael Pereira,"Lisbon, Portugal",Escola Secundaria Vergilio Ferreira,mens soccer,rutgers
+176,Thomas DeVizio,"Scotch Plains, N.J.",Scotch Plains-Fanwood,mens soccer,rutgers
+177,Tyejae Burchall,"Pembroke, Bermuda",South Kent School,mens soccer,rutgers
+178,Bryce Washington,"Atlanta, Ga.",North Atlanta,mens soccer,rutgers
+179,Federico Gutierrez,"Montevideo, Uruguay",Instituto Juan XXIII,mens soccer,rutgers
+180,Andrew Murray,"Scotch Plains, N.J.",Scotch Plains-Fanwood,mens soccer,rutgers
+181,Kyle  Galloway,"Manahawkin, N.J.",Pennington,mens soccer,rutgers
+182,Tim McQuaid,"Roswell, Ga.",Blessed Trinity Catholic,mens soccer,rutgers
+183,Jordan Hall,"Manchester, England",Mississippi Gulf Coast College,mens soccer,rutgers
+184,Brian Hawkins,"Chesterfield, N.J.",Notre Dame,mens soccer,rutgers
+185,Miles Hackett,"Montclair, N.J.",Montclair-Kimberley,mens soccer,rutgers
+186,Zeno Mazzucato,"Princeton, N.J.",Princeton,mens soccer,rutgers
+187,Brandon Golden,"Morganville, N.J.",YSC Academy,mens soccer,rutgers
+188,Vincenzo Pugliese,"West Windsor, N.J.",West Windsor - Plainsboro North,mens soccer,rutgers
+189,Aaron Acloque,"Ringoes, N.J.",Immaculata,mens soccer,rutgers
+190,Vincent Borden,"Ithaca, New York",N/A,mens soccer,rutgers
+191,Alex Kaczynski,"Medford, N.J.",Shawnee,mens soccer,rutgers
+192,Nick Cruz,"Monroe, N.J.",St. Joseph's,mens soccer,rutgers
+193,Seth Turner,"San Pedro, Calif.",San Pedro,mens soccer,rutgers
+194,Kyle Goodwin,"South Brunswick, N.J.",South Brunswick,mens soccer,rutgers
+195,Chris Hawkins,"Chesterfield, N.J.",Notre Dame,mens soccer,rutgers
+196,Miles Franklyn,"Teaneck, N.J.",Bergen Catholic,mens soccer,rutgers
+197,Thomas Dovell,"Moorestown, N.J.",Moorestown,mens soccer,rutgers
+198,Brendan Wall,N/A,N/A,mens soccer,rutgers
+199,Dominik Demcak,"Bridgewater, N.J.",Bridgewater-Raritan,mens soccer,rutgers
+200,Jake Longo,"Scotch Plains, N.J.",Scotch Plains-Fanwood,mens soccer,rutgers
+201,Brian Shushkovsky,"Morganville, N.J.",Freehold Township,mens soccer,rutgers
+202,Niko Lovoulos,"Holmdel, N.J.",Holmdel,mens soccer,rutgers
+203,Joe Bruno,"Edison, N.J.",St. Joseph's,mens soccer,rutgers
+204,Amirah Ali,"Voorhees, N.J.",Eastern Regional,womens soccer,rutgers
+205,Ashley Atubi,"North Plainfield, N.J.",North Plainfield,womens soccer,rutgers
+206,Taylor Aylmer,"Garnerville, N.Y.",North Rockland,womens soccer,rutgers
+207,Hayley  Baer,"Mahwah, N.J.",Mahwah,womens soccer,rutgers
+208,Nicole Binkley,"Burlington, N.J.",Burlington Township,womens soccer,rutgers
+209,Aolani Colón,"Winter Springs, FL",Winter Springs,womens soccer,rutgers
+210,Mya Daniels,"Long Branch, N.J.",Long Branch,womens soccer,rutgers
+211,Alicia D'Aoust,"Smithtown, N.Y.",Smithtown West,womens soccer,rutgers
+212,Caitlyn Ferreira,"Windham, N.H.",Central Catholic,womens soccer,rutgers
+213,Dana Goldstein,"Medford, N.J.",Shawnee,womens soccer,rutgers
+214,Emily Harrigan,"North Huntingdon, Pa.",Norwin,womens soccer,rutgers
+215,Carina Hendley,"Irvine, Calif.",Northwood,womens soccer,rutgers
+216,Shea Holland,"Toms River, N.J.",Toms River East,womens soccer,rutgers
+217,Emma Huntzinger,"East Windsor, N.J.",Hightstown,womens soccer,rutgers
+218,Jezlyn Jimenez,"Bridgewater, N.J.",N/A,womens soccer,rutgers
+219,Megan Katona,"San Antonio, Texas",Alamo Heights,womens soccer,rutgers
+220,Brittany LaPlant,"Queensbury, N.Y.",Queensbury,womens soccer,rutgers
+221,Meagan  McClelland,"Kearny, N.J.",Kearny,womens soccer,rutgers
+222,Adora Moneme,"Union, N.J.",Union,womens soccer,rutgers
+223,Nneka Moneme,"Union, N.J.",Union,womens soccer,rutgers
+224,Madison Pogarch,"Hartland, Mich.",Hartland,womens soccer,rutgers
+225,Gabby Provenzano,"Sergeantsville, N.J.",Hunterdon Central Regional,womens soccer,rutgers
+226,Jenna Sayers,"Mays Landing, N.J.",Oakcrest,womens soccer,rutgers
+227,Brianna Scarola,"Chester, N.J.",West Morris Mendham,womens soccer,rutgers
+228,Brianna Starr,"Severn, Md.",Archbishop Spalding,womens soccer,rutgers
+229,Chantelle Swaby,"West Hartford, Conn.",Hall,womens soccer,rutgers
+230,Madison Tyree,"Voorhees, N.J.",Eastern Regional,womens soccer,rutgers
+231,Amanda Visco,"Manalapan, N.J.",Colts Neck,womens soccer,rutgers
+232,Nicole Whitley,"Freehold, N.J.",Freehold Township,womens soccer,rutgers
+233,Tiernny Wiltshire,"Elmer, N.J.",Shattuck St. Mary's,womens soccer,rutgers
+234,Kenie Wright,"Mount Laurel, N.J.",Lenape,womens soccer,rutgers
+235,Genaro Anzalone,"Morganville, N.J.",Christian Brothers Academy,mens cross country,rutgers
+236,Younass Barkouch,"Jersey City, NJ",McNair Academy,mens cross country,rutgers
+237,Will  Berger,"Cape May, N.J.",Lower Cape May Regional,mens cross country,rutgers
+238,Andrew Comito,"Manalapan, N.J.",Manalapan,mens cross country,rutgers
+239,Billy Hill,"Somerset, N.J.",Franklin,mens cross country,rutgers
+240,Cade Hindley,"Woolwich Twp, N.J.",Kingsway,mens cross country,rutgers
+241,Cole  Hindley,"Woolwich Twp, N.J.",Kingsway,mens cross country,rutgers
+242,Nicholas Hutchison,"Blackwood, N.J.",Bishop Eustace Prep,mens cross country,rutgers
+243,Dom Munson,"Erial, N.J.",Timber Creek,mens cross country,rutgers
+244,Conor Murphy,"Millstone, N.J.",Allentown,mens cross country,rutgers
+245,Cole Pschunder,"Gibbsboro, N.J.",Eastern Senior,mens cross country,rutgers
+246,Jonathan  Torres,"Hamilton, NJ",Hamilton North,mens cross country,rutgers
+247,Patrick Walsh,"South Amboy, N.J.",South Amboy,mens cross country,rutgers
+248,Emma Bergman,"Ventnor, N.J.",Ocean City,womens cross country,rutgers
+249,Erin Bertscha,"Freehold, N.J.",Freehold Township,womens cross country,rutgers
+250,Kaitlyn Bragen,"Point Pleasant, N.J.",Point Pleasant Boro,womens cross country,rutgers
+251,Genevieve Cickavage,"Moorestown, N.J.",Moorestown,womens cross country,rutgers
+252,Kelsey Farbanish,"Pittstown, N.J.",North Hunterdon,womens cross country,rutgers
+253,Sara Gutter,"Allentown, N.J.",Allentown,womens cross country,rutgers
+254,Rachel Herrman,"Stewartsville, N.J.",Phillipsburg,womens cross country,rutgers
+255,Alexandra  Marko,"Toms River, N.J.",Donovan Catholic,womens cross country,rutgers
+256,Olympia Martin,"Ridgewood, N.J.",Ridgewood,womens cross country,rutgers
+257,Stephanie Mauer,"Hillsborough, N.J.",Hillsborough,womens cross country,rutgers
+258,Lou Mialhe,"Princeton, N.J.",Princeton,womens cross country,rutgers
+259,Kiera Nealon,"Manalapan, N.J.",Manalapan,womens cross country,rutgers
+260,Mackenzie Prezume,"Bloomfield, N.J.",Bloomfield,womens cross country,rutgers
+261,Brooke Riedy,"Flemington, N.J.",Hunterdon Central,womens cross country,rutgers
+262,Kayla Rosario,"Sayreville, N.J.",Sayreville,womens cross country,rutgers
+263,Nadia Saponara,"Ringoes, N.J.",Hunterdon Central,womens cross country,rutgers
+264,Jenna Sobieski,"Old Bridge, N.J.",Old Bridge,womens cross country,rutgers
+265,Chloe Wong,"Hillsborough, N.J.",Hillsborough,womens cross country,rutgers
+266,Shayler Dance,"Dallas, Texas",N/A,mens golf,rutgers
+267,Jack  Doherty,"Dublin, Ireland",N/A,mens golf,rutgers
+268,Christopher  Gotterup,"Little Silver, N.J.",Christian Brothers Academy,mens golf,rutgers
+269,Adam Gray,"Potomac, Md.",Churchill,mens golf,rutgers
+270,Tony Jiang,"Bradenton, Fla.",Sarasota Christian,mens golf,rutgers
+271,Matthew Mourin,"Weston, Fla.",American Heritage,mens golf,rutgers
+272,Putt Sridama,"Bangkok, Thailand",The American School of Bangkok,mens golf,rutgers
+273,Bobby Weise,"Freehold, N.J.",Freehold Township,mens golf,rutgers
+274,Oliver Whatley,"Rockville, Md.",Churchill,mens golf,rutgers
+275,Harriet  Allsebrook,"Shropshire, England",Wellington College,womens golf,rutgers
+276,Astrid Aneman,"Stockholm, Sweden",Ostra Reals Gymnasium,womens golf,rutgers
+277,Lori Char,"Waianae, Hawaii",Kamehameha Schools Kapalma,womens golf,rutgers
+278,Ana Cortes,"Bogota, Colombia",Marymount Bogota,womens golf,rutgers
+279,Ashleigh Greenham,"London, England",Forest School,womens golf,rutgers
+280,Carrie-Ann Lee,"Hong Kong, China",Kent School,womens golf,rutgers
+281,Maeve Rossi,"Milan, Italy",Institute Zacharias Milan,womens golf,rutgers
+282,Francesca Bertotto,"Mestre, Italy",Instituto Professionale Settore Servizi Indirizzo,womens swimming,rutgers
+283,Lily Black,"Cinnaminson, N.J.",Cinnaminson,womens swimming,rutgers
+284,Marin Bloise,"Malvern, Pa.",Agnes Irwin,womens swimming,rutgers
+285,Lauren Boone,"Elkhart, Ind.",Concord Community,womens swimming,rutgers
+286,Alexis Brewer,"Bridgewater, N.J.",Bridgewater-Raritan,womens swimming,rutgers
+287,Rachel Byrne,"Bedford, N.H.",Bedford,womens swimming,rutgers
+288,Delaney  Carey,"Orlando, Fla.",Olympia,womens swimming,rutgers
+289,Sarah Davis,"Scotch Plains, N.J.",Scotch Plains-Fanwood,womens swimming,rutgers
+290,Megan Demeo,"Bedford, Mass.",Bedford,womens swimming,rutgers
+291,Katie Dougherty,"Carmel, Ind.",Carmel,womens swimming,rutgers
+292,Jenna Douglass,"Cape Town, South Africa",Springfield Convent,womens swimming,rutgers
+293,Kasja Dymek,"Gardner, Mass.",Oakmont Regional,womens swimming,rutgers
+294,Alexandra Fabugais-Inaba,"Oakville, Ontario, Canada",St. Mildred's Lightbourn School,womens swimming,rutgers
+295,Federica Greco,"Rome, Italy",Liceo Scientifico,womens swimming,rutgers
+296,Terka Grusova,"Jablonec nad Nisou, Czech Republic",Gymnazium U Balvanu,womens swimming,rutgers
+297,Vera Koprivova,"Troubky, Czech Republic",N/A,womens swimming,rutgers
+298,Clare Lawlor,"Orland Park, Ill.",Carl Sandburg,womens swimming,rutgers
+299,Simone Lusby,"Auckland, New Zealand",Baradene College of the Sacred Heart,womens swimming,rutgers
+300,Meghan Moses,"Fremont, Ohio",Fremont Ross,womens swimming,rutgers
+301,Erin Murphy,"Galloway, N.J.",Absegami,womens swimming,rutgers
+302,Nadia Nabhan,"Virginia Beach, Va.",Potomac Falls,womens swimming,rutgers
+303,Abbey Saunders,"Oakville, Ontario, Canada",Oakville Trafalgar,womens swimming,rutgers
+304,Katherine Scott,"Lincroft, N.J.",Middletown South,womens swimming,rutgers
+305,Francesca Stoppa,"Trento, Italy",N/A,womens swimming,rutgers
+306,Maggie Tibbitt,"Colorado Springs, Colo.",Cheyenne Mountain,womens swimming,rutgers
+307,Eleonora Trentin,"Firenze, Italy",Liceo Scientifico Statale Antonio Gramsci,womens swimming,rutgers
+308,Marina Wilkins,"East Longmeadow, Mass.",East Longmeadow,womens swimming,rutgers
+309,Nora Woods,"Collingswood, N.J.",Collingswood,womens swimming,rutgers
+310,Lizzie Zeller,"Champlin, Minn.",Champlin Park,womens swimming,rutgers
+311,Jaci Cochrane,"Fort Dodge, Iowa",Fort Dodge Senior,womens tennis,rutgers
+312,Isabelle  Da Silva,"Delran, N.J.",Laurel Springs,womens tennis,rutgers
+313,Tess Fisher,"Vineland, N.J.",Vineland,womens tennis,rutgers
+314,Maya  Jacobs,"Linden, N.J.",Centercourt Sports Academy,womens tennis,rutgers
+315,Sydney Kaplan,"Montebello, N.Y.",Dwight School,womens tennis,rutgers
+316,Kat Muzik,"Mableton, Ga.",Johnson Ferry Christian Academy,womens tennis,rutgers
+317,Kyra Yap,"Brisbane, Australia",St. Peter's,womens tennis,rutgers
+318,Kristiana Zahare,"Riga, Latvia",N/A,womens tennis,rutgers
+319,Qayyim  Ali,"Williamsport, Pa.",Williamsport,mens track,rutgers
+320,Genaro Anzalone,"Morganville, N.J.",Christian Brothers Academy,mens track,rutgers
+321,Alanzo Aris,"Newark, N.J.",Cheshire Academy,mens track,rutgers
+322,Younass Barkouch,"Jersey City, NJ",McNair Academy,mens track,rutgers
+323,Eric Barnes,"Egg Harbor Township, N.J.",Egg Harbor Township,mens track,rutgers
+324,David Bausmith,"Flemington, N.J.",Hunterdon Central,mens track,rutgers
+325,Will  Berger,"Cape May, N.J.",Lower Cape May Regional,mens track,rutgers
+326,A'Nan Bridgett,"Princeton Junction, N.J.",West Windsor-Plainsboro South,mens track,rutgers
+327,Jarrod Brovero,"Franklinville, N.J.",Delsea Regional,mens track,rutgers
+328,Izaiah Brown,"Amsterdam, N.Y.",Amsterdam,mens track,rutgers
+329,Taj Burgess,"Carteret, N.J.",Carteret,mens track,rutgers
+330,Perry Christie,"East Orange, N.J.",Union Catholic Regional,mens track,rutgers
+331,Andrew Comito,"Manalapan, N.J.",Manalapan,mens track,rutgers
+332,Andrew Daniluk,"Toms River, N.J.",Toms River North,mens track,rutgers
+333,Malachi Davis,"Wilmington, Del.",Mount Pleasant,mens track,rutgers
+334,Dimitri Demos,"Branchburg, N.J.",Somerville,mens track,rutgers
+335,Ryan Downey,N/A,N/A,mens track,rutgers
+336,Nate Gravesande,"Dunellen, N.J.",Franklin,mens track,rutgers
+337,Greg Harnett,"East Amwell, N.J.",Hunterdon Central,mens track,rutgers
+338,Billy Hill,"Somerset, N.J.",Franklin,mens track,rutgers
+339,Cade Hindley,"Woolwich Twp, N.J.",Kingsway,mens track,rutgers
+340,Cole  Hindley,"Woolwich Twp, N.J.",Kingsway,mens track,rutgers
+341,Nicholas Hutchison,"Blackwood, N.J.",Bishop Eustace Prep,mens track,rutgers
+342,Christopher Jenkins,N/A,N/A,mens track,rutgers
+343,Kamron Kobolak,"Cinnaminson, N.J.",Cinnaminson,mens track,rutgers
+344,Atharv Kulkarni,"Plainsboro, N.J.",West Windsor-Plainsboro North,mens track,rutgers
+345,Jordan Lorenzo,"Newton, N.J.",Kittatinny,mens track,rutgers
+346,Boaz Madeus,"Hamilton, N.J.",Nottingham,mens track,rutgers
+347,Sean Martinek,"Millstone, N.J.",Christian Brothers Academy,mens track,rutgers
+348,Chris Mirabelli,"Lumberton, N.J.",Holy Cross,mens track,rutgers
+349,John Mooers,"Dennisville, N.J.",Middle Township,mens track,rutgers
+350,Dom Munson,"Erial, N.J.",Timber Creek,mens track,rutgers
+351,Conor Murphy,"Millstone, N.J.",Allentown,mens track,rutgers
+352,Jairus Paul,"Mahwah, N.J.",Mahwah,mens track,rutgers
+353,Sterling Pierce,"Voorhees, N.J.",Rancocas Valley,mens track,rutgers
+354,Edwyn Pierre,"Williamstown, N.J.",Williamstown,mens track,rutgers
+355,Cole Pschunder,"Gibbsboro, N.J.",Eastern Senior,mens track,rutgers
+356,Jason Schweizer,"Rockaway, N.J.",Morris Hills,mens track,rutgers
+357,Jared Skalski,"Englishtown, N.J.",Manalapan,mens track,rutgers
+358,Chris Smith,"Edison, N.J.",Edison,mens track,rutgers
+359,Steven Steinberg McElroy,N/A,N/A,mens track,rutgers
+360,Antonio Tarantino,"Haddonfield, N.J.",Paul VI,mens track,rutgers
+361,Tobi Tella,"Rochester, N.Y.",Mcquaid Jesuit,mens track,rutgers
+362,Michael Thomas,"Denville, N.J.",Morris Knolls,mens track,rutgers
+363,Jonathan  Torres,"Hamilton, NJ",Hamilton North,mens track,rutgers
+364,Patrick Walsh,"South Amboy, N.J.",South Amboy,mens track,rutgers
+365,Patrick Warren,"Skillman, N.J.",Montgomery,mens track,rutgers
+366,Luke Wiley,"Williamstown, N.J.",Williamstown,mens track,rutgers
+367,Semaj  Willis,"Trenton, N.J.",Trenton Central,mens track,rutgers
+368,Jameson Woodell,"Flemington, N.J.",Hunterdon Central,mens track,rutgers
+369,Edward Zaleck,"Old Bridge, N.J.",Old Bridge,mens track,rutgers
+370,Zia Barr,"Teaneck, N.J.",Teaneck,womens track,rutgers
+371,Emma Bergman,"Ventnor, N.J.",Ocean City,womens track,rutgers
+372,Erin Bertscha,"Freehold, N.J.",Freehold Township,womens track,rutgers
+373,Kaitlyn Bragen,"Point Pleasant, N.J.",Point Pleasant Boro,womens track,rutgers
+374,Courteney Campbell,"Kendall Park, N.J.",South Brunswick,womens track,rutgers
+375,Kathryn Campbell,"Lake Hiawatha, N.J.",Parsippany,womens track,rutgers
+376,Genevieve Cickavage,"Moorestown, N.J.",Moorestown,womens track,rutgers
+377,Oniesha Clarke,"Waterbury, Conn.",Chase Collegiate School,womens track,rutgers
+378,Anna Czajkowski,"Manalapan, N.J.",Manalapan,womens track,rutgers
+379,Lynnea Davis,"Toms River, N.J.",Toms River North,womens track,rutgers
+380,Kelsey Farbanish,"Pittstown, N.J.",North Hunterdon,womens track,rutgers
+381,Alexa Gardner,"Atco, N.J.",Hammonton,womens track,rutgers
+382,Dakota Gerges,"Sayreville, N.J.",Sayreville,womens track,rutgers
+383,Phyllis Gordon,"Neptune, N.J.",Neptune,womens track,rutgers
+384,Sara Gutter,"Allentown, N.J.",Allentown,womens track,rutgers
+385,Aliya Harrison,"Somerdale, N.J.",Sterling,womens track,rutgers
+386,Rachel Herrman,"Stewartsville, N.J.",Phillipsburg,womens track,rutgers
+387,Kayla Jackson,"Columbus, N.J.",Northern Burlington,womens track,rutgers
+388,Ain Jones,"Livingston, N.J.",Livingston,womens track,rutgers
+389,Iyanla Kollock,"Newfield, N.J.",Our Lady of Mercy,womens track,rutgers
+390,Alexandra Marko,"Toms River, N.J.",Donovan Catholic,womens track,rutgers
+391,Olympia Martin,"Ridgewood, N.J.",Ridgewood,womens track,rutgers
+392,Stephanie Mauer,"Hillsborough, N.J.",Hillsborough,womens track,rutgers
+393,Lou Mialhe,"Princeton, N.J.",Princeton,womens track,rutgers
+394,Kiera Nealon,"Manalapan, N.J.",Manalapan,womens track,rutgers
+395,Nyamekye Opoku-Agyemang,"Union, N.J.",Union,womens track,rutgers
+396,Mackenzie Prezume,"Bloomfield, N.J.",Bloomfield,womens track,rutgers
+397,Reanda Richards,"Roseland, N.J.",West Essex,womens track,rutgers
+398,Brooke Riedy,"Flemington, N.J.",Hunterdon Central,womens track,rutgers
+399,Rhonda Rogombe,"Charlestown, W.V.",Washington,womens track,rutgers
+400,Kayla Rosario,"Sayreville, N.J.",Sayreville,womens track,rutgers
+401,Halia Rosemond,"West Orange, N.J.",Morristown-Beard School,womens track,rutgers
+402,Icisys Sadler,"Summit, N.J.",Summit,womens track,rutgers
+403,Gabriela Sanchez,"Highland Park, N.J.",Highland Park,womens track,rutgers
+404,Nadia Saponara,"Ringoes, N.J.",Hunterdon Central,womens track,rutgers
+405,Jacqueline Simmons,"Beltsville, Md.",Elizabeth Seton,womens track,rutgers
+406,Jenna Sobieski,"Old Bridge, N.J.",Old Bridge,womens track,rutgers
+407,Arianne Strunkey,"Mount Vernon, N.Y.",Monroe College,womens track,rutgers
+408,Ariel Strunkey,"Mount Vernon, N.Y.",Monroe College,womens track,rutgers
+409,Zyra Thomas,"Vineland, N.J.",Arthur P. Schalick,womens track,rutgers
+410,Selena Thorne,"Somerset, N.J.",Franklin,womens track,rutgers
+411,Jasmine Van Note,"Sayreville, N.J.",Sayreville,womens track,rutgers
+412,Chloe Wong,"Hillsborough, N.J.",Hillsborough,womens track,rutgers
+413,Nicolas Aguilar,"Gilroy, Calif.",Gilroy,wrestling,rutgers
+414,Anthony Ashnault,"South Plainfield, N.J.",South Plainfield,wrestling,rutgers
+415,Jake Benner,"Ocean Township, N.J.",Ocean,wrestling,rutgers
+416,John Ciaramella,"Waxhaw, N.C.",Marvin Ridge,wrestling,rutgers
+417,Robert  Cleary,"Edison, N.J.",Bound Brook,wrestling,rutgers
+418,Christian Colucci,"Summit, N.J.",St. Peter's Prep,wrestling,rutgers
+419,Matthew Correnti,"Delran, N.J.",Holy Cross Academy,wrestling,rutgers
+420,Nick  Denora,"West Paterson, N.J.",Passaic Valley Regional,wrestling,rutgers
+421,Kyle  DiNapoli,"Voorhees, N.J.",Voorhees,wrestling,rutgers
+422,Brett Donner,"Wall, N.J.",Wall,wrestling,rutgers
+423,Luke Ecklof,"Howell Township, N.J.",St. John Vianney,wrestling,rutgers
+424,Alex Esposito,"Cranford, N.J.",Cranford,wrestling,rutgers
+425,Zach  Firestone,"Swedesboro, N.J.",Clearview Regional,wrestling,rutgers
+426,Stephan Glasgow,"Bound Brook, N.J.",Bound Brook,wrestling,rutgers
+427,Nicholas Gravina,"Allendale, N.J.",Northern Highlands Regional,wrestling,rutgers
+428,Joseph Grello,"Newton, N.J.",Bergen Catholic,wrestling,rutgers
+429,Billy Janzer,"Elk Township, N.J.",Delsea,wrestling,rutgers
+430,Gerald Jones,"Caldwell, N.J.",Caldwell,wrestling,rutgers
+431,Kyle Lightner,"Frenchtown, N.J.",Delaware Valley,wrestling,rutgers
+432,Peter  Lipari,"Byram Township, NJ",Bergen Catholic,wrestling,rutgers
+433,Shane Metzler,"Long Valley, N.J.",West Morris,wrestling,rutgers
+434,Ralph Normandia,"Somerset, N.J.",Franklin,wrestling,rutgers
+435,Anthony Olivieri,"East Hanover, N.J.",Hanover Park,wrestling,rutgers
+436,Jordan Pagano,"South Brunswick, N.J.",Bergen Catholic,wrestling,rutgers
+437,Malcolm Robinson,"Edison, N.J.",Blair Academy,wrestling,rutgers
+438,Nick  Santos,"Clark, N.J.",St. Peter's Prep,wrestling,rutgers
+439,Willie Scott,"Brick, N.J.",Brick Township,wrestling,rutgers
+440,Nick  Suriano,"Paramus, N.J.",Bergen Catholic,wrestling,rutgers
+441,John Van Brill,"Mullica Hill, N.J.",Clearview,wrestling,rutgers
+442,Michael Van Brill,"Mullica Hill, N.J.",Clearview,wrestling,rutgers
+443,Max Wright,"Delaware, Ohio",Delaware Hayes,wrestling,rutgers
+444,Gianna  Glatz,"Medford, N.J.",Shawnee HS,womens field hockey,rutgers
+445,Noelle Bessette,"Chatham, N.J.",Chatham HS,womens field hockey,rutgers
+446,Clayre Smith,"Honesdale, Pa.",Honesdale,womens field hockey,rutgers
+447,Tayla Parkes,"Auckland, New Zealand",Diocesan School for Girls,womens field hockey,rutgers
+448,Devon Colquhoun,"Morristown, N.J.",Morristown HS,womens field hockey,rutgers
+449,Daphne  Groothuis,"Nieuwerkerk ad IJssel, Netherlands",Thorbecke VO,womens field hockey,rutgers
+450,Nikki Profita,"Washington, N.J.",Warren Hills Regional,womens field hockey,rutgers
+451,Gianna  Mancini,"Medford, N.J.",Shawnee HS,womens field hockey,rutgers
+452,Kassidy  Shetler,"Ramsey, N.J.",Ramsey HS,womens field hockey,rutgers
+453,Linde van Schaik,"Amsterdam, Netherlands",Cygnus Gymnasium,womens field hockey,rutgers
+454,Kerrie  Burns,"Portadown, Ireland",Portadown College,womens field hockey,rutgers
+455,Emily Howarth,"Bridgewater, N.J.",Bridgewater-Raritan HS,womens field hockey,rutgers
+456,Gracey Butsack,"Mohrsville, Pa.",Schuykill Valley HS,womens field hockey,rutgers
+457,Nikki Santore,"Voorhees, N.J.",Eastern Regional,womens field hockey,rutgers
+458,Abby  Regn,"Shamong, N.J.",Seneca,womens field hockey,rutgers
+459,Amanda Lamb,"Phoenixville, Pa.",Owen J. Roberts HS,womens field hockey,rutgers
+460,Alanna Gollotto,"Voorhees, N.J.",Eastern Regional,womens field hockey,rutgers
+461,Katie Larmour,"Belfast,  Ireland",Methodist College Belfast,womens field hockey,rutgers
+462,Milena Redlingshoefer,"Munich, Germany",Max-Planck-Gymnasium,womens field hockey,rutgers
+463,Austyn Cuneo,"Waterford Works, N.J.",Eastern Regional,womens field hockey,rutgers
+464,Olivia Drea,"Medford, N.J.",Shawnee HS,womens field hockey,rutgers
+465,Alexis Achenbach,"Basking Ridge, N.J.",Ridge,womens rowing,rutgers
+466,Talya Ackerman,"Marlboro, N.J",Marlboro,womens rowing,rutgers
+467,Allyson-Joan Archer,"Pomona, N.Y.",Paramus Catholic,womens rowing,rutgers
+468,Rebecca Barglowski,"Hillsborough, N.J.",Hillsborough,womens rowing,rutgers
+469,Olivia Betz,"Long Valley, N.J.",West Morris Central,womens rowing,rutgers
+470,Carolyn Biernacki,"West Deptford, N.J.",Bishop Eustace Prep,womens rowing,rutgers
+471,Emily Blumstein,"Millburn, N.J.",Millburn,womens rowing,rutgers
+472,Alexandra Bossi,"Egg Harbor Township, N.J.",Egg Harbor Township,womens rowing,rutgers
+473,Kathleen Butler,"Flemington, N.J.",Delaware Valley,womens rowing,rutgers
+474,Sydney Canfield,"Tampa, Fla.",Newsome,womens rowing,rutgers
+475,Sophia Catuogno,"Freehold, N.J.",Freehold,womens rowing,rutgers
+476,Tessa Catuogno,"Freehold, N.J.",Freehold,womens rowing,rutgers
+477,Rebecca Chanin,"Titusville, N.J.",The Hun School,womens rowing,rutgers
+478,Gabriella Conmy,"Madison, N.J.",Madison,womens rowing,rutgers
+479,Bryanna Eichler,"Hanover Township, Pa.",Hanover Jr.,womens rowing,rutgers
+480,Mackenzie Evans,"Woodcliff Lake, N.J.",Pascack Hills,womens rowing,rutgers
+481,Angelina Fomina,"Stavropol, Russia",West Windsor-Plainsboro South,womens rowing,rutgers
+482,Mackenzie George,"Sutton, Mass.",Sutton Memorial,womens rowing,rutgers
+483,Rosalina Guarino,"Middlesex, N.J.",Middlesex,womens rowing,rutgers
+484,Laura Hegemann,"Falls Church, Va.",J.E.B. Stuart,womens rowing,rutgers
+485,Julia Hendricks,"Egg Harbor Township, N.J.",Egg Harbor Township,womens rowing,rutgers
+486,Rucha Janodia,"Robbinsville, N.J.",Robbinsville,womens rowing,rutgers
+487,Kirsten Jeansson,"Tabernacle, N.J.",Seneca,womens rowing,rutgers
+488,Sarah Johanek,"Cleveland, Ohio",Saint Joseph Academy,womens rowing,rutgers
+489,Omisha Jyothi,"Fairfax Station, Va.",Thomas Jefferson,womens rowing,rutgers
+490,Elizabeth Kogan,"Franklin Lakes, N.J.",Ramapo,womens rowing,rutgers
+491,Lily Lumkong,"Hightstown, N.J.",Hightstown,womens rowing,rutgers
+492,Jessie Macqueen,"Millmerran, Queensland, Australia",Stuartholme School,womens rowing,rutgers
+493,Lydia Marentette,"Toledo, Ohio",Notre Dame Academy,womens rowing,rutgers
+494,Isabella Martins,"Kearny, N.J.",Kearny,womens rowing,rutgers
+495,Olivia Maxton,"Tinton Falls, N.J.",Monmouth Regional,womens rowing,rutgers
+496,Kara McDermott,"Fair Haven, N.J.",Rumon-Fair Haven Regional,womens rowing,rutgers
+497,Merve Pekdemir,"Westfield, N.J.",UCTech,womens rowing,rutgers
+498,Elisabeth Peters,"Hopewell, N.J.",Hopewell Valley Central,womens rowing,rutgers
+499,Allison Proszowski,"Clifton, N.J.",Clifton,womens rowing,rutgers
+500,Madison Sieloff,"Trenton, Mich.",Trenton,womens rowing,rutgers
+501,Natalie Summerfelt,"Antioch, Ill.",Antioch Community,womens rowing,rutgers
+502,Ella Toa,"New Plymouth, Taeanaki, New Zealand",Sacred Heart Gils College New Plymouth,womens rowing,rutgers
+503,Rachel Usen,"Bolton, MA",Sharon,womens rowing,rutgers
+504,Lalitha Vallabhaneni,"Paramus, N.J.",Paramus,womens rowing,rutgers
+505,Kori Warren,"Mullica Hills, N.J.",Clearview Regional,womens rowing,rutgers
+506,Stephanie Welsh,"Baltimore, Md.",Institute of Notre Dame,womens rowing,rutgers
+507,Julia Wilson,"New Providence, N.J.",New Providence,womens rowing,rutgers
+508,Nicolette Anico,"Bristol, Fla.",Sneads,softball,rutgers
+509,Nicole Bowman,"Downers Grove, Ill.",Downers Grove South,softball,rutgers
+510,Adriana Burcar,"La Palma, Calif.",John F. Kennedy,softball,rutgers
+511,Madyson Cole,"Portage, Mich.",Portage Central,softball,rutgers
+512,Erin Collins,"Sparks, Md.",Hereford,softball,rutgers
+513,Taryn Collins,"Hollis, N.H.",St. Paul's,softball,rutgers
+514,Montana Feathers,"Altoona, Pa.",Altoona Area,softball,rutgers
+515,Hailey Hoklotubbe,"Laguna Niguel, Calif.",Dana Hills,softball,rutgers
+516,Jess Hughes,"Sewell, N.J.",Washington Township,softball,rutgers
+517,Anyssa Iliopoulos,"Norridge, Ill.",Trinity,softball,rutgers
+518,Whitney Jones,"Santa Monica, Calif.",Santa Monica,softball,rutgers
+519,Cambria Keefer,"Glendora, Calif.",Glendora,softball,rutgers
+520,Christine Malito,"Frankfort, Ill.",Lincoln-Way East,softball,rutgers
+521,Taylor  Manno,"Chanhassen, Minn.",Chanhassen,softball,rutgers
+522,Aleah Marra,"Chesterfield, Mich.",Anchor Bay,softball,rutgers
+523,Myah Moy,"Bradenton, Fla.",Braden River,softball,rutgers
+524,Corah Price,"Morón, Spain",Discovery Canyon Campus,softball,rutgers
+525,Penelope Russ,"Huntington Beach, Calif.",Ocean View,softball,rutgers
+526,Katie Wingert,"Carlisle, Pa.",Cumberland Valley,softball,rutgers
+527,Allie Yoffee,"Ringwood, N.J.",Lakeland Regional,softball,rutgers
+528,Beka Kojadinovic,"Belgrade, Serbia",Sesta Beogradska Gimnazija,womens volleyball,rutgers
+529,Sahbria McLetchie,"San Antonio, Texas",James Madison,womens volleyball,rutgers
+530,Tali Marmen,"Ariel, Israel",Hof Hasharon,womens volleyball,rutgers
+531,Stasa Miljevic,"Belgrade, Serbia",XIII Belgrade Gymnasium,womens volleyball,rutgers
+532,Anastasiia Maksimova,"Ulyanovsk, Russia",School #12,womens volleyball,rutgers
+533,Yana Kamshilina,"Omsk, Russia",Gymnasium 85,womens volleyball,rutgers
+534,Anastasiya Kudryashova,"Novosibirsk, Russia",Gimnazium No. 1798,womens volleyball,rutgers
+535,Inna Balyko,"Gubkinsky, Russia",Gymnasium Phoenix 1798,womens volleyball,rutgers
+536,Merle Weidt,"Offenburg, Germany",Schul- und Leistungssportzentrum Berlin,womens volleyball,rutgers
+537,Kamila Cieslik,"Knoxville, Tenn.",Knoxville Catholic,womens volleyball,rutgers
+538,Karysa Swackenberg,"Brighton, Colo.",Brighton,womens volleyball,rutgers
+539,Jasmine Stackhouse,"Detroit, Mich.",Oakpark,womens volleyball,rutgers
+540,Riahanah Ali,"Ann Arbor, Mich.",Huron,womens gymnastics,rutgers
+541,Michelle Amoresano,"Whippany, N.J.",Whippany Park,womens gymnastics,rutgers
+542,Sophia Atienza,"Copley, Ohio",Walsh Jesuit,womens gymnastics,rutgers
+543,Mia Betancourt,"Reading, Pa.",Berks Catholic,womens gymnastics,rutgers
+544,Chloe DeVries,"Venice, Fla.",Venice,womens gymnastics,rutgers
+545,Kiera Doherty-Herwitz,"Bedford, Mass.",Bedford,womens gymnastics,rutgers
+546,Emily Drauss,"Longwood, Fla.",Lake Brantley,womens gymnastics,rutgers
+547,Shannon Farrell,"Atlantic Highlands, N.J.",Henry Hudson Regional,womens gymnastics,rutgers
+548,Kaitlyn Hall,"Raytown, Mo.",Raytown,womens gymnastics,rutgers
+549,Belle Huang,"Gaithersburg, Md.",Tuscarora,womens gymnastics,rutgers
+550,Emma Karas,"Port Matilda, Pa.",State College Area,womens gymnastics,rutgers
+551,Abigail Karolewski,"Hillsborough, N.J.",Hillsborough,womens gymnastics,rutgers
+552,Rachel Ley,"Trophy Club, Texas",Byron Nelson,womens gymnastics,rutgers
+553,Sage Littlejohn,"Orlando, Fla.",West Orange,womens gymnastics,rutgers
+554,Erin McLachlan,"Huddersfield, England",Huddersfield New College,womens gymnastics,rutgers
+555,Polina Poliakova,"Norwich, Great Britain",Notre Dame,womens gymnastics,rutgers
+556,Hannah Prieto,"Westfield, N.J.",Westfield,womens gymnastics,rutgers
+557,Jenna Rizkalla,"Westfield, N.J.",Westfield,womens gymnastics,rutgers
+558,Eriel Santagado,"Celebration, Fla.",Florida Virtual,womens gymnastics,rutgers
+559,Toni Williams,"Olney, Md.",Sherwood,womens gymnastics,rutgers
+560,David Sprock,"Dallas, Texas",Jesuit College Prep,mens lacrosse,rutgers
+561,Demetrius Stevenson,"Dover, Del.",Caesar Rodney HS,mens lacrosse,rutgers
+562,Cole Daninger,"Lake Tapps, Wash.",O'Dea,mens lacrosse,rutgers
+563,Zach Masessa,N/A,N/A,mens lacrosse,rutgers
+564,Kieran Mullins,"Islip, N.Y.",Islip HS,mens lacrosse,rutgers
+565,Kyle Pless,"Highlands Ranch, Colo.",Mountain Vista HS,mens lacrosse,rutgers
+566,Tommy Coyne,"Naperville, Illinois",Naperville Central HS,mens lacrosse,rutgers
+567,Connor Harryman,"Southlake, Texas",Southlake Carroll Senior High School,mens lacrosse,rutgers
+568,Adam Charalambides,"Georgetown, Ontario",The Hill Academy,mens lacrosse,rutgers
+569,Michael Ott,"Jamison, Pa.",Central Bucks East,mens lacrosse,rutgers
+570,Max Edelmann,"Middletown, Md.,",Middletown HS,mens lacrosse,rutgers
+571,David Walker,"Scotch Plains, N.J.",Scotch Plains-Fanwood HS,mens lacrosse,rutgers
+572,Brad Thompson,"Charlotte, N.C.",Charlotte Catholic,mens lacrosse,rutgers
+573,Jack Stahanczyk,"Milford, Ohio",Archbishop Moeller,mens lacrosse,rutgers
+574,Michael  Sanguinetti,"Robbinsville, N.J.",Robbinsville / Trinity Pawling,mens lacrosse,rutgers
+575,Mark Schachte,"Cary, N.C.",Cardinal Gibbons,mens lacrosse,rutgers
+576,Palmer Lloyd,"Vienna, Virginia",James Madison HS,mens lacrosse,rutgers
+577,Mark Christiano,"Cranford, N.J.,",Cranford HS,mens lacrosse,rutgers
+578,Garrett Bullett,"Draper, Utah",Corner Canyon HS,mens lacrosse,rutgers
+579,Casey Rose,"Salt Lake City, Utah",Corner Canyon,mens lacrosse,rutgers
+580,Joe Peterson,"Alamo, Calif.",Monte Vista HS,mens lacrosse,rutgers
+581,Eric Civetti,"Franklin, Mass.",Franklin HS,mens lacrosse,rutgers
+582,Ben Dodson,"Coppell, Texas",Coppell HS,mens lacrosse,rutgers
+583,Eddie Perlstein,"Hewlett, N.Y.",Lynbrook High School,mens lacrosse,rutgers
+584,Zackary Franckowiak,"Draper, Utah",Corner Canyon HS,mens lacrosse,rutgers
+585,Robert Marron,"Annandale, N.J.",North Hunterdon,mens lacrosse,rutgers
+586,Ryan Cunningham,"Long Hill, N.J.,",Watchung Hills,mens lacrosse,rutgers
+587,Ethan Rall,"Islip, N.Y.",Islip HS,mens lacrosse,rutgers
+588,Ben Pounds,"Ridgewood, N.J.",Ridgewood,mens lacrosse,rutgers
+589,Jordan Pakzad,"Newport Beach, Calif.",Corona Del Mar,mens lacrosse,rutgers
+590,John  Burke,"Clayton, Calif.",De La Salle,mens lacrosse,rutgers
+591,Ryan Gallagher,"Atlanta, Ga.",Marist School,mens lacrosse,rutgers
+592,Jack Ayre,"Long Hill, N.J.",Watchung Hills,mens lacrosse,rutgers
+593,Brendan Moreau,"Far Hills, N.J.",St. Joseph's (Metuchen,mens lacrosse,rutgers
+594,Jonathan Taub,"Warren, N.J",Watchung Hills,mens lacrosse,rutgers
+595,Owen Mead,"Sparta, N.J.",Sparta HS,mens lacrosse,rutgers
+596,Garrett Michaeli,"Draper, Utah",Corner Canyon HS,mens lacrosse,rutgers
+597,Adam Graham,"Mullica Hill, N.J.",Clearview Regional,mens lacrosse,rutgers
+598,Billy Kelly,"East Northport, N.Y.",Northport HS,mens lacrosse,rutgers
+599,Brennan Kamish,"Wixom, Mich.",Detroit Catholic,mens lacrosse,rutgers
+600,Alex Schoen,"Short Hills, N.J.",Millburn,mens lacrosse,rutgers
+601,Brian Eletti,"Levittown, N.Y.",Island Trees HS,mens lacrosse,rutgers
+602,Jake Nordhausen,"Ellicott City, Md.",Loyola Blakefield,mens lacrosse,rutgers
+603,Sam Oltmans,"Montgomery, N.J.",Montgomery HS,mens lacrosse,rutgers
+604,Matt Dancsecs,"Roxbury, N.J.",Roxbury,mens lacrosse,rutgers
+605,Brodie Gillespie,"Port Coquitlam, B.C.",Terry Fox Secondary,mens lacrosse,rutgers
+606,Jack Thompson,"Madison, N.J.",Madison HS,mens lacrosse,rutgers
+607,Jaryd Jean-Felix,"Cumming, Ga.",Lambert High School,mens lacrosse,rutgers
+608,Bobby Russo,"Bridgewater, N.J.",Bridgewater-Raritan,mens lacrosse,rutgers
+609,Cole Touhey,"Gladstone, N.J.",Rutgers Prep,mens lacrosse,rutgers
+610,Alexis Watson,"Moorestown, N.J.",Moorestown Friends,womens lacrosse,rutgers
+611,Christina Petito,"West Deptford, N.J.",West Deptford,womens lacrosse,rutgers
+612,Tess Howland,"Glen Ridge, N.J.",Glen Ridge,womens lacrosse,rutgers
+613,Dana Gisonno,"Airmont, N.Y.",Suffern,womens lacrosse,rutgers
+614,Hannah Hollingsworth,"Martinsville, N.J.",Bridgewater-Raritan,womens lacrosse,rutgers
+615,Julia Lytle,"Martinsville, N.J.",Bridgewater-Raritan,womens lacrosse,rutgers
+616,Samantha Budd,"West Deptford, N.J.",West Deptford,womens lacrosse,rutgers
+617,Abbey Brooks,"Moorestown, N.J.",Moorestown,womens lacrosse,rutgers
+618,Camryn Rogers,"Branchburg, N.J.",Somerville,womens lacrosse,rutgers
+619,Taralyn  Naslonski,"Randolph, N.J.",Randolph,womens lacrosse,rutgers
+620,Jordan Drab,"Suffern, N.Y.",Suffern,womens lacrosse,rutgers
+621,Sarah Cedarstrand,"Ho-Ho-Kus, N.J.",Northern Highlands Regional,womens lacrosse,rutgers
+622,Regina Sharp,"Suffern, N.Y.",Suffern,womens lacrosse,rutgers
+623,Maggie Garvey,"La Jolla, Calif.",La Jolla,womens lacrosse,rutgers
+624,Christine DiLullo,"Marlton, N.J.",Cherokee,womens lacrosse,rutgers
+625,Marin Hartshorn,"Allentown, N.J.",Allentown,womens lacrosse,rutgers
+626,Caroline Perry,"West Deptford, N.J.",West Deptford,womens lacrosse,rutgers
+627,Amanda Romano,"Montclair, N.J.",Montclair,womens lacrosse,rutgers
+628,Shannon Siebold,"Trumbull, Conn.",Trumbull,womens lacrosse,rutgers
+629,Riley Ban,"Ridgewood, N.J.",Ridgewood,womens lacrosse,rutgers
+630,Monica Dresnin,"Lafayette Hill, Pa.",Plymouth Whitemarsh,womens lacrosse,rutgers
+631,Samantha Scarpello,"Shamong, N.J.",Seneca,womens lacrosse,rutgers
+632,Linda Zamrowski,"Glen Mills, Pa.",Garnet Valley,womens lacrosse,rutgers
+633,Dakota Pastore,"Branchburg, N.J.",Somerville,womens lacrosse,rutgers
+634,Jenna Martinelli,"Moorestown, N.J.",Moorestown,womens lacrosse,rutgers
+635,Brianna Cirino,"Royersford, Pa.",Spring-Ford,womens lacrosse,rutgers
+636,Mackenzie Porter,"Buchanan, N.Y.",Hendrick Hudson,womens lacrosse,rutgers
+637,Devon Kearns,"Marlton, N.J.",Cherokee,womens lacrosse,rutgers
+638,Allie  Ferrara,"Morristown, NJ",Morristown,womens lacrosse,rutgers
+639,Dana Pena,"Verona, N.J.",Verona,womens lacrosse,rutgers
+640,Jacquelyn  Jester,"Montgomeryville, Pa.",Lansdale Catholic,womens lacrosse,rutgers
+641,Kameron  Halsall,"Caledon, Ontario, Canada",The Hill Academy,womens lacrosse,rutgers

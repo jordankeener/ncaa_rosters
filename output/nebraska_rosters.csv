@@ -1,15 +1,19 @@
 ,name,hometown,high_school,gender,sport,college
 0,James Palmer Jr.,"Upper Marlboro, Md",St. John?s College High School,N/A,mens basketball,nebraska
-1,Johnny Trueblood,"Omaha, Neb.",Elkhorn South,N/A,mens basketball,nebraska
-2,Glynn Watson Jr.,"Bellwood, Ill.",St. Joseph,N/A,mens basketball,nebraska
-3,Thomas Allen,"Raleigh, N.C.",Brewster Academy/Garner HS,N/A,mens basketball,nebraska
-4,Isaac Copeland Jr.,"Raleigh, N.C.",Brewster Academy/Ravenscroft,N/A,mens basketball,nebraska
-5,Isaiah Roby,"Dixon, Ill.",Dixon,N/A,mens basketball,nebraska
-6,Tanner Borchardt,"Gothenburg, Neb.",Gothenburg,N/A,mens basketball,nebraska
-7,Nana Akenten,"Bolingbrook, Ill.",Bolingbrook,N/A,mens basketball,nebraska
-8,Jordy Tshimanga,"Montreal, Quebec",The MacDuffie School,N/A,mens basketball,nebraska
-9,Justin Costello,"Omaha, Neb.",Elkhorn South,N/A,mens basketball,nebraska
-10,Thorir Thorbjarnarson,"Reykjavik, Iceland",Menntaskólinn i Reykjavik,N/A,mens basketball,nebraska
+1,Amir Harris,"Frederick, Md.",St. James School,N/A,mens basketball,nebraska
+2,Dedoch Chan,"Rochester, Minn.",John Marshall,N/A,mens basketball,nebraska
+3,Johnny Trueblood,"Omaha, Neb.",Elkhorn South,N/A,mens basketball,nebraska
+4,Glynn Watson Jr.,"Bellwood, Ill.",St. Joseph,N/A,mens basketball,nebraska
+5,Karrington Davis,"St. Louis, Mo.",Montverde Academy,N/A,mens basketball,nebraska
+6,Dachon Burke Jr.,"Orange, N.J.",Coastal Academy,N/A,mens basketball,nebraska
+7,Thomas Allen,"Raleigh, N.C.",Brewster Academy/Garner HS,N/A,mens basketball,nebraska
+8,Isaac Copeland Jr.,"Raleigh, N.C.",Brewster Academy/Ravenscroft,N/A,mens basketball,nebraska
+9,Isaiah Roby,"Dixon, Ill.",Dixon,N/A,mens basketball,nebraska
+10,Tanner Borchardt,"Gothenburg, Neb.",Gothenburg,N/A,mens basketball,nebraska
+11,Nana Akenten,"Bolingbrook, Ill.",Bolingbrook,N/A,mens basketball,nebraska
+12,Justin Costello,"Omaha, Neb.",Elkhorn South,N/A,mens basketball,nebraska
+13,Thorir Thorbjarnarson,"Reykjavik, Iceland",Menntaskólinn i Reykjavik,N/A,mens basketball,nebraska
+14,Brady Heiman,"Springfield, Neb.",Platteview,N/A,mens basketball,nebraska
 0,Leigha Brown,"Auburn, Ind.",DeKalb,N/A,womens basketball,nebraska
 1,Kate Cain,"Middletown, N.Y.",Pine Bush,N/A,womens basketball,nebraska
 2,Nicea Eliely,"Colorado Springs, Colo.",Rampart,N/A,womens basketball,nebraska
@@ -25,39 +29,44 @@
 1,Joe Acker,"Waukesha, Wis.",Marquette,N/A,baseball,nebraska
 2,Mike Addante,"Algonquin, Ill.",Harry D. Jacobs,N/A,baseball,nebraska
 3,Angelo Altavilla,"Lakeville, Minn.",Lakeville North,N/A,baseball,nebraska
-4,Luis Alvarado,"Salinas, Puerto Rico",Puerto Rico Baseball Academy,N/A,baseball,nebraska
-5,Jeff Athey,"Eden Prairie, Minn.",Eden Prairie,N/A,baseball,nebraska
-6,Brison Cronenbold,"Thousand Oaks, Calif.",Thousand Oaks,N/A,baseball,nebraska
+4,Jeff Athey,"Eden Prairie, Minn.",Eden Prairie,N/A,baseball,nebraska
+5,Bo Blessie,"Midland, Texas",Lee,N/A,baseball,nebraska
+6,Cam Chick,"Rocheport, Mo.",Hickman,N/A,baseball,nebraska
 7,Carter Cross,"Fairview, Pa.",Cathedral Prep,N/A,baseball,nebraska
 8,Connor Curry,"Lincoln, Neb.",Southeast,N/A,baseball,nebraska
 9,Reece Eddins,"Lee's Summit, Mo.",Blue Springs South,N/A,baseball,nebraska
-10,Zack Engelken,"Overland Park, Kan.",Blue Valley West,N/A,baseball,nebraska
+10,Caleb Feekin,"Papillion, Neb.",Papillion La Vista,N/A,baseball,nebraska
 11,Nate Fisher,"Yutan, Neb.",Yutan,N/A,baseball,nebraska
 12,Ethan Frazier,"Lee's Summit, Mo.",Blue Springs South,N/A,baseball,nebraska
-13,Mojo Hagge,"Omaha, Neb.",Skutt Catholic,N/A,baseball,nebraska
-14,Nolan Hakel,"Lincoln, Neb.",Pius X,N/A,baseball,nebraska
-15,Jaxon Hallmark,"Midland, Texas",Midland,N/A,baseball,nebraska
-16,Gunner Hellstrom,"Simi Valley, Calif.",Grace Brethren,N/A,baseball,nebraska
-17,Alex Henwood,"Appleton, Wis.",Appleton North,N/A,baseball,nebraska
-18,Jake Hohensee,"Lincoln, Neb.",East,N/A,baseball,nebraska
-19,Byron Hood,"Roca, Neb.",Norris,N/A,baseball,nebraska
-20,Ben Klenke,"Seward, Neb.",Seward,N/A,baseball,nebraska
-21,Zac Luckey,"Omaha, Neb.",Creighton Prep,N/A,baseball,nebraska
-22,Chad Luensmann,"Altoona, Pa.",Bellwood-Antis,N/A,baseball,nebraska
-23,Jake McSteen,"Great Falls, Va.",Langley,N/A,baseball,nebraska
-24,Robbie Palkert,"Golden Valley, Minn.",Hopkins,N/A,baseball,nebraska
-25,Zac Repinski,"Prior Lake, Minn.",Prior Lake,N/A,baseball,nebraska
-26,Luke Roskam,"Chaska, Minn.",Chaska,N/A,baseball,nebraska
-27,Max Schreiber,"Cardington, Ohio",Highland,N/A,baseball,nebraska
-28,Scott Schreiber,"Menasha, Wis.",Kimberly,N/A,baseball,nebraska
-29,Kennet Sorenson,"Stone Mountain, Ga.",St. Pius X,N/A,baseball,nebraska
-30,Mitch Steinhoff,"Crete, Neb.",Crete,N/A,baseball,nebraska
-31,Paul Tillotson,"Monument, Colo.",Lewis-Palmer,N/A,baseball,nebraska
-32,Matt Waldron,"Omaha, Neb.",Westside,N/A,baseball,nebraska
-33,Mike Waldron,"Omaha, Neb.",Westside,N/A,baseball,nebraska
-34,Matt Warren,"Omaha, Neb.",Skutt Catholic,N/A,baseball,nebraska
-35,Keegan Watson,"Fountaintown, Ind.",New Palestine,N/A,baseball,nebraska
-36,Jesse Wilkening,"Cedar Lake, Ind.",Hanover Central,N/A,baseball,nebraska
+13,Drew Gilin,"Omaha, Neb.",Millard South,N/A,baseball,nebraska
+14,Colby Gomes,"Omaha, Neb.",Millard West,N/A,baseball,nebraska
+15,Mojo Hagge,"Omaha, Neb.",Skutt Catholic,N/A,baseball,nebraska
+16,Nolan Hakel,"Lincoln, Neb.",Pius X,N/A,baseball,nebraska
+17,Jaxon Hallmark,"Midland, Texas",Midland,N/A,baseball,nebraska
+18,Brett Hammit,"Nixa, Mo.",Nixa,N/A,baseball,nebraska
+19,Gunner Hellstrom,"Simi Valley, Calif.",Grace Brethren,N/A,baseball,nebraska
+20,Alex Henwood,"Appleton, Wis.",Appleton North,N/A,baseball,nebraska
+21,Byron Hood,"Roca, Neb.",Norris,N/A,baseball,nebraska
+22,Trey Kissack,"Grand Island, Neb.",Grand Island,N/A,baseball,nebraska
+23,Ben Klenke,"Seward, Neb.",Seward,N/A,baseball,nebraska
+24,Zac Luckey,"Omaha, Neb.",Creighton Prep,N/A,baseball,nebraska
+25,Chad Luensmann,"Altoona, Pa.",Bellwood-Antis,N/A,baseball,nebraska
+26,Tyler Martin,"Webb City, Mo.",Webb City,N/A,baseball,nebraska
+27,Aaron Palensky,"Papillion, Neb.",Papillion La Vista South,N/A,baseball,nebraska
+28,Robbie Palkert,"Golden Valley, Minn.",Hopkins,N/A,baseball,nebraska
+29,Kyle Perry,"Omaha, Neb.",Millard South,N/A,baseball,nebraska
+30,Blake Peterson,"Loomis, Calif.",Granite Bay,N/A,baseball,nebraska
+31,Ty Roseberry,"Kearney, Neb.",Kearney,N/A,baseball,nebraska
+32,Luke Roskam,"Chaska, Minn.",Chaska,N/A,baseball,nebraska
+33,Shay Schanaman,"Grand Island, Neb.",Grand Island,N/A,baseball,nebraska
+34,Max Schreiber,"Cardington, Ohio",Highland,N/A,baseball,nebraska
+35,Spencer Schwellenbach,"Saginaw, Mich.",Saginaw Heritage,N/A,baseball,nebraska
+36,Kennet Sorenson,"Stone Mountain, Ga.",St. Pius X,N/A,baseball,nebraska
+37,Gareth Stroh,"Kearney, Neb.",Gibbon,N/A,baseball,nebraska
+38,Paul Tillotson,"Monument, Colo.",Lewis-Palmer,N/A,baseball,nebraska
+39,Matt Waldron,"Omaha, Neb.",Westside,N/A,baseball,nebraska
+40,Mike Waldron,"Omaha, Neb.",Westside,N/A,baseball,nebraska
+41,Keegan Watson,"Fountaintown, Ind.",New Palestine,N/A,baseball,nebraska
 0,Freedom Akinmoladun,"Grandview, Mo.",Grandview,N/A,football,nebraska
 1,Quayshon Alexander,"Prospect Park, N.J.",De Paul Catholic,N/A,football,nebraska
 2,Chad Alioth Jr.,"Omaha, Neb.",North,N/A,football,nebraska
@@ -67,18 +76,18 @@
 6,Fyn Anderson,"Lincoln, Neb.",Southeast,N/A,football,nebraska
 7,Jake Archer,"Omaha, Neb.",Skutt Catholic,N/A,football,nebraska
 8,Isaac Armstrong,"Lincoln, Neb.",Southwest,N/A,football,nebraska
-9,Anthony Banderas,"Lincoln, Neb.",Southwest,N/A,football,nebraska
-10,Broc Bando,"Lincoln, Neb.",IMG Academy,N/A,football,nebraska
-11,Christian Banker,"Omaha, Neb.",Omaha Skutt Catholic High School,N/A,football,nebraska
-12,Jalin Barnett,"Lawton, Okla.",Lawton,N/A,football,nebraska
-13,Mohamed Barry,"Grayson, Ga.",Grayson,N/A,football,nebraska
-14,Greg Bell,"Chula Vista, Calif.",Bonita Vista,N/A,football,nebraska
+9,Mitchell Balenger,"Leonardtown, Md.",Leonardtown,N/A,football,nebraska
+10,Anthony Banderas,"Lincoln, Neb.",Southwest,N/A,football,nebraska
+11,Broc Bando,"Lincoln, Neb.",IMG Academy,N/A,football,nebraska
+12,Christian Banker,"Omaha, Neb.",Omaha Skutt Catholic High School,N/A,football,nebraska
+13,Jalin Barnett,"Lawton, Okla.",Lawton,N/A,football,nebraska
+14,Mohamed Barry,"Grayson, Ga.",Grayson,N/A,football,nebraska
 15,Brody Belt,"Omaha, Neb.",Millard West,N/A,football,nebraska
 16,Dicaprio Bootle,"Miami, Fla.",Southridge,N/A,football,nebraska
 17,Jaylin Bradley,"Bellevue, Neb.",Bellevue West,N/A,football,nebraska
 18,Moses Bryant,"Elkhorn, Neb.",South,N/A,football,nebraska
 19,Tre Bryant,"St. Louis, Mo.",Christian Brothers College,N/A,football,nebraska
-20,Andrew Bunch,"Thompson Stations, Tenn.",Independence,N/A,football,nebraska
+20,Andrew Bunch,"Thompson's Station, Tenn.",Independence,N/A,football,nebraska
 21,Bradley Bunner,"Clarkson, Neb.",Clarkson Public School,N/A,football,nebraska
 22,Tony Butler,"Lakewood, Ohio",St. Edward,N/A,football,nebraska
 23,Chris Cassidy,"Lincoln, Neb.",Pius X,N/A,football,nebraska
@@ -105,98 +114,94 @@
 44,Cole Frahm,"Omaha, Neb.",Burke,N/A,football,nebraska
 45,Corbin Frederick,"Mansfield, Texas",Mansfield,N/A,football,nebraska
 46,Christian Gaylord,"Baldwin City, Kan.",Baldwin City,N/A,football,nebraska
-47,Tristan Gebbia,"Calabasas, Calif.",Calabasas,N/A,football,nebraska
-48,Luke Gifford,"Lincoln, Neb.",Southeast,N/A,football,nebraska
-49,Austin Hemphill,"Gretna, Neb.",Gretna,N/A,football,nebraska
-50,Trent Hixson,"Omaha, Neb.",Skutt Catholic,N/A,football,nebraska
-51,Branden Hohenstein,"Jackson, Neb.",Bishop Heelan,N/A,football,nebraska
-52,Justin Holm,"Lincoln, Neb.",Southwest,N/A,football,nebraska
-53,Todd Honas,"Aurora, Neb.",Aurora,N/A,football,nebraska
-54,Will Honas,"Wichita, Kan.",Bishop Carroll,N/A,football,nebraska
-55,Andre Hunt,"Palm Dale, Calif.",Paraclete,N/A,football,nebraska
-56,Damian Jackson,"Las Vegas, Nev.",Shadow Ridge,N/A,football,nebraska
-57,Lamar Jackson,"Elk Grove, Calif.",Franklin,N/A,football,nebraska
-58,Will Jackson,Washington D.C.,St. John's College HS,N/A,football,nebraska
-59,Brenden Jaimes,"Austin, Texas",Lake Travis,N/A,football,nebraska
-60,Matt Jarzynka,"Loup City, Neb.",Loup City,N/A,football,nebraska
-61,Pernell Jefferson,"New Orleans, La.",Warren Easton,N/A,football,nebraska
-62,Joseph Johnson,"Gretna, Neb.",Gretna,N/A,football,nebraska
-63,Cam'ron Jones,"Mansfield, Texas",Mansfield,N/A,football,nebraska
-64,Miles Jones,"Miramar, Fla.",American Heritage,N/A,football,nebraska
-65,Grant Jordan,"Omaha, Neb.",Westside,N/A,football,nebraska
-66,Spencer Jordan,"Omaha, Neb.",Westside,N/A,football,nebraska
-67,Cameron Jurgens,"Beatrice, Neb.",Beatrice,N/A,football,nebraska
-68,Reid Karel,"Seward, Neb.",Seward,N/A,football,nebraska
-69,Sedrick King,"Plant City, Fla.",Plant City,N/A,football,nebraska
-70,Bo Kitrell,"Ashland, Neb.",Ashland-Greenwood,N/A,football,nebraska
-71,Bryson Krull,"North Platte, Neb.",North Platte,N/A,football,nebraska
-72,Eric Lee Jr.,"Milton, Mass.",Colorado),N/A,football,nebraska
-73,Katerian Legrone,"Atlanta, Ga.",The B.E.S.T. Academy,N/A,football,nebraska
-74,Wyatt Liewer,"O'Neill, Neb.",O'Neill,N/A,football,nebraska
-75,Caleb Lightbourn,"Washougal, Wash.",Camas,N/A,football,nebraska
-76,Tyjon Lindsey,"Corona, Calif.","Las Vegas, Nev.)",N/A,football,nebraska
-77,Ben Lingenfelter,"Cherokee, Iowa",Washington,N/A,football,nebraska
-78,Adrian Martinez,"Fresno, Calif.",Clovis West,N/A,football,nebraska
-79,Matt Masker,"Kearney, Neb.",Kearney Catholic,N/A,football,nebraska
-80,Wyatt Mazour,"Albion, Neb.",Boone Central,N/A,football,nebraska
-81,Lane McCallum,"Norfolk, Neb.",Norfolk,N/A,football,nebraska
-82,Justin McGriff,"Tampa, Fla.",Jefferson,N/A,football,nebraska
-83,Jaevon McQuitty,"Columbia, Mo.",Battle,N/A,football,nebraska
-84,Collin Miller,"Fishers, Ind.",Hamilton Southeastern,N/A,football,nebraska
-85,Hunter Miller,"Stromsburg, Neb.",Cross County,N/A,football,nebraska
-86,Stanley Morgan Jr.,"New Orleans, La.",St. Augustine,N/A,football,nebraska
-87,DaiShon Neal,"Houston, Texas",Omaha Central,N/A,football,nebraska
-88,Peyton Newell,"Hiawatha, Kan.",Hiawatha,N/A,football,nebraska
-89,Jordan Ober,"Las Vegas, Nev.",Bishop Gorman,N/A,football,nebraska
-90,Simon Otte,"York, Neb.",York,N/A,football,nebraska
-91,Devine Ozigbo,"Sachse, Texas",Sachse,N/A,football,nebraska
-92,Jordan Paup,"Central City, Neb.",Central City,N/A,football,nebraska
-93,Barret Pickering,"Birmingham, Ala.",Hoover,N/A,football,nebraska
-94,Cameron Pieper,"Lincoln, Neb.",Southwest,N/A,football,nebraska
-95,Kurt Rafdal,"Carmel, Ind.",Carmel,N/A,football,nebraska
-96,John Raridon,"West Des Moines, Iowa",Valley,N/A,football,nebraska
-97,Antonio Reed,"Memphis, Tenn.",Miss.),N/A,football,nebraska
-98,Bryan Reimers,"Lincoln, Neb.",Lincoln East,N/A,football,nebraska
-99,Brandon Robbins,"Bellevue, Neb.",Bellevue East,N/A,football,nebraska
-100,Avery Roberts,"Wilmington, Del.",Concord,N/A,football,nebraska
-101,Casey Rogers,"Syracuse, N.Y.","Avon, Conn.)",N/A,football,nebraska
-102,Austin Rose,"Lincoln, Neb.",North Star,N/A,football,nebraska
-103,Connor Ruth,"Malcolm, Neb.",Seward,N/A,football,nebraska
-104,Corbin Ruth,"Malcolm, Neb.",Seward,N/A,football,nebraska
-105,Ryan Schommer,"Norfolk, Neb.",Norfolk,N/A,football,nebraska
-106,Collin Shefke,"Lincoln, Neb.",Southwest,N/A,football,nebraska
-107,Matt Sichterman,"Cincinnati, Ohio",Kings,N/A,football,nebraska
-108,CJ Smith,"West Palm Beach, Fla.",Oxbridge Academy,N/A,football,nebraska
-109,JD Spielman,"Eden Prairie, Minn.",Eden Prairie,N/A,football,nebraska
-110,Isaiah Stalbird,"Kearney, Neb.",Kearney,N/A,football,nebraska
-111,Ben Stille,"Ashland, Neb.",Ashland-Greenwood,N/A,football,nebraska
-112,Jack Stoll,"Lone Tree, Colo.",Regis Jesuit,N/A,football,nebraska
-113,Mick Stoltenberg,"Gretna, Neb.",Gretna,N/A,football,nebraska
-114,Jeramiah Stovall,"Omaha, Neb.",Creighton Prep,N/A,football,nebraska
-115,Eli Sullivan,"Longmont, Colo.",Longmont,N/A,football,nebraska
-116,Caleb Tannor,"Stone Mountain, Ga.",Miller Grove,N/A,football,nebraska
-117,Cam Taylor,"Montgomery, Ala.",Park Crossing,N/A,football,nebraska
-118,Deontre Thomas,"Mustang, Okla.",Mustang,N/A,football,nebraska
-119,Guy Thomas,"Miami, Fla.",Booker T. Washington,N/A,football,nebraska
-120,Andrew Thurman,"Stillwell, Kan.",Blue Valley West,N/A,football,nebraska
-121,Chase Urbach,"Grosse Pointe, Mich.",Grosse Pointe South,N/A,football,nebraska
-122,Vaha Vainuku,"Salt Lake City, Utah",East,N/A,football,nebraska
-123,Noah Vedral,"Wahoo, Neb.",Bishop Neumann,N/A,football,nebraska
-124,Chris Walker,"Lincoln, Neb.",East,N/A,football,nebraska
-125,Jackson Walker,"Overland Park, Kan.",Blue Valley Northwest,N/A,football,nebraska
-126,Kade Warner,"Scottsdale, Ariz.",Desert Mountain,N/A,football,nebraska
-127,Maurice Washington,"Stockton, Calif.",Texas),N/A,football,nebraska
-128,Dominick Watt,"Hollywood, Fla.",Miramar,N/A,football,nebraska
-129,Jacob Weinmaster,"Loveland, Colo.",Loveland,N/A,football,nebraska
-130,Mikale Wilbon,"Chicago, Ill.",De La Salle Institute,N/A,football,nebraska
-131,Tate Wildeman,"Parker, Colo.",Legend,N/A,football,nebraska
-132,Aaron Williams,"Atlanta, Ga.",Carver,N/A,football,nebraska
-133,Deontai Williams,"Jacksonville, Fla.",Trinity Christian Academy,N/A,football,nebraska
-134,Mike Williams,"Lake City, Fla.",Columbia,N/A,football,nebraska
-135,Boe Wilson,"Lee's Summit, Mo.",Lee's Summit West,N/A,football,nebraska
-136,Jaron Woodyard,"Gaithersburg, Md.",The Avalon School,N/A,football,nebraska
-137,Conor Young,"Cozad, Neb.",Cozad,N/A,football,nebraska
-138,Dedrick Young II,"Peoria, Ariz.",Centennial,N/A,football,nebraska
+47,Luke Gifford,"Lincoln, Neb.",Southeast,N/A,football,nebraska
+48,Austin Hemphill,"Gretna, Neb.",Gretna,N/A,football,nebraska
+49,Trent Hixson,"Omaha, Neb.",Skutt Catholic,N/A,football,nebraska
+50,Branden Hohenstein,"Jackson, Neb.",Bishop Heelan,N/A,football,nebraska
+51,Justin Holm,"Lincoln, Neb.",Southwest,N/A,football,nebraska
+52,Todd Honas,"Aurora, Neb.",Aurora,N/A,football,nebraska
+53,Will Honas,"Wichita, Kan.",Bishop Carroll,N/A,football,nebraska
+54,Andre Hunt,"Palm Dale, Calif.",Paraclete,N/A,football,nebraska
+55,Damian Jackson,"Las Vegas, Nev.",Shadow Ridge,N/A,football,nebraska
+56,Lamar Jackson,"Elk Grove, Calif.",Franklin,N/A,football,nebraska
+57,Brenden Jaimes,"Austin, Texas",Lake Travis,N/A,football,nebraska
+58,Matt Jarzynka,"Loup City, Neb.",Loup City,N/A,football,nebraska
+59,Pernell Jefferson,"New Orleans, La.",Warren Easton,N/A,football,nebraska
+60,Joseph Johnson,"Gretna, Neb.",Gretna,N/A,football,nebraska
+61,Cam'ron Jones,"Mansfield, Texas",Mansfield,N/A,football,nebraska
+62,Miles Jones,"Miramar, Fla.",American Heritage,N/A,football,nebraska
+63,Grant Jordan,"Omaha, Neb.",Westside,N/A,football,nebraska
+64,Spencer Jordan,"Omaha, Neb.",Westside,N/A,football,nebraska
+65,Cameron Jurgens,"Beatrice, Neb.",Beatrice,N/A,football,nebraska
+66,Reid Karel,"Seward, Neb.",Seward,N/A,football,nebraska
+67,Bo Kitrell,"Ashland, Neb.",Ashland-Greenwood,N/A,football,nebraska
+68,Bryson Krull,"North Platte, Neb.",North Platte,N/A,football,nebraska
+69,Eric Lee Jr.,"Milton, Mass.",Colorado),N/A,football,nebraska
+70,Katerian Legrone,"Atlanta, Ga.",The B.E.S.T. Academy,N/A,football,nebraska
+71,Wyatt Liewer,"O'Neill, Neb.",O'Neill,N/A,football,nebraska
+72,Caleb Lightbourn,"Washougal, Wash.",Camas,N/A,football,nebraska
+73,Ben Lingenfelter,"Cherokee, Iowa",Washington,N/A,football,nebraska
+74,Adrian Martinez,"Fresno, Calif.",Clovis West,N/A,football,nebraska
+75,Matt Masker,"Kearney, Neb.",Kearney Catholic,N/A,football,nebraska
+76,Wyatt Mazour,"Albion, Neb.",Boone Central,N/A,football,nebraska
+77,Lane McCallum,"Norfolk, Neb.",Norfolk,N/A,football,nebraska
+78,Justin McGriff,"Tampa, Fla.",Jefferson,N/A,football,nebraska
+79,Jaevon McQuitty,"Columbia, Mo.",Battle,N/A,football,nebraska
+80,Collin Miller,"Fishers, Ind.",Hamilton Southeastern,N/A,football,nebraska
+81,Hunter Miller,"Stromsburg, Neb.",Cross County,N/A,football,nebraska
+82,Stanley Morgan Jr.,"New Orleans, La.",St. Augustine,N/A,football,nebraska
+83,Cade Mueller,"Gretna, Neb.",Gretna,N/A,football,nebraska
+84,DaiShon Neal,"Houston, Texas",Omaha Central,N/A,football,nebraska
+85,Tre Neal,"Atlanta, Ga.",Buford,N/A,football,nebraska
+86,Peyton Newell,"Hiawatha, Kan.",Hiawatha,N/A,football,nebraska
+87,Jordan Ober,"Las Vegas, Nev.",Bishop Gorman,N/A,football,nebraska
+88,Simon Otte,"York, Neb.",York,N/A,football,nebraska
+89,Devine Ozigbo,"Sachse, Texas",Sachse,N/A,football,nebraska
+90,Jordan Paup,"Central City, Neb.",Central City,N/A,football,nebraska
+91,Barret Pickering,"Birmingham, Ala.",Hoover,N/A,football,nebraska
+92,Cameron Pieper,"Lincoln, Neb.",Southwest,N/A,football,nebraska
+93,Kurt Rafdal,"Carmel, Ind.",Carmel,N/A,football,nebraska
+94,John Raridon,"West Des Moines, Iowa",Valley,N/A,football,nebraska
+95,Antonio Reed,"Memphis, Tenn.",Miss.),N/A,football,nebraska
+96,Bryan Reimers,"Lincoln, Neb.",Lincoln East,N/A,football,nebraska
+97,Brandon Robbins,"Bellevue, Neb.",Bellevue East,N/A,football,nebraska
+98,Casey Rogers,"Syracuse, N.Y.","Avon, Conn.)",N/A,football,nebraska
+99,Austin Rose,"Lincoln, Neb.",North Star,N/A,football,nebraska
+100,Connor Ruth,"Malcolm, Neb.",Seward,N/A,football,nebraska
+101,Corbin Ruth,"Malcolm, Neb.",Seward,N/A,football,nebraska
+102,Ryan Schommer,"Norfolk, Neb.",Norfolk,N/A,football,nebraska
+103,Collin Shefke,"Lincoln, Neb.",Southwest,N/A,football,nebraska
+104,Matt Sichterman,"Cincinnati, Ohio",Kings,N/A,football,nebraska
+105,CJ Smith,"West Palm Beach, Fla.",Oxbridge Academy,N/A,football,nebraska
+106,JD Spielman,"Eden Prairie, Minn.",Eden Prairie,N/A,football,nebraska
+107,Isaiah Stalbird,"Kearney, Neb.",Kearney,N/A,football,nebraska
+108,Ben Stille,"Ashland, Neb.",Ashland-Greenwood,N/A,football,nebraska
+109,Jack Stoll,"Lone Tree, Colo.",Regis Jesuit,N/A,football,nebraska
+110,Mick Stoltenberg,"Gretna, Neb.",Gretna,N/A,football,nebraska
+111,Jeramiah Stovall,"Omaha, Neb.",Creighton Prep,N/A,football,nebraska
+112,Eli Sullivan,"Longmont, Colo.",Longmont,N/A,football,nebraska
+113,Caleb Tannor,"Stone Mountain, Ga.",Miller Grove,N/A,football,nebraska
+114,Cam Taylor,"Montgomery, Ala.",Park Crossing,N/A,football,nebraska
+115,Deontre Thomas,"Mustang, Okla.",Mustang,N/A,football,nebraska
+116,Guy Thomas,"Miami, Fla.",Booker T. Washington,N/A,football,nebraska
+117,Andrew Thurman,"Stillwell, Kan.",Blue Valley West,N/A,football,nebraska
+118,Chase Urbach,"Grosse Pointe, Mich.",Grosse Pointe South,N/A,football,nebraska
+119,Vaha Vainuku,"Salt Lake City, Utah",East,N/A,football,nebraska
+120,Noah Vedral,"Wahoo, Neb.",Bishop Neumann,N/A,football,nebraska
+121,Chris Walker,"Lincoln, Neb.",East,N/A,football,nebraska
+122,Jackson Walker,"Overland Park, Kan.",Blue Valley Northwest,N/A,football,nebraska
+123,Kade Warner,"Scottsdale, Ariz.",Desert Mountain,N/A,football,nebraska
+124,Maurice Washington,"Stockton, Calif.",Texas),N/A,football,nebraska
+125,Jacob Weinmaster,"Loveland, Colo.",Loveland,N/A,football,nebraska
+126,Mikale Wilbon,"Chicago, Ill.",De La Salle Institute,N/A,football,nebraska
+127,Tate Wildeman,"Parker, Colo.",Legend,N/A,football,nebraska
+128,Aaron Williams,"Atlanta, Ga.",Carver,N/A,football,nebraska
+129,Deontai Williams,"Jacksonville, Fla.",Trinity Christian Academy,N/A,football,nebraska
+130,Mike Williams,"Lake City, Fla.",Columbia,N/A,football,nebraska
+131,Boe Wilson,"Lee's Summit, Mo.",Lee's Summit West,N/A,football,nebraska
+132,Jaron Woodyard,"Gaithersburg, Md.",The Avalon School,N/A,football,nebraska
+133,Conor Young,"Cozad, Neb.",Cozad,N/A,football,nebraska
+134,Dedrick Young II,"Peoria, Ariz.",Centennial,N/A,football,nebraska
 0,Meg Brandt,"Ankeny, Iowa",Iowa Rush,N/A,womens soccer,nebraska
 1,Grace Brown,"Iowa City, Iowa",Alliance/Davis Legacy/Iowa ODP 1998,N/A,womens soccer,nebraska
 2,Olivia Brown,"Ankeny, Iowa",Iowa Rush,N/A,womens soccer,nebraska
@@ -227,10 +232,10 @@
 1,Jace Guthmiller,"Yankton, S.D.",Yankton,N/A,mens golf,nebraska
 2,Cameron Jones,"Perth, Australia",St. Norbert College,N/A,mens golf,nebraska
 3,Dylan McCabe,"Sioux City, Iowa",Bishop Heelan,N/A,mens golf,nebraska
-4,Tanner Owen,"Parkville, Mo.",Park Hill South,N/A,mens golf,nebraska
-5,Daniel Pearson,"Longmont, Colo.",Fairview,N/A,mens golf,nebraska
-6,Sean Song,"Omaha, Neb.",Burke,N/A,mens golf,nebraska
-7,Niko Vui,"Apia, Samoa",LDS Pesega College,N/A,mens golf,nebraska
+4,Tristan Nelko,"Plymouth, Minn.",Wayzata,N/A,mens golf,nebraska
+5,Tanner Owen,"Parkville, Mo.",Park Hill South,N/A,mens golf,nebraska
+6,Daniel Pearson,"Longmont, Colo.",Fairview,N/A,mens golf,nebraska
+7,Sean Song,"Omaha, Neb.",Burke,N/A,mens golf,nebraska
 8,Jackson Wendling,"Effingham, Ill.",Effingham,N/A,mens golf,nebraska
 0,Noor Ahmed,"Folsom, Calif.",Vista del Lago,N/A,womens golf,nebraska
 1,Kirsten Baete,"Beatrice, Nebraska",Beatrice,N/A,womens golf,nebraska
@@ -242,141 +247,157 @@
 7,Haley Thiele,"Wahoo, Neb.",Bishop Neumann,N/A,womens golf,nebraska
 8,Hannah Thiele,"Wahoo, Neb.",Bishop Neumann,N/A,womens golf,nebraska
 9,Megan Whittaker,"Elkhorn, Neb.",Elkhorn South,N/A,womens golf,nebraska
-0,Gabby Baratta,"Old Tappan, N.J.",Northern Valley Regional,N/A,womens swimming,nebraska
-1,Tori Beeler,"Parkville, Mo.",Park Hill South,N/A,womens swimming,nebraska
-2,Shea Bougie,"Lakeville, Minn.",Lakeville South,N/A,womens swimming,nebraska
-3,Madison Coughlen,"Frisco, Texas",Frisco,N/A,womens swimming,nebraska
-4,Kaylyn Flatt,"Centennial, Colo.",Cherry Creek,N/A,womens swimming,nebraska
-5,Carla Gonzalez-Garcia,"Merida, Venezuela",Arlington Martin,N/A,womens swimming,nebraska
-6,Abigail Greeneway,"Appleton, Wis.",Appleton North,N/A,womens swimming,nebraska
-7,Autumn Haebig,"Grafton, Wisc.",Grafton,N/A,womens swimming,nebraska
-8,Lindsay Helferich,"Odessa, Texas",Odessa,N/A,womens swimming,nebraska
-9,Jacqueline Jeschke,"Augusta, Ga.",Stanford Online,N/A,womens swimming,nebraska
-10,Abigail Knapton,"Omaha, Neb.",Omaha Marian,N/A,womens swimming,nebraska
-11,Allison Kopas,"Fort Lauderdale, Fla.",NSU University,N/A,womens swimming,nebraska
-12,Sutton Marvin,"Austin, Texas",McNeil,N/A,womens swimming,nebraska
-13,Morgan McCafferty,"Reynoldsburg, Ohio",Reynoldsburg,N/A,womens swimming,nebraska
-14,Anna McDonald,"Evergreen, Colo.",Evergreen,N/A,womens swimming,nebraska
-15,Izzie Murray,"North Bend, Ohio",Taylor,N/A,womens swimming,nebraska
-16,Jessica Pentlarge,"San Diego, Calif.",Cathedral Catholic,N/A,womens swimming,nebraska
-17,Dana Posthuma,"Omaha, Neb.",Omaha Burke,N/A,womens swimming,nebraska
-18,Rachel Powers,"Sun Prairie, Wisc.",Sun Prairie,N/A,womens swimming,nebraska
-19,Mira Rhodes,"Oakwood, Ohio",Oakwood,N/A,womens swimming,nebraska
-20,Savannah Savitt,"Tampa, Fla.",Tampa Preparatory School,N/A,womens swimming,nebraska
-21,Lindsey Stalheim,"Omaha, Neb.",Millard West,N/A,womens swimming,nebraska
-22,Grace Tiernon,"Indianapolis, Ind.",Heritage Christian,N/A,womens swimming,nebraska
-23,Katrina Voge,"Franklin, Wis.",Franklin,N/A,womens swimming,nebraska
-24,Clara Walstad,"Lincoln, Neb.",Lincoln Southwest,N/A,womens swimming,nebraska
-25,Gwen Worlton,"Fox Point, Wis.",Nicolet,N/A,womens swimming,nebraska
-26,Allie Worrall,"Phoenix, Ariz.",Xavier College Prep,N/A,womens swimming,nebraska
-0,Dylan Bednarczyk,"Woodbridge, Ontario, Canada",Niagara Academy of Sports,N/A,mens tennis,nebraska
-1,Toby Boyer,"Ham Lake, Minn.",Forest Lake,N/A,mens tennis,nebraska
-2,Chris Dean,"Papillion, Neb.",Papillion South,N/A,mens tennis,nebraska
-3,Linus Erhart,"Lustenau, Austria",Hak Lastenau,N/A,mens tennis,nebraska
-4,William Gleason,"Lincoln, Neb.",Southwest,N/A,mens tennis,nebraska
-5,William Grattan-Smith,"Atlanta, Ga.",Atlanta National School,N/A,mens tennis,nebraska
-6,Micah Klousia,"Springfield, Mo.",Glendale,N/A,mens tennis,nebraska
-7,Rok Krizaj,"Idrija, Slovenia",Bezigrad,N/A,mens tennis,nebraska
-8,Mason Meier,"Omaha, Neb.",Elkhorn South,N/A,mens tennis,nebraska
-9,Jon Meyer,"Lincoln, Neb.",Lincoln Southwest,N/A,mens tennis,nebraska
-10,Victor Moreno Lozano,"Madrid, Spain",Colegio Vallmont,N/A,mens tennis,nebraska
-11,Isaac Nortey,"Lakeland, Fla.",Lakeland,N/A,mens tennis,nebraska
-0,M?Balia Bangoura,"Bradenton, Fla.",Out-of-Door Academy,N/A,womens tennis,nebraska
-1,Marina Cozac,"Chicago, Ill.",Indiana University High School,N/A,womens tennis,nebraska
-2,Paula Del Cueto Castillo,"Chicago, Ill.",Indiana University High School,N/A,womens tennis,nebraska
+0,Taylor Acheson,"Overland Park, Kan.",Kansas City Blazers,N/A,womens swimming,nebraska
+1,Gabby Baratta,"Old Tappan, N.J.",Northern Valley Regional,N/A,womens swimming,nebraska
+2,Tori Beeler,"Parkville, Mo.",Park Hill South,N/A,womens swimming,nebraska
+3,Maggie Berning,"Kettering, Ohio",Dayton Raiders,N/A,womens swimming,nebraska
+4,Shea Bougie,"Lakeville, Minn.",Lakeville South,N/A,womens swimming,nebraska
+5,Audrey Coffey,"Naperville, Ill.",Academy Bullets,N/A,womens swimming,nebraska
+6,Madison Coughlen,"Frisco, Texas",Frisco,N/A,womens swimming,nebraska
+7,Alexandra Ellis,"Frisco, Texas",Frisco,N/A,womens swimming,nebraska
+8,Kaylyn Flatt,"Centennial, Colo.",Cherry Creek,N/A,womens swimming,nebraska
+9,Carla Gonzalez-Garcia,"Merida, Venezuela",Arlington Martin,N/A,womens swimming,nebraska
+10,Abigail Greeneway,"Appleton, Wis.",Appleton North,N/A,womens swimming,nebraska
+11,Autumn Haebig,"Grafton, Wisc.",Grafton,N/A,womens swimming,nebraska
+12,Sydney Haubold,"Grafton, Wisc.",Grafton,N/A,womens swimming,nebraska
+13,Morgan Heasty,"Grafton, Wisc.",Grafton,N/A,womens swimming,nebraska
+14,Lindsay Helferich,"Odessa, Texas",Odessa,N/A,womens swimming,nebraska
+15,Monica Hess,"Odessa, Texas",Odessa,N/A,womens swimming,nebraska
+16,Jacqueline Jeschke,"Augusta, Ga.",Stanford Online,N/A,womens swimming,nebraska
+17,Olivia Keith,"Fayetteville, Ark.",Razorback Aquatics Club,N/A,womens swimming,nebraska
+18,Katelyn Kilpatrick,"Ocala, Fla.",Central Florida Marlins,N/A,womens swimming,nebraska
+19,Abigail Knapton,"Omaha, Neb.",Omaha Marian,N/A,womens swimming,nebraska
+20,Allison Kopas,"Fort Lauderdale, Fla.",NSU University,N/A,womens swimming,nebraska
+21,Emily Laudenklos,"Fort Lauderdale, Fla.",NSU University,N/A,womens swimming,nebraska
+22,Emma MacCallum,"Fort Lauderdale, Fla.",NSU University,N/A,womens swimming,nebraska
+23,Sutton Marvin,"Austin, Texas",McNeil,N/A,womens swimming,nebraska
+24,Morgan McCafferty,"Reynoldsburg, Ohio",Reynoldsburg,N/A,womens swimming,nebraska
+25,Anna McDonald,"Evergreen, Colo.",Evergreen,N/A,womens swimming,nebraska
+26,Amelia Miller,"Evergreen, Colo.",Evergreen,N/A,womens swimming,nebraska
+27,Izzie Murray,"North Bend, Ohio",Taylor,N/A,womens swimming,nebraska
+28,Jessica Pentlarge,"San Diego, Calif.",Cathedral Catholic,N/A,womens swimming,nebraska
+29,Dana Posthuma,"Omaha, Neb.",Omaha Burke,N/A,womens swimming,nebraska
+30,Rachel Powers,"Sun Prairie, Wisc.",Sun Prairie,N/A,womens swimming,nebraska
+31,Mira Rhodes,"Oakwood, Ohio",Oakwood,N/A,womens swimming,nebraska
+32,Hallie Roman,"Port Huron, Mich.",Legacy Diving,N/A,womens swimming,nebraska
+33,Savannah Savitt,"Tampa, Fla.",Tampa Preparatory School,N/A,womens swimming,nebraska
+34,Claire Sorrell,"Tampa, Fla.",Tampa Preparatory School,N/A,womens swimming,nebraska
+35,Lindsey Stalheim,"Omaha, Neb.",Millard West,N/A,womens swimming,nebraska
+36,Grace Tiernon,"Fishers, Ind.",Heritage Christian,N/A,womens swimming,nebraska
+37,Sara Troyer,"Goshen, Ind.",Indiana International School of Diving,N/A,womens swimming,nebraska
+38,Alejandra Vasquez,"Goshen, Ind.",Indiana International School of Diving,N/A,womens swimming,nebraska
+39,Clara Walstad,"Lincoln, Neb.",Lincoln Southwest,N/A,womens swimming,nebraska
+40,Jessica Warak,"Bellevue, Neb.",Nebraska Diving Club,N/A,womens swimming,nebraska
+41,Gwen Worlton,"Fox Point, Wis.",Nicolet,N/A,womens swimming,nebraska
+42,Allie Worrall,"Phoenix, Ariz.",Xavier College Prep,N/A,womens swimming,nebraska
+0,Toby Boyer,"Ham Lake, Minn.",Forest Lake,N/A,mens tennis,nebraska
+1,Chris Dean,"Papillion, Neb.",Papillion South,N/A,mens tennis,nebraska
+2,William Gleason,"Lincoln, Neb.",Southwest,N/A,mens tennis,nebraska
+3,Micah Klousia,"Springfield, Mo.",Glendale,N/A,mens tennis,nebraska
+4,Mason Meier,"Omaha, Neb.",Elkhorn South,N/A,mens tennis,nebraska
+5,Jon Meyer,"Lincoln, Neb.",Lincoln Southwest,N/A,mens tennis,nebraska
+6,Alvaro Moreno Lozano,"Madrid, Spain",Colegio Villalkor,N/A,mens tennis,nebraska
+7,Victor Moreno Lozano,"Madrid, Spain",Colegio Vallmont,N/A,mens tennis,nebraska
+8,Isaac Nortey,"Lakeland, Fla.",Lakeland,N/A,mens tennis,nebraska
+0,Jessica Aragon,"Plano, Texas",Dent Tennis Academy,N/A,womens tennis,nebraska
+1,M?Balia Bangoura,"Bradenton, Fla.",Out-of-Door Academy,N/A,womens tennis,nebraska
+2,Marina Cozac,"Chicago, Ill.",Indiana University High School,N/A,womens tennis,nebraska
 3,Elizabeth Gould,"Atlanta, Ga.",Universal Tennis Academy,N/A,womens tennis,nebraska
 4,Hayley Haakenstad,"Chanhassen, Minn.",Chanhassen,N/A,womens tennis,nebraska
 5,Jeannie Lozowski,"Port Saint Lucie, Fla.",Florida Virtual,N/A,womens tennis,nebraska
-6,Emily Rees,"Portland, Ore.",Lincoln,N/A,womens tennis,nebraska
-7,Claire Reifeis,"Indianapolis, Ind.",North Central,N/A,womens tennis,nebraska
-8,Vasanti Shinde,"Indianapolis, Ind.",North Central,N/A,womens tennis,nebraska
-9,Emma Worley,"Northville, Mich.",Northville,N/A,womens tennis,nebraska
+6,Claire Reifeis,"Indianapolis, Ind.",North Central,N/A,womens tennis,nebraska
+7,Vasanti Shinde,"Indianapolis, Ind.",North Central,N/A,womens tennis,nebraska
+8,Emma Worley,"Northville, Mich.",Northville,N/A,womens tennis,nebraska
 0,Zemua Baptista,"Friend, Neb.",Friend,N/A,wrestling,nebraska
 1,Tyler Berger,"Prineville, Ore.",Crook County,N/A,wrestling,nebraska
 2,Johnny Blankenship,"Platte City, Mo.",Platte County,N/A,wrestling,nebraska
 3,Beau Breske,"Hartford, Wis.",Hartford Union,N/A,wrestling,nebraska
 4,Austin Emerson,"Temperance, Mich.",Bedford,N/A,wrestling,nebraska
 5,Tanner Farmer,"Highland, Ill.",Highland,N/A,wrestling,nebraska
-6,Anthony Gaona,"Overland Park, Kan.",St. Thomas Aquinas,N/A,wrestling,nebraska
+6,Anthony Gaona,"Olathe, Kan.",St. Thomas Aquinas,N/A,wrestling,nebraska
 7,Patrick Grayson,"Stafford, Va.",Colonial Forge,N/A,wrestling,nebraska
 8,Zak Hensley,"Olathe, Kan.",St. James Academy,N/A,wrestling,nebraska
 9,David Jensen,"Mobridge, S.D.",Mobridge-Pollock,N/A,wrestling,nebraska
 10,Jordan Kelber,"Valentine, Neb.",Valentine,N/A,wrestling,nebraska
 11,Mikey Labriola,"Easton, Pa.",Bethlehem Catholic,N/A,wrestling,nebraska
-12,Caleb Licking,"Norfolk, Neb.",Norfolk,N/A,wrestling,nebraska
-13,Christian Miller,"Plainview, Neb.",Plainview,N/A,wrestling,nebraska
-14,Jevon Parrish,"Olathe, Kan.",Olathe North,N/A,wrestling,nebraska
-15,Brian Peska,"Omaha, Neb.",Skutt Catholic,N/A,wrestling,nebraska
-16,Dalton Peters,"Salina, Kan.",Salina Central,N/A,wrestling,nebraska
-17,Collin Purinton,"Banks, Ore.",Banks,N/A,wrestling,nebraska
-18,Chad Red Jr.,"Indianapolis, Ind.",New Palestine,N/A,wrestling,nebraska
-19,Peyton Robb,"Owatonna, Minn.",Owatonna,N/A,wrestling,nebraska
-20,Kyle Ruettiger,"New Lenox, Ill.",Lincoln-Way West,N/A,wrestling,nebraska
-21,Eric Schultz,"Tinley Park, Ill.",Tinley Park,N/A,wrestling,nebraska
-22,Jordan Shearer,"Fargo, N.D.",West Fargo,N/A,wrestling,nebraska
-23,Aris Shino,"Merino, Colo.",Merino,N/A,wrestling,nebraska
-24,Tucker Sjomeling,"Delano, Minn.",Delano,N/A,wrestling,nebraska
-25,Cade Svoboda,"Ord, Neb.",Ord,N/A,wrestling,nebraska
-26,Alex Thomsen,"Neola, Iowa",Underwood,N/A,wrestling,nebraska
-27,Taylor Venz,"Farmington, Minn.",Farmington,N/A,wrestling,nebraska
-28,Luke Weber,"Forsyth, Mont.",Forsyth,N/A,wrestling,nebraska
-29,Isaiah White,"Chicago, Ill.",Oak Park and River Forest,N/A,wrestling,nebraska
-30,Dustin Williams,"Gardner, Kan.",Gardner Edgerton,N/A,wrestling,nebraska
-31,Colton Wolfe,"Columbus, Neb.",Columbus,N/A,wrestling,nebraska
-32,Wyatt Wriedt,"Donahue, Iowa",North Scott,N/A,wrestling,nebraska
-0,Peyton Glatter,"Omaha, Neb.",Nebraska Gold,N/A,softball,nebraska
-1,Anni Raley,"Clovis, Calif.",California Dirt Dogs,N/A,softball,nebraska
-2,Bree Boruff,"Mead, Colo.",Triple Crown Stars,N/A,softball,nebraska
-3,Bri Cassidy,"San Bernardino, Calif.",Corona Angels,N/A,softball,nebraska
-4,Tristen Edwards,"Murrieta, Calif.",Corona Angels,N/A,softball,nebraska
-5,Olivia Ferrell,"Omaha, Neb.",Nebraska Gold,N/A,softball,nebraska
-6,Carson Fischer,"Denton, Neb.",Nebraska Gold & Iowa Premier Gold,N/A,softball,nebraska
-7,Mikaela Forcum,"Walla Walla, Wash.",Walla Walla HS,N/A,softball,nebraska
-8,Payton Huscroft,"Omaha, Neb.",Nebraska Gold,N/A,softball,nebraska
-9,Lexey Kneib,"Webb City, Mo.",DeMarini Aces,N/A,softball,nebraska
-10,Regan Mergele,"San Antonio, Texas",Smithson Valley,N/A,softball,nebraska
-11,Ally Riley,"Alva, Okla.",Oklahoma Exclusive,N/A,softball,nebraska
-12,Karlee Seevers,"York, Neb.",Nebraska Quakes & York Fusion,N/A,softball,nebraska
-13,Alyvia Simmons,"Overland Park, Kan.",Nebraska Gold,N/A,softball,nebraska
-14,Madi Unzicker,"Omaha, Neb.",Nebraska Gold,N/A,softball,nebraska
-15,Rylie Unzicker,"Omaha, Neb.",Nebraska Gold,N/A,softball,nebraska
-16,Courtney Wallace,"Omaha, Neb.",Nebraska Gold,N/A,softball,nebraska
-17,Lindsey Walljasper,"Manteca, Calif.",San Jose Sting,N/A,softball,nebraska
-18,Sarah Yocom,"Cozad, Neb.",North Platte Sensations,N/A,softball,nebraska
+12,Christian Lance,"Nixa, Mo.",Nixa,N/A,wrestling,nebraska
+13,Caleb Licking,"Norfolk, Neb.",Norfolk,N/A,wrestling,nebraska
+14,Josh Mason,"Schuylkill Haven, Pa.",Blue Mountain,N/A,wrestling,nebraska
+15,Christian Miller,"Plainview, Neb.",Plainview,N/A,wrestling,nebraska
+16,Zeke Moisey,"Northampton, Pa.",Bethlehem Catholic,N/A,wrestling,nebraska
+17,Jevon Parrish,"Olathe, Kan.",Olathe North,N/A,wrestling,nebraska
+18,Brian Peska,"Omaha, Neb.",Skutt Catholic,N/A,wrestling,nebraska
+19,Dalton Peters,"Salina, Kan.",Salina Central,N/A,wrestling,nebraska
+20,Collin Purinton,"Banks, Ore.",Banks,N/A,wrestling,nebraska
+21,Chad Red Jr.,"Indianapolis, Ind.",New Palestine,N/A,wrestling,nebraska
+22,Peyton Robb,"Owatonna, Minn.",Owatonna,N/A,wrestling,nebraska
+23,Kyle Ruettiger,"New Lenox, Ill.",Lincoln-Way West,N/A,wrestling,nebraska
+24,Eric Schultz,"Tinley Park, Ill.",Tinley Park,N/A,wrestling,nebraska
+25,Jordan Shearer,"Fargo, N.D.",West Fargo,N/A,wrestling,nebraska
+26,Aris Shino,"Merino, Colo.",Merino,N/A,wrestling,nebraska
+27,Jake Silverstein,"Smithtown, N.Y.",Hauppauge,N/A,wrestling,nebraska
+28,Tucker Sjomeling,"Delano, Minn.",Delano,N/A,wrestling,nebraska
+29,Cade Svoboda,"Ord, Neb.",Ord,N/A,wrestling,nebraska
+30,Alex Thomsen,"Neola, Iowa",Underwood,N/A,wrestling,nebraska
+31,Taylor Venz,"Farmington, Minn.",Farmington,N/A,wrestling,nebraska
+32,Luke Weber,"Forsyth, Mont.",Forsyth,N/A,wrestling,nebraska
+33,Isaiah White,"Chicago, Ill.",Oak Park and River Forest,N/A,wrestling,nebraska
+34,Dustin Williams,"Gardner, Kan.",Gardner Edgerton,N/A,wrestling,nebraska
+35,Colton Wolfe,"Columbus, Neb.",Columbus,N/A,wrestling,nebraska
+36,Wyatt Wriedt,"Donahue, Iowa",North Scott,N/A,wrestling,nebraska
+0,Bree Boruff,"Mead, Colo.",Triple Crown Stars,N/A,softball,nebraska
+1,Bri Cassidy,"San Bernardino, Calif.",Corona Angels,N/A,softball,nebraska
+2,Tristen Edwards,"Murrieta, Calif.",Corona Angels,N/A,softball,nebraska
+3,Olivia Ferrell,"Omaha, Neb.",Nebraska Gold,N/A,softball,nebraska
+4,Carson Fischer,"Denton, Neb.",Nebraska Gold & Iowa Premier Gold,N/A,softball,nebraska
+5,Mikaela Forcum,"Walla Walla, Wash.",Walla Walla HS,N/A,softball,nebraska
+6,Peyton Glatter,"Omaha, Neb.",Nebraska Gold,N/A,softball,nebraska
+7,Payton Huscroft,"Omaha, Neb.",Nebraska Gold,N/A,softball,nebraska
+8,Lexey Kneib,"Webb City, Mo.",DeMarini Aces,N/A,softball,nebraska
+9,Regan Mergele,"San Antonio, Texas",Smithson Valley,N/A,softball,nebraska
+10,Samantha Owen,"Manteca, Calif.",East Union HS,N/A,softball,nebraska
+11,Anni Raley,"Clovis, Calif.",California Dirt Dogs,N/A,softball,nebraska
+12,Ally Riley,"Alva, Okla.",Oklahoma Exclusive,N/A,softball,nebraska
+13,Karlee Seevers,"York, Neb.",Nebraska Quakes & York Fusion,N/A,softball,nebraska
+14,Alyvia Simmons,"Overland Park, Kan.",Nebraska Gold,N/A,softball,nebraska
+15,Madi Unzicker,"Omaha, Neb.",Nebraska Gold,N/A,softball,nebraska
+16,Rylie Unzicker,"Omaha, Neb.",Nebraska Gold,N/A,softball,nebraska
+17,Courtney Wallace,"Omaha, Neb.",Nebraska Gold,N/A,softball,nebraska
+18,Lindsey Walljasper,"Manteca, Calif.",San Jose Sting,N/A,softball,nebraska
+19,Sarah Yocom,"Cozad, Neb.",North Platte Sensations,N/A,softball,nebraska
 0,Nicklin Hames,"Knoxville, Tenn.",Webb School,N/A,womens volleyball,nebraska
 1,Mikaela Foecke,"West Point, Iowa",Holy Trinity Catholic,N/A,womens volleyball,nebraska
 2,Megan Miller,"Alexandria, Ind.",Alexandria-Monroe,N/A,womens volleyball,nebraska
 3,Sami Slaughter,"Harrisburg, S.D.",Harrisburg,N/A,womens volleyball,nebraska
 4,Anezka Szabo,"Sioux Falls, S.D.",Lincoln,N/A,womens volleyball,nebraska
-5,Capri Davis,"Mansfield, Texas",Lake Ridge,N/A,womens volleyball,nebraska
-6,Chesney McClellan,"Maryville, Tenn.",Maryville,N/A,womens volleyball,nebraska
-7,Lexi Sun,"Encinitas, Calif.",Santa Fe Christian,N/A,womens volleyball,nebraska
-8,Kenzie Maloney,"Louisville, Ky.",Assumption,N/A,womens volleyball,nebraska
-9,Jazz Sweet,"Tecumseh, Kan.",Shawnee Heights,N/A,womens volleyball,nebraska
-10,Callie Schwarzenbach,"Kearney, Mo.",Kearney,N/A,womens volleyball,nebraska
-11,Lauren Stivrins,"Scottsdale, Ariz.",Chaparral,N/A,womens volleyball,nebraska
-12,Hayley Densberger,"Malcolm, Neb.",Malcolm,N/A,womens volleyball,nebraska
-0,Connor Adamsick,"Mundelein, Ill.",Buffalo Grove Gymnastics,N/A,mens gymnastics,nebraska
-1,Heath Anderson,"Mesa, Ariz.",Xtreme Gymnastics,N/A,mens gymnastics,nebraska
-2,Jake Bonnay,"Burlington, Ontario",Gymnastics Mississauga,N/A,mens gymnastics,nebraska
-3,Antonio Castro,"Pinecrest, Fla.",Florida Gymnastics,N/A,mens gymnastics,nebraska
-4,Joshua Everitt,"Tucson, Ariz.",Gymnastics World Central,N/A,mens gymnastics,nebraska
-5,Travis Gollott,"Livermore, Calif.",West Coast Olympic,N/A,mens gymnastics,nebraska
-6,Evan Hymanson,"Marlboro, N. J.",Monmouth Gymnastics Academy,N/A,mens gymnastics,nebraska
-7,Griffin Kehler,"Frisco, Texas",World Olympic Gymnastics Academy,N/A,mens gymnastics,nebraska
-8,Jordan King,"Houston, Texas",Cypress Academy of Gymnastics,N/A,mens gymnastics,nebraska
-9,Kyle King,"Mesquite, Texas",Ridgewood,N/A,mens gymnastics,nebraska
-10,Daniel Leal,"Cali, Colombia",Indigo,N/A,mens gymnastics,nebraska
-11,Austin Lober,"Albuquerque, N.M.",Gold Cup Gymnastics,N/A,mens gymnastics,nebraska
-12,Alex Magsam,"Scottsdale, Ariz.",North Valley Gymnastics,N/A,mens gymnastics,nebraska
-13,Josh Martin,"Buffalo Grove, Ill.",Aerial Gymnastics Club,N/A,mens gymnastics,nebraska
-14,Zach Peters,"Greenwood, Ind",Deveau?s School of Gymnastics,N/A,mens gymnastics,nebraska
-15,Jonathan Scripnick,"Milton, Ontario",Futures Gymnastics,N/A,mens gymnastics,nebraska
-16,Brenon Sommers,"Elgin, Ill.",St. Charles Gymnastics,N/A,mens gymnastics,nebraska
-17,Anton Stephenson,"Fishers, Ind.",Deveau's School of Gymnastics,N/A,mens gymnastics,nebraska
-18,Chris Stephenson,"Fishers, Ind.",Deveau's,N/A,mens gymnastics,nebraska
-19,Mitch Tyndall,"Saskatoon, Saskatchewan",Taiso Gymnastics Club,N/A,mens gymnastics,nebraska
-20,Andrew Zymball,"La Vista, Neb.",Cahoy's,N/A,mens gymnastics,nebraska
+5,Chen Abramovich,"Kfar Saba, Israel",Galili,N/A,womens volleyball,nebraska
+6,Mari Kurkova,"Opava, Czech Republic",P?ípoto?ní,N/A,womens volleyball,nebraska
+7,Brooke Smith,"Weatherford, Texas",Azle/Kansas State,N/A,womens volleyball,nebraska
+8,Capri Davis,"Mansfield, Texas",Lake Ridge,N/A,womens volleyball,nebraska
+9,Lexi Sun,"Encinitas, Calif.",Santa Fe Christian,N/A,womens volleyball,nebraska
+10,Kenzie Maloney,"Louisville, Ky.",Assumption,N/A,womens volleyball,nebraska
+11,Jazz Sweet,"Tecumseh, Kan.",Shawnee Heights,N/A,womens volleyball,nebraska
+12,Callie Schwarzenbach,"Kearney, Mo.",Kearney,N/A,womens volleyball,nebraska
+13,Lauren Stivrins,"Scottsdale, Ariz.",Chaparral,N/A,womens volleyball,nebraska
+14,Hayley Densberger,"Malcolm, Neb.",Malcolm,N/A,womens volleyball,nebraska
+0,Heath Anderson,"Mesa, Ariz.",Xtreme Gymnastics,N/A,mens gymnastics,nebraska
+1,Jake Bonnay,"Burlington, Ontario",Gymnastics Mississauga,N/A,mens gymnastics,nebraska
+2,Joshua Everitt,"Tucson, Ariz.",Gymnastics World Central,N/A,mens gymnastics,nebraska
+3,Charlie Giles,"Lake Zurich, Ill.",Premier Gymastics,N/A,mens gymnastics,nebraska
+4,Evan Hymanson,"Marlboro, N. J.",Monmouth Gymnastics Academy,N/A,mens gymnastics,nebraska
+5,Griffin Kehler,"Frisco, Texas",World Olympic Gymnastics Academy,N/A,mens gymnastics,nebraska
+6,Dillan King,"Eagle Mountain, Utah",USA Gym World Utah,N/A,mens gymnastics,nebraska
+7,Jordan King,"Houston, Texas",Cypress Academy of Gymnastics,N/A,mens gymnastics,nebraska
+8,Evan Kriley,"Tampa, Fla.",LaFleur's Training Center,N/A,mens gymnastics,nebraska
+9,Dylan LeClair,"Townsend, Mass.",Brestyan's Gymnastics Academy,N/A,mens gymnastics,nebraska
+10,Austin Lober,"Albuquerque, N.M.",Gold Cup Gymnastics,N/A,mens gymnastics,nebraska
+11,Josh Martin,"Buffalo Grove, Ill.",Aerial Gymnastics Club,N/A,mens gymnastics,nebraska
+12,Zach Peters,"Greenwood, Ind",Deveau?s School of Gymnastics,N/A,mens gymnastics,nebraska
+13,Jonathan Scripnick,"Milton, Ontario",Futures Gymnastics,N/A,mens gymnastics,nebraska
+14,Anton Stephenson,"Fishers, Ind.",Deveau's School of Gymnastics,N/A,mens gymnastics,nebraska
+15,Mitch Tyndall,"Saskatoon, Saskatchewan",Taiso Gymnastics Club,N/A,mens gymnastics,nebraska
+16,Noah Urwiler,"Lincoln, Neb.",Nebraska School of Gymnastics,N/A,mens gymnastics,nebraska
+17,Andrew Zymball,"La Vista, Neb.",Cahoy's,N/A,mens gymnastics,nebraska
 0,Kelli Chung,"Torrance, Calif.",Gym-Max,N/A,womens gymnastics,nebraska
 1,Sienna Crouse,"Fargo, N.D.",American Gold Gymnastics,N/A,womens gymnastics,nebraska
 2,Makayla Curtis,"Savannah, Ga.",Summit Gymnastics,N/A,womens gymnastics,nebraska
@@ -393,206 +414,216 @@
 13,Megan Thompson,"Gilbert, Ariz.",Desert Light Gymnastics,N/A,womens gymnastics,nebraska
 14,Rachel Thompson,"Lincoln, Neb.",Nebraska School of Gymnastics,N/A,womens gymnastics,nebraska
 15,Megan Verceles Carr,"Monte Sereno, Calif.",West Valley Gymnastics School,N/A,womens gymnastics,nebraska
-0,Nicholas Agbede,"Northridge, Calif.",Chaminade College Prep,Men,mixed track,nebraska
-1,Grant Anderson,"Wayne, Neb.",Wayne,Men,mixed track,nebraska
-2,Jace Anderson,"Lincoln, Neb.",Lincoln Southeast,Men,mixed track,nebraska
-3,Bryce Barrett,"Church Hill, Tenn.",Dobyns-Bennett,Men,mixed track,nebraska
-4,Landon Bartel,"Ashland, Mo.",Southern Boone County,Men,mixed track,nebraska
-5,Ryan Bates,"Lincoln, Neb.",Lincoln East,Men,mixed track,nebraska
-6,Sam Bransby,"Naperville, Ill.",Naperville Central,Men,mixed track,nebraska
-7,Kevin Cahoy,"Grand Island, Neb.",Grand Island,Men,mixed track,nebraska
-8,Chance Chrisman,"McCool Junction, Neb.",McCool Junction,Men,mixed track,nebraska
-9,Nick Coghill,"Placentia, Calif.",Valencia,Men,mixed track,nebraska
-10,Kaiwan Culmer,"Placentia, Calif.",Valencia,Men,mixed track,nebraska
-11,Chris Daniels,"Canton, Ohio",McKinley,Men,mixed track,nebraska
-12,Carlos Davis,"Blue Springs, Mo.",Blue Springs,Men,mixed track,nebraska
-13,Khalil Davis,"Blue Springs, Mo.",Blue Springs,Men,mixed track,nebraska
-14,Jordan De Spong,"Dunedin, New Zealand",Southland,Men,mixed track,nebraska
-15,Kino Dunkley,"Black River, Jamaica",Munro College,Men,mixed track,nebraska
-16,Scott Farr,"Logan, Utah",Logan,Men,mixed track,nebraska
-17,Mark Freyhof,"Hamilton, Mich.",Hamilton,Men,mixed track,nebraska
-18,Noah Gabel,"Colorado Springs, Colo.",Vista Ridge,Men,mixed track,nebraska
+0,Jace Anderson,"Lincoln, Neb.",Lincoln Southeast,Men,mixed track,nebraska
+1,Bryce Barrett,"Church Hill, Tenn.",Dobyns-Bennett,Men,mixed track,nebraska
+2,Ryan Bates,"Lincoln, Neb.",Lincoln East,Men,mixed track,nebraska
+3,Dominic Bentil,"Highland, Utah",Lone Peak,Men,mixed track,nebraska
+4,Drake Burton,"Lincoln, Neb.",Milford,Men,mixed track,nebraska
+5,Kevin Cahoy,"Grand Island, Neb.",Grand Island,Men,mixed track,nebraska
+6,Nick Coghill,"Placentia, Calif.",Valencia,Men,mixed track,nebraska
+7,Mayson Conner,"McCool Junction, Neb.",York,Men,mixed track,nebraska
+8,Carlos Davis,"Blue Springs, Mo.",Blue Springs,Men,mixed track,nebraska
+9,Khalil Davis,"Blue Springs, Mo.",Blue Springs,Men,mixed track,nebraska
+10,Jordan De Spong,"Dunedin, New Zealand",Southland,Men,mixed track,nebraska
+11,Ryan Eastman,"Omaha, Neb.",Creighton Prep,Men,mixed track,nebraska
+12,Garrett Elfeldt,"Sutherland, Neb.",Sutherland,Men,mixed track,nebraska
+13,Aubrey Fangmeier,"Hebron, Neb.",Thayer Central,Men,mixed track,nebraska
+14,Scott Farr,"Logan, Utah",Logan,Men,mixed track,nebraska
+15,Sadio Fenner,"Colorado Springs, Colo.",Rampart,Men,mixed track,nebraska
+16,Myles Fleming,"West St. Paul, Minn.",Henry Sibley,Men,mixed track,nebraska
+17,Ryan Flood,"Liberty, Mo.",Liberty,Men,mixed track,nebraska
+18,Mark Freyhof,"Hamilton, Mich.",Hamilton,Men,mixed track,nebraska
 19,Eric Garner,"Lititz, Pa.",Warwick,Men,mixed track,nebraska
-20,Isaiah Griffith,"Detroit, Mich.",Detroit East English,Men,mixed track,nebraska
+20,Darrius Gaw,"Smoky Hill, Colo.",Smoky Hill,Men,mixed track,nebraska
 21,Mason Hericks,"Watertown, S.D.",Watertown,Men,mixed track,nebraska
-22,Jackson Ingram,"Lincoln, Neb.",Lincoln Southeast,Men,mixed track,nebraska
-23,Mark Jarecki,"Columbus, Neb.",Lakeview,Men,mixed track,nebraska
-24,Edward Jeans,"Columbus, Neb.",Lakeview,Men,mixed track,nebraska
-25,Eric Karl II,"Southlake, Texas",Carroll,Men,mixed track,nebraska
-26,Burger Lambrechts Jr.,"Southlake, Texas",Carroll,Men,mixed track,nebraska
-27,Karson LeComte,"Mount Prospect, Ill.",Mt. Prospect,Men,mixed track,nebraska
-28,Grady Leonard,"Coeur d'Alene, Idaho",Coeur d'Alene,Men,mixed track,nebraska
-29,Patrick Letz,"Palos Park, Ill.",Carl Sandburg,Men,mixed track,nebraska
-30,Antoine Lloyd,"Kentwood, Mich.",East Kentwood,Men,mixed track,nebraska
-31,Tyler Loontjer,"Geneva, Neb.",Fillmore Central,Men,mixed track,nebraska
-32,Elijah Lucy,"Oakland, Calif.",Emery,Men,mixed track,nebraska
-33,Noah Lukz,"Long Grove, Ill.",Adlai E. Stevenson,Men,mixed track,nebraska
-34,Ryan Martins,"Green Brook, N.J.",Watchung Hills,Men,mixed track,nebraska
-35,Mike McCann,"Smithtown, N.Y.",Smithtown West,Men,mixed track,nebraska
-36,Wyatt McGuire,"North Platte, Neb.",North Platte,Men,mixed track,nebraska
-37,Mike Mitchell,"Ladera Ranch, Calif.",Tesoro,Men,mixed track,nebraska
-38,Nicholas Mitchell,"Houston, Texas",Ill.),Men,mixed track,nebraska
-39,Tre Mitchell,"Ladera Ranch, Calif.",Tesoro,Men,mixed track,nebraska
-40,Moujtaba Mohammed,"Lincoln, Neb.",North Star,Men,mixed track,nebraska
-41,Ty Moss,"Naperville, Ill.",Neuqua Valley,Men,mixed track,nebraska
-42,Cody Mroczek,"Columbus, Neb.",Scotus Central Catholic,Men,mixed track,nebraska
-43,Andy Neal,"Lincoln, Neb.",Lincoln East,Men,mixed track,nebraska
-44,Vincent Ohlman,"Central City, Neb.",Central City,Men,mixed track,nebraska
-45,Nick Percy,"Ventnor, England",Ryde School with Upper Chine,Men,mixed track,nebraska
-46,Dalton Peters,"Aurora, Neb.",Aurora,Men,mixed track,nebraska
-47,Zach Podraza,"Scripps Ranch, Calif.",Scripps Ranch,Men,mixed track,nebraska
-48,Austin Post,"Omaha, Neb.",Millard West,Men,mixed track,nebraska
-49,Spencer Powell,"McCook, Neb.",McCook,Men,mixed track,nebraska
-50,Dario Robinson,"Los Angeles, Calif.",Cerritos Collegiate,Men,mixed track,nebraska
-51,Jared Seay,"Ankeny, Iowa",Johnston,Men,mixed track,nebraska
-52,Alec Sery,"Woolwich Township, N.J.",Kingsway Regional,Men,mixed track,nebraska
-53,Luke Siedhoff,"Crete, Neb.",Crete,Men,mixed track,nebraska
-54,George Siliman,"Grand Island, Neb.",Grand Island,Men,mixed track,nebraska
-55,Makiyah Smallwood,"Michigan City, Ind.",Michigan City,Men,mixed track,nebraska
-56,Peter Spinks,"Layton, N.J.",Pope John XXIII,Men,mixed track,nebraska
-57,Bailey Timmons,"Lone Tree, Colo.",Rock Canyon,Men,mixed track,nebraska
-58,Alexander Tollinger,"Omaha, Neb.",Omaha Central,Men,mixed track,nebraska
-59,Cale Wagner,"Seward, Neb.",Seward,Men,mixed track,nebraska
-60,Cody Walton,"Forest Lake, Minn.",Forest Lake,Men,mixed track,nebraska
-61,Givon Washington,"Argyle, Texas",Liberty Christian,Men,mixed track,nebraska
-62,Malcolm White,"Katy, Texas",James E. Taylor,Men,mixed track,nebraska
-63,Simon Wiedel,"Hebron, Neb.",Thayer Central,Men,mixed track,nebraska
-64,Michael Williams,"Surprise, Ariz.",Shadow Ridge,Men,mixed track,nebraska
-65,Trey Williams,"Lincoln, Neb.",North Star,Men,mixed track,nebraska
-66,Alice Akers,"Bodyke, Clare, Ireland",Scariff Community School,Women,mixed track,nebraska
-67,Nicole Baker,"Gilbert, Ariz.",Highland,Women,mixed track,nebraska
-68,Jasmine Barge,"Florissant, Mo.",McCluer North,Women,mixed track,nebraska
-69,Kate Birchmier,"Bloomfield, Iowa",Davis County,Women,mixed track,nebraska
-70,Emma Bresser,"Lansing, Kan.",Lansing,Women,mixed track,nebraska
-71,Shelby Brown,"Lincoln, Neb.",Lincoln East,Women,mixed track,nebraska
-72,Rachel Brush,"Waukee, Iowa",Waukee,Women,mixed track,nebraska
-73,Ashleigh Carr,"Oakland, Neb.",Oakland-Craig,Women,mixed track,nebraska
-74,Kendall Cast,"Aurora, Ill.",Metea Valley,Women,mixed track,nebraska
-75,Nicole Colonna,"Los Altos Hills, Calif.",Pinewood,Women,mixed track,nebraska
-76,Reka Czuth,"Pécs, Hungary",Leowey Klára Gimnázium Pécs,Women,mixed track,nebraska
-77,Candice Dominguez,"Ventura, Calif.",Ventura,Women,mixed track,nebraska
-78,Josilyn Dostal,"Naperville, Ill.",Naperville Central,Women,mixed track,nebraska
-79,Kristen Dowell,"Edwardsville, Ill.",Edwardsville,Women,mixed track,nebraska
-80,Sarah Firestone,"Mercersburg, Pa.",Mercersburg Academy,Women,mixed track,nebraska
-81,Elsa Forsberg,"Lincoln, Neb.",Lincoln Southeast,Women,mixed track,nebraska
-82,Chanel Freeman,"Pembroke Pines, Fla.",Hallandale,Women,mixed track,nebraska
-83,Erika Freyhof,"Hamilton, Mich.",Hamilton,Women,mixed track,nebraska
-84,Kierra Griggs,"Chicago Heights, Ill.",Bloom Trail,Women,mixed track,nebraska
-85,Lakayla Harris,"Miami, Fla.",Miami Northwestern,Women,mixed track,nebraska
-86,Haley Harsin,"Syracuse, Neb.",Syracuse,Women,mixed track,nebraska
-87,Maddie Holland,"Madison, Ind.",Madison Consolidated,Women,mixed track,nebraska
-88,Matty Hoskins,"Minden, Neb.",Minden,Women,mixed track,nebraska
-89,Kristina Insingo,"Floral Park, N.Y.",Holy Trinity Diocesan,Women,mixed track,nebraska
-90,Andy Jacobs,"Rochester, Minn.",Rochester Century,Women,mixed track,nebraska
-91,Kaitlynn Johnson,"Omaha, Neb.",Millard West,Women,mixed track,nebraska
-92,Taylor Johnson,"San Jose, Calif.",The King's Academy,Women,mixed track,nebraska
-93,Chelsey Jones,"Mandeville, La.",Mandeville,Women,mixed track,nebraska
-94,Judi Jones,"Lenexa, Kan.",St. James Academy,Women,mixed track,nebraska
-95,Kiara Kearney,"Colorado Springs, Colo.",Rampart,Women,mixed track,nebraska
-96,Diana Lado Andrea,"Lincoln, Neb.",North Star,Women,mixed track,nebraska
-97,Raynesha Lewis,"Cahokia, Ill.",Cahokia,Women,mixed track,nebraska
-98,Tierney Lindner,"Sun Prairie, Wis.",Sun Prairie,Women,mixed track,nebraska
-99,Petra Luteran,"Szarliget, Hungary",Tatabanyai Arpad Gimnazium,Women,mixed track,nebraska
-100,Lillian Markusch,"Englewood, Colo.",Cherry Creek,Women,mixed track,nebraska
-101,Paige McClannan,"Omaha, Neb.",Millard South,Women,mixed track,nebraska
-102,Quashira McIntosh,"Providence, R.I.",Hope,Women,mixed track,nebraska
-103,Angela Mercurio,"Kitchener, Ontario",St. Mary's High School,Women,mixed track,nebraska
-104,Alex Meyer,"Superior, Neb.",Superior,Women,mixed track,nebraska
-105,Leah Meyer,"Superior, Neb.",Superior,Women,mixed track,nebraska
-106,Catherine Mick,"Carleton, Neb.",Bruning-Davenport/Shickley,Women,mixed track,nebraska
-107,Rebecca Moore,"Shorewood, Minn.",Minnetonka,Women,mixed track,nebraska
-108,Lara Omerzu,"Shorewood, Minn.",Minnetonka,Women,mixed track,nebraska
-109,Sydney Otto,"De Pere, Wis.",De Pere,Women,mixed track,nebraska
-110,Anna Peer,"Bettendorf, Iowa",Bettendorf,Women,mixed track,nebraska
-111,Michaela Peskova,"Bettendorf, Iowa",Bettendorf,Women,mixed track,nebraska
-112,Danie Plank,"Gardner, Kan.",Gardner Edgerton,Women,mixed track,nebraska
-113,Tyra Reardon,"St. Edward, Neb.",St. Edward,Women,mixed track,nebraska
-114,Tiani Reeves,"Gothenburg, Neb.",Gothenburg,Women,mixed track,nebraska
-115,McKenna Rezny,"Wilber, Neb.",Wilber-Clatonia,Women,mixed track,nebraska
-116,Shylia Riley,"Omaha, Neb.",Omaha Central,Women,mixed track,nebraska
-117,Katrina Santiago,"Miami, Fla.",John A. Ferguson,Women,mixed track,nebraska
-118,Madi Scholl,"Prior Lake, Minn.",Prior Lake,Women,mixed track,nebraska
-119,Jessi Smith,"Bayard, Neb.",Bayard,Women,mixed track,nebraska
-120,Ally Talpash,"Temecula, Calif.",Great Oak,Women,mixed track,nebraska
-121,Toni Tupper,"Lincoln, Neb.",Lincoln Northeast,Women,mixed track,nebraska
-122,Ieva Turke,"Lincoln, Neb.",Lincoln Northeast,Women,mixed track,nebraska
-123,Shauna Tweedy,"Wahoo, Neb.",Wahoo,Women,mixed track,nebraska
-124,Nicole vonAschwege,"Kearney, Neb.",Kearney,Women,mixed track,nebraska
-125,Eboni Washington,"Trophy Club, Texas",Liberty Christian,Women,mixed track,nebraska
-126,Brittni Wolczyk,"Port Coquitlam, B.C.",Archbishop Carney,Women,mixed track,nebraska
-127,Chase Wolinski,"Lincoln, Neb.",Lincoln Northeast,Women,mixed track,nebraska
-128,Rachel Workentine,"Lincoln, Neb.",Lincoln East,Women,mixed track,nebraska
-129,Madison Yerigan,"Seattle, Wash.",Stanwood,Women,mixed track,nebraska
-0,Ryan Bates,"Lincoln, Neb.",Lincoln East,Men,mixed cross country,nebraska
-1,Jordan De Spong,"Dunedin, New Zealand",Southland,Men,mixed cross country,nebraska
-2,Ryan Eastman,"Omaha, Neb.",Creighton Prep,Men,mixed cross country,nebraska
-3,Sadio Fenner,"Colorado Springs, Colo.",Rampart,Men,mixed cross country,nebraska
-4,Myles Fleming,"West St. Paul, Minn.",Henry Sibley,Men,mixed cross country,nebraska
-5,Ryan Flood,"Liberty, Mo.",Liberty,Men,mixed cross country,nebraska
-6,Mark Freyhof,"Hamilton, Mich.",Hamilton,Men,mixed cross country,nebraska
-7,Eric Karl II,"Southlake, Texas",Carroll,Men,mixed cross country,nebraska
-8,Ryan Kennedy,"Naperville, Ill.",Neuqua Valley,Men,mixed cross country,nebraska
-9,Jacob Korgan,"Temecula, Calif.",Great Oak,Men,mixed cross country,nebraska
-10,George Kusche,"Malelane, South Africa",EC Active Athletics Club,Men,mixed cross country,nebraska
-11,Karson LeComte,"Mount Prospect, Ill.",Mt. Prospect,Men,mixed cross country,nebraska
-12,Ryan Martins,"Green Brook, N.J.",Watchung Hills,Men,mixed cross country,nebraska
-13,Daniel Mattern,"Omaha, Neb.",Creighton Prep,Men,mixed cross country,nebraska
-14,Wyatt McGuire,"North Platte, Neb.",North Platte,Men,mixed cross country,nebraska
-15,Ty Moss,"Naperville, Ill.",Neuqua Valley,Men,mixed cross country,nebraska
-16,Brandon Nelson,"Oswego, Ill.",Oswego,Men,mixed cross country,nebraska
-17,Alec Sery,"Woolwich Township, N.J.",Kingsway Regional,Men,mixed cross country,nebraska
-18,Jack Slagle,"Omaha, Neb.",Creighton Prep,Men,mixed cross country,nebraska
-19,Bailey Timmons,"Lone Tree, Colo.",Rock Canyon,Men,mixed cross country,nebraska
-20,Alexander Tollinger,"Omaha, Neb.",Omaha Central,Men,mixed cross country,nebraska
-21,Katherine Berube,"Edina, Minn.",Edina,Women,mixed cross country,nebraska
-22,Allie Binder,"Auburn, Neb.",Auburn,Women,mixed cross country,nebraska
-23,Gabrielle Boucher,"Lenexa, Kan.",St. James Academy,Women,mixed cross country,nebraska
-24,Emma Bresser,"Lansing, Kan.",Lansing,Women,mixed cross country,nebraska
-25,Rachel Brush,"Waukee, Iowa",Waukee,Women,mixed cross country,nebraska
-26,Nicole Colonna,"Los Altos Hills, Calif.",Pinewood,Women,mixed cross country,nebraska
-27,Aubrey Fangmeier,"Hebron, Neb.",Thayer Central,Women,mixed cross country,nebraska
-28,Elsa Forsberg,"Lincoln, Neb.",Lincoln Southeast,Women,mixed cross country,nebraska
-29,Audrey Freyhof,"Hamilton, Mich.",Hamilton,Women,mixed cross country,nebraska
-30,Erika Freyhof,"Hamilton, Mich.",Hamilton,Women,mixed cross country,nebraska
-31,Madison Fritz,"Overland Park, Kan.",Blue Valley Southwest,Women,mixed cross country,nebraska
-32,Izzabella Guerrero,"Dripping Springs, Texas",Dripping Springs,Women,mixed cross country,nebraska
-33,Haley Harsin,"Syracuse, Neb.",Syracuse,Women,mixed cross country,nebraska
-34,Kaitlynn Johnson,"Omaha, Neb.",Millard West,Women,mixed cross country,nebraska
-35,Judi Jones,"Lenexa, Kan.",St. James Academy,Women,mixed cross country,nebraska
-36,Diana Lado Andrea,"Lincoln, Neb.",North Star,Women,mixed cross country,nebraska
-37,Lillian Markusch,"Englewood, Colo.",Cherry Creek,Women,mixed cross country,nebraska
-38,Mia Morck,"Bagsvaerd, Denmark",Bagsvaerd AC,Women,mixed cross country,nebraska
-39,Grace Pagone,"Oswego, Ill.",Oswego,Women,mixed cross country,nebraska
-40,Maggie Pollard,"Gilbert, Iowa",Gilbert,Women,mixed cross country,nebraska
-41,Jessi Smith,"Bayard, Neb.",Bayard,Women,mixed cross country,nebraska
-42,Ally Talpash,"Temecula, Calif.",Great Oak,Women,mixed cross country,nebraska
-0,Kelly Hunter,"Papillion, Neb.",Papillion-La Vista South,N/A,womens beach volleyball,nebraska
-1,Sami Slaughter,"Harrisburg, S.D.",Harrisburg,N/A,womens beach volleyball,nebraska
-2,Anezka Szabo,"Sioux Falls, S.D.",Lincoln,N/A,womens beach volleyball,nebraska
-3,Jasmine Schmidt,"Sioux Falls, S.D.",Lincoln,N/A,womens beach volleyball,nebraska
-4,Kash Williams,"Lancaster, Calif.",El Camino Real,N/A,womens beach volleyball,nebraska
-5,Chesney McClellan,"Maryville, Tenn.",Maryville,N/A,womens beach volleyball,nebraska
+22,Michael Hoffer,"Tecumseh, Kan.",Shawnee Heights,Men,mixed track,nebraska
+23,Garrison Hughes,"Sidney, Mont.",Sidney,Men,mixed track,nebraska
+24,Isaiah Hutchinson,"Raytown, Mo.",Raytown South,Men,mixed track,nebraska
+25,Jordane Jackson,"Kingston, Jamaica",Kingston College,Men,mixed track,nebraska
+26,James Joycey,"Kew, Victoria, Australia",Xavier College,Men,mixed track,nebraska
+27,Eric Karl II,"Southlake, Texas",Carroll,Men,mixed track,nebraska
+28,Ryan Kennedy,"Naperville, Ill.",Neuqua Valley,Men,mixed track,nebraska
+29,Jacob Korgan,"Temecula, Calif.",Great Oak,Men,mixed track,nebraska
+30,George Kusche,"Malelane, South Africa",Afrikaans Hoër Seunskool,Men,mixed track,nebraska
+31,Jake Lamberth,"Floresville, Texas",Poth,Men,mixed track,nebraska
+32,Burger Lambrechts Jr.,"Floresville, Texas",Poth,Men,mixed track,nebraska
+33,Karson LeComte,"Mount Prospect, Ill.",Mt. Prospect,Men,mixed track,nebraska
+34,Grady Leonard,"Coeur d'Alene, Idaho",Coeur d'Alene,Men,mixed track,nebraska
+35,Tyler Loontjer,"Geneva, Neb.",Fillmore Central,Men,mixed track,nebraska
+36,Elijah Lucy,"Oakland, Calif.",Emery,Men,mixed track,nebraska
+37,Noah Lukz,"Long Grove, Ill.",Adlai E. Stevenson,Men,mixed track,nebraska
+38,Ryan Martins,"Green Brook, N.J.",Watchung Hills,Men,mixed track,nebraska
+39,Wyatt McGuire,"North Platte, Neb.",North Platte,Men,mixed track,nebraska
+40,Jonathan Miller,"Bridgetown, Barbados",St. Michael,Men,mixed track,nebraska
+41,Zach Morrison,"Urbandale, Iowa",Waukee,Men,mixed track,nebraska
+42,Ty Moss,"Naperville, Ill.",Neuqua Valley,Men,mixed track,nebraska
+43,Cody Mroczek,"Columbus, Neb.",Scotus Central Catholic,Men,mixed track,nebraska
+44,Alex Nelson,"Omaha, Neb.",Elkhorn South,Men,mixed track,nebraska
+45,Brandon Nelson,"Oswego, Ill.",Oswego,Men,mixed track,nebraska
+46,Tony Nou,"Viljandi, Estonia",Audentese Spordigumnaasium,Men,mixed track,nebraska
+47,Vincent Ohlman,"Central City, Neb.",Central City,Men,mixed track,nebraska
+48,Dalton Peters,"Aurora, Neb.",Aurora,Men,mixed track,nebraska
+49,Zach Podraza,"Scripps Ranch, Calif.",Scripps Ranch,Men,mixed track,nebraska
+50,Spencer Powell,"McCook, Neb.",McCook,Men,mixed track,nebraska
+51,JP Rethwisch,"Iowa City, Iowa",Iowa City,Men,mixed track,nebraska
+52,Dylan Reynolds,"Broken Bow, Neb.",Broken Bow,Men,mixed track,nebraska
+53,Jared Seay,"Ankeny, Iowa",Johnston,Men,mixed track,nebraska
+54,Jake Sellon,"Fremont, Neb.",Fremont,Men,mixed track,nebraska
+55,Alec Sery,"Woolwich Township, N.J.",Kingsway Regional,Men,mixed track,nebraska
+56,Luke Siedhoff,"Crete, Neb.",Crete,Men,mixed track,nebraska
+57,George Siliman,"Grand Island, Neb.",Grand Island,Men,mixed track,nebraska
+58,Jack Slagle,"Omaha, Neb.",Creighton Prep,Men,mixed track,nebraska
+59,Makiyah Smallwood,"Michigan City, Ind.",Michigan City,Men,mixed track,nebraska
+60,Bailey Timmons,"Lone Tree, Colo.",Rock Canyon,Men,mixed track,nebraska
+61,Alexander Tollinger,"Omaha, Neb.",Omaha Central,Men,mixed track,nebraska
+62,Noah Velinsky,"Omaha, Neb.",Creighton Prep,Men,mixed track,nebraska
+63,Cale Wagner,"Seward, Neb.",Seward,Men,mixed track,nebraska
+64,Givon Washington,"Argyle, Texas",Liberty Christian,Men,mixed track,nebraska
+65,Malcolm White,"Katy, Texas",James E. Taylor,Men,mixed track,nebraska
+66,Simon Wiedel,"Hebron, Neb.",Thayer Central,Men,mixed track,nebraska
+67,Alice Akers,"Bodyke, Clare, Ireland",Scariff Community School,Women,mixed track,nebraska
+68,Beth-el Algarin,"Pierz, Minn.",Pierz,Women,mixed track,nebraska
+69,Nicole Baker,"Gilbert, Ariz.",Highland,Women,mixed track,nebraska
+70,Jasmine Barge,"Florissant, Mo.",McCluer North,Women,mixed track,nebraska
+71,Katherine Berube,"Edina, Minn.",Edina,Women,mixed track,nebraska
+72,Allie Binder,"Table Rock, Neb.",Auburn,Women,mixed track,nebraska
+73,Kate Birchmier,"Bloomfield, Iowa",Davis County,Women,mixed track,nebraska
+74,Gabrielle Boucher,"Lenexa, Kan.",St. James Academy,Women,mixed track,nebraska
+75,Emma Bresser,"Lansing, Kan.",Lansing,Women,mixed track,nebraska
+76,Whitney Bridges,"Moore, Okla.",Southmoore,Women,mixed track,nebraska
+77,Shelby Brown,"Lincoln, Neb.",Lincoln East,Women,mixed track,nebraska
+78,Rachel Brush,"Waukee, Iowa",Waukee,Women,mixed track,nebraska
+79,Nicole Colonna,"Los Altos Hills, Calif.",Pinewood,Women,mixed track,nebraska
+80,Candice Dominguez,"Ventura, Calif.",Ventura,Women,mixed track,nebraska
+81,Josilyn Dostal,"Naperville, Ill.",Naperville Central,Women,mixed track,nebraska
+82,Emily Ellis,"Highland, Utah",Lone Peak,Women,mixed track,nebraska
+83,Elsa Forsberg,"Lincoln, Neb.",Lincoln Southeast,Women,mixed track,nebraska
+84,Chanel Freeman,"Pembroke Pines, Fla.",Hallandale,Women,mixed track,nebraska
+85,Audrey Freyhof,"Hamilton, Mich.",Hamilton,Women,mixed track,nebraska
+86,Erika Freyhof,"Hamilton, Mich.",Hamilton,Women,mixed track,nebraska
+87,Madison Fritz,"Overland Park, Kan.",Blue Valley Southwest,Women,mixed track,nebraska
+88,Kierra Griggs,"Chicago Heights, Ill.",Bloom Trail,Women,mixed track,nebraska
+89,Izzabella Guerrero,"Dripping Springs, Texas",Dripping Springs,Women,mixed track,nebraska
+90,Skylar Hadley,"Loomis, Neb.",Loomis,Women,mixed track,nebraska
+91,Lakayla Harris,"Miami, Fla.",Miami Northwestern,Women,mixed track,nebraska
+92,Ryley Heier,"Sioux Falls, S.D.",Lincoln,Women,mixed track,nebraska
+93,Kiara Hobson,"Omaha, Neb.",Omaha Northwest,Women,mixed track,nebraska
+94,Maddie Holland,"Madison, Ind.",Madison Consolidated,Women,mixed track,nebraska
+95,Matty Hoskins,"Minden, Neb.",Minden,Women,mixed track,nebraska
+96,Johanna Ilves,"Minden, Neb.",Minden,Women,mixed track,nebraska
+97,Deja Ingram,"Florissant, Mo.",Hazelwood Central,Women,mixed track,nebraska
+98,Kristina Insingo,"Floral Park, N.Y.",Holy Trinity Diocesan,Women,mixed track,nebraska
+99,Andy Jacobs,"Rochester, Minn.",Rochester Century,Women,mixed track,nebraska
+100,Kaitlynn Johnson,"Omaha, Neb.",Millard West,Women,mixed track,nebraska
+101,Taylor Johnson,"San Jose, Calif.",The King's Academy,Women,mixed track,nebraska
+102,Chelsey Jones,"Mandeville, La.",Mandeville,Women,mixed track,nebraska
+103,Judi Jones,"Lenexa, Kan.",St. James Academy,Women,mixed track,nebraska
+104,Ellie Koncki,"Hermosa Beach, Calif.",Mira Costa,Women,mixed track,nebraska
+105,Cecelia Leger,"Omaha, Neb.",Omaha Northwest,Women,mixed track,nebraska
+106,Raynesha Lewis,"Cahokia, Ill.",Cahokia,Women,mixed track,nebraska
+107,Petra Luteran,"Szarliget, Hungary",Tatabanyai Arpad Gimnazium,Women,mixed track,nebraska
+108,Quashira McIntosh,"Providence, R.I.",Hope,Women,mixed track,nebraska
+109,Angela Mercurio,"Kitchener, Ontario",St. Mary's High School,Women,mixed track,nebraska
+110,Alex Meyer,"Superior, Neb.",Superior,Women,mixed track,nebraska
+111,Leah Meyer,"Superior, Neb.",Superior,Women,mixed track,nebraska
+112,Catherine Mick,"Carleton, Neb.",Bruning-Davenport/Shickley,Women,mixed track,nebraska
+113,Rebecca Moore,"Shorewood, Minn.",Minnetonka,Women,mixed track,nebraska
+114,Mia Morck,"Bagsvaerd, Denmark",Gefion Gymnasium,Women,mixed track,nebraska
+115,Lara Omerzu,"Bagsvaerd, Denmark",Gefion Gymnasium,Women,mixed track,nebraska
+116,Sydney Otto,"De Pere, Wis.",De Pere,Women,mixed track,nebraska
+117,Grace Pagone,"Oswego, Ill.",Oswego,Women,mixed track,nebraska
+118,Zionn Pearson,"Maryland Heights, Mo.",Mary Institute-County Day School,Women,mixed track,nebraska
+119,Michaela Peskova,"Maryland Heights, Mo.",Mary Institute-County Day School,Women,mixed track,nebraska
+120,Margaret Pollard,"Gilbert, Iowa",Gilbert,Women,mixed track,nebraska
+121,Anna Purchase,"Gilbert, Iowa",Gilbert,Women,mixed track,nebraska
+122,Carlie Queen,"Lee's Summit, Mo.",Summit Christian,Women,mixed track,nebraska
+123,Alexandra Rand,"Blair, Neb.",Blair,Women,mixed track,nebraska
+124,McKenna Rezny,"Wilber, Neb.",Wilber-Clatonia,Women,mixed track,nebraska
+125,Shylia Riley,"Omaha, Neb.",Omaha Central,Women,mixed track,nebraska
+126,Alex Rosenberger,"St. Louis, Mo.",Lindbergh,Women,mixed track,nebraska
+127,Madi Scholl,"Prior Lake, Minn.",Prior Lake,Women,mixed track,nebraska
+128,Jessi Smith,"Bayard, Neb.",Bayard,Women,mixed track,nebraska
+129,Marika Spencer,"Columbus, Neb.",Scotus Central Catholic,Women,mixed track,nebraska
+130,Ally Talpash,"Temecula, Calif.",Great Oak,Women,mixed track,nebraska
+131,Toni Tupper,"Lincoln, Neb.",Lincoln Northeast,Women,mixed track,nebraska
+132,Ieva Turke,"Lincoln, Neb.",Lincoln Northeast,Women,mixed track,nebraska
+133,Nicole vonAschwege,"Kearney, Neb.",Kearney,Women,mixed track,nebraska
+134,Eboni Washington,"Trophy Club, Texas",Liberty Christian,Women,mixed track,nebraska
+135,Jamesha Western,"Lawrenceville, Ill.",Red Hill,Women,mixed track,nebraska
+136,Brittni Wolczyk,"Port Coquitlam, B.C.",Archbishop Carney,Women,mixed track,nebraska
+137,Chase Wolinski,"Lincoln, Neb.",Lincoln Northeast,Women,mixed track,nebraska
+138,Madison Yerigan,"Seattle, Wash.",Stanwood,Women,mixed track,nebraska
+0,Jordan De Spong,"Dunedin, New Zealand",Southland,Men,mixed cross country,nebraska
+1,Ryan Eastman,"Omaha, Neb.",Creighton Prep,Men,mixed cross country,nebraska
+2,Sadio Fenner,"Colorado Springs, Colo.",Rampart,Men,mixed cross country,nebraska
+3,Myles Fleming,"West St. Paul, Minn.",Henry Sibley,Men,mixed cross country,nebraska
+4,Ryan Flood,"Liberty, Mo.",Liberty,Men,mixed cross country,nebraska
+5,Mark Freyhof,"Hamilton, Mich.",Hamilton,Men,mixed cross country,nebraska
+6,Eric Karl II,"Southlake, Texas",Carroll,Men,mixed cross country,nebraska
+7,Ryan Kennedy,"Naperville, Ill.",Neuqua Valley,Men,mixed cross country,nebraska
+8,Jacob Korgan,"Temecula, Calif.",Great Oak,Men,mixed cross country,nebraska
+9,George Kusche,"Malelane, South Africa",Afrikaans Hoër Seunskool,Men,mixed cross country,nebraska
+10,Karson LeComte,"Mount Prospect, Ill.",Mt. Prospect,Men,mixed cross country,nebraska
+11,Ryan Martins,"Green Brook, N.J.",Watchung Hills,Men,mixed cross country,nebraska
+12,Wyatt McGuire,"North Platte, Neb.",North Platte,Men,mixed cross country,nebraska
+13,Brandon Nelson,"Oswego, Ill.",Oswego,Men,mixed cross country,nebraska
+14,Alec Sery,"Woolwich Township, N.J.",Kingsway Regional,Men,mixed cross country,nebraska
+15,Jack Slagle,"Omaha, Neb.",Creighton Prep,Men,mixed cross country,nebraska
+16,Bailey Timmons,"Lone Tree, Colo.",Rock Canyon,Men,mixed cross country,nebraska
+17,Alexander Tollinger,"Omaha, Neb.",Omaha Central,Men,mixed cross country,nebraska
+18,Katherine Berube,"Edina, Minn.",Edina,Women,mixed cross country,nebraska
+19,Allie Binder,"Table Rock, Neb.",Auburn,Women,mixed cross country,nebraska
+20,Gabrielle Boucher,"Lenexa, Kan.",St. James Academy,Women,mixed cross country,nebraska
+21,Emma Bresser,"Lansing, Kan.",Lansing,Women,mixed cross country,nebraska
+22,Rachel Brush,"Waukee, Iowa",Waukee,Women,mixed cross country,nebraska
+23,Nicole Colonna,"Los Altos Hills, Calif.",Pinewood,Women,mixed cross country,nebraska
+24,Elsa Forsberg,"Lincoln, Neb.",Lincoln Southeast,Women,mixed cross country,nebraska
+25,Audrey Freyhof,"Hamilton, Mich.",Hamilton,Women,mixed cross country,nebraska
+26,Erika Freyhof,"Hamilton, Mich.",Hamilton,Women,mixed cross country,nebraska
+27,Madison Fritz,"Overland Park, Kan.",Blue Valley Southwest,Women,mixed cross country,nebraska
+28,Izzabella Guerrero,"Dripping Springs, Texas",Dripping Springs,Women,mixed cross country,nebraska
+29,Kaitlynn Johnson,"Omaha, Neb.",Millard West,Women,mixed cross country,nebraska
+30,Chelsey Jones,"Mandeville, La.",Mandeville,Women,mixed cross country,nebraska
+31,Judi Jones,"Lenexa, Kan.",St. James Academy,Women,mixed cross country,nebraska
+32,Mia Morck,"Bagsvaerd, Denmark",Gefion Gymnasium,Women,mixed cross country,nebraska
+33,Grace Pagone,"Oswego, Ill.",Oswego,Women,mixed cross country,nebraska
+34,Margaret Pollard,"Gilbert, Iowa",Gilbert,Women,mixed cross country,nebraska
+35,Jessi Smith,"Bayard, Neb.",Bayard,Women,mixed cross country,nebraska
+36,Ally Talpash,"Temecula, Calif.",Great Oak,Women,mixed cross country,nebraska
+0,Nicklin Hames,"Knoxville, Tenn.",Webb School,N/A,womens beach volleyball,nebraska
+1,Megan Miller,"Alexandria, Ind.",Alexandria-Monroe,N/A,womens beach volleyball,nebraska
+2,Sami Slaughter,"Harrisburg, S.D.",Harrisburg,N/A,womens beach volleyball,nebraska
+3,Anezka Szabo,"Sioux Falls, S.D.",Lincoln,N/A,womens beach volleyball,nebraska
+4,Brooke Smith,"Weatherford, Texas",Azle/Kansas State,N/A,womens beach volleyball,nebraska
+5,Capri Davis,"Mansfield, Texas",Lake Ridge,N/A,womens beach volleyball,nebraska
 6,Lauren Stivrins,"Scottsdale, Ariz.",Chaparral,N/A,womens beach volleyball,nebraska
-7,Kenzie Maloney,"Louisville, Ky.",Assumption,N/A,womens beach volleyball,nebraska
-8,Jazz Sweet,"Tecumseh, Kan.",Shawnee Heights,N/A,womens beach volleyball,nebraska
-9,Mikaela Foecke,"West Point, Iowa",Holy Trinity Catholic,N/A,womens beach volleyball,nebraska
-10,Allie Havers,"Mattawan, Mich.",Mattawan,N/A,womens beach volleyball,nebraska
-11,Annika Albrecht,"North Aurora, Ill.",Home Schooled,N/A,womens beach volleyball,nebraska
+7,Lexi Sun,"Encinitas, Calif.",Santa Fe Christian,N/A,womens beach volleyball,nebraska
+8,Kenzie Maloney,"Louisville, Ky.",Assumption,N/A,womens beach volleyball,nebraska
+9,Jazz Sweet,"Tecumseh, Kan.",Shawnee Heights,N/A,womens beach volleyball,nebraska
+10,Mikaela Foecke,"West Point, Iowa",Holy Trinity Catholic,N/A,womens beach volleyball,nebraska
+11,Callie Schwarzenbach,"Kearney, Mo.",Kearney,N/A,womens beach volleyball,nebraska
 12,Hayley Densberger,"Malcolm, Neb.",Malcolm,N/A,womens beach volleyball,nebraska
-0,Michelle Guarro,"Guadalajara, Mexico",Lincoln School,N/A,womens bowling,nebraska
-1,Kelly Huddleston,"Papillion, Neb.",Papillion-La Vista South,N/A,womens bowling,nebraska
-2,Allison Morris,"Ann Arbor, Mich.",Ann Arbor Huron,N/A,womens bowling,nebraska
-3,Raquel Orozco,"Tijuana, Mexico",Colegio CADI,N/A,womens bowling,nebraska
-4,Estefania Prieto,"Bogota, Colombia",Buckingham School,N/A,womens bowling,nebraska
-5,Cassidy Ray,"Herrin, Ill.",Herrin,N/A,womens bowling,nebraska
-6,Meghan Straub,"Lincoln, Neb.",Lincoln Pius X,N/A,womens bowling,nebraska
-0,Mari Butler,"Casselton, N.D.",Buffalo Sharpshooters,N/A,womens rifle,nebraska
-1,Emily Cheramie,"Georgetown, Ky.",Bluegrass Rifle Club,N/A,womens rifle,nebraska
-2,Elizabeth Ewert,"Burnsville, Minn.",Minnesota Centershots,N/A,womens rifle,nebraska
-3,Kayla Gadeken,"Seward, Neb.",10X 4-H Club,N/A,womens rifle,nebraska
-4,Maddie Korthas,"Belgrade, Mont.",Gallatin Valley Sharpshooters,N/A,womens rifle,nebraska
-5,Samantha Peterson,"Ham Lake, Minn.",Minnesota Centershots,N/A,womens rifle,nebraska
-6,Nina Radulovic,"Belgrade, Serbia",Novi Sad 1790,N/A,womens rifle,nebraska
-7,Sarah Sutton,"Oak Harbor, Ohio",Black Swamp Junior Rifle Club,N/A,womens rifle,nebraska
-8,Hannah Virga,"Oak Harbor, Ohio",Black Swamp Junior Rifle Club,N/A,womens rifle,nebraska
-9,Rachel Yager,"Oak Harbor, Ohio",Black Swamp Junior Rifle Club,N/A,womens rifle,nebraska
+0,Alexa Fernández,"San José, Costa Rica",Marian Baker School,N/A,womens bowling,nebraska
+1,Michelle Guarro,"Guadalajara, Mexico",Lincoln School,N/A,womens bowling,nebraska
+2,Kendyl Hofmeister,"Essexville, Mich.",Garber,N/A,womens bowling,nebraska
+3,Brynn Lambrecht,"Belvidere, Ill.",Belvidere North High School,N/A,womens bowling,nebraska
+4,Gwen Maeha,"Wahiawa, Hawaii",Leilehua,N/A,womens bowling,nebraska
+5,Allison Morris,"Ann Arbor, Mich.",Ann Arbor Huron,N/A,womens bowling,nebraska
+6,Raquel Orozco,"Tijuana, Mexico",Colegio CADI,N/A,womens bowling,nebraska
+7,Estefania Prieto,"Bogota, Colombia",Buckingham School,N/A,womens bowling,nebraska
+8,Cassidy Ray,"Herrin, Ill.",Herrin,N/A,womens bowling,nebraska
+9,Meghan Straub,"Lincoln, Neb.",Lincoln Pius X,N/A,womens bowling,nebraska
+0,Kinga Aletto,"Lincoln, Neb.",Lincoln Pius X,N/A,womens rifle,nebraska
+1,Mari Butler,"Casselton, N.D.",Buffalo Sharpshooters,N/A,womens rifle,nebraska
+2,Emily Cheramie,"Georgetown, Ky.",Bluegrass Rifle Club,N/A,womens rifle,nebraska
+3,Elizabeth Ewert,"Burnsville, Minn.",Minnesota Centershots,N/A,womens rifle,nebraska
+4,Elena Flake,"Burnsville, Minn.",Minnesota Centershots,N/A,womens rifle,nebraska
+5,Kayla Gadeken,"Seward, Neb.",10X 4-H Club,N/A,womens rifle,nebraska
+6,Maddie Korthas,"Belgrade, Mont.",Gallatin Valley Sharpshooters,N/A,womens rifle,nebraska
+7,Elizabeth Lorentz,"Belgrade, Mont.",Gallatin Valley Sharpshooters,N/A,womens rifle,nebraska
+8,Samantha Peterson,"Ham Lake, Minn.",Minnesota Centershots,N/A,womens rifle,nebraska
+9,Bailey Powell,"Ham Lake, Minn.",Minnesota Centershots,N/A,womens rifle,nebraska
+10,Nina Radulovic,"Belgrade, Serbia",Novi Sad 1790,N/A,womens rifle,nebraska
+11,Sarah Sutton,"Oak Harbor, Ohio",Black Swamp Junior Rifle Club,N/A,womens rifle,nebraska
+12,Hannah Virga,"Oak Harbor, Ohio",Black Swamp Junior Rifle Club,N/A,womens rifle,nebraska
+13,Rachel Yager,"Oak Harbor, Ohio",Black Swamp Junior Rifle Club,N/A,womens rifle,nebraska

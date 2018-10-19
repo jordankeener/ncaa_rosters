@@ -11,8 +11,8 @@ outdir = '../output'
 
 ##### georgia tech #################
 school = 'georgia_tech'
-url_template = 'http://www.ramblinwreck.com/sports/{sporturl}/mtt/geot-{sporturl}-mtt.html'
-tableid_template = 'sortable_roster'
+url_template = 'http://ramblinwreck.com/sports/{sporturl}/roster/'
+tableid_template = 'roster_sort'
 
 # bring in sports dictionary (sports: empty list)
 sports_dict = lookups.get_sports_dict()
@@ -24,8 +24,8 @@ sports_dict['mens cross country'] = ['m-xc']
 sports_dict['womens cross country'] = ['w-xc']
 sports_dict['baseball'] = ['m-basebl']
 sports_dict['mens golf'] = ['m-golf']
-sports_dict['mens swimming'] = ['c-swim']
-sports_dict['womens swimming'] = ['c-swim']
+# sports_dict['mens swimming'] = ['c-swim']
+# sports_dict['womens swimming'] = ['c-swim']
 sports_dict['mens tennis'] = ['m-tennis']
 sports_dict['womens tennis'] = ['w-tennis']
 sports_dict['mens track'] = ['m-track']

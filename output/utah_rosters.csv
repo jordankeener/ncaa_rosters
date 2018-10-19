@@ -1,12 +1,12 @@
 ,name,hometown,high school?,sport,college
-0,Sedrick Barefield,"Corona, Calif.",SMU,mens basketball,utah
+0,Naseem Gaskin,"Oakland, Calif.",Bishop O'Dowd High School,mens basketball,utah
 1,"Charles Jones, Jr.","Portland, Ore.",College of Southern Idaho,mens basketball,utah
-2,Naseem Gaskin,"Oakland, Calif.",Bishop O'Dowd High School,mens basketball,utah
+2,Sedrick Barefield,"Corona, Calif.",SMU,mens basketball,utah
 3,Donnie Tillman,"Detroit, Mich.",Findlay Prep,mens basketball,utah
 4,Parker Van Dyke,"Salt Lake City, Utah",East High School,mens basketball,utah
 5,Christian Popoola,"Las Vegas, Nev.",Bishop Gorman High School,mens basketball,utah
 6,Both Gach,"Austin, Minn.",Arizona Compass Prep,mens basketball,utah
-7,Novak Topolavic,"Nis, Serbia",Idaho State,mens basketball,utah
+7,Novak Topalovic,"Nis, Serbia",Idaho State,mens basketball,utah
 8,Vante Hendrix,"Woodland Hills, Calif.",Birmingham High School,mens basketball,utah
 9,Kevin Kremer,"Chico, Calif.",Pleasant Valley High School,mens basketball,utah
 10,Timmy Allen,"Mesa, Ariz.",Red Mountain High School,mens basketball,utah
@@ -14,7 +14,7 @@
 12,Beau Rydalch,"Oakley, Utah",South Summit High School,mens basketball,utah
 13,Brooks King,"Boise, Idaho",Centennial High School,mens basketball,utah
 14,Brandon Morley,"South Jordan, Utah",Salt Lake Community College,mens basketball,utah
-15,Lahat Thioune,"Dekar, Senegal",Florida Prep,mens basketball,utah
+15,Lahat Thioune,"Dakar, Senegal",Florida Prep,mens basketball,utah
 16,Jayce Johnson,"Mission Viejo, Calif.",Santa Monica High School,mens basketball,utah
 17,Marc Reininger,"Monument, Colo.",Regis Jesuit High School,mens basketball,utah
 18,Kiana Moore,"Fairfield, Calif.",N/A,womens basketball,utah
@@ -31,402 +31,437 @@
 29,Sarah Porter,"San Diego, Calif.",UC Santa Barbara,womens basketball,utah
 30,Ola Makurat,"Sierakowice, Poland",Liberty,womens basketball,utah
 31,Dre'Una Edwards,"Las Vegas, Nev.",N/A,womens basketball,utah
-32,Brett Brocoff,"Las Vegas, Nev.",Desert Oasis HS,baseball,utah
-33,Davis  Delorefice,"Fairfield, Calif.",Rodriguez HS,baseball,utah
+32,Briley Knight,"Corvallis, OR",Crescent Valley HS,baseball,utah
+33,Tyler Thompson,"Highland, UT",Lone Peak HS,baseball,utah
 34,Oliver Dunn,"Salt Lake City, Utah",Cottonwood HS,baseball,utah
 35,Matt Richardson,"San Diego, Calif.",Helix HS,baseball,utah
 36,Isaac Cruz,"Fremont, Calif.",Ohlone College,baseball,utah
 37,Dominic Foscalina,"Livermore, Calif.",Livermore HS,baseball,utah
-38,Wade Gulden,"Redding, Calif.",Shasta HS,baseball,utah
+38,Jay Onken,"Colorado Springs, CO",Pine Creek HS,baseball,utah
 39,Rykker  Tom,"Cedar City, Utah",San Diego,baseball,utah
 40,Riley Pierce,"Salem, Utah",Salem Hills HS,baseball,utah
-41,Trenton Stoltz,"Phoenix, Ariz.",Paradise Valley HS,baseball,utah
+41,Ben Guess,"Arcadia, CA",Marantha HS,baseball,utah
 42,Kyle Robeniol,"Rancho Cucamonga, Calif.",Orange Coast College,baseball,utah
 43,Ian MacIver,"Pleasant Hill, Calif.",College Park HS,baseball,utah
-44,Erick Migueles,"Tucson, Ariz.",Pima CC,baseball,utah
+44,Shea Kramer,"Vacaville, Calif.",Vacaville HS,baseball,utah
 45,Chandler Anderson,"Park City, Utah",Park City HS,baseball,utah
-46,Demitri Colacchio,"Aliso Viejo, Calif.",Aliso Niguel HS,baseball,utah
-47,Tanner Thomas,"Aurora, Colo.",Grandview HS,baseball,utah
+46,Christian Almanza,"Stockton, CA",Saint Mary's HS,baseball,utah
+47,John Liffrig,"Highlands Ranch, CO",Mountain Vista HS,baseball,utah
 48,Isaac Deveaux,"Montreal, Quebec, Canada",Cégep Édouard-Montpetit,baseball,utah
-49,"DaShawn       Keirsey, Jr.","San Diego, Calif.",Helix Charter HS,baseball,utah
+49,Chase Fernlund,"Baker City, OR",Feather River College,baseball,utah
 50,Joshua Tedeschi,"Goleta, Calif.",Dos Pueblos HS,baseball,utah
 51,"Christopher Rowan, Jr.","Ogden, Utah",Cottonwood HS,baseball,utah
-52,Spencer Kevin Johnson,"Syracuse, Utah",College of Southern Idaho,baseball,utah
-53,Shea Kramer,"Vacaville, Calif.",Vacaville HS,baseball,utah
-54,Spencer Johnson,"Walnut Creek, Calif.",Northgate HS,baseball,utah
-55,Zack Moeller,"Hollister, Calif.",San Benito HS,baseball,utah
-56,Austin Moore,"Huntington Beach, Calif.",Orange Coast College,baseball,utah
-57,Zach Patterson,"Livermore, Calif.",Granada HS,baseball,utah
-58,Justin Kelly,"West Jordan, Utah",Copper Hills HS,baseball,utah
-59,Jacob Rebar,"Tracy, Calif.",West HS,baseball,utah
-60,Josh Lapiana,"Pittsburgh, Pa.",Akron,baseball,utah
-61,Braden DeBenedictis,"Taylorsville, Utah",Taylorsville HS,baseball,utah
-62,Ashton Goddard,"Laguna Beach, Calif.",Laguna Beach HS,baseball,utah
-63,Philip Afia,"Chino Hills, Calif.",Ayala HS,football,utah
-64,Jordan  Agasiva,"Kalihi, Hawaii",Pima CC,football,utah
-65,Aaron Amaama,"Kearns, Utah",Bingham HS,football,utah
-66,Bradlee Anae,"Laie, Hawaii",Kahuku HS,football,utah
-67,Moroni Anae,"San Diego, Calif.",Riverside CC,football,utah
-68,Stone Azarcon,"Draper, Utah",Juan Diego HS,football,utah
-69,Corrion Ballard,"Houston, Texas",Blinn College,football,utah
-70,London Bartholomew,"Mesa, Ariz.",Ohio Wesleyan,football,utah
-71,Cody Barton,N/A,N/A,football,utah
-72,Jackson Barton,N/A,N/A,football,utah
-73,Julian  Blackmon,"Layton, Utah",Layton HS,football,utah
-74,Marquise Blair,"Wooster, Ohio",Dodge City CC,football,utah
-75,Bronson Boyd,"Arlington, Texas",Texas Tech,football,utah
-76,Devin Brumfield,"Covington, La.",Covington HS,football,utah
-77,Terrell Burgess,"San Marcos, Calif.",San Marcos HS,football,utah
-78,Johnny Capra,"Auburn, Calif.",Placer HS,football,utah
-79,Britain Covey,"Provo, Utah",Timpview HS,football,utah
-80,Jackson  Cravens,"Provo, Utah",Timpview HS,football,utah
-81,Braeden E. Daniels,"Carrollton, Texas",Hebron HS,football,utah
-82,Vonte Davis,"Rosenberg, Texas",Blinn College,football,utah
-83,Jaylen  Dixon,"Frisco, Texas",Lone Star HS,football,utah
-84,Keven Dixon,"Buena Park, Calif.",Buena Park HS,football,utah
-85,Samu Elisaia,"South Jordan, Utah",Snow College,football,utah
-86,Solomon Enis,"Phoenix, Ariz.",North Canyon HS,football,utah
-87,Quinn Fabrizio,"Sandy, Utah",Alta HS,football,utah
-88,Bapa Falemaka,"Grantsville, Utah",Judge Memorial HS,football,utah
-89,Lo Falemaka,"West Valley City, Utah",Cottonwood HS,football,utah
-90,Jameson Field,"Long Beach, Calif.",Mater Dei HS,football,utah
-91,Nick Ford,"San Pedro, Calif.",San Pedro HS,football,utah
-92,Cole Fotheringham,"San Clemente, Calif.",San Clemente HS,football,utah
-93,David Fotu,"Herriman, Utah",Herriman HS,football,utah
-94,Leki Fotu,"West Valley City, Utah",Herriman HS,football,utah
-95,Matt Gay,"Orem, Utah",Utah Valley,football,utah
-96,Jake Grant,"Scottsdale, Ariz.",Horizon HS,football,utah
-97,TJ Green,"Chandler, Ariz.",Chandler HS,football,utah
-98,Javelin K.  Guidry,"Murrieta, Calif.",Vista Murrieta HS,football,utah
-99,Connor Haller,N/A,N/A,football,utah
-100,Davir Hamilton,"Compton, Calif.",Long Beach Poly HS,football,utah
-101,Chase Hansen,"Highland, Utah",Lone Peak HS,football,utah
-102,Zach Hansen,"Springville, Utah",Springville HS,football,utah
-103,Chris Hart,"Fort Lauderdale, Fla.",St. Thomas Aquinas HS,football,utah
-104,Alani Havili-Katoa,"Stansbury Park, Utah",Stansbury HS,football,utah
-105,Malik Haynes,"Hauula, Hawaii",Ventura College,football,utah
-106,Nick Heninger,"South Jordan, Utah",Bingham HS,football,utah
-107,Devonta'e Henry-Cole,"Boca Raton, Fla.",St. Thomas Aquinas HS,football,utah
-108,R.J. Hubert,"Logandale, Nev.",Moapa Valley HS,football,utah
-109,Tyler Huntley,"Dania, Fla.",Hallandale HS,football,utah
-110,Jake Jackson,"Encinitas, Calif.",La Costa Canyon HS,football,utah
-111,Batchlor Johnson,"Katy, Texas",Brigham Young,football,utah
-112,Jaylon Johnson,"Fresno, Calif.",Central East HS,football,utah
-113,Chayden Johnston,"South Jordan, Utah",Bingham HS,football,utah
-114,Rex Jordan,"Stone Mountain, Ga.",Mt. San Jacinto College,football,utah
-115,Nygel King,"Tomball, Texas",Klein Oak HS,football,utah
-116,Blake  Kuithe,"Katy, Texas",Cinco Ranch HS,football,utah
-117,Brant Kuithe,"Katy, Texas",Cinco Ranch HS,football,utah
-118,Kyle Lanterman,"Long Beach, Calif.",Woodrow Wilson HS,football,utah
-119,Tareke Lewis,"Palatka, Fla.",Riverside CC,football,utah
-120,Drew Lisk,"Draper, Utah",Jordan HS,football,utah
-121,Devin Lloyd,"Chula Vista, Calif.",Otay Ranch HS,football,utah
-122,Sione Lund,"Holladay, Utah",Stanford,football,utah
-123,Paul Maile,"Salt Lake City, Utah",East HS,football,utah
-124,Siaosi Mariner,"Tustin, Calif.",Tustin HS,football,utah
-125,Andrew Mata'afa,"San Diego, Calif.",Mt. Carmel HS,football,utah
-126,Malone Mataele,"Placentia, Calif.",Santa Margarita Catholic HS,football,utah
-127,Jaxson McBride,"Bountiful, Utah",Woods Cross HS,football,utah
-128,Simi Moala,"Hawthorne, Calif.",Cathedral HS,football,utah
-129,Viane Moala,"Ili’ili, American Samoa",Hawaii,football,utah
-130,Zack Moss,"Hialeah Gardens, Fla.",Hallandale HS,football,utah
-131,Samson Nacua,"Provo, Utah",Timpview HS,football,utah
-132,Alassane Niang,N/A,N/A,football,utah
-133,Ali'i Niumatalolo,"Annapolis, Md.",Broadneck HS,football,utah
-134,Josh Nurse,"Fayetteville, Ga.",Blinn College,football,utah
-135,Darrin Paulo,"Sacramento, Calif.",Grant HS,football,utah
-136,John Penisini,"West Jordan, Utah",Snow College,football,utah
-137,Terrell Perriman,"Miami, Fla.",Miami Central HS,football,utah
-138,Riley Phillips,"American Fork, Utah",American Fork HS,football,utah
-139,Bryant Pirtle,"Louisville, Ky.",Pima CC,football,utah
-140,Fua Pututau,"Salt Lake City, Utah",Cottonwood HS,football,utah
-141,Hauati Pututau,N/A,N/A,football,utah
-142,Caleb Repp,"Rancho Cucamonga, Calif.",Los Osos HS,football,utah
-143,Noah Rodriguez-Trammell,"Van Nuys, Calif.",Notre Dame HS,football,utah
-144,Tucker Scott,"San Clemente, Calif.",San Clemente HS,football,utah
-145,Jason  Shelley,"Little Elm, Texas",Lone Star HS,football,utah
-146,Armand Shyne,"Oakland, Calif.",American River College,football,utah
-147,Demari Simpkins,"Carol City, Fla.",Hallandale HS,football,utah
-148,Dylan Slavens,"Springville, Utah",Springville HS,football,utah
-149,Tyrone Smith,"Fresno, Calif.",Edison HS,football,utah
-150,Tré Strong,"Billings, Mont.",Montana State,football,utah
-151,Mika Tafua,"Laie, Hawaii",Kamehameha HS,football,utah
-152,Bryan  Thompson,"Moreno Valley, Calif.",Rancho Verde HS,football,utah
-153,Donavan Thompson,"Miami, Fla.",Miami Central HS,football,utah
-154,Paul Toala,"Burien, Wash.",Dixie State College,football,utah
-155,Pita Tonga,"Taylorsville, Utah",Highland HS,football,utah
-156,Maxs Tupai,"Taylorsville, Utah",Murray HS,football,utah
-157,Austin Turley,"Las Vegas, Nev.",Centennial HS,football,utah
-158,Jack Tuttle,"San Marcos, Calif.",Mission Hills HS,football,utah
-159,Orlando Umana,"Sacramento, Calif.",Grant HS,football,utah
-160,Mo Unutoa,"Kapaa, Hawaii",Kapaa HS,football,utah
-161,Stratten  Wagner,"Lindon, Utah",Snow College,football,utah
-162,Mitch Wishnowsky,"Perth, Australia",Santa Barbara College,football,utah
-163,Joey Wood,"Los Gatos, Calif.",College of San Mateo,football,utah
-164,Mason Woodward,"West Point, Utah",Syracuse HS,football,utah
-165,Thomas Yassmin,"New South Wales, Australia",The Scots College,football,utah
-166,Makayla  Christensen,"Meridian, Idaho",Centennial HS,womens soccer,utah
-167,SaraJean Edwards,"Albany, Ore.",West Albany HS,womens soccer,utah
-168,Carly Nelson,N/A,N/A,womens soccer,utah
-169,Tavia Leachman,"Long Beach, Calif.",Long Beach Poly                                        HS,womens soccer,utah
-170,LuLu Borges,"Layton, Utah",Layton HS,womens soccer,utah
-171,Jessica  Hixson,"Englewood, Colo.",Grandview HS,womens soccer,utah
-172,Haylee Cacciacarne,"Layton, Utah",Davis HS,womens soccer,utah
-173,Hanna Olsen,"Sandy, Utah",Brighton HS,womens soccer,utah
-174,Liberty Taylor,"Poway, Calif.",Poway HS,womens soccer,utah
-175,Kristin Fairbairn,"Surrey, British Columbia",Elgin Park Secondary,womens soccer,utah
-176,Aleea Gwerder,"Enumclaw, Wash.",Enumclaw HS,womens soccer,utah
-177,Demi Lopez,"Logan, Utah",Logan HS,womens soccer,utah
-178,Max Flom,"Littleton, Colo.",D'Evelyn HS,womens soccer,utah
-179,Holly Daugirda,"Salt Lake City, Utah",Skyline HS,womens soccer,utah
-180,Zona Kinnaman,"Nampa, Idaho",Columbia HS,womens soccer,utah
-181,Paola van der Veen,"Leidschendam, Netherlands",Inholland  Hogeschool,womens soccer,utah
-182,Brianna Pearson,"Corona, Calif.",Norco HS,womens soccer,utah
-183,Cameron Tingey,"Sammamish, Wash.",Skyline HS,womens soccer,utah
-184,Hailey Stodden,"Broomfield, Colo.",Broomfield HS,womens soccer,utah
-185,Natalie Kump,"Calgary, Alberta",Edge School for                                        Athletes,womens soccer,utah
-186,Hailey Skolmoski,"Riverton, Utah",Riverton HS,womens soccer,utah
-187,Tatum Thornton,"Sammamish, Wash.",Eastlake HS,womens soccer,utah
-188,Ireland Dunn,"Kaysville, Utah",Davis HS,womens soccer,utah
-189,Anna Escobedo,"Holladay, Utah",Olympus HS,womens soccer,utah
-190,Payton Stiles,"Colbert, Wash.",Mount Spokane HS,womens soccer,utah
-191,Emali Mackinnon,"Hillcrest, Calif.",Cathedral Catholic HS,womens soccer,utah
-192,Kate Hinckley,"College Station, Texas",College Station HS,womens soccer,utah
-193,Hillary  Noakes,"Rockford, Ill.",Rockford Christian HS,womens soccer,utah
-194,Brooklyn  James,"Clackamas, Ore.",Clackamas HS,womens soccer,utah
-195,Haley Farrar,"Salt Lake City, Utah",East HS,womens soccer,utah
-196,Hannah Allred,"Ogden, Utah",Ogden HS,womens cross country,utah
-197,Aubrey Argyle,"Kaysville, Utah",Davis HS,womens cross country,utah
-198,Anna Busatto,"Treviso, Italy",Liceo Statale,womens cross country,utah
-199,Emma Christensen,"Rochester, Minn.",John Marshall HS,womens cross country,utah
-200,Shaylen Crook,"Coos Bay, Ore.",Marshfield HS,womens cross country,utah
-201,Emma Earl,"Salt Lake City, Utah",East HS,womens cross country,utah
-202,Caitlin Faust,"Stone Mountain, Ga.",Marist School,womens cross country,utah
-203,Amanda Gehrich,"Trabuco Canyon, Calif.",Tesoro HS,womens cross country,utah
-204,Nicole Griffiths,"Beaverton, Ore.",Sunset HS,womens cross country,utah
-205,Dakota Grossman,"Haiku, Hawaii",Seabury Hall HS,womens cross country,utah
-206,Ashley Licata,"Mission Viejo, Calif.",Capistrano Valley HS,womens cross country,utah
-207,Astrid Lindgren,"Salt Lake City, Utah",Rowland Hall,womens cross country,utah
-208,Hannah McInturff,"Pocatello, Idaho",Century HS,womens cross country,utah
-209,Louise Mercer,"Edinburgh, Scotland",University of Edinburgh,womens cross country,utah
-210,Trina Moreno,"Urbandale, Iowa",Urbandale HS,womens cross country,utah
-211,Jade Mulvey,"Salt Lake City, Utah",Skyline HS,womens cross country,utah
-212,Grayson Murphy,"Salt Lake City, Utah",Santa Clara,womens cross country,utah
-213,Natalie Platil,"Thornton, Colo.",Horizon HS,womens cross country,utah
-214,Jessica Sams,"Ogden, Utah",Ogden HS,womens cross country,utah
-215,Megan Spehar,"Bountiful, Utah",Bountiful HS,womens cross country,utah
-216,Melissa  Taggart,"Woodbridge, Conn.",Amity HS,womens cross country,utah
-217,Poppy Tank,"Plymouth, Devon, England",Plymouth College,womens cross country,utah
-218,Sadie Wassum,"Worland, Wyo.",Worland HS,womens cross country,utah
-219,Bella Williams,"Digby, England",Kesteven and Sleaford HS,womens cross country,utah
-220,Cara  Woolnough,"Brisbane, Australia",All Hallow's School,womens cross country,utah
-221,Dylan Chugg,"Ogden, Utah",Fremont High School,mens golf,utah
-222,Jordan Costello,"Pinedale, Wyo.",Pinedale High School,mens golf,utah
-223,Kyler Dunkle,"Larkspur, Colo.",Douglas County High School,mens golf,utah
-224,Axel Einarsson,"Ludvika, Sweden",N/A,mens golf,utah
-225,Peyton Hastings,"Bountiful, Utah",Woods Cross High School,mens golf,utah
-226,Tristan Mandur,"Mill Bay, British Columbia, Canada",Shawnigan Lake School,mens golf,utah
-227,Oscar Maxfield,"Salt Lake City, Utah",Highland High School,mens golf,utah
-228,Mitchell Schow,"Ogden, Utah",Park City High School,mens golf,utah
-229,Colton Tanner,"Park City, Utah",International Junior Golf Academy (S.C.),mens golf,utah
-230,Blake Tomlinson,"Salt Lake City, Utah",Skyline High School,mens golf,utah
-231,Jonathan Wijono,"Surabaya, Indonesia",N/A,mens golf,utah
-232,Cole Avery,"Bellingham, Wash.",Sehome HS,mens swimming,utah
-233,Jacob  Bares,"Lafayette, La.",Lafayette HS,mens swimming,utah
-234,Jack Burton,"Ringwood, England",Plymouth College,mens swimming,utah
-235,Fernando Cervantes,"Guadalajara, Mexico",Woodrow Wilson HS,mens swimming,utah
-236,Felix Chiun,"Cupertino, Calif.",Monta Vista HS,mens swimming,utah
-237,Rahiti De Vos,"Nice, France",Don Bosco HS,mens swimming,utah
-238,Ethan Dillard,"Folsom, Calif.",Oak Ridge HS,mens swimming,utah
-239,David Fridlander,"Netanya, Israel",ORT Leibowitz,mens swimming,utah
-240,Robert King,"Dallas, Texas",Highland Park HS,mens swimming,utah
-241,Peter Kotson,"Helena, Mont.",Helena HS,mens swimming,utah
-242,Brody Lewis,"Greeley, Colo.",Greeley West HS,mens swimming,utah
-243,Nathan Makarewicz,"Salt Lake City, Utah",West HS,mens swimming,utah
-244,Daniel McArthur,"Lakewood, Calif.",Lakewood HS,mens swimming,utah
-245,Colten Montgomery,"Winters, Calif.",Winters HS,mens swimming,utah
-246,Rodolfo  Moreira,"Sao Paulo, Brazil",N/A,mens swimming,utah
-247,Liam  O'Haimhirgin,"Fair Oaks, Calif.",Bella Vista HS,mens swimming,utah
-248,Jenner Pennock,"Temecula, Calif.",Great Oak HS,mens swimming,utah
-249,Austin Phillips,"Centennial, Colo.",Regis Jesuit HS,mens swimming,utah
-250,Calvin Rogers,"Huntington Beach, Calif.",Edison HS,mens swimming,utah
-251,Ben Scott,"Steilacoom, Wash.",Steilacoom HS,mens swimming,utah
-252,Brandon Shreeve,"Corvallis, Ore.",Corvallis HS,mens swimming,utah
-253,Matteo Sogne,"Modena, Italy",Liceo Scientifico Aldo Moro,mens swimming,utah
-254,Clay  Stoddard,"Phoenix, Ariz.",Arcadia HS,mens swimming,utah
-255,Chris Taber,"Rancho Santa, Calif.",Santa Margarita Catholic School,mens swimming,utah
-256,Ganem Tebet,"Murrieta, Calif.",Murrieta Valley HS,mens swimming,utah
-257,Daniel Theriault,"Winnipeg, Manitoba, Canada",Home Schooled,mens swimming,utah
-258,Grant  Thompson,"Austin, Texas",Fusion Academy,mens swimming,utah
-259,Paul Ungur,"Baia Mare, Romania",Emil Racovita,mens swimming,utah
-260,Jeremy Young,"Casper, Wyo.",Walsh HS,mens swimming,utah
-261,Mallori Allen,"Dallas, Texas",Frisco HS,womens swimming,utah
-262,Jordan Anderson,"Granite Bay, Calif.",Granite Bay HS,womens swimming,utah
-263,Shayla Archer,"Bainbridge Island, Wash.",Bainbridge HS,womens swimming,utah
-264,Emma  Broome,"Scottsdale, Ariz.",Chaparral  HS,womens swimming,utah
-265,Dorien Butter,"Cairo, Egypt",Cairo American College,womens swimming,utah
-266,Ianire Casarin,"Villorba, Italy",Liceo Linguistico Paritario,womens swimming,utah
-267,Makenzie Caufield,"Reno, Nev.",Bishop Manogue HS,womens swimming,utah
-268,Madison Cock,"Silverton, Ore.",Silverton HS,womens swimming,utah
-269,Gabby  Fagan,"Scottsdale, Ariz.",Chaparral HS,womens swimming,utah
-270,Kenzie  Ford,"Eagle Mountain, Utah",Westlake HS,womens swimming,utah
-271,Nicole Ford,"Mission Viejo, Calif.",Capistrano Valley Christian HS,womens swimming,utah
-272,Mariah Gassaway,"Bountfiul, Utah",Viewmont HS,womens swimming,utah
-273,Mandy Gebhart,"Boulder City, Nev.",Boulder City HS,womens swimming,utah
-274,Clare Greenlow,"Menlo Park, Calif.",Saint Francis HS,womens swimming,utah
-275,Grace Horvath,"Phoenix, Ariz.",Mountain Pointe HS,womens swimming,utah
-276,Claire Jackson,"West Valley City, Utah",Hunter HS,womens swimming,utah
-277,Megan Kawaguchi,"Normandy Park, Wash.",Mount Rainier HS,womens swimming,utah
-278,Isabella Kearns,"La Mirada, Calif.",Rosary HS,womens swimming,utah
-279,McKenna  King,"American Fork, Utah",American Fork HS,womens swimming,utah
-280,Madison  Lash,"Albuquerque, N.M.",St. Pius X HS,womens swimming,utah
-281,Sarah Lott,"Los Alamos, N.M.",Los Alamos HS,womens swimming,utah
-282,Jenna Marsh,"Billings, Mont.",Billings Central Catholic HS,womens swimming,utah
-283,Sara McClendon,"Mansfield, Texas",Mansfield HS,womens swimming,utah
-284,Kylie Mitchell,"Hancock, N.H.",Conval Regional HS,womens swimming,utah
-285,Hailey Pabst,"Logan, Utah",Logan HS,womens swimming,utah
-286,Christina  Pick,"Alpharetta, Ga.",Milton HS,womens swimming,utah
-287,Genny Robertson,"Guelph, Ontario",John F. Ross HS,womens swimming,utah
-288,Emma Ruchala,"Tinley Park, Ill.",Victor J. Andrew HS,womens swimming,utah
-289,Marah Smith,"Bountiful, Utah",Viewmont HS,womens swimming,utah
-290,Gillian St. John,"Albuquerque, N.M.",Eldorado HS,womens swimming,utah
-291,Cassidy Stein,"Lakewood, Colo.",Green Mountain HS,womens swimming,utah
-292,Darby Wayner,"Savannah, Ga.",Savannah Arts Academy,womens swimming,utah
-293,Kat Wickham,"Palm Springs, Calif.",Palm Springs HS,womens swimming,utah
-294,Rebecca Zeiger,"Cumberland, R.I.",Home Schooled,womens swimming,utah
-295,Russell  Benkaim,"Boca Raton, Fla.",IMG Academy,mens tennis,utah
-296,Randy Cory,"Salinas, Calif.",Palma High School,mens tennis,utah
-297,Azat Hankuliyev,N/A,N/A,mens tennis,utah
-298,Dan Little,"London, England",Ralph Allen School,mens tennis,utah
-299,David Micevski,"Skopje, Macedonia",N/A,mens tennis,utah
-300,Slava Shainyan,"Moscow, Russia",Weil Tennis Academy,mens tennis,utah
-301,Santiago Sierra,"Mexico City, Mexico",Kafka High School,mens tennis,utah
-302,Chase Stoner,N/A,N/A,mens tennis,utah
-303,Egbert Weverink,"Amsterdam, The Netherlands",Calandlyceum,mens tennis,utah
-304,Joe Woolley,"Boston, England",William Lovell Church of England                                        Academy,mens tennis,utah
-305,Taylor Calton,"Highland, Utah",Lone Peak High School,womens tennis,utah
-306,Jena Cheng,"Edmonton, Alberta",Lillian Osborne HS,womens tennis,utah
-307,Brianna Chisholm,"Kaysville, Utah",Davis High School,womens tennis,utah
-308,Leah Heimuli,"Highland, Utah",Lone Peak High School,womens tennis,utah
-309,Alexia Petrovic,"Burr Ridge, Ill.",Nazareth Academy,womens tennis,utah
-310,Margo Pletcher,"Laguna Niguel, Calif.",Dana Hills HS,womens tennis,utah
-311,Jasmine Rich,"Salt Lake City, Utah",East High School,womens tennis,utah
-312,Victoria Robertson,"San Diego, Calif.",Patrick Henry HS,womens tennis,utah
-313,Whitney Turley,"Kaysville, Utah",Davis High School,womens tennis,utah
-314,Hannah Allred,"Ogden, Utah",Ogden HS,womens track,utah
-315,Aubrey Argyle,"Kaysville, Utah",Davis HS,womens track,utah
-316,Alissa Atisme,"Layton, Utah",Layton Christian HS,womens track,utah
-317,Anna Busatto,"Treviso, Italy",Liceo Statale,womens track,utah
-318,Emma Christensen,"Rochester, Minn.",John Marshall HS,womens track,utah
-319,Regan Crofts,"Salt Lake City, Utah",Olympus HS,womens track,utah
-320,Shaylen Crook,"Coos Bay, Ore.",Marshfield HS,womens track,utah
-321,Emma Earl,"Salt Lake City, Utah",East HS,womens track,utah
-322,Grace Englund,"Issaquah, Wash.",Issaquah HS,womens track,utah
-323,Caitlin Faust,"Stone Mountain, Ga.",Marist School,womens track,utah
-324,Nicole Griffiths,"Beaverton, Ore.",Sunset HS,womens track,utah
-325,Dakota Grossman,"Haiku, Hawaii",Seabury Hall HS,womens track,utah
-326,Eliza Hansen,"Sandy, Utah",Brighton HS,womens track,utah
-327,Raynee Helm Wheelock,"South Jordan, Utah",Bingham HS,womens track,utah
-328,Whitney Hessler,"Mission Viejo, Calif.",Mission Viejo HS,womens track,utah
-329,Madison Lanford,"Vancouver, Wash.",Skyview HS,womens track,utah
-330,Ashley Licata,"Mission Viejo, Calif.",Capistrano Valley HS,womens track,utah
-331,Astrid Lindgren,"Salt Lake City, Utah",Rowland Hall,womens track,utah
-332,Brooke Martin,"Scottsdale, Ariz.",Chaparral HS,womens track,utah
-333,Jackie Martin,"Chandler, Ariz.",Corona Del Sol HS,womens track,utah
-334,Ruby Jane Mathewson,"Kaysville, Utah",Davis HS,womens track,utah
-335,Lauren McCluskey,"Pullman, Wash.",Pullman HS,womens track,utah
-336,Hannah McInturff,"Pocatello, Idaho",Century HS,womens track,utah
-337,Louise Mercer,"Edinburgh, Scotland",University of Edinburgh,womens track,utah
-338,Trina Moreno,"Urbandale, Iowa",Urbandale HS,womens track,utah
-339,Jade Mulvey,"Salt Lake City, Utah",Skyline HS,womens track,utah
-340,Grayson Murphy,"Salt Lake City, Utah",Santa Clara,womens track,utah
-341,Sarah Newton,"Holladay, Utah",Olympus HS,womens track,utah
-342,Megan Perkins Killian,"West Jordan, Utah",Utah State,womens track,utah
-343,Natalie Platil,"Thornton, Colo.",Horizon HS,womens track,utah
-344,Jessica Sams,"Ogden, Utah",Ogden HS,womens track,utah
-345,Megan Spehar,"Bountiful, Utah",Bountiful HS,womens track,utah
-346,Suzannah Stark,"Gainesville, Fla.",Battlefield HS,womens track,utah
-347,Melissa  Taggart,"Woodbridge, Conn.",Amity HS,womens track,utah
-348,Poppy Tank,"Plymouth, Devon, England",Plymouth College,womens track,utah
-349,Sadie Wassum,"Worland, Wyo.",Worland HS,womens track,utah
-350,Mesa Weidle,"Rock Springs, Wyo.",Rock Springs HS,womens track,utah
-351,Rachel Whipple,"Bountiful, Utah",Bountiful HS,womens track,utah
-352,Bella Williams,"Digby, England",Kesteven and Sleaford HS,womens track,utah
-353,Rhianna Williams,"Fort Collins, Colo.",Fossil Ridge HS,womens track,utah
-354,Cara  Woolnough,"Brisbane, Australia",All Hallow's School,womens track,utah
-355,Chandler Walter,"Gilbert, Ariz.",Perry HS,softball,utah
-356,Ryley Ball,"Hooper, Utah",Fremont HS,softball,utah
-357,Julia Noskin,"Calabasas, Calif.",Agoura HS,softball,utah
-358,BreOnna  Castaneda,"Rio Rancho, N.M.",Rio Rancho HS,softball,utah
-359,Katie Donovan,"Salem, Ore.",South Salem HS,softball,utah
-360,Katie Faulk,"Tucson, Ariz.",Marana HS,softball,utah
-361,Alyssa  Barrera,"Chino Hills, Calif.",Bishop Amat HS,softball,utah
-362,Miranda Viramontes,"Chino, Calif.",Chino HS,softball,utah
-363,Ally Dickman,"Mission Viejo, Calif.",Capistrano Valley                                        HS,softball,utah
-364,Kelly Martinez,"Yucaipa, Calif.",Yucaipa HS,softball,utah
-365,Chantelle Ladner,"Sydney, Australia",Mount Annan HS,softball,utah
-366,Hailey Hilburn,"Orange, Calif.",Canyon HS,softball,utah
-367,Abby Robertson,"Corona, Calif.",Santiago HS,softball,utah
-368,Heather Bowen,"Las Vegas, Nev.",Centennial HS,softball,utah
-369,Alyssa Palacios,"La Habra, Calif.",La Habra HS,softball,utah
-370,Claire  Feldman,"Lithia, Fla.",Newsome HS,softball,utah
-371,Dani Barton,"Sandy, Utah",Brighton High School,womens volleyball,utah
-372,Taylor Laugero,"Escalon, Calif.",Santa Clara,womens volleyball,utah
-373,Kenzie Koerber,"Chino Hills, Calif.",Chino Hills High School,womens volleyball,utah
-374,Lauga Gauta,"Garden Grove, Calif.",Northwest College (Wyo.),womens volleyball,utah
-375,Bailey Choy,"Honolulu, Hawaii",'Iolani High School,womens volleyball,utah
-376,Saige Ka'aha'aina-Torres,"Honolulu, Hawaii",'Iolani High School,womens volleyball,utah
-377,Kennedi Evans,"Twin Falls, Idaho",Twin Falls High School,womens volleyball,utah
-378,Alexa Van Komen,"El Dorado Hills, Calif.",Oak Ridge High School,womens volleyball,utah
-379,Berkeley Oblad,"Henderson, Nev.",Coronado High School,womens volleyball,utah
-380,Kinga Windisch,"Budapest, Hungary",Coastal Carolina,womens volleyball,utah
-381,Megan Yett,"Caldwell, Idaho",Nampa Christian High School,womens volleyball,utah
-382,Brianna Doehrmann,"Murrieta, Calif.",Vista Murrieta High School,womens volleyball,utah
-383,Lauren Sproule,"Lethbridge, Alberta, Canada",Chinook High School,womens volleyball,utah
-384,Phoebe Grace,"Laie, Hawaii",Kahuku High School,womens volleyball,utah
-385,Alexia Burch,N/A,N/A,womens gymnastics,utah
-386,Hunter Dula,N/A,N/A,womens gymnastics,utah
-387,Cammy Hall,N/A,N/A,womens gymnastics,utah
-388,Cristal  Isa,N/A,N/A,womens gymnastics,utah
-389,Kari Lee,N/A,N/A,womens gymnastics,utah
-390,Shannon McNatt,N/A,N/A,womens gymnastics,utah
-391,MaKenna Merrell-Giles,N/A,N/A,womens gymnastics,utah
-392,Adrienne  Randall,N/A,N/A,womens gymnastics,utah
-393,Missy  Reinstadtler,N/A,N/A,womens gymnastics,utah
-394,Macey Roberts,N/A,N/A,womens gymnastics,utah
-395,MyKayla Skinner,N/A,N/A,womens gymnastics,utah
-396,Sydney  Soloski,N/A,N/A,womens gymnastics,utah
-397,Kim Tessen,N/A,N/A,womens gymnastics,utah
-398,Lauren Wong,N/A,N/A,womens gymnastics,utah
-399,Dani Barton,"Sandy, Utah",Brighton High School,womens beach volleyball,utah
-400,Kenzie Koerber,"Chino Hills, Calif.",Chino Hills High School,womens beach volleyball,utah
-401,Lauga Gauta,"Garden Grove, Calif.",Garden Grove High School,womens beach volleyball,utah
-402,Kennedi Evans,"Twin Falls, Idaho",Twin Falls High School,womens beach volleyball,utah
-403,Alexa Van Komen,"El Dorado Hills, Calif.",Oak Ridge High School,womens beach volleyball,utah
-404,Berkeley Oblad,"Henderson, Nev.",Coronado High School,womens beach volleyball,utah
-405,Adora Anae,"Punaluu, Hawaii",Kahuku High School,womens beach volleyball,utah
-406,Melissa Powell,"Pleasant Grove, Utah",Pleasant Grove High School,womens beach volleyball,utah
-407,Tawnee Luafalemana,"Carson, Calif.",Carson High School,womens beach volleyball,utah
-408,Bailey Choy,"Honolulu, Hawaii",'Iolani High School,womens beach volleyball,utah
-409,Olivia Teerlink,"Sacramento, Calif.",Bella Vista High School,womens beach volleyball,utah
-410,Brianna Doehrmann,"Murrieta, Calif.",Vista Murrieta High School,womens beach volleyball,utah
-411,Lauren Sproule,"Lethbridge, Alberta, Canada",Chinook High School,womens beach volleyball,utah
-412,Phoebe Grace,"Laie, Hawaii",Kahuku High School,womens beach volleyball,utah
-413,Martin Bergström,N/A,N/A,mens skiing,utah
-414,Logan Diekmann,N/A,N/A,mens skiing,utah
-415,Sam Dupratt,N/A,N/A,mens skiing,utah
-416,Jacob Engström,N/A,N/A,mens skiing,utah
-417,Martin Grasic,N/A,N/A,mens skiing,utah
-418,Håkon Hjelstuen,N/A,N/A,mens skiing,utah
-419,Fredrik Maurstad,N/A,N/A,mens skiing,utah
-420,Huston Philp,N/A,N/A,mens skiing,utah
-421,Bjørn  Riksaasen,N/A,N/A,mens skiing,utah
-422,Ty Sprock,N/A,N/A,mens skiing,utah
-423,Linus Walch,N/A,N/A,mens skiing,utah
-424,Mariah Bredal,N/A,N/A,womens skiing,utah
-425,Ann-Kathrin Breuning,N/A,N/A,womens skiing,utah
-426,Guro Jordheim,N/A,N/A,womens skiing,utah
-427,Sabine Krautgasser,N/A,N/A,womens skiing,utah
-428,Leah Lange,N/A,N/A,womens skiing,utah
-429,Karianne Moe,N/A,N/A,womens skiing,utah
-430,Julie Mohagen,N/A,N/A,womens skiing,utah
+52,Erick Miguelles,"Tucson, Ariz.",Pima CC,baseball,utah
+53,David Watson,"Gilbert, AZ",Mesquite HS,baseball,utah
+54,Jay Keirnan,"Corona, CA",Corona Senior HS,baseball,utah
+55,Trevor Wells,"West Linn, OR",Linn-Benton CC,baseball,utah
+56,Zack Moeller,"Hollister, Calif.",San Benito HS,baseball,utah
+57,Nick Caviglia,"Fresno, CA",Clovis North HS,baseball,utah
+58,Austin Moore,"Huntington Beach, Calif.",Orange Coast College,baseball,utah
+59,Zach McCleve,"West Valley City, UT",Cyprus HS,baseball,utah
+60,Justin Kelly,"West Jordan, Utah",Copper Hills HS,baseball,utah
+61,Jacob Rebar,"Tracy, Calif.",West HS,baseball,utah
+62,Brett Brocoff,"Las Vegas, Nev.",Desert Oasis HS,baseball,utah
+63,Braden DeBenedictis,"Taylorsville, Utah",Taylorsville HS,baseball,utah
+64,Zach Button,"San Mateo, CA",Junipero Serra HS,baseball,utah
+65,Connor Johnsen,"Cedar Hills, UT",Pleasant Grove HS,baseball,utah
+66,Dustyn Schramm,"Fresno, CA",Clovis West HS,baseball,utah
+67,Chris Diehl,"Fort Collins, CO",Central Arizona College,baseball,utah
+68,Jacob Dahle,"Tremonton, UT",Bear River HS,baseball,utah
+69,Robert Guy,"Rancho Santa Margarita, CA",Mission Viejo HS,baseball,utah
+70,Philip Afia,"Chino Hills, Calif.",Ayala HS,football,utah
+71,Jordan  Agasiva,"Kalihi, Hawaii",Pima CC,football,utah
+72,Aaron Amaama,"Kearns, Utah",Bingham HS,football,utah
+73,Bradlee Anae,"Laie, Hawaii",Kahuku HS,football,utah
+74,Moroni Anae,"San Diego, Calif.",Riverside CC,football,utah
+75,Anthony Armstrong,"Draper, Utah",BYU,football,utah
+76,Stone Azarcon,"Draper, Utah",Juan Diego HS,football,utah
+77,Corrion Ballard,"Houston, Texas",Blinn College,football,utah
+78,London Bartholomew,"Mesa, Ariz.",Ohio Wesleyan,football,utah
+79,Cody Barton,N/A,N/A,football,utah
+80,Jackson Barton,N/A,N/A,football,utah
+81,Francis Bernard,"Herriman, Utah",BYU,football,utah
+82,Julian  Blackmon,"Layton, Utah",Layton HS,football,utah
+83,Marquise Blair,"Wooster, Ohio",Dodge City CC,football,utah
+84,Bronson Boyd,"Arlington, Texas",Texas Tech,football,utah
+85,Devin Brumfield,"Covington, La.",Covington HS,football,utah
+86,Terrell Burgess,"San Marcos, Calif.",San Marcos HS,football,utah
+87,Johnny Capra,"Auburn, Calif.",Placer HS,football,utah
+88,Britain Covey,"Provo, Utah",Timpview HS,football,utah
+89,Jackson  Cravens,"Provo, Utah",Timpview HS,football,utah
+90,Braeden E. Daniels,"Carrollton, Texas",Hebron HS,football,utah
+91,Vonte Davis,"Rosenberg, Texas",Blinn College,football,utah
+92,Jaylen  Dixon,"Frisco, Texas",Lone Star HS,football,utah
+93,Keven Dixon,"Buena Park, Calif.",Buena Park HS,football,utah
+94,Samu Elisaia,"South Jordan, Utah",Snow College,football,utah
+95,Solomon Enis,"Phoenix, Ariz.",North Canyon HS,football,utah
+96,Quinn Fabrizio,"Sandy, Utah",Alta HS,football,utah
+97,Bapa Falemaka,"Grantsville, Utah",Judge Memorial HS,football,utah
+98,Lo Falemaka,"West Valley City, Utah",Cottonwood HS,football,utah
+99,Jameson Field,"Long Beach, Calif.",Mater Dei HS,football,utah
+100,Nick Ford,"San Pedro, Calif.",San Pedro HS,football,utah
+101,Cole Fotheringham,"San Clemente, Calif.",San Clemente HS,football,utah
+102,Leki Fotu,"West Valley City, Utah",Herriman HS,football,utah
+103,Matt Gay,"Orem, Utah",Utah Valley,football,utah
+104,Maddie  Golden,"Piedmont, S.C.",Powdersville HS,football,utah
+105,Tyler Gonzalez,"San Diego, Calif.",Granite Hills HS,football,utah
+106,Jake Grant,"Scottsdale, Ariz.",Horizon HS,football,utah
+107,TJ Green,"Chandler, Ariz.",Chandler HS,football,utah
+108,Javelin K.  Guidry,"Murrieta, Calif.",Vista Murrieta HS,football,utah
+109,Connor Haller,N/A,N/A,football,utah
+110,Chase Hansen,"Highland, Utah",Lone Peak HS,football,utah
+111,Zach Hansen,"Springville, Utah",Springville HS,football,utah
+112,Chris Hart,"Fort Lauderdale, Fla.",St. Thomas Aquinas HS,football,utah
+113,Alani Havili-Katoa,"Stansbury Park, Utah",Stansbury HS,football,utah
+114,Malik Haynes,"Hauula, Hawaii",Ventura College,football,utah
+115,Nick Heninger,"South Jordan, Utah",Bingham HS,football,utah
+116,Devonta'e Henry-Cole,"Boca Raton, Fla.",St. Thomas Aquinas HS,football,utah
+117,R.J. Hubert,"Logandale, Nev.",Moapa Valley HS,football,utah
+118,Tyler Huntley,"Dania, Fla.",Hallandale HS,football,utah
+119,Jake Jackson,"Encinitas, Calif.",La Costa Canyon HS,football,utah
+120,Jaylon Johnson,"Fresno, Calif.",Central East HS,football,utah
+121,Chayden Johnston,"South Jordan, Utah",Bingham HS,football,utah
+122,Rex Jordan,"Stone Mountain, Ga.",Mt. San Jacinto College,football,utah
+123,Yioti Karahalios,"Salt Lake City, Utah",Skyline HS,football,utah
+124,Nygel King,"Tomball, Texas",Klein Oak HS,football,utah
+125,Blake  Kuithe,"Katy, Texas",Cinco Ranch HS,football,utah
+126,Brant Kuithe,"Katy, Texas",Cinco Ranch HS,football,utah
+127,Kyle Lanterman,"Long Beach, Calif.",Woodrow Wilson HS,football,utah
+128,Tareke Lewis,"Palatka, Fla.",Riverside CC,football,utah
+129,Drew Lisk,"Draper, Utah",Jordan HS,football,utah
+130,Devin Lloyd,"Chula Vista, Calif.",Otay Ranch HS,football,utah
+131,Sione Lund,"Holladay, Utah",Stanford,football,utah
+132,Paul Maile,"Salt Lake City, Utah",East HS,football,utah
+133,Siaosi Mariner,"Tustin, Calif.",Tustin HS,football,utah
+134,Keegan  Markgraf,"Hamilton, Ontario",Central Michigan,football,utah
+135,Andrew Mata'afa,"San Diego, Calif.",Mt. Carmel HS,football,utah
+136,Malone Mataele,"Placentia, Calif.",Santa Margarita Catholic HS,football,utah
+137,Jaxson McBride,"Bountiful, Utah",Woods Cross HS,football,utah
+138,Simi Moala,"Hawthorne, Calif.",Cathedral HS,football,utah
+139,Viane Moala,"Ili’ili, American Samoa",Hawaii,football,utah
+140,Zack Moss,"Hialeah Gardens, Fla.",Hallandale HS,football,utah
+141,Samson Nacua,"Provo, Utah",Timpview HS,football,utah
+142,Alassane Niang,N/A,N/A,football,utah
+143,Ali'i Niumatalolo,"Annapolis, Md.",Broadneck HS,football,utah
+144,Josh Nurse,"Fayetteville, Ga.",Blinn College,football,utah
+145,Tre O'Guinn,"Phoenix, Ariz.",North Canyon HS,football,utah
+146,Darrin Paulo,"Sacramento, Calif.",Grant HS,football,utah
+147,John Penisini,"West Jordan, Utah",Snow College,football,utah
+148,Terrell Perriman,"Miami, Fla.",Miami Central HS,football,utah
+149,Bryant Pirtle,"Louisville, Ky.",Pima CC,football,utah
+150,Preston Pitt,"Centerville, Utah",Viewmont HS,football,utah
+151,Fua Pututau,"Salt Lake City, Utah",Cottonwood HS,football,utah
+152,Hauati Pututau,N/A,N/A,football,utah
+153,Branden  Rankins,"San Bernardino, Calif.",Aquinas HS,football,utah
+154,Caleb Repp,"Rancho Cucamonga, Calif.",Los Osos HS,football,utah
+155,Noah Rodriguez-Trammell,"Van Nuys, Calif.",Notre Dame HS,football,utah
+156,Keala  Santiago,"Hauuloa, Hawaii",Hawaii,football,utah
+157,Jason  Shelley,"Little Elm, Texas",Lone Star HS,football,utah
+158,Armand Shyne,"Oakland, Calif.",American River College,football,utah
+159,Demari Simpkins,"Carol City, Fla.",Hallandale HS,football,utah
+160,Dylan Slavens,"Springville, Utah",Springville HS,football,utah
+161,Jonoven Smith,"Fullerton, Calif.",Fullerton Union HS,football,utah
+162,Tré Strong,"Billings, Mont.",Montana State,football,utah
+163,Mika Tafua,"Laie, Hawaii",Kamehameha HS,football,utah
+164,Bryan  Thompson,"Moreno Valley, Calif.",Rancho Verde HS,football,utah
+165,Donavan Thompson,"Miami, Fla.",Miami Central HS,football,utah
+166,Ryan To'a,"Provo, Utah",Orem HS,football,utah
+167,Paul Toala,"Burien, Wash.",Dixie State College,football,utah
+168,Pita Tonga,"Taylorsville, Utah",Highland HS,football,utah
+169,Maxs Tupai,"Taylorsville, Utah",Murray HS,football,utah
+170,Jack Tuttle,"San Marcos, Calif.",Mission Hills HS,football,utah
+171,Orlando Umana,"Sacramento, Calif.",Grant HS,football,utah
+172,Mo Unutoa,"Kapaa, Hawaii",Kapaa HS,football,utah
+173,Edward Vander,"Long Beach, Calif.",Montana State,football,utah
+174,Derrick Vickers,"Bakersfield, Calif.",Bakersfield College,football,utah
+175,Stratten  Wagner,"Lindon, Utah",Snow College,football,utah
+176,Mitch Wishnowsky,"Perth, Australia",Santa Barbara College,football,utah
+177,Joey Wood,"Los Gatos, Calif.",College of San Mateo,football,utah
+178,Mason Woodward,"West Point, Utah",Syracuse HS,football,utah
+179,Thomas Yassmin,"Sydney, Australia",The Scots College,football,utah
+180,Tyrone Young-Smith,"Fresno, Calif.",Edison HS,football,utah
+181,Makayla  Christensen,"Meridian, Idaho",Centennial HS,womens soccer,utah
+182,SJ Edwards,"Albany, Ore.",West Albany HS,womens soccer,utah
+183,Carly Nelson,N/A,N/A,womens soccer,utah
+184,Tavia Leachman,"Long Beach, Calif.",Long Beach Poly                                        HS,womens soccer,utah
+185,LuLu Borges,"Layton, Utah",Layton HS,womens soccer,utah
+186,Jessica  Hixson,"Englewood, Colo.",Grandview HS,womens soccer,utah
+187,Haylee Cacciacarne,"Layton, Utah",Davis HS,womens soccer,utah
+188,Hanna Olsen,"Sandy, Utah",Brighton HS,womens soccer,utah
+189,Liberty Taylor,"Poway, Calif.",Poway HS,womens soccer,utah
+190,Kristin Fairbairn,"Surrey, British Columbia",Elgin Park Secondary,womens soccer,utah
+191,Aleea Gwerder,"Enumclaw, Wash.",Enumclaw HS,womens soccer,utah
+192,Demi Lopez,"Logan, Utah",Logan HS,womens soccer,utah
+193,Max Flom,"Littleton, Colo.",D'Evelyn HS,womens soccer,utah
+194,Holly Daugirda,"Salt Lake City, Utah",Skyline HS,womens soccer,utah
+195,Zona Kinnaman,"Nampa, Idaho",Columbia HS,womens soccer,utah
+196,Paola van der Veen,"Leidschendam, Netherlands",Inholland  Hogeschool,womens soccer,utah
+197,Brianna Pearson,"Corona, Calif.",Norco HS,womens soccer,utah
+198,Cameron Tingey,"Sammamish, Wash.",Skyline HS,womens soccer,utah
+199,Hailey Stodden,"Broomfield, Colo.",Broomfield HS,womens soccer,utah
+200,Natalie Kump,"Calgary, Alberta",Edge School for                                        Athletes,womens soccer,utah
+201,Hailey Skolmoski,"Riverton, Utah",Riverton HS,womens soccer,utah
+202,Tatum Thornton,"Sammamish, Wash.",Eastlake HS,womens soccer,utah
+203,Ireland Dunn,"Kaysville, Utah",Davis HS,womens soccer,utah
+204,Anna Escobedo,"Holladay, Utah",Olympus HS,womens soccer,utah
+205,Alexis Rushlow,"Glendora, Calif.",Glendora HS,womens soccer,utah
+206,Emali Mackinnon,"Hillcrest, Calif.",Cathedral Catholic HS,womens soccer,utah
+207,Kate Hinckley,"College Station, Texas",College Station HS,womens soccer,utah
+208,Hillary  Noakes,"Rockford, Ill.",Rockford Christian HS,womens soccer,utah
+209,Brooklyn  James,"Clackamas, Ore.",Clackamas HS,womens soccer,utah
+210,Haley Farrar,"Salt Lake City, Utah",East HS,womens soccer,utah
+211,Ali Schinko,"Baden-Württemberg, Germany",Max-Weber-Schule Sinsheim,womens soccer,utah
+212,Jamie  Goodwin,"Rocklin, Calif.",Rocklin HS,womens soccer,utah
+213,Hannah Allred,"Ogden, Utah",N/A,womens cross country,utah
+214,Aubrey Argyle,"Kaysville, Utah",N/A,womens cross country,utah
+215,Anna Busatto,"Treviso, Italy",N/A,womens cross country,utah
+216,Emma Christensen,"Rochester, Minn.",N/A,womens cross country,utah
+217,Makenzie Clark,"Bountiful, Utah",N/A,womens cross country,utah
+218,Scarlet Dale,"Lancashire, England",N/A,womens cross country,utah
+219,Emma Earl,"Salt Lake City, Utah",East HS,womens cross country,utah
+220,Caitlin Faust,"Stone Mountain, Ga.",N/A,womens cross country,utah
+221,Sarah Feeny,"Ogden, Utah",N/A,womens cross country,utah
+222,Nicole Griffiths,"Beaverton, Ore.",N/A,womens cross country,utah
+223,Megan Killian,"West Jordan, Utah",Utah State,womens cross country,utah
+224,Sara Leonard,"Anaheim Hills, Calif.",N/A,womens cross country,utah
+225,Ashley Licata,"Mission Viejo, Calif.",N/A,womens cross country,utah
+226,Astrid Lindgren,"Salt Lake City, Utah",N/A,womens cross country,utah
+227,Brooke Manson,"Sammamish, Wash.",N/A,womens cross country,utah
+228,Grace McLaughlin,"Rockford, Ill.",N/A,womens cross country,utah
+229,Trina Moreno,"Urbandale, Iowa",N/A,womens cross country,utah
+230,Jade Mulvey,"Salt Lake City, Utah",N/A,womens cross country,utah
+231,Sarah Newton,"Holladay, Utah",N/A,womens cross country,utah
+232,Natalie Platil,"Thornton, Colo.",N/A,womens cross country,utah
+233,Kennedy Powell,"Roosevelt, Utah",N/A,womens cross country,utah
+234,Sophie Ryan,"Manlius, N.Y.",N/A,womens cross country,utah
+235,Poppy Tank,"Plymouth, Devon, England",N/A,womens cross country,utah
+236,Sadie Wassum,"Worland, Wyo.",N/A,womens cross country,utah
+237,Bella Williams,"Digby, England",N/A,womens cross country,utah
+238,Cara  Woolnough,"Brisbane, Australia",N/A,womens cross country,utah
+239,Dylan Chugg,"Ogden, Utah",Fremont High School,mens golf,utah
+240,Jordan Costello,"Pinedale, Wyo.",Pinedale High School,mens golf,utah
+241,Kyler Dunkle,"Larkspur, Colo.",Douglas County High School,mens golf,utah
+242,Axel Einarsson,"Ludvika, Sweden",N/A,mens golf,utah
+243,Peyton Hastings,"Bountiful, Utah",Woods Cross High School,mens golf,utah
+244,Tristan Mandur,"Mill Bay, British Columbia, Canada",Shawnigan Lake School,mens golf,utah
+245,Oscar Maxfield,"Salt Lake City, Utah",Highland High School,mens golf,utah
+246,Mitchell Schow,"Ogden, Utah",Park City High School,mens golf,utah
+247,Colton Tanner,"Park City, Utah",International Junior Golf Academy (S.C.),mens golf,utah
+248,Blake Tomlinson,"Salt Lake City, Utah",Skyline High School,mens golf,utah
+249,Jacob  Bares,"Lafayette, La.",Lafayette HS,mens swimming,utah
+250,Nick Becker,"Las Vegas, Nev.",Bishop Gorman HS,mens swimming,utah
+251,Andrew Britton,"Modesto, Calif.",Joseph Gregori HS,mens swimming,utah
+252,Fernando Cervantes,"Guadalajara, Mexico",Woodrow Wilson HS,mens swimming,utah
+253,Felix Chiun,"Cupertino, Calif.",Monta Vista HS,mens swimming,utah
+254,Jackson Cunningham,"Meridian, Idaho",Mountain View HS,mens swimming,utah
+255,Rahiti De Vos,"Nice, France",Don Bosco HS,mens swimming,utah
+256,Ethan Dillard,"Folsom, Calif.",Oak Ridge HS,mens swimming,utah
+257,David Fridlander,"Netanya, Israel",ORT Leibowitz,mens swimming,utah
+258,Cole Giandinoto,"San Antonio, Texas",Homeschooled,mens swimming,utah
+259,Sam Jyawook,"Ann Arbor, Mich.",Skyline HS,mens swimming,utah
+260,Robert King,"Dallas, Texas",Highland Park HS,mens swimming,utah
+261,Tyler Klawiter,"Spring, Texas",Klein Oak HS,mens swimming,utah
+262,Brody Lewis,"Greeley, Colo.",Greeley West HS,mens swimming,utah
+263,Rylan Little,"Yuba City, Calif.",River Valley HS,mens swimming,utah
+264,Daniel McArthur,"Lakewood, Calif.",Lakewood HS,mens swimming,utah
+265,Luke McDivitt,"Lexington, S.C.",River Bluff HS,mens swimming,utah
+266,Colten Montgomery,"Winters, Calif.",Winters HS,mens swimming,utah
+267,Rodolfo  Moreira,"Sao Paulo, Brazil",Brazilian Swimming Federation,mens swimming,utah
+268,Liam  O'Haimhirgin,"Fair Oaks, Calif.",Bella Vista HS,mens swimming,utah
+269,Austin Phillips,"Centennial, Colo.",Regis Jesuit HS,mens swimming,utah
+270,Tony Puertas,"Orem, Utah",Timpanogos HS,mens swimming,utah
+271,Matteo Sogne,"Modena, Italy",Liceo Scientifico Aldo Moro,mens swimming,utah
+272,Clay  Stoddard,"Phoenix, Ariz.",Arcadia HS,mens swimming,utah
+273,Garrett Sutton,"McMinnville, Ore.",McMinnville HS,mens swimming,utah
+274,Chris Taber,"Rancho Santa, Calif.",Santa Margarita Catholic School,mens swimming,utah
+275,Daniel Theriault,"Winnipeg, Manitoba, Canada",Home Schooled,mens swimming,utah
+276,Ben Waterman,"Albuquerque, N.M.",Eldorado HS,mens swimming,utah
+277,Harrison Wayner,"Savannah, Ga.",Savannah Arts Academy,mens swimming,utah
+278,Luke Yost,"Boise, Idaho",Boise HS,mens swimming,utah
+279,Jeremy Young,"Casper, Wyo.",Kelly Walsh HS,mens swimming,utah
+280,Mallori Allen,"Dallas, Texas",Frisco HS,womens swimming,utah
+281,Jordan Anderson,"Granite Bay, Calif.",Granite Bay HS,womens swimming,utah
+282,Cassie Boyd,"Portland, Ore.",Home Schooled,womens swimming,utah
+283,Georgia Brookstein,"Denver, Colo.",Legacy HS,womens swimming,utah
+284,Emma  Broome,"Scottsdale, Ariz.",Chaparral  HS,womens swimming,utah
+285,Ianire Casarin,"Villorba, Italy",Liceo Linguistico Paritario,womens swimming,utah
+286,Makenzie Caufield,"Reno, Nev.",Bishop Manogue HS,womens swimming,utah
+287,Madison Cock,"Silverton, Ore.",Silverton HS,womens swimming,utah
+288,Gabby  Fagan,"Scottsdale, Ariz.",Chaparral HS,womens swimming,utah
+289,Aryanna Fernandes,"Ajax, Ontario",Ontario Swim Academy,womens swimming,utah
+290,Kenzie  Ford,"Eagle Mountain, Utah",Westlake HS,womens swimming,utah
+291,Mariah Gassaway,"Bountiful, Utah",Viewmont HS,womens swimming,utah
+292,Mandy Gebhart,"Boulder City, Nev.",Boulder City HS,womens swimming,utah
+293,Clare Greenlow,"Menlo Park, Calif.",Saint Francis HS,womens swimming,utah
+294,Grace Horvath,"Phoenix, Ariz.",Mountain Pointe HS,womens swimming,utah
+295,Claire Jackson,"West Valley City, Utah",Hunter HS,womens swimming,utah
+296,McKenna  King,"American Fork, Utah",American Fork HS,womens swimming,utah
+297,Samantha Kraus,"Boise, Idaho",Borah HS,womens swimming,utah
+298,Madison  Lash,"Albuquerque, N.M.",St. Pius X HS,womens swimming,utah
+299,Emma Lawless,"Penn Valley, Calif.",Nevada Union HS,womens swimming,utah
+300,Sarah Lott,"Los Alamos, N.M.",Los Alamos HS,womens swimming,utah
+301,Sara McClendon,"Mansfield, Texas",Mansfield HS,womens swimming,utah
+302,Kristina  Miletic,"Zagreb, Croatia",Plivacki Klub Dubrava,womens swimming,utah
+303,Kylie Mitchell,"Hancock, N.H.",Conval Regional HS,womens swimming,utah
+304,Sophia Morici,"Valencia, Calif.",West Ranch HS,womens swimming,utah
+305,Maddie Peterson,"Inkom, Idaho",Century HS,womens swimming,utah
+306,Christina  Pick,"Alpharetta, Ga.",Milton HS,womens swimming,utah
+307,Audrey Reimer,"Fort Collins, Colo.",Fort Collins HS,womens swimming,utah
+308,Genny Robertson,"Guelph, Ontario",John F. Ross HS,womens swimming,utah
+309,Emma Ruchala,"Tinley Park, Ill.",Victor J. Andrew HS,womens swimming,utah
+310,Marah Smith,"Bountiful, Utah",Viewmont HS,womens swimming,utah
+311,Gillian St. John,"Albuquerque, N.M.",Eldorado HS,womens swimming,utah
+312,Cassidy Stein,"Lakewood, Colo.",Green Mountain HS,womens swimming,utah
+313,Darby Wayner,"Savannah, Ga.",Savannah Arts Academy,womens swimming,utah
+314,Rebecca Zeiger,"Cumberland, R.I.",Home Schooled,womens swimming,utah
+315,Russell  Benkaim,"Boca Raton, Fla.",IMG Academy,mens tennis,utah
+316,Randy Cory,"Salinas, Calif.",Palma High School,mens tennis,utah
+317,Mathias Gavelin,"Stockholm, Sweden",N/A,mens tennis,utah
+318,Azat Hankuliyev,N/A,N/A,mens tennis,utah
+319,Dan Little,"London, England",Ralph Allen School,mens tennis,utah
+320,Paul McCallie,"Atlanta, Ga.",N/A,mens tennis,utah
+321,David Micevski,"Skopje, Macedonia",N/A,mens tennis,utah
+322,RJ Parker,"Bountiful, Utah",Advantage Tennis Academy,mens tennis,utah
+323,Slava Shainyan,"Moscow, Russia",Weil Tennis Academy,mens tennis,utah
+324,Chase Stoner,N/A,N/A,mens tennis,utah
+325,Joe Woolley,"Boston, England",William Lovell Church of England                                        Academy,mens tennis,utah
+326,Taylor Calton,"Highland, Utah",Lone Peak High School,womens tennis,utah
+327,Brianna Chisholm,"Kaysville, Utah",Davis High School,womens tennis,utah
+328,Emily Dush,"Chula Vista, Calif.",Laurel Springs HS,womens tennis,utah
+329,Leah Heimuli,"Highland, Utah",Lone Peak High School,womens tennis,utah
+330,Whitney Hekking,"Kaysville, Utah",Davis High School,womens tennis,utah
+331,Lindsay Hung,"San Clemente, Calif.",San Clemente HS,womens tennis,utah
+332,Anya Lamoreaux,"Mesa, Ariz.",Mountain View HS,womens tennis,utah
+333,Jasmine Rich,"Salt Lake City, Utah",East High School,womens tennis,utah
+334,Madison Tattini,"Lexington, Ill.",Central Catholic HS,womens tennis,utah
+335,Hannah Allred,"Ogden, Utah",N/A,womens track,utah
+336,Aubrey Argyle,"Kaysville, Utah",N/A,womens track,utah
+337,Skyler Blair,"Beaverton, Ore.",N/A,womens track,utah
+338,Katrina Broadhead,"Layton, Utah",N/A,womens track,utah
+339,Anna Busatto,"Treviso, Italy",N/A,womens track,utah
+340,Emma Christensen,"Rochester, Minn.",N/A,womens track,utah
+341,Regan Crofts,"Salt Lake City, Utah",N/A,womens track,utah
+342,Scarlet Dale,"Lancashire, England",N/A,womens track,utah
+343,Emma Earl,"Salt Lake City, Utah",East HS,womens track,utah
+344,Caitlin Faust,"Stone Mountain, Ga.",N/A,womens track,utah
+345,Sarah Feeny,"Ogden, Utah",N/A,womens track,utah
+346,Nicole Griffiths,"Beaverton, Ore.",N/A,womens track,utah
+347,Eliza Hansen,"Sandy, Utah",N/A,womens track,utah
+348,Raynee Helm-Wheelock,"South Jordan, Utah",N/A,womens track,utah
+349,Whitney Hessler,"Mission Viejo, Calif.",Mission Viejo HS,womens track,utah
+350,Brooklyn James,"Clackamas, Ore.",N/A,womens track,utah
+351,Megan Killian,"West Jordan, Utah",Utah State,womens track,utah
+352,Maya LeBar,"Spokane, Wash.",N/A,womens track,utah
+353,Sara Leonard,"Anaheim Hills, Calif.",N/A,womens track,utah
+354,Ashley Licata,"Mission Viejo, Calif.",N/A,womens track,utah
+355,Astrid Lindgren,"Salt Lake City, Utah",N/A,womens track,utah
+356,Brooke Manson,"Sammamish, Wash.",N/A,womens track,utah
+357,Brooke Martin,"Scottsdale, Ariz.",N/A,womens track,utah
+358,Jackie Martin,"Chandler, Ariz.",N/A,womens track,utah
+359,Ruby Jane Mathewson,"Kaysville, Utah",N/A,womens track,utah
+360,Lauren McCluskey,"Pullman, Wash.",N/A,womens track,utah
+361,Grace McLaughlin,"Rockford, Ill.",N/A,womens track,utah
+362,Trina Moreno,"Urbandale, Iowa",N/A,womens track,utah
+363,Jade Mulvey,"Salt Lake City, Utah",N/A,womens track,utah
+364,Sarah Newton,"Holladay, Utah",N/A,womens track,utah
+365,Lauren O'Banion,"Yorba Linda, Calif.",N/A,womens track,utah
+366,Natalie Platil,"Thornton, Colo.",N/A,womens track,utah
+367,Kennedy Powell,"Roosevelt, Utah",N/A,womens track,utah
+368,Kayla Rees,"Syracuse, Utah",UNLV,womens track,utah
+369,Sophie Ryan,"Manlius, N.Y.",N/A,womens track,utah
+370,Kolbi Sims,"Eagle, Idaho",San Jose State,womens track,utah
+371,Poppy Tank,"Plymouth, Devon, England",N/A,womens track,utah
+372,Sadie Wassum,"Worland, Wyo.",N/A,womens track,utah
+373,Taylor Watson,"Aurora, Colo.",N/A,womens track,utah
+374,Mesa Weidle,"Rock Springs, Wyo.",N/A,womens track,utah
+375,Rachel Whipple,"Bountiful, Utah",N/A,womens track,utah
+376,Bella Williams,"Digby, England",N/A,womens track,utah
+377,Cara  Woolnough,"Brisbane, Australia",N/A,womens track,utah
+378,Chandler Walter,"Gilbert, Ariz.",Perry HS,softball,utah
+379,Ryley Ball,"Hooper, Utah",Fremont HS,softball,utah
+380,Julia Noskin,"Calabasas, Calif.",Agoura HS,softball,utah
+381,BreOnna  Castaneda,"Rio Rancho, N.M.",Rio Rancho HS,softball,utah
+382,Katie Faulk,"Tucson, Ariz.",Marana HS,softball,utah
+383,Alyssa  Barrera,"Chino Hills, Calif.",Bishop Amat HS,softball,utah
+384,Ally Dickman,"Mission Viejo, Calif.",Capistrano Valley                                        HS,softball,utah
+385,Chantelle Ladner,"Sydney, Australia",Mount Annan HS,softball,utah
+386,Hailey Hilburn,"Orange, Calif.",Canyon HS,softball,utah
+387,Abby Robertson,"Corona, Calif.",Santiago HS,softball,utah
+388,Alyssa Palacios,"La Habra, Calif.",La Habra HS,softball,utah
+389,Claire  Feldman,"Lithia, Fla.",Newsome HS,softball,utah
+390,Ellessa  Bonstrom,"Tucson, Ariz.",Canyon Del Oro HS,softball,utah
+391,Makenna Calderon,"Placentia, Calif.",El Dorado HS,softball,utah
+392,Haley Denning,"Phoenix, Ariz.",Arcadia HS,softball,utah
+393,Jordyn Gasper,"Valencia, Calif.",Hart HS,softball,utah
+394,Makayla Hurst,"St. Louis, Mo.",Timberland HS,softball,utah
+395,Jess Lynch,"Chandler, Ariz.",Corona del Sol HS,softball,utah
+396,Sydney  Sandez,"Chula Vista, Calif.",Olympian HS,softball,utah
+397,Dani Drews,"Sandy, Utah",Brighton High School,womens volleyball,utah
+398,Taylor Laugero,"Escalon, Calif.",Santa Clara,womens volleyball,utah
+399,Kenzie Koerber,"Chino Hills, Calif.",Chino Hills High School,womens volleyball,utah
+400,Lauga Gauta,"Garden Grove, Calif.",Northwest College (Wyo.),womens volleyball,utah
+401,Bailey Choy,"Honolulu, Hawaii",'Iolani High School,womens volleyball,utah
+402,Saige Ka'aha'aina-Torres,"Honolulu, Hawaii",'Iolani High School,womens volleyball,utah
+403,Kennedi Evans,"Twin Falls, Idaho",Twin Falls High School,womens volleyball,utah
+404,Alexa Van Komen,"El Dorado Hills, Calif.",Oak Ridge High School,womens volleyball,utah
+405,Berkeley Oblad,"Henderson, Nev.",Coronado High School,womens volleyball,utah
+406,Kinga Windisch,"Budapest, Hungary",Coastal Carolina,womens volleyball,utah
+407,Megan Yett,"Caldwell, Idaho",Nampa Christian High School,womens volleyball,utah
+408,Brianna Doehrmann,"Murrieta, Calif.",Vista Murrieta High School,womens volleyball,utah
+409,Lauren Sproule,"Lethbridge, Alberta, Canada",Chinook High School,womens volleyball,utah
+410,Phoebe Grace,"Laie, Hawaii",Kahuku High School,womens volleyball,utah
+411,Alexia Burch,N/A,N/A,womens gymnastics,utah
+412,Hunter Dula,N/A,N/A,womens gymnastics,utah
+413,Cammy Hall,N/A,N/A,womens gymnastics,utah
+414,Cristal  Isa,N/A,N/A,womens gymnastics,utah
+415,Kari Lee,N/A,N/A,womens gymnastics,utah
+416,Shannon McNatt,N/A,N/A,womens gymnastics,utah
+417,MaKenna Merrell-Giles,N/A,N/A,womens gymnastics,utah
+418,Adrienne  Randall,N/A,N/A,womens gymnastics,utah
+419,Missy  Reinstadtler,N/A,N/A,womens gymnastics,utah
+420,Macey Roberts,N/A,N/A,womens gymnastics,utah
+421,MyKayla Skinner,N/A,N/A,womens gymnastics,utah
+422,Sydney  Soloski,N/A,N/A,womens gymnastics,utah
+423,Kim Tessen,N/A,N/A,womens gymnastics,utah
+424,Lauren Wong,N/A,N/A,womens gymnastics,utah
+425,Dani Drews,"Sandy, Utah",Brighton High School,womens beach volleyball,utah
+426,Kenzie Koerber,"Chino Hills, Calif.",Chino Hills High School,womens beach volleyball,utah
+427,Lauga Gauta,"Garden Grove, Calif.",Garden Grove High School,womens beach volleyball,utah
+428,Kennedi Evans,"Twin Falls, Idaho",Twin Falls High School,womens beach volleyball,utah
+429,Alexa Van Komen,"El Dorado Hills, Calif.",Oak Ridge High School,womens beach volleyball,utah
+430,Berkeley Oblad,"Henderson, Nev.",Coronado High School,womens beach volleyball,utah
+431,Adora Anae,"Punaluu, Hawaii",Kahuku High School,womens beach volleyball,utah
+432,Melissa Powell,"Pleasant Grove, Utah",Pleasant Grove High School,womens beach volleyball,utah
+433,Tawnee Luafalemana,"Carson, Calif.",Carson High School,womens beach volleyball,utah
+434,Bailey Choy,"Honolulu, Hawaii",'Iolani High School,womens beach volleyball,utah
+435,Olivia Teerlink,"Sacramento, Calif.",Bella Vista High School,womens beach volleyball,utah
+436,Brianna Doehrmann,"Murrieta, Calif.",Vista Murrieta High School,womens beach volleyball,utah
+437,Lauren Sproule,"Lethbridge, Alberta, Canada",Chinook High School,womens beach volleyball,utah
+438,Phoebe Grace,"Laie, Hawaii",Kahuku High School,womens beach volleyball,utah
+439,Maximilian Bie,"Sorreisa, Norway",N/A,mens skiing,utah
+440,Tomas Birkner de Miguel,"Bariloche, Argentina",N/A,mens skiing,utah
+441,Dominic Demschar,"Park City, Utah",N/A,mens skiing,utah
+442,Logan Diekmann,"Bozeman, Mont.",N/A,mens skiing,utah
+443,Addison Dvoracek,"Truckee, Calif.",N/A,mens skiing,utah
+444,Mark Engel,"Truckee, Calif.",N/A,mens skiing,utah
+445,Jacob Engström,"Luleå, Sweden",N/A,mens skiing,utah
+446,Martin Grasic,"Invermere, B.C., Canada",N/A,mens skiing,utah
+447,Ola Jordheim,"Hemsedal, Buskerud, Norway",N/A,mens skiing,utah
+448,Noel Keeffe,"Steamboat Springs, Colo.",N/A,mens skiing,utah
+449,Joachim Bakken Lien,"Rælingen, Norway",N/A,mens skiing,utah
+450,Fredrik Maurstad,"Oslo, Norway",N/A,mens skiing,utah
+451,Huston Philp,"Calgary, Alberta, Canada",N/A,mens skiing,utah
+452,Bjørn  Riksaasen,"Vaga, Norway",N/A,mens skiing,utah
+453,Ty Sprock,"Stateline, Nev.",N/A,mens skiing,utah
+454,Linus Walch,"Lech, Vorarlberg, Austria",N/A,mens skiing,utah
+455,Kristine Fausa Aasberg,"Baerum, Norway",N/A,womens skiing,utah
+456,Mariah Bredal,"Victor, Idaho",N/A,womens skiing,utah
+457,Eirin Linnea Engeset,"Ålesund, Norway",N/A,womens skiing,utah
+458,Guro Jordheim,"Hemsedal, Buskerud, Norway",N/A,womens skiing,utah
+459,Leah Lange,"Park City, Utah",N/A,womens skiing,utah
+460,Karianne Moe,"Oslo, Norway",N/A,womens skiing,utah
+461,Julie Mohagen,"Oslo, Norway",N/A,womens skiing,utah
+462,Katie Parker,"Melbourne, Australia",N/A,womens skiing,utah
+463,Roni Remme,"Collingwood, Ontario, Canada",N/A,womens skiing,utah
+464,Julia Richter,"Sayda, Germany",N/A,womens skiing,utah
+465,Katie Vesterstein,"Duluth, Minn.",N/A,womens skiing,utah

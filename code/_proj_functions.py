@@ -3,12 +3,12 @@ from urllib.request import urlopen
 from urllib.request import FancyURLopener
 from bs4 import BeautifulSoup
 import pandas as pd
+import requests
 import re
 
 class MyOpener(FancyURLopener):
     version = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11)'
 myopener = MyOpener()
-
 
 def select_cols(table, colnames):
     # BeautifulSoup table, list of strings --> list of lists
@@ -82,8 +82,10 @@ def get_table(url, tableid):
 def get_list(url, classname, numlists=1):
     # for when rosters are stored in unordered list objects
     # url (str), list class (str) --> BeautifulSoup list
+
     html = myopener.open(url)
     soup = BeautifulSoup(html, 'lxml')
+
     if numlists == 1:
         mylist = soup.find('ul', class_ = classname)
     elif numlists > 1:
@@ -93,6 +95,7 @@ def get_list(url, classname, numlists=1):
         mylist = mylist[slice]
     else:
         mylist = []
+
     return mylist
 
 
@@ -175,7 +178,7 @@ def gather_rosters_ul(sports_dict, url_template):
             else:
                 if hometown == 'N/A':
                     high_school = 'N/A'
-                    
+
             player_row = [name, hometown, high_school, sport_id]
             roster_list.append(player_row)
 

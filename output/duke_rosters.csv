@@ -1,69 +1,40 @@
 ,name,hometown,high_school,gender,sport,college
-0,Javin DeLaurier,"Shipman, Va.",Saint Anne's-Belfield,N/A,mens basketball,duke
-1,Jordan Goldwire,"Norcross, Ga.",Norcross,N/A,mens basketball,duke
-2,Alex O'Connell,"Roswell, Ga.",Milton,N/A,mens basketball,duke
-3,Marques Bolden,"DeSoto, Texas",DeSoto,N/A,mens basketball,duke
-4,Antonio Vrankovic,"Zagreb, Croatia",Pine Crest School [Fla.],N/A,mens basketball,duke
-5,Jack White,"Traralgon, Victoria, Australia",Australian Institute of Sport,N/A,mens basketball,duke
-6,Justin Robinson,"San Antonio, Texas",San Antonio Christian Academy,N/A,mens basketball,duke
-7,Mike Buckmire,"Blue Bell, Pa.",Germantown Friends School,N/A,mens basketball,duke
-8,Brennan Besser,"Chicago, Ill.",Latin School,N/A,mens basketball,duke
+0,Zion Williamson,"Spartanburg, S.C.",Spartanburg Day School,N/A,mens basketball,duke
+1,Cam Reddish,"Norristown, Pa.",Westtown School,N/A,mens basketball,duke
+2,Tre Jones,"Apple Valley, Minn.",Apple Valley,N/A,mens basketball,duke
+3,RJ Barrett,"Mississauga, Ont.",Montverde Academy [Fla.],N/A,mens basketball,duke
+4,Javin DeLaurier,"Shipman, Va.",Saint Anne's-Belfield,N/A,mens basketball,duke
+5,Joey Baker,"Fayetteville, N.C.",Trinity Christian School,N/A,mens basketball,duke
+6,Jordan Goldwire,"Norcross, Ga.",Norcross,N/A,mens basketball,duke
+7,Alex O'Connell,"Roswell, Ga.",Milton,N/A,mens basketball,duke
+8,Marques Bolden,"DeSoto, Texas",DeSoto,N/A,mens basketball,duke
+9,Antonio Vrankovic,"Zagreb, Croatia",Pine Crest School [Fla.],N/A,mens basketball,duke
+10,Jack White,"Traralgon, Victoria, Australia",Australian Institute of Sport,N/A,mens basketball,duke
+11,Justin Robinson,"San Antonio, Texas",San Antonio Christian Academy,N/A,mens basketball,duke
+12,Mike Buckmire,"Blue Bell, Pa.",Germantown Friends School,N/A,mens basketball,duke
+13,Brennan Besser,"Chicago, Ill.",Latin School,N/A,mens basketball,duke
 0,Haley Gorecki,"Palatine, Ill.",William Fremd,N/A,womens basketball,duke
-1,Leaonna Odom,"Lompoc, Calif.",Chaminade,N/A,womens basketball,duke
-2,Sofia Roma,"Richmond Hill, N.Y.",Wagner College,N/A,womens basketball,duke
-3,Mikayla Boykin,"Clinton, N.C.",Clinton,N/A,womens basketball,duke
-4,Faith Suggs,"Flossmoor, Ill.",Homewood Flossmoor,N/A,womens basketball,duke
-5,Kyra Lambert,"Cibolo, Texas",Samuel Clemens,N/A,womens basketball,duke
-6,Jade Williams,"The Colony, Texas",The Colony,N/A,womens basketball,duke
-7,Emily Schubert,"Elizabethton, Tenn.",Elizabethton,N/A,womens basketball,duke
-8,Jayda Adams,"Irvine, Calif.",Mater Dei,N/A,womens basketball,duke
-9,Madison Treece,"St. Peters, Mo.",Rock Bridge,N/A,womens basketball,duke
-0,Zack Kone,"Boca Raton, Fla.",Pine Crest,N/A,baseball,duke
-1,Chris Crabtree,"Bahama, N.C.",Riverside,N/A,baseball,duke
-2,James McGhee,"Pensacola, Fla.",Pensacola Catholic,N/A,baseball,duke
-3,Max Miller,"Ponte Vedra, Fla.",Ponte Vedra,N/A,baseball,duke
-4,Jack Labosky,"Clovis, Calif.",Clovis North,N/A,baseball,duke
-5,Chris Dutra,"New Rochelle, N.Y.",Iona Prep,N/A,baseball,duke
-6,Thomas Girard,"Simsbury, Conn.",Avon Old Farms,N/A,baseball,duke
-7,Griffin Conine,"Weston, Fla.",Pine Crest School,N/A,baseball,duke
-8,Peter Zyla,"Alpharetta, Ga.",Saint Pius X Catholic,N/A,baseball,duke
-9,Ryan Day,"Phelan, Calif.",Los Osos,N/A,baseball,duke
-10,Kennie Taylor,"Tampa, Fla.",Jesuit,N/A,baseball,duke
-11,Michael Smiciklas,"Boca Raton, Fla.",Boca Raton Community,N/A,baseball,duke
-12,Matt Dockman,"Hilliard, Ohio",Watterson,N/A,baseball,duke
-13,Aaron Therien,"Durham, N.C.",Durham Academy,N/A,baseball,duke
-14,Matt Mervis,"Potomac, Md.",Georgetown Prep,N/A,baseball,duke
-15,Chris McGrath,"Atlanta, Ga.",Marist,N/A,baseball,duke
-16,Wil Hoyle,"Durham, N.C.",Jordan,N/A,baseball,duke
-17,Chris Proctor,"Lawndale, N.C.",Burns,N/A,baseball,duke
-18,Toma Shigaki-Than,"Oakton, Va.",Oakton,N/A,baseball,duke
-19,Bill Chillari,"Newport, N.J.",St. Augustine Prep,N/A,baseball,duke
-20,Bryce Jarvis,"Franklin, Tenn.",Brentwood Academy,N/A,baseball,duke
-21,Coleman Williams,"Atlanta, Ga.",Marist,N/A,baseball,duke
-22,Jimmy Herron,"Harleysville, Pa.",LaSalle,N/A,baseball,duke
-23,Graeme Stinson,"Norcorss, Ga.",Norcross,N/A,baseball,duke
-24,Ethan DeCaster,"Shoreview, Minn.",Mounds View,N/A,baseball,duke
-25,Adam Laskey,"Barrington, N.J.",Haddon Heights,N/A,baseball,duke
-26,Steve Mann,"Farmington Hills, Mich.",Detroit Country Day,N/A,baseball,duke
-27,Joey Loperfido,"Haddonfield, N.J.",Haddonfield Memorial,N/A,baseball,duke
-28,Josh Nifong,"High Point, N.C.",High Point Christian Academy,N/A,baseball,duke
-29,Michael Rothenberg,"Boca Raton, Fla.",Pine Crest,N/A,baseball,duke
-30,Sam Granoff,"Naples, Fla.",Naples,N/A,baseball,duke
-31,Hunter Davis,"Atlanta, Ga.",The Westminster Schools,N/A,baseball,duke
-32,Erikson Nichols,"Oradell, N.J.",Bergen Catholic,N/A,baseball,duke
-33,Chase Cheek,"Orlando, Fla.",Dr. Phillips,N/A,baseball,duke
-34,Zack Hersh,"Short Hills, N.J.",Seton Hall Prep,N/A,baseball,duke
-35,Cameron Kovachik,"Monroe, Conn.",Masuk,N/A,baseball,duke
-36,Mitch Stallings,"Atlanta, Ga.",The Lovett School,N/A,baseball,duke
-37,Tyler Wardwell,"Cincinnati, Ohio",La Salle,N/A,baseball,duke
+1,Miela Goodchild,"Queensland, Australia",Moreton Bay College,N/A,womens basketball,duke
+2,Leaonna Odom,"Lompoc, Calif.",Chaminade,N/A,womens basketball,duke
+3,Sofia Roma,"Richmond Hill, N.Y.",Wagner College,N/A,womens basketball,duke
+4,Mikayla Boykin,"Clinton, N.C.",Clinton,N/A,womens basketball,duke
+5,Uchenna Nwoke,"Grand Prairie, Texas",South Grand Prairie,N/A,womens basketball,duke
+6,Faith Suggs,"Flossmoor, Ill.",Homewood Flossmoor,N/A,womens basketball,duke
+7,Kyra Lambert,"Cibolo, Texas",Samuel Clemens,N/A,womens basketball,duke
+8,Rayah Craig,"Scottsdale, Ariz.",Desert Mountain,N/A,womens basketball,duke
+9,Onome Akinbode-James,"Blairstown, N.J.",Blair Academy,N/A,womens basketball,duke
+10,Jade Williams,"The Colony, Texas",The Colony,N/A,womens basketball,duke
+11,Emily Schubert,"Elizabethton, Tenn.",Elizabethton,N/A,womens basketball,duke
+12,Jayda Adams,"Irvine, Calif.",Mater Dei,N/A,womens basketball,duke
+13,Madison Treece,"St. Peters, Mo.",Rock Bridge,N/A,womens basketball,duke
 0,Axel Nyembwe,"Bethesda, Md.",The Avalon School,N/A,football,duke
 1,Javon Jackson,"Tyrone, Ga.",Sandy Creek,N/A,football,duke
 2,Daniel Karlin,"Providence, R.I.",Classical,N/A,football,duke
 3,T.J. Rahming,"Powder Springs, Ga.",McEachern,N/A,football,duke
 4,Myles Hudzick,"Reston, Va.",Bishop O'Connell,N/A,football,duke
-5,Johnathan Lloyd,"Graham, N.C.",Southern Alamance,N/A,football,duke
-6,Nicodem Pierre,"Miami, Fla.",Coral Reef,N/A,football,duke
-7,Mason Williams,"Pasadena, Calif.",St. Francis,N/A,football,duke
+5,Robert Nelson,"Los Gatos, Calif.",Los Gatos,N/A,football,duke
+6,Johnathan Lloyd,"Graham, N.C.",Southern Alamance,N/A,football,duke
+7,Nicodem Pierre,"Miami, Fla.",Coral Reef,N/A,football,duke
 8,Keyston Fuller,"Griffin, Ga.",Griffin,N/A,football,duke
 9,Aaron Young,"Murrieta, Calif.",Murrieta Valley,N/A,football,duke
 10,Jeremy McDuffie,"Snellville, Ga.",Shiloh,N/A,football,duke
@@ -71,8 +42,8 @@
 12,Scott Bracey,"Richmond, Va.",Benedictine,N/A,football,duke
 13,Tim Skapek,"Dallas, Texas",St. Mark's School of Texas,N/A,football,duke
 14,Gunnar Holmberg,"Wake Forest, N.C.",Heritage,N/A,football,duke
-15,Jordan Hayes,"Loganville, Ga.",Grayson,N/A,football,duke
-16,Sayvon Sampson,"Lumberton, N.C.",St. Pauls,N/A,football,duke
+15,Mason Williams,"Pasadena, Calif.",St. Francis,N/A,football,duke
+16,Jordan Hayes,"Loganville, Ga.",Grayson,N/A,football,duke
 17,Dennis Smith,"Gaffney, S.C.",Gaffney,N/A,football,duke
 18,Chris Katrenick,"Algonquin, Ill.",Harry D. Jacobs,N/A,football,duke
 19,Dylan Singleton,"Dacula, Ga.",Archer,N/A,football,duke
@@ -82,268 +53,261 @@
 23,Marvin Hubbard III,"Tyrone, Ga.",Sandy Creek,N/A,football,duke
 24,Mataeo Durant,"McCormick, S.C.",McCormick,N/A,football,duke
 25,Brittain Brown,"Canton, Ga.",Cherokee,N/A,football,duke
-26,Lummie Young IV,"Anderson, S.C.",Westside,N/A,football,duke
-27,Jarett Garner,"Harrisburg, N.C.",Hickory Ridge,N/A,football,duke
-28,Deon Jackson,"Atlanta, Ga.",Pace Academy,N/A,football,duke
-29,Michael Carter II,"Douglasville, Ga.",South Paulding,N/A,football,duke
-30,Troy Duncan,"Stamford, Conn.",Stamford,N/A,football,duke
-31,Damani Neal,"Sterling, Va.",The Bullis School [Md.],N/A,football,duke
-32,Mark Gilbert,"Fayetteville, N.C.",Terry Sanford,N/A,football,duke
-33,Nate Thompson,"Sanford, N.C.",Southern Lee,N/A,football,duke
-34,Brandon Feamster,"Exton, Pa.",Cheshire Academy [Conn.],N/A,football,duke
-35,Josh Blackwell,"Buford, Ga.",Buford,N/A,football,duke
-36,Brandon Hill,"Orangeburg, S.C.",Heathwood Hall Episcopal,N/A,football,duke
-37,Leonard Johnson,"Hayden, Ala.",Hayden,N/A,football,duke
-38,Ben Humphreys,"Newport Beach, Calif.",Mater Dei,N/A,football,duke
-39,Antone Williams,"Atlanta, Ga.",Woodward Academy,N/A,football,duke
-40,Matthew Cone,"Louisville, Tenn.",Maryville,N/A,football,duke
-41,Elijah Deveaux,"Waxhaw, N.C.",Charlotte Christian,N/A,football,duke
-42,Jackson Hubbard,"Dallas, Texas",Highland Park,N/A,football,duke
-43,Ken Torain,"Tampa, Fla.",Jesuit,N/A,football,duke
-44,Jack Driggers,"Tallahassee, Fla.",Leon,N/A,football,duke
-45,Jeremiah Lewis,"Plano, Texas",Prestonwood Christian,N/A,football,duke
-46,Jacob Morgenstern,"Lagrange, N.Y.",St. Luke's School [Conn.],N/A,football,duke
-47,Xander Gagnon,"Charlotte, N.C.",Charlotte Catholic,N/A,football,duke
-48,Shaka Heyward,"Hoschton, Ga.",Mill Creek,N/A,football,duke
-49,Austin Parker,"Mount Pleasant, N.C.",Mount Pleasant,N/A,football,duke
+26,James Jackson IV,"Cutler Bay, Fla.",Gulliver Prep,N/A,football,duke
+27,Lummie Young IV,"Anderson, S.C.",Westside,N/A,football,duke
+28,Jarett Garner,"Harrisburg, N.C.",Hickory Ridge,N/A,football,duke
+29,Deon Jackson,"Atlanta, Ga.",Pace Academy,N/A,football,duke
+30,Michael Carter II,"Douglasville, Ga.",South Paulding,N/A,football,duke
+31,Troy Duncan,"Stamford, Conn.",Stamford,N/A,football,duke
+32,Damani Neal,"Sterling, Va.",The Bullis School [Md.],N/A,football,duke
+33,Mark Gilbert,"Fayetteville, N.C.",Terry Sanford,N/A,football,duke
+34,Nate Thompson,"Sanford, N.C.",Southern Lee,N/A,football,duke
+35,Brandon Feamster,"Exton, Pa.",Cheshire Academy [Conn.],N/A,football,duke
+36,Josh Blackwell,"Buford, Ga.",Buford,N/A,football,duke
+37,Brandon Hill,"Orangeburg, S.C.",Heathwood Hall Episcopal,N/A,football,duke
+38,Leonard Johnson,"Hayden, Ala.",Hayden,N/A,football,duke
+39,Ben Humphreys,"Newport Beach, Calif.",Mater Dei,N/A,football,duke
+40,Antone Williams,"Atlanta, Ga.",Woodward Academy,N/A,football,duke
+41,Matthew Cone,"Louisville, Tenn.",Maryville,N/A,football,duke
+42,Elijah Deveaux,"Waxhaw, N.C.",Charlotte Christian,N/A,football,duke
+43,Jackson Hubbard,"Dallas, Texas",Highland Park,N/A,football,duke
+44,Ken Torain,"Tampa, Fla.",Jesuit,N/A,football,duke
+45,Jack Driggers,"Tallahassee, Fla.",Leon,N/A,football,duke
+46,Jeremiah Lewis,"Plano, Texas",Prestonwood Christian,N/A,football,duke
+47,Jacob Morgenstern,"Lagrange, N.Y.",St. Luke's School [Conn.],N/A,football,duke
+48,Xander Gagnon,"Charlotte, N.C.",Charlotte Catholic,N/A,football,duke
+49,Shaka Heyward,"Hoschton, Ga.",Mill Creek,N/A,football,duke
 50,Rocky Shelton II,"Fort Lauderdale, Fla.",St. Thomas Aquinas,N/A,football,duke
 51,Joe Giles-Harris,"Nyack, N.Y.",St. Joseph Regional [N.J.],N/A,football,duke
 52,Griffin Carter,"San Marino, Calif.",Polytechnic,N/A,football,duke
-53,Lee Rodio,"Durham, N.C.",Northern,N/A,football,duke
-54,Aaron Wright,"Glen Allen, Va.",Deep Run,N/A,football,duke
-55,Ryan Wolitzer,"Purchase, N.Y.",Rye Country Day,N/A,football,duke
-56,AJ Reed,"Prattville, Ala.",Prattville,N/A,football,duke
-57,Koby Quansah,"Manchester, Conn.",Kingswood Oxford,N/A,football,duke
-58,Jack Wohlabaugh,"Akron, Ohio",Walsh Jesuit,N/A,football,duke
-59,Victor Dimukeje,"Baltimore, Md.",Boys' Latin School,N/A,football,duke
-60,Scott Jones,"Newport News, Va.",Hampton Roads Academy,N/A,football,duke
-61,Tahj Rice,"Louisville, Ky.",Waggener,N/A,football,duke
-62,Kevin Gehsmann,"Greensboro, N.C.",Western Guilford,N/A,football,duke
-63,Derrick Tangelo,"Potomac, Md.",The Bullis School,N/A,football,duke
-64,Will Taylor,"Snellville, Ga.",Grayson,N/A,football,duke
-65,Elijiah Brown,"Charlotte, N.C.",Providence Day,N/A,football,duke
-66,John Taylor,"Snellville, Ga.",Grayson,N/A,football,duke
-67,Ben Wyatt,"Davidson, N.C.",Cannon School,N/A,football,duke
-68,Tre Hornbuckle,"Murray, Ky.",Murray,N/A,football,duke
-69,Patrick Leitten,"Brentwood, Tenn.",Ravenwood,N/A,football,duke
-70,Noah Waddell,"Medina, Ohio",St. Edward,N/A,football,duke
-71,Zach Harmon,"Toledo, Ohio",Central Catholic,N/A,football,duke
-72,Tristan Westover,"Concord, N.C.",Cabarrus,N/A,football,duke
-73,Julian Santos,"East Lake, Fla.",East Lake,N/A,football,duke
-74,Jaylen Miller,"Jacksonville, Fla.",Providence,N/A,football,duke
-75,Rakavius Chambers,"Opelika, Ala.",Opelika,N/A,football,duke
-76,Clark Bulleit,"Tampa, Fla.",Jesuit,N/A,football,duke
-77,Zach Baker,"Green Cove Springs, Fla.",Clay,N/A,football,duke
-78,Christian Harris,"Suwanee, Ga.",Collins Hill,N/A,football,duke
-79,Maurice McIntyre,"Jacksonville, N.C.",Northside,N/A,football,duke
-80,Liam Smith,"Little Silver, N.J.",Red Bank Catholic,N/A,football,duke
-81,Peace Addo,"Silver Spring, Md.",St. Frances Academy,N/A,football,duke
-82,Robert Kraeling,"Bishop, Ga.",Prince Avenue Christian,N/A,football,duke
-83,Casey Holman,"Snellville, Ga.",Brookwood,N/A,football,duke
-84,Jacob Rimmer,"Milan, Tenn.",Milan,N/A,football,duke
-85,Daniel Helm,"Chatham, Ill.",Glenwood,N/A,football,duke
-86,Davis Koppenhaver,"Valencia, Calif.",Hart,N/A,football,duke
-87,Chris Taylor,"Miramar, Fla.",University,N/A,football,duke
-88,Zamari Ellis,"Henderson, N.C.",Southern Vance,N/A,football,duke
-89,Trevon Lee,"Plantation, Fla.",Cardinal Gibbons,N/A,football,duke
-90,Damond Philyaw-Johnson,"Pensacola, Fla.",West Florida Tech,N/A,football,duke
-91,Drew Jordan,"Suwanee, Ga.",North Gwinnett,N/A,football,duke
-92,Noah Gray,"Leominster, Mass.",Leominster Senior,N/A,football,duke
-93,Jake Marwede,"Wilmette, Ill.",Loyola Academy,N/A,football,duke
-94,Mark Birmingham,"Ashburn, Va.",Briar Woods,N/A,football,duke
-95,Terrell Lucas,"Hollywood, Fla.",Miramar,N/A,football,duke
-96,Edgar Cerenord,"Miami, Fla.",American Heritage,N/A,football,duke
-97,Ben Frye,"Dublin, Ohio",Dublin Coffman,N/A,football,duke
-98,Twazanga Mugala,"Charlotte, N.C.",Ardrey Kell,N/A,football,duke
-99,Collin Wareham,"McLean, Va.","St. Albans [Washington, D.C.]",N/A,football,duke
-100,Trevon McSwain,"Suwanee, Ga.",Lambert,N/A,football,duke
-101,Chris Rumph II,"Gainesville, Fla.",Buchholz,N/A,football,duke
-102,Chidi Okonya,"Riverdale, Ga.",Riverdale,N/A,football,duke
+53,Austin Parker,"Mount Pleasant, N.C.",Mount Pleasant,N/A,football,duke
+54,Joe Hardison,"Darien, Conn.",Taft School,N/A,football,duke
+55,Aaron Wright,"Glen Allen, Va.",Deep Run,N/A,football,duke
+56,Ryan Wolitzer,"Purchase, N.Y.",Rye Country Day,N/A,football,duke
+57,AJ Reed,"Prattville, Ala.",Prattville,N/A,football,duke
+58,Koby Quansah,"Manchester, Conn.",Kingswood Oxford,N/A,football,duke
+59,Jack Wohlabaugh,"Akron, Ohio",Walsh Jesuit,N/A,football,duke
+60,Victor Dimukeje,"Baltimore, Md.",Boys' Latin School,N/A,football,duke
+61,Cole Carteaux,"Brentwood, Tenn.",Ravenwood,N/A,football,duke
+62,Scott Jones,"Newport News, Va.",Hampton Roads Academy,N/A,football,duke
+63,Tahj Rice,"Louisville, Ky.",Waggener,N/A,football,duke
+64,Kevin Gehsmann,"Greensboro, N.C.",Western Guilford,N/A,football,duke
+65,Derrick Tangelo,"Potomac, Md.",The Bullis School,N/A,football,duke
+66,Will Taylor,"Snellville, Ga.",Grayson,N/A,football,duke
+67,Elijiah Brown,"Charlotte, N.C.",Providence Day,N/A,football,duke
+68,John Taylor,"Snellville, Ga.",Grayson,N/A,football,duke
+69,Ben Wyatt,"Davidson, N.C.",Cannon School,N/A,football,duke
+70,Tre Hornbuckle,"Murray, Ky.",Murray,N/A,football,duke
+71,Patrick Leitten,"Brentwood, Tenn.",Ravenwood,N/A,football,duke
+72,Noah Waddell,"Medina, Ohio",St. Edward,N/A,football,duke
+73,Zach Thomson,"Greenwood Village, Colo.",Choate Rosemary [Conn.],N/A,football,duke
+74,Lee Rodio,"Durham, N.C.",Northern,N/A,football,duke
+75,Zach Harmon,"Toledo, Ohio",Central Catholic,N/A,football,duke
+76,Tristan Westover,"Concord, N.C.",Cabarrus,N/A,football,duke
+77,Julian Santos,"East Lake, Fla.",East Lake,N/A,football,duke
+78,Jaylen Miller,"Jacksonville, Fla.",Providence,N/A,football,duke
+79,Rakavius Chambers,"Opelika, Ala.",Opelika,N/A,football,duke
+80,Clark Bulleit,"Tampa, Fla.",Jesuit,N/A,football,duke
+81,Zach Baker,"Green Cove Springs, Fla.",Clay,N/A,football,duke
+82,Christian Harris,"Suwanee, Ga.",Collins Hill,N/A,football,duke
+83,Maurice McIntyre,"Jacksonville, N.C.",Northside,N/A,football,duke
+84,Liam Smith,"Little Silver, N.J.",Red Bank Catholic,N/A,football,duke
+85,Peace Addo,"Silver Spring, Md.",St. Frances Academy,N/A,football,duke
+86,Robert Kraeling,"Bishop, Ga.",Prince Avenue Christian,N/A,football,duke
+87,Casey Holman,"Snellville, Ga.",Brookwood,N/A,football,duke
+88,Jacob Rimmer,"Milan, Tenn.",Milan,N/A,football,duke
+89,Daniel Helm,"Chatham, Ill.",Glenwood,N/A,football,duke
+90,Davis Koppenhaver,"Valencia, Calif.",Hart,N/A,football,duke
+91,Chris Taylor,"Miramar, Fla.",University,N/A,football,duke
+92,Zamari Ellis,"Henderson, N.C.",Southern Vance,N/A,football,duke
+93,Trevon Lee,"Plantation, Fla.",Cardinal Gibbons,N/A,football,duke
+94,Damond Philyaw-Johnson,"Pensacola, Fla.",West Florida Tech,N/A,football,duke
+95,DJ Fullard,"Florence, S.C.",Wilson,N/A,football,duke
+96,Drew Jordan,"Suwanee, Ga.",North Gwinnett,N/A,football,duke
+97,Noah Gray,"Leominster, Mass.",Leominster Senior,N/A,football,duke
+98,Jake Marwede,"Wilmette, Ill.",Loyola Academy,N/A,football,duke
+99,Mark Birmingham,"Ashburn, Va.",Briar Woods,N/A,football,duke
+100,Terrell Lucas,"Hollywood, Fla.",Miramar,N/A,football,duke
+101,Edgar Cerenord,"Miami, Fla.",American Heritage,N/A,football,duke
+102,Ben Frye,"Dublin, Ohio",Dublin Coffman,N/A,football,duke
+103,Twazanga Mugala,"Charlotte, N.C.",Ardrey Kell,N/A,football,duke
+104,Collin Wareham,"McLean, Va.","St. Albans [Washington, D.C.]",N/A,football,duke
+105,Trevon McSwain,"Suwanee, Ga.",Lambert,N/A,football,duke
+106,Chris Rumph II,"Gainesville, Fla.",Buchholz,N/A,football,duke
+107,Chidi Okonya,"Riverdale, Ga.",Riverdale,N/A,football,duke
 0,Michael Reis,"Claremont, Calif.",Claremont,N/A,mens soccer,duke
-1,Will Pulisic,"Mechanicsville, Va.",Atlee,N/A,mens soccer,duke
-2,Oliver Spring,"Toronto, Ontario",Walworth Barbour American International School of Israel,N/A,mens soccer,duke
-3,Torbjørn Alseth,"Trondheim, Norway",KVT,N/A,mens soccer,duke
-4,Ciaran McKenna,"Glasgow, Scotland",St. Ninian's,N/A,mens soccer,duke
-5,Daniele Proch,"Riva Del Garda, Italy",Catawba,N/A,mens soccer,duke
-6,Suniel Veerakone,"Caledonia, Mich.",Novi,N/A,mens soccer,duke
-7,Max Moser,"Brengenz, Austria",Collegium Bernardi,N/A,mens soccer,duke
-8,Colby Agu,"Cary, N.C.",Athens Drive,N/A,mens soccer,duke
-9,Kristófer Garðarsson,"Akranes, Iceland",Grundaskóli,N/A,mens soccer,duke
-10,Miguel Yzaga,"Lima, Peru",Santa Maria Marianistas,N/A,mens soccer,duke
-11,Daniel Wright,"Wixom, Mich.",Walled Lake Western,N/A,mens soccer,duke
-12,Matthias Frick,"Feldkirch, Austria",Collegium Bernardi,N/A,mens soccer,duke
-13,Brandon Williamson,"Gainesville, Va.",Patriot,N/A,mens soccer,duke
-14,Nicolas Macri,"Buenos Aires, Argentina",St. Catherine’s Moorlands School,N/A,mens soccer,duke
-15,Max Feldman,"Chapel Hill, N.C.",East Chapel Hill,N/A,mens soccer,duke
-16,Wilhelm Jacques,"Medford, Mass.",Medford,N/A,mens soccer,duke
-17,Jack Doran,"West Roxbury, Mass.",Boston College High School,N/A,mens soccer,duke
-18,Stephen O'Connell,"Rye, N.Y.",Berkshire School,N/A,mens soccer,duke
-19,Sivert Daehlie,"Holter, Norway",Nannestad VGS,N/A,mens soccer,duke
-20,Nii Engmann,"Shoreline, Wash.",Kings High School,N/A,mens soccer,duke
-21,Kevin Feucht,"Schwetzingen, Germany",Hebel-Gymnasium Schwetzingen,N/A,mens soccer,duke
-22,Eliot Hamill,"Scarsdale, N.Y.",Edgemont High School,N/A,mens soccer,duke
+1,Eliot Hamill,"Scarsdale, N.Y.",Edgemont High School,N/A,mens soccer,duke
+2,Will Pulisic,"Mechanicsville, Va.",Atlee,N/A,mens soccer,duke
+3,Stephen O'Connell,"Rye, N.Y.",Berkshire School,N/A,mens soccer,duke
+4,Oliver Spring,"Toronto, Ontario",Walworth Barbour American International School of Israel,N/A,mens soccer,duke
+5,Wilhelm Jacques,"Medford, Mass.",Medford,N/A,mens soccer,duke
+6,Aedan Stanley,"Columbia, Ill.",Columbia,N/A,mens soccer,duke
+7,Kevin Feucht,"Schwetzingen, Germany",Hebel-Gymnasium Schwetzingen,N/A,mens soccer,duke
+8,Torbjørn Alseth,"Trondheim, Norway",KVT,N/A,mens soccer,duke
+9,Ciaran McKenna,"Glasgow, Scotland",St. Ninian's,N/A,mens soccer,duke
+10,Daniele Proch,"Riva Del Garda, Italy",Catawba,N/A,mens soccer,duke
+11,Suniel Veerakone,"Caledonia, Mich.",Novi,N/A,mens soccer,duke
+12,Max Moser,"Brengenz, Austria",Collegium Bernardi,N/A,mens soccer,duke
+13,Colby Agu,"Cary, N.C.",Athens Drive,N/A,mens soccer,duke
+14,Ian Murphy,"Redlands, Calif.",Redlands East Valley,N/A,mens soccer,duke
+15,Kristófer Garðarsson,"Akranes, Iceland",Grundaskóli,N/A,mens soccer,duke
+16,Miguel Yzaga,"Lima, Peru",Santa Maria Marianistas,N/A,mens soccer,duke
+17,Daniel Wright,"Wixom, Mich.",Walled Lake Western,N/A,mens soccer,duke
+18,Issa Rayyan,"Grand Blanc, Mich.",YSC Academy,N/A,mens soccer,duke
+19,Matthias Frick,"Feldkirch, Austria",Collegium Bernardi,N/A,mens soccer,duke
+20,Brandon Williamson,"Gainesville, Va.",Patriot,N/A,mens soccer,duke
+21,Sivert Daehlie,"Holter, Norway",Nannestad VGS,N/A,mens soccer,duke
+22,Seth Kuhn,"Wyomissing, Pa.",YSC Academy,N/A,mens soccer,duke
 23,Conor Kelly,"Rumson, N.J.",Christian Brothers Academy,N/A,mens soccer,duke
-24,Seth Kuhn,"Wyomissing, Pa.",YSC Academy,N/A,mens soccer,duke
-25,Ian Murphy,"Redlands, Calif.",Redlands East Valley,N/A,mens soccer,duke
-26,Issa Rayyan,"Grand Blanc, Mich.",YSC Academy,N/A,mens soccer,duke
-27,Aedan Stanley,"Columbia, Ill.",Columbia,N/A,mens soccer,duke
+24,Nicolas Macri,"Buenos Aires, Argentina",St. Catherine’s Moorlands School,N/A,mens soccer,duke
+25,Nii Engmann,"Shoreline, Wash.",Kings High School,N/A,mens soccer,duke
+26,Max Feldman,"Chapel Hill, N.C.",East Chapel Hill,N/A,mens soccer,duke
+27,Jack Doran,"West Roxbury, Mass.",Boston College High School,N/A,mens soccer,duke
 0,Brooke Heinsohn,"Norfolk, Mass.",The Rivers School,N/A,womens soccer,duke
 1,Chelsea Burns,"Jacksonville, Fla.",St. Johns Country Day School,N/A,womens soccer,duke
 2,Taylor Mitchell,"Tarzana, Calif.",Sierra Canyon School,N/A,womens soccer,duke
 3,Remi Swartz,"Sanford, N.C.",Cary Academy,N/A,womens soccer,duke
-4,Emily Crocco,"Midlothian, Va.",James River HS,N/A,womens soccer,duke
-5,Caitlin Cosme,"New Hyde Park, N.Y.",Herricks High School,N/A,womens soccer,duke
-6,Taylor Racioppi,"Ocean Township, N.J.",Academy of Allied Health and Science,N/A,womens soccer,duke
-7,Tess Boade,"Highlands Ranch, Colo.",Valor Christian,N/A,womens soccer,duke
-8,Kat McDonald,"Raleigh, N.C.",Wakefield,N/A,womens soccer,duke
-9,Gabi Brummett,"Bow, N.H.",The Derryfield School,N/A,womens soccer,duke
-10,Olivia Erlbeck,"San Diego, Calif.",Cathedral Catholic,N/A,womens soccer,duke
-11,Kayla McCoy,"Lincolnwood, Ill.",Christian Heritage Academy,N/A,womens soccer,duke
-12,Holly Stam,"Ipswich, Mass.",Pingree School,N/A,womens soccer,duke
-13,Sydney Simmons,"Van Alstyne, Texas",Van Alstyne HS,N/A,womens soccer,duke
-14,Ella Stevens,"Grayson, Ga.",Grayson,N/A,womens soccer,duke
-15,Karlie Paschall,"Brentwood, Tenn.",Ravenwood,N/A,womens soccer,duke
-16,Marykate McGuire,"Portsmouth, R.I.",Portsmouth HS,N/A,womens soccer,duke
-17,Mia Gyau,"Colesville, Md.",Bullis School,N/A,womens soccer,duke
-18,Delaney Graham,"Atlanta, Ga.",The Westminster Schools,N/A,womens soccer,duke
-19,Emma Carlson,"Lilburn, Ga.",Parkview,N/A,womens soccer,duke
-20,Mackenzie Pluck,"North Wales, Pa.",Germantown Academy,N/A,womens soccer,duke
-21,Mackenzie Coles,"Wexford, Pa.",Sewickley Academy,N/A,womens soccer,duke
-22,Natasha Turner,"Chapel Hill, N.C.",Carrboro,N/A,womens soccer,duke
-23,Lily Nabet,"Los Angeles, Calif.",Chaminade,N/A,womens soccer,duke
+4,Caitlin Cosme,"New Hyde Park, N.Y.",Herricks High School,N/A,womens soccer,duke
+5,Taylor Racioppi,"Ocean Township, N.J.",Academy of Allied Health and Science,N/A,womens soccer,duke
+6,Tess Boade,"Highlands Ranch, Colo.",Valor Christian,N/A,womens soccer,duke
+7,Kat McDonald,"Raleigh, N.C.",Wakefield,N/A,womens soccer,duke
+8,Gabi Brummett,"Bow, N.H.",The Derryfield School,N/A,womens soccer,duke
+9,Kayla McCoy,"Lincolnwood, Ill.",Christian Heritage Academy,N/A,womens soccer,duke
+10,Holly Stam,"Ipswich, Mass.",Pingree School,N/A,womens soccer,duke
+11,Sydney Simmons,"Van Alstyne, Texas",Van Alstyne HS,N/A,womens soccer,duke
+12,Ella Stevens,"Grayson, Ga.",Grayson,N/A,womens soccer,duke
+13,Karlie Paschall,"Brentwood, Tenn.",Ravenwood,N/A,womens soccer,duke
+14,Marykate McGuire,"Portsmouth, R.I.",Portsmouth HS,N/A,womens soccer,duke
+15,Mia Gyau,"Colesville, Md.",Bullis School,N/A,womens soccer,duke
+16,Delaney Graham,"Atlanta, Ga.",The Westminster Schools,N/A,womens soccer,duke
+17,Emma Carlson,"Lilburn, Ga.",Parkview,N/A,womens soccer,duke
+18,Mackenzie Pluck,"North Wales, Pa.",Germantown Academy,N/A,womens soccer,duke
+19,Mackenzie Coles,"Wexford, Pa.",Sewickley Academy,N/A,womens soccer,duke
+20,Natasha Turner,"Chapel Hill, N.C.",Carrboro,N/A,womens soccer,duke
+21,Lily Nabet,"Los Angeles, Calif.",Chaminade,N/A,womens soccer,duke
 0,Steven DiLisio,"Swampscott, Mass.",Phillips Exeter Academy [N.H.],N/A,mens golf,duke
 1,Shrish Dwivedi,"Redwood City, Calif.",Harker,N/A,mens golf,duke
 2,Chandler Eaton,"Alpharetta, Ga.",Alpharetta,N/A,mens golf,duke
 3,Evan Katz,"Washington, D.C.",Landon School,N/A,mens golf,duke
 4,Adrien Pendaries,"Neuilly-sur-Seine, France",Notre-Dame de Sainte-Croix,N/A,mens golf,duke
-5,Jake Shuman,"Needham, Mass.",Needham,N/A,mens golf,duke
-6,Ben Silverman,"Toledo, Ohio",Ottawa Hills,N/A,mens golf,duke
-7,Alex Smalley,"Wake Forest, N.C.",Wake Forest,N/A,mens golf,duke
-8,Harrison Taee,"Virginia Water, Surrey, United Kingdom",Eton College,N/A,mens golf,duke
-9,Qi wen Wong,Singapore,IMG Academy,N/A,mens golf,duke
-10,Adam Wood,"Zionsville, Ind.",Zionsville Community,N/A,mens golf,duke
+5,Alex Smalley,"Wake Forest, N.C.",Wake Forest,N/A,mens golf,duke
+6,Harrison Taee,"Virginia Water, Surrey, United Kingdom",Eton College,N/A,mens golf,duke
+7,Qi wen Wong,Singapore,IMG Academy,N/A,mens golf,duke
 0,Ana Belac,"Portoroz, Slovenia",Gimnazija Piran,N/A,womens golf,duke
 1,Jaravee Boonchant,"Bangkok, Thailand",IMG Academy [Fla.],N/A,womens golf,duke
 2,Virginia Elena Carta,"Udine, Italy",Liceo Scientifico Gaspare Bertoni,N/A,womens golf,duke
 3,Gina Kim,"Chapel Hill, N.C.",Chapel Hill High School,N/A,womens golf,duke
 4,Hannah O'Sullivan,"Chandler, Ariz.",Hamilton,N/A,womens golf,duke
 5,Miranda Wang,"Beijing, China",Amador Valley [Calif.],N/A,womens golf,duke
-0,Nicolas Alvarez,"Lima, Peru",Franklin Delano Roosevelt School,N/A,mens tennis,duke
-1,Ryan Dickerson,"Marlton, N.J.",Moorestown,N/A,mens tennis,duke
-2,Spencer Furman,"Seattle, Wash.",Sammamish High School,N/A,mens tennis,duke
-3,Jason Lapidus,"Durham, N.C.",Durham Academy,N/A,mens tennis,duke
-4,Robert Levine,"Bedford, N.Y.",Laurel Springs Online,N/A,mens tennis,duke
+0,Ryan Dickerson,"Marlton, N.J.",Moorestown,N/A,mens tennis,duke
+1,Spencer Furman,"Seattle, Wash.",Sammamish High School,N/A,mens tennis,duke
+2,Jason Lapidus,"Durham, N.C.",Durham Academy,N/A,mens tennis,duke
+3,Robert Levine,"Bedford, N.Y.",Laurel Springs Online,N/A,mens tennis,duke
+4,Robert Maciag,"Sterling, Va.",Dominion,N/A,mens tennis,duke
 5,Catalin Mateas,"Braintree, Mass.",US Tennis Association Training Center,N/A,mens tennis,duke
 6,Sean Sculley,"Hilton Head Island, S.C.",Smith Stearns Tennis Academy,N/A,mens tennis,duke
 7,Nick Stachowiak,"Cary, N.C.",Middle Creek High School,N/A,mens tennis,duke
 0,Kelly Chen,"Cerritos, Calif.",Laurel Springs,N/A,womens tennis,duke
 1,Meible Chi,"Weston, Fla.",Florida Virtual School,N/A,womens tennis,duke
 2,Ellyse Hamlin,"Fairfield, Conn.",Laurel Springs School,N/A,womens tennis,duke
-3,Samantha Harris,"Melbourne, Australia",Canterbury Girls Secondary College,N/A,womens tennis,duke
-4,Ema Lazic,"London, United Kingdom",Queenswood,N/A,womens tennis,duke
+3,Ema Lazic,"London, United Kingdom",Queenswood,N/A,womens tennis,duke
+4,Maria Mateas,"Chapel Hill, N.C.",Laurel Springs Online School,N/A,womens tennis,duke
 5,Kaitlyn McCarthy,"Cary, N.C.",Laurel Springs School,N/A,womens tennis,duke
-6,Rebecca Smaller,"London, United Kingdom",Queenswood School,N/A,womens tennis,duke
-7,Hannah Zhao,"San Diego, Calif.",Torrey Pines,N/A,womens tennis,duke
+6,Hannah Zhao,"San Diego, Calif.",Torrey Pines,N/A,womens tennis,duke
 0,Benjamin Anderson,"Mapleton, Utah",Pleasant Grove,N/A,wrestling,duke
-1,Thayer Atkins,"Dallas, Texas",Trinity Christian Academy,N/A,wrestling,duke
-2,Harrison Campbell,"Calabash, N.C.",West Brunswick,N/A,wrestling,duke
-3,Eric Carter,"Vernon Hills, Ill.",Stevenson,N/A,wrestling,duke
-4,Louis Castellano,"Roseland, N.J.",Delbarton School,N/A,wrestling,duke
-5,Joshua Copeland,"Harrah, Okla.",Harrah,N/A,wrestling,duke
-6,Anthony DeMartino,"Blairstown, N.J.",Blair,N/A,wrestling,duke
-7,Luke Farinaro,"Park Ridge, N.J.",Don Bosco,N/A,wrestling,duke
-8,Josh Finesilver,"Greenwood Village, Colo.",Cherry Creek,N/A,wrestling,duke
-9,Matt Finesilver,"Greenwood Village, Colo.",Cherry Creek,N/A,wrestling,duke
-10,Mitch Finesilver,"Greenwood Village, Colo.",Cherry Creek,N/A,wrestling,duke
-11,Zach Finesilver,"Greenwood Village, Colo.",Cherry Creek,N/A,wrestling,duke
-12,Araad Fisher,"Durham, N.C.",Riverside,N/A,wrestling,duke
-13,Jacob Kasper,"Lexington, Ohio",Lexington,N/A,wrestling,duke
-14,Ethan Krause,"Brookeville, Md.",Georgetown Prep,N/A,wrestling,duke
-15,Brandon Leynaud,"Lexington, Ohio",Lexington,N/A,wrestling,duke
-16,Maliik Marcin,"Durham, N.C.",Jordan,N/A,wrestling,duke
+1,Harrison Campbell,"Calabash, N.C.",West Brunswick,N/A,wrestling,duke
+2,Eric Carter,"Vernon Hills, Ill.",Stevenson,N/A,wrestling,duke
+3,Louis Castellano,"Roseland, N.J.",Delbarton School,N/A,wrestling,duke
+4,Joshua Copeland,"Harrah, Okla.",Harrah,N/A,wrestling,duke
+5,Anthony DeMartino,"Blairstown, N.J.",Blair,N/A,wrestling,duke
+6,Mason Eaglin,"Tacoma, Wash.",South Kitsap,N/A,wrestling,duke
+7,Josh Finesilver,"Greenwood Village, Colo.",Cherry Creek,N/A,wrestling,duke
+8,Matt Finesilver,"Greenwood Village, Colo.",Cherry Creek,N/A,wrestling,duke
+9,Mitch Finesilver,"Greenwood Village, Colo.",Cherry Creek,N/A,wrestling,duke
+10,Zach Finesilver,"Greenwood Village, Colo.",Cherry Creek,N/A,wrestling,duke
+11,Araad Fisher,"Durham, N.C.",Riverside,N/A,wrestling,duke
+12,Ethan Krause,"Brookeville, Md.",Georgetown Prep,N/A,wrestling,duke
+13,Arien Leigh,"Powells Point, N.C.",First Flight,N/A,wrestling,duke
+14,Brandon Leynaud,"Lexington, Ohio",Lexington,N/A,wrestling,duke
+15,Maliik Marcin,"Durham, N.C.",Jordan,N/A,wrestling,duke
+16,Ty Mills,"Brownsburg, Ind.",Brownsburg,N/A,wrestling,duke
 17,Jeremiah Reitz,"Griffith, Ind.",Griffith,N/A,wrestling,duke
-18,Roman Romero,"Escalon, Calif.",McNair,N/A,wrestling,duke
-19,Kaden Russell,"Medina, Ohio",St. Ignatius,N/A,wrestling,duke
-20,Alec Schenk,"Perry, Ohio",Perry,N/A,wrestling,duke
-21,Parker Walton,"Weddington, N.C.",Weddington,N/A,wrestling,duke
+18,Kaden Russell,"Medina, Ohio",St. Ignatius,N/A,wrestling,duke
+19,Alec Schenk,"Perry, Ohio",Perry,N/A,wrestling,duke
+20,Parker Walton,"Weddington, N.C.",Weddington,N/A,wrestling,duke
 0,Erin Scherrer,"Chesapeake, Va.",Cape Henry Collegiate,N/A,womens field hockey,duke
 1,Caroline Hanan,"Sugar Land, Texas",The Kinkaid School,N/A,womens field hockey,duke
-2,Leah Crouse,"Virginia Beach, Va.",Frank W. Cox,N/A,womens field hockey,duke
-3,Libby Thompson,"Lake Forest, Ill.",Lake Forest,N/A,womens field hockey,duke
-4,Jillian Wolgemuth,"Mount Joy, Pa.",Manheim Central,N/A,womens field hockey,duke
-5,Lily Posternak,"York, Maine",York,N/A,womens field hockey,duke
-6,Haley Schleicher,"Virginia Beach, Va.",First Colonial,N/A,womens field hockey,duke
-7,Caroline Andretta,"New Vernon, N.J.",Oak Knoll,N/A,womens field hockey,duke
-8,Margaux Paolino,"Villanova, Pa.",Episcopal Academy,N/A,womens field hockey,duke
-9,Rose Tynan,"Auckland, New Zealand",Epsom Girls Grammar School,N/A,womens field hockey,duke
-10,Lexi Davidson,"North Andover, Mass.",The Hill School [Pa.],N/A,womens field hockey,duke
-11,Kiki Rozemeijer,"Santpoort-Zuid, The Netherlands",Mendelcollege,N/A,womens field hockey,duke
-12,Grace Kim,"Richmond, Va.",St. Catherine's School,N/A,womens field hockey,duke
-13,Morgan Bitting,"Hummelstown, Pa.",Lower Dauphin,N/A,womens field hockey,duke
-14,Christy Palazzese,"Berwyn, Pa.",Episcopal Academy,N/A,womens field hockey,duke
-15,Lydia Smeltz,"Harrisburg, Pa.",Central Dauphin,N/A,womens field hockey,duke
-16,Kirby Comizio,"New Vernon, N.J.",Oak Knoll,N/A,womens field hockey,duke
-17,Sammi Steele,"Eagleville, Pa.",Methacton,N/A,womens field hockey,duke
-0,Sydney Aquilina,"Leesburg, Va.",Loundoun County,N/A,womens rowing,duke
-1,Abby Artmann,"Cedar Park, Texas",Round Rock,N/A,womens rowing,duke
-2,Rhea Bergman,"Los Altos, Calif.",Mountain View,N/A,womens rowing,duke
-3,Maya Blake,"Exeter, N.H.",Phillips Exeter Academy,N/A,womens rowing,duke
-4,Lelia Boley,"Westport, Conn.",Staples,N/A,womens rowing,duke
-5,Madison Brown,"Sarasota, Fla.",Pine View School for the Gifted,N/A,womens rowing,duke
-6,Margot Calmar,"Stonington, Conn.",Stonington,N/A,womens rowing,duke
-7,Alexa Campbell,"Rochester, N.Y.",Brighton,N/A,womens rowing,duke
-8,Caitlyn Carlisle,"Duxbury, Mass.",Duxbury,N/A,womens rowing,duke
-9,Tara Christensen,"Nanaimo, British Columbia",Brentwood College,N/A,womens rowing,duke
-10,Sydney Cikovic,"Palm Beach, Fla.",Lawrenceville School,N/A,womens rowing,duke
-11,Catherine Dana,"San Francisco, Calif.",Convent of the Sacred Heart,N/A,womens rowing,duke
-12,Marissa Donadio,"Upper Arlington, Ohio",Upper Arlington,N/A,womens rowing,duke
-13,Rani Duff,"Wilmette, Ill.",New Trier,N/A,womens rowing,duke
-14,Tara Fagan,"Annapolis, Md.",Severn School,N/A,womens rowing,duke
-15,Jessica Findlay,"Teesside, United Kingdom",Laurence Jackson,N/A,womens rowing,duke
-16,Sarah Fletcher,"London, United Kingdom",St. Edward's School,N/A,womens rowing,duke
-17,Grace Garverick,"Sacramento, Calif.",Rio Americano,N/A,womens rowing,duke
-18,Leeloo Gilet,"Riverside, Conn.",Greenwich,N/A,womens rowing,duke
-19,Savannah Herbek,"Simsbury, Conn.",Simsbury,N/A,womens rowing,duke
-20,Sarah Hubner,"Simsbury, Conn.",Simsbury,N/A,womens rowing,duke
-21,Olivia Hunt,"Lake Forest, Ill.",Lake Forest,N/A,womens rowing,duke
-22,Anna Jenkins,"Durham, N.C.",Cary Academy,N/A,womens rowing,duke
-23,Anna Power Jestin,"Paris, France",Lycée Louis Le Grand,N/A,womens rowing,duke
-24,Reed Kenny,"Alexandria, Va.",T.C. Williams,N/A,womens rowing,duke
-25,Anne Klok,"Amsterdam, Netherlands",Vossius Gymnasium,N/A,womens rowing,duke
-26,Bailey Knight,"Alexandria, Va.",Thomas Jefferson,N/A,womens rowing,duke
-27,Ema Kuczura,"Chicago, Ill.",Northside College Prep,N/A,womens rowing,duke
-28,Meagan Lew,"Boston, Mass.",Boston Latin School,N/A,womens rowing,duke
-29,Katherine Lustig,"Newtown, Pa.",Council Rock,N/A,womens rowing,duke
-30,Katherine Maitland,"London, United Kingdom",Upton Court Grammar School,N/A,womens rowing,duke
-31,Olivia Mendonca,"Christchurch, New Zealand",St. Margaret's College,N/A,womens rowing,duke
-32,Bella Miller,"Wilmette, Ill.",New Trier,N/A,womens rowing,duke
-33,Laura Navarrete,"Cos Cob, Conn.",Greenwich,N/A,womens rowing,duke
-34,Caroline Olsen,"Healdsburg, Calif.",Cardinal Newman,N/A,womens rowing,duke
-35,Taji Phillips,"Brooklyn, N.Y.",Dwight School,N/A,womens rowing,duke
-36,Isabel Ruby-Hill,"Toronto, Ontario",Branksome Hall,N/A,womens rowing,duke
-37,Alyssa Rucker,"Burke, Va.",Lake Braddock High School,N/A,womens rowing,duke
-38,Sophie Simister,"Oxford, United Kingdom",Headington School,N/A,womens rowing,duke
-39,Kiernan Spencer,"North Hampton, N.H.",Phillips Exeter Academy,N/A,womens rowing,duke
-40,Shannon Tierney,"Hackettstown, N.J.",Blair Academy,N/A,womens rowing,duke
-41,Olivia Vogel,"Las Vegas, Nev.",Faith Lutheran,N/A,womens rowing,duke
-42,Grace Williams,"Vienna, Va.",James Madison HS,N/A,womens rowing,duke
-0,Jill Ferraro,"Ashburn, Va.",North Carolina,N/A,softball,duke
+2,Tessa Gote,"Amstelveen, The Netherlands",Keizer Karel College,N/A,womens field hockey,duke
+3,Leah Crouse,"Virginia Beach, Va.",Frank W. Cox,N/A,womens field hockey,duke
+4,Libby Thompson,"Lake Forest, Ill.",Lake Forest,N/A,womens field hockey,duke
+5,Olivia Sahaydak,"Bethlehem, Pa.",Liberty HS,N/A,womens field hockey,duke
+6,Jillian Wolgemuth,"Mount Joy, Pa.",Manheim Central,N/A,womens field hockey,duke
+7,Noor van de Laar,"Brasschaat, Antwerp, Belgium",Sint-Michielscollege Brasschaat,N/A,womens field hockey,duke
+8,Lily Posternak,"York, Maine",York,N/A,womens field hockey,duke
+9,Haley Schleicher,"Virginia Beach, Va.",First Colonial,N/A,womens field hockey,duke
+10,Caroline Andretta,"New Vernon, N.J.",Oak Knoll,N/A,womens field hockey,duke
+11,Margaux Paolino,"Villanova, Pa.",Episcopal Academy,N/A,womens field hockey,duke
+12,Rose Tynan,"Auckland, New Zealand",Epsom Girls Grammar School,N/A,womens field hockey,duke
+13,Lexi Davidson,"North Andover, Mass.",The Hill School [Pa.],N/A,womens field hockey,duke
+14,Kiki Rozemeijer,"Santpoort-Zuid, The Netherlands",Mendelcollege,N/A,womens field hockey,duke
+15,Grace Kim,"Richmond, Va.",St. Catherine's School,N/A,womens field hockey,duke
+16,Morgan Bitting,"Hummelstown, Pa.",Lower Dauphin,N/A,womens field hockey,duke
+17,Christy Palazzese,"Berwyn, Pa.",Episcopal Academy,N/A,womens field hockey,duke
+18,Lydia Smeltz,"Harrisburg, Pa.",Central Dauphin,N/A,womens field hockey,duke
+19,Kirby Comizio,"New Vernon, N.J.",Oak Knoll,N/A,womens field hockey,duke
+20,Sammi Steele,"Eagleville, Pa.",Methacton,N/A,womens field hockey,duke
+0,Rhea Bergman,"Los Altos, Calif.",Mountain View,N/A,womens rowing,duke
+1,Maya Blake,"Exeter, N.H.",Phillips Exeter Academy,N/A,womens rowing,duke
+2,Lelia Boley,"Westport, Conn.",Staples,N/A,womens rowing,duke
+3,Madison Brown,"Sarasota, Fla.",Pine View School for the Gifted,N/A,womens rowing,duke
+4,Margot Calmar,"Stonington, Conn.",Stonington,N/A,womens rowing,duke
+5,Caitlyn Carlisle,"Duxbury, Mass.",Duxbury,N/A,womens rowing,duke
+6,Sydney Cikovic,"Palm Beach, Fla.",Lawrenceville School,N/A,womens rowing,duke
+7,Marissa Donadio,"Upper Arlington, Ohio",Upper Arlington,N/A,womens rowing,duke
+8,Rani Duff,"Wilmette, Ill.",New Trier,N/A,womens rowing,duke
+9,Tara Fagan,"Annapolis, Md.",Severn School,N/A,womens rowing,duke
+10,Grace Garverick,"Sacramento, Calif.",Rio Americano,N/A,womens rowing,duke
+11,Leeloo Gilet,"Riverside, Conn.",Greenwich,N/A,womens rowing,duke
+12,Savannah Herbek,"Simsbury, Conn.",Simsbury,N/A,womens rowing,duke
+13,Sarah Hubner,"Simsbury, Conn.",Simsbury,N/A,womens rowing,duke
+14,Olivia Hunt,"Lake Forest, Ill.",Lake Forest,N/A,womens rowing,duke
+15,Anna Jenkins,"Durham, N.C.",Cary Academy,N/A,womens rowing,duke
+16,Anna Power Jestin,"Paris, France",Lycée Louis Le Grand,N/A,womens rowing,duke
+17,Reed Kenny,"Alexandria, Va.",T.C. Williams,N/A,womens rowing,duke
+18,Anne Klok,"Amsterdam, Netherlands",Vossius Gymnasium,N/A,womens rowing,duke
+19,Bailey Knight,"Alexandria, Va.",Thomas Jefferson,N/A,womens rowing,duke
+20,Ema Kuczura,"Chicago, Ill.",Northside College Prep,N/A,womens rowing,duke
+21,Katherine Lustig,"Newtown, Pa.",Council Rock,N/A,womens rowing,duke
+22,Olivia Mendonca,"Christchurch, New Zealand",St. Margaret's College,N/A,womens rowing,duke
+23,Bella Miller,"Wilmette, Ill.",New Trier,N/A,womens rowing,duke
+24,Laura Navarrete,"Cos Cob, Conn.",Greenwich,N/A,womens rowing,duke
+25,Caroline Olsen,"Healdsburg, Calif.",Cardinal Newman,N/A,womens rowing,duke
+26,Isabel Ruby-Hill,"Toronto, Ontario",Branksome Hall,N/A,womens rowing,duke
+27,Sophie Simister,"Oxford, United Kingdom",Headington School,N/A,womens rowing,duke
+28,Kiernan Spencer,"North Hampton, N.H.",Phillips Exeter Academy,N/A,womens rowing,duke
+29,Shannon Tierney,"Hackettstown, N.J.",Blair Academy,N/A,womens rowing,duke
+0,Caroline Jacobsen,"Tallahassee, Fla.",Lawton Chiles HS,N/A,softball,duke
 1,Jameson Kavel,"Duluth, Ga.",Wesleyan School,N/A,softball,duke
 2,Haley Wymbs,"San Jose, Calif.",Seattle University,N/A,softball,duke
 3,Reilly Metzger,"Boerne, Texas",Columbia University,N/A,softball,duke
-4,Katherine Huey,"Cumming, Ga.",South Forsyth HS,N/A,softball,duke
-5,Peyton St. George,"Mechanicsville, Va.",Atlee HS,N/A,softball,duke
-6,Dominique Salinas,"Corpus Christi, Texas",Ole Miss,N/A,softball,duke
-7,Hannah Pridemore,"Lithia, Fla.",Newsome,N/A,softball,duke
-8,Ashleigh Rodriguez,"Las Vegas, Nev.",Liberty HS,N/A,softball,duke
-9,Raine Wilson,"Mechanicsville, Va.",James Madison,N/A,softball,duke
-10,Makenna Lutterloh,"Rancho Santa Margarita, Calif.",Santa Margarita Catholic HS,N/A,softball,duke
-11,Amelia Wiercioch,"Tustin, Calif.",Rosary Academy,N/A,softball,duke
-12,Emilie Cieslak,"Montvale, N.J.",Immaculate Heart Academy,N/A,softball,duke
-13,Brianna Butler,"Evans, Ga.",Greenbrier HS,N/A,softball,duke
-14,Jazmine Moreno,"Elk Grove, Calif.",Elk Grove,N/A,softball,duke
-15,Kortney Dry,"Tahlequah, Okla.",Tahlequah,N/A,softball,duke
-16,Rachel Abboud,"Huntington Beach, Calif.",Edison HS,N/A,softball,duke
+4,Angie Biele,"Johns Creek, Ga.",Mount Pisgah Christian School,N/A,softball,duke
+5,Katherine Huey,"Cumming, Ga.",South Forsyth HS,N/A,softball,duke
+6,Shelby Walters,"Cohutta, Ga.",Girls Preparatory School,N/A,softball,duke
+7,Peyton St. George,"Mechanicsville, Va.",Atlee HS,N/A,softball,duke
+8,Dominique Salinas,"Corpus Christi, Texas",Ole Miss,N/A,softball,duke
+9,Hannah Pridemore,"Lithia, Fla.",Newsome,N/A,softball,duke
+10,Raine Wilson,"Mechanicsville, Va.",James Madison,N/A,softball,duke
+11,Deja Davis,"Cerritos, Calif.",Gahr HS,N/A,softball,duke
+12,Makenna Lutterloh,"Rancho Santa Margarita, Calif.",Santa Margarita Catholic HS,N/A,softball,duke
+13,Amelia Wiercioch,"Tustin, Calif.",Rosary Academy,N/A,softball,duke
+14,Kristina Foreman,"Tampa, Fla.",Berkeley Preparatory School,N/A,softball,duke
+15,Emilie Cieslak,"Montvale, N.J.",Immaculate Heart Academy,N/A,softball,duke
+16,Kylie Coffelt,"Beloit, Ohio",West Branch HS,N/A,softball,duke
+17,Marissa Gagliano,"Riviera Beach, Fla.",Radford,N/A,softball,duke
+18,Kyla Morris,"Claremont, Calif.",Claremont HS,N/A,softball,duke
+19,Brianna Butler,"Evans, Ga.",Greenbrier HS,N/A,softball,duke
+20,Jazmine Moreno,"Elk Grove, Calif.",Elk Grove,N/A,softball,duke
+21,Rachel Abboud,"Huntington Beach, Calif.",Edison HS,N/A,softball,duke
 0,Kelli Kalinoski,"Overland Park, Kan.",Olathe East,N/A,womens volleyball,duke
 1,Jessi Bartholomew,"Newnan, Ga.",East Coweta,N/A,womens volleyball,duke
 2,Natalie Schilling,"Glen Ellyn, Ill.",Glenbard West,N/A,womens volleyball,duke
@@ -358,222 +322,261 @@
 11,Sarah Nelson,"Los Gatos, Calif.",Los Gatos,N/A,womens volleyball,duke
 12,Alex Amos,"Pittsburgh, Pa.",Upper Saint Clair,N/A,womens volleyball,duke
 13,Kincey Smith,"Wake Forest, N.C.",North Raleigh Christian Academy,N/A,womens volleyball,duke
-14,Samantha Amos,"Pittsburgh, Pa.",Upper St. Clair,N/A,womens volleyball,duke
+14,Andie Shelton,"Stockton, Calif.",Ripon Christian/University of Pacific,N/A,womens volleyball,duke
+15,Samantha Amos,"Pittsburgh, Pa.",Upper St. Clair,N/A,womens volleyball,duke
 0,Connor Alexander,"Jupiter, Fla.",Jupiter,N/A,mens lacrosse,duke
 1,JT Giles-Harris,"Nyack, N.Y.",N.J.),N/A,mens lacrosse,duke
-2,Danny Fowler,"Wantagh, N.Y.",Chaminade,N/A,mens lacrosse,duke
-3,Mitch Russell,"Fort Mill, S.C.",Fort Mill,N/A,mens lacrosse,duke
-4,Cameron Badour,"Ottawa, Canada",IMG Academy,N/A,mens lacrosse,duke
-5,John Prendergast,"Niskayuna, N.Y.",Niskayuna,N/A,mens lacrosse,duke
-6,Cade Van Raaphorst,"Phoenix, Ariz.",Desert Vista,N/A,mens lacrosse,duke
-7,Joe Robertson,"Salem, Va.",St. Anne's-Belfield School,N/A,mens lacrosse,duke
-8,Sean Lowrie,"Foxboro, Mass.",Roxbury Latin School,N/A,mens lacrosse,duke
-9,Terry Lindsay,"Bethesda, Md.",Georgetown Prep,N/A,mens lacrosse,duke
-10,Kevin Quigley,"Basking Ridge, N.J.",Ridge,N/A,mens lacrosse,duke
-11,Sean Cerrone,"Huntington, N.Y.",Chaminade,N/A,mens lacrosse,duke
-12,Justin Guterding,"Garden City, N.Y.",Salisbury School,N/A,mens lacrosse,duke
-13,Nakeie Montgomery,"Dallas, Texas",Episcopal School of Dallas,N/A,mens lacrosse,duke
-14,JP Basile,"Garden City, N.Y.",Garden City,N/A,mens lacrosse,duke
-15,Raines Shamburger,"Atlanta, Ga.",Westminster,N/A,mens lacrosse,duke
-16,Kohl Shaffer,"Summit, N.J.",Delbarton School,N/A,mens lacrosse,duke
-17,Greg Pelton,"Chester Springs, Pa.",Malvern Prep,N/A,mens lacrosse,duke
-18,David Gill,"Chatham, N.J.",Chatham,N/A,mens lacrosse,duke
-19,Jack Harrington,"Greenwich, Conn.",Greenwich,N/A,mens lacrosse,duke
-20,CJ Carpenter,"Durham, N.C.",Riverside,N/A,mens lacrosse,duke
-21,Jake Seau,"San Diego, Calif.",The Bishop's School,N/A,mens lacrosse,duke
-22,Matt Chmil,"Garden City, N.Y.",Chaminade,N/A,mens lacrosse,duke
-23,Brian Smyth,"West Hartford, Conn.",Westminster School,N/A,mens lacrosse,duke
-24,Brad Smith,"Mountain Lakes, N.J.",Mountain Lakes,N/A,mens lacrosse,duke
-25,Ryan Hastings,"San Diego, Calif.",The Bishop's School,N/A,mens lacrosse,duke
-26,Turner Uppgren,"Stillwater, Minn.",Choate Rosemary Hall,N/A,mens lacrosse,duke
-27,Matthew Giampetroni,"Bloomfield Hills, Mich.",Cranbrook,N/A,mens lacrosse,duke
-28,Joey Manown,"Saundersville, R.I.",Deerfield Academy,N/A,mens lacrosse,duke
-29,Cameron Mulé,"Dix Hills, N.Y.",Half Hollow Hills West,N/A,mens lacrosse,duke
-30,Reed Shaffer,"Summit, N.J.",Delbarton,N/A,mens lacrosse,duke
-31,Thomas Palisi,"Morganville, N.J.",Christian Brothers Academy,N/A,mens lacrosse,duke
-32,Josh White,"Weston, Mass.",Noble and Greenough,N/A,mens lacrosse,duke
-33,John Bowler,"Greenwood Village, Colo.",Cherry Creek,N/A,mens lacrosse,duke
-34,Teddy Transou,"Tallahassee, Fla.",The Maclay School,N/A,mens lacrosse,duke
-35,Reilly Walsh,"Bronxville, N.Y.",Brunswick Academy,N/A,mens lacrosse,duke
-36,Cody Brinkman,"Durham, N.C.",Jordan High School,N/A,mens lacrosse,duke
-37,Walker Scaglione,"Richmond, Va.",Cosby,N/A,mens lacrosse,duke
-38,David McCann,"Palos Verdes, Calif.",Palos Verdes Estates,N/A,mens lacrosse,duke
-39,Trey Bender,"Atlanta, Ga.",Episcopal School of Dallas,N/A,mens lacrosse,duke
-40,Greg Shea,"Bainbridge Island, Wash.",Bainbridge,N/A,mens lacrosse,duke
-41,Kevin McDonough,"New Canaan, Conn.",Penn,N/A,mens lacrosse,duke
-42,Blake Leischow,"Orono, Minn.",Orono,N/A,mens lacrosse,duke
-43,Joe Stein,"Potomac, Md.",Bullis School,N/A,mens lacrosse,duke
-44,Peter Conley,"Mamaroneck, N.Y.",Georgetown,N/A,mens lacrosse,duke
-45,Peter Welch,"Bernardsville, N.J.",Delbarton,N/A,mens lacrosse,duke
-46,Jack Fowler,"Wantagh, N.Y.",Chaminade,N/A,mens lacrosse,duke
-0,Ella Bonafede,"Bay Shore, N.Y.",St. Anthony's,N/A,womens lacrosse,duke
-1,Madison Dunk,"Durham, N.C.",Durham Academy,N/A,womens lacrosse,duke
-2,Lexi Rieu,"West Friendship, Md.",Our Lady of Good Counsel,N/A,womens lacrosse,duke
-3,Lindsey Reynolds,"Bow, N.H.",St. Paul's School,N/A,womens lacrosse,duke
-4,Catherine Cordrey,"Summit, N.J.",Summit,N/A,womens lacrosse,duke
-5,Charlotte North,"Dallas, Texas",Episcopal School of Dallas,N/A,womens lacrosse,duke
-6,Katie Cosgrove,"Churchville, N.Y.",Churchville-Chili,N/A,womens lacrosse,duke
-7,Chloë Lewis,"Chapel Hill, N.C.",Durham Academy,N/A,womens lacrosse,duke
-8,Olivia Jenner,"Annapolis, Md.",McDonogh,N/A,womens lacrosse,duke
-9,Abby Landry,"Hingham, Mass.",Hingham,N/A,womens lacrosse,duke
-10,Elizabeth Fucigna,"Darien, Conn.",Darien,N/A,womens lacrosse,duke
-11,Gigi Vasile,"Webster, N.Y.",Webster Thomas,N/A,womens lacrosse,duke
-12,Katie Cronin,"Darien, Conn.",Darien/Choate Rosemary Hall,N/A,womens lacrosse,duke
-13,Catriona Barry,"Napa, Calif.",St. Ignatius College Preparatory,N/A,womens lacrosse,duke
-14,Natalie Kahn,"Malvern, Pa.",Great Valley,N/A,womens lacrosse,duke
-15,Charlotte Tucci,"Rye, N.Y.",Rye,N/A,womens lacrosse,duke
-16,Gabbe Cadoux,"Ellicott City, Md.",McDonogh,N/A,womens lacrosse,duke
-17,Sam DeBellis,"Cold Spring Harbor, N.Y.",Cold Spring Harbor,N/A,womens lacrosse,duke
-18,Mary Markwordt,"Marietta, Ga.",Blessed Trinity Catholic,N/A,womens lacrosse,duke
-19,Callie Humphrey,"Summit, N.J.",Summit,N/A,womens lacrosse,duke
-20,Michelle Staggers,"Stafford, Va.",Virginia Episcopal School,N/A,womens lacrosse,duke
-21,Jamie Lockwood,"Richmond, Va.",Douglas Southall Freeman,N/A,womens lacrosse,duke
-22,Ellie Majure,"Falls Church, Va.",St. Stephen's & St. Agnes,N/A,womens lacrosse,duke
-23,Chase Henriquez,"Norwell, Mass.",Norwell,N/A,womens lacrosse,duke
+2,Jake Seau,"San Diego, Calif.",The Bishop's School,N/A,mens lacrosse,duke
+3,Cameron Badour,"Ottawa, Canada",IMG Academy,N/A,mens lacrosse,duke
+4,John Prendergast,"Niskayuna, N.Y.",Niskayuna,N/A,mens lacrosse,duke
+5,Cade Van Raaphorst,"Phoenix, Ariz.",Desert Vista,N/A,mens lacrosse,duke
+6,Joe Robertson,"Salem, Va.",St. Anne's-Belfield School,N/A,mens lacrosse,duke
+7,Sean Lowrie,"Foxboro, Mass.",Roxbury Latin School,N/A,mens lacrosse,duke
+8,Terry Lindsay,"Bethesda, Md.",Georgetown Prep,N/A,mens lacrosse,duke
+9,Kevin Quigley,"Basking Ridge, N.J.",Ridge,N/A,mens lacrosse,duke
+10,Nakeie Montgomery,"Dallas, Texas",Episcopal School of Dallas,N/A,mens lacrosse,duke
+11,JP Basile,"Garden City, N.Y.",Garden City,N/A,mens lacrosse,duke
+12,Raines Shamburger,"Atlanta, Ga.",Westminster,N/A,mens lacrosse,duke
+13,Kohl Shaffer,"Summit, N.J.",Delbarton School,N/A,mens lacrosse,duke
+14,Trey Bender,"Atlanta, Ga.",Episcopal School of Dallas,N/A,mens lacrosse,duke
+15,Cameron Mulé,"Dix Hills, N.Y.",Half Hollow Hills West,N/A,mens lacrosse,duke
+16,CJ Carpenter,"Durham, N.C.",Riverside,N/A,mens lacrosse,duke
+17,Matt Chmil,"Garden City, N.Y.",Chaminade,N/A,mens lacrosse,duke
+18,Brian Smyth,"West Hartford, Conn.",Westminster School,N/A,mens lacrosse,duke
+19,Brad Smith,"Mountain Lakes, N.J.",Mountain Lakes,N/A,mens lacrosse,duke
+20,Ryan Hastings,"San Diego, Calif.",The Bishop's School,N/A,mens lacrosse,duke
+21,Turner Uppgren,"Stillwater, Minn.",Choate Rosemary Hall,N/A,mens lacrosse,duke
+22,Joey Manown,"Saundersville, R.I.",Deerfield Academy,N/A,mens lacrosse,duke
+23,Reed Shaffer,"Summit, N.J.",Delbarton,N/A,mens lacrosse,duke
+24,Josh White,"Weston, Mass.",Noble and Greenough,N/A,mens lacrosse,duke
+25,John Bowler,"Greenwood Village, Colo.",Cherry Creek,N/A,mens lacrosse,duke
+26,Teddy Transou,"Tallahassee, Fla.",The Maclay School,N/A,mens lacrosse,duke
+27,Reilly Walsh,"Bronxville, N.Y.",Brunswick Academy,N/A,mens lacrosse,duke
+28,Cody Brinkman,"Durham, N.C.",Jordan High School,N/A,mens lacrosse,duke
+29,Walker Scaglione,"Richmond, Va.",Cosby,N/A,mens lacrosse,duke
+30,David McCann,"Palos Verdes, Calif.",Palos Verdes Estates,N/A,mens lacrosse,duke
+31,Blake Leischow,"Orono, Minn.",Orono,N/A,mens lacrosse,duke
+32,Joe Stein,"Potomac, Md.",Bullis School,N/A,mens lacrosse,duke
+33,Peter Welch,"Bernardsville, N.J.",Delbarton,N/A,mens lacrosse,duke
+34,Jack Fowler,"Wantagh, N.Y.",Chaminade,N/A,mens lacrosse,duke
+0,Alexis Joseph,"Philadelphia, Pa.",William Penn Charter School,N/A,womens lacrosse,duke
+1,Ella Bonafede,"Bay Shore, N.Y.",St. Anthony's,N/A,womens lacrosse,duke
+2,Madison Dunk,"Durham, N.C.",Durham Academy,N/A,womens lacrosse,duke
+3,Lexi Rieu,"West Friendship, Md.",Our Lady of Good Counsel,N/A,womens lacrosse,duke
+4,Lindsey Reynolds,"Bow, N.H.",St. Paul's School,N/A,womens lacrosse,duke
+5,Catherine Cordrey,"Summit, N.J.",Summit,N/A,womens lacrosse,duke
+6,Charlotte North,"Dallas, Texas",Episcopal School of Dallas,N/A,womens lacrosse,duke
+7,Morgan Rodgers,"Warrenton, Va.",Kettle Run,N/A,womens lacrosse,duke
+8,Anna Callahan,"Glenwood, Md.",Glenelg,N/A,womens lacrosse,duke
+9,Katie Cosgrove,"Churchville, N.Y.",Churchville-Chili,N/A,womens lacrosse,duke
+10,Chloë Lewis,"Chapel Hill, N.C.",Durham Academy,N/A,womens lacrosse,duke
+11,Maddie Johnston,"Baltimore, Md.",Notre Dame Prep,N/A,womens lacrosse,duke
+12,Olivia Jenner,"Annapolis, Md.",McDonogh,N/A,womens lacrosse,duke
+13,Abby Landry,"Hingham, Mass.",Hingham,N/A,womens lacrosse,duke
+14,Katie Calvo,"Arlington, Va.",Yorktown,N/A,womens lacrosse,duke
+15,Gigi Vasile,"Webster, N.Y.",Webster Thomas,N/A,womens lacrosse,duke
+16,Katie Cronin,"Darien, Conn.",Darien/Choate Rosemary Hall,N/A,womens lacrosse,duke
+17,Catriona Barry,"Napa, Calif.",St. Ignatius College Preparatory,N/A,womens lacrosse,duke
+18,Natalie Kahn,"Malvern, Pa.",Great Valley,N/A,womens lacrosse,duke
+19,Anne Crabill,"Chapel Hill, N.C.",Chapel Hill,N/A,womens lacrosse,duke
+20,Veronica Hineman,"West Chester, Pa.",Unionville,N/A,womens lacrosse,duke
+21,Charlotte Tucci,"Rye, N.Y.",Rye,N/A,womens lacrosse,duke
+22,Gabbe Cadoux,"Ellicott City, Md.",McDonogh,N/A,womens lacrosse,duke
+23,Sam DeBellis,"Cold Spring Harbor, N.Y.",Cold Spring Harbor,N/A,womens lacrosse,duke
+24,Mary Markwordt,"Marietta, Ga.",Blessed Trinity Catholic,N/A,womens lacrosse,duke
+25,Eva Greco,"Wilton, Conn.",Wilton,N/A,womens lacrosse,duke
+26,Callie Humphrey,"Summit, N.J.",Summit,N/A,womens lacrosse,duke
+27,Michelle Staggers,"Stafford, Va.",Virginia Episcopal School,N/A,womens lacrosse,duke
+28,Jamie Lockwood,"Richmond, Va.",Douglas Southall Freeman,N/A,womens lacrosse,duke
+29,Ellie Majure,"Falls Church, Va.",St. Stephen's & St. Agnes,N/A,womens lacrosse,duke
+30,Chase Henriquez,"Norwell, Mass.",Norwell,N/A,womens lacrosse,duke
+31,Maddie Jenner,"Annapolis, Md.",McDonogh,N/A,womens lacrosse,duke
 0,Zachary Alhamra,"Colorado Springs, Colo.",Pine Creek,Men,mixed track,duke
 1,CJ Ambrosio,"Avon, Ohio",St. Ignatius,Men,mixed track,duke
-2,Tionne Barmer,"Baltimore, Md.",Dulaney,Men,mixed track,duke
-3,Iyin Battle,"Chapel Hill, N.C.",East Chapel Hill,Men,mixed track,duke
-4,Ben Beatty,"Fredericksburg, Va.",Courtland,Men,mixed track,duke
-5,Adamson Bryant,"Sammamish, Wash.",Eastlake,Men,mixed track,duke
-6,Paul Dellinger,"Rochester, N.Y.",Brighton,Men,mixed track,duke
-7,AJ Eckmann,"Clancy, Mont.",Jefferson,Men,mixed track,duke
-8,Christian Friis,"Santa Rosa Beach, Fla.",South Walton,Men,mixed track,duke
-9,Stephen Garrett,"Wilmington, Del.",Tatnall School,Men,mixed track,duke
-10,Cole Hoff,"Westlake Village, Calif.",Agoura,Men,mixed track,duke
-11,Kiegan Lenihan,"Tarrytown, N.Y.",Hackley,Men,mixed track,duke
-12,Bryant Lewis,"Holtsville, N.Y.",St. Anthony's High School,Men,mixed track,duke
-13,Michael Marsack,"Stroudsburg, Pa.",Stroudsburg,Men,mixed track,duke
-14,Jeremy McDuffie,"Snellville, Ga.",Shiloh,Men,mixed track,duke
-15,Alex Miley,"Maple Grove, Minn.",Maple Grove,Men,mixed track,duke
-16,Miles Mingo,"Rock Hill, S.C.",Northwestern,Men,mixed track,duke
-17,Austin Nobis,"Las Vegas, Nev.",Bishop Gorman,Men,mixed track,duke
-18,Merle Nye,"Bend, Ore",Bend,Men,mixed track,duke
-19,Chase Peterson,"San Diego, Calif.",Canyon Crest Academy,Men,mixed track,duke
-20,Nikhil Pulimood,"Princeton, N.J.",West Windsor-Plainsboro High School South,Men,mixed track,duke
-21,Sean Rafique,"Virginia Water, United Kingdom",Eton College,Men,mixed track,duke
-22,Dalton Randall,"Moseley, Va.",Clover Hill,Men,mixed track,duke
-23,Ethan Ready,"Chapel Hill, N.C.",East Chapel Hill,Men,mixed track,duke
-24,Rivers Ridout,"Searcy, Ark.",Searcy,Men,mixed track,duke
-25,Josh Romine,"Highlands Ranch, Colo.",Mountain Vista,Men,mixed track,duke
-26,Benjamin Ross,"Baldwin, N.Y.",Baldwin,Men,mixed track,duke
-27,Caleb Sanford,"Erie, Pa.",McDowell,Men,mixed track,duke
-28,Jacob Sobota,"Knoxville, Tenn.",Buford,Men,mixed track,duke
-29,Nicholas Solfanelli,"Scranton, Pa.",Scranton Prep,Men,mixed track,duke
-30,Steven Solomon,"Sydney, Australia",Cranbrook High School,Men,mixed track,duke
-31,Esteban Suarez,"South Pasadena, Calif.",South Pasadena,Men,mixed track,duke
-32,Tom Sullivan,"Lakewood, Ohio",Saint Ignatius,Men,mixed track,duke
-33,Michael Ungvarsky,"Cinnaminson, N.J.",Cinnaminson,Men,mixed track,duke
-34,Matt Wisner,"Carlisle, Pa.",Carlisle,Men,mixed track,duke
-35,Rivka Arbiv,"Dunwoody, Ga.",Weber School,Women,mixed track,duke
-36,Sarah Armstrong,"Boston, Mass.",Needham,Women,mixed track,duke
-37,Brittany Aveni,"Geneva, Ohio",Geneva,Women,mixed track,duke
-38,Amanda Beach,"Melbourne, Fla.",Melbourne Central Catholic,Women,mixed track,duke
-39,Lindsay Billings,"Johns Creek, Ga.",Northview,Women,mixed track,duke
-40,Veronica Brtek,"Colorado Springs, Colo.",Cheyenne Mountain,Women,mixed track,duke
-41,Kethlin Campbell,"Shelbyville, Tenn.",Shelbyville,Women,mixed track,duke
-42,Simi Gbadegesin,"Durham, N.C.",Durham School of Arts,Women,mixed track,duke
-43,Katelyn Gochenour,"Logan, Ia.",Marian,Women,mixed track,duke
-44,Olivia Gwynn,"Swansea, United Kingdom",Millfield School,Women,mixed track,duke
-45,Kim Hallowes,"Sydney, New South Wales, Australia",Caringbah Selective,Women,mixed track,duke
-46,Lauren Hoffman,"Haymarket, Va.",Battlefield,Women,mixed track,duke
-47,Tracy Jander,"Lorena, Texas",Lorena,Women,mixed track,duke
-48,MacKenzie Kerr,"Richmond, Va.",Douglas Freeman,Women,mixed track,duke
-49,Kate Kutzer,"South Pasadena, Calif.",South Pasadena,Women,mixed track,duke
-50,Liz Lansing,"Randolph, N.J.",Randolph,Women,mixed track,duke
-51,Jaida Lemmons,"Desoto, Texas",Canterbury Episcopal,Women,mixed track,duke
-52,India Lowe,"Mechanicsville, Va.",Atlee,Women,mixed track,duke
-53,Erin Marsh,"Buford, Ga.",Buford,Women,mixed track,duke
-54,Cassie Martin,"Strongsville, Ohio",Strongsville,Women,mixed track,duke
-55,Laura Marty,"Seattle, Wash.",Bishop Blanchet,Women,mixed track,duke
-56,Sydnei Murphy,"Apex, N.C.",Apex,Women,mixed track,duke
-57,Domonique Panton,"Freehold, N.J.",Freehold Township,Women,mixed track,duke
-58,Samantha Peterman,"Springville, N.Y.",Sweet Home,Women,mixed track,duke
-59,Sara Platek,"Jamestown, N.C.",Ragsdale,Women,mixed track,duke
-60,Michaela Reinhart,"Lexington, Ky.",Lexington Catholic,Women,mixed track,duke
-61,Gabrielle Richichi,"New Fairfield, Conn.",New Fairfield,Women,mixed track,duke
-62,Nati Sheppard,"Miami, Fla.",Ransom Everglades,Women,mixed track,duke
-63,Leigha Torino,"Citra, Fla.",North Marion,Women,mixed track,duke
-64,Stefani Vukajlovic,"Banja Luka, Bosnia-Herzegovina",Gimnazija Banja Luka,Women,mixed track,duke
-65,Chesney Ward,"Greensboro, N.C.",Ragsdale,Women,mixed track,duke
-66,Sheridan Wilbur,"North Smithfield, R.I.",La Salle Academy,Women,mixed track,duke
-67,Helen Williams,"Atlanta, Ga.",Atlanta International School,Women,mixed track,duke
-0,Alec Ajnsztajn,"Bernardsville, N.J.",Bernards,Men,mixed fencing,duke
-1,Aubrey Caplin,"Charlottesville, Va.",Tandem Friends School,Men,mixed fencing,duke
-2,Duncan De Caire,"Sacramento, Calif.",Mira Loma,Men,mixed fencing,duke
-3,Pascual Di Tella,"Vicente Lopez, Buenos Aires, Argentina",St. Andrew's Scots,Men,mixed fencing,duke
-4,Jared Garland,"Hingham, Mass.",Hingham,Men,mixed fencing,duke
-5,Connor Ghazaleh,"Winchester, Mass.",Belmont Hill School,Men,mixed fencing,duke
-6,Sam Goodman,"Rochester, N.Y.",Pittsford Mendon,Men,mixed fencing,duke
-7,Eoin Gronningsater,"Brooklyn, N.Y.",Bard High School Early College,Men,mixed fencing,duke
-8,Bryn Hammarberg,"Maplewood, N.J.",Columbia,Men,mixed fencing,duke
-9,Dean Ischiropoulos,"Media, Pa.",Strath Haven,Men,mixed fencing,duke
-10,Ping Ping Kitsiriboon,"Bangkok, Thailand",NIST International School,Men,mixed fencing,duke
-11,Alan Ko,"Closter, N.J.",Northern Valley Regional,Men,mixed fencing,duke
-12,Austin Li,"Seattle, Wash.",Lakeside School,Men,mixed fencing,duke
-13,San Ha Lim,"Des Plaines, Ill.",Maine West,Men,mixed fencing,duke
-14,Jan Maceczek,"Colts Neck, N.J.",Colts Neck,Men,mixed fencing,duke
-15,Aidan McGinnis,"Boulder, Colo.",Boulder,Men,mixed fencing,duke
-16,Jordan Mittleman,"Cresskill, N.J.",Dwight Englewood School,Men,mixed fencing,duke
-17,Dakota Nollner,"Ogden, Utah",Bonneville,Men,mixed fencing,duke
-18,Brycen Rushing,"Carrollton, Texas",Creekview,Men,mixed fencing,duke
-19,Amit Sarma,"Plainsboro, N.J.",West Windsor-Plainsboro High School North,Men,mixed fencing,duke
-20,Jonathan Schwartzman,"Potomac, MD",Winston Churchill,Men,mixed fencing,duke
-21,Ben Stone,"New York, N.Y.",Lycee Francais de New York,Men,mixed fencing,duke
-22,Agoston Walter,"Framingham, Mass.",Advanced Math and Science Academy,Men,mixed fencing,duke
-23,Peter Yang,"Portland, Ore.",Sunset,Men,mixed fencing,duke
-24,Kendyl Bree,"Houston, Texas",The Kinkaid School,Women,mixed fencing,duke
-25,Dara Buggay,"Birmingham, Ala.",Mountain Brook,Women,mixed fencing,duke
-26,Phoebe Caplin,"Earlysville, Va.",Tandem Friends School,Women,mixed fencing,duke
-27,Sophie Caplin,"Earlysville, Va.",Tandem Friends School,Women,mixed fencing,duke
-28,Cathy Chi,"Plainsboro, N.J.",West Windsor-Plainsboro South,Women,mixed fencing,duke
-29,Kristen Coury,"Far Hills, N.J.",Bernards,Women,mixed fencing,duke
-30,Camille Esnault,"Cupertino, Calif.",Cupertino,Women,mixed fencing,duke
-31,Haley Fisher,"Kennesaw, Ga.",Harrison,Women,mixed fencing,duke
-32,Julia Gianneschi,"Atlanta, Ga.",Woodward Academy,Women,mixed fencing,duke
-33,Rhiannon Harvey,"Norfolk, Va.",Homeschooled,Women,mixed fencing,duke
-34,Jennifer Ling,"Cranbury, N.J.",West Windsor-Plainsboro South,Women,mixed fencing,duke
-35,Natalie Moszczynski,"Watchung, N.J.",Watchung Hills Regional,Women,mixed fencing,duke
-36,Maria Papadopoulos,"Ashburn, Va.",Stone Bridge/Loundoun Academy of Science,Women,mixed fencing,duke
-37,Lindsay Sapienza,"Bardonia, N.Y.",Clarkstown,Women,mixed fencing,duke
-38,Zuzu Tang,"Bellevue, Wash.",Newport,Women,mixed fencing,duke
-39,Bridget Wallace,"Chicago, Ill.",St. Ignatius College Prep,Women,mixed fencing,duke
-40,Vivian Wang,"Boulder, Colo.",Fairview,Women,mixed fencing,duke
-41,Jessica Whang,"Westfield, N.J.",Westfield,Women,mixed fencing,duke
-42,Claudia Wrampelmeier,"Amarillo, Texas",Amarillo,Women,mixed fencing,duke
-43,Gabrielle Zegers,"Fair Oaks, Calif.",St. Francis Catholic,Women,mixed fencing,duke
-44,Laurel Zhang,"New Haven, Conn.",Guilford,Women,mixed fencing,duke
-0,Sheldon Boboff,"San Francisco, Calif.",Saint Ignatius College Prep,Men,mixed swimming,duke
-1,Nathaniel Hartley,"Lake Wylie, S.C.",Gaston Day School [N.C.],Men,mixed swimming,duke
-2,Nathaniel Hernandez,"Southlake, Texas",Carroll Senior HS,Men,mixed swimming,duke
-3,Riley Hickman,"Davis, Calif.",Davis School for Independent Study,Men,mixed swimming,duke
-4,Judd Howard,"Irvine, Calif.",University High School,Men,mixed swimming,duke
-5,Spencer LaFata,"Pelham, N.Y.",Fordham Preparatory,Men,mixed swimming,duke
-6,Yusuke Legard,"Weybridge, Surrey, United Kingdom",Eton College,Men,mixed swimming,duke
-7,Daichi Matsuda,"Palo Alto, Calif.",Henry M Gunn,Men,mixed swimming,duke
-8,Evan Moretti,"Scarsdale, N.Y.",Scarsdale,Men,mixed swimming,duke
-9,Josh Owsiany,"Spring City, Pa.",Episcopal Academy,Men,mixed swimming,duke
-10,Max St. George,"Wheaton, Ill.",Wheaton North,Men,mixed swimming,duke
-11,Sean Tate,"Omaha, Neb.",Creighton Prep,Men,mixed swimming,duke
-12,Zach Washart,"Sewell, N.J.",St. Augustine Preparatory,Men,mixed swimming,duke
-13,Miles Williams,"Hong Kong, China",West Island School,Men,mixed swimming,duke
-14,Teddy Zeng,"Hong Kong, China",Daniel Hand [Conn.],Men,mixed swimming,duke
-15,Adam Zimmer,"Missoula, Mont.",Big Sky,Men,mixed swimming,duke
-16,Hunter Aitchison,"Clearwater, Fla.",East Lake,Women,mixed swimming,duke
-17,Alyssa Arwood,"Asheville, N.C.",TC Roberson,Women,mixed swimming,duke
-18,Connie Dean,"Maidenhead, United Kingdom",Sir William Borlase's Grammar School,Women,mixed swimming,duke
-19,Suzanne Dolan,"Arlington, Va.",Yorktown,Women,mixed swimming,duke
-20,Lizzie Fitzpatrick,"Darien, Conn.",Greenwich Academy,Women,mixed swimming,duke
-21,Jaina Gaudette,"Windsor, Ontario",Assumption College Catholic HS,Women,mixed swimming,duke
-22,Maddie Hess,"Brandon, Fla.",Newsome,Women,mixed swimming,duke
-23,Mickayla Hinkle,"Woodbury, Minn.",Math & Science Academy,Women,mixed swimming,duke
-24,Susan Hynes,"Chesapeake, Va.",Hickory,Women,mixed swimming,duke
-25,Kylie Jordan,"Leesburg, Va.",The Madeira School,Women,mixed swimming,duke
-26,Brittany Kampfer,"Orange, Calif.",Crean Lutheran,Women,mixed swimming,duke
-27,Alyssa Marsh,"Davidson, N.C.",Pine Lake Preparatory,Women,mixed swimming,duke
-28,Halle Morris,"San Rafael, Calif.",Terra Linda,Women,mixed swimming,duke
-29,Kira Page,"New Milford, Conn.",New Milford,Women,mixed swimming,duke
-30,Carly Perri,"Fountain Valley, Calif.",Fountain Valley,Women,mixed swimming,duke
-31,Lindsey Trematerra,"Gainesville, Fla.",Oak Hall,Women,mixed swimming,duke
-32,Mackenzie Willborn,"Flower Mound, Texas",Edward S. Marcus,Women,mixed swimming,duke
-33,Ellie Winslow,"Upper Arlington, Ohio",Upper Arlington,Women,mixed swimming,duke
+2,Iyin Battle,"Chapel Hill, N.C.",East Chapel Hill,Men,mixed track,duke
+3,Ben Beatty,"Fredericksburg, Va.",Courtland,Men,mixed track,duke
+4,Adamson Bryant,"Sammamish, Wash.",Eastlake,Men,mixed track,duke
+5,Paul Dellinger,"Rochester, N.Y.",Brighton,Men,mixed track,duke
+6,AJ Eckmann,"Clancy, Mont.",Jefferson,Men,mixed track,duke
+7,Christian Friis,"Santa Rosa Beach, Fla.",South Walton,Men,mixed track,duke
+8,Stephen Garrett,"Wilmington, Del.",Tatnall School,Men,mixed track,duke
+9,Cole Hoff,"Westlake Village, Calif.",Agoura,Men,mixed track,duke
+10,Kiegan Lenihan,"Tarrytown, N.Y.",Hackley,Men,mixed track,duke
+11,Bryant Lewis,"Holtsville, N.Y.",St. Anthony's High School,Men,mixed track,duke
+12,Michael Marsack,"Stroudsburg, Pa.",Stroudsburg,Men,mixed track,duke
+13,Alex Miley,"Maple Grove, Minn.",Maple Grove,Men,mixed track,duke
+14,Miles Mingo,"Rock Hill, S.C.",Northwestern,Men,mixed track,duke
+15,Nikhil Pulimood,"Princeton, N.J.",West Windsor-Plainsboro High School South,Men,mixed track,duke
+16,Sean Rafique,"Virginia Water, United Kingdom",Eton College,Men,mixed track,duke
+17,Dalton Randall,"Moseley, Va.",Clover Hill,Men,mixed track,duke
+18,Ethan Ready,"Chapel Hill, N.C.",East Chapel Hill,Men,mixed track,duke
+19,Rivers Ridout,"Searcy, Ark.",Searcy,Men,mixed track,duke
+20,Josh Romine,"Highlands Ranch, Colo.",Mountain Vista,Men,mixed track,duke
+21,Benjamin Ross,"Baldwin, N.Y.",Baldwin,Men,mixed track,duke
+22,Jacob Sobota,"Knoxville, Tenn.",Buford,Men,mixed track,duke
+23,Esteban Suarez,"South Pasadena, Calif.",South Pasadena,Men,mixed track,duke
+24,Tom Sullivan,"Lakewood, Ohio",Saint Ignatius,Men,mixed track,duke
+25,Michael Ungvarsky,"Cinnaminson, N.J.",Cinnaminson,Men,mixed track,duke
+26,Matt Wisner,"Carlisle, Pa.",Carlisle,Men,mixed track,duke
+27,Rivka Arbiv,"Dunwoody, Ga.",Weber School,Women,mixed track,duke
+28,Sarah Armstrong,"Boston, Mass.",Needham,Women,mixed track,duke
+29,Brittany Aveni,"Geneva, Ohio",Geneva,Women,mixed track,duke
+30,Amanda Beach,"Melbourne, Fla.",Melbourne Central Catholic,Women,mixed track,duke
+31,Lindsay Billings,"Johns Creek, Ga.",Northview,Women,mixed track,duke
+32,Veronica Brtek,"Colorado Springs, Colo.",Cheyenne Mountain,Women,mixed track,duke
+33,Simi Gbadegesin,"Durham, N.C.",Durham School of Arts,Women,mixed track,duke
+34,Katelyn Gochenour,"Logan, Ia.",Marian,Women,mixed track,duke
+35,Olivia Gwynn,"Swansea, United Kingdom",Millfield School,Women,mixed track,duke
+36,Kim Hallowes,"Sydney, New South Wales, Australia",Caringbah Selective,Women,mixed track,duke
+37,Lauren Hoffman,"Haymarket, Va.",Battlefield,Women,mixed track,duke
+38,Tracy Jander,"Lorena, Texas",Lorena,Women,mixed track,duke
+39,MacKenzie Kerr,"Richmond, Va.",Douglas Freeman,Women,mixed track,duke
+40,Kate Kutzer,"South Pasadena, Calif.",South Pasadena,Women,mixed track,duke
+41,Liz Lansing,"Randolph, N.J.",Randolph,Women,mixed track,duke
+42,Jaida Lemmons,"Desoto, Texas",Canterbury Episcopal,Women,mixed track,duke
+43,India Lowe,"Mechanicsville, Va.",Atlee,Women,mixed track,duke
+44,Erin Marsh,"Buford, Ga.",Buford,Women,mixed track,duke
+45,Cassie Martin,"Strongsville, Ohio",Strongsville,Women,mixed track,duke
+46,Laura Marty,"Seattle, Wash.",Bishop Blanchet,Women,mixed track,duke
+47,Domonique Panton,"Freehold, N.J.",Freehold Township,Women,mixed track,duke
+48,Sara Platek,"Jamestown, N.C.",Ragsdale,Women,mixed track,duke
+49,Michaela Reinhart,"Lexington, Ky.",Lexington Catholic,Women,mixed track,duke
+50,Gabrielle Richichi,"New Fairfield, Conn.",New Fairfield,Women,mixed track,duke
+51,Nati Sheppard,"Miami, Fla.",Ransom Everglades,Women,mixed track,duke
+52,Leigha Torino,"Citra, Fla.",North Marion,Women,mixed track,duke
+53,Stefani Vukajlovic,"Banja Luka, Bosnia-Herzegovina",Gimnazija Banja Luka,Women,mixed track,duke
+54,Chesney Ward,"Greensboro, N.C.",Ragsdale,Women,mixed track,duke
+55,Sheridan Wilbur,"North Smithfield, R.I.",La Salle Academy,Women,mixed track,duke
+56,Helen Williams,"Atlanta, Ga.",Atlanta International School,Women,mixed track,duke
+0,Zachary Alhamra,"Colorado Springs, Colo.",Pine Creek,Men,mixed cross country,duke
+1,CJ Ambrosio,"Avon, Ohio",St. Ignatius,Men,mixed cross country,duke
+2,Adamson Bryant,"Sammamish, Wash.",Eastlake,Men,mixed cross country,duke
+3,Devin Connell,"Andover, Mass.",Andover,Men,mixed cross country,duke
+4,Charles Cooper,"Montreal, Quebec",Georgetown University,Men,mixed cross country,duke
+5,Joe Cullen,"Wyomissing, Penn.",Wyomissing,Men,mixed cross country,duke
+6,Paul Dellinger,"Rochester, N.Y.",Brighton,Men,mixed cross country,duke
+7,Carter Dillon,"Highlands Ranch, Colo.",Mountain Vista,Men,mixed cross country,duke
+8,Will Dixon,"Superior, Colo.",Monarch,Men,mixed cross country,duke
+9,AJ Eckmann,"Clancy, Mont.",Jefferson,Men,mixed cross country,duke
+10,Stephen Garrett,"Wilmington, Del.",Tatnall School,Men,mixed cross country,duke
+11,Cole Hoff,"Westlake Village, Calif.",Agoura,Men,mixed cross country,duke
+12,Alex Miley,"Maple Grove, Minn.",Maple Grove,Men,mixed cross country,duke
+13,Matt Politis,"Pearl River, N.Y.",Pearl River,Men,mixed cross country,duke
+14,Nikhil Pulimood,"Princeton, N.J.",West Windsor-Plainsboro High School South,Men,mixed cross country,duke
+15,Dalton Randall,"Moseley, Va.",Clover Hill,Men,mixed cross country,duke
+16,Ethan Ready,"Chapel Hill, N.C.",East Chapel Hill,Men,mixed cross country,duke
+17,Josh Romine,"Highlands Ranch, Colo.",Mountain Vista,Men,mixed cross country,duke
+18,Tom Sullivan,"Lakewood, Ohio",Saint Ignatius,Men,mixed cross country,duke
+19,Chris Theodore,"Castle Pines, Colo.",Rock Canyon,Men,mixed cross country,duke
+20,Michael Ungvarsky,"Cinnaminson, N.J.",Cinnaminson,Men,mixed cross country,duke
+21,Matt Wisner,"Carlisle, Pa.",Carlisle,Men,mixed cross country,duke
+22,Sarah Armstrong,"Boston, Mass.",Needham,Women,mixed cross country,duke
+23,Amanda Beach,"Melbourne, Fla.",Melbourne Central Catholic,Women,mixed cross country,duke
+24,Lindsay Billings,"Johns Creek, Ga.",Northview,Women,mixed cross country,duke
+25,Rylee Bowen,"Sonoma, Calif.",Sonoma Academy,Women,mixed cross country,duke
+26,Veronica Brtek,"Colorado Springs, Colo.",Cheyenne Mountain,Women,mixed cross country,duke
+27,Olivia Gwynn,"Swansea, United Kingdom",Millfield School,Women,mixed cross country,duke
+28,Kim Hallowes,"Sydney, New South Wales, Australia",Caringbah Selective,Women,mixed cross country,duke
+29,Monica Hebner,"Allendale, N.J.",Northern Highlands,Women,mixed cross country,duke
+30,Ellen Hirsberg,"Las Vegas, Nev.",The Meadows,Women,mixed cross country,duke
+31,Liz Lansing,"Randolph, N.J.",Randolph,Women,mixed cross country,duke
+32,Sara Platek,"Jamestown, N.C.",Ragsdale,Women,mixed cross country,duke
+33,Michaela Reinhart,"Lexington, Ky.",Lexington Catholic,Women,mixed cross country,duke
+34,Elizabeth Reneau,"Argyle, Texas",Argyle Liberty Christian,Women,mixed cross country,duke
+35,Gabrielle Richichi,"New Fairfield, Conn.",New Fairfield,Women,mixed cross country,duke
+36,Clara Savchik,"Pittsburgh, Penn.",North Allegheny,Women,mixed cross country,duke
+37,Leigha Torino,"Citra, Fla.",North Marion,Women,mixed cross country,duke
+38,Sheridan Wilbur,"North Smithfield, R.I.",La Salle Academy,Women,mixed cross country,duke
+39,Helen Williams,"Atlanta, Ga.",Atlanta International School,Women,mixed cross country,duke
+0,Aubrey Caplin,"Charlottesville, Va.",Tandem Friends School,Men,mixed fencing,duke
+1,Kevin Chao,"Palo Alto, Calif.",Mira Costa High School,Men,mixed fencing,duke
+2,Joe Choo,"Las Vegas, Nev.",Faith Lutheran High School,Men,mixed fencing,duke
+3,Duncan De Caire,"Sacramento, Calif.",Mira Loma,Men,mixed fencing,duke
+4,Connor Ghazaleh,"Winchester, Mass.",Belmont Hill School,Men,mixed fencing,duke
+5,Eoin Gronningsater,"Brooklyn, N.Y.",Bard High School Early College,Men,mixed fencing,duke
+6,Bryn Hammarberg,"Maplewood, N.J.",Columbia,Men,mixed fencing,duke
+7,Ping Ping Kitsiriboon,"Bangkok, Thailand",NIST International School,Men,mixed fencing,duke
+8,Alan Ko,"Closter, N.J.",Northern Valley Regional,Men,mixed fencing,duke
+9,Terence Lee,Hong Kong,Harrow School Hong Kong,Men,mixed fencing,duke
+10,Austin Li,"Seattle, Wash.",Lakeside School,Men,mixed fencing,duke
+11,San Ha Lim,"Des Plaines, Ill.",Maine West,Men,mixed fencing,duke
+12,Aidan McGinnis,"Boulder, Colo.",Boulder,Men,mixed fencing,duke
+13,Jordan Mittleman,"Cresskill, N.J.",Dwight Englewood School,Men,mixed fencing,duke
+14,Brycen Rushing,"Carrollton, Texas",Creekview,Men,mixed fencing,duke
+15,Amit Sarma,"Plainsboro, N.J.",West Windsor-Plainsboro High School North,Men,mixed fencing,duke
+16,Jonathan Schwartzman,"Potomac, MD",Winston Churchill,Men,mixed fencing,duke
+17,Ben Stone,"New York, N.Y.",Lycee Francais de New York,Men,mixed fencing,duke
+18,Agoston Walter,"Framingham, Mass.",Advanced Math and Science Academy,Men,mixed fencing,duke
+19,Huda Aldadah,"Peoria, Ill.",Dunlap High School,Women,mixed fencing,duke
+20,Kendyl Bree,"Houston, Texas",The Kinkaid School,Women,mixed fencing,duke
+21,Phoebe Caplin,"Earlysville, Va.",Tandem Friends School,Women,mixed fencing,duke
+22,Kristen Coury,"Far Hills, N.J.",Bernards,Women,mixed fencing,duke
+23,Camille Esnault,"Cupertino, Calif.",Cupertino,Women,mixed fencing,duke
+24,Julia Gianneschi,"Atlanta, Ga.",Woodward Academy,Women,mixed fencing,duke
+25,Alex Gorman,"Wellesley, Mass.",Wellesley High School,Women,mixed fencing,duke
+26,Rhiannon Harvey,"Norfolk, Va.",Homeschooled,Women,mixed fencing,duke
+27,Sarah Hung,"Dallas, Texas",Prince of Peace Christian School,Women,mixed fencing,duke
+28,Ava Navarro,"Frenchtown, N.J.",The Masters School,Women,mixed fencing,duke
+29,Julia Noguchi,"San Jose, Calif.",Valley Christian High School,Women,mixed fencing,duke
+30,Maria Papadopoulos,"Ashburn, Va.",Stone Bridge/Loundoun Academy of Science,Women,mixed fencing,duke
+31,Lindsay Sapienza,"Bardonia, N.Y.",Clarkstown,Women,mixed fencing,duke
+32,Zoe Superville,"Woodmere, N.Y.",G.W. Hewlett High School,Women,mixed fencing,duke
+33,Zuzu Tang,"Bellevue, Wash.",Newport,Women,mixed fencing,duke
+34,Bridget Wallace,"Chicago, Ill.",St. Ignatius College Prep,Women,mixed fencing,duke
+35,Vivian Wang,"Boulder, Colo.",Fairview,Women,mixed fencing,duke
+36,Jessica Whang,"Westfield, N.J.",Westfield,Women,mixed fencing,duke
+37,Claudia Wrampelmeier,"Amarillo, Texas",Amarillo,Women,mixed fencing,duke
+38,Brenda Yang,"Skillman, N.J.",Montgomery High School,Women,mixed fencing,duke
+39,Gabrielle Zegers,"Fair Oaks, Calif.",St. Francis Catholic,Women,mixed fencing,duke
+40,Laurel Zhang,"New Haven, Conn.",Guilford,Women,mixed fencing,duke
+0,Harel Anolick,"Evanston, Ill.",Evanston Township,Men,mixed swimming,duke
+1,Sheldon Boboff,"San Francisco, Calif.",Saint Ignatius College Prep,Men,mixed swimming,duke
+2,John Day,"Lexington, N.C.",North Davidson,Men,mixed swimming,duke
+3,David Hallaron,"Grapevine, Texas",Grapevine,Men,mixed swimming,duke
+4,Nathaniel Hartley,"Lake Wylie, S.C.",Gaston Day School [N.C.],Men,mixed swimming,duke
+5,Nathaniel Hernandez,"Southlake, Texas",Carroll Senior HS,Men,mixed swimming,duke
+6,Riley Hickman,"Davis, Calif.",Davis School for Independent Study,Men,mixed swimming,duke
+7,Judd Howard,"Irvine, Calif.",University High School,Men,mixed swimming,duke
+8,Spencer LaFata,"Pelham, N.Y.",Fordham Preparatory,Men,mixed swimming,duke
+9,Yusuke Legard,"Weybridge, Surrey, United Kingdom",Eton College,Men,mixed swimming,duke
+10,Daichi Matsuda,"Palo Alto, Calif.",Henry M Gunn,Men,mixed swimming,duke
+11,Evan Moretti,"Scarsdale, N.Y.",Scarsdale,Men,mixed swimming,duke
+12,Josh Owsiany,"Spring City, Pa.",Episcopal Academy,Men,mixed swimming,duke
+13,Cole Reznick,"Pleasanton, Calif.",Amador Valley,Men,mixed swimming,duke
+14,Max St. George,"Wheaton, Ill.",Wheaton North,Men,mixed swimming,duke
+15,Sean Tate,"Omaha, Neb.",Creighton Prep,Men,mixed swimming,duke
+16,Zach Washart,"Sewell, N.J.",St. Augustine Preparatory,Men,mixed swimming,duke
+17,Everett Werner,"Olympia, Wash.",Olympia,Men,mixed swimming,duke
+18,Matthew Whelan,"Richmond, Va.",John Randolph Tucker,Men,mixed swimming,duke
+19,Miles Williams,"Hong Kong, China",West Island School,Men,mixed swimming,duke
+20,Henry Wu,"Irvine, Calif.",Northwood,Men,mixed swimming,duke
+21,Adam Zimmer,"Missoula, Mont.",Big Sky,Men,mixed swimming,duke
+22,Colson Zucker,"Mooresville, N.C.",South Iredell,Men,mixed swimming,duke
+23,Hunter Aitchison,"Clearwater, Fla.",East Lake,Women,mixed swimming,duke
+24,Alyssa Arwood,"Asheville, N.C.",TC Roberson,Women,mixed swimming,duke
+25,Lucy Callard,"Cincinnati, Ohio",The Seven Hills School,Women,mixed swimming,duke
+26,Connie Dean,"Maidenhead, United Kingdom",Sir William Borlase's Grammar School,Women,mixed swimming,duke
+27,Suzanne Dolan,"Arlington, Va.",Yorktown,Women,mixed swimming,duke
+28,Lizzie Fitzpatrick,"Darien, Conn.",Greenwich Academy,Women,mixed swimming,duke
+29,Jaina Gaudette,"Windsor, Ontario",Assumption College Catholic HS,Women,mixed swimming,duke
+30,Maddie Hess,"Brandon, Fla.",Newsome,Women,mixed swimming,duke
+31,Mickayla Hinkle,"Woodbury, Minn.",Math & Science Academy,Women,mixed swimming,duke
+32,Shayna Hollander,"Cranford, N.J.",Mount Saint Mary Academy,Women,mixed swimming,duke
+33,Kylie Jordan,"Leesburg, Va.",The Madeira School,Women,mixed swimming,duke
+34,Brittany Kampfer,"Orange, Calif.",Crean Lutheran,Women,mixed swimming,duke
+35,Easop Lee,"Baltimore, Md.",Pikesville,Women,mixed swimming,duke
+36,Zoe Lusk,"Palo Alto, Calif.",Palo Alto,Women,mixed swimming,duke
+37,Alyssa Marsh,"Davidson, N.C.",Pine Lake Preparatory,Women,mixed swimming,duke
+38,Halle Morris,"San Rafael, Calif.",Terra Linda,Women,mixed swimming,duke
+39,Shae Nicolaisen,"Phoenix, Ariz.",Desert Vista,Women,mixed swimming,duke
+40,Brynne O'Shea,"Portland, Ore.",Lakeridge,Women,mixed swimming,duke
+41,Kira Page,"New Milford, Conn.",New Milford,Women,mixed swimming,duke
+42,Rachel Peroni,"Powell, Ohio",Olentangy Liberty,Women,mixed swimming,duke
+43,Carly Perri,"Fountain Valley, Calif.",Fountain Valley,Women,mixed swimming,duke
+44,Maddy Pfaff,"Bethesda, Md.",Bethesda-Chevy Chase,Women,mixed swimming,duke
+45,Melissa Pish,"Bloomington, Ill.",Normal Community West,Women,mixed swimming,duke
+46,Maddi Pullinger,"Sydney, New South Wales, Australia",Oxford Falls Grammar School,Women,mixed swimming,duke
+47,Quinn Scannell,"Stamford, Conn.",Greenwich Academy/Penn,Women,mixed swimming,duke
+48,Cabell Ann Whitlow,"Roanoke, Va.",Patrick Henry,Women,mixed swimming,duke
+49,Mackenzie Willborn,"Flower Mound, Texas",Edward S. Marcus,Women,mixed swimming,duke
+50,Ellie Winslow,"Upper Arlington, Ohio",Upper Arlington,Women,mixed swimming,duke

@@ -11,8 +11,8 @@ outdir = '../output'
 
 ##### ohio state #################
 school = "ohio_state"
-url_template = 'http://www.ohiostatebuckeyes.com/sports/{sporturl}/mtt/osu-{sporturl}-mtt.html'
-tableid_template = 'sortable_roster'
+url_template = 'http://ohiostatebuckeyes.com/sports/{sporturl}/roster/'
+tableid_template = 'roster_sort'
 
 # bring in sports dictionary (sports: empty list)
 sports_dict = lookups.get_sports_dict()
@@ -38,17 +38,17 @@ sports_dict['womens field hockey'] = ['w-fieldh']
 sports_dict['womens rowing'] = ['w-rowing']
 sports_dict['softball'] = ['w-softbl']
 sports_dict['womens volleyball'] = ['w-volley']
-sports_dict['mens fencing'] = ['c-fenc']
-sports_dict['womens fencing'] = ['c-fenc']
+# sports_dict['mens fencing'] = ['c-fenc']
+# sports_dict['womens fencing'] = ['c-fenc']
 sports_dict['mens gymnastics'] = ['m-gym']
 sports_dict['womens gymnastics'] = ['w-gym']
 sports_dict['mens hockey'] = ['m-hockey']
 sports_dict['womens hockey'] = ['w-hockey']
 sports_dict['mens lacrosse'] = ['m-lacros']
 sports_dict['womens lacrosse'] = ['w-lacros']
-sports_dict['mens pistol'] = ['c-pistol']
-sports_dict['womens pistol'] = ['c-pistol']
-sports_dict['mixed rifle'] = ['c-rifle']
+# sports_dict['mens pistol'] = ['c-pistol']
+# sports_dict['womens pistol'] = ['c-pistol']
+# sports_dict['mixed rifle'] = ['c-rifle']
 sports_dict['mens volleyball'] = ['m-volley']
 sports_dict['womens synchro swimming'] = ['w-syncs']
 

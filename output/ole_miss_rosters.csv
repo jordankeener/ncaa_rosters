@@ -1,343 +1,404 @@
-,name,hometown,high school,school,name text,hometown text,high school text,school text,sport,college
-0,shuler devontae,"Irmo, S.C. (Oak Hill Academy)",N/A,"Irmo, S.C. (Oak Hill Academy)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens basketball,ole_miss
-1,davis terence,"Southaven, Miss. (Southaven)",N/A,"Southaven, Miss. (Southaven)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens basketball,ole_miss
-2,tyree breein,"Somerset, N.J. (St. Joseph)",N/A,"Somerset, N.J. (St. Joseph)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens basketball,ole_miss
-3,morgano antonio,"Morgantown, W. Va. (Morgantown)",N/A,"Morgantown, W. Va. (Morgantown)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens basketball,ole_miss
-4,horn eric,"Los Gatos, Calif. (Cuesta)",N/A,"Los Gatos, Calif. (Cuesta)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens basketball,ole_miss
-5,stevens bruce,"Louin, Miss. (Jones County JC)",N/A,"Louin, Miss. (Jones County JC)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens basketball,ole_miss
-6,olejniczak dominik,"Torun, Poland (Drake)",N/A,"Torun, Poland (Drake)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens basketball,ole_miss
-7,davis d.c.,"Purvis, Miss. (Jones County JC)",N/A,"Purvis, Miss. (Jones County JC)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens basketball,ole_miss
-8,silins karlis,"Riga, Latvia (WEF Skola)",N/A,"Riga, Latvia (WEF Skola)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens basketball,ole_miss
-9,tyrtyshnik ilya,"Kiev, Ukraine (GBA Prague)",N/A,"Kiev, Ukraine (GBA Prague)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens basketball,ole_miss
-0,allen crystal,"Fort Worth, Texas (UT-Arlington)",N/A,"Fort Worth, Texas (UT-Arlington)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens basketball,ole_miss
-1,cage deja,"Chicago, Ill. (DePaul)",N/A,"Chicago, Ill. (DePaul)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens basketball,ole_miss
-2,dozier shannon,"Washington, D.C. (Odessa College)",N/A,"Washington, D.C. (Odessa College)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens basketball,ole_miss
-3,dunlap jhileiya,"Columbia, S.C. (Gulf Coast State CC)",N/A,"Columbia, S.C. (Gulf Coast State CC)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens basketball,ole_miss
-4,glover bree,"Glasgow, Ky. (Glasgow H.S.)",N/A,"Glasgow, Ky. (Glasgow H.S.)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens basketball,ole_miss
-5,kitchens iyanla,"Lithonia, Ga. (Arabia Mountain HS)",N/A,"Lithonia, Ga. (Arabia Mountain HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens basketball,ole_miss
-6,lewis torri,"Olive Branch, Miss. (Homeschool)",N/A,"Olive Branch, Miss. (Homeschool)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens basketball,ole_miss
-7,matthews mahogany,"Raeford, N.C. (Hoke County HS)",N/A,"Raeford, N.C. (Hoke County HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens basketball,ole_miss
-8,muhate cecilia,"Madrid, Spain (Arturo Soria)",N/A,"Madrid, Spain (Arturo Soria)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens basketball,ole_miss
-9,reid mimi,"Bronx, N.Y. (The Patrick School)",N/A,"Bronx, N.Y. (The Patrick School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens basketball,ole_miss
-10,salter la'karis,"Tallahassee, Fla. (Jacksonville)",N/A,"Tallahassee, Fla. (Jacksonville)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens basketball,ole_miss
-11,sessom shandricka,"Byhalia, Miss. (Byhalia H.S.)",N/A,"Byhalia, Miss. (Byhalia H.S.)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens basketball,ole_miss
-12,smith taylor,"Marietta, Ga. (Marietta HS)",N/A,"Marietta, Ga. (Marietta HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens basketball,ole_miss
-13,turner marquia,"Canton, Ohio (Cleveland State)",N/A,"Canton, Ohio (Cleveland State)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens basketball,ole_miss
-0,adams jacob,"Conway, Ark. (Crowder College)",N/A,"Conway, Ark. (Crowder College)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-1,olenek ryan,"Winter Park, Fla. (Trinity Prep)",N/A,"Winter Park, Fla. (Trinity Prep)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-2,servideo anthony,"Jupiter, Fla. (Jupiter HS)",N/A,"Jupiter, Fla. (Jupiter HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-3,fernandez emanuel,"Lake Worth, Fla. (Park Vista)",N/A,"Lake Worth, Fla. (Park Vista)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-4,dillard thomas,"Oxford, Miss. (Oxford)",N/A,"Oxford, Miss. (Oxford)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-5,fortes nick,"Deland, Fla. (Deland)",N/A,"Deland, Fla. (Deland)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-6,golsan will,"Columbus, Miss. (New Hope)",N/A,"Columbus, Miss. (New Hope)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-7,spears michael,"Winter Park, Fla. (Orangewood Christian)",N/A,"Winter Park, Fla. (Orangewood Christian)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-8,keenan tyler,"Clayton, N.C. (Cleveland)",N/A,"Clayton, N.C. (Cleveland)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-9,cockrell chase,"Bastrop, La. (Hinds CC)",N/A,"Bastrop, La. (Hinds CC)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-10,holston greer,"Long Beach, Miss. (IMG Academy)",N/A,"Long Beach, Miss. (IMG Academy)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-11,johnson cooper,"Mundelein, Ill. (Carmel Catholic)",N/A,"Mundelein, Ill. (Carmel Catholic)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-12,zabowski cole,"Lawrenceville, Ga. (Collins Hill)",N/A,"Lawrenceville, Ga. (Collins Hill)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-13,kessinger grae,"Oxford, Miss. (Oxford)",N/A,"Oxford, Miss. (Oxford)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-14,stokes will,"Meridian, Miss. (West Lauderdale)",N/A,"Meridian, Miss. (West Lauderdale)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-15,green connor,"Collierville, Tenn. (St. George's Independent School)",N/A,"Collierville, Tenn. (St. George's Independent School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-16,ethridge will,"Lilburn, Ga. (Parkview)",N/A,"Lilburn, Ga. (Parkview)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-17,fowler jordan,"Union City, Tenn. (Dyer County)",N/A,"Union City, Tenn. (Dyer County)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-18,rolison ryan,"Jackson, Tenn. (University of Jackson)",N/A,"Jackson, Tenn. (University of Jackson)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-19,elko tim,"Lutz, Fla. (Hillborough)",N/A,"Lutz, Fla. (Hillborough)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-20,mcarthur james,"New Braunfels, Texas (New Braunfels)",N/A,"New Braunfels, Texas (New Braunfels)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-21,seamster bryan,"Roanoke, Texas (Byron Nelson)",N/A,"Roanoke, Texas (Byron Nelson)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-22,miller austin,"North Liberty, Iowa (Kirkwood CC)",N/A,"North Liberty, Iowa (Kirkwood CC)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-23,cioffi max,"Chicago, Ill. (Saint Patrick HS)",N/A,"Chicago, Ill. (Saint Patrick HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-24,coates colin,"Southaven, Miss. (Hinds CC)",N/A,"Southaven, Miss. (Hinds CC)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-25,fitzsimmons michael,"Eads, Tenn. (Memphis University)",N/A,"Eads, Tenn. (Memphis University)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-26,gillespie golston,"Ila, Ga. (Madison County)",N/A,"Ila, Ga. (Madison County)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-27,feigl brady,"Chesterfield, Mo. (Central)",N/A,"Chesterfield, Mo. (Central)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-28,roth houston,"Oxford, Miss. (Oxford)",N/A,"Oxford, Miss. (Oxford)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-29,smith pierce,"Marietta, Ga. (Chattahoochee Valley CC)",N/A,"Marietta, Ga. (Chattahoochee Valley CC)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-30,rowe tim,"Hernando, Miss. (Itawamba CC)",N/A,"Hernando, Miss. (Itawamba CC)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-31,gindl carl,"Cantonment, Fla. (Pensacola Catholic)",N/A,"Cantonment, Fla. (Pensacola Catholic)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-32,myers matt,"Jackson, Miss. (Jackson Prep)",N/A,"Jackson, Miss. (Jackson Prep)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-33,caracci parker,"Jackson, Miss. (Jackson Prep)",N/A,"Jackson, Miss. (Jackson Prep)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),baseball,ole_miss
-0,brown a.j.,"Starkville, Miss./Starkville","Starkville, Miss./Starkville","Starkville, Miss./Starkville",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-1,corral matt,"Ventura, Calif./Long Beach Poly","Ventura, Calif./Long Beach Poly","Ventura, Calif./Long Beach Poly",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-2,dasher vernon,"Baxley, Ga./Appling County/Coffeyville CC","Baxley, Ga./Appling County/Coffeyville CC","Baxley, Ga./Appling County/Coffeyville CC",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-3,gregory demarcus,"Duncan, S.C./Byrnes","Duncan, S.C./Byrnes","Duncan, S.C./Byrnes",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-4,carter jacob,"Pontotoc, Miss./Pontotoc/East Central CC","Pontotoc, Miss./Pontotoc/East Central CC","Pontotoc, Miss./Pontotoc/East Central CC",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-5,evans victor,"Dallas, Texas/Skyline","Dallas, Texas/Skyline","Dallas, Texas/Skyline",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-6,lodge damarkus,"Cedar Hill, Texas/Cedar Hill","Cedar Hill, Texas/Cedar Hill","Cedar Hill, Texas/Cedar Hill",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-7,webster ken,"Decatur, Ga./Stockbridge","Decatur, Ga./Stockbridge","Decatur, Ga./Stockbridge",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-8,white kam,"Clinton, Miss./Clinton","Clinton, Miss./Clinton","Clinton, Miss./Clinton",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-9,pellerin jason,"New Iberia, La./New Iberia Catholic","New Iberia, La./New Iberia Catholic","New Iberia, La./New Iberia Catholic",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-10,miller c.j.,"Powder Springs, Ga./McEachern","Powder Springs, Ga./McEachern","Powder Springs, Ga./McEachern",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-11,knox dawson,"Brentwood, Tenn./Brentwood Academy","Brentwood, Tenn./Brentwood Academy","Brentwood, Tenn./Brentwood Academy",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-12,ta'amu jordan,"Pearl City, Hawaii/Pearl City/New Mexico Military","Pearl City, Hawaii/Pearl City/New Mexico Military","Pearl City, Hawaii/Pearl City/New Mexico Military",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-13,harris a.j.,"Madison, Ala./Bob Jones","Madison, Ala./Bob Jones","Madison, Ala./Bob Jones",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-14,robinson austrian,"New York, N.Y./Trinity-Pawling School","New York, N.Y./Trinity-Pawling School","New York, N.Y./Trinity-Pawling School",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-15,restmeyer grant,"McKinney, Texas/McKinney Boyd","McKinney, Texas/McKinney Boyd","McKinney, Texas/McKinney Boyd",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-16,sanders braylon,"Hogansville, Ga./Callaway","Hogansville, Ga./Callaway","Hogansville, Ga./Callaway",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-17,baker zikerrion,"Mooringsport, La./Minden","Mooringsport, La./Minden","Mooringsport, La./Minden",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-18,metcalf d.k.,"Oxford, Miss./Oxford","Oxford, Miss./Oxford","Oxford, Miss./Oxford",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-19,cooley octavious,"Laurel, Miss./Laurel","Laurel, Miss./Laurel","Laurel, Miss./Laurel",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-20,hartsfield myles,"Sayreville, N.J./East Coast Prep","Sayreville, N.J./East Coast Prep","Sayreville, N.J./East Coast Prep",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-21,angel gabe,"Lebanon, Tenn./Cookeville","Lebanon, Tenn./Cookeville","Lebanon, Tenn./Cookeville",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-22,allen floyd,"Houston, Texas/Nimitz/Bethany/El Camino College","Houston, Texas/Nimitz/Bethany/El Camino College","Houston, Texas/Nimitz/Bethany/El Camino College",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-23,hibbler willie,"Sardis, Miss./North Panola","Sardis, Miss./North Panola","Sardis, Miss./North Panola",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-24,faniel alex,"Glen Allen, Va./Glen Allen","Glen Allen, Va./Glen Allen","Glen Allen, Va./Glen Allen",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-25,winters markel,"Tallahassee, Fla./Rickards/East Carolina/Jones County JC","Tallahassee, Fla./Rickards/East Carolina/Jones County JC","Tallahassee, Fla./Rickards/East Carolina/Jones County JC",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-26,hamilton javien,"Louin, Miss./Bay Springs/Jones County JC","Louin, Miss./Bay Springs/Jones County JC","Louin, Miss./Bay Springs/Jones County JC",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-27,wells keshun,"Moss Point, Miss./Moss Point/Mississippi Gulf Coast CC","Moss Point, Miss./Moss Point/Mississippi Gulf Coast CC","Moss Point, Miss./Moss Point/Mississippi Gulf Coast CC",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-28,phillips scottie,"Ellisville, Miss./South Jones/Jones County JC","Ellisville, Miss./South Jones/Jones County JC","Ellisville, Miss./South Jones/Jones County JC",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-29,swinney eric,"Riverdale, Ga./Sandy Creek","Riverdale, Ga./Sandy Creek","Riverdale, Ga./Sandy Creek",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-30,buford d.k.,"Oxford, Miss./Lafayette","Oxford, Miss./Lafayette","Oxford, Miss./Lafayette",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-31,custis montrell,"Jonesboro, Ga./Lovejoy","Jonesboro, Ga./Lovejoy","Jonesboro, Ga./Lovejoy",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-32,vanronzelen jake,"Jefferson City, Mo./Blair Oaks","Jefferson City, Mo./Blair Oaks","Jefferson City, Mo./Blair Oaks",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-33,woullard isaiah,"Hattiesburg, Miss./Presbyterian Christian","Hattiesburg, Miss./Presbyterian Christian","Hattiesburg, Miss./Presbyterian Christian",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-34,ordway cam,"Pulaski, Tenn./Giles County","Pulaski, Tenn./Giles County","Pulaski, Tenn./Giles County",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-35,pennamon d'vaughn,"Houston, Texas/Manvel","Houston, Texas/Manvel","Houston, Texas/Manvel",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-36,linton armani,"Walnut, Miss./Walnut","Walnut, Miss./Walnut","Walnut, Miss./Walnut",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-37,jones jaylon,"Allen, Texas/Allen","Allen, Texas/Allen","Allen, Texas/Allen",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-38,clarke josh,"Jefferson, La./Riverdale","Jefferson, La./Riverdale","Jefferson, La./Riverdale",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-39,johnson jerry,"Starkville, Miss./Starkville/Mississippi Delta CC","Starkville, Miss./Starkville/Mississippi Delta CC","Starkville, Miss./Starkville/Mississippi Delta CC",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-40,curtis shawn,"Doral, Fla./Ronald W. Reagan","Doral, Fla./Ronald W. Reagan","Doral, Fla./Ronald W. Reagan",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-41,evans donta,"Lawrenceville, Ga./Archer","Lawrenceville, Ga./Archer","Lawrenceville, Ga./Archer",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-42,woods zedrick,"Lake City, Fla./Columbia","Lake City, Fla./Columbia","Lake City, Fla./Columbia",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-43,mitchell art,"Yazoo City, Miss./Yazoo City","Yazoo City, Miss./Yazoo City","Yazoo City, Miss./Yazoo City",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-44,moore c.j.,"Bassfield, Miss./Bassfield","Bassfield, Miss./Bassfield","Bassfield, Miss./Bassfield",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-45,fountain kweisi,"Biloxi, Miss./Biloxi","Biloxi, Miss./Biloxi","Biloxi, Miss./Biloxi",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-46,coatney josiah,"Douglasville, Ga./Chapel Hill/Holmes CC","Douglasville, Ga./Chapel Hill/Holmes CC","Douglasville, Ga./Chapel Hill/Holmes CC",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-47,williams brenden,"Birmingham, Ala./Restoration Academy/Northeast Mississippi CC","Birmingham, Ala./Restoration Academy/Northeast Mississippi CC","Birmingham, Ala./Restoration Academy/Northeast Mississippi CC",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-48,bing-dukes detric,"Tucker, Ga./Tucker/Georgia/Iowa Western CC","Tucker, Ga./Tucker/Georgia/Iowa Western CC","Tucker, Ga./Tucker/Georgia/Iowa Western CC",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-49,johnson amani,"Abbeville, Miss./Lafayette","Abbeville, Miss./Lafayette","Abbeville, Miss./Lafayette",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-50,sanogo mohamed,"Plano, Texas/Plano West","Plano, Texas/Plano West","Plano, Texas/Plano West",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-51,rocconi ty,"Mobile, Ala./UMS-Wright Prep","Mobile, Ala./UMS-Wright Prep","Mobile, Ala./UMS-Wright Prep",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-52,labanc ryan,"Willoughby, Ohio/Notre Dame-Cathedral Latin","Willoughby, Ohio/Notre Dame-Cathedral Latin","Willoughby, Ohio/Notre Dame-Cathedral Latin",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-53,rawlings sean,"Madison, Miss./Madison Ridgeland Academy","Madison, Miss./Madison Ridgeland Academy","Madison, Miss./Madison Ridgeland Academy",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-54,howard michael,"Green Cove Springs, Fla./Clay","Green Cove Springs, Fla./Clay","Green Cove Springs, Fla./Clay",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-55,johnson sam,"Nashville, Tenn./Christ Presbyterian Academy","Nashville, Tenn./Christ Presbyterian Academy","Nashville, Tenn./Christ Presbyterian Academy",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-56,brown ben,"Vicksburg, Miss./St. Aloysius","Vicksburg, Miss./St. Aloysius","Vicksburg, Miss./St. Aloysius",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-57,taylor mike,"Jackson, Tenn./University School of Jackson","Jackson, Tenn./University School of Jackson","Jackson, Tenn./University School of Jackson",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-58,plash samuel,"Mobile, Ala./UMS-Wright Prep","Mobile, Ala./UMS-Wright Prep","Mobile, Ala./UMS-Wright Prep",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-59,johnson eli,"Taylor, Miss./Lafayette","Taylor, Miss./Lafayette","Taylor, Miss./Lafayette",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-60,becker cole,"Phoenix, Ariz./Brophy College Prep","Phoenix, Ariz./Brophy College Prep","Phoenix, Ariz./Brophy College Prep",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-61,cox peyton,"Metairie, La./Jesuit","Metairie, La./Jesuit","Metairie, La./Jesuit",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-62,givens alex,"Nashville, Tenn./Nashville Christian School","Nashville, Tenn./Nashville Christian School","Nashville, Tenn./Nashville Christian School",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-63,tuitt chandler,"Fayetteville, Ga./Sandy Creek","Fayetteville, Ga./Sandy Creek","Fayetteville, Ga./Sandy Creek",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-64,sims jordan,"Homewood, Ala./Homewood","Homewood, Ala./Homewood","Homewood, Ala./Homewood",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-65,mathews bryce,"Brentwood, Tenn./Brentwood Academy","Brentwood, Tenn./Brentwood Academy","Brentwood, Tenn./Brentwood Academy",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-66,newman royce,"Nashville, Ill./Nashville Community","Nashville, Ill./Nashville Community","Nashville, Ill./Nashville Community",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-67,northern hal,"Tunica, Miss./Rosa Fort/Northwest Mississippi CC","Tunica, Miss./Rosa Fort/Northwest Mississippi CC","Tunica, Miss./Rosa Fort/Northwest Mississippi CC",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-68,little greg,"Allen, Texas/Allen","Allen, Texas/Allen","Allen, Texas/Allen",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-69,gray tony,"Loganville, Ga./Grayson","Loganville, Ga./Grayson","Loganville, Ga./Grayson",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-70,patterson javon,"Petal, Miss./Petal","Petal, Miss./Petal","Petal, Miss./Petal",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-71,ricketts josh,"Madison, Miss./Madison Central","Madison, Miss./Madison Central","Madison, Miss./Madison Central",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-72,drew ryan,"Crystal Springs, Miss./Copiah Academy/Co-Lin CC","Crystal Springs, Miss./Copiah Academy/Co-Lin CC","Crystal Springs, Miss./Copiah Academy/Co-Lin CC",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-73,farlow jared,"Grantville, Ga./Central Christian","Grantville, Ga./Central Christian","Grantville, Ga./Central Christian",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-74,haynes nick,"Washington, Pa./McGuffey/West Liberty University","Washington, Pa./McGuffey/West Liberty University","Washington, Pa./McGuffey/West Liberty University",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-75,weber alex,"Lake City, Fla./Columbia","Lake City, Fla./Columbia","Lake City, Fla./Columbia",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-76,beck drake,"Columbus, Ga./Brookstone","Columbus, Ga./Brookstone","Columbus, Ga./Brookstone",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-77,propst jack,"Brentwood, Tenn./Brentwood Academy","Brentwood, Tenn./Brentwood Academy","Brentwood, Tenn./Brentwood Academy",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-78,reyes ty,"Marietta, Ga./Sprayberry","Marietta, Ga./Sprayberry","Marietta, Ga./Sprayberry",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-79,anderson ryder,"Katy, Texas/Katy","Katy, Texas/Katy","Katy, Texas/Katy",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-80,donelly ross,"Houston, Texas/Cy-Fair","Houston, Texas/Cy-Fair","Houston, Texas/Cy-Fair",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-81,logan luke,"Hattiesburg, Miss./Presbyterian Christian","Hattiesburg, Miss./Presbyterian Christian","Hattiesburg, Miss./Presbyterian Christian",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-82,david sincere,"Jacksonville, Fla./Sandalwood","Jacksonville, Fla./Sandalwood","Jacksonville, Fla./Sandalwood",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-83,coley james,"Natchez, Miss./Cathedral/Co-Lin CC","Natchez, Miss./Cathedral/Co-Lin CC","Natchez, Miss./Cathedral/Co-Lin CC",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-84,cooper jack,"Fresno, Calif./Clovis North","Fresno, Calif./Clovis North","Fresno, Calif./Clovis North",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-85,jones benito,"Waynesboro, Miss./Wayne County","Waynesboro, Miss./Wayne County","Waynesboro, Miss./Wayne County",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-86,way isaac,"Franklin, Tenn./Brentwood Academy","Franklin, Tenn./Brentwood Academy","Franklin, Tenn./Brentwood Academy",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-87,brown mac,"Eden Prairie, Minn./Saint Thomas Academy","Eden Prairie, Minn./Saint Thomas Academy","Eden Prairie, Minn./Saint Thomas Academy",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-88,hebert jordan,"Klein, Texas/Klein","Klein, Texas/Klein","Klein, Texas/Klein",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-89,sheppard qaadir,"Bronx, N.Y./Iona Prep/Syracuse","Bronx, N.Y./Iona Prep/Syracuse","Bronx, N.Y./Iona Prep/Syracuse",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-90,lewis john,"Burnside, Ky./Somerset","Burnside, Ky./Somerset","Burnside, Ky./Somerset",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-91,wiley charles,"Stockbridge, Ga./Stockbridge","Stockbridge, Ga./Stockbridge","Stockbridge, Ga./Stockbridge",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-92,nasiatka patrick,"Louisville, Colo.//Santa Barbara City College","Louisville, Colo.//Santa Barbara City College","Louisville, Colo.//Santa Barbara City College",Last Name,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,HOMETOWN/HIGH SCHOOL/LAST COLLEGE,football,ole_miss
-0,dineen sophie,"Omaha, Neb. (Marian HS)",N/A,"Omaha, Neb. (Marian HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-1,foster channing,"Murray, Ky. (Graves County HS)",N/A,"Murray, Ky. (Graves County HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-2,frischknecht ella,"Centerville, Utah (BYU)",N/A,"Centerville, Utah (BYU)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-3,houghton alley,"Oxford, Miss. (Lafayette HS)",N/A,"Oxford, Miss. (Lafayette HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-4,houghton maddy,"Oxford, Miss. (Lafayette HS)",N/A,"Oxford, Miss. (Lafayette HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-5,johnson grace,"Centerville, Utah (Viewmont HS)",N/A,"Centerville, Utah (Viewmont HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-6,kizer cece,"Overland Park, Kan. (Blue Valley Northwest HS)",N/A,"Overland Park, Kan. (Blue Valley Northwest HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-7,kutchma marisa,"Saint Charles, Mo. (Incarnate Word Academy)",N/A,"Saint Charles, Mo. (Incarnate Word Academy)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-8,little gabby,"Collierville, Tenn. (Houston HS)",N/A,"Collierville, Tenn. (Houston HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-9,martin molly,"Memphis, Tenn. (Evangelical Christian School)",N/A,"Memphis, Tenn. (Evangelical Christian School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-10,mcaslan morgan,"Waterdown, Ont. (Waterdown District HS)",N/A,"Waterdown, Ont. (Waterdown District HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-11,merritt marnie,"Huntersville, N.C. (Hough HS)",N/A,"Huntersville, N.C. (Hough HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-12,michalak sydney,"Winter Springs, Fla. (Winter Springs HS)",N/A,"Winter Springs, Fla. (Winter Springs HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-13,mulligan lonnie,"Hattiesburg, Miss. (Oak Grove HS)",N/A,"Hattiesburg, Miss. (Oak Grove HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-14,orkus ashley,"Vestavia Hills, Ala. (Vestavia Hills HS)",N/A,"Vestavia Hills, Ala. (Vestavia Hills HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-15,pezzino madisyn,"Grand Island, N.Y. (Florida State)",N/A,"Grand Island, N.Y. (Florida State)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-16,phillips julia,"Ashburn, Va. (Florida State)",N/A,"Ashburn, Va. (Florida State)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-17,smith madison,"Franklin, Tenn. (Franklin HS)",N/A,"Franklin, Tenn. (Franklin HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-18,smith mary kate,"Ellisville, Miss. (Jones County JC)",N/A,"Ellisville, Miss. (Jones County JC)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-19,stackpole haleigh,"Ft. Bragg, N.C. (Overhills HS)",N/A,"Ft. Bragg, N.C. (Overhills HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-20,sullivan tara,"New Berlin, Ill. (New Berlin HS)",N/A,"New Berlin, Ill. (New Berlin HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-21,thomas chanel,"Scottsdale, Ariz. (Desert Mountain HS)",N/A,"Scottsdale, Ariz. (Desert Mountain HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-22,waugh grace,"Plano, Texas (Plano West Senior HS)",N/A,"Plano, Texas (Plano West Senior HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-23,williams claire,"Oak Park, Calif. (Oaks Christian School)",N/A,"Oak Park, Calif. (Oaks Christian School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens soccer,ole_miss
-0,blackmon brody,"Sulphur Springs, Texas (Sulphur Springs High School)",N/A,"Sulphur Springs, Texas (Sulphur Springs High School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens golf,ole_miss
-1,briggs beau,"Covington, La. (St. Paul's)",N/A,"Covington, La. (St. Paul's)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens golf,ole_miss
-2,getz chip,"Paradise Valley, Arizona (Brophy College Preparatory)",N/A,"Paradise Valley, Arizona (Brophy College Preparatory)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens golf,ole_miss
-3,miller charlie,"Jackson, Miss. (Jackson Preparatory)",N/A,"Jackson, Miss. (Jackson Preparatory)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens golf,ole_miss
-4,seiple josh,"Castle Rock, Colo. (Valor Christian)",N/A,"Castle Rock, Colo. (Valor Christian)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens golf,ole_miss
-5,sweeney kerry,"Melbourne, Fla. (Eastern Florida State College)",N/A,"Melbourne, Fla. (Eastern Florida State College)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens golf,ole_miss
-6,thornberry braden,"Olive Branch, Miss. (DeSoto Central)",N/A,"Olive Branch, Miss. (DeSoto Central)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens golf,ole_miss
-7,wegener cecil,"Ridgeland, Miss. (Jackson Preparatory)",N/A,"Ridgeland, Miss. (Jackson Preparatory)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens golf,ole_miss
-0,ball conner beth,"Starkville, Miss. (Jackson Academy)",N/A,"Starkville, Miss. (Jackson Academy)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens golf,ole_miss
-1,flori martina,"Montecatini Terme, Italy (Liceo Don Bosco)",N/A,"Montecatini Terme, Italy (Liceo Don Bosco)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens golf,ole_miss
-2,harris katy,"St. Simons Island, Ga. (Mercer)",N/A,"St. Simons Island, Ga. (Mercer)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens golf,ole_miss
-3,hermansson pi-lillebi,"Djursholm, Sweden (Celsiusskolan)",N/A,"Djursholm, Sweden (Celsiusskolan)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens golf,ole_miss
-4,holliday macy,"Dallas, Texas (Trinity Christian Academy)",N/A,"Dallas, Texas (Trinity Christian Academy)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens golf,ole_miss
-5,johnson julia,"St. Gabriel, La. (Math, Science and Arts Academy)",N/A,"St. Gabriel, La. (Math, Science and Arts Academy)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens golf,ole_miss
-6,lim diane,"Suwanee, Ga. (College of Coastal Georgia)",N/A,"Suwanee, Ga. (College of Coastal Georgia)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens golf,ole_miss
-7,purdom kie,"Lexington, Ky. (Henry Clay HS)",N/A,"Lexington, Ky. (Henry Clay HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens golf,ole_miss
-0,babic zvonimir,"Zagreb, Croatia (Gimnazija Birotehnika)",N/A,"Zagreb, Croatia (Gimnazija Birotehnika)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens tennis,ole_miss
-1,fallert fabian,"Lichtenstein, Germany (Johann-Friedrich-von-Cotta Schule)",N/A,"Lichtenstein, Germany (Johann-Friedrich-von-Cotta Schule)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens tennis,ole_miss
-2,hamilton grey,"Southern Pines, N.C. (Pinecrest)",N/A,"Southern Pines, N.C. (Pinecrest)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens tennis,ole_miss
-3,hansson gustav,"Karlskrona, Sweden (Aspero Idrottsgymnasium)",N/A,"Karlskrona, Sweden (Aspero Idrottsgymnasium)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens tennis,ole_miss
-4,kraljevic filip,"Rijeka, Croatia (Hotelijesko Turisticka Skola)",N/A,"Rijeka, Croatia (Hotelijesko Turisticka Skola)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens tennis,ole_miss
-5,reynolds finn,"Hastings, New Zealand (Napier Boys)",N/A,"Hastings, New Zealand (Napier Boys)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens tennis,ole_miss
-6,sandkaulen tim,"Monchengladbach, Germany (Kurpfalz Gymnasium)",N/A,"Monchengladbach, Germany (Kurpfalz Gymnasium)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens tennis,ole_miss
-7,wilson cotter,"Shreveport, La. (Ogburn High School)",N/A,"Shreveport, La. (Ogburn High School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens tennis,ole_miss
-0,bortles alexa,"Alpharetta, Ga. (Georgia Connections Academy)",N/A,"Alpharetta, Ga. (Georgia Connections Academy)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens tennis,ole_miss
-1,hartono arianne,"Meppel, Netherlands (Centre for Sports and Education)",N/A,"Meppel, Netherlands (Centre for Sports and Education)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens tennis,ole_miss
-2,janatova tereza,"Nova Paka, Czech Republic (Secondary Pedagogical School)",N/A,"Nova Paka, Czech Republic (Secondary Pedagogical School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens tennis,ole_miss
-3,jandric tea,"Zagreb, Croatia (Sports Gymnasium)",N/A,"Zagreb, Croatia (Sports Gymnasium)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens tennis,ole_miss
-4,kriscunas cameron,"Hilton Head Island, S.C. (Connections Academy)",N/A,"Hilton Head Island, S.C. (Connections Academy)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens tennis,ole_miss
-5,machalova sabina,"Zlin, Czech Republic (Gymnazium T.G.M.)",N/A,"Zlin, Czech Republic (Gymnazium T.G.M.)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens tennis,ole_miss
-6,sanford allie,"Phoenix, Ariz. (Laurel Springs)",N/A,"Phoenix, Ariz. (Laurel Springs)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens tennis,ole_miss
-7,suk natalie,"Bradenton, Fla. (Allendale Academy)",N/A,"Bradenton, Fla. (Allendale Academy)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens tennis,ole_miss
-8,vrbenska anna,"Podebrady, Czech Republic (Gymnazium Jiriho)",N/A,"Podebrady, Czech Republic (Gymnazium Jiriho)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens tennis,ole_miss
-0,barnes courtland,"Oxford, Miss. (Senatobia HS)",N/A,"Oxford, Miss. (Senatobia HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-1,bethmann cade,"Arlington, Texas (Arlington Martin HS)",N/A,"Arlington, Texas (Arlington Martin HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-2,caldwell taylor,"Brentwood, Tenn. (Brentwood HS)",N/A,"Brentwood, Tenn. (Brentwood HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-3,coccia michael,"Guelph, Ontario (Arizona State)",N/A,"Guelph, Ontario (Arizona State)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-4,colozzo cole,"Stuart, Fla. (South Fork HS)",N/A,"Stuart, Fla. (South Fork HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-5,day dylan,"Fountain, Colo. (Fountain-Fort Carson)",N/A,"Fountain, Colo. (Fountain-Fort Carson)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-6,domanic robert,"Lewisville, Texas (Hebron HS)",N/A,"Lewisville, Texas (Hebron HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-7,foster manny,"Sanford, Fla. (Seminole)",N/A,"Sanford, Fla. (Seminole)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-8,gaines fraquan,"Champaign, Ill. (Southern Illinois)",N/A,"Champaign, Ill. (Southern Illinois)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-9,garrett austin,"Harrisville, W. Va. (Ritchie County)",N/A,"Harrisville, W. Va. (Ritchie County)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-10,gilley trevor,"Southlake, Texas (Southlake Carroll)",N/A,"Southlake, Texas (Southlake Carroll)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-11,gordon allen,"Omaha, Neb. (Omaha North HS)",N/A,"Omaha, Neb. (Omaha North HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-12,gutierrez derek,"Keller, Texas (Keller HS)",N/A,"Keller, Texas (Keller HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-13,hartsfield myles,"Sayreville, N.J. (East Coast Prep)",N/A,"Sayreville, N.J. (East Coast Prep)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-14,harvey brandon,"Murfreesboro, Tenn. (Riverdale)",N/A,"Murfreesboro, Tenn. (Riverdale)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-15,hesse nolan,"Wichita, Kan. (Butler CC)",N/A,"Wichita, Kan. (Butler CC)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-16,long chris,"Oxford, MS (Lafayette High School)",N/A,"Oxford, MS (Lafayette High School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-17,manahan ryan,"Marcellus, N.Y. (Georgetown)",N/A,"Marcellus, N.Y. (Georgetown)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-18,mcguigan dempsey,"London, U.K. (Drayton Manor)",N/A,"London, U.K. (Drayton Manor)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-19,moore tyler,"Little Falls, Minn. (Little Falls Community)",N/A,"Little Falls, Minn. (Little Falls Community)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-20,prena cullen,"West Bloomsfield, Mich. (Oregon)",N/A,"West Bloomsfield, Mich. (Oregon)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-21,raspo andrew,"Modesto, Calif. (Thomas Downey)",N/A,"Modesto, Calif. (Thomas Downey)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-22,riley griffin,"Mountain Brook, Ala. (Mountain Brook)",N/A,"Mountain Brook, Ala. (Mountain Brook)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-23,rivera jr. john,"Bradenton, Fla. (Lakewood Ranch)",N/A,"Bradenton, Fla. (Lakewood Ranch)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-24,robertson mark,"Pensacola, Fla. (B.T. Washington)",N/A,"Pensacola, Fla. (B.T. Washington)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-25,savino ben,"Cary, N.C. (Apex)",N/A,"Cary, N.C. (Apex)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-26,scott parker,"Corpus Christi, Texas (King)",N/A,"Corpus Christi, Texas (King)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-27,smulders everett,"Atlanta, Ga. (The Lovett School)",N/A,"Atlanta, Ga. (The Lovett School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-28,snider robinson,"Wrightsville Beach, N.C. (John T. Hoggard)",N/A,"Wrightsville Beach, N.C. (John T. Hoggard)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-29,suliman waleed,"Richmond, Va. (Freeman)",N/A,"Richmond, Va. (Freeman)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-30,tobin sean,"Clonmel, Ireland (C.B.S. HS)",N/A,"Clonmel, Ireland (C.B.S. HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-31,tucker shamar,"Pearl, Miss. (Pearl)",N/A,"Pearl, Miss. (Pearl)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-32,weissmann peyton,"Grapevine, Texas (Grapevine High School)",N/A,"Grapevine, Texas (Grapevine High School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-33,westbrook alvin,"Olive Branch, Miss. (Center Hill)",N/A,"Olive Branch, Miss. (Center Hill)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-34,williams brian,"Warren, Mich. (Iowa Central CC)",N/A,"Warren, Mich. (Iowa Central CC)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-35,yancey christian,"McDonough, Ga (Winthrop)",N/A,"McDonough, Ga (Winthrop)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),mens track,ole_miss
-0,allen jasmin,"Raleigh, N.C. (Iowa Western CC)",N/A,"Raleigh, N.C. (Iowa Western CC)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-1,bean emily,"Louisville, Ky. (Assumption)",N/A,"Louisville, Ky. (Assumption)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-2,braswell anna,"Mobile, Ala. (St. Paul's Episcopal)",N/A,"Mobile, Ala. (St. Paul's Episcopal)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-3,brooks kieshonna,"Basseterre, St. Kitts & Nevis",N/A,"Basseterre, St. Kitts & Nevis",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-4,brown sandra,"Indianapolis, Ind. (Pike High School)",N/A,"Indianapolis, Ind. (Pike High School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-5,brown shelby,"Phoenix, Ariz. (Xavier College Preparatory)",N/A,"Phoenix, Ariz. (Xavier College Preparatory)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-6,cameron t'aja,"McDonough, Ga. (Eagle's Landing Christian)",N/A,"McDonough, Ga. (Eagle's Landing Christian)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-7,carbo jolie,"Terry, Miss. (Terry)",N/A,"Terry, Miss. (Terry)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-8,chavarria kendall,"Punta Gorda, Fla. (Charlotte)",N/A,"Punta Gorda, Fla. (Charlotte)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-9,cherry jasmine,"Meridian, Miss. (Meridian)",N/A,"Meridian, Miss. (Meridian)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-10,christen hannah,"Burke, Va. (University of North Carolina)",N/A,"Burke, Va. (University of North Carolina)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-11,drum chelsea,"Jackson, Mo. (Jackson)",N/A,"Jackson, Mo. (Jackson)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-12,elkin anna,"Carrollton, Texas (Hebron)",N/A,"Carrollton, Texas (Hebron)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-13,england julia,"Cary, N.C. (Green Hope)",N/A,"Cary, N.C. (Green Hope)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-14,enright alex,"Wheaton, Ill. (Wheaton Warrenville South)",N/A,"Wheaton, Ill. (Wheaton Warrenville South)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-15,gee ralesheia,"Starkville, Miss. (Starkville)",N/A,"Starkville, Miss. (Starkville)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-16,henderson nicole,"New Orleans, La. (McDonogh 35)",N/A,"New Orleans, La. (McDonogh 35)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-17,holmes alia,"Dallas, Texas (Cedar Hill High School)",N/A,"Dallas, Texas (Cedar Hill High School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-18,hood haley,"Benton, Ark. (Bryant)",N/A,"Benton, Ark. (Bryant)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-19,kallenberger nicole,"Lee's Summit, Mo. (Lee's Summit West)",N/A,"Lee's Summit, Mo. (Lee's Summit West)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-20,king lexi,"Waxhaw, N.C. (Marvin Ridge)",N/A,"Waxhaw, N.C. (Marvin Ridge)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-21,king maddie,"Virginia Beach, Va. (Ocean Lakes)",N/A,"Virginia Beach, Va. (Ocean Lakes)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-22,klein leah,"Shoreview, Minn (Moundsville High School)",N/A,"Shoreview, Minn (Moundsville High School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-23,larsson annika,"Uppsala, Sweden (Celsiusskolan)",N/A,"Uppsala, Sweden (Celsiusskolan)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-24,macneal kat,"Weston, Fla. (Cypress Bay)",N/A,"Weston, Fla. (Cypress Bay)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-25,mattix mercedes,"Columbus, Miss. (New Hope)",N/A,"Columbus, Miss. (New Hope)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-26,mcauley katy,"Pontotoc, Miss. (Pontotoc)",N/A,"Pontotoc, Miss. (Pontotoc)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-27,mcclellan emma,"Murfreesboro, Tenn. (Riverdale)",N/A,"Murfreesboro, Tenn. (Riverdale)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-28,mchugh maddie,"Cornelius, N.C. (Hough)",N/A,"Cornelius, N.C. (Hough)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-29,murray lindsey,"Harrisburg, Ill. (Southern Illinois)",N/A,"Harrisburg, Ill. (Southern Illinois)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-30,newsome aisha,"Brookville, Pa. (Brookville Area)",N/A,"Brookville, Pa. (Brookville Area)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-31,newsome lanae,"Brookville, Pa. (Brookville Area)",N/A,"Brookville, Pa. (Brookville Area)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-32,nikkel maddy,"Clovis, Calif. (Buchanan)",N/A,"Clovis, Calif. (Buchanan)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-33,ozanne-jaques clio,"Cairns Post, Australia (Trinity Anglican School)",N/A,"Cairns Post, Australia (Trinity Anglican School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-34,paul jeanette,"Harbor City, Calif. (Carson)",N/A,"Harbor City, Calif. (Carson)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-35,ray shannon,"New Orleans, La. (St. Katharine Drexel)",N/A,"New Orleans, La. (St. Katharine Drexel)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-36,rice nicole,"Temecula, Calif (Great Oak)",N/A,"Temecula, Calif (Great Oak)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-37,shaw orianna,"Oxford, Miss. (Lafayette HS)",N/A,"Oxford, Miss. (Lafayette HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-38,shirley porsha,"Terry, Miss. (Terry)",N/A,"Terry, Miss. (Terry)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-39,simmons kaira,"Rockledge, Fla. (Rockledge)",N/A,"Rockledge, Fla. (Rockledge)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-40,simmons victoria,"Murfreesboro, Tenn. (Siegel)",N/A,"Murfreesboro, Tenn. (Siegel)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-41,stewart janeah,"Calumet City, Ill. (Iowa Central CC)",N/A,"Calumet City, Ill. (Iowa Central CC)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-42,taiwo shey,"South Holland, Ill. (Thornwood HS)",N/A,"South Holland, Ill. (Thornwood HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-43,traxler ylva,"Maria Enzedorf, Austria",N/A,"Maria Enzedorf, Austria",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-44,vogelgesang lisa,"Hildesheim, Germany (Goethegymnasium Hildesheim)",N/A,"Hildesheim, Germany (Goethegymnasium Hildesheim)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-45,warren ghania,"Opelika, Ala. (Opelika HS)",N/A,"Opelika, Ala. (Opelika HS)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-46,williamson lilli,"Fort Worth, Texas (Trinity Valley School)",N/A,"Fort Worth, Texas (Trinity Valley School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens track,ole_miss
-0,alvarez gabby,"Riverside, Calif./Martin Luther King, Jr.","Riverside, Calif./Martin Luther King, Jr.","Riverside, Calif./Martin Luther King, Jr.",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-1,becker kylan,"Miami, Fla./Coral Reef","Miami, Fla./Coral Reef","Miami, Fla./Coral Reef",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-2,borgen anna,"Heath, Texas/Dallas Christian","Heath, Texas/Dallas Christian","Heath, Texas/Dallas Christian",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-3,bruce morgan,"Roanoke, Va./Northside","Roanoke, Va./Northside","Roanoke, Va./Northside",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-4,castro bry,"Yorba Linda, Calif.//McNeese State","Yorba Linda, Calif.//McNeese State","Yorba Linda, Calif.//McNeese State",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-5,clayton alyssa,"Section, Ala.//Shelton State CC","Section, Ala.//Shelton State CC","Section, Ala.//Shelton State CC",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-6,cox elantra,"Henderson, Tenn./Chester County","Henderson, Tenn./Chester County","Henderson, Tenn./Chester County",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-7,finney brittany,"Wichita, Kan.//Oklahoma","Wichita, Kan.//Oklahoma","Wichita, Kan.//Oklahoma",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-8,gillespie autumn,"Redlands, Calif.//UCF","Redlands, Calif.//UCF","Redlands, Calif.//UCF",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-9,horton kaylee,"Jasper, Ala./Curry","Jasper, Ala./Curry","Jasper, Ala./Curry",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-10,jahnke elisha,"Grand Junction, Colo.//Salt Lake City Community College","Grand Junction, Colo.//Salt Lake City Community College","Grand Junction, Colo.//Salt Lake City Community College",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-11,latham abbey,"Livingston, Ala./Demopolis","Livingston, Ala./Demopolis","Livingston, Ala./Demopolis",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-12,lee kaitlin,"Gulfport, Miss./Harrison Central/Miss. Gulf Coast CC","Gulfport, Miss./Harrison Central/Miss. Gulf Coast CC","Gulfport, Miss./Harrison Central/Miss. Gulf Coast CC",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-13,mckinney paige,"Southaven, Miss./Desoto Central","Southaven, Miss./Desoto Central","Southaven, Miss./Desoto Central",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-14,mena ally,"Miami, Fla./Westminster Christian School","Miami, Fla./Westminster Christian School","Miami, Fla./Westminster Christian School",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-15,puk jessica,"Cedar Rapids, Iowa/Agoura Hills HS","Cedar Rapids, Iowa/Agoura Hills HS","Cedar Rapids, Iowa/Agoura Hills HS",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-16,roth amanda,"Carrollton, Texas/Hebron","Carrollton, Texas/Hebron","Carrollton, Texas/Hebron",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-17,schneider alex,"Southlake, Texas/Southlake Carroll","Southlake, Texas/Southlake Carroll","Southlake, Texas/Southlake Carroll",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-18,stancil dylinn,"Temecula, Calif./Great Oak","Temecula, Calif./Great Oak","Temecula, Calif./Great Oak",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-19,terral mary,"Farmerville, La./Cedar Creek School","Farmerville, La./Cedar Creek School","Farmerville, La./Cedar Creek School",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-20,tillmann ava,"Cedartown, Ga./Cedartown","Cedartown, Ga./Cedartown","Cedartown, Ga./Cedartown",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-21,werdann izzy,"Pensacola, Fla.//Miss. Gulf Coast CC","Pensacola, Fla.//Miss. Gulf Coast CC","Pensacola, Fla.//Miss. Gulf Coast CC",Last Name,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,HOMETOWN/HIGH SCHOOL/Last College,softball,ole_miss
-0,adams caroline,"Lafayette, La. (St. Thomas More Catholic)",N/A,"Lafayette, La. (St. Thomas More Catholic)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-1,bars lauren,"Nashville, Tenn. (Harpeth Hall)",N/A,"Nashville, Tenn. (Harpeth Hall)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-2,bugg avery,"Morrisville, N.C. (Cardinal Gibbons)",N/A,"Morrisville, N.C. (Cardinal Gibbons)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-3,engelken emily,"Overland Park, Kan. (Blue Valley West)",N/A,"Overland Park, Kan. (Blue Valley West)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-4,fate jordan,"Fairview, Texas (LoveJoy)",N/A,"Fairview, Texas (LoveJoy)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-5,fischer audrey,"Chesterfield, Mo. (Nerinx High School)",N/A,"Chesterfield, Mo. (Nerinx High School)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-6,gallagher delaney,"Nashville, Tenn. (Middle Tennessee State)",N/A,"Nashville, Tenn. (Middle Tennessee State)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-7,guttell barrett,"Austin, Texas (St. Andrews Episcopal)",N/A,"Austin, Texas (St. Andrews Episcopal)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-8,mulkey leah,"Austin, Texas (Lake Travis)",N/A,"Austin, Texas (Lake Travis)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-9,puddy hannah,"Dallas, Texas (Bishop Lynch)",N/A,"Dallas, Texas (Bishop Lynch)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-10,purcell nicole,"Leawood, Kan. (Bishop Miege)",N/A,"Leawood, Kan. (Bishop Miege)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-11,scott bayleigh,"Rockwall, Texas (Rockwall)",N/A,"Rockwall, Texas (Rockwall)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-12,stroup emily,"Fargo, N.D. (Fargo South)",N/A,"Fargo, N.D. (Fargo South)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-13,sultemeier aubrey,"Fredericksburg, Texas (Fredericksburg)",N/A,"Fredericksburg, Texas (Fredericksburg)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-14,thompson lauren,"Springdale, Ark. (Springdale Har-Ber)",N/A,"Springdale, Ark. (Springdale Har-Ber)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-15,warnell nayo,"Dickinson, Texas (Dickinson)",N/A,"Dickinson, Texas (Dickinson)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-16,wernentin caitlin,"Bettendorf, Iowa (UNLV)",N/A,"Bettendorf, Iowa (UNLV)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens volleyball,ole_miss
-0,buesseler abby,"Stacy, Minn. (Forest Lake)",N/A,"Stacy, Minn. (Forest Lake)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens rifle,ole_miss
-1,carroll hayley,"Fairfax, Va. (Robinson Secondary)",N/A,"Fairfax, Va. (Robinson Secondary)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens rifle,ole_miss
-2,cock emily,"Silverton, Ore. (Silverton)",N/A,"Silverton, Ore. (Silverton)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens rifle,ole_miss
-3,cuozzo sophia,"Orange, Conn. (Amity Regional)",N/A,"Orange, Conn. (Amity Regional)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens rifle,ole_miss
-4,gardner harley,"Bellville, Texas (Bellville)",N/A,"Bellville, Texas (Bellville)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens rifle,ole_miss
-5,haig jessica,"Constableville, N.Y. (South Lewis)",N/A,"Constableville, N.Y. (South Lewis)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens rifle,ole_miss
-6,kelly alana,"Acworth, Ga. (Allatoona)",N/A,"Acworth, Ga. (Allatoona)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens rifle,ole_miss
-7,kisch kamilla,"Maple Grove, Minn. (Osseo Senior)",N/A,"Maple Grove, Minn. (Osseo Senior)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens rifle,ole_miss
-8,loudin randi,"Post Falls, Idaho (Post Falls)",N/A,"Post Falls, Idaho (Post Falls)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens rifle,ole_miss
-9,taylor megan,"Coleman, Texas (Coleman)",N/A,"Coleman, Texas (Coleman)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens rifle,ole_miss
-10,trump kristyn,"DuBois, Pa. (DuBois)",N/A,"DuBois, Pa. (DuBois)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens rifle,ole_miss
-11,zakrzeski jillian,"Constantia, N.Y. (Paul V. Moore)",N/A,"Constantia, N.Y. (Paul V. Moore)",Last Name,HOMETOWN (Last School),N/A,HOMETOWN (Last School),womens rifle,ole_miss
+,name,hometown,high school?,sport,college
+0,Blake Hinson,"Deltona, Fla.",Sunrise Christian Academy,mens basketball,ole_miss
+1,Zach Naylor,"Houston, Texas",William B. Travis,mens basketball,ole_miss
+2,Devontae Shuler,"Irmo, S.C.",Oak Hill Academy,mens basketball,ole_miss
+3,Terence Davis,"Southaven, Miss.",Southaven,mens basketball,ole_miss
+4,Breein Tyree,"Somerset, N.J.",St. Joseph,mens basketball,ole_miss
+5,Brian Halums,"Hollandale, Miss.",Simmons,mens basketball,ole_miss
+6,Carlos Curry,"Albany, Ga.",Dougherty Comprehensive,mens basketball,ole_miss
+7,Franco Miller Jr.,"Freeport, Bahamas",Crestwood Prep (Canada),mens basketball,ole_miss
+8,Bruce Stevens,"Louin, Miss.",Bay Springs,mens basketball,ole_miss
+9,Dominik Olejniczak,"Torun, Poland",Drake,mens basketball,ole_miss
+10,KJ Buffen,"Gainesville, Ga.",Gainesville,mens basketball,ole_miss
+11,Luis Rodriguez,"Los Angeles, Calif.",Woodstock Academy (Conn.),mens basketball,ole_miss
+12,D.C. Davis,"Purvis, Miss.",Purvis,mens basketball,ole_miss
+13,Antonio Morgano,"Morgantown, W. Va.",Morgantown,mens basketball,ole_miss
+14,John McBride,"Memphis, Tenn.",Memphis University School,mens basketball,ole_miss
+15,Gabby Crawford,"Munford, Tenn.",Munford,womens basketball,ole_miss
+16,Mimi Reid,"Bronx, N.Y.",The Patrick School,womens basketball,ole_miss
+17,Jhileiya Dunlap,"Columbia, S.C.",Dreher,womens basketball,ole_miss
+18,Crystal Allen,"Fort Worth, Texas",Trimble Tech,womens basketball,ole_miss
+19,Cecilia Muhate,"Madrid, Spain",Arturo Soria,womens basketball,ole_miss
+20,Mahogany Matthews,"Raeford, N.C.",Hoke County,womens basketball,ole_miss
+21,Taylor Smith,"Marietta, Ga.",Marietta,womens basketball,ole_miss
+22,Shandricka Sessom,"Byhalia, Miss.",Byhalia,womens basketball,ole_miss
+23,Shannon Dozier,"Washington, D.C.",National Christian Academy,womens basketball,ole_miss
+24,Deja Cage,"Chicago, Ill.",Morgan Park,womens basketball,ole_miss
+25,Iyanla Kitchens,"Lithonia, Ga.",Arabia Mountain,womens basketball,ole_miss
+26,La'Karis Salter,"Tallahassee, Fla.",Florida A&M Development Research School,womens basketball,ole_miss
+27,Torri Lewis,"Olive Branch, Miss.",Homeschool,womens basketball,ole_miss
+28,Jacob Adams,"Conway, Ark.",Conway,baseball,ole_miss
+29,Ryan Olenek,"Winter Park, Fla.",Trinity Prep,baseball,ole_miss
+30,Anthony Servideo,"Jupiter, Fla.",Jupiter,baseball,ole_miss
+31,Knox Loposer,"Madison, Miss.",Jackson Prep,baseball,ole_miss
+32,Thomas Dillard,"Oxford, Miss.",Oxford,baseball,ole_miss
+33,Josh Hall,"Birmingham, Ala.",Homewood,baseball,ole_miss
+34,Justin Bench,"Redington Beach, Fla.",Calvary Christian,baseball,ole_miss
+35,Michael Spears,"Winter Park, Fla.",Orangewood Christian,baseball,ole_miss
+36,Tyler Keenan,"Clayton, N.C.",Cleveland,baseball,ole_miss
+37,Chase Cockrell,"Bastrop, La.",Oak Grove,baseball,ole_miss
+38,Greer Holston,"Long Beach, Miss.",IMG Academy,baseball,ole_miss
+39,Cooper Johnson,"Mundelein, Ill.",Carmel Catholic,baseball,ole_miss
+40,Cole Zabowski,"Lawrenceville, Ga.",Collins Hill,baseball,ole_miss
+41,Grae Kessinger,"Oxford, Miss.",Oxford,baseball,ole_miss
+42,Gunnar Hoglund,"Hudson, Fla.",Dayspring Christian Academy,baseball,ole_miss
+43,Connor Green,"Collierville, Tenn.",St. George's Independent School,baseball,ole_miss
+44,Hunter Nabors,"Montevallo, Ala.",Montevallo,baseball,ole_miss
+45,Will Ethridge,"Lilburn, Ga.",Parkview,baseball,ole_miss
+46,Jordan Fowler,"Union City, Tenn.",Dyer County,baseball,ole_miss
+47,Kaleb Hill,"Pine Bluff, Ark.",Watson Chapel,baseball,ole_miss
+48,Zack Phillips,"Texarkana, Ark.",Texas,baseball,ole_miss
+49,Tim Elko,"Lutz, Fla.",Hillborough,baseball,ole_miss
+50,Doug Nikhazy,"Windermere, Fla.",West Orange,baseball,ole_miss
+51,Taylor Broadway,"Cypress, Texas",Cypress Christian,baseball,ole_miss
+52,Austin Miller,"North Liberty, Iowa",Iowa City West,baseball,ole_miss
+53,Max Cioffi,"Chicago, Ill.",Saint Patrick,baseball,ole_miss
+54,Colin Coates,"Southaven, Miss.",DeSoto Central,baseball,ole_miss
+55,Michael Fitzsimmons,"Eads, Tenn.",Memphis University School,baseball,ole_miss
+56,Tyler Myers,"Houston, Texas",J. Frank Dobie,baseball,ole_miss
+57,Kevin Graham,"O'Fallon, Mo.",Westminster Christian,baseball,ole_miss
+58,Wilson Galvan,"McKinney, Texas",McKinney,baseball,ole_miss
+59,Logan Savell,"Madison, Miss.",Madison Central,baseball,ole_miss
+60,Jacob Steinberg,"Germantown, Md.",St. John's College,baseball,ole_miss
+61,Houston Roth,"Oxford, Miss.",Oxford,baseball,ole_miss
+62,Pierce Smith,"Marietta, Ga.",Walton,baseball,ole_miss
+63,Carl Gindl,"Cantonment, Fla.",Pensacola Catholic,baseball,ole_miss
+64,Ray Falk,"Pacifica, Calif.",Terry Nova,baseball,ole_miss
+65,Parker Caracci,"Jackson, Miss.",Jackson Prep,baseball,ole_miss
+66,A.J. Brown,"Starkville, Miss.",Starkville,football,ole_miss
+67,Matt Corral,"Ventura, Calif.",Long Beach Poly,football,ole_miss
+68,Montrell Custis,"Jonesboro, Ga.",Lovejoy,football,ole_miss
+69,Vernon Dasher,"Baxley, Ga.",Appling County,football,ole_miss
+70,Demarcus Gregory,"Duncan, S.C.",Byrnes,football,ole_miss
+71,Victor Evans,"Dallas, Texas",Skyline,football,ole_miss
+72,DaMarkus Lodge,"Cedar Hill, Texas",Cedar Hill,football,ole_miss
+73,Ken Webster,"Decatur, Ga.",Stockbridge,football,ole_miss
+74,Miles Battle,"Houston, Texas",Cypress Creek,football,ole_miss
+75,Kam'Ron White,"Clinton, Miss.",Clinton,football,ole_miss
+76,Jason Pellerin,"New Iberia, La.",New Iberia Catholic,football,ole_miss
+77,C.J. Miller,"Powder Springs, Ga.",McEachern,football,ole_miss
+78,Elijah Moore,"Fort Lauderdale, Fla.",St. Thomas Aquinas,football,ole_miss
+79,Dawson Knox,"Brentwood, Tenn.",Brentwood Academy,football,ole_miss
+80,Jacquez Jones,"Tuscaloosa, Ala.",Hillcrest,football,ole_miss
+81,Jordan Ta'amu,"Pearl City, Hawaii",Pearl City,football,ole_miss
+82,Floyd Allen,"Houston, Texas",Nimitz,football,ole_miss
+83,Jacob Cendoya,"Alpharetta, Ga.",Mount Pisgah Christian,football,ole_miss
+84,A.J. Harris,"Madison, Ala.",Bob Jones,football,ole_miss
+85,Austrian Robinson,"New York, N.Y.",Trinity-Pawling School,football,ole_miss
+86,Ford Werness,"Raleigh, N.C.",Millbrook,football,ole_miss
+87,Grant Restmeyer,"McKinney, Texas",McKinney Boyd,football,ole_miss
+88,Braylon Sanders,"Hogansville, Ga.",Callaway,football,ole_miss
+89,D.K. Metcalf,"Oxford, Miss.",Oxford,football,ole_miss
+90,Octavious Cooley,"Laurel, Miss.",Laurel,football,ole_miss
+91,Myles Hartsfield,"Sayreville, N.J.",East Coast Prep,football,ole_miss
+92,Gabe Angel,"Lebanon, Tenn.",Cookeville,football,ole_miss
+93,Luke Knox,"Brentwood, Tenn.",Brentwood Academy,football,ole_miss
+94,Willie Hibbler,"Sardis, Miss.",North Panola,football,ole_miss
+95,Alex Faniel,"Glen Allen, Va.",Glen Allen,football,ole_miss
+96,Markel Winters,"Tallahassee, Fla.",Rickards,football,ole_miss
+97,Keidron Smith,"West Palm Beach, Fla.",Oxbridge Academy,football,ole_miss
+98,Javien Hamilton,"Louin, Miss.",Bay Springs,football,ole_miss
+99,KeShun Wells,"Moss Point, Miss.",Moss Point,football,ole_miss
+100,Scottie Phillips,"Ellisville, Miss.",South Jones,football,ole_miss
+101,Tariqious Tisdale,"Lexington, Tenn.",Lexington,football,ole_miss
+102,Jakorey Hawkins,"Montgomery, Ala.",Lee,football,ole_miss
+103,Nevin Wells,"Jackson, Miss.",Jackson Prep,football,ole_miss
+104,Eric Swinney,"Riverdale, Ga.",Sandy Creek,football,ole_miss
+105,D.K. Buford,"Oxford, Miss.",Lafayette,football,ole_miss
+106,Jalen Julius,"Winter Garden, Fla.",West Orange,football,ole_miss
+107,Isaiah Woullard,"Hattiesburg, Miss.",Presbyterian Christian,football,ole_miss
+108,Kevontae' Ruggs,"Montgomery, Ala.",Lee,football,ole_miss
+109,Jake VanRonzelen,"Jefferson City, Mo.",Blair Oaks,football,ole_miss
+110,Tylan Knight,"Pearl, Miss.",Pearl,football,ole_miss
+111,Cam Ordway,"Pulaski, Tenn.",Giles County,football,ole_miss
+112,D'Vaughn Pennamon,"Houston, Texas",Manvel,football,ole_miss
+113,Armani Linton,"Walnut, Miss.",Walnut,football,ole_miss
+114,Zikerrion Baker,"Mooringsport, La.",Minden,football,ole_miss
+115,Jaylon Jones,"Allen, Texas",Allen,football,ole_miss
+116,Josh Clarke,"Jefferson, La.",Riverdale,football,ole_miss
+117,Jerry Johnson,"Starkville, Miss.",Starkville,football,ole_miss
+118,Jonathan Hess,"Vestavia Hills, Ala.",Vestavia Hills,football,ole_miss
+119,Harrison  Homberg,"Jackson, Tenn.",University School of Jackson,football,ole_miss
+120,Donta Evans,"Lawrenceville, Ga.",Archer,football,ole_miss
+121,Zedrick Woods,"Lake City, Fla.",Columbia,football,ole_miss
+122,Art Mitchell,"Yazoo City, Miss.",Yazoo City,football,ole_miss
+123,C.J. Moore,"Bassfield, Miss.",Bassfield,football,ole_miss
+124,Kweisi Fountain,"Biloxi, Miss.",Biloxi,football,ole_miss
+125,Josiah Coatney,"Douglasville, Ga.",Chapel Hill,football,ole_miss
+126,Brenden Williams,"Birmingham, Ala.",Restoration Academy,football,ole_miss
+127,Truett Bourne,"Madison, Miss.",Madison Central,football,ole_miss
+128,Detric Bing-Dukes,"Tucker, Ga.",Tucker,football,ole_miss
+129,James Coley,"Natchez, Miss.",Cathedral,football,ole_miss
+130,Amani Johnson,"Abbeville, Miss.",Lafayette,football,ole_miss
+131,Mohamed Sanogo,"Plano, Texas",Plano West,football,ole_miss
+132,Ty Rocconi,"Mobile, Ala.",UMS-Wright Prep,football,ole_miss
+133,Andrew Griffith,"Bentonville, Ark.",Bentonville,football,ole_miss
+134,Sean Rawlings,"Madison, Miss.",Madison Ridgeland Academy,football,ole_miss
+135,Michael Howard,"Green Cove Springs, Fla.",Clay,football,ole_miss
+136,KC Swaim,"Truth or Consequences, N.M.",Hot Springs,football,ole_miss
+137,Sam Johnson,"Nashville, Tenn.",Christ Presbyterian Academy,football,ole_miss
+138,Ben Brown,"Vicksburg, Miss.",St. Aloysius,football,ole_miss
+139,KD Hill,"Eufaula, Ala.",Eufaula,football,ole_miss
+140,Jalen Cunningham,"Odenville, Ala.",St. Clair County,football,ole_miss
+141,Mike Taylor,"Jackson, Tenn.",University School of Jackson,football,ole_miss
+142,Samuel Plash,"Mobile, Ala.",UMS-Wright Prep,football,ole_miss
+143,Eli Johnson,"Taylor, Miss.",Lafayette,football,ole_miss
+144,Peyton Cox,"Metairie, La.",Jesuit,football,ole_miss
+145,Alex Givens,"Nashville, Tenn.",Nashville Christian School,football,ole_miss
+146,Chandler Tuitt,"Fayetteville, Ga.",Sandy Creek,football,ole_miss
+147,Jordan Sims,"Homewood, Ala.",Homewood,football,ole_miss
+148,Bryce Mathews,"Brentwood, Tenn.",Brentwood Academy,football,ole_miss
+149,Royce Newman,"Nashville, Ill.",Nashville,football,ole_miss
+150,John Raines,"Jackson, Miss.",Jackson Academy,football,ole_miss
+151,Greg Little,"Allen, Texas",Allen,football,ole_miss
+152,Nic Cantu,"Memphis, Tenn.",Christian Brothers,football,ole_miss
+153,Hamilton Hall,"Atlanta, Ga.",Chamblee Charter,football,ole_miss
+154,Tony Gray,"Loganville, Ga.",Grayson,football,ole_miss
+155,Javon Patterson,"Petal, Miss.",Petal,football,ole_miss
+156,Josh Ricketts,"Madison, Miss.",Madison Central,football,ole_miss
+157,Ryan Drew,"Crystal Springs, Miss.",Copiah Academy,football,ole_miss
+158,Jared Farlow,"Grantville, Ga.",Central Christian,football,ole_miss
+159,Nikolas Dean,"Horn Lake, Miss.",Horn Lake,football,ole_miss
+160,Nick Haynes,"Washington, Pa.",McGuffey,football,ole_miss
+161,Alex Weber,"Lake City, Fla.",Columbia,football,ole_miss
+162,Drake Beck,"Columbus, Ga.",Brookstone,football,ole_miss
+163,Sam Murphey,"Paris, Tenn.",Henry County,football,ole_miss
+164,Jack Propst,"Brentwood, Tenn.",Brentwood Academy,football,ole_miss
+165,Ty Reyes,"Marietta, Ga.",Sprayberry,football,ole_miss
+166,Ryder Anderson,"Katy, Texas",Katy,football,ole_miss
+167,Jacob Carter,"Pontotoc, Miss.",Pontotoc,football,ole_miss
+168,Ross Donelly,"Houston, Texas",Cy-Fair,football,ole_miss
+169,Hal Northern,"Tunica, Miss.",Rosa Fort,football,ole_miss
+170,Luke Logan,"Hattiesburg, Miss.",Presbyterian Christian,football,ole_miss
+171,Sincere David,"Jacksonville, Fla.",Sandalwood,football,ole_miss
+172,Quentin Bivens,"Waynesboro, Miss.",Wayne County,football,ole_miss
+173,Benito Jones,"Waynesboro, Miss.",Wayne County,football,ole_miss
+174,Isaac Way,"Franklin, Tenn.",Brentwood Academy,football,ole_miss
+175,Mac Brown,"Eden Prairie, Minn.",Saint Thomas Academy,football,ole_miss
+176,Jordan Hebert,"Klein, Texas",Klein,football,ole_miss
+177,Spencer Cole,"Flowood, Miss.",Northwest Rankin,football,ole_miss
+178,Qaadir Sheppard,"Bronx, N.Y.",Iona Prep,football,ole_miss
+179,Lawson Stockett,"Madison, Miss.",Madison Central,football,ole_miss
+180,Patrick Nasiatka,"Louisville, Colo.",Monarch,football,ole_miss
+181,Charles Wiley,"Stockbridge, Ga.",Stockbridge,football,ole_miss
+182,Marnie Merritt,"Huntersville, N.C.",Hough,womens soccer,ole_miss
+183,Claire Williams,"Oak Park, Calif.",Oaks Christian School,womens soccer,ole_miss
+184,Alley Houghton,"Oxford, Miss.",Lafayette,womens soccer,ole_miss
+185,CeCe Kizer,"Overland Park, Kan.",Blue Valley Northwest,womens soccer,ole_miss
+186,Grace Johnson,"Centerville, Utah",Viewmont,womens soccer,ole_miss
+187,Maddy Houghton,"Oxford, Miss.",Lafayette,womens soccer,ole_miss
+188,Marisa Kutchma,"Saint Charles, Mo.",Incarnate Word Academy,womens soccer,ole_miss
+189,Julia Phillips,"Ashburn, Va.",Stone Bridge,womens soccer,ole_miss
+190,Lonnie Mulligan,"Hattiesburg, Miss.",Oak Grove,womens soccer,ole_miss
+191,Channing Foster,"Murray, Ky.",Graves County,womens soccer,ole_miss
+192,Madison Smith,"Franklin, Tenn.",Franklin,womens soccer,ole_miss
+193,Mary Kate Smith,"Ellisville, Miss.",South Jones,womens soccer,ole_miss
+194,Gabby Little,"Collierville, Tenn.",Houston,womens soccer,ole_miss
+195,Sydney Michalak,"Winter Springs, Fla.",Winter Springs,womens soccer,ole_miss
+196,Sophie Dineen,"Omaha, Neb.",Marian,womens soccer,ole_miss
+197,Haleigh Stackpole,"Ft. Bragg, N.C.",Overhills,womens soccer,ole_miss
+198,Ella Frischknecht,"Centerville, Utah",Viewmont,womens soccer,ole_miss
+199,Chanel Thomas,"Scottsdale, Ariz.",Desert Mountain,womens soccer,ole_miss
+200,Ashley Orkus,"Vestavia Hills, Ala.",Vestavia Hills,womens soccer,ole_miss
+201,Madisyn Pezzino,"Grand Island, N.Y.",Grand Island,womens soccer,ole_miss
+202,Tara Sullivan,"New Berlin, Ill.",New Berlin,womens soccer,ole_miss
+203,Morgan McAslan,"Waterdown, Ont.",Waterdown District,womens soccer,ole_miss
+204,Molly Martin,"Memphis, Tenn.",Evangelical Christian School,womens soccer,ole_miss
+205,Farah Abdulkarim,"Ottawa, Canada",Glebe,mens cross country,ole_miss
+206,Cade Bethmann,"Arlington, Texas",Arlington Martin,mens cross country,ole_miss
+207,Michael Coccia,"Guelph, Ontario, Canada",Guelph,mens cross country,ole_miss
+208,Baylor Franklin,"Lebanon, Tenn.",West Central,mens cross country,ole_miss
+209,Mario Garcia Romo,"Salamanca, Spain",IES de Peñaranda de Bracamonte,mens cross country,ole_miss
+210,Brandon Harvey,"Murfreesboro, Tenn.",Riverdale,mens cross country,ole_miss
+211,Dalton Hengst,"York, Pa.",Commonwealth Charter Academy,mens cross country,ole_miss
+212,Tyler Moore,"Little Falls, Minn.",Little Falls Community,mens cross country,ole_miss
+213,Nick Moulai,"Christchurch, New Zealand",St. Bede's College,mens cross country,ole_miss
+214,Griffin Riley,"Mountain Brook, Ala.",Mountain Brook,mens cross country,ole_miss
+215,John Rivera Jr.,"Bradenton, Fla.",B.T. Washington,mens cross country,ole_miss
+216,Mark Robertson,"Pensacola, Fla.",B.T. Washington,mens cross country,ole_miss
+217,Ben Savino,"Cary, N.C.",Ape,mens cross country,ole_miss
+218,Parker Scott,"Corpus Christi, Texas",King,mens cross country,ole_miss
+219,Everett Smulders,"Atlanta, Ga.",The Lovett School,mens cross country,ole_miss
+220,Robinson Snider,"Wrightsville Beach, N.C.",John T. Hoggard,mens cross country,ole_miss
+221,Waleed Suliman,"Richmond, Va.",Freeman,mens cross country,ole_miss
+222,Shamar Tucker,"Pearl, Miss.",Pearl,mens cross country,ole_miss
+223,Anna Braswell,"Mobile, Ala.",St. Paul's Episcopal,womens cross country,ole_miss
+224,Chelsea Drum,"Jackson, Mo.",Jackson,womens cross country,ole_miss
+225,Anna Elkin,"Carrollton, Texas",Hebron,womens cross country,ole_miss
+226,Julia England,"Cary, N.C.",Green Hope,womens cross country,ole_miss
+227,Courtney Hopkins,"Queanbeyan, Australia",Karabar,womens cross country,ole_miss
+228,Lexi King,"Waxhaw, N.C.",Marvin Ridge,womens cross country,ole_miss
+229,Maddie King,"Virginia Beach, Va.",Ocean Lakes,womens cross country,ole_miss
+230,Emma McClellan,"Murfreesboro, Tenn.",Riverdale,womens cross country,ole_miss
+231,Maddie McHugh,"Cornelius, N.C.",Hough,womens cross country,ole_miss
+232,Clio Ozanne-Jaques,"Cairns Post, Australia",Trinity Anglican,womens cross country,ole_miss
+233,Nicole Rice,"Temecula, Calif",Great Oak,womens cross country,ole_miss
+234,Morgan Claire Rose,"Grenada, Miss.",Kirk Academy,womens cross country,ole_miss
+235,Victoria Simmons,"Murfreesboro, Tenn.",Siegel,womens cross country,ole_miss
+236,Cate Tracht,"Grapevine, Texas",Southlake Carroll,womens cross country,ole_miss
+237,Ylvi Traxler,"Maria Enzersdorf, Austria",BG Bachgasse,womens cross country,ole_miss
+238,Lisa Vogelgesang,"Hildesheim, Germany",Goethegymnasium Hildesheim,womens cross country,ole_miss
+239,Brody Blackmon,"Sulphur Springs, Texas",Sulphur Springs,mens golf,ole_miss
+240,Beau Briggs,"Covington, La.",St. Paul's,mens golf,ole_miss
+241,Chip Getz,"Paradise Valley, Ariz.",Brophy College Preparatory,mens golf,ole_miss
+242,Jack Gnam,"Ridgeland, Miss.",Jackson Academy,mens golf,ole_miss
+243,Thomas Hogan,"St. Simon's Island, Ga.",Frederica Academy,mens golf,ole_miss
+244,Charlie Miller,"Jackson, Miss.",Jackson Preparatory,mens golf,ole_miss
+245,Josh Seiple,"Castle Rock, Colo.",Valor Christian,mens golf,ole_miss
+246,Jackson Suber,"Tampa, Fla.",H.B. Plant,mens golf,ole_miss
+247,Braden Thornberry,"Olive Branch, Miss.",DeSoto Central,mens golf,ole_miss
+248,Sarut  Vongchaisit,"Bangkok, Thailand",Frederica Academy,mens golf,ole_miss
+249,Cecil Wegener,"Ridgeland, Miss.",Jackson Preparatory,mens golf,ole_miss
+250,Conner Beth Ball,"Starkville, Miss.",Jackson Academy,womens golf,ole_miss
+251,Martina Flori,"Montecatini Terme, Italy",Liceo Don Bosco,womens golf,ole_miss
+252,Pi-Lillebi Hermansson,"Djursholm, Sweden",Celsiusskolan,womens golf,ole_miss
+253,Macy Holliday,"Dallas, Texas",Trinity Christian Academy,womens golf,ole_miss
+254,Ellen Hutchinson-Kay,"Taby, Sweden",Celsiusskolan,womens golf,ole_miss
+255,Julia Johnson,"St. Gabriel, La.","Math, Science and Arts Academy",womens golf,ole_miss
+256,Diane Lim,"Suwanee, Ga.",Duluth,womens golf,ole_miss
+257,Kie Purdom,"Lexington, Ky.",Henry Clay,womens golf,ole_miss
+258,Macy Somoskey,"Sanford, Fla.",Lake Mary,womens golf,ole_miss
+259,Fabian Fallert,"Lichtenstein, Germany",Johann-Friedrich-von-Cotta Schule,mens tennis,ole_miss
+260,Jan Soren  Hain,"Wetzlar, Germany",Goethe Schule,mens tennis,ole_miss
+261,Simon Junk,"Marpingen, Germany",Gemeinschaftsschule Marpingen,mens tennis,ole_miss
+262,Filip Kraljevic,"Rijeka, Croatia",Hotelijesko Turisticka Skola,mens tennis,ole_miss
+263,Karlo Kranic,"Osijek, Croatia",Gaudeamus,mens tennis,ole_miss
+264,Finn Reynolds,"Hastings, New Zealand",Napier Boys,mens tennis,ole_miss
+265,Sebastian  Rios,"Baldwyn, Miss.",Tupelo,mens tennis,ole_miss
+266,Tim Sandkaulen,"Monchengladbach, Germany",Kurpfalz Gymnasium,mens tennis,ole_miss
+267,Cotter Wilson,"Shreveport, La.",Ogburn High School,mens tennis,ole_miss
+268,Alexa Bortles,"Alpharetta, Ga.",Georgia Connections Academy,womens tennis,ole_miss
+269,Isolde  de Jong,"Rotterdam, Netherlands",Thorbecke VO,womens tennis,ole_miss
+270,Tereza Janatova,"Nova Paka, Czech Republic",Secondary Pedagogical School,womens tennis,ole_miss
+271,Tea Jandric,"Zagreb, Croatia",Sports Gymnasium,womens tennis,ole_miss
+272,Grace Anne Jones,"Oxford, Miss.",Oxford,womens tennis,ole_miss
+273,Cameron Kriscunas,"Hilton Head Island, S.C.",Connections Academy,womens tennis,ole_miss
+274,Sabina Machalova,"Zlin, Czech Republic",Gymnazium T.G.M.,womens tennis,ole_miss
+275,Allie Sanford,"Phoenix, Ariz.",Laurel Springs,womens tennis,ole_miss
+276,Anna Vrbenska,"Podebrady, Czech Republic",Gymnazium Jiriho,womens tennis,ole_miss
+277,Farah Abdulkarim,"Ottawa, Canada",Glebe,mens track,ole_miss
+278,Joseph Benedetto,"Middletown, N.Y.",John S. Burke Catholic,mens track,ole_miss
+279,Cade Bethmann,"Arlington, Texas",Arlington Martin,mens track,ole_miss
+280,Kenney Broadnax,"Schertz, Texas",Bryan P. Steele,mens track,ole_miss
+281,James Burnett,"Oxford, Miss.",Oxford,mens track,ole_miss
+282,Michael Coccia,"Guelph, Ontario, Canada",Guelph,mens track,ole_miss
+283,Cole Colozzo,"Stuart, Fla.",South Fork,mens track,ole_miss
+284,Elijah Dryer,"Nolensville, Tenn.",Ravenwood,mens track,ole_miss
+285,Demond Fleming,"Natchez, Miss.",Trinity Episcopal Day,mens track,ole_miss
+286,Manny Foster,"Sanford, Fla.",Seminole,mens track,ole_miss
+287,Baylor Franklin,"Lebanon, Tenn.",West Central,mens track,ole_miss
+288,Fraquan Gaines,"Champaign, Ill.",Champaign Central,mens track,ole_miss
+289,Mario Garcia Romo,"Salamanca, Spain",N/A,mens track,ole_miss
+290,Austin Garrett,"Harrisville, W. Va.",Ritchie County,mens track,ole_miss
+291,Allen Gordon,"Omaha, Neb.",Omaha North,mens track,ole_miss
+292,Derek Gutierrez,"Keller, Texas",Keller,mens track,ole_miss
+293,Brandon Harvey,"Murfreesboro, Tenn.",Riverdale,mens track,ole_miss
+294,Dalton Hengst,"York, Pa.",N/A,mens track,ole_miss
+295,Chris Long,"Oxford, MS",Lafayette,mens track,ole_miss
+296,Tyler Moore,"Little Falls, Minn.",Little Falls Community,mens track,ole_miss
+297,Nick Moulai,"Christchurch, New Zealand",St. Bede's College,mens track,ole_miss
+298,Nicholas Porter,"Sardis, Miss.",South Panola,mens track,ole_miss
+299,Andrew Raspo,"Modesto, Calif.",Thomas Downey,mens track,ole_miss
+300,Griffin Riley,"Mountain Brook, Ala.",Mountain Brook,mens track,ole_miss
+301,John Rivera Jr.,"Bradenton, Fla.",B.T. Washington,mens track,ole_miss
+302,Mark Robertson,"Pensacola, Fla.",B.T. Washington,mens track,ole_miss
+303,Ben Savino,"Cary, N.C.",Ape,mens track,ole_miss
+304,Parker Scott,"Corpus Christi, Texas",King,mens track,ole_miss
+305,Everett Smulders,"Atlanta, Ga.",The Lovett School,mens track,ole_miss
+306,Robinson Snider,"Wrightsville Beach, N.C.",John T. Hoggard,mens track,ole_miss
+307,Waleed Suliman,"Richmond, Va.",Freeman,mens track,ole_miss
+308,Shamar Tucker,"Pearl, Miss.",Pearl,mens track,ole_miss
+309,Peyton Weissmann,"Grapevine, Texas",Grapevine,mens track,ole_miss
+310,Alvin Westbrook,"Olive Branch, Miss.",Center Hill,mens track,ole_miss
+311,Christian Yancey,"McDonough, Ga",Winthrop,mens track,ole_miss
+312,Anna Braswell,"Mobile, Ala.",St. Paul's Episcopal,womens track,ole_miss
+313,Tedreauna Britt,"St. George, S.C.",Woodland,womens track,ole_miss
+314,Kieshonna Brooks,"Basseterre, St. Kitts & Nevis",Washington Archibald,womens track,ole_miss
+315,Sandra Brown,"Indianapolis, Ind.",Pike,womens track,ole_miss
+316,Shelby Brown,"Phoenix, Ariz.",Xavier College Prep,womens track,ole_miss
+317,T'Aja Cameron,"McDonough, Ga.",Eagle's Landing Christian,womens track,ole_miss
+318,Kendall Chavarria,"Punta Gorda, Fla.",Charlotte,womens track,ole_miss
+319,Chelsea Drum,"Jackson, Mo.",Jackson,womens track,ole_miss
+320,Jayda Eckford,"Clinton, Miss.",Clinton,womens track,ole_miss
+321,Anna Elkin,"Carrollton, Texas",Hebron,womens track,ole_miss
+322,Julia England,"Cary, N.C.",Green Hope,womens track,ole_miss
+323,Alex Enright,"Wheaton, Ill.",Wheaton Warrenville South,womens track,ole_miss
+324,Ralesheia Gee,"Starkville, Miss.",Starkville,womens track,ole_miss
+325,Haley Hood,"Benton, Ark.",Bryant,womens track,ole_miss
+326,Courtney Hopkins,N/A,N/A,womens track,ole_miss
+327,Nicole Kallenberger,"Lee's Summit, Mo.",Lee's Summit West,womens track,ole_miss
+328,Maddie King,"Virginia Beach, Va.",Ocean Lakes,womens track,ole_miss
+329,Lexi King,"Waxhaw, N.C.",Marvin Ridge,womens track,ole_miss
+330,Leah Klein,"Shoreview, Minn",Moundsville,womens track,ole_miss
+331,Annika Larsson,"Uppsala, Sweden",Celsiusskolan,womens track,ole_miss
+332,Hannah LoChiatto,"Harvard, Mass.",Bromfield,womens track,ole_miss
+333,Emma McClellan,"Murfreesboro, Tenn.",Riverdale,womens track,ole_miss
+334,Maddie McHugh,"Cornelius, N.C.",Hough,womens track,ole_miss
+335,Lindsey Murray,"Harrisburg, Ill.",Harrisburg,womens track,ole_miss
+336,Clio Ozanne-Jaques,"Cairns Post, Australia",Trinity Anglican,womens track,ole_miss
+337,Jeanette Paul,"Harbor City, Calif.",Carson,womens track,ole_miss
+338,Brandee Presley,"Bixby, Okla.",Bixby,womens track,ole_miss
+339,Nicole Rice,"Temecula, Calif",Great Oak,womens track,ole_miss
+340,Morgan Claire Rose,"Grenada, Miss.",Kirk Academy,womens track,ole_miss
+341,Kelly Rowe,"Mansfield, Texas",Mansfield Lake Ridge,womens track,ole_miss
+342,Orianna Shaw,"Oxford, Miss.",Lafayette,womens track,ole_miss
+343,Kaira Simmons,"Rockledge, Fla.",Rockledge,womens track,ole_miss
+344,Victoria Simmons,"Murfreesboro, Tenn.",Siegel,womens track,ole_miss
+345,Shey Taiwo,"South Holland, Ill.",Thornwood,womens track,ole_miss
+346,Catherine Tracht,"Grapevine, Texas",Southlake Carroll,womens track,ole_miss
+347,Ylva Traxler,"Maria Enzersdorf, Austria",BG Bachgasse,womens track,ole_miss
+348,Lisa Vogelgesang,"Hildesheim, Germany",Goethegymnasium Hildesheim,womens track,ole_miss
+349,Ghania Warren,"Opelika, Ala.",Opelika,womens track,ole_miss
+350,Lilli Williamson,"Fort Worth, Texas",Trinity Valley,womens track,ole_miss
+351,Kaylee Horton,"Jasper, Ala.",Curry,softball,ole_miss
+352,Ava Tillmann,"Cedartown, Ga.",Cedartown,softball,ole_miss
+353,Mikayla Allee,"Corona, Calif.",Norco,softball,ole_miss
+354,Molly Jacobsen,"Adel, Iowa",Adel-DeSoto-Minburn,softball,ole_miss
+355,Alex Pussich,"Nevada City, Calif.",Nevada Union,softball,ole_miss
+356,Katelin Cooper,"Choudrant, La.",Cedar Creek,softball,ole_miss
+357,Tate Whitley,"Angleton, Texas",Angleton,softball,ole_miss
+358,Kenzie Young,"Derby, Kansas",Derby,softball,ole_miss
+359,Taylor Watford,"Lamar, S.C.",Hartsville,softball,ole_miss
+360,Kylan Becker,"Miami, Fla.",Coral Reef,softball,ole_miss
+361,Sydney Gutierrez,"Pearland, Texas",Pearland,softball,ole_miss
+362,Kacey Hvitved,"Snohomish, Wash.",Monroe,softball,ole_miss
+363,Brittany Finney,"Wichita, Kan.",Bishop Carroll,softball,ole_miss
+364,Izzy Werdann,"Pensacola, Fla.",Harrison Central,softball,ole_miss
+365,Jessica Puk,"Cedar Rapids, Iowa",Agoura Hills,softball,ole_miss
+366,Amanda Roth,"Carrollton, Texas",Hebron,softball,ole_miss
+367,Anna Borgen,"Heath, Texas",Dallas Christian,softball,ole_miss
+368,Ally Mena,"Miami, Fla.",Westminster Christian School,softball,ole_miss
+369,Autumn Gillespie,"Redlands, Calif.",Redlands East Valley,softball,ole_miss
+370,Abbey Latham,"Livingston, Ala.",Demopolis,softball,ole_miss
+371,Kelsha Loftin,"Mendenhall, Miss.",Jones County JC,softball,ole_miss
+372,Savannah Diederich,"Hacienda Heights, Calif.",Los Altos,softball,ole_miss
+373,Gabby Alvarez,"Riverside, Calif.","Martin Luther King, Jr.",softball,ole_miss
+374,Hailey Raio,"Goodyear, Ariz.",Verrado,softball,ole_miss
+375,Lauren Bars,"Nashville, Tenn.",Harpeth Hall,womens volleyball,ole_miss
+376,Leah Mulkey,"Austin, Texas",Lake Travis,womens volleyball,ole_miss
+377,Jordan Fate,"Fairview, Texas",LoveJoy,womens volleyball,ole_miss
+378,Delaney Gallagher,"Nashville, Tenn.",Middle Tennessee,womens volleyball,ole_miss
+379,Nicole Purcell,"Leawood, Kan.",Bishop Miege,womens volleyball,ole_miss
+380,Bayleigh Scott,"Rockwall, Texas",Rockwall,womens volleyball,ole_miss
+381,Barrett Guttell,"Austin, Texas",St. Andrews Episcopal,womens volleyball,ole_miss
+382,Emily Engelken,"Overland Park, Kan.",Blue Valley West,womens volleyball,ole_miss
+383,Caitlin Wernentin,"Bettendorf, Iowa",Bettendorf,womens volleyball,ole_miss
+384,Audrey Fischer,"Chesterfield, Mo.",Nerinx High School,womens volleyball,ole_miss
+385,Hannah Puddy,"Dallas, Texas",Bishop Lynch,womens volleyball,ole_miss
+386,Caroline Adams,"Lafayette, La.",St. Thomas More Catholic,womens volleyball,ole_miss
+387,Emily Stroup,"Fargo, N.D.",Fargo South,womens volleyball,ole_miss
+388,Avery Bugg,"Morrisville, N.C.",Cardinal Gibbons,womens volleyball,ole_miss
+389,Aubrey Sultemeier,"Fredericksburg, Texas",Fredericksburg,womens volleyball,ole_miss
+390,Nayo Warnell,"Dickinson, Texas",Dickinson,womens volleyball,ole_miss
+391,Lauren Thompson,"Springdale, Ark.",Springdale Har-Ber,womens volleyball,ole_miss
+392,Abby Buesseler,"Stacy, Minn.",Forest Lake,womens rifle,ole_miss
+393,Hayley Carroll,"Fairfax, Va.",Robinson Secondary,womens rifle,ole_miss
+394,Emily Cock,"Silverton, Ore.",Silverton,womens rifle,ole_miss
+395,Sophia Cuozzo,"Orange, Conn.",Amity Regional,womens rifle,ole_miss
+396,Harley Gardner,"Bellville, Texas",Bellville,womens rifle,ole_miss
+397,Alana Kelly,"Acworth, Ga.",Allatoona,womens rifle,ole_miss
+398,Kamilla Kisch,"Maple Grove, Minn.",Osseo Senior,womens rifle,ole_miss
+399,Randi Loudin,"Post Falls, Idaho",Post Falls,womens rifle,ole_miss
+400,Megan Taylor,"Coleman, Texas",Coleman,womens rifle,ole_miss
+401,Erin Walsh,"Newark, Del.",Delaware Military Academy,womens rifle,ole_miss
+402,Jillian Zakrzeski,"Constantia, N.Y.",Paul V. Moore,womens rifle,ole_miss

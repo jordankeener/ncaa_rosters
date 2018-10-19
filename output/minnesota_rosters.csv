@@ -1,6 +1,6 @@
 ,name,hometown,high school?,sport,college
 0,Payton Willis,"Fayetteville, Ark.",Fayetteville,mens basketball,minnesota
-1,Dupree McBrayer,"Queens, N.Y.",Sunrise Christian                                            Academy,mens basketball,minnesota
+1,Dupree McBrayer,"Queens, N.Y.",Sunrise Christian Academy,mens basketball,minnesota
 2,Marcus Carr,"Toronto, Ontario",Montverde Academy,mens basketball,minnesota
 3,Jordan Murphy,"San Antonio, Texas",Brennan,mens basketball,minnesota
 4,Amir Coffey,"Hopkins, Minn.",Hopkins,mens basketball,minnesota
@@ -10,674 +10,684 @@
 8,Hunt Conroy,"New Orleans, La.",Jesuit,mens basketball,minnesota
 9,Jarvis Omersa,"Orono, Minn.",Orono,mens basketball,minnesota
 10,Gabe Kalscheur,"Edina, Minn.",DeLaSalle,mens basketball,minnesota
-11,Eric Curry,"Memphis, Tenn.",Southwest Christian                                            Academy,mens basketball,minnesota
+11,Eric Curry,"Memphis, Tenn.",Southwest Christian Academy,mens basketball,minnesota
 12,Daniel Oturu,"Woodbury, Minn.",Cretin-Derham Hall,mens basketball,minnesota
 13,Brock Stull,"Rockford, Ill.",Boylan Catholic,mens basketball,minnesota
-14,Michael Hurt,"Rochester, Minn.",John Marshall,mens basketball,minnesota
-15,Destiny Pitts,"Detroit, Mich.",Detroit Country                                            Day,womens basketball,minnesota
-16,Taiye Bello,"Southfield, Mich.",Southfield-Lathrup,womens basketball,minnesota
-17,Kehinde Bello,"Southfield, Mich.",Southfield-Lathrup,womens basketball,minnesota
-18,Jasmine Brunson,"Queens, N.Y.",Mary Louis Academy,womens basketball,minnesota
-19,Kenisha Bell,"Minneapolis, Minn.",Marquette,womens basketball,minnesota
-20,Palma Kaposi,"Pecs, Hungary",N/A,womens basketball,minnesota
-21,Irene Garrido Perez,"Granada, Spain",N/A,womens basketball,minnesota
-22,Gadiva Hubbard,"Virginia Beach, Va.",Princess                                            Anne,womens basketball,minnesota
-23,Annalese Lamke,"Galesville, Wis.",Gale-Ettrick-Trempealeau,womens basketball,minnesota
-24,Ben Mezzenga,"Shoreview, Minn.",Totino-Grace,baseball,minnesota
-25,Alex Boxwell,"Coon Rapids, Minn.",Coon Rapids,baseball,minnesota
-26,Brett Schulze,"Maple Grove, Minn.",Maple Grove,baseball,minnesota
-27,Eli Wilson,"Seattle, Wash.",Garfield,baseball,minnesota
-28,Terrin Vavra,"Menomonie, Wis.",Menomonie,baseball,minnesota
-29,Jordan Kozicky,"Minneapolis, Minn.",Minneapolis                                            Southwest,baseball,minnesota
-30,Micah Coffey,"Batavia, Ill.",Batavia,baseball,minnesota
-31,"Eduardo Estrada, Jr.","Litchfield, Minn.",Litchfield,baseball,minnesota
-32,Cole McDevitt,"Apple Valley, Minn.",Eastview,baseball,minnesota
-33,Luke Pettersen,"Minnetonka, Minn.",Minnetonka,baseball,minnesota
-34,Jacob Hitz,"Prior Lake, Minn.",Prior Lake,baseball,minnesota
-35,Easton Bertrand,"Manteno, Ill.",Manteno,baseball,minnesota
-36,Danny Kapala,"Apple Valley, Minn.",Eastview,baseball,minnesota
-37,Riley Smith,"Broken Arrow, Okla.",Bishop                                            Kelley,baseball,minnesota
-38,Gabe Knowles,"New Ulm, Minn.",Cathedral,baseball,minnesota
-39,Toby Hanson,"Delano, Minn.",Delano,baseball,minnesota
-40,Drew Hmielewski,"Marshall, Minn.",Marshall,baseball,minnesota
-41,Patrick Fredrickson,"Gig Harbor, Wash.",Gig Harbor,baseball,minnesota
-42,Max Meyer,"Woodbury, Minn.",Woodbury,baseball,minnesota
-43,Nolan Burchill,"Sioux Falls, S.D.",Lincoln,baseball,minnesota
-44,Nick Lackney,"Whitefish Bay, Wis.",Whitefish                                            Bay,baseball,minnesota
-45,Sam Bridges,"South St. Paul, Minn.",South St. Paul                                            Secondary,baseball,minnesota
-46,Jack Wassel,"Geneva, Ill.",Geneva,baseball,minnesota
-47,Bubba Horton,"Corcoran, Minn.",Maple Grove,baseball,minnesota
-48,Sam Thoresen,"Minnetonka, Minn.",Minnetonka,baseball,minnesota
-49,Reggie Meyer,"New Brighton, Minn.",Totino-Grace,baseball,minnesota
-50,Joshua Culliver,"Omaha, Neb.",Creighton                                            Preparatory,baseball,minnesota
-51,Jackson Rose,"Omaha, Neb.",Westside,baseball,minnesota
-52,Jake Stevenson,"Waconia, Minn.",Waconia,baseball,minnesota
-53,Fred Manke,"Lodi, Wis.",Lodi,baseball,minnesota
-54,Jeff Fasching,"St. Cloud, Minn.",Cathedral,baseball,minnesota
-55,Ryan Duffy,"South St. Paul, Minn.",South St. Paul,baseball,minnesota
-56,Jacob Herbers,"Battle Creek, Mich.",Lakeview,baseball,minnesota
-57,Rodney Smith,"Jonesboro, Ga.",Mundy's Mill,football,minnesota
-58,Jacob Huff,"Bolingbrook, Ill.",Bolingbrook,football,minnesota
-59,Tanner Morgan,"Union, Ky.",Ryle,football,minnesota
-60,Chris Autman-Bell,"Kankakee, Ill.",Bishop McNamara,football,minnesota
-61,Jerry Gibson,"Theodore, Ala.",Theodore,football,minnesota
-62,Shannon Brooks,"Austell, Ga.",Pickens,football,minnesota
-63,Terell Smith,"Snellville, Ga.",South Gwinnett,football,minnesota
-64,Zack Annexstad,"Norseland, Minn.",IMG Academy,football,minnesota
-65,Trenton Guthrie,"Northville, Mich.",Northville,football,minnesota
-66,Tyler Johnson,"Minneapolis, Minn.",North,football,minnesota
-67,Chris Williamson,"Atlanta, Ga.",Gainesville,football,minnesota
-68,Rey Estes,"East St. Louis, Ill.",East St. Louis,football,minnesota
-69,Nolan Edmonds,"Alpharetta, Ga.",Alpharetta,football,minnesota
-70,Esezi Otomewo,"Indianapolis, Ind.",Ben Davis,football,minnesota
-71,Jornell Manns,"Mansfield, Ohio",Mansfield Senior,football,minnesota
-72,Antoine Winfield Jr.,"The Woodlands, Texas",The Woodlands,football,minnesota
-73,Tai'yon Devers,"Pompano Beach, Fla.",Blanche Ely,football,minnesota
-74,Rashod Bateman,"Tifton, Ga.",Tift County,football,minnesota
-75,Casey O'Brien,"Saint Paul, Minn.",Cretin-Derham Hall,football,minnesota
-76,Braelen Oliver,"Douglasville, Ga.",Douglas County,football,minnesota
-77,CJ Smith,"Jacksonville, Fla.",Fletcher,football,minnesota
-78,Coney Durr,"Baton Rouge, La.",Dutchtown,football,minnesota
-79,Jon Santaga,"Green Bay, Wis.",Notre Dame De La Baie                                            Academy,football,minnesota
-80,Josh Aune,"St. Paul, Minn.",Highland Park,football,minnesota
-81,Seth Green,"Woodbury, Minn.",Allen,football,minnesota
-82,Clay Geary,"Lakeville, Minn.",Lakeville South,football,minnesota
-83,Gary Moore,"Mobile, Ala.",Murphy,football,minnesota
-84,Samuel Pickerign,"Alpharetta, Ga.",Minnehaha                                            Academy,football,minnesota
-85,Julian Huff,"Bolingbrook, Ill.",Bolingbrook,football,minnesota
-86,Kamal Martin,"Burnsville, Minn.",Burnsville,football,minnesota
-87,Bryce Williams,"Sarasota, Fla.",Cardinal Mooney,football,minnesota
-88,Benny Sapp III,"Fort Lauderdale, Fla.",Eden Prairie,football,minnesota
-89,Mohamed Ibrahim,"Olney, Md.",Our Lady of Good Counsel,football,minnesota
-90,Bishop McDonald,"Oakdale, Minn.",North St. Paul,football,minnesota
-91,Phillip Howard,"Minneapolis, Minn.",Robbinsdale Cooper,football,minnesota
-92,Payton Jordahl,"Perham, Minn.",Perham,football,minnesota
-93,Justus Harris,"Roswell, Ga.",Roswell,football,minnesota
-94,True Thompson,"Plymouth, Minn.",Robbinsdale Armstrong,football,minnesota
-95,Paul Gossage,"Mokena, Ill.",Lincoln-Way East,football,minnesota
-96,Calvin Swenson,"Kaukauna, Wis.",Kaukauna,football,minnesota
-97,Jonathan Femi-Cole,"Vaughan, Ontario, Canada",St. Andrew's College,football,minnesota
-98,Thomas Rush,"Marysville, Ohio",Marysville,football,minnesota
-99,Jack Leius,"Plymouth, Minn.",Robbinsdale Armstrong,football,minnesota
-100,Alex Reigelsperger,"Dayton, Ohio",Wayne,football,minnesota
-101,Dominik London,"Woodbury, Minn.",East Ridge,football,minnesota
-102,Kiondre Thomas,"Fort Smith, Ark.",Northside,football,minnesota
-103,Joe Russell,"Shoreview, Minn.",Totino-Grace,football,minnesota
-104,Jordan Howden,"Las Vegas, Nev.",Desert Pines,football,minnesota
-105,Grant Ryerse,"Woodbury, Minn.",East Ridge,football,minnesota
-106,Antonio Shenault,"Roselle, Ill.",Lake Park,football,minnesota
-107,Brock Walker,"Sioux Falls, S.D.",Washington,football,minnesota
-108,Danny Anderson,"Eden Prairie, Minn.",Eden Prairie,football,minnesota
-109,Blake Cashman,"Eden Prairie, Minn.",Eden Prairie,football,minnesota
-110,John Mack,"Hartland, Wis.",Arrowhead,football,minnesota
-111,Emmit Carpenter,"Green Bay, Wis.",Ashwaubenon,football,minnesota
-112,Preston Jelen,"Prior Lake, Minn.",Prior Lake,football,minnesota
-113,Michael Vojvodich,"Annandale, Va",Woodson,football,minnesota
-114,Alex Strazzanti,"Chaska, Minn.",Chaska,football,minnesota
-115,Thomas Barber,"Plymouth, Minn.",Robbinsdale Armstrong,football,minnesota
-116,Ko Kieft,"Sioux Center, Iowa",Sioux Center,football,minnesota
-117,Bailey Schoenfelder,"Huron, S.D.",Huron,football,minnesota
-118,Colton Beebe,"Kansas City, Kan.",Piper,football,minnesota
-119,Carter Coughlin,"Eden Prairie, Minn.",Eden Prairie,football,minnesota
-120,Winston DeLattiboudere,"Baltimore, Md.",Howard,football,minnesota
-121,Alex Melvin,"Burnet, Texas",Burnet,football,minnesota
-122,Jacob Herbers,"Battle Creek, Mich.",Lakeview,football,minnesota
-123,Curtis Dunlap Jr.,"Jacksonville, Fla.",IMG Academy,football,minnesota
-124,Elijah Teague,"South Holland, Ill.",Marist,football,minnesota
-125,Owen Piche,N/A,N/A,football,minnesota
-126,Mariano Sori-Marin,"Mokena, Ill.",Providence Catholic,football,minnesota
-127,Ty Barron,"Minnetonka, Minn.",Minnetonka,football,minnesota
-128,Quinn Oseland,"Springfield, Ill.",Sacred Heart Griffin,football,minnesota
-129,Micah Roane,"Chaska, Minn.",Chaska,football,minnesota
-130,John Michael Schmitz,"Flossmoor, Ill.",Homewood-Flossmoor,football,minnesota
-131,Bronson Dovich,"Chaska, Minn.",Chaska,football,minnesota
-132,Jared Weyler,"Dayton, Ohio",Centerville,football,minnesota
-133,Austin Beier,"Toledo, Ohio",St. John's,football,minnesota
-134,Conner Olson,"Monticello, Minn.",Monticello,football,minnesota
-135,Axel Ruschmeyer,"Hutchinson, Minn.",Holy Family Catholic,football,minnesota
-136,Nathan Boe,"Lakeville, Minn.",Lakeville North,football,minnesota
-137,Jack Kern,"Eau Claire, Wis.",Eau Claire Memorial,football,minnesota
-138,Boye Mafe,"Minnetonka, Minn.",Hopkins,football,minnesota
-139,Sam Schlueter,"Victoria, Minn.",Mayer Lutheran,football,minnesota
-140,Ben Davis,"Elk Grove, Calif.",Elk Grove,football,minnesota
-141,Donnell Greene,"Marietta, Ga.",Kell,football,minnesota
-142,Grant Norton,"Camdenton, Mo.",Camdenton,football,minnesota
-143,Malcolm Robinson,"Massillon, Ohio",Washington,football,minnesota
-144,Kyle Sassack,"Pontiac, Mich.",Notre Dame Prep,football,minnesota
-145,Jack York,"Dallas, Texas",First Baptist Academy,football,minnesota
-146,Blaise Andries,"Marshall, Minn.",Marshall,football,minnesota
-147,Daniel Faalele,"Melbourne, Australia",IMG Academy                                      Academy,football,minnesota
-148,Jason Dickson,"Corona, Calif.",Vallejo,football,minnesota
-149,Jake Paulson,"Louisville, Ky.",Christian                                            Academy,football,minnesota
-150,Brock Annexstad,"Norseland, Minn.",IMG Academy,football,minnesota
-151,Demetrius Douglas,"Portland, Ore.",Jesuit,football,minnesota
-152,Harry Van Dyne,"Stilwell, Kan.",Blue Valley,football,minnesota
-153,Erik Gibson,"Detroit, Mich.",Martin Luther King,football,minnesota
-154,Bryce Witham,"Grand Rapids, Mich.",West Catholic,football,minnesota
-155,Clayton Witherspoon,"Eden Prairie, Minn.",Eden Prairie,football,minnesota
-156,Nate Umlor,"Allendale, Mich.",Allendale,football,minnesota
-157,Yale Van                                            Dyne,"Overland Park, Kan.",Bishop Miege,football,minnesota
-158,Brevyn Spann-Ford,"St. Cloud, Minn.",St. Cloud Technical Senior,football,minnesota
-159,Matt Morse,"Apple Valley, Minn.",Apple Valley,football,minnesota
-160,Sam Renner,"Maple Grove, Minn.",Maple Grove Senior,football,minnesota
-161,Noah Hickcox,"Rockford, Ill.",Boylan Central Catholic,football,minnesota
-162,Mayan Ahanotu,"Tampa, Fla.",Berkeley Prep,football,minnesota
-163,Connor Novak-Goar,"Eden Prairie, Minn.",Eden Prairie,football,minnesota
-164,Abi N-Okonji,"Snellville, Ga.",South Gwinnett,football,minnesota
-165,Victor White,"St. Paul, Minn.",Irondale,football,minnesota
-166,Nathan Bursch,"Woodbury, Minn.",Woodbury,football,minnesota
-167,Royal Silver,"Cedar Rapids, Iowa",Washington,football,minnesota
-168,Max Janes,"Shoreview, Minn.",Mounds View,football,minnesota
-169,O.J. Smith,"Bossier City, La.",Airline,football,minnesota
-170,Ana Aguado,"Plymouth, Minn.",Robbinsdale Armstrong HS,womens soccer,minnesota
-171,Maddie Nielsen,"Shoreline, Wash.",King's HS,womens soccer,minnesota
-172,Makenzie Langdok,"Saint Michael, Minn.",St. Michael-Albertville HS,womens soccer,minnesota
-173,Delaney Stekr,"Omaha, Nebraska",Marian HS                                    School,womens soccer,minnesota
-174,Emily Peterson,"Prior Lake, Minn.",Prior Lake HS,womens soccer,minnesota
-175,TJ McKendrick,"Highland, Utah",Lone Peak HS,womens soccer,minnesota
-176,Molly Fiedler,"Eagan, Minn.",St. Paul Academy,womens soccer,minnesota
-177,Patricia Ward,"Newport News, Virginia",Warwick HS,womens soccer,minnesota
-178,Catherine Billings,"Sandy, Utah",Juan Diego Catholic HS,womens soccer,minnesota
-179,Maddie Castro,"Cottage Grove, Minn.",Park HS,womens soccer,minnesota
-180,Emily Heslin,"Woodbury, Minn.",Hill-Murray HS,womens soccer,minnesota
-181,Arianna Del Moral,"Brooklyn Park, Minn.",Totino Grace HS,womens soccer,minnesota
-182,Nikki Albrecht,"Cedarburg, Wis.",Cedarburg HS,womens soccer,minnesota
-183,Lydia Ruppert,"Minneapolis, Minn.",Minneapolis Washburn HS,womens soccer,minnesota
-184,McKenna Buisman,"Mankato, Minn.",Mankato West HS,womens soccer,minnesota
-185,Megan Gray,"Ankeny, Iowa",Ankeny Centennial,womens soccer,minnesota
-186,Celina Nummerdor,"Juneau, Wis.",Mountain Top Christian Academy,womens soccer,minnesota
-187,Athena Kuehn,"Colorado Springs, Colo.",Pine Creek HS,womens soccer,minnesota
-188,April Bockin,"Eden Prairie, Minn.",Eden Prairie HS,womens soccer,minnesota
-189,Haley Mennes,"McLean, Virginia",McLean HS,womens soccer,minnesota
-190,Alana Dressely,"Cottage Grove, Minn.",Hill-Murray HS,womens soccer,minnesota
-191,Marisa Windingstad,"Omaha, Neb.",Millard North HS,womens soccer,minnesota
-192,Haley Hartkemeyer,"Eau Claire, Wis.",Eau Claire Memorial,womens soccer,minnesota
-193,Hamza Ali,"Minneapolis, Minn.",Washburn,mens cross country,minnesota
-194,Obsa Ali,"Richfield, Minn.",Richfield,mens cross country,minnesota
-195,Alec Basten,"Green Bay, Wis.",Green Bay                                            Southwest,mens cross country,minnesota
-196,Sam Carlson,"Bemidji, Minn.",Bemidji,mens cross country,minnesota
-197,Joey Duerr,"Chaska, Minn.",Chaska,mens cross country,minnesota
-198,Evan Ferlic,"Roseville, Minn.",Mounds Park                                            Academy,mens cross country,minnesota
-199,Owen Hoeft,"Golden Valley, Minn.",Hopkins,mens cross country,minnesota
-200,Charlie Lawrence,"Foley, Minn.",Foley,mens cross country,minnesota
-201,Hunter Lucas,"Fargo, N.D.",Fargo Davies,mens cross country,minnesota
-202,Jordan MacIntosh,"Thunder Bay, Ontario",Hammarskjold,mens cross country,minnesota
-203,Jack Manderscheid,"Edina, Minn.",Edina,mens cross country,minnesota
-204,Joe Morrison,"Poughquag, N.Y.",Arlington,mens cross country,minnesota
-205,Connor Olson,"Maple Grove, Minn.",Wayzata,mens cross country,minnesota
-206,Alex Plasencia,"Shoreview, Minn.",Mounds View,mens cross country,minnesota
-207,Nick Rink,"Appleton, Wis.",Kimberly,mens cross country,minnesota
-208,Patrick Roos,"Edina, Minn.",Edina,mens cross country,minnesota
-209,Hunter Staack,"Hopkins, Minn.",Hopkins,mens cross country,minnesota
-210,Shane Streich,"Janesville, Minn.",Waseca,mens cross country,minnesota
-211,Robert Wagner,"Pewaukee, Wis.",Pewaukee,mens cross country,minnesota
-212,Derek Wiebke,"Kasson, Minn.",Kasson-Mantorville,mens cross country,minnesota
-213,Courtney Alama,"Annandale, Minn.",Annandale HS,womens cross country,minnesota
-214,Sam Baer,"St. Louis Park, Minn.",St. Louis Park HS,womens cross country,minnesota
-215,Amelia Barczi,"Madison, Wis.",Madison West HS,womens cross country,minnesota
-216,Emily Betz,"Woodbury, Minn.",East Ridge HS,womens cross country,minnesota
-217,Emily Castanias,"Chanhassen, Minn.",Chanhassen HS,womens cross country,minnesota
-218,Jenna Conzemius,"Hastings, Minn.",Cretin-Derham Hall,womens cross country,minnesota
-219,Carissa Dock,"Waconia, Minn.",Waconia HS,womens cross country,minnesota
-220,Maria Eastman,"Victoria, Minn.",Holy Family Catholic HS,womens cross country,minnesota
-221,Molly Eastman,"Victoria, Minn.",Holy Family Catholic HS,womens cross country,minnesota
-222,Delaney FitzPatrick,"Minocqua, Wis.",Lakeland Union HS,womens cross country,minnesota
-223,Lindsey Greenlund,"Rochester, Minn.",Rochester Mayo HS,womens cross country,minnesota
-224,Bethany Hasz,"Alexandria, Minn.",Alexandria Area HS,womens cross country,minnesota
-225,Megan Hasz,"Alexandria, Minn.",Alexandria Area HS,womens cross country,minnesota
-226,Olivia Hummel,"Woodbury, Minn.",East Ridge HS,womens cross country,minnesota
-227,Abby Kargol,"Downers Grove, Ill.",Downers Grove South HS,womens cross country,minnesota
-228,Bit Klecker,"Hopkins, Minn.",Hopkins HS,womens cross country,minnesota
-229,Sarah Klecker,"Hopkins, Minn.",Hopkins HS,womens cross country,minnesota
-230,Abby Kohut-Jackson,"Huxley, Iowa",Ballard HS,womens cross country,minnesota
-231,Anastasia Korzenowski,"Chanhassen, Minn.",Chanhassen HS,womens cross country,minnesota
-232,Abby Lange,"Stillwater, Minn.",Stillwater HS,womens cross country,minnesota
-233,Titania Markland,"St. Mary, Jamaica",St. Mary HS,womens cross country,minnesota
-234,Zetta Mason,"Boulder, Colo.",Fairview HS,womens cross country,minnesota
-235,Liz Miller,"Watertown, Minn.",Watertown-Mayer HS,womens cross country,minnesota
-236,Bailey Ness,"Woodbury, Minn.",East Ridge HS,womens cross country,minnesota
-237,Patty O'Brien,"Maplewood, Minn.",North St. Paul HS,womens cross country,minnesota
-238,Paige Peschel,"Westfield, Wis.",Westfield Area HS,womens cross country,minnesota
-239,Elyse Prescott,"Urbandale, Iowa",Urbandale HS,womens cross country,minnesota
-240,Samantha Prouty,"White Bear Lake, Minn.",White Bear Lake HS,womens cross country,minnesota
+14,Matz Stockman,"Oslo, Norway",Canarias                                            Academy,mens basketball,minnesota
+15,Michael Hurt,"Rochester, Minn.",John Marshall,mens basketball,minnesota
+16,Barbora Tomancova,"Brno, Czech Republic",SGLD Brno,womens basketball,minnesota
+17,Destiny Pitts,"Detroit, Mich.",Detroit Country Day HS,womens basketball,minnesota
+18,Taiye Bello,"Southfield, Mich.",Southfield-Lathrup HS,womens basketball,minnesota
+19,Delaynie  Byrne,"Arvada, Colo.",Ralston Valley HS,womens basketball,minnesota
+20,Mercedes Staples,"Centerville, Utah",Viewmont HS,womens basketball,minnesota
+21,Kehinde Bello,"Southfield, Mich.",Southfield-Lathrup HS,womens basketball,minnesota
+22,Jasmine Brunson,"Queens, N.Y.",Mary Louis Academy,womens basketball,minnesota
+23,Kenisha Bell,"Minneapolis, Minn.",Bloomington Kennedy HS,womens basketball,minnesota
+24,Palma Kaposi,"Pecs, Hungary",PTE Babits Mihaly Gyakarlo Gimnazium,womens basketball,minnesota
+25,Irene Garrido Perez,"Granada, Spain",Western Wyoming CC,womens basketball,minnesota
+26,Gadiva Hubbard,"Virginia Beach, Va.",Princess Anne HS,womens basketball,minnesota
+27,Annalese Lamke,"Galesville, Wis.",Gale-Ettrick-Trempealeau HS,womens basketball,minnesota
+28,Ben Mezzenga,"Shoreview, Minn.",Totino-Grace,baseball,minnesota
+29,Zack Raabe,"Forest Lake, Minn.",Forest Lake,baseball,minnesota
+30,Brett Schulze,"Maple Grove, Minn.",Maple Grove,baseball,minnesota
+31,Eli Wilson,"Seattle, Wash.",Garfield,baseball,minnesota
+32,Chase Stanke,"Sugar Grove, Ill.",Marmion Academy,baseball,minnesota
+33,Jordan Kozicky,"Minneapolis, Minn.",Minneapolis Southwest,baseball,minnesota
+34,Andrew Wilhite,"Stillman Valley, Ill.",Stillman Valley,baseball,minnesota
+35,"Eduardo Estrada, Jr.","Litchfield, Minn.",Litchfield,baseball,minnesota
+36,Cole McDevitt,"Apple Valley, Minn.",Eastview,baseball,minnesota
+37,Otto Grimm,"Bemidji, Minn.",Bemidji,baseball,minnesota
+38,Jacob Hitz,"Prior Lake, Minn.",Prior Lake,baseball,minnesota
+39,Easton Bertrand,"Manteno, Ill.",Manteno,baseball,minnesota
+40,Danny Kapala,"Apple Valley, Minn.",Eastview,baseball,minnesota
+41,Riley Smith,"Broken Arrow, Okla.",Bishop Kelley,baseball,minnesota
+42,Gabe Knowles,"New Ulm, Minn.",Cathedral,baseball,minnesota
+43,Riley Swenson,"Chaska, Minn.",Chaska,baseball,minnesota
+44,Drew Hmielewski,"Marshall, Minn.",Marshall,baseball,minnesota
+45,Patrick Fredrickson,"Gig Harbor, Wash.",Gig Harbor,baseball,minnesota
+46,Max Meyer,"Woodbury, Minn.",Woodbury,baseball,minnesota
+47,Nolan Burchill,"Sioux Falls, S.D.",Lincoln,baseball,minnesota
+48,Nick Lackney,"Whitefish Bay, Wis.",Whitefish Bay,baseball,minnesota
+49,Sam Bridges,"South St. Paul, Minn.",South St. Paul Secondary,baseball,minnesota
+50,Jack Wassel,"Geneva, Ill.",Geneva,baseball,minnesota
+51,Bubba Horton,"Corcoran, Minn.",Maple Grove,baseball,minnesota
+52,Sam Thoresen,"Minnetonka, Minn.",Minnetonka,baseball,minnesota
+53,Noah Berghammer,"Janesville, Wis.",Craig,baseball,minnesota
+54,Joshua Culliver,"Omaha, Neb.",Creighton Preparatory,baseball,minnesota
+55,Zack Elliott,"Eden Prairie, Minn.",Eden Prairie,baseball,minnesota
+56,Jake Stevenson,"Waconia, Minn.",Waconia,baseball,minnesota
+57,Gus Radel,"Sioux Falls, S.D.",Roosevelt,baseball,minnesota
+58,J.P. Massey,"Chicago, Ill.",Gwendolyn Brooks College Prep,baseball,minnesota
+59,Jeff Fasching,"St. Cloud, Minn.",Cathedral,baseball,minnesota
+60,Ryan Duffy,"South St. Paul, Minn.",South St. Paul,baseball,minnesota
+61,Jacob Herbers,"Battle Creek, Mich.",Lakeview,baseball,minnesota
+62,Rodney Smith,"Jonesboro, Ga.",Mundy's Mill,football,minnesota
+63,Jacob Huff,"Bolingbrook, Ill.",Bolingbrook,football,minnesota
+64,Tanner Morgan,"Union, Ky.",Ryle,football,minnesota
+65,Chris Autman-Bell,"Kankakee, Ill.",Bishop McNamara,football,minnesota
+66,Jerry Gibson,"Theodore, Ala.",Theodore,football,minnesota
+67,Shannon Brooks,"Austell, Ga.",Pickens,football,minnesota
+68,Terell Smith,"Snellville, Ga.",South Gwinnett,football,minnesota
+69,Zack Annexstad,"Norseland, Minn.",IMG Academy,football,minnesota
+70,Trenton Guthrie,"Northville, Mich.",Northville,football,minnesota
+71,Tyler Johnson,"Minneapolis, Minn.",North,football,minnesota
+72,Chris Williamson,"Atlanta, Ga.",Gainesville,football,minnesota
+73,Rey Estes,"East St. Louis, Ill.",East St. Louis,football,minnesota
+74,Nolan Edmonds,"Alpharetta, Ga.",Alpharetta,football,minnesota
+75,Thomas Rush,"Marysville, Ohio",Marysville,football,minnesota
+76,Esezi Otomewo,"Indianapolis, Ind.",Ben Davis,football,minnesota
+77,Jornell Manns,"Mansfield, Ohio",Mansfield Senior,football,minnesota
+78,Antoine Winfield Jr.,"The Woodlands, Texas",The Woodlands,football,minnesota
+79,Tai'yon Devers,"Pompano Beach, Fla.",Blanche Ely,football,minnesota
+80,Rashod Bateman,"Tifton, Ga.",Tift County,football,minnesota
+81,Casey O'Brien,"Saint Paul, Minn.",Cretin-Derham Hall,football,minnesota
+82,Braelen Oliver,"Douglasville, Ga.",Douglas County,football,minnesota
+83,CJ Smith,"Jacksonville, Fla.",Fletcher,football,minnesota
+84,Coney Durr,"Baton Rouge, La.",Dutchtown,football,minnesota
+85,Jon Santaga,"Green Bay, Wis.",Notre Dame De La Baie Academy,football,minnesota
+86,Seth Green,"Woodbury, Minn.",Allen,football,minnesota
+87,Clay Geary,"Lakeville, Minn.",Lakeville South,football,minnesota
+88,Gary Moore,"Mobile, Ala.",Murphy,football,minnesota
+89,Samuel Pickerign,"Alpharetta, Ga.",Minnehaha Academy,football,minnesota
+90,Julian Huff,"Bolingbrook, Ill.",Bolingbrook,football,minnesota
+91,Kamal Martin,"Burnsville, Minn.",Burnsville,football,minnesota
+92,Bryce Williams,"Sarasota, Fla.",Cardinal Mooney,football,minnesota
+93,Benny Sapp III,"Fort Lauderdale, Fla.",Eden Prairie,football,minnesota
+94,Jordan Howden,"Las Vegas, Nev.",Desert Pines,football,minnesota
+95,Mohamed Ibrahim,"Olney, Md.",Our Lady of Good Counsel,football,minnesota
+96,Bishop McDonald,"Oakdale, Minn.",North St. Paul,football,minnesota
+97,Phillip Howard,"Minneapolis, Minn.",Robbinsdale Cooper,football,minnesota
+98,Payton Jordahl,"Perham, Minn.",Perham,football,minnesota
+99,Justus Harris,"Roswell, Ga.",Roswell,football,minnesota
+100,True Thompson,"Plymouth, Minn.",Robbinsdale Armstrong,football,minnesota
+101,Paul Gossage,"Mokena, Ill.",Lincoln-Way East,football,minnesota
+102,Calvin Swenson,"Kaukauna, Wis.",Kaukauna,football,minnesota
+103,Jonathan Femi-Cole,"Vaughan, Ontario, Canada",St. Andrew's College,football,minnesota
+104,Jack Leius,"Plymouth, Minn.",Robbinsdale Armstrong,football,minnesota
+105,Alex Reigelsperger,"Dayton, Ohio",Wayne,football,minnesota
+106,Dominik London,"Woodbury, Minn.",East Ridge,football,minnesota
+107,Kiondre Thomas,"Fort Smith, Ark.",Northside,football,minnesota
+108,Joe Russell,"Shoreview, Minn.",Totino-Grace,football,minnesota
+109,Grant Ryerse,"Woodbury, Minn.",East Ridge,football,minnesota
+110,Antonio Shenault,"Roselle, Ill.",Lake Park,football,minnesota
+111,Brock Walker,"Sioux Falls, S.D.",Washington,football,minnesota
+112,Danny Anderson,"Eden Prairie, Minn.",Eden Prairie,football,minnesota
+113,Blake Cashman,"Eden Prairie, Minn.",Eden Prairie,football,minnesota
+114,John Mack,"Hartland, Wis.",Arrowhead,football,minnesota
+115,Emmit Carpenter,"Green Bay, Wis.",Ashwaubenon,football,minnesota
+116,Preston Jelen,"Prior Lake, Minn.",Prior Lake,football,minnesota
+117,Michael Vojvodich,"Annandale, Va",Woodson,football,minnesota
+118,Alex Strazzanti,"Chaska, Minn.",Chaska,football,minnesota
+119,Thomas Barber,"Plymouth, Minn.",Robbinsdale Armstrong,football,minnesota
+120,Ko Kieft,"Sioux Center, Iowa",Sioux Center,football,minnesota
+121,Bailey Schoenfelder,"Huron, S.D.",Huron,football,minnesota
+122,Colton Beebe,"Kansas City, Kan.",Piper,football,minnesota
+123,Carter Coughlin,"Eden Prairie, Minn.",Eden Prairie,football,minnesota
+124,Winston DeLattiboudere,"Baltimore, Md.",Howard,football,minnesota
+125,Alex Melvin,"Burnet, Texas",Burnet,football,minnesota
+126,Jacob Herbers,"Battle Creek, Mich.",Lakeview,football,minnesota
+127,Anders Gelecinskyj,"Bloomington, Minn.",Kennedy,football,minnesota
+128,Josh Aune,"St. Paul, Minn.",Highland Park,football,minnesota
+129,Curtis Dunlap Jr.,"Jacksonville, Fla.",IMG Academy,football,minnesota
+130,Jamaal Teague,"South Holland, Ill.",Marist,football,minnesota
+131,Mariano Sori-Marin,"Mokena, Ill.",Providence Catholic,football,minnesota
+132,Ty Barron,"Minnetonka, Minn.",Minnetonka,football,minnesota
+133,Quinn Oseland,"Springfield, Ill.",Sacred Heart Griffin,football,minnesota
+134,Micah Roane,"Chaska, Minn.",Chaska,football,minnesota
+135,John Michael Schmitz,"Flossmoor, Ill.",Homewood-Flossmoor,football,minnesota
+136,Bronson Dovich,"Chaska, Minn.",Chaska,football,minnesota
+137,Jared Weyler,"Dayton, Ohio",Centerville,football,minnesota
+138,Austin Beier,"Toledo, Ohio",St. John's,football,minnesota
+139,Conner Olson,"Monticello, Minn.",Monticello,football,minnesota
+140,Axel Ruschmeyer,"Hutchinson, Minn.",Holy Family Catholic,football,minnesota
+141,Nathan Boe,"Lakeville, Minn.",Lakeville North,football,minnesota
+142,Jack Kern,"Eau Claire, Wis.",Eau Claire Memorial,football,minnesota
+143,Boye Mafe,"Minnetonka, Minn.",Hopkins,football,minnesota
+144,Sam Schlueter,"Victoria, Minn.",Mayer Lutheran,football,minnesota
+145,Ben Davis,"Elk Grove, Calif.",Elk Grove,football,minnesota
+146,Donnell Greene,"Marietta, Ga.",Kell,football,minnesota
+147,Malcolm Robinson,"Massillon, Ohio",Washington,football,minnesota
+148,Kyle Sassack,"Pontiac, Mich.",Notre Dame Prep,football,minnesota
+149,Jack York,"Dallas, Texas",First Baptist Academy,football,minnesota
+150,Blaise Andries,"Marshall, Minn.",Marshall,football,minnesota
+151,Daniel Faalele,"Melbourne, Australia",IMG Academy,football,minnesota
+152,Jason Dickson,"Corona, Calif.",Vallejo,football,minnesota
+153,Jake Paulson,"Louisville, Ky.",Christian Academy,football,minnesota
+154,Brock Annexstad,"Norseland, Minn.",IMG Academy,football,minnesota
+155,Demetrius Douglas,"Portland, Ore.",Jesuit,football,minnesota
+156,Harry Van Dyne,"Stilwell, Kan.",Blue Valley,football,minnesota
+157,Erik Gibson,"Detroit, Mich.",Martin Luther King,football,minnesota
+158,Bryce Witham,"Grand Rapids, Mich.",West Catholic,football,minnesota
+159,Clayton Witherspoon,"Eden Prairie, Minn.",Eden Prairie,football,minnesota
+160,Nate Umlor,"Allendale, Mich.",Allendale,football,minnesota
+161,Yale Van Dyne,"Overland Park, Kan.",Bishop Miege,football,minnesota
+162,Brevyn Spann-Ford,"St. Cloud, Minn.",St. Cloud Technical Senior,football,minnesota
+163,Matt Morse,"Apple Valley, Minn.",Apple Valley,football,minnesota
+164,Sam Renner,"Maple Grove, Minn.",Maple Grove Senior,football,minnesota
+165,Noah Hickcox,"Rockford, Ill.",Boylan Central Catholic,football,minnesota
+166,Mayan Ahanotu,"Tampa, Fla.",Berkeley Prep,football,minnesota
+167,Connor Novak-Goar,"Eden Prairie, Minn.",Eden Prairie,football,minnesota
+168,Abi N-Okonji,"Snellville, Ga.",South Gwinnett,football,minnesota
+169,Victor White,"St. Paul, Minn.",Irondale,football,minnesota
+170,Nathan Bursch,"Woodbury, Minn.",Woodbury,football,minnesota
+171,Royal Silver,"Cedar Rapids, Iowa",Washington,football,minnesota
+172,Max Janes,"Shoreview, Minn.",Mounds View,football,minnesota
+173,O.J. Smith,"Bossier City, La.",Airline,football,minnesota
+174,Ana Aguado,"Plymouth, Minn.",Robbinsdale Armstrong HS,womens soccer,minnesota
+175,Maddie Nielsen,"Shoreline, Wash.",King's HS,womens soccer,minnesota
+176,Makenzie Langdok,"Saint Michael, Minn.",St. Michael-Albertville HS,womens soccer,minnesota
+177,Delaney Stekr,"Omaha, Nebraska",Marian HS School,womens soccer,minnesota
+178,Emily Peterson,"Prior Lake, Minn.",Prior Lake HS,womens soccer,minnesota
+179,TJ McKendrick,"Highland, Utah",Lone Peak HS,womens soccer,minnesota
+180,Molly Fiedler,"Eagan, Minn.",St. Paul Academy,womens soccer,minnesota
+181,Patricia Ward,"Newport News, Virginia",Warwick HS,womens soccer,minnesota
+182,Catherine Billings,"Sandy, Utah",Juan Diego Catholic HS,womens soccer,minnesota
+183,Maddie Castro,"Cottage Grove, Minn.",Park HS,womens soccer,minnesota
+184,Emily Heslin,"Woodbury, Minn.",Hill-Murray HS,womens soccer,minnesota
+185,Arianna Del Moral,"Brooklyn Park, Minn.",Totino Grace HS,womens soccer,minnesota
+186,Nikki Albrecht,"Cedarburg, Wis.",Cedarburg HS,womens soccer,minnesota
+187,Lydia Ruppert,"Minneapolis, Minn.",Minneapolis Washburn HS,womens soccer,minnesota
+188,McKenna Buisman,"Mankato, Minn.",Mankato West HS,womens soccer,minnesota
+189,Megan Gray,"Ankeny, Iowa",Ankeny Centennial,womens soccer,minnesota
+190,Celina Nummerdor,"Juneau, Wis.",Mountain Top Christian Academy,womens soccer,minnesota
+191,Athena Kuehn,"Colorado Springs, Colo.",Pine Creek HS,womens soccer,minnesota
+192,April Bockin,"Eden Prairie, Minn.",Eden Prairie HS,womens soccer,minnesota
+193,Haley Mennes,"McLean, Virginia",McLean HS,womens soccer,minnesota
+194,Alana Dressely,"Cottage Grove, Minn.",Hill-Murray HS,womens soccer,minnesota
+195,Marisa Windingstad,"Omaha, Neb.",Millard North HS,womens soccer,minnesota
+196,Haley Hartkemeyer,"Eau Claire, Wis.",Eau Claire Memorial,womens soccer,minnesota
+197,Hamza Ali,"Minneapolis, Minn.",Washburn,mens cross country,minnesota
+198,Alec Basten,"Green Bay, Wis.",Green Bay                                            Southwest,mens cross country,minnesota
+199,Declan Dahlberg,"North Oaks, Minn.",Mounds Park Academy,mens cross country,minnesota
+200,Joey Duerr,"Chaska, Minn.",Chaska,mens cross country,minnesota
+201,Seth Eliason,"Minnetonka, Minn.",Hopkins,mens cross country,minnesota
+202,Evan Ferlic,"Roseville, Minn.",Mounds Park                                            Academy,mens cross country,minnesota
+203,Owen Hoeft,"Golden Valley, Minn.",Hopkins,mens cross country,minnesota
+204,Khalid Hussein,"Plymouth, Minn.",Wayzata,mens cross country,minnesota
+205,Dawson LaRance,"Billings, Mont.",Billings Senior,mens cross country,minnesota
+206,Hunter Lucas,"Fargo, N.D.",Fargo Davies,mens cross country,minnesota
+207,Jordan MacIntosh,"Thunder Bay, Ontario",Hammarskjold,mens cross country,minnesota
+208,Jack Manderscheid,"Edina, Minn.",Edina,mens cross country,minnesota
+209,Joe Morrison,"Poughquag, N.Y.",Arlington,mens cross country,minnesota
+210,Connor Olson,"Maple Grove, Minn.",Wayzata,mens cross country,minnesota
+211,Alex Plasencia,"Shoreview, Minn.",Mounds View,mens cross country,minnesota
+212,Nick Rink,"Appleton, Wis.",Kimberly,mens cross country,minnesota
+213,Patrick Roos,"Edina, Minn.",Edina,mens cross country,minnesota
+214,Hunter Staack,"Hopkins, Minn.",Hopkins,mens cross country,minnesota
+215,Shane Streich,"Janesville, Minn.",Waseca,mens cross country,minnesota
+216,Robert Wagner,"Pewaukee, Wis.",Pewaukee,mens cross country,minnesota
+217,Sam Baer,"St. Louis Park, Minn.",St. Louis Park HS,womens cross country,minnesota
+218,Kayla Baker,"Cloquet, Minn.",Cloquet Senior HS,womens cross country,minnesota
+219,Maria Berg,"New Prague, Minn.",New Prague HS,womens cross country,minnesota
+220,Jenna Conzemius,"Hastings, Minn.",Cretin-Derham Hall,womens cross country,minnesota
+221,Carissa Dock,"Waconia, Minn.",Waconia HS,womens cross country,minnesota
+222,Maria Eastman,"Victoria, Minn.",Holy Family Catholic HS,womens cross country,minnesota
+223,Molly Eastman,"Victoria, Minn.",Holy Family Catholic HS,womens cross country,minnesota
+224,Lindsey Greenlund,"Rochester, Minn.",Rochester Mayo HS,womens cross country,minnesota
+225,Libby Halbmaier,"Minnetonka, Minn.",Minnetonka HS,womens cross country,minnesota
+226,Bethany Hasz,"Alexandria, Minn.",Alexandria Area HS,womens cross country,minnesota
+227,Megan Hasz,"Alexandria, Minn.",Alexandria Area HS,womens cross country,minnesota
+228,Elena Hayday,"Bloomington, Minn.",Bloomington Jefferson HS,womens cross country,minnesota
+229,Olivia Hummel,"Woodbury, Minn.",East Ridge HS,womens cross country,minnesota
+230,Abby Kargol,"Downers Grove, Ill.",Downers Grove South HS,womens cross country,minnesota
+231,Bit Klecker,"Hopkins, Minn.",Hopkins HS,womens cross country,minnesota
+232,Abby Kohut-Jackson,"Huxley, Iowa",Ballard HS,womens cross country,minnesota
+233,Anastasia Korzenowski,"Chanhassen, Minn.",Chanhassen HS,womens cross country,minnesota
+234,Taylor Krone,"Anoka, Minn.",Anoka HS,womens cross country,minnesota
+235,Abby Lange,"Stillwater, Minn.",Stillwater HS,womens cross country,minnesota
+236,Becca Langer,"Waukesha, Wis.",Waukesha West HS,womens cross country,minnesota
+237,Zetta Mason,"Boulder, Colo.",Fairview HS,womens cross country,minnesota
+238,Patty O'Brien,"Maplewood, Minn.",North St. Paul HS,womens cross country,minnesota
+239,Paige Peschel,"Westfield, Wis.",Westfield Area HS,womens cross country,minnesota
+240,Elyse Prescott,"Urbandale, Iowa",Urbandale HS,womens cross country,minnesota
 241,Haley Rasmussen,"Chaska, Minn.",Chaska HS,womens cross country,minnesota
 242,Molly Roach,"Bloomington, Minn.",Bloomington Jefferson HS,womens cross country,minnesota
 243,Kelsey Sather,"Plymouth, Minn.",Robbinsdale Armstrong HS,womens cross country,minnesota
 244,Kelli Schmidt,"Wilmette, Ill.",New Trier HS,womens cross country,minnesota
 245,Sophie Schmitz,"Willmar, Minn.",Willmar Senior HS,womens cross country,minnesota
 246,Ally Smith,"McFarland, Wis.",McFarland HS,womens cross country,minnesota
-247,Madeline Strandemo,"Fargo, N.D.",Fargo South HS,womens cross country,minnesota
-248,Tate Sweeney,"Edina, Minn.",Edina HS,womens cross country,minnesota
-249,Jaycie Thomsen,"Maple Grove, Minn.",Wayzata HS,womens cross country,minnesota
-250,Sarah Werking,"Elm Grove, Wis.",Brookfield East HS,womens cross country,minnesota
-251,Rachel Wians,"Middleton, Wis.",Middleton HS,womens cross country,minnesota
-252,Rúnar Arnorsson,"Hafnarfjörður, Iceland",Flensborg,mens golf,minnesota
-253,Charlie Duensing,"Sandy, Utah",Brighton,mens golf,minnesota
-254,Campbell Fisher,"Eatonton, Ga.",Lambert,mens golf,minnesota
-255,Angus Flanagan,"Woking, England",N/A,mens golf,minnesota
-256,Ben Frazzini,"Medina, Minn.",Wayzata,mens golf,minnesota
-257,Riley Johnson,"Fargo, N.D.",West Fargo,mens golf,minnesota
-258,Peter Jones,"Owatonna, Minn.",Owatonna,mens golf,minnesota
-259,Evan Long,"New Castle, Pa.",Laurel,mens golf,minnesota
-260,Thomas Longbella,"Chippewa Falls, Wis.",McDonnell                                            Central Catholic,mens golf,minnesota
-261,Gus Minkin,"York, Pa.",Central York,mens golf,minnesota
-262,Reece Sanders,"Deephaven, Minn.",Blake,mens golf,minnesota
-263,Alex Uloth,"Burnsville, Minn.",Burnsville,mens golf,minnesota
-264,Joanne Free,"Gullane, Scotland",Ross,womens golf,minnesota
-265,Maggie Heggerston,"Pequot Lakes, Minn.",Pequot                                            Lakes,womens golf,minnesota
-266,Grace Kellar,"Edina, Minn.",Edina,womens golf,minnesota
-267,Jessica Lee,"Hinsdale, Ill.",Hinsdale Central,womens golf,minnesota
-268,Kate Lillie,"St. Charles, Ill.",St. Charles                                            North,womens golf,minnesota
-269,Christine Portillo,"Eden Prairie, Minn.",Edina,womens golf,minnesota
-270,Muyu Wu,"Hangzhou, China",Huangshan,womens golf,minnesota
+247,Tate Sweeney,"Edina, Minn.",Edina HS,womens cross country,minnesota
+248,Jaycie Thomsen,"Maple Grove, Minn.",Wayzata HS,womens cross country,minnesota
+249,Sarah Werking,"Elm Grove, Wis.",Brookfield East HS,womens cross country,minnesota
+250,Courtney West,"Dodge Center, Minn.",Triton HS,womens cross country,minnesota
+251,Campbell Fisher,"Eatonton, Ga.",Lambert HS,mens golf,minnesota
+252,Angus Flanagan,"Woking, England",Bradfield College,mens golf,minnesota
+253,Ben Frazzini,"Medina, Minn.",Wayzata HS,mens golf,minnesota
+254,Will Grevlos,"Sioux Falls, S.D.",Washington HS,mens golf,minnesota
+255,Lincoln Johnson,"Chaska, Minn.",Chaska HS,mens golf,minnesota
+256,Peter Jones,"Owatonna, Minn.",Owatonna HS,mens golf,minnesota
+257,Evan Long,"New Castle, Pa.",Laurel HS,mens golf,minnesota
+258,Thomas Longbella,"Chippewa Falls, Wis.",McDonnell Central Catholic HS,mens golf,minnesota
+259,Gus Minkin,"York, Pa.",Central York HS,mens golf,minnesota
+260,Harry Plowman-Ollington,"Surrey, England",N/A,mens golf,minnesota
+261,Noah Rasinski,"Credit River, Minn.",Lakeville South HS,mens golf,minnesota
+262,Alayna Eldred,"Osakis, Minn.",Osakis,womens golf,minnesota
+263,Joanne Free,"Gullane, Scotland",Ross,womens golf,minnesota
+264,Maggie Heggerston,"Pequot Lakes, Minn.",Pequot Lakes,womens golf,minnesota
+265,Grace Kellar,"Edina, Minn.",Edina,womens golf,minnesota
+266,Jessica Lee,"Hinsdale, Ill.",Hinsdale Central,womens golf,minnesota
+267,Kate Lillie,"St. Charles, Ill.",St. Charles                                            North,womens golf,minnesota
+268,Christine Portillo,"Eden Prairie, Minn.",Edina,womens golf,minnesota
+269,Muyu Wu,"Hangzhou, China",Huangshan,womens golf,minnesota
+270,Karen Zhang,"Richmond, B.C.",MacNeil Secondary,womens golf,minnesota
 271,Tommy Barr,"Chicago, Ill.",Loyola Academy,mens swimming,minnesota
 272,Bowen Becker,"Las Vegas, Nev.",Faith Lutheran,mens swimming,minnesota
 273,Cale Berkoff,"Missoula, Mont.",Hellgate HS,mens swimming,minnesota
-274,Nic Chromey,"Alexandria, Minn.",Alexandria Area HS,mens swimming,minnesota
-275,Aidan  Dillon,"Evanston, Ill.",Evanston Township HS,mens swimming,minnesota
-276,Tom Donker,"Zutphen, Netherlands",N/A,mens swimming,minnesota
-277,Aidan Dulaney,"Austin, Texas",Liberal Arts & Sciences Academy HS,mens swimming,minnesota
-278,Kristian Hansen,"Hanover, N.H.",Hanover HS,mens swimming,minnesota
-279,Brenner Hohenstein,"Maple Grove, Minn.",Maple Grove                                            HS,mens swimming,minnesota
-280,Erik Hunter,"Mission Viejo, Calif.",Trabuco Hills                                            HS,mens swimming,minnesota
-281,Adam Kapusta,"Valley Stream, NY",Valley Stream North HS,mens swimming,minnesota
-282,Cameron Kelley,"Cedar Rapids, Iowa",Washington                                            HS,mens swimming,minnesota
-283,Alan LeBlang,"Centennial, Colo.",Arapahoe HS,mens swimming,minnesota
-284,Peter Lefebvre,"Minneapolis, Minn.",Minneapolis                                            Southwest HS,mens swimming,minnesota
-285,Duncan Lester,"Boulder, Colo.",Fairview HS,mens swimming,minnesota
-286,Max Lezer,"Rogers, MN",St. Michael-Albertville                                            HS,mens swimming,minnesota
-287,Hayden Linscott,"Mission Hills, Kan.",Shawnee Mission                                            East HS,mens swimming,minnesota
-288,Max McHugh,"Sturgeon Bay, Wisc.",Sevastopol HS,mens swimming,minnesota
-289,Michael Messner,"Sunnyvale, Calif.",Bellarmine Prep                                            HS,mens swimming,minnesota
-290,Jeremy Moser,"Milwaukee, Wis.",Nicolet HS,mens swimming,minnesota
-291,Ryan Phillip,"Edina, Minn.",Edina HS,mens swimming,minnesota
-292,Nick Plachinski,"Cedarburg, Wis.",Cedarburg HS,mens swimming,minnesota
-293,Tuomas Pokkinen,"Espoo, Finland",Makelanrinteen                                            Lukio,mens swimming,minnesota
-294,Jordan Portela,"Lawrence, Kan.",N/A,mens swimming,minnesota
+274,Will Brenton,"Long Lake, Minn.",Orono High School,mens swimming,minnesota
+275,Nic Chromey,"Alexandria, Minn.",Alexandria Area HS,mens swimming,minnesota
+276,Aidan  Dillon,"Evanston, Ill.",Evanston Township HS,mens swimming,minnesota
+277,Tom Donker,"Zutphen, Netherlands",N/A,mens swimming,minnesota
+278,Aidan Dulaney,"Austin, Texas",Liberal Arts & Sciences Academy HS,mens swimming,minnesota
+279,Kristian Hansen,"Hanover, N.H.",Hanover HS,mens swimming,minnesota
+280,Brenner Hohenstein,"Maple Grove, Minn.",Maple Grove HS,mens swimming,minnesota
+281,Erik Hunter,"Mission Viejo, Calif.",Trabuco Hills HS,mens swimming,minnesota
+282,Adam Kapusta,"Valley Stream, NY",Valley Stream North HS,mens swimming,minnesota
+283,Cameron Kelley,"Cedar Rapids, Iowa",Washington HS,mens swimming,minnesota
+284,Alan LeBlang,"Centennial, Colo.",Arapahoe HS,mens swimming,minnesota
+285,Peter Lefebvre,"Minneapolis, Minn.",Minneapolis Southwest HS,mens swimming,minnesota
+286,Duncan Lester,"Boulder, Colo.",Fairview HS,mens swimming,minnesota
+287,Max Lezer,"Rogers, MN",St. Michael-Albertville HS,mens swimming,minnesota
+288,Hayden Linscott,"Mission Hills, Kan.",Shawnee Mission East HS,mens swimming,minnesota
+289,Max McHugh,"Sturgeon Bay, Wisc.",Sevastopol HS,mens swimming,minnesota
+290,Michael Messner,"Sunnyvale, Calif.",Bellarmine Prep HS,mens swimming,minnesota
+291,Jeremy Moser,"Milwaukee, Wis.",Nicolet HS,mens swimming,minnesota
+292,Ryan Phillip,"Edina, Minn.",Edina HS,mens swimming,minnesota
+293,Nick Plachinski,"Cedarburg, Wis.",Cedarburg HS,mens swimming,minnesota
+294,Tuomas Pokkinen,"Espoo, Finland",Makelanrinteen Lukio,mens swimming,minnesota
 295,Maxim Royzen,"Skokie, Ill.",Niles North HS,mens swimming,minnesota
 296,Tim Sates,"Durban, South Africa",N/A,mens swimming,minnesota
-297,Nick Saulnier,"Cedar Rapids, Iowa",Washington                                            HS,mens swimming,minnesota
-298,Matthew Thomas,"Hollister, Calif.",Valley Christian                                            HS,mens swimming,minnesota
+297,Nick Saulnier,"Cedar Rapids, Iowa",Washington HS,mens swimming,minnesota
+298,Matthew Thomas,"Hollister, Calif.",Valley Christian HS,mens swimming,minnesota
 299,James Tidd,"Woodbury, Minn.",East Ridge HS,mens swimming,minnesota
-300,Justin Torres,"Piscataway, N.J.",Saint Joseph                                            HS,mens swimming,minnesota
+300,Justin Torres,"Piscataway, N.J.",Saint Joseph HS,mens swimming,minnesota
 301,Kyle Van Niekerk,"Johannesburg, South Africa",N/A,mens swimming,minnesota
 302,Aiden Werner,"Indianapolis, Ind.",Pike HS,mens swimming,minnesota
 303,Nick Yang,"Chao Hu, China",N/A,mens swimming,minnesota
 304,Evan Yoder,"Lawrence, Kan.",N/A,mens swimming,minnesota
 305,Eitan Yudashkin,"Kiryat Motzkin, Israel",N/A,mens swimming,minnesota
 306,Zoe Avestruz,"Chaska, Minn.",Chanhassen HS,womens swimming,minnesota
-307,Sarah Bacon,"Indianapolis, Ind.",Cardinal Ritter                                            HS,womens swimming,minnesota
-308,Emily  Baude,"Maplewood, Minn.",North HS,womens swimming,minnesota
+307,Sarah Bacon,"Indianapolis, Ind.",Cardinal Ritter HS,womens swimming,minnesota
+308,Emily  Baude,"St. Paul, Minn.",North HS,womens swimming,minnesota
 309,Dani Bergeson,"Bismarck, N.D.",Century HS,womens swimming,minnesota
 310,Olivia  Bloomer,"Madison, Wis.",James Madison Memorial HS,womens swimming,minnesota
-311,Erin Buck,"Maple Grove, Minn.",Maple Grove                                            HS,womens swimming,minnesota
+311,Erin Buck,"Maple Grove, Minn.",Maple Grove HS,womens swimming,minnesota
 312,Tara Chapman,"Lino Lakes, Minn.",Centennial HS,womens swimming,minnesota
 313,Nicki Ciavarella,"Valley Cottage, N.Y.",NYACK HS,womens swimming,minnesota
 314,Emily  Cook,"Portland, Ore.",Jesuit HS,womens swimming,minnesota
-315,Jenelle Crozier,"Littleton, Colo.",Chatfield HS,womens swimming,minnesota
-316,Abbey Erwin,"Boise, Idaho",Boise HS,womens swimming,minnesota
-317,Xiao Fu,"Qingdao, China",N/A,womens swimming,minnesota
-318,Kaia Grobe,"Victoria, Minn.",Chanhassen HS,womens swimming,minnesota
-319,Kristen Hayden,"Hillsborough, N.J.",Panther Creek                                            HS,womens swimming,minnesota
-320,Emma Hepper,"Bismarck, N.D.",St. Mary's Central                                            HS,womens swimming,minnesota
-321,Brittany Horn,"Appleton, Wis.",Appleton North                                            HS,womens swimming,minnesota
-322,Olivia Johnston,"Rosemount, Minn.",Rosemount HS,womens swimming,minnesota
-323,Morgan Justus,"Grand Rapids, Minn.",Grand Rapids                                            HS,womens swimming,minnesota
-324,Mariam Khamis,"Richmond, Ind.",Richmond HS,womens swimming,minnesota
-325,Abbey  Kilgallon,"Bridgewater, N.J.",Bridgewater Raritan HS,womens swimming,minnesota
-326,Lindsey Kozelsky,"Albert Lea, Minn.",Albert Lea HS,womens swimming,minnesota
-327,Lauren Lalumiere,"Oakville, Ontario",Iroquois                                            Ridge,womens swimming,minnesota
-328,Emma Linscott,"Mission Hills, Kansas",Shawnee Mission East HS,womens swimming,minnesota
-329,Kaela Marcus,"Placerville, Calif.",Placerville El                                            Dorado HS,womens swimming,minnesota
-330,Keli  McCarthy,"Edina, Minn.",Edina HS,womens swimming,minnesota
-331,Kasey Milstroh,"St. Cloud, Minn.",Foley HS,womens swimming,minnesota
-332,Rachel Munson,"Shorewood, Wis.",Shorewood HS,womens swimming,minnesota
-333,Chantal Nack,"Mankato, Minn.",Mankato West HS,womens swimming,minnesota
-334,Mackenzie Padington,"Campbell River, B.C.",Claremont                                            Secondary,womens swimming,minnesota
-335,Madison Preiss,"Medina, Minn.",Wayzata HS,womens swimming,minnesota
-336,Katelyn Sauder,"Bloomington, Ill.",N/A,womens swimming,minnesota
-337,Kate Sullivan,"Overland Park, Kan.",Notre Dame De Sion HS,womens swimming,minnesota
-338,Bronwyn  Tuff,"Houston, Texas",Cy-Fair HS,womens swimming,minnesota
-339,Patricia Van Law,"Highlands Ranch, Colo.",Thunder Ridge                                            HS,womens swimming,minnesota
-340,Tevyn Waddell,"Mitchell, S.D.",Mitchell HS,womens swimming,minnesota
-341,Katherine  Wagner,"Chatsworth, Calif.",Bishop Alemany HS,womens swimming,minnesota
-342,Jackson Allen,"Shakopee, Minn.",Shakopee H.S.,mens tennis,minnesota
-343,Marino Alpeza,"Mostar, Bosnia",N/A,mens tennis,minnesota
-344,Kaleb Dobbs,"Sioux Falls, S.D.",Sioux Falls Lincoln                                            H.S.,mens tennis,minnesota
-345,Josip Krstanovic,"Zagreb, Croatia",XV. Gimnazija                                            Zagreb,mens tennis,minnesota
-346,Justyn Levin,"Melbourne, Australia",N/A,mens tennis,minnesota
-347,Vlad Lobak,"Kiev, Ukraine",N/A,mens tennis,minnesota
-348,Stefan Milicevic,"Belgrade, Serbia",Cmjanski H.S.,mens tennis,minnesota
-349,Eli Ogilvy,"Mississauga, Ont.",Silverthorn                                            Collegiate,mens tennis,minnesota
-350,Jesse Sprinkel,"Minneapolis, Minn.",Minneapolis South                                            H.S.,mens tennis,minnesota
-351,Sebastian Vile,"Rochester, Minn.",Rochester Mayo H.S.,mens tennis,minnesota
-352,Annemarie Emme,"Glenview, Ill.",Glenbrook South                                            HS,womens tennis,minnesota
-353,Cammy Frei,"Winnetka, Ill.",New Trier HS,womens tennis,minnesota
-354,Camila Gomez,"Lima, Peru",Santa Ursula School,womens tennis,minnesota
-355,Kalyssa Hall,"Colorado Springs, Col.",Cherry Creek                                            HS,womens tennis,minnesota
-356,River Hart,"Nassau, Bahamas",ES International                                            School,womens tennis,minnesota
-357,Tina Kreinis,"Toronto, Ont.",Northview Heights                                            Secondary School,womens tennis,minnesota
-358,Isabella Lambert,"Minneapolis, Minn.",Minnetonka High                                            School,womens tennis,minnesota
-359,Barbara Mancera,"Mexico City, Mexico",Colegio Visa                                            Hermosa,womens tennis,minnesota
-360,Caitlyn Merzbacher,"Eden Prairie, Minn.",Edina HS,womens tennis,minnesota
-361,Caroline Ryba,"Glenview, Ill.",Glenbrook South                                            HS,womens tennis,minnesota
-362,Mehvish Safdar,"Mason, Ohio",Ursuline Academy,womens tennis,minnesota
-363,Hamza Ali,"Minneapolis, Minn.",Washburn,mens track,minnesota
-364,Obsa Ali,"Richfield, Minn.",Richfield,mens track,minnesota
-365,Matthew Baker,"Shoreview, Minn.",Mounds View HS,mens track,minnesota
-366,Alec Basten,"Green Bay, Wis.",Green Bay                                            Southwest,mens track,minnesota
-367,Jacob Buller,"St. Paul, Minn.",St. Croix                                            Lutheran,mens track,minnesota
-368,Sam Carlson,"Bemidji, Minn.",Bemidji,mens track,minnesota
-369,Joey Duerr,"Chaska, Minn.",Chaska,mens track,minnesota
-370,Evan Ferlic,"Roseville, Minn.",Mounds Park                                            Academy,mens track,minnesota
-371,Anthony Fleischfresser,"Blaine, Minn.",Spring Lake Park                                            HS,mens track,minnesota
-372,Teddy Frid,"South St. Paul, Minn.",South St. Paul                                            HS,mens track,minnesota
-373,Grant Fuller,"Edina, Minn.",Edina HS,mens track,minnesota
-374,Ben Gucinski,"Appleton, Wis.",Fox Valley Lutheran                                            HS,mens track,minnesota
-375,Glen Harold,"Elm Grove, Wis.",Brookfield East                                            HS,mens track,minnesota
+315,Abbey Erwin,"Boise, Idaho",Boise HS,womens swimming,minnesota
+316,Xiao Fu,"Qingdao, China",N/A,womens swimming,minnesota
+317,Kaia Grobe,"Victoria, Minn.",Chanhassen HS,womens swimming,minnesota
+318,Kristen Hayden,"Hillsborough, N.J.",Panther Creek HS,womens swimming,minnesota
+319,Emma Hepper,"Bismarck, N.D.",St. Mary's Central HS,womens swimming,minnesota
+320,Brittany Horn,"Appleton, Wis.",Appleton North HS,womens swimming,minnesota
+321,Olivia Johnston,"Rosemount, Minn.",Rosemount HS,womens swimming,minnesota
+322,Morgan Justus,"Grand Rapids, Minn.",Grand Rapids HS,womens swimming,minnesota
+323,Mariam Khamis,"Richmond, Ind.",Richmond HS,womens swimming,minnesota
+324,Abbey  Kilgallon,"Bridgewater, N.J.",Bridgewater Raritan HS,womens swimming,minnesota
+325,Lindsey Kozelsky,"Albert Lea, Minn.",Albert Lea HS,womens swimming,minnesota
+326,Lauren Lalumiere,"Oakville, Ontario",Iroquois Ridge,womens swimming,minnesota
+327,Emma Linscott,"Mission Hills, Kansas",Shawnee Mission East HS,womens swimming,minnesota
+328,Kaela Marcus,"Placerville, Calif.",Placerville El Dorado HS,womens swimming,minnesota
+329,Kelli  McCarthy,"Edina, Minn.",Edina HS,womens swimming,minnesota
+330,Kasey Milstroh,"St. Cloud, Minn.",Foley HS,womens swimming,minnesota
+331,Rachel Munson,"Shorewood, Wis.",Shorewood HS,womens swimming,minnesota
+332,Chantal Nack,"Mankato, Minn.",Mankato West HS,womens swimming,minnesota
+333,Mackenzie Padington,"Campbell River, B.C.",Claremont Secondary,womens swimming,minnesota
+334,Madison Preiss,"Medina, Minn.",Wayzata HS,womens swimming,minnesota
+335,Katelyn Sauder,"Bloomington, Ill.",N/A,womens swimming,minnesota
+336,Kate Sullivan,"Overland Park, Kan.",Notre Dame De Sion HS,womens swimming,minnesota
+337,Bronwyn  Tuff,"Houston, Texas",Cy-Fair HS,womens swimming,minnesota
+338,Patricia Van Law,"Highlands Ranch, Colo.",Thunder Ridge HS,womens swimming,minnesota
+339,Tevyn Waddell,"Mitchell, S.D.",Mitchell HS,womens swimming,minnesota
+340,Katherine  Wagner,"Chatsworth, Calif.",Bishop Alemany HS,womens swimming,minnesota
+341,Jackson Allen,"Shakopee, Minn.",Shakopee H.S.,mens tennis,minnesota
+342,Marino Alpeza,"Mostar, Bosnia",N/A,mens tennis,minnesota
+343,Kaleb Dobbs,"Sioux Falls, S.D.",Sioux Falls Lincoln H.S.,mens tennis,minnesota
+344,Josip Krstanovic,"Zagreb, Croatia",XV. Gimnazija Zagreb,mens tennis,minnesota
+345,Justyn Levin,"Melbourne, Australia",N/A,mens tennis,minnesota
+346,Vlad Lobak,"Kiev, Ukraine",N/A,mens tennis,minnesota
+347,Stefan Milicevic,"Belgrade, Serbia",Cmjanski H.S.,mens tennis,minnesota
+348,Eli Ogilvy,"Mississauga, Ont.",Silverthorn Collegiate,mens tennis,minnesota
+349,Jesse Sprinkel,"Minneapolis, Minn.",Minneapolis South H.S.,mens tennis,minnesota
+350,Sebastian Vile,"Rochester, Minn.",Rochester Mayo H.S.,mens tennis,minnesota
+351,Annemarie Emme,"Glenview, Ill.",Glenbrook South HS,womens tennis,minnesota
+352,Cammy Frei,"Winnetka, Ill.",New Trier HS,womens tennis,minnesota
+353,Kalyssa Hall,"Colorado Springs, Col.",Cherry Creek                                            HS,womens tennis,minnesota
+354,River Hart,"Nassau, Bahamas",ES International School,womens tennis,minnesota
+355,Tiffany Huber,"Boca Raton, Florida",Laurel Springs High School,womens tennis,minnesota
+356,Tina Kreinis,"Toronto, Ont.",Northview Heights Secondary School,womens tennis,minnesota
+357,Bella Lambert,"Minneapolis, Minn.",Minnetonka High School,womens tennis,minnesota
+358,Bita Mancera,"Mexico City, Mexico",Colegio Visa Hermosa,womens tennis,minnesota
+359,Caitlyn Merzbacher,"Eden Prairie, Minn.",Edina HS,womens tennis,minnesota
+360,Camila Vargas,"Lima, Peru",Santa Ursula School,womens tennis,minnesota
+361,Juliet Zhang,"Vancouver, B.C.",Laurel Springs High School,womens tennis,minnesota
+362,Hamza Ali,"Minneapolis, Minn.",Washburn,mens track,minnesota
+363,Obsa Ali,"Richfield, Minn.",Richfield,mens track,minnesota
+364,Matthew Baker,"Shoreview, Minn.",Mounds View,mens track,minnesota
+365,Alec Basten,"Green Bay, Wis.",Green Bay                                            Southwest,mens track,minnesota
+366,Declan Dahlberg,"North Oaks, Minn.",Mounds Park Academy,mens track,minnesota
+367,Elliott Davis,"Las Vegas, Nev.",Deseret Oasis,mens track,minnesota
+368,Joey Duerr,"Chaska, Minn.",Chaska,mens track,minnesota
+369,Seth Eliason,"Minnetonka, Minn.",Hopkins,mens track,minnesota
+370,Michael Fahim,N/A,N/A,mens track,minnesota
+371,Evan Ferlic,"Roseville, Minn.",Mounds Park                                            Academy,mens track,minnesota
+372,Anthony Fleischfresser,"Blaine, Minn.",Spring Lake Park                                            HS,mens track,minnesota
+373,Teddy Frid,"South St. Paul, Minn.",South St. Paul                                            HS,mens track,minnesota
+374,Grant Fuller,"Edina, Minn.",Edina HS,mens track,minnesota
+375,Ben Gucinski,"Appleton, Wis.",Fox Valley Lutheran,mens track,minnesota
 376,Mike Herauf,"Dickinson, N.D.",Dickinson HS,mens track,minnesota
 377,Owen Hoeft,"Golden Valley, Minn.",Hopkins,mens track,minnesota
 378,Sammie Houston,"Eden Prairie, Minn.",Eden Prairie                                            HS,mens track,minnesota
-379,Clayton Johnson,"Hastings, Minn.",Hastings HS,mens track,minnesota
-380,Jonathan Johnson,"Champlin, Minn.",Champlin Park                                            HS,mens track,minnesota
+379,Khalid Hussein,"Plymouth, Minn.",Wayzata,mens track,minnesota
+380,Clayton Johnson,"Hastings, Minn.",Hastings HS,mens track,minnesota
 381,Alex Kelner,"Mounds View, Minn.",Irondale HS,mens track,minnesota
 382,Dawson LaRance,"Billings, Mont.",Billings Senior                                            HS,mens track,minnesota
-383,Charlie Lawrence,"Foley, Minn.",Foley,mens track,minnesota
-384,Ryan Lockard,"Apple Valley, Minn.",Eastview HS,mens track,minnesota
-385,Hunter Lucas,"Fargo, N.D.",Fargo Davies,mens track,minnesota
-386,Jordan MacIntosh,"Thunder Bay, Ontario",Hammarskjold,mens track,minnesota
-387,Jack Manderscheid,"Edina, Minn.",Edina,mens track,minnesota
-388,Kieran McKeag,"Lakeville, Minn.",Apple Valley                                            HS,mens track,minnesota
-389,Cory Mensah,"Brooklyn Park, Minn.",Champlin Park                                            HS,mens track,minnesota
-390,Joe Morrison,"Poughquag, N.Y.",Arlington,mens track,minnesota
-391,Zach Nelson,"St. Louis Park, Minn.",St. Louis Park                                            HS,mens track,minnesota
-392,Jon Nerdal,"Bergen, Norway",Danielsen VGS,mens track,minnesota
-393,Brad Neumann,"Peshtigo, Wis.",Peshtigo HS,mens track,minnesota
-394,Connor Olson,"Maple Grove, Minn.",Wayzata,mens track,minnesota
-395,Alex Plasencia,"Shoreview, Minn.",Mounds View,mens track,minnesota
-396,Ben Psicihulis,"Waukesha, Wis.",Kettle Moraine                                            HS,mens track,minnesota
-397,Nick Rink,"Appleton, Wis.",Kimberly,mens track,minnesota
-398,Mason Roomes,"Woodbury, Minn.",Woodbury HS,mens track,minnesota
-399,Patrick Roos,"Edina, Minn.",Edina,mens track,minnesota
-400,Matthew Rosen,"Bloomington, Minn.",Bloomington                                            Jefferson HS,mens track,minnesota
-401,Connor Rousemiller,"Lakeville, Minn.",Lakeville South                                            HS,mens track,minnesota
-402,Collin Sieffert,"Woodbury, Minn.",East Ridge HS,mens track,minnesota
-403,Kaleb Siekmeier,"Mahtomedi, Minn.",Mahtomedi HS,mens track,minnesota
-404,Hunter Staack,"Hopkins, Minn.",Hopkins,mens track,minnesota
-405,Shane Streich,"Janesville, Minn.",Waseca,mens track,minnesota
-406,Tyler Tappe,"Pequot Lakes, Minn.",Pequot Lakes                                            HS,mens track,minnesota
-407,Jonathan Tharaldsen,"Bismarck, N.D.",Bismarck HS,mens track,minnesota
-408,Jon Tollefson,"St. Paul, Minn.",St. Croix Lutheran                                            HS,mens track,minnesota
-409,Josh Tracy,"St. Michael, Minn.",St. Michael                                            Albertville HS,mens track,minnesota
-410,Lucas Trapp,"Elk River, Minn.",Elk River HS,mens track,minnesota
-411,James Travis,"Naperville, Ill.",Waubonsie Valley                                            HS,mens track,minnesota
-412,Chris Trotter,"Minneapolis, Minn.",St. Louis Park                                            HS,mens track,minnesota
-413,John Uchytil,"Hudson, Wis.",Hudson HS,mens track,minnesota
-414,Chris Udalla,"Elk River, Minn.",Elk River HS,mens track,minnesota
-415,Robert Wagner,"Pewaukee, Wis.",Pewaukee,mens track,minnesota
-416,Eric Walker,"Chicago, Ill.",St. Rita HS,mens track,minnesota
-417,Jonathan Webb,"Woodbury, Minn.",Minnehaha                                            Academy,mens track,minnesota
-418,Jackson Wellenstein,"Madison, Wis.",Madison West HS,mens track,minnesota
-419,Derek Wiebke,"Kasson, Minn.",Kasson-Mantorville,mens track,minnesota
-420,Courtney Alama,"Annandale, Minn.",Annandale HS,womens track,minnesota
-421,Sofie Albrechtsen,"Esbjerg, Denmark",Marselisborg Gymnasium,womens track,minnesota
-422,Sophia Anderson,"Eden Prairie, Minn.",Academy of Holy Angels,womens track,minnesota
-423,Hannah Arason,"Grand Forks, N.D.",Red River HS,womens track,minnesota
-424,Sam Baer,"St. Louis Park, Minn.",St. Louis Park HS,womens track,minnesota
-425,Kayla Baker,"Cloquet, Minn.",Cloquet Senior HS,womens track,minnesota
-426,Amelia Barczi,"Madison, Wis.",Madison West HS,womens track,minnesota
-427,Emily Betz,"Woodbury, Minn.",East Ridge HS,womens track,minnesota
-428,Meleah Biermaier,"Thief River Falls, Minn.",Lincoln HS,womens track,minnesota
-429,Emily Castanias,"Chanhassen, Minn.",Chanhassen HS,womens track,minnesota
-430,Ayesha Champagnie,"Kingston, Jamaica",St. Andrew Technical HS,womens track,minnesota
-431,Nayoka Clunis,"Kingston, Jamaica",Excelsior HS,womens track,minnesota
-432,Jenna Conzemius,"Hastings, Minn.",Cretin-Derham Hall,womens track,minnesota
-433,Ryan Crotty,"Maplewood, Minn.",North St. Paul HS,womens track,minnesota
-434,Wilsonique Delson,"Nassau, Bahamas",Saint Augustine’s College HS,womens track,minnesota
-435,Carissa Dock,"Waconia, Minn.",Waconia HS,womens track,minnesota
-436,Allison Dugan,"Medina, Minn.",Wayzata HS,womens track,minnesota
-437,Erin Dunning,"Green Bay, Wis.",Ashwaubenon HS,womens track,minnesota
-438,Maria Eastman,"Victoria, Minn.",Holy Family Catholic HS,womens track,minnesota
-439,Molly Eastman,"Victoria, Minn.",Holy Family Catholic HS,womens track,minnesota
-440,Emerald Egwim,"St. Paul, Minn.",Eagan HS,womens track,minnesota
-441,Agnes Esser,"McBride, B.C.",Francis Kelsey Secondary School,womens track,minnesota
-442,Delaney FitzPatrick,"Minocqua, Wis.",Lakeland Union HS,womens track,minnesota
-443,Allison Gerads,"Dayton, Minn.",Champlin Park HS,womens track,minnesota
-444,Lindsey Greenlund,"Rochester, Minn.",Rochester Mayo HS,womens track,minnesota
-445,Bethany Hasz,"Alexandria, Minn.",Alexandria Area HS,womens track,minnesota
-446,Megan Hasz,"Alexandria, Minn.",Alexandria Area HS,womens track,minnesota
-447,Nina Horvath,"Stevens Point, Wis.",Stevens Point Area Senior HS,womens track,minnesota
-448,Erin Huls,"Cold Spring, Minn.",ROCORI HS,womens track,minnesota
-449,Olivia Hummel,"Woodbury, Minn.",East Ridge HS,womens track,minnesota
-450,Abby Kargol,"Downers Grove, Ill.",Downers Grove South HS,womens track,minnesota
-451,Tess Keyzers,"Little Chute, Wis.",Little Chute HS,womens track,minnesota
-452,Lexi Kiefer,"Northfield, Minn.",Northfield HS,womens track,minnesota
-453,Bit Klecker,"Hopkins, Minn.",Hopkins HS,womens track,minnesota
-454,Sarah Klecker,"Hopkins, Minn.",Hopkins HS,womens track,minnesota
-455,Abby Kohut-Jackson,"Huxley, Iowa",Ballard HS,womens track,minnesota
-456,Anastasia Korzenowski,"Chanhassen, Minn.",Chanhassen HS,womens track,minnesota
-457,Abby Lange,"Stillwater, Minn.",Stillwater HS,womens track,minnesota
-458,Val Larson,"DeForest, Wis.",DeForest Area HS,womens track,minnesota
-459,Kaitlyn Long,"Cottage Grove, Wis.",Monona Grove HS,womens track,minnesota
-460,Titania Markland,"St. Mary, Jamaica",St. Mary HS,womens track,minnesota
-461,Zetta Mason,"Boulder, Colo.",Fairview HS,womens track,minnesota
-462,Nicolle Murphy,"Arkansas City, Kan.",Arkansas City HS,womens track,minnesota
-463,Lorean Murray,"St. Andrew, Jamaica",St. Andrew HS,womens track,minnesota
-464,Macy Narr,"Chanhassen, Minn.",Minnetonka HS,womens track,minnesota
-465,Kayla Nelson,"Rush City, Minn.",Rush City HS,womens track,minnesota
-466,Bailey Ness,"Woodbury, Minn.",East Ridge HS,womens track,minnesota
-467,Shay Nielsen,"Detroit Lakes, Minn.",Detroit Lakes HS,womens track,minnesota
-468,Patty O'Brien,"Maplewood, Minn.",North St. Paul HS,womens track,minnesota
-469,Temi Ogunrinde,"Cottage Grove, Minn.",Park HS,womens track,minnesota
-470,Paige Peschel,"Westfield, Wis.",Westfield Area HS,womens track,minnesota
-471,Karlie Place,"River Falls, Wis.",River Falls HS,womens track,minnesota
-472,Hailey Poole,"Worden, Mont.",Huntley Project HS,womens track,minnesota
-473,Elyse Prescott,"Urbandale, Iowa",Urbandale HS,womens track,minnesota
-474,Ashley Ramacher,"Eden Prairie, Minn.",Eden Prairie HS,womens track,minnesota
-475,Haley Rasmussen,"Chaska, Minn.",Chaska HS,womens track,minnesota
-476,Molly Roach,"Bloomington, Minn.",Bloomington Jefferson HS,womens track,minnesota
-477,Kiley Sabin,"Slinger, Wis.",Slinger HS,womens track,minnesota
-478,Kelsey Sather,"Plymouth, Minn.",Robbinsdale Armstrong HS,womens track,minnesota
-479,Kelli Schmidt,"Wilmette, Ill.",New Trier HS,womens track,minnesota
-480,Sophie Schmitz,"Willmar, Minn.",Willmar Senior HS,womens track,minnesota
-481,Rachel Schow,"Inver Grove Heights, Minn.",Rosemount HS,womens track,minnesota
-482,Ally Smith,"McFarland, Wis.",McFarland HS,womens track,minnesota
-483,Lindsey Smits,"Lakeville, Minn.",Lakeville North HS,womens track,minnesota
-484,Emma Spagnola,"North Aurora, Ill.",West Aurora HS,womens track,minnesota
-485,Madeline Strandemo,"Fargo, N.D.",Fargo South HS,womens track,minnesota
-486,Tate Sweeney,"Edina, Minn.",Edina HS,womens track,minnesota
-487,Jaycie Thomsen,"Maple Grove, Minn.",Wayzata HS,womens track,minnesota
-488,Heta Tuuri,"Lahti, Finland",Salpausselka HS,womens track,minnesota
-489,Sarah Werking,"Elm Grove, Wis.",Brookfield East HS,womens track,minnesota
-490,Rachel Wians,"Middleton, Wis.",Middleton HS,womens track,minnesota
-491,Taylor Wiebke,"Mantorville, Minn.",Kasson-Mantorville HS,womens track,minnesota
-492,Shanique Wright,"Manchester, Jamaica",Manchester HS,womens track,minnesota
-493,Jake Allar,"Medina, Minn.",Saint                                            Michael-Albertville,wrestling,minnesota
-494,Dylan Anderson,"Hudson, Wis.",Hudson HS,wrestling,minnesota
-495,Will Balow,"Lake City, Minn.",Lincoln HS,wrestling,minnesota
-496,James Berg,"New Prague, Minn.",New Prague HS,wrestling,minnesota
-497,Jakob Bergeland,"Hugo, Minn.",Centennial High                                            School,wrestling,minnesota
-498,Steve Bleise,"Chelsea, Mich.",Chelsea High                                            School,wrestling,minnesota
-499,Ben Brancale,"Eden Prairie, Minn.",Eden Prairie                                            HS,wrestling,minnesota
-500,Carson Brolsma,"Maple Grove, Minn.",Osseo HS,wrestling,minnesota
-501,Colin Carr,"Washington, Ill.",N/A,wrestling,minnesota
-502,Jose Champagne,"Griffith, Ind.",Marion Catholic                                            HS,wrestling,minnesota
-503,Tim Christianson,"Albert Lea, Minn.",Albert Lea HS,wrestling,minnesota
-504,Alex Crowe,"Shakopee, Minn.",Shakopee High                                            School,wrestling,minnesota
-505,Brent Jones,"Shakopee, Minn.",Shakopee High                                            School,wrestling,minnesota
-506,Faris Karaborni,"Cupertino, Calif.",Monta Vista                                            HS,wrestling,minnesota
-507,Tijani Karaborni,"Cupertino, Calif.",Monta Vista                                            HS,wrestling,minnesota
-508,Brandon Krone,"Anoka, Minn.",Anoka HS,wrestling,minnesota
-509,Ethan Lizak,"Schnecksville, Pa.",Parkland HS,wrestling,minnesota
-510,Dalton Lunde,"Kendall, Wis.",Royall HS,wrestling,minnesota
-511,Hunter Marko,"Amery, Wis.",Amery HS,wrestling,minnesota
-512,Mitch McKee,"St. Michael, Minn.",St.                                            Michael-Albertville HS,wrestling,minnesota
-513,Chase O'Connor,"Kasson, Minn.",N/A,wrestling,minnesota
-514,Bailee O'Reilly,"Goodhue, Minn.",Goodhue Public                                            School,wrestling,minnesota
-515,Brenn Olson,"Grand Meadow, Minn.",Grand Meadow                                            HS,wrestling,minnesota
-516,Miles Patton,"Rochester, Minn.",Mayo HS,wrestling,minnesota
-517,Skyler Petry,"Waterville, Minn.",Waterville-Elysian-Morristown HS,wrestling,minnesota
-518,Chris Pfarr,"Le Sueur, Minn.",Le Sueur-Henderson                                            HS,wrestling,minnesota
-519,Steve Polakowski,"Libertyville, Ill.",Libertyville                                            HS,wrestling,minnesota
-520,Nate Rose,"Arlington, Minn.",Sibley East HS,wrestling,minnesota
-521,Jordon Rothers,"Sunburg, Minn.",Kerkhoven-Murdock-Sunburg HS,wrestling,minnesota
-522,Jake Short,"Inver Grove Heights, Minn.",Simley                                            HS,wrestling,minnesota
-523,Bobby Steveson,"Apple Valley, Minn.",Apple Valley                                            HS,wrestling,minnesota
-524,Rylee Streifel,"Prior Lake, Minn.",Prior Lake HS,wrestling,minnesota
-525,Nate Thomas,"Mantorville, Minn.",Kasson-Mantorville                                            HS,wrestling,minnesota
-526,Tommy Thorn,"St. Michael, Minn.",St.                                            Michael-Albertville HS,wrestling,minnesota
-527,Gannon Volk,"Lakeville, Minn.",Apple Valley                                            HS,wrestling,minnesota
-528,Nick Wanzek,"Inver Grove Heights, Minn.",Simley                                            HS,wrestling,minnesota
-529,Tyler Waterson,"Spearfish, SD",Spearfish High                                            School,wrestling,minnesota
-530,Owen Webster,"Shakopee, Minn.",Shakopee High                                            School,wrestling,minnesota
-531,Christina Anderson,"Plymouth, Minn.",Orono,womens rowing,minnesota
-532,Maggie Bostwick,"Whitefish Bay, Wis.",Whitefish                                            Bay,womens rowing,minnesota
-533,Lauren Burrows-Cheng,"Hobart, Tasmania",St Michaels                                            Collegiate School,womens rowing,minnesota
-534,Anna Frazier,"St. Louis, Mo.",N/A,womens rowing,minnesota
-535,Taylor Gilbertson,"Burnsville, Minn.",Burnsville,womens rowing,minnesota
-536,Erika Guenther,"Dayton, Minn.",Champlin Park,womens rowing,minnesota
-537,Kat Hetico,"Madison, Wis.",West,womens rowing,minnesota
-538,Lizsy Hiebel,"Minnetonka, Minn.",Minnetonka,womens rowing,minnesota
-539,Darcy Jennings,"London, England",N/A,womens rowing,minnesota
-540,Anneliese King,"Bethesda, Md.",Holton-Arms,womens rowing,minnesota
-541,Maura Maguire,"Crystal Lake, Ill.",N/A,womens rowing,minnesota
-542,Addie Morris,"Sussex, Wis.",Hamilton,womens rowing,minnesota
-543,Sara Nelson,"New Brighton, Minn.",Mounds View,womens rowing,minnesota
+383,Hunter Lucas,"Fargo, N.D.",Fargo Davies,mens track,minnesota
+384,Jordan MacIntosh,"Thunder Bay, Ontario",Hammarskjold,mens track,minnesota
+385,Jack Manderscheid,"Edina, Minn.",Edina,mens track,minnesota
+386,Kieran McKeag,"Lakeville, Minn.",Apple Valley                                            HS,mens track,minnesota
+387,Joe Morrison,"Poughquag, N.Y.",Arlington,mens track,minnesota
+388,Zach Nelson,"St. Louis Park, Minn.",St. Louis Park                                            HS,mens track,minnesota
+389,Jon Nerdal,"Bergen, Norway",Danielsen VGS,mens track,minnesota
+390,Connor Olson,"Maple Grove, Minn.",Wayzata,mens track,minnesota
+391,Alex Plasencia,"Shoreview, Minn.",Mounds View,mens track,minnesota
+392,Ben Psicihulis,"Waukesha, Wis.",Kettle Moraine                                            HS,mens track,minnesota
+393,Nick Rink,"Appleton, Wis.",Kimberly,mens track,minnesota
+394,Mason Roomes,"Woodbury, Minn.",Woodbury HS,mens track,minnesota
+395,Patrick Roos,"Edina, Minn.",Edina,mens track,minnesota
+396,Matthew Rosen,"Bloomington, Minn.",Bloomington                                            Jefferson HS,mens track,minnesota
+397,Connor Rousemiller,"Lakeville, Minn.",Lakeville South                                            HS,mens track,minnesota
+398,Eric Rousemiller,"Lakeville, Minn.",Lakeville South,mens track,minnesota
+399,Collin Sieffert,"Woodbury, Minn.",East Ridge HS,mens track,minnesota
+400,Kaleb Siekmeier,"Mahtomedi, Minn.",Mahtomedi HS,mens track,minnesota
+401,Hunter Staack,"Hopkins, Minn.",Hopkins,mens track,minnesota
+402,Shane Streich,"Janesville, Minn.",Waseca,mens track,minnesota
+403,Jonathan Tharaldsen,"Bismarck, N.D.",Bismarck HS,mens track,minnesota
+404,Cordell Tinch,"Green Bay, Wis.",Bay Port,mens track,minnesota
+405,Josh Tracy,"St. Michael, Minn.",St. Michael                                            Albertville HS,mens track,minnesota
+406,Lucas Trapp,"Elk River, Minn.",Elk River HS,mens track,minnesota
+407,James Travis,"Naperville, Ill.",Waubonsie Valley                                            HS,mens track,minnesota
+408,Chris Trotter,"Minneapolis, Minn.",St. Louis Park                                            HS,mens track,minnesota
+409,John Uchytil,"Hudson, Wis.",Hudson HS,mens track,minnesota
+410,Robert Wagner,"Pewaukee, Wis.",Pewaukee,mens track,minnesota
+411,Eric Walker,"Chicago, Ill.",St. Rita HS,mens track,minnesota
+412,Jonathan Webb,"Woodbury, Minn.",Minnehaha                                            Academy,mens track,minnesota
+413,Jackson Wellenstein,"Madison, Wis.",Madison West HS,mens track,minnesota
+414,Sophia Anderson,"Eden Prairie, Minn.",Academy of Holy Angels,womens track,minnesota
+415,Hannah Arason,"Grand Forks, N.D.",Red River HS,womens track,minnesota
+416,Sam Baer,"St. Louis Park, Minn.",St. Louis Park HS,womens track,minnesota
+417,Kayla Baker,"Cloquet, Minn.",Cloquet Senior HS,womens track,minnesota
+418,Maria Berg,"New Prague, Minn.",New Prague HS,womens track,minnesota
+419,Meleah Biermaier,"Thief River Falls, Minn.",Lincoln HS,womens track,minnesota
+420,Nicole Buchinger,"Kaukauna, Wis.",Kaukauna HS,womens track,minnesota
+421,Ayesha Champagnie,"Kingston, Jamaica",St. Andrew Technical HS,womens track,minnesota
+422,Nayoka Clunis,"Kingston, Jamaica",Excelsior HS,womens track,minnesota
+423,Jenna Conzemius,"Hastings, Minn.",Cretin-Derham Hall,womens track,minnesota
+424,Ryan Crotty,"Maplewood, Minn.",North St. Paul HS,womens track,minnesota
+425,Wilsonique Delson,"Nassau, Bahamas",Saint Augustine’s College HS,womens track,minnesota
+426,Carissa Dock,"Waconia, Minn.",Waconia HS,womens track,minnesota
+427,Allison Dugan,"Medina, Minn.",Wayzata HS,womens track,minnesota
+428,Erin Dunning,"Green Bay, Wis.",Ashwaubenon HS,womens track,minnesota
+429,Maria Eastman,"Victoria, Minn.",Holy Family Catholic HS,womens track,minnesota
+430,Molly Eastman,"Victoria, Minn.",Holy Family Catholic HS,womens track,minnesota
+431,Allison Gerads,"Dayton, Minn.",Champlin Park HS,womens track,minnesota
+432,Maddie Gourley,"Eagan, Minn.",Eagan HS,womens track,minnesota
+433,Lindsey Greenlund,"Rochester, Minn.",Rochester Mayo HS,womens track,minnesota
+434,Libby Halbmaier,"Minnetonka, Minn.",Minnetonka HS,womens track,minnesota
+435,Lauren Hansen,"Orono, MN",Orono HS,womens track,minnesota
+436,Bethany Hasz,"Alexandria, Minn.",Alexandria Area HS,womens track,minnesota
+437,Megan Hasz,"Alexandria, Minn.",Alexandria Area HS,womens track,minnesota
+438,Elena Hayday,"Bloomington, Minn.",Bloomington Jefferson HS,womens track,minnesota
+439,Julia Hayes,"Mounds View, Minn.",Irondale HS,womens track,minnesota
+440,Hannah Hood-Blaxill,"Banbury, Oxfordshire",Novi HS,womens track,minnesota
+441,Erin Huls,"Cold Spring, Minn.",ROCORI HS,womens track,minnesota
+442,Olivia Hummel,"Woodbury, Minn.",East Ridge HS,womens track,minnesota
+443,Abby Kargol,"Downers Grove, Ill.",Downers Grove South HS,womens track,minnesota
+444,Tess Keyzers,"Little Chute, Wis.",Little Chute HS,womens track,minnesota
+445,Lexi Kiefer,"Northfield, Minn.",Northfield HS,womens track,minnesota
+446,Bit Klecker,"Hopkins, Minn.",Hopkins HS,womens track,minnesota
+447,Abby Kohut-Jackson,"Huxley, Iowa",Ballard HS,womens track,minnesota
+448,Anastasia Korzenowski,"Chanhassen, Minn.",Chanhassen HS,womens track,minnesota
+449,Taylor Krone,"Anoka, Minn.",Anoka HS,womens track,minnesota
+450,Abby Lange,"Stillwater, Minn.",Stillwater HS,womens track,minnesota
+451,Becca Langer,"Waukesha, Wis.",Waukesha West HS,womens track,minnesota
+452,Val Larson,"DeForest, Wis.",DeForest Area HS,womens track,minnesota
+453,Kaitlyn Long,"Cottage Grove, Wis.",Monona Grove HS,womens track,minnesota
+454,Zetta Mason,"Boulder, Colo.",Fairview HS,womens track,minnesota
+455,Hannah Morris,"Chicago Heights, Ill.",Bloom HS,womens track,minnesota
+456,Lorean Murray,"St. Andrew, Jamaica",St. Andrew HS,womens track,minnesota
+457,Kayla Nelson,"Rush City, Minn.",Rush City HS,womens track,minnesota
+458,Shay Nielsen,"Detroit Lakes, Minn.",Detroit Lakes HS,womens track,minnesota
+459,Patty O'Brien,"Maplewood, Minn.",North St. Paul HS,womens track,minnesota
+460,Temi Ogunrinde,"Cottage Grove, Minn.",Park HS,womens track,minnesota
+461,Paige Peschel,"Westfield, Wis.",Westfield Area HS,womens track,minnesota
+462,Karlie Place,"River Falls, Wis.",River Falls HS,womens track,minnesota
+463,Hailey Poole,"Worden, Mont.",Huntley Project HS,womens track,minnesota
+464,Elyse Prescott,"Urbandale, Iowa",Urbandale HS,womens track,minnesota
+465,Ashley Ramacher,"Eden Prairie, Minn.",Eden Prairie HS,womens track,minnesota
+466,Haley Rasmussen,"Chaska, Minn.",Chaska HS,womens track,minnesota
+467,Molly Reeves,"Montevideo, Minn.",Montevideo Senior HS,womens track,minnesota
+468,Molly Roach,"Bloomington, Minn.",Bloomington Jefferson HS,womens track,minnesota
+469,Lexi Romero,"Brookfield, Wis.",Brookfield Central HS,womens track,minnesota
+470,Kiley Sabin,"Slinger, Wis.",Slinger HS,womens track,minnesota
+471,Kelsey Sather,"Plymouth, Minn.",Robbinsdale Armstrong HS,womens track,minnesota
+472,Tasha Schaffer,"Crystal Lake, Ill.",Prairie Ridge HS,womens track,minnesota
+473,Kelli Schmidt,"Wilmette, Ill.",New Trier HS,womens track,minnesota
+474,Sophie Schmitz,"Willmar, Minn.",Willmar Senior HS,womens track,minnesota
+475,Rachel Schow,"Inver Grove Heights, Minn.",Rosemount HS,womens track,minnesota
+476,Ally Smith,"McFarland, Wis.",McFarland HS,womens track,minnesota
+477,Emily Stendel,"Jefferson, Wis.",Jefferson HS,womens track,minnesota
+478,Tate Sweeney,"Edina, Minn.",Edina HS,womens track,minnesota
+479,Jaycie Thomsen,"Maple Grove, Minn.",Wayzata HS,womens track,minnesota
+480,Kayla Vogt,"Hartland, Wis.",Arrowhead HS,womens track,minnesota
+481,Sarah Werking,"Elm Grove, Wis.",Brookfield East HS,womens track,minnesota
+482,Courtney West,"Dodge Center, Minn.",Triton HS,womens track,minnesota
+483,Natalie Windels,"Inver Grove Heights, Minn.",Eagan HS,womens track,minnesota
+484,Amira Young,"Chicago, Ill.",Whitney M. Young HS,womens track,minnesota
+485,Jake Allar,"Medina, Minn.",Saint Michael-Albertville,wrestling,minnesota
+486,Dylan Anderson,"Hudson, Wis.",Hudson HS,wrestling,minnesota
+487,Will Balow,"Lake City, Minn.",Lincoln HS,wrestling,minnesota
+488,James Berg,"New Prague, Minn.",New Prague HS,wrestling,minnesota
+489,Jakob Bergeland,"Hugo, Minn.",Centennial High School,wrestling,minnesota
+490,Steve Bleise,"Chelsea, Mich.",Chelsea High School,wrestling,minnesota
+491,Ben Brancale,"Eden Prairie, Minn.",Eden Prairie HS,wrestling,minnesota
+492,Carson Brolsma,"Maple Grove, Minn.",Osseo High School,wrestling,minnesota
+493,Jose Champagne,"Griffith, Ind.",Marion Catholic HS,wrestling,minnesota
+494,Alex Crowe,"Shakopee, Minn.",Shakopee High School,wrestling,minnesota
+495,Jake Gliva,"Inver Grove Heights, Minn.",Simley High School,wrestling,minnesota
+496,Garrett Joles,"Boyceville, Wis.",Boyceville High School,wrestling,minnesota
+497,Brent Jones,"Shakopee, Minn.",Shakopee High School,wrestling,minnesota
+498,Brandon Krone,"Anoka, Minn.",Anoka High School,wrestling,minnesota
+499,Brayton  Lee,"Brownsburg, Ind.",Brownsburg High School,wrestling,minnesota
+500,Ethan Lizak,"Schnecksville, Pa.",Parkland High School,wrestling,minnesota
+501,Hunter Marko,"Amery, Wis.",Amery High School,wrestling,minnesota
+502,Kasper McIntosh,"Portage, Ind.",Portage High School,wrestling,minnesota
+503,Patrick  McKee,"St. Michael, Minn.",St. Michael-Albertville HS,wrestling,minnesota
+504,Mitch McKee,"St. Michael, Minn.",St. Michael-Albertville HS,wrestling,minnesota
+505,Chase O'Connor,"Kasson, Minn.",N/A,wrestling,minnesota
+506,Bailee O'Reilly,"Goodhue, Minn.",Goodhue Public School,wrestling,minnesota
+507,Brenn Olson,"Grand Meadow, Minn.",Grand Meadow HS,wrestling,minnesota
+508,Miles Patton,"Rochester, Minn.",Mayo High School,wrestling,minnesota
+509,Skyler Petry,"Waterville, Minn.",Waterville-Elysian-Morristown HS,wrestling,minnesota
+510,Steve Polakowski,"Libertyville, Ill.",Libertyville HS,wrestling,minnesota
+511,Sean  Russell,"Lawrenceville, Ga.",Collins Hill High School,wrestling,minnesota
+512,Devin  Skatzka,"Richmond, Mich.",Richmond High School,wrestling,minnesota
+513,Caden  Steffen,"Zumbrota, Minn.",Zumbrota-Mazeppa High School,wrestling,minnesota
+514,Gable Steveson,"Apple Valley, Minn.",Apple Valley High School,wrestling,minnesota
+515,Bobby Steveson,"Apple Valley, Minn.",Apple Valley High School HS,wrestling,minnesota
+516,Rylee Streifel,"Prior Lake, Minn.",Prior Lake High School,wrestling,minnesota
+517,Ryan  Thomas,"Saint Paris, Ohio",St. Paris Graham High School,wrestling,minnesota
+518,Tommy Thorn,"St. Michael, Minn.",St. Michael-Albertville HS,wrestling,minnesota
+519,Tyler Waterson,"Spearfish, SD",Spearfish High School,wrestling,minnesota
+520,Owen Webster,"Shakopee, Minn.",Shakopee High School,wrestling,minnesota
+521,Christina Anderson,"Plymouth, Minn.",Orono,womens rowing,minnesota
+522,Rachele Biltoft,"Rochester, Minn.",Rochester Mayo,womens rowing,minnesota
+523,Maggie Bostwick,"Whitefish Bay, Wis.",Whitefish Bay,womens rowing,minnesota
+524,Lauren Burrows-Cheng,"Hobart, Tasmania",St Michaels Collegiate School,womens rowing,minnesota
+525,Megan Clark,"Hartland, Wis.",Arrowhead,womens rowing,minnesota
+526,Saskia Dammersmith,N/A,N/A,womens rowing,minnesota
+527,Emma Jo Elder,N/A,N/A,womens rowing,minnesota
+528,Lindsay Eliasen,"Chanhassen, Minn.",Eden Prairie,womens rowing,minnesota
+529,Taylor Gilbertson,"Burnsville, Minn.",Burnsville,womens rowing,minnesota
+530,Erika Guenther,"Dayton, Minn.",Champlin Park,womens rowing,minnesota
+531,Kat Hetico,"Madison, Wis.",West,womens rowing,minnesota
+532,Lizsy Hiebel,"Minnetonka, Minn.",Minnetonka,womens rowing,minnesota
+533,Whitney Holm,N/A,N/A,womens rowing,minnesota
+534,Xandra Jacobson,"Fargo, N.D.",Fargo Davies,womens rowing,minnesota
+535,Sydney Large,N/A,N/A,womens rowing,minnesota
+536,Natalie Lorca,N/A,N/A,womens rowing,minnesota
+537,Maura Maguire,"Crystal Lake, Ill.",N/A,womens rowing,minnesota
+538,Christina McBride,"Naperville, Ill.",Naperville,womens rowing,minnesota
+539,Annie McNamara,N/A,N/A,womens rowing,minnesota
+540,Addie Morris,"Sussex, Wis.",Hamilton,womens rowing,minnesota
+541,Brianna Murano,"Whitefish Bay, Wis.",Whitefish Bay,womens rowing,minnesota
+542,Sara Nelson,"New Brighton, Minn.",Mounds View,womens rowing,minnesota
+543,Stephanie Peller,"Dassel, MN",Dassel-Cokato,womens rowing,minnesota
 544,Sarah Reimann,"Bregenz, Austria",N/A,womens rowing,minnesota
-545,Abby Rieser,"North St. Paul, Minn.",North St.                                            Paul,womens rowing,minnesota
+545,Abby Rieser,"North St. Paul, Minn.",North St. Paul,womens rowing,minnesota
 546,Samantha Rollay,"Richfield, Minn.",Richfield,womens rowing,minnesota
 547,Allie Schmidt,"Maple Grove, Minn.",N/A,womens rowing,minnesota
-548,Savannah Spahr,"Brookfield, Wis.",Brookfield                                            East,womens rowing,minnesota
-549,Natalie Stratton,"Williams Bay, Wis.",N/A,womens rowing,minnesota
-550,Elyse Terlion,"Muskego, Wis.",Muskego,womens rowing,minnesota
-551,Sophia Thuente,"St. Paul, Minn.",Cretin-Derham                                            Hall,womens rowing,minnesota
-552,Gabrielle Tripps,"Wayzata, Minn.",Wayzata,womens rowing,minnesota
-553,Katie VanCamp,"Elk River, Minn.",Elk River,womens rowing,minnesota
-554,Sarah Von der Goltz,"Breisach, Germany",Martin-Schongauer-Gymnasium,womens rowing,minnesota
-555,Rylie Wargo,"Pulaski, Wis.",Pulaski,womens rowing,minnesota
-556,MaKenna Partain,"Banks, Ore.",Banks High School,softball,minnesota
-557,Carlie Brandt,"Le Sueur, Minn.",Le Sueur-Henderson                                            High School,softball,minnesota
-558,Rachel Lowary,"Grimes, Iowa",Dallas                                            Center-Grimes,softball,minnesota
-559,Macy Gill,"Elkhart, Iowa",North Polk HS,softball,minnesota
-560,Katelyn Kemmetmueller,"Rogers, Minn.",Rogers High                                            School,softball,minnesota
-561,Anne Miller,"Bloomington, Minn.",Jefferson High                                            School,softball,minnesota
-562,Sydney Smith,"Maple Grove, Minn.",Maple Grove                                            HS,softball,minnesota
-563,Amber Fiser,"Van Horne, Iowa",N/A,softball,minnesota
-564,Allie Arneson,"Aledo, Texas",Aledo High School,softball,minnesota
-565,Ellee Jensen,"Watertown, Wis.",Watertown HS,softball,minnesota
-566,Maddie Houlihan,"Plymouth, Minn.",Benilde St.                                            Margaret's,softball,minnesota
-567,Kaylen Krueger,"Green Bay, Wis.",Green Bay Preble High                                            School,softball,minnesota
-568,Taylor Chell,"Nowthen, Minn.",Anoka HS,softball,minnesota
-569,Kendyl Lindaman,"Ankeny, Iowa",Ankeny Centennial High                                            School,softball,minnesota
-570,Alexandra Thompson,"Howard Lake, Minn.",Howard                                            Lake-Waverly-Winsted HS,softball,minnesota
-571,Hannah Bailey,"Vista, Calif.",Rancho Buena Vista                                            HS,softball,minnesota
-572,Jasmyn Martin,"Brooklyn Park, Minn.",Hopkins,womens volleyball,minnesota
-573,Lauren Barnes,"Naperville, Ill.",Benet Academy,womens volleyball,minnesota
-574,Sara Nielsen,"Glen Ellyn, Ill.",Benet Academy,womens volleyball,minnesota
-575,Claire Sheehan,"Isanti, Minn.",Cambridge,womens volleyball,minnesota
-576,CC McGraw,"Prior Lake, Minn.",Prior Lake HS,womens volleyball,minnesota
-577,Alice Zeimann,"Christchurch, New Zealand",Burnside                                            HS,womens volleyball,minnesota
-578,Sophie Beckley,"Seattle, Wash.",Bishop Blanchet                                            HS,womens volleyball,minnesota
-579,Stephanie Samedy,"Clermont, Fla.",East Ridge,womens volleyball,minnesota
-580,Taylor Morgan,"Blaine, Minn.",Blaine HS,womens volleyball,minnesota
-581,Samantha Seliger-Swenson,"Minnetonka, Minn.",Hopkins HS,womens volleyball,minnesota
-582,Lauren Litzau,"Greendale, Wis.",Greendale HS,womens volleyball,minnesota
-583,Kayla Buford,"Canton, Mich.",Canton HS,womens volleyball,minnesota
-584,Bayley McMenimen,"Niceville, Florida",Niceville,womens volleyball,minnesota
-585,Paulina  Swider,"Lublin, Poland",Bydgoskich Olimpijczykow,womens volleyball,minnesota
-586,Alexis Hart,"Kansas City, Mo.",Truman HS,womens volleyball,minnesota
-587,Adanna Rollins,"Carrollton, Texas",Hebron,womens volleyball,minnesota
-588,Regan Pittman,"Spring Hill, Kansas",Saint Thomas Aquinas,womens volleyball,minnesota
-589,Rebecca  Rendahl,"San Marcos, Calif.",Murrieta Valley,womens volleyball,minnesota
-590,Luke Aldrich,"Amherst, Mass.",Amherst Regional                                            HS,mens gymnastics,minnesota
-591,Ryan Bergman,"Lakeville, Minn.",Lakeville North                                            HS,mens gymnastics,minnesota
-592,Colton Dee,"Nampa, Idaho",Skyview High                                            School,mens gymnastics,minnesota
-593,Tristan Duran,"Franklin Lakes, N.J.",Bergen Catholic                                            HS,mens gymnastics,minnesota
-594,Joel Gagnon,"Regina, Sask.",Holy Cross HS,mens gymnastics,minnesota
-595,Michael Harris,"West Allis, Wis.",Nathan Hale HS,mens gymnastics,minnesota
-596,Shaun Herzog,"Manchester, Conn.",Manchester HS,mens gymnastics,minnesota
-597,Russell Johnson,"Indianapolis, Ind.",Perry Meridian                                            High School,mens gymnastics,minnesota
-598,Vitali Kan,"West Allis, Wis.",Nathan Hale HS,mens gymnastics,minnesota
-599,Justin Karstadt,"Toronto, Ont.",Silverthorn Collegiate                                            Institute HS,mens gymnastics,minnesota
-600,Jack Kramer,"Charlotte, N.C.",Ardrey Kell HS,mens gymnastics,minnesota
-601,Timmy Kutyla,"Wyckoff, NJ",Ramapo HS,mens gymnastics,minnesota
-602,Henry Meeker,"Minneapolis, Minn.",Southwest High                                            School,mens gymnastics,minnesota
-603,Yaroslav Pochinka,"Plano, Texas",Plano Senior High                                            School,mens gymnastics,minnesota
-604,Jordan Poganski,"Woodbury, Minn.",Woodbury HS,mens gymnastics,minnesota
-605,Jalon Stephens,"Shreveport, La",Southwood HS,mens gymnastics,minnesota
-606,Ryan Wangler,"Savage, Minn.",Prior Lake HS,mens gymnastics,minnesota
-607,Ben Winkel,"Afton, Minn.",Stillwater Area HS,mens gymnastics,minnesota
-608,Shane Wiskus,"Spring Park, Minn.",Mound Westonka                                            High School,mens gymnastics,minnesota
-609,Alex Wittenberg,"Buffalo, N.Y.",Kenmore West HS,mens gymnastics,minnesota
-610,Shashank Yallamraju,"Apple Valley, Minn.",Eastview HS,mens gymnastics,minnesota
-611,Casey Betts,"Chandler, Ariz.",Corona del Sol                                            HS,womens gymnastics,minnesota
-612,Rachel Cutler,"Grand Rapids, Mich.",Northview                                            HS,womens gymnastics,minnesota
-613,Abby DeMuse,"Savage, Minn.",Academy of Holy                                            Angels,womens gymnastics,minnesota
-614,Ciara Gardner,"Frisco, Texas",Liberty HS,womens gymnastics,minnesota
-615,Hannah Hitchcock,"San Ramon, Calif.",California HS,womens gymnastics,minnesota
-616,Julia Huebert,"Overland Park, KS",Blue Valley West                                            HS,womens gymnastics,minnesota
-617,Mary Korlin-Downs,"Lake Elmo, Minn.",Stillwater Area                                            HS,womens gymnastics,minnesota
-618,Ona Loper,"Bluffton, S.C.",May River High                                            School,womens gymnastics,minnesota
-619,Ivy Lu,"Montreal, Quebec",Antoine-de-Saint-Exupery,womens gymnastics,minnesota
-620,Lexi Montgomery,"The Colony, Texas",The Colony High                                            School,womens gymnastics,minnesota
-621,Kristen Quaglia,"Chanhassen, Minn.",Minnetonka HS,womens gymnastics,minnesota
-622,Lexy Ramler,"St. Michael, Minn.",Winona High                                            School,womens gymnastics,minnesota
-623,Rachel Rowland,"Parker, Colo.",Ponderosa HS,womens gymnastics,minnesota
-624,Becca Taylor,"Corcoran, Minn.",Homeschool,womens gymnastics,minnesota
-625,Selena Ung,"Oakdale, Minn.",Tartan HS,womens gymnastics,minnesota
-626,Paige Williams,"Wylie, Texas",Wylie HS,womens gymnastics,minnesota
-627,Brock Kautz,"Rochester, Minn.",Rochester                                            Century,mens hockey,minnesota
-628,Jack Sadek,"Lakeville, Minn.",Lakeville                                            North,mens hockey,minnesota
-629,Jack Glover,"Golden Valley, Minn.",Benilde-St.                                            Margaret's,mens hockey,minnesota
-630,Steve Johnson,"Excelsior, Minn.",Minnetonka,mens hockey,minnesota
-631,Ryan Lindgren,"Minneapolis, Minn.",Shattuck-St.                                            Mary's,mens hockey,minnesota
-632,Clayton Phillips,"Edina, Minn.",Edina,mens hockey,minnesota
-633,Brannon McManus,"Newport Beach, Calif.",Shattuck-St.                                            Mary's,mens hockey,minnesota
-634,Mike Szmatula,"Commerce Township, Mich.",St. Mary's                                            Prep,mens hockey,minnesota
-635,Brent Gates                                            Jr.,"Grand Rapids, Mich.",N/A,mens hockey,minnesota
-636,Luke Notermann,"Blaine, Minn.",Blaine,mens hockey,minnesota
-637,Joey Marooney,"Chaska, Minn.",Holy Family                                            Catholic,mens hockey,minnesota
-638,Cullen Munson,"Edina, Minn.",Edina,mens hockey,minnesota
-639,Rem Pitlick,"Plymouth, Minn.",Shattuck-St.                                            Mary's,mens hockey,minnesota
-640,Jack Ramsey,"Chanhassen, Minn.",Minnetonka,mens hockey,minnesota
-641,Tommy Novak,"River Falls, Wis.",St. Thomas                                            Academy,mens hockey,minnesota
-642,Leon Bristedt,"Stockholm, Sweden",N/A,mens hockey,minnesota
-643,Scott Reedy,"Prior Lake, Minn.",Shattuck-St.                                            Mary's,mens hockey,minnesota
-644,Ryan Zuhlsdorf,"Edina, Minn.",Edina,mens hockey,minnesota
-645,Casey Mittelstadt,"Eden Prairie, Minn.",Eden                                            Prairie,mens hockey,minnesota
-646,Tyler Sheehy,"Burnsville, Minn.",Burnsville,mens hockey,minnesota
-647,Ryan Norman,"Maplewood, Minn.",Shattuck-St.                                            Mary's,mens hockey,minnesota
-648,Connor Hurley,"Edina, Minn.",Edina High School,mens hockey,minnesota
-649,Darian Romanko,"Shoreview, Minn.",Mounds View,mens hockey,minnesota
-650,Sam Rossini,"Burnsville, Minn.",Burnsville,mens hockey,minnesota
-651,Tyler Nanne,"Edina, Minn.",Edina,mens hockey,minnesota
-652,Nick Lehr,"Roseville, Minn.",Roseville,mens hockey,minnesota
-653,Eric Schierhorn,"Anchorage, Alaska",Shattuck-St.                                            Mary's,mens hockey,minnesota
-654,Mat Robson,"Mississauga, Ont.",N/A,mens hockey,minnesota
-655,Emily Brown,"Blaine, Minn.",Blaine HS,womens hockey,minnesota
-656,Catie Skaja,"New Prague, Minn.",New Prague Senior HS,womens hockey,minnesota
-657,Tianna Gunderson,"Roseau, Minn.",Roseau HS,womens hockey,minnesota
-658,Sophie Skarzynski,"Lake Forest, Ill.",Loyola Academy,womens hockey,minnesota
-659,Gracie Ostertag,"Shakopee, Minn.",Shattuck-St. Mary’s,womens hockey,minnesota
-660,Taylor Williamson,"Edina, Minn.",Edina HS,womens hockey,minnesota
-661,Kippin Keller,"Minnetonka, Minn.",Minnetonka HS,womens hockey,minnesota
-662,Taylor Heise,"Lake City, Minn.",Red Wing HS,womens hockey,minnesota
-663,Grace Zumwinkle,"Excelsior, Minn.",Breck School,womens hockey,minnesota
-664,Crystalyn Hengler,"Eden Prairie, Minn.",Eden Prairie HS,womens hockey,minnesota
-665,Jackie Pieper,"Edina, Minn.",Edina HS,womens hockey,minnesota
-666,Amy Potomak,"Aldergrove, B.C.",George Elliot Secondary,womens hockey,minnesota
-667,Sierra Smith,"Stillwater, Minn.",Stillwater Area HS,womens hockey,minnesota
-668,Katie Robinson,"Kasson, Minn.",Kasson-Mantorville HS,womens hockey,minnesota
-669,Kelly Pannek,"Plymouth, Minn.",Benilde-St. Margaret's HS,womens hockey,minnesota
-670,Alex Woken,"Fargo, N.D.",Shattuck-St. Mary's,womens hockey,minnesota
-671,Emily Oden,"Edina, Minn.",Edina HS,womens hockey,minnesota
-672,Abigail Boreen,"Somerset, Wis.",Hill-Murray School,womens hockey,minnesota
-673,Olivia Knowles,"Campbell River, B.C.",Penticton Secondary,womens hockey,minnesota
-674,Nicole Schammel,"Red Wing, Minn.",Red Wing HS,womens hockey,minnesota
-675,Sarah Potomak,"Aldergrove, B.C.",George Elliot Secondary,womens hockey,minnesota
-676,Patti Marshall,"Thief River Falls, Minn.",Shattuck-St.Mary's,womens hockey,minnesota
-677,Taylor Wente,"Plymouth, Minn.",Maple Grove HS,womens hockey,minnesota
-678,Alex Gulstene,"Vancouver, B.C.",Penticton Secondary,womens hockey,minnesota
-679,Serena D'Angelo,"Stoney Creek, Ontario",Blyth Academy,womens hockey,minnesota
-680,Emma May,"Eagan, Minn.",Cretin-Derham Hall,womens hockey,minnesota
-681,Sydney Scobee,"Minnetrista, Minn.",Breck School,womens hockey,minnesota
+548,Savannah Spahr,"Brookfield, Wis.",Brookfield East,womens rowing,minnesota
+549,Natalie Steine,"Medina, Minn.",Wayzata H.S.,womens rowing,minnesota
+550,Natalie Stratton,"Williams Bay, Wis.",N/A,womens rowing,minnesota
+551,Elyse Terlion,"Muskego, Wis.",Muskego,womens rowing,minnesota
+552,Sophia Thuente,"St. Paul, Minn.",Cretin-Derham Hall,womens rowing,minnesota
+553,Gabrielle Tripps,"Wayzata, Minn.",Wayzata,womens rowing,minnesota
+554,Katie VanCamp,"Elk River, Minn.",Elk River,womens rowing,minnesota
+555,Sarah Von der Goltz,"Breisach, Germany",Martin-Schongauer-Gymnasium,womens rowing,minnesota
+556,Rylie Wargo,"Pulaski, Wis.",Pulaski,womens rowing,minnesota
+557,Brooke Watland,N/A,N/A,womens rowing,minnesota
+558,Sarah Weyrauch,"Bloomington, MN",Bloomington Jefferson,womens rowing,minnesota
+559,Melissa Wiebke,"Onalaska, Wis.",Onalaska,womens rowing,minnesota
+560,MaKenna Partain,"Banks, Ore.",Banks High School,softball,minnesota
+561,Carlie Brandt,"Le Sueur, Minn.",Le Sueur-Henderson High School,softball,minnesota
+562,Emma Burns,"Rapid City, S.D.",Stevens HS,softball,minnesota
+563,Rachel Lowary,"Grimes, Iowa",Dallas Center-Grimes,softball,minnesota
+564,Macy Gill,"Elkhart, Iowa",North Polk HS,softball,minnesota
+565,Hope Brandner,"Vacaville, Calif.",Vanden HS,softball,minnesota
+566,Katelyn Kemmetmueller,"Rogers, Minn.",Rogers High School,softball,minnesota
+567,Anne Miller,"Bloomington, Minn.",Jefferson High School,softball,minnesota
+568,Sydney Smith,"Maple Grove, Minn.",Maple Grove HS,softball,minnesota
+569,Amber Fiser,"Van Horne, Iowa",Benton Community HS,softball,minnesota
+570,Allie Arneson,"Aledo, Texas",Aledo High School,softball,minnesota
+571,Ellee Jensen,"Watertown, Wis.",Watertown HS,softball,minnesota
+572,Maddie Houlihan,"Plymouth, Minn.",Benilde St. Margaret's,softball,minnesota
+573,Kaylen Krueger,"Green Bay, Wis.",Green Bay Preble High School,softball,minnesota
+574,Taylor Chell,"Nowthen, Minn.",Anoka HS,softball,minnesota
+575,Kendyl Lindaman,"Ankeny, Iowa",Ankeny Centennial High School,softball,minnesota
+576,Natalie  DenHartog,"Hopkins, Minn.",Hopkins HS,softball,minnesota
+577,Emily Hansen,"Buffalo, Minn.",Buffalo HS,softball,minnesota
+578,Josey White,"Henderson, Nev.",Lake Mead Christian Academy,softball,minnesota
+579,Alexandra Thompson,"Howard Lake, Minn.",Howard Lake-Waverly-Winsted HS,softball,minnesota
+580,Ali Lindner,"Sioux Falls, S.D.",Harrisburg HS,softball,minnesota
+581,Hannah Bailey,"Vista, Calif.",Rancho Buena Vista HS,softball,minnesota
+582,Jasmyn Martin,"Brooklyn Park, Minn.",Hopkins,womens volleyball,minnesota
+583,Lauren Barnes,"Naperville, Ill.",Benet Academy,womens volleyball,minnesota
+584,Sara Nielsen,"Glen Ellyn, Ill.",Benet Academy,womens volleyball,minnesota
+585,Claire Sheehan,"Isanti, Minn.",Cambridge,womens volleyball,minnesota
+586,CC McGraw,"Prior Lake, Minn.",Prior Lake HS,womens volleyball,minnesota
+587,Alice Zeimann,"Christchurch, New Zealand",Burnside HS,womens volleyball,minnesota
+588,Sophie Beckley,"Seattle, Wash.",Bishop Blanchet HS,womens volleyball,minnesota
+589,Stephanie Samedy,"Clermont, Fla.",East Ridge,womens volleyball,minnesota
+590,Taylor Morgan,"Blaine, Minn.",Blaine HS,womens volleyball,minnesota
+591,Samantha Seliger-Swenson,"Minnetonka, Minn.",Hopkins HS,womens volleyball,minnesota
+592,Lauren Litzau,"Greendale, Wis.",Greendale HS,womens volleyball,minnesota
+593,Kayla Buford,"Canton, Mich.",Canton HS,womens volleyball,minnesota
+594,Bayley McMenimen,"Niceville, Florida",Niceville,womens volleyball,minnesota
+595,Paulina  Swider,"Lublin, Poland",Bydgoskich Olimpijczykow,womens volleyball,minnesota
+596,Alexis Hart,"Kansas City, Mo.",Truman HS,womens volleyball,minnesota
+597,Adanna Rollins,"Carrollton, Texas",Hebron,womens volleyball,minnesota
+598,Regan Pittman,"Spring Hill, Kansas",Saint Thomas Aquinas,womens volleyball,minnesota
+599,Rebecca  Rendahl,"San Marcos, Calif.",Murrieta Valley,womens volleyball,minnesota
+600,Tyler  Davis,"Kansas City, MO",Liberty High School,mens gymnastics,minnesota
+601,Colton Dee,"Nampa, Idaho",Skyview High School,mens gymnastics,minnesota
+602,Ben  Eyles,"Ames, IA",Ames Senior High School,mens gymnastics,minnesota
+603,Michael Harris,"West Allis, Wis.",Nathan Hale HS,mens gymnastics,minnesota
+604,Shaun Herzog,"Manchester, Conn.",Manchester HS,mens gymnastics,minnesota
+605,Russell Johnson,"Indianapolis, Ind.",Perry Meridian High School,mens gymnastics,minnesota
+606,Vitali Kan,"West Allis, Wis.",Nathan Hale HS,mens gymnastics,minnesota
+607,Justin Karstadt,"Toronto, Ont.",Silverthorn Collegiate Institute HS,mens gymnastics,minnesota
+608,Garrett  Kasiski,"Chesapeake, VA",Indian River High School,mens gymnastics,minnesota
+609,George Khoury,"Woodbury, Minn.",Hill Murray HS,mens gymnastics,minnesota
+610,Timmy Kutyla,"Wyckoff, NJ",Ramapo HS,mens gymnastics,minnesota
+611,Henry Meeker,"Minneapolis, Minn.",Southwest High School,mens gymnastics,minnesota
+612,Mike Moran,"Morristown, NJ",Morristown Senior High School,mens gymnastics,minnesota
+613,Eric Nakamura,"San Diego, CA",Westview High School,mens gymnastics,minnesota
+614,David Pochinka,"Plano, TX",Plano Senior High School,mens gymnastics,minnesota
+615,Jake Sawyer,"Highlands Ranch, CO",Mountain Vista High School,mens gymnastics,minnesota
+616,Matt Sullivan,"Aurora, IL",West Aurora High School,mens gymnastics,minnesota
+617,Ben Winkel,"Afton, Minn.",Stillwater Area HS,mens gymnastics,minnesota
+618,Shane Wiskus,"Spring Park, Minn.",Mound Westonka High School,mens gymnastics,minnesota
+619,Danny Yoon,"Huntington Beach, CA",Marina Senior High School,mens gymnastics,minnesota
+620,Casey Betts,"Chandler, Ariz.",Corona del Sol HS,womens gymnastics,minnesota
+621,Carson Cronin,"Medway, MA",Medway High School,womens gymnastics,minnesota
+622,Rachel Cutler,"Grand Rapids, Mich.",Northview HS,womens gymnastics,minnesota
+623,Kaitlyn Higgins,"Walworth, WI",Big Foot High School,womens gymnastics,minnesota
+624,Mary Korlin-Downs,"Lake Elmo, Minn.",Stillwater Area HS,womens gymnastics,minnesota
+625,Ona Loper,"Bluffton, S.C.",May River High School,womens gymnastics,minnesota
+626,Ivy Lu,"Montreal, Quebec",Antoine-de-Saint-Exupery,womens gymnastics,minnesota
+627,Lexi Montgomery,"The Colony, Texas",The Colony High School,womens gymnastics,minnesota
+628,Abbie Nylin,"Rogers, MN",Rogers High School,womens gymnastics,minnesota
+629,Kristen Quaglia,"Chanhassen, Minn.",Minnetonka HS,womens gymnastics,minnesota
+630,Lexy Ramler,"St. Michael, Minn.",Winona High School,womens gymnastics,minnesota
+631,Tiarre Sales,"Henderson, NV",Coronado High School,womens gymnastics,minnesota
+632,Ali Sonier,"Sussex, WI",Hamilton High School,womens gymnastics,minnesota
+633,Andrea Stancik,"West Chicago, IL",N/A,womens gymnastics,minnesota
+634,Becca Taylor,"Corcoran, Minn.",Homeschool,womens gymnastics,minnesota
+635,Selena Ung,"Oakdale, Minn.",Tartan HS,womens gymnastics,minnesota
+636,Paige Williams,"Wylie, Texas",Wylie HS,womens gymnastics,minnesota
+637,Hannah  Willmarth,"Boulder, Colo.",Fairview High School,womens gymnastics,minnesota
+638,Brock Kautz,"Rochester, Minn.",Rochester Century,mens hockey,minnesota
+639,Jack Sadek,"Lakeville, Minn.",Lakeville North,mens hockey,minnesota
+640,Robbie Stucker,"St. Paul, Minn.",St. Thomas Academy,mens hockey,minnesota
+641,Ben Brinkman,"Edina, Minn.",Edina,mens hockey,minnesota
+642,Matt Denman,"Prior Lake, Minn.",Prior Lake,mens hockey,minnesota
+643,Brannon McManus,"Newport Beach, Calif.",Shattuck-St. Mary's,mens hockey,minnesota
+644,Sammy Walker,"Edina, Minn.",Edina,mens hockey,minnesota
+645,Brent Gates Jr.,"Grand Rapids, Mich.",N/A,mens hockey,minnesota
+646,Joey Marooney,"Chaska, Minn.",Holy Family Catholic,mens hockey,minnesota
+647,Cullen Munson,"Edina, Minn.",Edina,mens hockey,minnesota
+648,Garrett Wait,"Edina, Minn.",Edina,mens hockey,minnesota
+649,Rem Pitlick,"Plymouth, Minn.",Shattuck-St. Mary's,mens hockey,minnesota
+650,Jack Ramsey,"Chanhassen, Minn.",Minnetonka,mens hockey,minnesota
+651,Tommy Novak,"River Falls, Wis.",St. Thomas Academy,mens hockey,minnesota
+652,Clayton Phillips,"Edina, Minn.",Edina,mens hockey,minnesota
+653,Scott Reedy,"Prior Lake, Minn.",Shattuck-St. Mary's,mens hockey,minnesota
+654,Ryan Zuhlsdorf,"Edina, Minn.",Edina,mens hockey,minnesota
+655,Nathan Burke,"Scottsdale, Ariz.",N/A,mens hockey,minnesota
+656,Tyler Sheehy,"Burnsville, Minn.",Burnsville,mens hockey,minnesota
+657,Ryan Norman,"Maplewood, Minn.",Shattuck-St. Mary's,mens hockey,minnesota
+658,Darian Romanko,"Shoreview, Minn.",Mounds View,mens hockey,minnesota
+659,Blake McLaughlin,"Grand Rapids, Minn.",Grand Rapids,mens hockey,minnesota
+660,Sam Rossini,"Burnsville, Minn.",Burnsville,mens hockey,minnesota
+661,Tyler Nanne,"Edina, Minn.",Edina,mens hockey,minnesota
+662,Eric Schierhorn,"Anchorage, Alaska",Shattuck-St. Mary's,mens hockey,minnesota
+663,Mat Robson,"Mississauga, Ont.",N/A,mens hockey,minnesota
+664,Sampo  Ranta,"Naantali, Finland",N/A,mens hockey,minnesota
+665,Emily Brown,"Blaine, Minn.",Blaine HS,womens hockey,minnesota
+666,Catie Skaja,"New Prague, Minn.",New Prague Senior HS,womens hockey,minnesota
+667,Tianna Gunderson,"Roseau, Minn.",Roseau HS,womens hockey,minnesota
+668,Sophie Skarzynski,"Lake Forest, Ill.",Loyola Academy,womens hockey,minnesota
+669,Gracie Ostertag,"Shakopee, Minn.",Shattuck-St. Mary’s,womens hockey,minnesota
+670,Taylor Williamson,"Edina, Minn.",Edina HS,womens hockey,minnesota
+671,Kippin Keller,"Minnetonka, Minn.",Minnetonka HS,womens hockey,minnesota
+672,Taylor Heise,"Lake City, Minn.",Red Wing HS,womens hockey,minnesota
+673,Grace Zumwinkle,"Excelsior, Minn.",Breck School,womens hockey,minnesota
+674,Crystalyn Hengler,"Eden Prairie, Minn.",Eden Prairie HS,womens hockey,minnesota
+675,Jackie Pieper,"Edina, Minn.",Edina HS,womens hockey,minnesota
+676,Amy Potomak,"Aldergrove, B.C.",George Elliot Secondary,womens hockey,minnesota
+677,Sierra Smith,"Stillwater, Minn.",Stillwater Area HS,womens hockey,minnesota
+678,Katie Robinson,"Kasson, Minn.",Kasson-Mantorville HS,womens hockey,minnesota
+679,Kelly Pannek,"Plymouth, Minn.",Benilde-St. Margaret's HS,womens hockey,minnesota
+680,Alex Woken,"Fargo, N.D.",Shattuck-St. Mary's,womens hockey,minnesota
+681,Emily Oden,"Edina, Minn.",Edina HS,womens hockey,minnesota
+682,Abigail Boreen,"Somerset, Wis.",Hill-Murray School,womens hockey,minnesota
+683,Olivia Knowles,"Campbell River, B.C.",Penticton Secondary,womens hockey,minnesota
+684,Nicole Schammel,"Red Wing, Minn.",Red Wing HS,womens hockey,minnesota
+685,Sarah Potomak,"Aldergrove, B.C.",George Elliot Secondary,womens hockey,minnesota
+686,Patti Marshall,"Thief River Falls, Minn.",Shattuck-St.Mary's,womens hockey,minnesota
+687,Taylor Wente,"Plymouth, Minn.",Maple Grove HS,womens hockey,minnesota
+688,Alex Gulstene,"Vancouver, B.C.",Penticton Secondary,womens hockey,minnesota
+689,Serena D'Angelo,"Stoney Creek, Ontario",Blyth Academy,womens hockey,minnesota
+690,Emma May,"Eagan, Minn.",Cretin-Derham Hall,womens hockey,minnesota
+691,Sydney Scobee,"Minnetrista, Minn.",Breck School,womens hockey,minnesota

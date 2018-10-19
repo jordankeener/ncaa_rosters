@@ -1,512 +1,529 @@
 ,name,hometown,high school?,sport,college
-0,Ronnie Suggs,"Washington, Mo.",Vermont Academy (Vt.),mens basketball,missouri
-1,Kassius Robertson,"Toronto, Ontario",Thornlea Secondary School,mens basketball,missouri
-2,Mitchell Smith,"Van Buren, Ark.",Van Buren HS,mens basketball,missouri
-3,Brett Rau,"Burlington, Ill.",Burlington Central HS,mens basketball,missouri
-4,Jontay Porter,"Columbia, Mo.",Nathan Hale HS (Wash.),mens basketball,missouri
-5,"Michael Porter, Jr.","Columbia, Mo.",Nathan Hale HS (Wash.),mens basketball,missouri
-6,Reed Nikko,"Maple Grove, Minn.",Maple Grove HS,mens basketball,missouri
-7,Jordan Geist,"Fort Wayne, Ind.",Homestead HS,mens basketball,missouri
-8,Jordan Barnett,"St. Louis, Mo.",Christian Brothers College HS,mens basketball,missouri
-9,Jeremiah Tilmon,"East St. Louis, Ill.",East St. Louis HS,mens basketball,missouri
-10,Kevin Puryear,"Blue Springs, Mo.",Blue Springs South HS,mens basketball,missouri
-11,Adam Wolf,"Beaver Dam, Wis.",Beaver Dam HS,mens basketball,missouri
-12,Cullen VanLeer,"Pacific, Mo.",Pacific HS,mens basketball,missouri
-13,Kelsey Winfrey,"Lebanon, Mo.",Lebanon,womens basketball,missouri
-14,Akira Levy,"Baxter, Tenn.",Upperman,womens basketball,missouri
-15,Sophie Cunningham,"Columbia, Mo.",Rock Bridge,womens basketball,missouri
-16,Lauren Aldridge,"Marshfield, Mo.",Marshfield,womens basketball,missouri
-17,Nadia Green,"Chicago, Ill.",Homewood-Flossmoor,womens basketball,missouri
-18,Haley Troup,"Gadsden, Ala.",Gadsden City,womens basketball,missouri
-19,Elle Brown,"Columbia, Mo.",Rock Bridge,womens basketball,missouri
-20,Hannah Schuchts,"Tallahassee, Fla.",Maclay,womens basketball,missouri
-21,Jordan Roundtree,"St. Louis, Mo.",Kirkwood,womens basketball,missouri
-22,Amber Smith,"Shreveport, La.",Loyola College Prep,womens basketball,missouri
-23,Jordan Chavis,"Lexington, N.C.",Central Davidson,womens basketball,missouri
-24,Emmanuelle Tahane,"Bondy, France",Marcelin Berthelot,womens basketball,missouri
-25,Grace Berg,"Indianola, Iowa",Indianola,womens basketball,missouri
-26,Brittany Garner,"Philadelphia, Pa.",Winslow Township,womens basketball,missouri
-27,Andy Toelken,"Green Cove Springs, Fla.",Clay,baseball,missouri
-28,Alex Samples,"Bridgeport, Texas",Bridgeport,baseball,missouri
-29,Brian Sharp,"Liberty, Mo.",Liberty North,baseball,missouri
-30,Brett Bond,"St. Louis, Mo.",Westminster,baseball,missouri
-31,Cade  Bormet,"San Antonio, Texas",Reagan,baseball,missouri
-32,Chris Cornelius,"St. Louis, Mo.",Vianney,baseball,missouri
-33,Connor Brumfield,"Columbia, Mo.",Rock Bridge,baseball,missouri
-34,Mark Vierling,"St. Louis, Mo.",Christian Brothers,baseball,missouri
-35,Matt Berler,"Hoover, Ala.",Spain Park,baseball,missouri
-36,Konnor Ash,"Plainfield, Ill.",Plainfield South,baseball,missouri
-37,Tyler LaPlante,"Blue Springs, Mo.",Pembroke Hill,baseball,missouri
-38,Michael Plassmeyer,"St. Louis, Mo.",DeSmet,baseball,missouri
-39,Ryan  Rickett,"Richmond, Texas",William B. Travis,baseball,missouri
-40,TJ Sikkema,"DeWitt, Iowa",Central Clinton,baseball,missouri
-41,Paul Gomez,"Orange, Calif.",El Modena,baseball,missouri
-42,Luke Anderson,"Prairie Village, Kan.",Shawnee Mission East,baseball,missouri
-43,Chad McDaniel,"Coral Springs, Fla.",Stoneman Douglas,baseball,missouri
-44,Ian Bedell,"Davenport, Iowa",Davenport Central,baseball,missouri
-45,Trey Harris,"Powder Springs, Ga.",McEachern,baseball,missouri
-46,Zach Diewert,"Chamainus, Britich Columbia",Chemainus Secondary School,baseball,missouri
-47,Nile Ball,"Decatur, Ga.",Whitfield Academy,baseball,missouri
-48,Trevor Mallett,"Torrance, Calif.",West,baseball,missouri
-49,Nolan Gromacki,"Smithville, Mo.",Smithville High School,baseball,missouri
-50,Tony Ortiz,"Olympia, Wash.",Timberline,baseball,missouri
-51,Kameron Misner,"Poplar Bluff, Mo.",Poplar Bluff,baseball,missouri
-52,Giovanni Lopez,"Goodyear, Ariz.",Millennium,baseball,missouri
-53,Isaiah  Cullum,"Bushnell, Fla",South Sumter,baseball,missouri
-54,Cameron Dulle,"St. Louis, Mo.",Oakville,baseball,missouri
-55,Drake Greenwood,"Houston, Texas",The Kinkaid,baseball,missouri
-56,Cody Siebenberger,"Smithton, Ill.",Freeburg Community,baseball,missouri
-57,Brad Jones,"Osprey, Fla.",Venice,baseball,missouri
-58,Cameron  Pferrer,"Carmel, Ind.",Carmel,baseball,missouri
-59,Bryce Montes De Oca,"Lawrence, Kan.",Lawrence,baseball,missouri
-60,Zach Hanna,"Shawnee, Kan.",Mill Valley,baseball,missouri
+0,Torrence Watson,"St. Louis, Mo.",Whitfield School,mens basketball,missouri
+1,Xavier Pinson,"Chicago, Ill.",Simeon Academy,mens basketball,missouri
+2,K.J. Santos,"Geneva, Ill.",Sunrise Christian Academy,mens basketball,missouri
+3,Ronnie Suggs,"Washington, Mo.",Vermont Academy (Vt.),mens basketball,missouri
+4,Javon Pickett,"Belleville, Ill.",Belleville East HS,mens basketball,missouri
+5,Mitchell Smith,"Van Buren, Ark.",Van Buren HS,mens basketball,missouri
+6,Evan Yerkes,"Tinley Park, Ill.",Andrew High School,mens basketball,missouri
+7,Jontay Porter,"Columbia, Mo.",Nathan Hale HS (Wash.),mens basketball,missouri
+8,Dru Smith,"Evansville, Ind.",Evansville Reitz HS,mens basketball,missouri
+9,Mark Smith,"Edwardsville, Ill.",Edwardsville HS,mens basketball,missouri
+10,Reed Nikko,"Maple Grove, Minn.",Maple Grove HS,mens basketball,missouri
+11,Jordan Geist,"Fort Wayne, Ind.",Homestead HS,mens basketball,missouri
+12,Jeremiah Tilmon,"East St. Louis, Ill.",East St. Louis HS,mens basketball,missouri
+13,Kevin Puryear,"Blue Springs, Mo.",Blue Springs South HS,mens basketball,missouri
+14,Brooks Ford,"St. Louis, Mo.",De Smet HS,mens basketball,missouri
+15,Adam Wolf,"Beaver Dam, Wis.",Beaver Dam HS,mens basketball,missouri
+16,Cullen VanLeer,"Pacific, Mo.",Pacific HS,mens basketball,missouri
+17,Parker Braun,"Overland Park, Kan.",Blue Valley Northwest HS,mens basketball,missouri
+18,Christian Guess,"Cleveland, Ohio",Shaker Heights,mens basketball,missouri
+19,Kelsey Winfrey,"Lebanon, Mo.",Lebanon,womens basketball,missouri
+20,Akira Levy,"Baxter, Tenn.",Upperman,womens basketball,missouri
+21,Sophie Cunningham,"Columbia, Mo.",Rock Bridge,womens basketball,missouri
+22,Lauren Aldridge,"Marshfield, Mo.",Marshfield,womens basketball,missouri
+23,Nadia Green,"Chicago, Ill.",Homewood-Flossmoor,womens basketball,missouri
+24,Haley Troup,"Gadsden, Ala.",Gadsden City,womens basketball,missouri
+25,Elle Brown,"Columbia, Mo.",Rock Bridge,womens basketball,missouri
+26,Hannah Schuchts,"Tallahassee, Fla.",Maclay,womens basketball,missouri
+27,Jordan Roundtree,"St. Louis, Mo.",Kirkwood,womens basketball,missouri
+28,Amber Smith,"Shreveport, La.",Loyola College Prep,womens basketball,missouri
+29,Jordan Chavis,"Lexington, N.C.",Central Davidson,womens basketball,missouri
+30,Emmanuelle Tahane,"Bondy, France",Marcelin Berthelot,womens basketball,missouri
+31,Grace Berg,"Indianola, Iowa",Indianola,womens basketball,missouri
+32,Brittany Garner,"Philadelphia, Pa.",Winslow Township,womens basketball,missouri
+33,Andy Toelken,"Green Cove Springs, Fla.",Clay,baseball,missouri
+34,Alex Samples,"Bridgeport, Texas",Bridgeport,baseball,missouri
+35,Brian Sharp,"Liberty, Mo.",Liberty North,baseball,missouri
+36,Brett Bond,"St. Louis, Mo.",Westminster,baseball,missouri
+37,Cade  Bormet,"San Antonio, Texas",Reagan,baseball,missouri
+38,Chris Cornelius,"St. Louis, Mo.",Vianney,baseball,missouri
+39,Connor Brumfield,"Columbia, Mo.",Rock Bridge,baseball,missouri
+40,Mark Vierling,"St. Louis, Mo.",Christian Brothers,baseball,missouri
+41,Matt Berler,"Hoover, Ala.",Spain Park,baseball,missouri
+42,Konnor Ash,"Plainfield, Ill.",Plainfield South,baseball,missouri
+43,Tyler LaPlante,"Blue Springs, Mo.",Pembroke Hill,baseball,missouri
+44,Michael Plassmeyer,"St. Louis, Mo.",DeSmet,baseball,missouri
+45,TJ Sikkema,"DeWitt, Iowa",Central Clinton,baseball,missouri
+46,Paul Gomez,"Orange, Calif.",El Modena,baseball,missouri
+47,Luke Anderson,"Prairie Village, Kan.",Shawnee Mission East,baseball,missouri
+48,Chad McDaniel,"Coral Springs, Fla.",Stoneman Douglas,baseball,missouri
+49,Ian Bedell,"Davenport, Iowa",Davenport Central,baseball,missouri
+50,Trey Harris,"Powder Springs, Ga.",McEachern,baseball,missouri
+51,Trevor Mallett,"Torrance, Calif.",West,baseball,missouri
+52,Nolan Gromacki,"Smithville, Mo.",Smithville High School,baseball,missouri
+53,Tony Ortiz,"Olympia, Wash.",Timberline,baseball,missouri
+54,Kameron Misner,"Poplar Bluff, Mo.",Poplar Bluff,baseball,missouri
+55,Giovanni Lopez,"Goodyear, Ariz.",Millennium,baseball,missouri
+56,Cameron Dulle,"St. Louis, Mo.",Oakville,baseball,missouri
+57,Cameron  Pferrer,"Carmel, Ind.",Carmel,baseball,missouri
+58,Bryce Montes De Oca,"Lawrence, Kan.",Lawrence,baseball,missouri
+59,Zach Hanna,"Shawnee, Kan.",Mill Valley,baseball,missouri
+60,Josh Konecek,"Chesterfield, Mo.",Parkway Central,baseball,missouri
 61,Jordan Gubelman,"Sarasota, Fla.",Sarasota,baseball,missouri
-62,Tyrone Collins,"Bradenton, Fla.",Braden River,football,missouri
-63,DeMarkus Acy,"Dallas, Texas",Wilmer-Hutchins,football,missouri
-64,Micah Wilson,"Tulsa, Okla.",Lincoln Christian,football,missouri
-65,Drew Lock,"Lee's Summit, Mo.",Lee's Summit,football,missouri
-66,Ronnell Perkins,"St. Louis, Mo.",University City,football,missouri
-67,Brandon Lee,"Indianapolis, Ind.",Lawrence Central,football,missouri
-68,Isaiah Miller,"Baldwin, Fla.",Baldwin,football,missouri
-69,"Terry Beckner, Jr.","East St. Louis, Ill.",East St. Louis,football,missouri
-70,Taylor Powell,"Fayetteville, Ark.",Fayetteville,football,missouri
-71,Tyler Badie,"Memphis, Tenn.",Briarcrest Christian,football,missouri
+62,Graham Ruopp,"Cape Girardeau, Mo.",Cape Notre Dame,baseball,missouri
+63,Tyler Badie,"Parks, Recreation & Sport","Memphis, Tenn.",football,missouri
+64,Tyrone Collins,"Bradenton, Fla.",Braden River,football,missouri
+65,DeMarkus Acy,"Parks, Recreation & Tourism","Dallas, Texas",football,missouri
+66,Micah Wilson,"Undeclared, Business or Accountancy","Tulsa, Okla.",football,missouri
+67,Drew Lock,"Parks, Recreation & Tourism","Lee's Summit, Mo.",football,missouri
+68,Ronnell Perkins,"St. Louis, Mo.",University City,football,missouri
+69,Brandon Lee,"Indianapolis, Ind.",Lawrence Central,football,missouri
+70,"Terry Beckner, Jr.","East St. Louis, Ill.",East St. Louis,football,missouri
+71,Taylor Powell,"Fayetteville, Ark.",Fayetteville,football,missouri
 72,Tavon Ross,"Cochran, Ga.",Bleckley County,football,missouri
-73,Nate Brown,"Suwanee, Ga.",North Gwinnett,football,missouri
-74,Cam Hilton,"St. Louis, Mo.",Webster Groves,football,missouri
-75,Kam Scott,"Manvel, Texas",Manvel,football,missouri
+73,Khmari Thompson,"Lawrenceville, Ga.",Central Gwinnett,football,missouri
+74,Nate Brown,"Suwanee, Ga.",North Gwinnett,football,missouri
+75,Cam Hilton,"St. Louis, Mo.",Webster Groves,football,missouri
 76,Justin Smith,"Dublin, Ga.",West Laurens,football,missouri
 77,Jarvis Ware,"Apopka, Fla.",Wekiva,football,missouri
-78,Jalen Knox,"Mansfield, Texas",Timberview,football,missouri
-79,Tyree Gillespie,"Ocala, Fla.",Vanguard,football,missouri
-80,Alex Ofodile,"Columbia, Mo.",Rock Bridge,football,missouri
+78,Tyree Gillespie,"Ocala, Fla.",Vanguard,football,missouri
+79,Jalen Knox,"Parks, Recreation & Sport","Mansfield, Texas",football,missouri
+80,Alex Ofodile,"Master's, Educational & Counseling Psychology","Columbia, Mo.",football,missouri
 81,Terry Petry,"Missouri City, Texas",Ridge Point,football,missouri
-82,Kendall Blanton,"Blue Springs, Mo.",Blue Springs South,football,missouri
+82,Kendall Blanton,"Parks, Recreation & Tourism","Blue Springs, Mo.",football,missouri
 83,Jordan Ulmer,"Belleville, Mich.",Belleville,football,missouri
 84,Johnathon Johnson,"Memphis, Tenn.",Melrose,football,missouri
 85,Rashad Brandon,"Jersey City, N.J.",St. Anthony's,football,missouri
-86,Khmari Thompson,"Lawrenceville, Ga.",Central Gwinnett,football,missouri
+86,Kam Scott,"Parks, Recreation & Sport","Manvel, Texas",football,missouri
 87,Dominic Gicinto,"Raytown, Mo.",Raytown,football,missouri
 88,Adam Sparks,"Baton Rouge, La.",Dutchtown,football,missouri
-89,Trajan Jeffcoat,"Columbia, S.C.",Irmo,football,missouri
+89,Trajan Jeffcoat,"Undeclared, Business or Accountancy","Columbia, S.C.",football,missouri
 90,Dominic Nelson,"Florissant, Mo.",Florissant,football,missouri
-91,Damarea Crockett,"Little Rock, Ark.",Christian,football,missouri
+91,Damarea Crockett,"Parks, Recreation & Sport","Little Rock, Ark.",football,missouri
 92,"Gerald Nathan, Jr.","Charlotte, N.C.",Vance,football,missouri
 93,Richaud Floyd,"Gulfport, Miss.",Gulfport,football,missouri
 94,Chris Mills,"Converse, Texas",Judson,football,missouri
-95,Joshuah Bledsoe,"Houston, Texas",Dekaney,football,missouri
+95,Joshuah Bledsoe,"Parks, Recreation and Sport","Houston, Texas",football,missouri
 96,"Lindsey Scott, Jr.","Zachary, La.",Zachary,football,missouri
-97,Jack Lowary,"Huntington Beach, Calif.",Mater Dei,football,missouri
+97,Jack Lowary,"Parks, Recreation & Sport","Huntington Beach, Calif.",football,missouri
 98,Tucker McCann,"O'Fallon, Ill.",O'Fallon,football,missouri
 99,Simi Bakare,"Round Rock, Texas",Cedar Ridge,football,missouri
-100,Khalil Oliver,"Meridian, Ida.",Rocky Mountain,football,missouri
+100,Khalil Oliver,"Master's, Public Health","Meridian, Ida.",football,missouri
 101,Christian Holmes,"Leland, Miss.",McNair,football,missouri
-102,Dawson Downing,"Mission, Kan.",Bishop Miege,football,missouri
-103,"Aubrey Miller, Jr.","Memphis, Tenn.",Whitehaven,football,missouri
-104,Kentrell Barber,"Atlanta, Ga.",Carver,football,missouri
-105,Terez Hall,"Lithonia, Ga.",King,football,missouri
-106,Jamal Brooks,"Bessemer, Ala.",Bessemer City,football,missouri
-107,Corey Fatony,"Franklin, Tenn.",Franklin,football,missouri
-108,Jatorian Hansford,"Forsyth, Ga.",Mary Persons,football,missouri
-109,Steven Spadarotto,"Santa Maria, Calif.",Righetti,football,missouri
-110,Nate Anderson,"Toronto, Ontario",Prattville (Ala.),football,missouri
-111,Barrett Banister,"Fayetteville, Ark.",Fayetteville,football,missouri
-112,Zion Sales,"Southlake, Texas",Carroll,football,missouri
-113,Finis Stribling IV,"Thompson's Station, Tenn.",Independence,football,missouri
-114,Nick Bolton,"Frisco, Texas",Lone Star,football,missouri
-115,Chad Bailey,"Missouri City, Texas",Ridge Point,football,missouri
-116,Larry Rountree III,"Raleigh, N.C.",Millbrook,football,missouri
-117,Mason Pack,"Springfield, Mo.",Kickapoo,football,missouri
-118,Daniel Ellinger,"Jefferson City, Mo.",Jefferson City,football,missouri
+102,"Aubrey Miller, Jr.","Parks, Recreation & Sport","Memphis, Tenn.",football,missouri
+103,Kentrell Barber,"Atlanta, Ga.",Carver,football,missouri
+104,Terez Hall,"Lithonia, Ga.",King,football,missouri
+105,Jamal Brooks,"Bessemer, Ala.",Bessemer City,football,missouri
+106,Corey Fatony,"Franklin, Tenn.",Franklin,football,missouri
+107,Dawson Downing,"Mission, Kan.",Bishop Miege,football,missouri
+108,Jatorian Hansford,"Undeclared, Business or Accountancy","Forsyth, Ga.",football,missouri
+109,Nate Anderson,"Toronto, Ontario",Prattville (Ala.),football,missouri
+110,Barrett Banister,"Parks, Recreation & Sport","Fayetteville, Ark.",football,missouri
+111,Zion Sales,"Undeclared, Business or Accountancy","Southlake, Texas",football,missouri
+112,Finis Stribling IV,"Thompson's Station, Tenn.",Independence,football,missouri
+113,Nick Bolton,"Frisco, Texas",Lone Star,football,missouri
+114,Chad Bailey,"Missouri City, Texas",Ridge Point,football,missouri
+115,Larry Rountree III,"Raleigh, N.C.",Millbrook,football,missouri
+116,Mason Pack,"Undeclared, Business or Accountancy","Springfield, Mo.",football,missouri
+117,Daniel Ellinger,"Jefferson City, Mo.",Jefferson City,football,missouri
+118,Bryson Clayton,"Columbia, Mo.",Rock Bridge,football,missouri
 119,Chris Turner,"Hammond, La.",Hammond,football,missouri
-120,Cameron Wilkins,"Del Valle, Texas",Del Valle,football,missouri
-121,Chance May,"Kansas City, Mo.",Rockhurst,football,missouri
-122,Jerney Jones,"Republic, Mo.",Republic,football,missouri
+120,Cameron Wilkins,"Undeclared, Business or Accountancy","Del Valle, Texas",football,missouri
+121,Chance May,"Undeclared, Business or Accountancy","Kansas City, Mo.",football,missouri
+122,Jerney Jones,"Undeclared, Business or Accountancy","Republic, Mo.",football,missouri
 123,Franklin Agbasimere,"Lagos, Nigeria",Montverde Academy,football,missouri
 124,Jacob Trump,"Kahoka, Mo.",Clark County,football,missouri
 125,Cale Garrett,"Kearney, Mo.",Kearney,football,missouri
 126,Roderick Winters,"Arlington, Texas",Bowie,football,missouri
-127,Alec Pierce,"Visalia, Calif.",El Diamante,football,missouri
+127,Jake Hoffman,"Kearney, Mo.",Kearney,football,missouri
 128,Hyrin White,"DeSoto, Texas",DeSoto,football,missouri
 129,Drew Wise,"Lawrence, Kan.",Free State,football,missouri
-130,Daniel Parker,"Blue Springs, Mo.",Blue Springs,football,missouri
+130,Steven Hardy,"Raytown, Mo.",South,football,missouri
 131,Joe Hoy,"Wauconda, Ill",Carmel Catholic,football,missouri
 132,Joe Britton,"Rogers, Ark.",Bentonville,football,missouri
-133,Trystan Colon-Castillo,"Webb City, Mo.",Webb City,football,missouri
-134,Samson Bailey,"Lamar, Mo.",Lamar,football,missouri
-135,Jairan Parker,"Houston, Texas",St. Thomas,football,missouri
-136,Noah Robinson,"Worcester, Mass.",Dougherty Memorial HS/Atlanta Sports Academy,football,missouri
-137,Case Cook,"Carrollton, Ga.",Carrollton,football,missouri
-138,Thomas Grossman,"St. Louis, Mo.",Chaminade,football,missouri
-139,Bobby Lawrence,"St. Joseph, Mo.",Central,football,missouri
-140,Jonah Dubinski,"Columbia, Mo.",Rock Bridge,football,missouri
-141,AJ  Harris,"Stilwell, Kan.",Blue Valley,football,missouri
-142,Yasir Durant,"Philadelphia, Pa.",Imhotep,football,missouri
-143,Kevin Pendleton,"Lee's Summit, Mo.",Lee's Summit West,football,missouri
-144,Xavier Delgado,"Glendale, Ariz.",Deer Valley,football,missouri
-145,Caleb Sampson,"Covington, La.",Northlake Christian,football,missouri
-146,Mike Ruth,"Coppell, Texas",Coppell,football,missouri
-147,Tre'Vour Wallace-Simms,"East St. Louis, Ill.",East St. Louis,football,missouri
-148,Javon Foster,"West Bloomfield, Mich.",West Bloomfield,football,missouri
-149,Paul Adams,"Nashville, Tenn.",Christ Presbyterian,football,missouri
-150,Kobie Whiteside,"Houston, Texas",Alief Taylor,football,missouri
-151,Larry Borom,"Bloomfield Hills, Mich.",Brother Rice,football,missouri
-152,Messiah Swinson,"Glen Head, N.Y.",Lutheran,football,missouri
-153,Albert Okwuegbunam,"Springfield, Ill.",Sacred Heart Griffin,football,missouri
-154,Harry Ballard III,"Florissant, Mo.",McCluer North,football,missouri
-155,Emanuel  Hall,"Franklin, Tenn.",Centennial,football,missouri
-156,Chritauskie Dove,"Denton, Texas",Ryan,football,missouri
-157,James Workman,"Renton, Wash.",Liberty,football,missouri
-158,Logan Christopherson,"Lemont, Ill.",Lemont,football,missouri
-159,Chris Williams,"Columbia, Mo.",Rock Bridge,football,missouri
-160,Brendan Scales,"Wildwood, Mo.",Lafayette,football,missouri
-161,Sean Koetting,"Columbia, Mo.",Rock Bridge,football,missouri
-162,Markell Utsey,"Little Rock, Ark.",Parkview,football,missouri
-163,Macaulay Keevins,"Columbia, Mo.",Hickman,football,missouri
-164,Tre Williams,"Columbia, Mo.",Rock Bridge,football,missouri
-165,Tyrell Jacobs,"Kenner, La.",Rummel,football,missouri
-166,Jordan Elliott,"Missouri City, Texas",Westside,football,missouri
-167,Antar Thompson,"St. Louis, Mo.",Richmond Heights,football,missouri
-168,Akial Byers,"Fayetteville, Ark.",Fayetteville,football,missouri
-169,Myles Eaddy,"Plantation, Fla.",American Heritage,football,missouri
-170,Walter Palmore,"Columbus, Ga.",Hardaway,football,missouri
-171,Peyton Bauman,"Flower Mound, Texas",Marcus,womens soccer,missouri
-172,Kelsey Dossey,"Plainfield, Ind.",Avon,womens soccer,missouri
-173,Bella Alessi,"Fort Collins, Colo.",Fossil Ridge,womens soccer,missouri
-174,Grace Kitts,"Leawood, Kan.",St. Teresa's Academy,womens soccer,missouri
-175,Anna Frick,"Webster Groves, Mo.",Nerinx Hall,womens soccer,missouri
-176,Blythe Beldner,"Wildwood, Mo.",Eureka,womens soccer,missouri
-177,Cassidy Nurnberger,"New Haven, Mo.",Washington,womens soccer,missouri
-178,Bethany Coons,"Union, Mo.",Union,womens soccer,missouri
-179,Zoe Cross,"Pease Pottage, England",The Holy Trinity School,womens soccer,missouri
-180,Lindsey Whitmore,"Henderson, Nev.",Coronado,womens soccer,missouri
-181,Keiarra Slack,"Stuart, Fla.",The Benjamin School,womens soccer,missouri
-182,Rachel Hise,"Lucas, Texas",Lovejoy,womens soccer,missouri
-183,Julissa Cisneros,"Moreno Valley, Calif.",Rancho Verde,womens soccer,missouri
-184,Peyton Joseph,"Highlands Ranch, Colo.",Mountain Vista,womens soccer,missouri
-185,Sarah Luebbert,"Jefferson City, Mo.",Jefferson City,womens soccer,missouri
-186,Ariela Beharry,"Coral Springs, Fla.",Cardinal Gibbons,womens soccer,missouri
-187,Macy Trujillo,"Kansas City, Mo.",St. Teresa's Academy,womens soccer,missouri
-188,Hailey Blanchard,"Frankfort, Ill.",Lincoln Way East,womens soccer,missouri
-189,Skye Kingsley,"Naperville, Ill.",Neuqua Valley,womens soccer,missouri
-190,Izzy Coulter,"Niceville, Fla.",Niceville,womens soccer,missouri
-191,Morcquess Oliphant,"Frisco, Texas",Frisco,womens soccer,missouri
-192,Lauren Gaston,"Los Angeles, Calif.",Pacifica Christian,womens soccer,missouri
-193,Madison Lewis,"Zionsville, Ind.",Zionsville,womens soccer,missouri
-194,Momola Adesanmi,"Sugar Land, Texas",Travis,womens soccer,missouri
-195,Mercedes Sapp,"Windermere, Fla.",Lake Highland Preparatory School,womens soccer,missouri
-196,Chris Conrad,"O'Fallon, Ill.",O'Fallon Township HS,mens cross country,missouri
-197,Zach Cook,"Columbia, Mo.",Rock Bridge HS,mens cross country,missouri
-198,Marc Dubrick,"DeKalb, Ill.",DeKalb HS,mens cross country,missouri
-199,Thomas George,"Gloucester, England",Marling School,mens cross country,missouri
-200,Ben Goodman,"Colorado Springs, Colo.",Palmer HS,mens cross country,missouri
-201,Austin Hindman,"Wildwood, Mo.",Lafayette HS,mens cross country,missouri
-202,Patrick Kearns,"New York City, NY",Fiorello H. LaGuardia HS,mens cross country,missouri
-203,Sheldon Keence,"St. Charles, Mo.",St. Charles West HS,mens cross country,missouri
-204,Alfred Kimaiyo,N/A,N/A,mens cross country,missouri
-205,Robert Kuhlmann,"Lake Villa, Ill.",Lakes Community HS,mens cross country,missouri
-206,Justin Loquercio,"Mt. Prospect, Ill.",Wheeling HS,mens cross country,missouri
-207,Stephen Mugeche,"Blue Springs, Mo.",Blue Springs HS,mens cross country,missouri
-208,Dylan Quisenberry,"Wildwood, Mo.",Lafayette HS,mens cross country,missouri
-209,Evan Schulte,"Columbia, Mo.",Rock Bridge HS,mens cross country,missouri
-210,Jacob Schweiss,"St. Louis, Mo.",Festus HS,mens cross country,missouri
-211,Eric Scott,N/A,N/A,mens cross country,missouri
-212,Taylor Stephen,"Nixa, Mo.",Nixa HS,mens cross country,missouri
-213,Michael Widmann,"Naperville, Ill.",Neuqua Valley HS,mens cross country,missouri
-214,Cain Winebrenner,"Kansas City, Mo.",Park Hill HS,mens cross country,missouri
-215,Ellyn Atkinson,"Springfield, Mo.",Glendale HS,womens cross country,missouri
-216,Richelle Bain,"St. Louis, Mo.",Parkway Central HS,womens cross country,missouri
-217,Kaelyn Balch,"Wichita, Kan.",Bishop Carroll Catholic HS,womens cross country,missouri
-218,Shannon Browning,"Burke, Va.",Lake Braddock HS,womens cross country,missouri
-219,Megan Cunningham,"Eureka, Mo.",Eureka HS,womens cross country,missouri
-220,Kiley Deain,"Peculiar, Mo.",Raymore-Peculiar HS,womens cross country,missouri
-221,Elly DeTurris,"Naperville, Ill.",Naperville North HS,womens cross country,missouri
-222,Samantha Farmer,"Columbia, Mo.",Rock Bridge HS,womens cross country,missouri
-223,Kaitlyn Fischer,"Pevely, Mo.",Herculaneum HS,womens cross country,missouri
-224,Susan Forbis,"Lewisville, Texas",Lewisville HS,womens cross country,missouri
-225,Kayla Funkenbusch,"Columbia, Mo.",Rock Bridge HS,womens cross country,missouri
-226,Kayla Glowacki,"Naperville, Ill.",Naperville HS,womens cross country,missouri
-227,Michaela Hackbarth,"Downers Grove, Ill.",Downers Grove HS,womens cross country,missouri
-228,Emmie Hahn,"Homer Glen, Ill.",Lockport Township HS,womens cross country,missouri
-229,Valeska Halamicek,"Weldon Spring, Mo.",Francis Howell HS,womens cross country,missouri
-230,Vivien Jepkemoi,N/A,N/A,womens cross country,missouri
-231,Jamie Kempfer,"Festus, Mo.",Festus HS,womens cross country,missouri
-232,Jordyn Kleve,"Urbandale, Iowa",Johnston HS,womens cross country,missouri
-233,Karina Liz,"Aurora, Ill.",Aurora Central Catholic HS,womens cross country,missouri
-234,Jenna Lutzow,"Poplar Grove, Ill.",Belvidere North HS,womens cross country,missouri
-235,Lexi Maddox,"Riverside, Mo.",Park Hill South HS,womens cross country,missouri
-236,Rachael Marlar,"Stigler, Okla.",Eufaula HS,womens cross country,missouri
-237,Melissa Menghini,"Fenton, Mo.",Rockwood Summit HS,womens cross country,missouri
-238,Sophia Racette,"St. Louis, Mo.",Nerinx Hall HS,womens cross country,missouri
-239,Erica Rideout,"Chatham, Ill.",N/A,womens cross country,missouri
-240,Karissa Schweizer,"Urbandale, Iowa",Dowling Catholic HS,womens cross country,missouri
-241,Faramola Shonekan,"Columbia, Mo.",Rock Bridge HS,womens cross country,missouri
-242,Kate Smith,"Ankeny, Iowa",Ankeny Centennial HS,womens cross country,missouri
-243,Rachel Taylor,"Portland, Maine",N/A,womens cross country,missouri
-244,Hannah Thomas,"Urbandale, Iowa",Dowling Catholic HS,womens cross country,missouri
-245,Carolyn White,"Festus, Mo.",Festus HS,womens cross country,missouri
-246,Amanda Wood,"Valley Park, Mo.",Parkway South,womens cross country,missouri
-247,Sara Young,"Bristol, Minn.",N/A,womens cross country,missouri
-248,Matt Echelmeier,"Columbia, Mo.",Rock Bridge High School,mens golf,missouri
-249,Luigi Botta,"Cuneo, Italy",G. Peano Cuneo,mens golf,missouri
-250,Hayden Buckley,"Belden, Miss.",Tupelo,mens golf,missouri
-251,Trevor Ullestad,"Jewell, Iowa",South Hamilton High School,mens golf,missouri
-252,Jamie Stewart,"Renfrewshire, Scotland",Renfrewshire,mens golf,missouri
-253,Rory Franssen,"Inverness, Scotland",Inverness,mens golf,missouri
-254,Jack Parker,"Columbia, Mo.",Father Tolton Catholic HS,mens golf,missouri
-255,Emma Allen,"Southampton, England",Wildern School Southampton,womens golf,missouri
-256,Julia Bower,"Columbia, Mo.",Rock Bridge,womens golf,missouri
-257,Marit Harryvan,"Winschoten, Netherlands",Dollard,womens golf,missouri
-258,Cayce Hendrickson,"Benton, Ky.",Marshall County,womens golf,missouri
-259,Amanda Kim,"O'Fallon, Mo.",Fort Zumwalt South,womens golf,missouri
-260,Cherise Otter,"Bloomington, Ind.",South,womens golf,missouri
-261,Mackenzie Perez,"Rancho Palos Verdes, Calif.",Palos Verdes,womens golf,missouri
-262,Clara Young,"North Berwick, Scotland",North Berwick,womens golf,missouri
-263,Jessica Yuen,"Bolingbrook, Ill.",Neuqua Valley,womens golf,missouri
-264,Nick Alexander,"St. Louis, Mo.",Saint John Vianney,mens swimming,missouri
-265,Anthony Ashley,"Houston, Texas",Strake Jesuit,mens swimming,missouri
-266,Garrett Clasen,"Aurora, Ill.",N/A,mens swimming,missouri
-267,Sam Coffman,"Centennial, Colo.",Cherry Creek,mens swimming,missouri
-268,Matthew Connealy,"Austin, Texas",Lake Travis,mens swimming,missouri
-269,Jack Dahlgren,"Victoria, Minn.",N/A,mens swimming,missouri
-270,Jack Dubois,"Alpharetta, Ga.",N/A,mens swimming,missouri
-271,Dane Florea,"Columbia, Mo.",N/A,mens swimming,missouri
-272,Ryan Geheb,"Harland, Mich.",Lake Travis (Texas),mens swimming,missouri
-273,Kyle Goodwin,"Aurora, Colo.",Regis Jesuit,mens swimming,missouri
-274,Will Gottsch,"Elkhorn, Neb.",Elkhorn,mens swimming,missouri
-275,Carter Grimes,"Las Vegas, Nev.",Connections Academy,mens swimming,missouri
-276,Giovanni Gutierrez Lozano,"Lima, Peru",N/A,mens swimming,missouri
-277,Daniel Hein,"Sycamore, Ill.",DeKalb-Sycamore,mens swimming,missouri
-278,Caleb Hicks,"Colorado Springs, Colo.",Homeschooled,mens swimming,missouri
-279,Aidan Keen,"Iowa City, Iowa",West,mens swimming,missouri
-280,Jackson Kent,"Huntertown, Ind.",Carroll,mens swimming,missouri
-281,Ike Khamis,"Richmond, Ind.",N/A,mens swimming,missouri
-282,Danny Kovac,"Fort Collins, Colo.",N/A,mens swimming,missouri
-283,Andy Kreiter,"Beaverton, Ore.",Southridge,mens swimming,missouri
-284,Kyle Leach,"Colorado Springs, Colo.",N/A,mens swimming,missouri
-285,Giovanny Lima,"Sao Paulo, Brazil",N/A,mens swimming,missouri
-286,Peter Lucido,"St. Charles, Mo.",Francis Howell North,mens swimming,missouri
-287,Luke Mankus,"Keller, Texas",Keller,mens swimming,missouri
-288,Alex Moore,"Newport News, Va.",Menchville,mens swimming,missouri
-289,Jordan O'Brien,"Naperville, Ill.",Metea Valley,mens swimming,missouri
-290,Grant Reed,"Austin, Texas",Stephen F. Austin HS,mens swimming,missouri
-291,Caleb Rhodenbaugh,"Columbia, Mo.",Rock Bridge,mens swimming,missouri
-292,Griffin Schaetzle,"Erie, Pa.",Mercyhurst Prep,mens swimming,missouri
-293,Mikel Schreuders,"Oranjestad, Aruba",Colegio Arubano,mens swimming,missouri
-294,Micah Slaton,"Austin, Texas",Dripping Springs,mens swimming,missouri
-295,Nick Staver,"Bettendorf, Iowa",Pleasant Valley,mens swimming,missouri
-296,Alex Walton,"Wilton, Iowa",Wilton,mens swimming,missouri
-297,Jacob Wielinski,"Mounds View, Minn.",North Dakota,mens swimming,missouri
-298,Azra Avdic,"Skokie, Ill.",Niles North,womens swimming,missouri
-299,Allison Bloebaum,"Mason, Ohio",William Mason,womens swimming,missouri
-300,Amber Brickey,"Seminole, Fla.",Osceola Fundamental,womens swimming,missouri
-301,Tally Brown,"State College, Pa.",State College Area High School,womens swimming,missouri
-302,Caitlin Clements,"Magnolia, Texas",Magnolia,womens swimming,missouri
-303,Payton Conrad,"Omaha, Neb.",Elkhorn South,womens swimming,missouri
-304,Kylie Dahlgren,"Victoria, Minn.",Chanhassen,womens swimming,missouri
-305,Anna Davis,"Chesterfield, Mo.",Marquette HS,womens swimming,missouri
-306,Courtney Evensen,"Golden Valley, Minn.",Robbinsdale Armstrong,womens swimming,missouri
-307,Maddie Gehrke,"Clive, Iowa",Waukee Senior,womens swimming,missouri
-308,Molly Gowans,"Victoria, British Columbia",Claremont Secondary,womens swimming,missouri
-309,Audrey Guyett,N/A,N/A,womens swimming,missouri
-310,Danielle Hepler,"Katy, Texas",Seven Lakes,womens swimming,missouri
-311,Rowan Hodgins,"Chanhassen, Minn.",Chanhassen,womens swimming,missouri
-312,Haley Hynes,"Lee's Summit, Mo.",Lee's Summit North,womens swimming,missouri
-313,Aurore Jacolin,"Toulouse, France",Lycee Bellevue,womens swimming,missouri
-314,Iliana Jones,"Casper, Wyo.",Kelly Walsh,womens swimming,missouri
-315,Kayla Jones,"St. Charles, Ill.",St. Charles East,womens swimming,missouri
-316,Megan Keil,"Derby, Kan.",Derby,womens swimming,missouri
-317,Jennifer King,"Glasgow, Scotland",N/A,womens swimming,missouri
-318,CJ Kovac,"Fort Collins, Colo.",Fossil Ridge,womens swimming,missouri
-319,Rachael Marlar,"Stigler, Okla.",Eufaula HS,womens swimming,missouri
-320,Annie Ochitwa,"Highlands Ranch, Colo.",ThunderRidge,womens swimming,missouri
-321,Sammie Jo Porter,"Flower Mound, Texas",Flower Mound,womens swimming,missouri
-322,Ana Pozder,"Apex, N.C.",Apex,womens swimming,missouri
-323,Erica Rideout,"Chatham, Ill.",N/A,womens swimming,missouri
-324,Sarah Rousseau,"Melbourne, Fla.",Viera,womens swimming,missouri
-325,Lauren Savoy,"Highland Village, Texas",Marcus,womens swimming,missouri
-326,Amanda Smith,"Dry Ridge, Ky.",Notre Dame Academy,womens swimming,missouri
-327,Emily Snyder,"Canton, Ga.",Creekview,womens swimming,missouri
-328,Devan Sweeney,"Snellville, Ga.",Brookwood,womens swimming,missouri
-329,Rachel Taylor,"Portland, Maine",N/A,womens swimming,missouri
-330,Sarah Thompson,"Collierville, Tenn.",St. George's Independent School,womens swimming,missouri
-331,Samantha Wilts,"El Paso, Texas",Franklin,womens swimming,missouri
-332,Amanda Wood,"Valley Park, Mo.",Parkway South,womens swimming,missouri
-333,Vivien Ábráham,"Budapest, Hungary",Moricz Zsigmond Gimnasium,womens tennis,missouri
-334,Risa Fukutoku,"Tokyo, Japan",N/A,womens tennis,missouri
-335,Taylor Gruber,"Spicewood, Texas",N/A,womens tennis,missouri
-336,Mackenzy Middlebrooks,"Fort Lauderdale, Fla.",Westminster Academy,womens tennis,missouri
-337,Serena Nash,"Bradford, England",Immanuel College,womens tennis,missouri
-338,Ally Noback,"Alpharetta, Ga.",William & Reed Academy,womens tennis,missouri
-339,Marta Oliveira,"Lisbon, Portugal",Extranato Crisfal,womens tennis,missouri
-340,Ellie Wright,"Gainesville, Fla.",F.W. Buchholz,womens tennis,missouri
-341,Jayson Ashford,"Fairview Heights, Ill.",St. Louis University HS,mens track,missouri
-342,Avery Carter,"Lee's Summit, Mo.",Lee's Summit West HS,mens track,missouri
-343,Chris Conrad,"O'Fallon, Ill.",O'Fallon Township HS,mens track,missouri
-344,Zach Cook,"Columbia, Mo.",Rock Bridge HS,mens track,missouri
-345,Landon Cuskelly,"El Dorado, Kan.",Butler CC,mens track,missouri
-346,Marc Dubrick,"DeKalb, Ill.",DeKalb HS,mens track,missouri
-347,Jason Edwards,"Eldon, Mo.",School of the Osage HS,mens track,missouri
-348,Will Fife,"Jefferson City, Mo.",Helias Catholic HS,mens track,missouri
-349,Thomas George,"Gloucester, England",Marling School,mens track,missouri
-350,Ben Goodman,"Colorado Springs, Colo.",Palmer HS,mens track,missouri
-351,Ethan Hanson,"Palatine, Ill.",Fremd HS,mens track,missouri
-352,Sean Harrell,"Springfield, Mo.",Parkview HS,mens track,missouri
-353,Austin Hindman,"Wildwood, Mo.",Lafayette HS,mens track,missouri
-354,Jonathan Holder,N/A,N/A,mens track,missouri
-355,Patrick Kearns,"New York City, NY",Fiorello H. LaGuardia HS,mens track,missouri
-356,Sheldon Keence,"St. Charles, Mo.",St. Charles West HS,mens track,missouri
-357,Alfred Kimaiyo,N/A,N/A,mens track,missouri
-358,Robert Kuhlmann,"Lake Villa, Ill.",Lakes Community HS,mens track,missouri
-359,Patrick Kunza,"Wentzville, Mo.",Timberland HS,mens track,missouri
-360,Rauno Liitmae,N/A,N/A,mens track,missouri
-361,Justin Loquercio,"Mt. Prospect, Ill.",Wheeling HS,mens track,missouri
-362,Jerrad Mason,"Bridgetown, Barbados",Harrison Prep,mens track,missouri
-363,Stephen Mugeche,"Blue Springs, Mo.",Blue Springs HS,mens track,missouri
-364,Dylan Quisenberry,"Wildwood, Mo.",Lafayette HS,mens track,missouri
-365,Evan Schulte,"Columbia, Mo.",Rock Bridge HS,mens track,missouri
-366,Jacob Schweiss,"St. Louis, Mo.",Festus HS,mens track,missouri
-367,Eric Scott,N/A,N/A,mens track,missouri
-368,Mark Sheridan,"Ballwin, Mo.",Marquette HS,mens track,missouri
-369,Taylor Stephen,"Nixa, Mo.",Nixa HS,mens track,missouri
-370,Ja'Mari Ward,"Cahokia, Ill.",Cahokia HS,mens track,missouri
-371,Michael Widmann,"Naperville, Ill.",Neuqua Valley HS,mens track,missouri
-372,Cain Winebrenner,"Kansas City, Mo.",Park Hill HS,mens track,missouri
-373,Jake Wirthwein,"Warrensburg, Mo.",Warrensburg HS,mens track,missouri
-374,Ellyn Atkinson,"Springfield, Mo.",Glendale HS,womens track,missouri
-375,Richelle Bain,"St. Louis, Mo.",Parkway Central HS,womens track,missouri
-376,Kaelyn Balch,"Wichita, Kan.",Bishop Carroll Catholic HS,womens track,missouri
-377,Shannon Browning,"Burke, Va.",Lake Braddock HS,womens track,missouri
-378,Maya Cody,"St. Louis, Mo.",Lutheran South HS,womens track,missouri
-379,Megan Cunningham,"Eureka, Mo.",Eureka HS,womens track,missouri
-380,Kiley Deain,"Peculiar, Mo.",Raymore-Peculiar HS,womens track,missouri
-381,Elly DeTurris,"Naperville, Ill.",Naperville North HS,womens track,missouri
-382,Samantha Farmer,"Columbia, Mo.",Rock Bridge HS,womens track,missouri
-383,Kaitlyn Fischer,"Pevely, Mo.",Herculaneum HS,womens track,missouri
-384,Susan Forbis,"Lewisville, Texas",Lewisville HS,womens track,missouri
-385,Kayla Funkenbusch,"Columbia, Mo.",Rock Bridge HS,womens track,missouri
-386,Kayla Glowacki,"Naperville, Ill.",Naperville HS,womens track,missouri
-387,Michaela Hackbarth,"Downers Grove, Ill.",Downers Grove HS,womens track,missouri
-388,Emmie Hahn,"Homer Glen, Ill.",Lockport Township HS,womens track,missouri
-389,Valeska Halamicek,"Weldon Spring, Mo.",Francis Howell HS,womens track,missouri
-390,Megan Haley,"Lancaster, Mo.",Schuyler R-1 HS,womens track,missouri
-391,Gabi Jacobs,"Bloomington, Ill.",Normal University HS,womens track,missouri
-392,Vivien Jepkemoi,N/A,N/A,womens track,missouri
-393,CeCe Johnson,"St. Louis, Mo.",Lutheran South HS,womens track,missouri
-394,Tsai-Anne Joseph,"St. Augustine, Trinidad & Tob.",N/A,womens track,missouri
-395,Becky Keating,"Reading, England",N/A,womens track,missouri
-396,Jamie Kempfer,"Festus, Mo.",Festus HS,womens track,missouri
-397,Jordyn Kleve,"Urbandale, Iowa",Johnston HS,womens track,missouri
-398,Valeria Kostiuk,"Kiev, Ukraine",Butler CC,womens track,missouri
-399,Karina Liz,"Aurora, Ill.",Aurora Central Catholic HS,womens track,missouri
-400,Jenna Lutzow,"Poplar Grove, Ill.",Belvidere North HS,womens track,missouri
-401,Arielle Mack,"El Paso, Texas",El Paso Burges HS,womens track,missouri
-402,Lexi Maddox,"Riverside, Mo.",Park Hill South HS,womens track,missouri
-403,Rachael Marlar,"Stigler, Okla.",Eufaula HS,womens track,missouri
-404,Keyoni Mbroh,"Oklahoma City, Okla.",Putnam City North HS,womens track,missouri
-405,Jordan McClendon,"Black Jack, Mo.",John Burroughs School,womens track,missouri
-406,Melissa Menghini,"Fenton, Mo.",Rockwood Summit HS,womens track,missouri
-407,Cameron Meyer,"California, Mo.",California HS,womens track,missouri
-408,Sydney Oberdiek,"Platte City, Mo.",West Platte HS,womens track,missouri
-409,Maya Puller,"San Antonio, Texas",San Antonio Brandeis HS,womens track,missouri
-410,Sophia Racette,"St. Louis, Mo.",Nerinx Hall HS,womens track,missouri
-411,Erica Rideout,"Chatham, Ill.",N/A,womens track,missouri
-412,Karissa Roman,"Kewanee, Ill.",Wethersfield HS,womens track,missouri
-413,Karissa Schweizer,"Urbandale, Iowa",Dowling Catholic HS,womens track,missouri
-414,Faramola Shonekan,"Columbia, Mo.",Rock Bridge HS,womens track,missouri
-415,Jazmyn Shumaker,"Cedar Hill, Texas",Cedar Hill HS,womens track,missouri
-416,Kate Smith,"Ankeny, Iowa",Ankeny Centennial HS,womens track,missouri
-417,Jordan Speer,"Dighton, Kan.",Dighton HS,womens track,missouri
-418,Emily Stauffer,"Reinholds, Penn.",Cocalico HS,womens track,missouri
-419,Rachel Taylor,"Portland, Maine",N/A,womens track,missouri
-420,Hannah Thomas,"Urbandale, Iowa",Dowling Catholic HS,womens track,missouri
-421,Allie Webb,"Platte City, Mo.",St. James Academy,womens track,missouri
-422,Carolyn White,"Festus, Mo.",Festus HS,womens track,missouri
-423,Blair Widmer,"Columbia, Mo.",Father Tolton HS,womens track,missouri
-424,Amanda Wood,"Valley Park, Mo.",Parkway South,womens track,missouri
-425,Sara Young,"Bristol, Minn.",N/A,womens track,missouri
-426,Aaron Assad,"Brecksville, Ohio",Brecksville-Broadview Heights,wrestling,missouri
-427,Jake Bohlken,"Smithville, Mo.",Smithville,wrestling,missouri
-428,Chase Brennan,"Monett, Mo.",Monett,wrestling,missouri
-429,Alex Butler,"Rockford, Ill.",Boylan Catholic,wrestling,missouri
-430,Phyllip DeLoach,"Alton, Ill.",Alton,wrestling,missouri
-431,Rodrigo Diaz,"Lafayette, La.",Lafayette,wrestling,missouri
-432,Jaydin Eierman,"Columbia, Mo.",Father Tolton,wrestling,missouri
-433,John Erneste,"Kansas City, Mo.",Park Hill,wrestling,missouri
-434,Austin Eveler,"Lee's Summit, Mo.",Lee's Summit West,wrestling,missouri
-435,Connor Flynn,"Dardenne Prairie, Mo.",Francis Howell,wrestling,missouri
-436,Luke Fortuna,"Glen Ellyn, Ill.",Montini Catholic,wrestling,missouri
-437,Allan Hart,"Uniontown, Ohio",St. Edward HS,wrestling,missouri
-438,Sean Hosford,"Kansas City, Mo.",Park Hill,wrestling,missouri
-439,Dante Jiovenetta,"Islamorada, Fla.",Coral Shores,wrestling,missouri
-440,Wyatt Koelling,"Kaysville, Ut.",Davis,wrestling,missouri
-441,Joey Lavallee,"Reno, Nev.",Reno,wrestling,missouri
-442,Grant Leeth,"Kearney, Mo.",Kearney,wrestling,missouri
-443,Daniel Lewis,"Blue Springs, Mo.",Blue Springs,wrestling,missouri
-444,Canten Marriott,"Excelsior Springs, Mo.",Park Hill,wrestling,missouri
-445,Keegan McCormick,"Lee's Summit, Mo.",Lee's Summit North,wrestling,missouri
-446,Barlow McGhee,"Rock Island, Ill.",Rock Island,wrestling,missouri
-447,Willie Miklus,"Altoona, Iowa",Southeast Polk,wrestling,missouri
-448,Austin Myers,"Alexandria, Ky.",Campbell County,wrestling,missouri
-449,Nick Nasenbeny,"Plainfield, Ill.",Plainfield Central,wrestling,missouri
-450,Seth Pesek,"Gardner, Kan.",Gardner Edgerton,wrestling,missouri
-451,Dack Punke,"Washington, Ill.",Washington Community,wrestling,missouri
-452,Jake Raschka,"Pewaukee, Wis.",Pewaukee,wrestling,missouri
-453,Sam Ritchie,"St. Peters, Missouri",Francis Howell North,wrestling,missouri
-454,Colby Smith,"Wentzville, Mo.",Holt,wrestling,missouri
-455,Lane Stigall,"Aurora, Ore.",North Marion,wrestling,missouri
-456,Cameron Valdiviez,"Kansas City, Mo.",Rockhurst,wrestling,missouri
-457,Dalton Voyles,"Pacific, Mo.",Pacific,wrestling,missouri
-458,Taylor Watkins,"Columbus, Kan.",Columbus High School,wrestling,missouri
-459,Dylan Wisman,"Winchester, Va.",Millbrook,wrestling,missouri
-460,Regan Nash,N/A,N/A,softball,missouri
-461,Tajiah Ellison,N/A,N/A,softball,missouri
-462,Kendyll Bailey,N/A,N/A,softball,missouri
-463,Paige Bange,N/A,N/A,softball,missouri
-464,Nalani Scates,N/A,N/A,softball,missouri
-465,Kolby Romaine,N/A,N/A,softball,missouri
-466,Brooke Wilmes,N/A,N/A,softball,missouri
-467,Delaney McDannold,N/A,N/A,softball,missouri
-468,Danielle Baumgartner,N/A,N/A,softball,missouri
-469,Kara Decker,N/A,N/A,softball,missouri
-470,Raime Cohen,N/A,N/A,softball,missouri
-471,Callie Martin,N/A,N/A,softball,missouri
-472,Madi Norman,N/A,N/A,softball,missouri
-473,Gabby Garrison,N/A,N/A,softball,missouri
-474,Hatti Moore,N/A,N/A,softball,missouri
-475,Cayla Kessinger,N/A,N/A,softball,missouri
-476,Eli Daniel,N/A,N/A,softball,missouri
-477,Cosette Tomita,N/A,N/A,softball,missouri
-478,Katherine Kadlec,N/A,N/A,softball,missouri
-479,Abby George,N/A,N/A,softball,missouri
-480,Sun Wenting,"Heilongjiang, China",Qiqihar #32,womens volleyball,missouri
-481,Leketor Member-Meneh,"St. Louis, Mo.",Lutheran South,womens volleyball,missouri
-482,Riley Sents,"Grundy Center, Iowa",Grundy Center,womens volleyball,missouri
-483,Brynn  Paumen,"Maple Lake, Minn.",Maple Lake,womens volleyball,missouri
-484,Jaden Newsome,"Houston, Texas",Clear Brook,womens volleyball,missouri
-485,Paige Perego,"Ballwin, Mo.",Parkway West,womens volleyball,missouri
-486,Andrea Fuentes,"San Juan, Puerto Rico",Baldwin,womens volleyball,missouri
-487,Alyssa Munlyn,"Suwanee, Ga.",North Gwinnett,womens volleyball,missouri
-488,Tyanna Omazic,"Lenexa, Kan.",Olathe Northwest,womens volleyball,missouri
-489,Katie Turner,"Parker, Colo.",Legend,womens volleyball,missouri
-490,Annika Gereau,"Oshkosh, Wisc.",Winneconne,womens volleyball,missouri
-491,Kylie Deberg,"Hudson, Iowa",Hudson,womens volleyball,missouri
-492,Dariana Hollingsworth,"San Juan, Puerto Rico",Adianez,womens volleyball,missouri
-493,Kayla Caffey,"Chicago, Ill.",Mother McAuley,womens volleyball,missouri
-494,Frances Bidwill,"Phoenix, Ariz.",Chaparral,womens gymnastics,missouri
-495,Allison Bower,"Mesa, Ariz.",Basha,womens gymnastics,missouri
-496,Chelsey Christensen,"Rapid City, South Dakota",Rapid City,womens gymnastics,missouri
-497,Lauren Clevenger,"Catoosa, Okla.",Catoosa,womens gymnastics,missouri
-498,Gabrielle Gottula,"Spring, Texas",Klein Oak,womens gymnastics,missouri
-499,Madeleine Huber,"St. Louis, Mo.",Seton Home Study School,womens gymnastics,missouri
-500,Brooke Kelly,"Birmingham, Ala.",Leeds,womens gymnastics,missouri
-501,Paige Kovnesky,"Archbold, Ohio",Archbold,womens gymnastics,missouri
-502,Xarria Lewis,"Columbia, Mo.",Hickman,womens gymnastics,missouri
-503,Hannah McCrary,"Murfreesboro, Tenn.",Siegel,womens gymnastics,missouri
-504,Mya Mulligan,"Honolulu, Hawaii",The Potter's School,womens gymnastics,missouri
-505,Mary Nicholson,"Richland Hills, Texas",Richland,womens gymnastics,missouri
-506,Morgan Porter,"Overland, Mo.",Ritenour,womens gymnastics,missouri
-507,Becca Schugel,"Eagan, Minn.",Eagan,womens gymnastics,missouri
-508,Aspen Tucker,"Lehigh Acres, Fla.",Fort Myers,womens gymnastics,missouri
-509,Michaelee Turner,"Parkville, Mo.",Parkville,womens gymnastics,missouri
-510,Britney Ward,"Ozark, Mo.",Homeschooled,womens gymnastics,missouri
+133,Trystan Colon-Castillo,"Parks, Recreation & Sport","Webb City, Mo.",football,missouri
+134,Samson Bailey,"Master's in Educational, School & Counseling Psychology","Lamar, Mo.",football,missouri
+135,Antar Thompson,"St. Louis, Mo.",Richmond Heights,football,missouri
+136,Jairan Parker,"Houston, Texas",St. Thomas,football,missouri
+137,Noah Robinson,"Master's, Educational & Counseling Psychology","Worcester, Mass.",football,missouri
+138,Case Cook,"Carrollton, Ga.",Carrollton,football,missouri
+139,Richard Taylor,"Ellenwood, Ga.",Arabia Mountain,football,missouri
+140,Thomas Grossman,"St. Louis, Mo.",Chaminade,football,missouri
+141,Cannon York,"Lebanon, Mo.",Lebanon,football,missouri
+142,Bobby Lawrence,"Undeclared, Business or Accountancy","St. Joseph, Mo.",football,missouri
+143,Keion Willis,"St. Louis, Mo.",CBC,football,missouri
+144,Jonah Dubinski,"Columbia, Mo.",Rock Bridge,football,missouri
+145,Yasir Durant,"Philadelphia, Pa.",Imhotep,football,missouri
+146,Kevin Pendleton,"Parks, Recreation & Sport","Lee's Summit, Mo.",football,missouri
+147,Xavier Delgado,"Glendale, Ariz.",Deer Valley,football,missouri
+148,Mike Ruth,"Undeclared, Business or Accountancy","Coppell, Texas",football,missouri
+149,Tre'Vour Wallace-Simms,"Parks, Recreation & Tourism","East St. Louis, Ill.",football,missouri
+150,Javon Foster,"West Bloomfield, Mich.",West Bloomfield,football,missouri
+151,Paul Adams,"Parks, Recreation & Tourism","Nashville, Tenn.",football,missouri
+152,Kobie Whiteside,"Houston, Texas",Alief Taylor,football,missouri
+153,Larry Borom,"Bloomfield Hills, Mich.",Brother Rice,football,missouri
+154,Messiah Swinson,"Undeclared, Business or Accountancy","Glen Head, N.Y.",football,missouri
+155,Albert Okwuegbunam,"Springfield, Ill.",Sacred Heart Griffin,football,missouri
+156,Harry Ballard III,"Florissant, Mo.",McCluer North,football,missouri
+157,Daniel Parker,"Blue Springs, Mo.",Blue Springs,football,missouri
+158,Emanuel  Hall,"Franklin, Tenn.",Centennial,football,missouri
+159,Zac Schachtner,"Undeclared, Business or Accountancy","Columbia, Mo.",football,missouri
+160,Tauskie Dove,"Denton, Texas",Ryan,football,missouri
+161,James Workman,"Renton, Wash.",Liberty,football,missouri
+162,Cade Musser,"Blue Springs, Mo.",Blue Springs,football,missouri
+163,Logan Christopherson,"Lemont, Ill.",Lemont,football,missouri
+164,Chris Williams,"Columbia, Mo.",Rock Bridge,football,missouri
+165,Brendan Scales,"Wildwood, Mo.",Lafayette,football,missouri
+166,Sean Koetting,"Columbia, Mo.",Rock Bridge,football,missouri
+167,Markell Utsey,"Parks, Recreation & Sport","Little Rock, Ark.",football,missouri
+168,Josh Dodge,"Blue Springs, Mo.",Blue Springs,football,missouri
+169,Matthew Jaeger,"Plymouth, Minn.",Robbinsdale Armstrong,football,missouri
+170,Macaulay Keevins,"Undeclared, Journalism","Columbia, Mo.",football,missouri
+171,Tre Williams,"Columbia, Mo.",Rock Bridge,football,missouri
+172,Tyrell Jacobs,"Kenner, La.",Rummel,football,missouri
+173,Jordan Elliott,"Missouri City, Texas",Westside,football,missouri
+174,Akial Byers,"Fayetteville, Ark.",Fayetteville,football,missouri
+175,Myles Eaddy,"Plantation, Fla.",American Heritage,football,missouri
+176,Walter Palmore,"Columbus, Ga.",Hardaway,football,missouri
+177,Peyton Bauman,"Flower Mound, Texas",Marcus,womens soccer,missouri
+178,Kelsey Dossey,"Plainfield, Ind.",Avon,womens soccer,missouri
+179,Bella Alessi,"Fort Collins, Colo.",Fossil Ridge,womens soccer,missouri
+180,Grace Kitts,"Leawood, Kan.",St. Teresa's Academy,womens soccer,missouri
+181,Anna Frick,"Webster Groves, Mo.",Nerinx Hall,womens soccer,missouri
+182,Blythe Beldner,"Wildwood, Mo.",Eureka,womens soccer,missouri
+183,Cassidy Nurnberger,"New Haven, Mo.",Washington,womens soccer,missouri
+184,Bethany Coons,"Union, Mo.",Union,womens soccer,missouri
+185,Zoe Cross,"Pease Pottage, England",The Holy Trinity School,womens soccer,missouri
+186,Lindsey Whitmore,"Henderson, Nev.",Coronado,womens soccer,missouri
+187,Keiarra Slack,"Stuart, Fla.",The Benjamin School,womens soccer,missouri
+188,Rachel Hise,"Lucas, Texas",Lovejoy,womens soccer,missouri
+189,Julissa Cisneros,"Moreno Valley, Calif.",Rancho Verde,womens soccer,missouri
+190,Peyton Joseph,"Highlands Ranch, Colo.",Mountain Vista,womens soccer,missouri
+191,Sarah Luebbert,"Jefferson City, Mo.",Jefferson City,womens soccer,missouri
+192,Ariela Beharry,"Coral Springs, Fla.",Cardinal Gibbons,womens soccer,missouri
+193,Macy Trujillo,"Kansas City, Mo.",St. Teresa's Academy,womens soccer,missouri
+194,Hailey Blanchard,"Frankfort, Ill.",Lincoln Way East,womens soccer,missouri
+195,Skye Kingsley,"Naperville, Ill.",Neuqua Valley,womens soccer,missouri
+196,Izzy Coulter,"Niceville, Fla.",Niceville,womens soccer,missouri
+197,Morcquess Oliphant,"Frisco, Texas",Frisco,womens soccer,missouri
+198,Lauren Gaston,"Los Angeles, Calif.",Pacifica Christian,womens soccer,missouri
+199,Madison Lewis,"Zionsville, Ind.",Zionsville,womens soccer,missouri
+200,Momola Adesanmi,"Sugar Land, Texas",Travis,womens soccer,missouri
+201,Mercedes Sapp,"Windermere, Fla.",Lake Highland Preparatory School,womens soccer,missouri
+202,Chris Conrad,"O'Fallon, Ill.",O'Fallon Township HS,mens cross country,missouri
+203,Zach Cook,"Columbia, Mo.",Rock Bridge HS,mens cross country,missouri
+204,Marc Dubrick,"DeKalb, Ill.",DeKalb HS,mens cross country,missouri
+205,Thomas George,"Gloucester, England",Marling School,mens cross country,missouri
+206,Ben Goodman,"Colorado Springs, Colo.",Palmer HS,mens cross country,missouri
+207,Austin Hindman,"Wildwood, Mo.",Lafayette HS,mens cross country,missouri
+208,Patrick Kearns,"New York City, NY",Fiorello H. LaGuardia HS,mens cross country,missouri
+209,Sheldon Keence,"St. Charles, Mo.",St. Charles West HS,mens cross country,missouri
+210,Alfred Kimaiyo,N/A,N/A,mens cross country,missouri
+211,Robert Kuhlmann,"Lake Villa, Ill.",Lakes Community HS,mens cross country,missouri
+212,Justin Loquercio,"Mt. Prospect, Ill.",Wheeling HS,mens cross country,missouri
+213,Stephen Mugeche,"Blue Springs, Mo.",Blue Springs HS,mens cross country,missouri
+214,Dylan Quisenberry,"Wildwood, Mo.",Lafayette HS,mens cross country,missouri
+215,Evan Schulte,"Columbia, Mo.",Rock Bridge HS,mens cross country,missouri
+216,Jacob Schweiss,"St. Louis, Mo.",Festus HS,mens cross country,missouri
+217,Eric Scott,N/A,N/A,mens cross country,missouri
+218,Taylor Stephen,"Nixa, Mo.",Nixa HS,mens cross country,missouri
+219,Michael Widmann,"Naperville, Ill.",Neuqua Valley HS,mens cross country,missouri
+220,Cain Winebrenner,"Kansas City, Mo.",Park Hill HS,mens cross country,missouri
+221,Ellyn Atkinson,"Springfield, Mo.",Glendale HS,womens cross country,missouri
+222,Richelle Bain,"St. Louis, Mo.",Parkway Central HS,womens cross country,missouri
+223,Kaelyn Balch,"Wichita, Kan.",Bishop Carroll Catholic HS,womens cross country,missouri
+224,Shannon Browning,"Burke, Va.",Lake Braddock HS,womens cross country,missouri
+225,Megan Cunningham,"Eureka, Mo.",Eureka HS,womens cross country,missouri
+226,Kiley Deain,"Peculiar, Mo.",Raymore-Peculiar HS,womens cross country,missouri
+227,Elly DeTurris,"Naperville, Ill.",Naperville North HS,womens cross country,missouri
+228,Samantha Farmer,"Columbia, Mo.",Rock Bridge HS,womens cross country,missouri
+229,Kaitlyn Fischer,"Pevely, Mo.",Herculaneum HS,womens cross country,missouri
+230,Susan Forbis,"Lewisville, Texas",Lewisville HS,womens cross country,missouri
+231,Kayla Funkenbusch,"Columbia, Mo.",Rock Bridge HS,womens cross country,missouri
+232,Kayla Glowacki,"Naperville, Ill.",Naperville HS,womens cross country,missouri
+233,Michaela Hackbarth,"Downers Grove, Ill.",Downers Grove HS,womens cross country,missouri
+234,Emmie Hahn,"Homer Glen, Ill.",Lockport Township HS,womens cross country,missouri
+235,Valeska Halamicek,"Weldon Spring, Mo.",Francis Howell HS,womens cross country,missouri
+236,Vivien Jepkemoi,N/A,N/A,womens cross country,missouri
+237,Jamie Kempfer,"Festus, Mo.",Festus HS,womens cross country,missouri
+238,Jordyn Kleve,"Urbandale, Iowa",Johnston HS,womens cross country,missouri
+239,Karina Liz,"Aurora, Ill.",Aurora Central Catholic HS,womens cross country,missouri
+240,Jenna Lutzow,"Poplar Grove, Ill.",Belvidere North HS,womens cross country,missouri
+241,Lexi Maddox,"Riverside, Mo.",Park Hill South HS,womens cross country,missouri
+242,Rachael Marlar,"Stigler, Okla.",Eufaula HS,womens cross country,missouri
+243,Melissa Menghini,"Fenton, Mo.",Rockwood Summit HS,womens cross country,missouri
+244,Sophia Racette,"St. Louis, Mo.",Nerinx Hall HS,womens cross country,missouri
+245,Erica Rideout,"Chatham, Ill.",N/A,womens cross country,missouri
+246,Karissa Schweizer,"Urbandale, Iowa",Dowling Catholic HS,womens cross country,missouri
+247,Faramola Shonekan,"Columbia, Mo.",Rock Bridge HS,womens cross country,missouri
+248,Kate Smith,"Ankeny, Iowa",Ankeny Centennial HS,womens cross country,missouri
+249,Rachel Taylor,"Portland, Maine",N/A,womens cross country,missouri
+250,Hannah Thomas,"Urbandale, Iowa",Dowling Catholic HS,womens cross country,missouri
+251,Carolyn White,"Festus, Mo.",Festus HS,womens cross country,missouri
+252,Amanda Wood,"Valley Park, Mo.",Parkway South,womens cross country,missouri
+253,Sara Young,"Bristol, Minn.",N/A,womens cross country,missouri
+254,Matt Echelmeier,"Columbia, Mo.",Rock Bridge High School,mens golf,missouri
+255,Luigi Botta,"Cuneo, Italy",G. Peano Cuneo,mens golf,missouri
+256,Tommy Boone,"Plano, Texas",Plano Senior HS,mens golf,missouri
+257,Ricky Sanders,"The Hague, Netherlands",Senior HS,mens golf,missouri
+258,Jamie Stewart,"Renfrewshire, Scotland",Renfrewshire,mens golf,missouri
+259,Rory Franssen,"Inverness, Scotland",Inverness,mens golf,missouri
+260,Jack Parker,"Columbia, Mo.",Father Tolton Catholic HS,mens golf,missouri
+261,Emma Allen,"Southampton, England",Wildern School Southampton,womens golf,missouri
+262,Julia Bower,"Columbia, Mo.",Rock Bridge,womens golf,missouri
+263,Keagan Dunn,"Braselton, Ga.",Mill Creek,womens golf,missouri
+264,Cayce Hendrickson,"Benton, Ky.",Marshall County,womens golf,missouri
+265,Amanda Kim,"O'Fallon, Mo.",Fort Zumwalt South,womens golf,missouri
+266,Cherise Otter,"Bloomington, Ind.",South,womens golf,missouri
+267,Mackenzie Perez,"Rancho Palos Verdes, Calif.",Palos Verdes,womens golf,missouri
+268,Jessica Yuen,"Bolingbrook, Ill.",Neuqua Valley,womens golf,missouri
+269,Nick Alexander,"St. Louis, Mo.",Saint John Vianney,mens swimming,missouri
+270,Anthony Ashley,"Houston, Texas",Strake Jesuit,mens swimming,missouri
+271,Garrett Clasen,"Aurora, Ill.",N/A,mens swimming,missouri
+272,Sam Coffman,"Centennial, Colo.",Cherry Creek,mens swimming,missouri
+273,Matthew Connealy,"Austin, Texas",Lake Travis,mens swimming,missouri
+274,Jack Dahlgren,"Victoria, Minn.",N/A,mens swimming,missouri
+275,Jack Dubois,"Alpharetta, Ga.",N/A,mens swimming,missouri
+276,Dane Florea,"Columbia, Mo.",N/A,mens swimming,missouri
+277,Ryan Geheb,"Harland, Mich.",Lake Travis (Texas),mens swimming,missouri
+278,Kyle Goodwin,"Aurora, Colo.",Regis Jesuit,mens swimming,missouri
+279,Will Gottsch,"Elkhorn, Neb.",Elkhorn,mens swimming,missouri
+280,Carter Grimes,"Las Vegas, Nev.",Connections Academy,mens swimming,missouri
+281,Giovanni Gutierrez Lozano,"Lima, Peru",N/A,mens swimming,missouri
+282,Daniel Hein,"Sycamore, Ill.",DeKalb-Sycamore,mens swimming,missouri
+283,Caleb Hicks,"Colorado Springs, Colo.",Homeschooled,mens swimming,missouri
+284,Jackson Kent,"Huntertown, Ind.",Carroll,mens swimming,missouri
+285,Ike Khamis,"Richmond, Ind.",N/A,mens swimming,missouri
+286,Danny Kovac,"Fort Collins, Colo.",N/A,mens swimming,missouri
+287,Andy Kreiter,"Beaverton, Ore.",Southridge,mens swimming,missouri
+288,Kyle Leach,"Colorado Springs, Colo.",N/A,mens swimming,missouri
+289,Giovanny Lima,"Sao Paulo, Brazil",N/A,mens swimming,missouri
+290,Peter Lucido,"St. Charles, Mo.",Francis Howell North,mens swimming,missouri
+291,Luke Mankus,"Keller, Texas",Keller,mens swimming,missouri
+292,Alex Moore,"Newport News, Va.",Menchville,mens swimming,missouri
+293,Jordan O'Brien,"Naperville, Ill.",Metea Valley,mens swimming,missouri
+294,Grant Reed,"Austin, Texas",Stephen F. Austin HS,mens swimming,missouri
+295,Caleb Rhodenbaugh,"Columbia, Mo.",Rock Bridge,mens swimming,missouri
+296,Griffin Schaetzle,"Erie, Pa.",Mercyhurst Prep,mens swimming,missouri
+297,Mikel Schreuders,"Oranjestad, Aruba",Colegio Arubano,mens swimming,missouri
+298,Micah Slaton,"Austin, Texas",Dripping Springs,mens swimming,missouri
+299,Nick Staver,"Bettendorf, Iowa",Pleasant Valley,mens swimming,missouri
+300,Alex Walton,"Wilton, Iowa",Wilton,mens swimming,missouri
+301,Jacob Wielinski,"Mounds View, Minn.",North Dakota,mens swimming,missouri
+302,Azra Avdic,"Skokie, Ill.",Niles North,womens swimming,missouri
+303,Allison Bloebaum,"Mason, Ohio",William Mason,womens swimming,missouri
+304,Amber Brickey,"Seminole, Fla.",Osceola Fundamental,womens swimming,missouri
+305,Tally Brown,"State College, Pa.",State College Area High School,womens swimming,missouri
+306,Caitlin Clements,"Magnolia, Texas",Magnolia,womens swimming,missouri
+307,Payton Conrad,"Omaha, Neb.",Elkhorn South,womens swimming,missouri
+308,Kylie Dahlgren,"Victoria, Minn.",Chanhassen,womens swimming,missouri
+309,Anna Davis,"Chesterfield, Mo.",Marquette HS,womens swimming,missouri
+310,Courtney Evensen,"Golden Valley, Minn.",Robbinsdale Armstrong,womens swimming,missouri
+311,Maddie Gehrke,"Clive, Iowa",Waukee Senior,womens swimming,missouri
+312,Molly Gowans,"Victoria, British Columbia",Claremont Secondary,womens swimming,missouri
+313,Audrey Guyett,N/A,N/A,womens swimming,missouri
+314,Danielle Hepler,"Katy, Texas",Seven Lakes,womens swimming,missouri
+315,Rowan Hodgins,"Chanhassen, Minn.",Chanhassen,womens swimming,missouri
+316,Haley Hynes,"Lee's Summit, Mo.",Lee's Summit North,womens swimming,missouri
+317,Aurore Jacolin,"Toulouse, France",Lycee Bellevue,womens swimming,missouri
+318,Iliana Jones,"Casper, Wyo.",Kelly Walsh,womens swimming,missouri
+319,Kayla Jones,"St. Charles, Ill.",St. Charles East,womens swimming,missouri
+320,Megan Keil,"Derby, Kan.",Derby,womens swimming,missouri
+321,Jennifer King,"Glasgow, Scotland",N/A,womens swimming,missouri
+322,CJ Kovac,"Fort Collins, Colo.",Fossil Ridge,womens swimming,missouri
+323,Annie Ochitwa,"Highlands Ranch, Colo.",ThunderRidge,womens swimming,missouri
+324,Sammie Jo Porter,"Flower Mound, Texas",Flower Mound,womens swimming,missouri
+325,Ana Pozder,"Apex, N.C.",Apex,womens swimming,missouri
+326,Erica Rideout,"Chatham, Ill.",N/A,womens swimming,missouri
+327,Sarah Rousseau,"Melbourne, Fla.",Viera,womens swimming,missouri
+328,Lauren Savoy,"Highland Village, Texas",Marcus,womens swimming,missouri
+329,Amanda Smith,"Dry Ridge, Ky.",Notre Dame Academy,womens swimming,missouri
+330,Emily Snyder,"Canton, Ga.",Creekview,womens swimming,missouri
+331,Devan Sweeney,"Snellville, Ga.",Brookwood,womens swimming,missouri
+332,Rachel Taylor,"Portland, Maine",N/A,womens swimming,missouri
+333,Sarah Thompson,"Collierville, Tenn.",St. George's Independent School,womens swimming,missouri
+334,Samantha Wilts,"El Paso, Texas",Franklin,womens swimming,missouri
+335,Vivien Ábrahám,"Budapest, Hungary",Moricz Zsigmond Gimnasium,womens tennis,missouri
+336,Lisa Fukutoku,"Tokyo, Japan",N/A,womens tennis,missouri
+337,Gabrielle Goldin,"Bradenton, Fla.",Bradenton Christian School,womens tennis,missouri
+338,Taylor Gruber,"Spicewood, Texas",N/A,womens tennis,missouri
+339,Mackenzy Middlebrooks,"Fort Lauderdale, Fla.",Westminster Academy,womens tennis,missouri
+340,Serena Nash,"Bradford, England",Immanuel College,womens tennis,missouri
+341,Ally Noback,"Alpharetta, Ga.",William & Reed Academy,womens tennis,missouri
+342,Marta Oliveira,"Lisbon, Portugal",Extranato Crisfal,womens tennis,missouri
+343,Ellie Wright,"Gainesville, Fla.",F.W. Buchholz,womens tennis,missouri
+344,Jayson Ashford,"Fairview Heights, Ill.",St. Louis University HS,mens track,missouri
+345,Avery Carter,"Lee's Summit, Mo.",Lee's Summit West HS,mens track,missouri
+346,Chris Conrad,"O'Fallon, Ill.",O'Fallon Township HS,mens track,missouri
+347,Zach Cook,"Columbia, Mo.",Rock Bridge HS,mens track,missouri
+348,Landon Cuskelly,"El Dorado, Kan.",El Dorado HS,mens track,missouri
+349,Marc Dubrick,"DeKalb, Ill.",DeKalb HS,mens track,missouri
+350,Jason Edwards,"Eldon, Mo.",School of the Osage HS,mens track,missouri
+351,Will Fife,"Jefferson City, Mo.",Helias Catholic HS,mens track,missouri
+352,Thomas George,"Gloucester, England",Marling School,mens track,missouri
+353,Ben Goodman,"Colorado Springs, Colo.",Palmer HS,mens track,missouri
+354,Ethan Hanson,"Palatine, Ill.",Fremd HS,mens track,missouri
+355,Sean Harrell,"Springfield, Mo.",Parkview HS,mens track,missouri
+356,Austin Hindman,"Wildwood, Mo.",Lafayette HS,mens track,missouri
+357,Jonathan Holder,N/A,N/A,mens track,missouri
+358,Patrick Kearns,"New York City, NY",Fiorello H. LaGuardia HS,mens track,missouri
+359,Sheldon Keence,"St. Charles, Mo.",St. Charles West HS,mens track,missouri
+360,Alfred Kimaiyo,N/A,N/A,mens track,missouri
+361,Robert Kuhlmann,"Lake Villa, Ill.",Lakes Community HS,mens track,missouri
+362,Patrick Kunza,"Wentzville, Mo.",Timberland HS,mens track,missouri
+363,Rauno Liitmae,N/A,N/A,mens track,missouri
+364,Justin Loquercio,"Mt. Prospect, Ill.",Wheeling HS,mens track,missouri
+365,Jerrad Mason,"Bridgetown, Barbados",Harrison Prep,mens track,missouri
+366,Stephen Mugeche,"Blue Springs, Mo.",Blue Springs HS,mens track,missouri
+367,Dylan Quisenberry,"Wildwood, Mo.",Lafayette HS,mens track,missouri
+368,Evan Schulte,"Columbia, Mo.",Rock Bridge HS,mens track,missouri
+369,Jacob Schweiss,"St. Louis, Mo.",Festus HS,mens track,missouri
+370,Eric Scott,N/A,N/A,mens track,missouri
+371,Mark Sheridan,"Ballwin, Mo.",Marquette HS,mens track,missouri
+372,Taylor Stephen,"Nixa, Mo.",Nixa HS,mens track,missouri
+373,Ja'Mari Ward,"Cahokia, Ill.",Cahokia HS,mens track,missouri
+374,Michael Widmann,"Naperville, Ill.",Neuqua Valley HS,mens track,missouri
+375,Cain Winebrenner,"Kansas City, Mo.",Park Hill HS,mens track,missouri
+376,Jake Wirthwein,"Warrensburg, Mo.",Warrensburg HS,mens track,missouri
+377,Ellyn Atkinson,"Springfield, Mo.",Glendale HS,womens track,missouri
+378,Richelle Bain,"St. Louis, Mo.",Parkway Central HS,womens track,missouri
+379,Kaelyn Balch,"Wichita, Kan.",Bishop Carroll Catholic HS,womens track,missouri
+380,Shannon Browning,"Burke, Va.",Lake Braddock HS,womens track,missouri
+381,Maya Cody,"St. Louis, Mo.",Lutheran South HS,womens track,missouri
+382,Megan Cunningham,"Eureka, Mo.",Eureka HS,womens track,missouri
+383,Kiley Deain,"Peculiar, Mo.",Raymore-Peculiar HS,womens track,missouri
+384,Elly DeTurris,"Naperville, Ill.",Naperville North HS,womens track,missouri
+385,Samantha Farmer,"Columbia, Mo.",Rock Bridge HS,womens track,missouri
+386,Kaitlyn Fischer,"Pevely, Mo.",Herculaneum HS,womens track,missouri
+387,Susan Forbis,"Lewisville, Texas",Lewisville HS,womens track,missouri
+388,Kayla Funkenbusch,"Columbia, Mo.",Rock Bridge HS,womens track,missouri
+389,Kayla Glowacki,"Naperville, Ill.",Naperville HS,womens track,missouri
+390,Michaela Hackbarth,"Downers Grove, Ill.",Downers Grove HS,womens track,missouri
+391,Emmie Hahn,"Homer Glen, Ill.",Lockport Township HS,womens track,missouri
+392,Valeska Halamicek,"Weldon Spring, Mo.",Francis Howell HS,womens track,missouri
+393,Megan Haley,"Lancaster, Mo.",Schuyler R-1 HS,womens track,missouri
+394,Gabi Jacobs,"Bloomington, Ill.",Normal University HS,womens track,missouri
+395,Vivien Jepkemoi,N/A,N/A,womens track,missouri
+396,CeCe Johnson,"St. Louis, Mo.",Lutheran South HS,womens track,missouri
+397,Tsai-Anne Joseph,"St. Augustine, Trinidad & Tob.",N/A,womens track,missouri
+398,Becky Keating,"Reading, England",N/A,womens track,missouri
+399,Jamie Kempfer,"Festus, Mo.",Festus HS,womens track,missouri
+400,Jordyn Kleve,"Urbandale, Iowa",Johnston HS,womens track,missouri
+401,Valeria Kostiuk,"Kiev, Ukraine",Butler CC,womens track,missouri
+402,Karina Liz,"Aurora, Ill.",Aurora Central Catholic HS,womens track,missouri
+403,Jenna Lutzow,"Poplar Grove, Ill.",Belvidere North HS,womens track,missouri
+404,Arielle Mack,"El Paso, Texas",El Paso Burges HS,womens track,missouri
+405,Lexi Maddox,"Riverside, Mo.",Park Hill South HS,womens track,missouri
+406,Rachael Marlar,"Stigler, Okla.",Eufaula HS,womens track,missouri
+407,Keyoni Mbroh,"Oklahoma City, Okla.",Putnam City North HS,womens track,missouri
+408,Jordan McClendon,"Black Jack, Mo.",John Burroughs School,womens track,missouri
+409,Melissa Menghini,"Fenton, Mo.",Rockwood Summit HS,womens track,missouri
+410,Cameron Meyer,"California, Mo.",California HS,womens track,missouri
+411,Sydney Oberdiek,"Platte City, Mo.",West Platte HS,womens track,missouri
+412,Maya Puller,"San Antonio, Texas",San Antonio Brandeis HS,womens track,missouri
+413,Sophia Racette,"St. Louis, Mo.",Nerinx Hall HS,womens track,missouri
+414,Erica Rideout,"Chatham, Ill.",N/A,womens track,missouri
+415,Karissa Roman,"Kewanee, Ill.",Wethersfield HS,womens track,missouri
+416,Karissa Schweizer,"Urbandale, Iowa",Dowling Catholic HS,womens track,missouri
+417,Faramola Shonekan,"Columbia, Mo.",Rock Bridge HS,womens track,missouri
+418,Jazmyn Shumaker,"Cedar Hill, Texas",Cedar Hill HS,womens track,missouri
+419,Kate Smith,"Ankeny, Iowa",Ankeny Centennial HS,womens track,missouri
+420,Jordan Speer,"Dighton, Kan.",Dighton HS,womens track,missouri
+421,Emily Stauffer,"Reinholds, Penn.",Cocalico HS,womens track,missouri
+422,Rachel Taylor,"Portland, Maine",N/A,womens track,missouri
+423,Hannah Thomas,"Urbandale, Iowa",Dowling Catholic HS,womens track,missouri
+424,Allie Webb,"Platte City, Mo.",St. James Academy,womens track,missouri
+425,Carolyn White,"Festus, Mo.",Festus HS,womens track,missouri
+426,Blair Widmer,"Columbia, Mo.",Father Tolton HS,womens track,missouri
+427,Amanda Wood,"Valley Park, Mo.",Parkway South,womens track,missouri
+428,Sara Young,"Bristol, Minn.",N/A,womens track,missouri
+429,Jake Bohlken,"Smithville, Mo.",Smithville,wrestling,missouri
+430,Alex Butler,"Rockford, Ill.",Boylan Catholic,wrestling,missouri
+431,Phyllip DeLoach,"Alton, Ill.",Alton,wrestling,missouri
+432,Rodrigo Diaz,"Lafayette, La.",Lafayette,wrestling,missouri
+433,Weston Diblasi,"Kansas City, Mo.",Park Hill,wrestling,missouri
+434,Cordel Duhart,"Olathe, Kan.",Blue Valley Southwest,wrestling,missouri
+435,Jaydin Eierman,"Columbia, Mo.",Father Tolton,wrestling,missouri
+436,Zach Elam,"Kansas City, Mo.",Staley,wrestling,missouri
+437,John Erneste,"Kansas City, Mo.",Park Hill,wrestling,missouri
+438,Austin Eveler,"Lee's Summit, Mo.",Lee's Summit West,wrestling,missouri
+439,Connor Flynn,"Dardenne Prairie, Mo.",Francis Howell,wrestling,missouri
+440,Jack Flynn,"Dardenne Prairie, Mo.",Francis Howell,wrestling,missouri
+441,Luke Fortuna,"Glen Ellyn, Ill.",Montini Catholic,wrestling,missouri
+442,Allan Hart,"Akron, Ohio",St. Edward HS,wrestling,missouri
+443,Jarrett Jacques,"Columbia, Mo.",Father Tolton,wrestling,missouri
+444,Dante Jiovenetta,"Islamorada, Fla.",Coral Shores,wrestling,missouri
+445,Malik Johnson,"Florissant, Mo.",Christian Brothers,wrestling,missouri
+446,Jeremiah Kent,"Columbia, Mo.",Hickman,wrestling,missouri
+447,Wyatt Koelling,"Kaysville, Ut.",Davis,wrestling,missouri
+448,Grant Leeth,"Kearney, Mo.",Kearney,wrestling,missouri
+449,Daniel Lewis,"Blue Springs, Mo.",Blue Springs,wrestling,missouri
+450,Canten Marriott,"Excelsior Springs, Mo.",Park Hill,wrestling,missouri
+451,Brock Mauller,"Columbia, Mo.",Father Tolton,wrestling,missouri
+452,Keegan McCormick,"Lee's Summit, Mo.",Lee's Summit North,wrestling,missouri
+453,Peyton Mocco,"West Allis, Wis.",Nathan Hale,wrestling,missouri
+454,Austin Myers,"Alexandria, Ky.",Campbell County,wrestling,missouri
+455,Nick Nasenbeny,"Plainfield, Ill.",Plainfield Central,wrestling,missouri
+456,Dack Punke,"Washington, Ill.",Washington Community,wrestling,missouri
+457,Jake Raschka,"Pewaukee, Wis.",Pewaukee,wrestling,missouri
+458,Sam Ritchie,"St. Peters, Missouri",Francis Howell North,wrestling,missouri
+459,Cevion Severado,"Saint Peters, Mo.",Christian Brothers,wrestling,missouri
+460,Colby Smith,"Wentzville, Mo.",Holt,wrestling,missouri
+461,Lane Stigall,"Aurora, Ore.",North Marion,wrestling,missouri
+462,Cameron Valdiviez,"Kansas City, Mo.",Rockhurst,wrestling,missouri
+463,Dalton Voyles,"Pacific, Mo.",Pacific,wrestling,missouri
+464,Taylor Watkins,"Columbus, Kan.",Columbus High School,wrestling,missouri
+465,Dylan Wisman,"Winchester, Va.",Millbrook,wrestling,missouri
+466,Regan Nash,N/A,N/A,softball,missouri
+467,Tajiah Ellison,N/A,N/A,softball,missouri
+468,Kendyll Bailey,N/A,N/A,softball,missouri
+469,Danie  Garrison,N/A,N/A,softball,missouri
+470,Jazmyn Rollin,N/A,N/A,softball,missouri
+471,Nalani Scates,N/A,N/A,softball,missouri
+472,Kolby Romaine,N/A,N/A,softball,missouri
+473,Brooke Wilmes,N/A,N/A,softball,missouri
+474,Caitlin Fogue,N/A,N/A,softball,missouri
+475,Delaney McDannold,N/A,N/A,softball,missouri
+476,Danielle Baumgartner,N/A,N/A,softball,missouri
+477,Baleigh Koester,N/A,N/A,softball,missouri
+478,Geana Torres,N/A,N/A,softball,missouri
+479,Kara Decker,N/A,N/A,softball,missouri
+480,Cassie Gasper,N/A,N/A,softball,missouri
+481,Raime Cohen,N/A,N/A,softball,missouri
+482,Summer Schockley,N/A,N/A,softball,missouri
+483,Kimberly Wert,N/A,N/A,softball,missouri
+484,Callie Martin,N/A,N/A,softball,missouri
+485,Alexis Burks,N/A,N/A,softball,missouri
+486,Emma Raabe,N/A,N/A,softball,missouri
+487,Madi Norman,N/A,N/A,softball,missouri
+488,Kendal Judge,N/A,N/A,softball,missouri
+489,Gabby Garrison,N/A,N/A,softball,missouri
+490,Hatti Moore,N/A,N/A,softball,missouri
+491,Cayla Kessinger,N/A,N/A,softball,missouri
+492,Eli Daniel,N/A,N/A,softball,missouri
+493,Sydney  McKinney,N/A,N/A,softball,missouri
+494,Cosette Tomita,N/A,N/A,softball,missouri
+495,Katherine Kadlec,N/A,N/A,softball,missouri
+496,Abby George,N/A,N/A,softball,missouri
+497,Sun Wenting,"Heilongjiang, China",Qiqihar #32,womens volleyball,missouri
+498,Leketor Member-Meneh,"St. Louis, Mo.",Lutheran South,womens volleyball,missouri
+499,Riley Sents,"Grundy Center, Iowa",Grundy Center,womens volleyball,missouri
+500,Brynn  Paumen,"Maple Lake, Minn.",Maple Lake,womens volleyball,missouri
+501,Jaden Newsome,"Houston, Texas",Clear Brook,womens volleyball,missouri
+502,Paige Perego,"Ballwin, Mo.",Parkway West,womens volleyball,missouri
+503,Andrea Fuentes,"San Juan, Puerto Rico",Baldwin,womens volleyball,missouri
+504,Alyssa Munlyn,"Suwanee, Ga.",North Gwinnett,womens volleyball,missouri
+505,Tyanna Omazic,"Lenexa, Kan.",Olathe Northwest,womens volleyball,missouri
+506,Katie Turner,"Parker, Colo.",Legend,womens volleyball,missouri
+507,Annika Gereau,"Oshkosh, Wisc.",Winneconne,womens volleyball,missouri
+508,Kylie Deberg,"Hudson, Iowa",Hudson,womens volleyball,missouri
+509,Dariana Hollingsworth,"San Juan, Puerto Rico",Adianez,womens volleyball,missouri
+510,Kayla Caffey,"Chicago, Ill.",Mother McAuley,womens volleyball,missouri
+511,Frances Bidwill,"Phoenix, Ariz.",Chaparral,womens gymnastics,missouri
+512,Allison Bower,"Mesa, Ariz.",Basha,womens gymnastics,missouri
+513,Chelsey Christensen,"Rapid City, South Dakota",Rapid City,womens gymnastics,missouri
+514,Lauren Clevenger,"Catoosa, Okla.",Catoosa,womens gymnastics,missouri
+515,Mya Cotner,"Honolulu, Hawaii",The Potter's School,womens gymnastics,missouri
+516,Gabrielle Gottula,"Spring, Texas",Klein Oak,womens gymnastics,missouri
+517,Madeleine Huber,"St. Louis, Mo.",Seton Home Study School,womens gymnastics,missouri
+518,Brooke Kelly,"Birmingham, Ala.",Leeds,womens gymnastics,missouri
+519,Paige Kovnesky,"Archbold, Ohio",Archbold,womens gymnastics,missouri
+520,Xarria Lewis,"Columbia, Mo.",Hickman,womens gymnastics,missouri
+521,Hannah McCrary,"Murfreesboro, Tenn.",Siegel,womens gymnastics,missouri
+522,Mary Nicholson,"Richland Hills, Texas",Richland,womens gymnastics,missouri
+523,Morgan Porter,"Overland, Mo.",Ritenour,womens gymnastics,missouri
+524,Becca Schugel,"Eagan, Minn.",Eagan,womens gymnastics,missouri
+525,Aspen Tucker,"Lehigh Acres, Fla.",Fort Myers,womens gymnastics,missouri
+526,Michaelee Turner,"Parkville, Mo.",Parkville,womens gymnastics,missouri
+527,Britney Ward,"Ozark, Mo.",Homeschooled,womens gymnastics,missouri

@@ -1,472 +1,505 @@
 ,name,hometown,high school?,sport,college
-0,Jo Lual-Acuil Jr.,"Melbourne, Australia",Neosho CC,mens basketball,baylor
-1,Jake Lindsey,"Houston, Texas",Olympus HS [Utah],mens basketball,baylor
-2,Mario Kegler,"Jackson, Miss.",Oak Hill Academy,mens basketball,baylor
-3,Tyson Jolly,"Oklahoma City, Okla.",Putnam City West HS,mens basketball,baylor
-4,Mark Vital,"Lake Charles, La.",Advanced Prep International [Texas],mens basketball,baylor
-5,Manu Lecomte,"Brussels, Belgium",Athene des Pagodes,mens basketball,baylor
-6,Nuni Omot,"St. Paul, Minn.",Mahtomedi HS,mens basketball,baylor
-7,King McClure,"Dallas, Texas",Triple A Academy,mens basketball,baylor
-8,Tristan Clark,"San Antonio, Texas",Wagner HS,mens basketball,baylor
-9,Jonathan Davis,"Argyle, Texas",Argyle HS,mens basketball,baylor
-10,Terry Maston,"DeSoto, Texas",DeSoto HS,mens basketball,baylor
-11,Obim Okeke,"Las Vegas, Nev.",Bishop Gorman HS,mens basketball,baylor
-12,Freddie Gillespie,"St. Paul, Minn.",East Ridge HS,mens basketball,baylor
-13,NaLyssa Smith,"Converse, Texas",East Central HS,womens basketball,baylor
-14,Didi Richards,"Cypress, Texas",Cypress Ranch HS,womens basketball,baylor
-15,Trinity Oliver,"Euless, Texas",Trinity HS,womens basketball,baylor
-16,Honesty Scott-Grayson,"Severn, Md.",Riverdale Baptist HS,womens basketball,baylor
-17,Aquira DeCosta,"Sacramento, Calif.",St. Mary's HS,womens basketball,baylor
-18,Alexis Morris,"Beaumont, Texas",Legacy Christian Academy,womens basketball,baylor
-19,Moon Ursin,"Destrehan, La.",Destrehan HS,womens basketball,baylor
-20,Lauren Cox,"Flower Mound, Texas",Flower Mound HS,womens basketball,baylor
-21,Juicy Landrum,"Waco, Texas",La Vega HS,womens basketball,baylor
-22,Kalani Brown,"Slidell, La.",Salmen HS,womens basketball,baylor
-23,Chloe Jackson,"Upper Marlboro, Md.",Riverdale Baptist HS,womens basketball,baylor
-24,Queen Egbo,"Houston, Texas",Travis HS,womens basketball,baylor
-25,Caitlin Bickle,"Cave Creek, Ariz.",Cactus Shadows HS,womens basketball,baylor
-26,Cole Haring,"Katy, Texas",Katy HS,baseball,baylor
-27,Nick Loftin,"Corpus Christi, Texas",W.B. Ray HS,baseball,baylor
-28,Tucker Cascadden,"Houston, Texas",San Jacinto JC,baseball,baylor
-29,Levi Gilcrease,"Odessa, Florida",Home School,baseball,baylor
-30,Davion Downey,"Bowling Green, Ky.",Warren East HS,baseball,baylor
-31,Drew Robertson,"Tyler, Texas",The Brook Hill School,baseball,baylor
-32,Tucker Johnson,"China Spring, Texas",McLennan CC,baseball,baylor
-33,Hunter Seay,"Keller, Texas",Keller HS,baseball,baylor
-34,Josh Bissonette,"Anaheim Hills, Calif.",Orange Lutheran HS,baseball,baylor
-35,Kyle Hill,"Corpus Christi, Texas",Calallen HS,baseball,baylor
-36,Joe Heineman,"Southlake, Texas",Carroll HS,baseball,baylor
-37,Cody Bradford,"Aledo, Texas",Aledo HS,baseball,baylor
-38,Ryan Leckich,"Port Neches, Texas",Neches Groves HS,baseball,baylor
-39,T.J. Raguse,"Georgetown, Texas",Georgetown HS,baseball,baylor
-40,Richard Cunningham,"Austin, Texas",Stephen F. Austin HS,baseball,baylor
-41,Jacob Wyeth,"Austin, Texas",Lake Travis HS,baseball,baylor
-42,Shea Langeliers,"Keller, Texas",Keller HS,baseball,baylor
-43,Jimmy Winston,"Houston, Texas",Lamar HS,baseball,baylor
-44,Andy Thomas,"Murrieta, Calif.",Murrieta HS,baseball,baylor
-45,Billy Mote,"Bloomington, Ill.",N/A,baseball,baylor
-46,Hayden Kettler,"Coppell, Texas",Coppell HS,baseball,baylor
-47,Jacob Ashkinos,"Aledo, Texas",Aledo HS,baseball,baylor
-48,Daniel Caruso,"Los Angeles, Calif.",Loyola HS,baseball,baylor
-49,Kyle Harper,"Houston, Texas",Cypress Creek HS,baseball,baylor
-50,Davis Wendzel,"San Clemente, Calif.",Jserra Catholic HS,baseball,baylor
-51,Collin Sharp,"Lorena, Texas",McLennan CC,baseball,baylor
-52,Ryan Bertelsman,"Friendswood, Texas",Friendswood HS,baseball,baylor
-53,Troy Montemayor,"San Antonio, Texas",Reagan HS,baseball,baylor
-54,Chase Wehsener,"San Diego, Calif.",Christian HS,baseball,baylor
-55,Jesse Garcia,"Houston, Texas",Bellaire HS,baseball,baylor
-56,Alex Phillips,"Nacogdoches, Texas",Nacogdoches Central Heights HS,baseball,baylor
-57,Luke Boyd,"Ojai, Calif.",Nordhoff HS,baseball,baylor
-58,Cole Weaver,"Carlsbad, Calif.",Santa Fe Christian HS,baseball,baylor
-59,Tyler Thomas,"Keller, Texas",Keller HS,baseball,baylor
-60,Collin Garrett,"Montgomery, Texas",Montgomery HS,baseball,baylor
-61,Gerry Bohanon,"Earle, Ark.",Earle HS,football,baylor
-62,Jameson Houston,"Austin, Texas",St. Michael's Academy,football,baylor
-63,Charlie Brewer,"Austin, Texas",Lake Travis HS,football,baylor
-64,Timarcus Davis,"College Station, Texas",N/A,football,baylor
-65,Mike Everett,"Odem, Texas",Odem HS,football,baylor
-66,Tony Nicholson,"Grand Prairie, Texas",South Grand Prairie HS,football,baylor
-67,Raleigh Texada,"Frisco, Texas",Centennial HS,football,baylor
-68,Grayland Arnold,"Kountze, Texas",Kountze HS,football,baylor
-69,Chris Platt,"Willis, Texas",Willis HS,football,baylor
-70,Chris Miller,"Frisco, Texas",Lone Star HS,football,baylor
-71,Denzel Mims,"Daingerfield, Texas",Daingerfield HS,football,baylor
-72,Preston Heard,"Bellaire, Texas",Episcopal HS,football,baylor
-73,John Lovett,"Burlington, N.J.",Cherokee HS,football,baylor
-74,Garret McGuire,"Cedar Hill, Texas",Cedar Hill HS,football,baylor
-75,Pooh Stricklin,"Waco, Texas",Midway HS,football,baylor
-76,Zack Bennema,"Aurora, Ill.",Waubonsie Valley HS,football,baylor
-77,Gavin Holmes,"Justin, Texas",Northwest HS,football,baylor
-78,R.J. Sneed,"Cypress, Texas",Cypress Ranch HS,football,baylor
-79,Henry Black,"Shreveport, La.",Woodlawn HS,football,baylor
-80,Blake Lynch,"Gilmer, Texas",Gilmer HS,football,baylor
-81,JT Woods,"San Antonio, Texas",Steele HS,football,baylor
-82,Derrek Thomas,"Albany, N.Y.",Bishop Maginn HS,football,baylor
-83,Jalen Pitre,"Stafford, Texas",Stafford HS,football,baylor
-84,Rajah Preciado,"College Station, Texas",N/A,football,baylor
-85,Trestan Ebner,"Henderson, Texas",Henderson HS,football,baylor
-86,Verkedric Vaughns,"Mesquite, Texas",Poteet HS,football,baylor
-87,Abram Smith,"Abilene, Texas",Abilene HS,football,baylor
-88,Christian Morgan,"Houston, Texas",Porter HS,football,baylor
-89,Tre'von Lewis,"Houston, Texas",Lamar HS,football,baylor
-90,Harrison Hand,"Cherry Hill, N.J.",Cherry Hill West HS,football,baylor
-91,Lenoy Jones Jr.,"Waco, Texas",Midway HS,football,baylor
-92,Demarco Artis,"Sanford, Fla.",Seminole HS,football,baylor
-93,JaMycal Hasty,"Longview, Texas",Longview HS,football,baylor
-94,Terrel Bernard,"La Porte, Texas",La Porte HS,football,baylor
-95,Marques Jones,"McKinney, Texas",McKinney HS,football,baylor
-96,Owen Rogers,"Phoenix, Ariz.",Arizona State,football,baylor
-97,Ezekiel Brown,"Midlothian, Texas",Midlothian HS,football,baylor
-98,Dwyer Bucey,"Houston, Texas",Strake Jesuit College Prep,football,baylor
-99,Allen Anderson,"East Bernard, Texas",East Bernard HS,football,baylor
-100,Drew Galitz,"Rowlett, Texas",Rowlett HS,football,baylor
-101,Cody George,"Lorena, Texas",Lorena HS,football,baylor
-102,Koby Bullard,"La Vernia, Texas",La Vernia HS,football,baylor
-103,Jordan Williams,"Paris, Texas",Paris HS,football,baylor
-104,John Arthur,"Frisco, Texas",Wakeland HS,football,baylor
-105,Deonte Williams,"Plano, Texas",Prestonwood Christian Academy,football,baylor
-106,Connor Stanton,"Scottsdale, Ariz.",Notre Dame Prep,football,baylor
-107,Jairon McVea,"Richmond, Texas",George Ranch HS,football,baylor
-108,Jamie Jacobs,"Waco, Texas",Midway HS,football,baylor
-109,Dru Dixon,"Phoenix, Ariz.",Pinnacle HS,football,baylor
-110,Clay Johnston,"Abilene, Texas",Wylie HS,football,baylor
-111,Bryson Jackson,"Mansfield, Texas",Lake Ridge HS,football,baylor
-112,Ross Matiscik,"McKinney, Texas",McKinney Boyd HS,football,baylor
-113,Kyle Boyd,"Mesquite, Texas",Horn HS,football,baylor
-114,Chad Kelly,"Grapevine, Texas",Faith Christian School,football,baylor
-115,Ashton Logan,"Temple, Texas",Temple HS,football,baylor
-116,Chris Lutzel,"Huntersville, N.C.",Southlake Christian Academy,football,baylor
-117,Greg Roberts,"Nacogdoches, Texas",Nacogdoches HS,football,baylor
-118,Sam Tecklenburg,"Plano, Texas",Plano HS,football,baylor
-119,James Lockhart,"Ennis, Texas",Ennis HS,football,baylor
-120,Xavier Newman,"Desoto, Texas",Desoto HS,football,baylor
-121,Jason Moore,"Frisco, Texas",Independence HS,football,baylor
-122,Michael McNair,"Richardson, Texas",Plano East,football,baylor
-123,Ty Smith,"Argyle, Texas",Argyle HS,football,baylor
-124,Khalil Keith,"Alpine, Ala.",Winterboro HS,football,baylor
-125,Dalton Justice,"Thomas, Okla.",Thomas-Fay-Custer HS,football,baylor
-126,Jake Fruhmorgen,"Tampa, Fla.",Plant HS,football,baylor
-127,Ryan Miller,"Southlake, Texas",Carroll HS,football,baylor
-128,Christian Beard,"Waco, Texas",Midway HS,football,baylor
-129,Thor Rodoni,"Los Banos, Calif.",Pacheco HS,football,baylor
-130,Josh Malin,"Cibolo, Texas",Steele HS,football,baylor
-131,Jim Threet,"Sunnyvale, Texas",Sunnyvale HS,football,baylor
-132,Blake Blackmar,"Houston, Texas",Clear Lake HS,football,baylor
-133,Chidi Ogbonnaya,"Houston, Texas",Langham Creek HS,football,baylor
-134,Eleasah Anderson,"Houston, Texas",Taylor HS,football,baylor
-135,Pat Lawrence,"Waxahachie, Texas",Waxahachie HS,football,baylor
-136,Henry Klinge III,"Southlake, Texas",Carroll HS,football,baylor
-137,Casey Phillips,"Franklin, Texas",Franklin HS,football,baylor
-138,Tyquan Thornton,"Miami, Fla.",Booker T. Washington HS,football,baylor
-139,Tyler Henderson,"Kyle, Texas",Lehman HS,football,baylor
-140,Russell Morrison,"Katy, Texas",Cinco Ranch HS,football,baylor
-141,Jalen Hurd,"Hendersonville, Tenn.",Beech Senior HS,football,baylor
-142,Datryan Evans,"Victoria, Texas",South Oak Cliff HS,football,baylor
-143,Christoph Henle,"Innsbruck, Austria",The Oakridge School,football,baylor
-144,Jay Sedwick,"Arlington, Texas",Grace Prep,football,baylor
-145,Trevor White,"Arlington, Texas",Martin HS,football,baylor
-146,Tyrone Hunt,"Arp, Texas",Arp HS,football,baylor
-147,Rob Saulin,"Pennsville, N.J.",Pennsville Memorial HS,football,baylor
-148,BJ Thompson,"England, Ark.",England HS,football,baylor
-149,Micheal Johnson,"Missouri City, Texas",Hightower HS,football,baylor
-150,James Lynch,"Round Rock, Texas",Round Rock HS,football,baylor
-151,Xavier Jones,"Magnolia, Texas",Magnolia West HS,football,baylor
-152,Ira Lewis,"Houston, Texas",Lamar HS,football,baylor
-153,Bravvion Roy,"Spring, Texas",Spring HS,football,baylor
-154,Connor Martin,"Frisco, Texas",Centennial HS,football,baylor
-155,Cole Maxwell,"Allen, Texas",Allen HS,football,baylor
-156,Justin Harris,"Gonzales, La.",East Ascension HS,football,baylor
-157,Kayley Ables,N/A,N/A,womens soccer,baylor
-158,Maddison Algya,N/A,N/A,womens soccer,baylor
-159,Sarah Bevington,"Arvada, Colo.",Ralston Valley H.S.,womens soccer,baylor
-160,Kennedy Brown,"Kingwood, Texas",Kingwood HS,womens soccer,baylor
-161,Zionah Browne,"Spring, Texas",Klein H.S.,womens soccer,baylor
-162,Emily Bunnell,"Cottage Grove, Minn.",East Ridge H.S.,womens soccer,baylor
-163,Maggie Burton,"Eagle, Idaho",Eagle HS,womens soccer,baylor
-164,Jackie Crowther,"Temecula, Calif.",Linfield Christian HS,womens soccer,baylor
-165,Giuliana Cunningham,N/A,N/A,womens soccer,baylor
-166,Haley Foster,"Highlands Ranch,  Colo.",Highlands Ranch HS,womens soccer,baylor
-167,Danielle Hayden,"Indianapolis, Ind.",Kentucky,womens soccer,baylor
-168,Ally Henderson,"Wichita, Kan.",Trinity Academy,womens soccer,baylor
-169,Julie James,"Fairview, Texas",McKinney Christian Academy,womens soccer,baylor
-170,Audrey Johnston,"Woodway, Texas",Midway HS,womens soccer,baylor
-171,Sarah King,"Coppell, Texas",Coppell HS,womens soccer,baylor
-172,Ariel Leach,"Flower Mound, Texas",Flower Mound HS,womens soccer,baylor
-173,Taylor Moon,N/A,N/A,womens soccer,baylor
-174,Sarah Norman,"McKinney, Texas",McKinney Boyd H.S.,womens soccer,baylor
-175,Raegan Padgett,"Beaumont, Texas",Hardin-Jefferson HS,womens soccer,baylor
-176,Hannah Parrish,"Naperville, Ill.",Neuqua Valley HS,womens soccer,baylor
-177,Lauren Piercy,"Amarillo, Texas",Randall HS,womens soccer,baylor
-178,Elena Reyna,N/A,N/A,womens soccer,baylor
-179,Kylie Ross,"McKinney, Texas",McKinney Boyd HS,womens soccer,baylor
-180,Halee Sowinski,"Allen, Texas",Allen HS,womens soccer,baylor
-181,Kau'inohea Taylor,"Kamuela, Hawaii",Hawaii Preparatory Academy,womens soccer,baylor
-182,Jennifer Wandt,"Brookfield, Wisc.",Brookfield East H.S.,womens soccer,baylor
-183,Camryn Wendlandt,"Coueur d'Alene, Idaho",Lake City H.S.,womens soccer,baylor
-184,Eric Anderson,"Nashville, Tenn.",Montgomery Bell Academy,mens cross country,baylor
-185,Seth Brown,"La Plata, Mo.",La Plata HS,mens cross country,baylor
-186,Matt Henderson,"Spring, Texas",The Woodlands HS,mens cross country,baylor
-187,Henry Huff,"St. Charles, Mo.",Lutheran (St. Charles HS,mens cross country,baylor
-188,Jeff Kirwin,"Diamond Bar, Calif.",Glendora HS,mens cross country,baylor
-189,Connor Laktasic,"Albuquerque, N.M.",Eldorado HS,mens cross country,baylor
-190,Sean McCullough,"Northville, Mich.",Northville HS,mens cross country,baylor
-191,Jeremy Meadows,"Monument, Colo.",Palmer Ridge HS,mens cross country,baylor
-192,Devin Meyrer,"Wildwood, Mo.",Lafayette HS,mens cross country,baylor
-193,Matt Parham,"Richmond, Texas",Fort Bend Christian Academy,mens cross country,baylor
-194,Sam Sahli,"Evergreen, Colo.",Evergreen HS,mens cross country,baylor
-195,TJ Sugg,"Springdale, Ark.",Har-Ber HS,mens cross country,baylor
-196,Jackson Vicary,"Plano, Texas",Plano West Senior HS,mens cross country,baylor
-197,Jordan West,"Wildwood, Mo.",Lafayette HS,mens cross country,baylor
-198,Alison Andrews-Paul,"Masterton, New Zealand",Wairarapa College,womens cross country,baylor
-199,Sarah Antrich,"Houston, Texas",Kingwood HS,womens cross country,baylor
-200,Lindsey Bradley,"Richland, Wash.",Richland HS,womens cross country,baylor
-201,Emily Curran,"Oldsmar, Fla.",Calvary Christian HS,womens cross country,baylor
-202,Payton Czupil,"Latham, New York",Shaker HS,womens cross country,baylor
-203,Amanda Dillon,"Springdale, Ark.",Har-Ber HS,womens cross country,baylor
-204,Haley Everroad,"Scottsdale, Ariz.",Scottsdale Prep,womens cross country,baylor
-205,Micaela Freeman,"Columbia, Tenn.",Columbia Central HS,womens cross country,baylor
-206,Sydney Gandy,"Katy, Texas",Seven Lakes HS,womens cross country,baylor
-207,Brooke Gilmore,"Belton, Texas",Belton HS,womens cross country,baylor
-208,Madelaine Johnston,"Wichita Falls, Texas",Burkburnett H.S.,womens cross country,baylor
-209,Kasey Kinzel,"Quito, Ecuador",Alliance Academy International,womens cross country,baylor
-210,Isabella Lackner,"Raleigh, N.C.",Saint Thomas More Academy,womens cross country,baylor
-211,Hana Marsheck,"Palo Alto, Calif.",Woodside Priory,womens cross country,baylor
-212,Aaliyah Miller,"McKinney, Texas",McKinney Boyd HS,womens cross country,baylor
-213,Katy Parsons,"Hotchkiss, Colo.",Hotchkiss HS,womens cross country,baylor
-214,Leila Rohde,"Fallbrook, Calif.",Linfield HS,womens cross country,baylor
-215,Megan Rule,"Stamford, Connecticut",Stamford HS,womens cross country,baylor
-216,Gabby Satterlee,"Visalia, Calif.",Central Valley Christian HS,womens cross country,baylor
-217,Natasha Strump,"Miami, Florida",Westminster Christian School,womens cross country,baylor
-218,Lindsay Walton,"Peoria, Ill.",Peoria Christian School,womens cross country,baylor
-219,Anna West,"Wildwood, Mo.",Lafayette HS,womens cross country,baylor
-220,Braden Bailey,"Groves, Texas",Port Neches-Groves HS,mens golf,baylor
-221,Austin Cotton,"Austin, Texas",Westwood HS,mens golf,baylor
-222,Cooper Dossey,"Austin, Texas",Vandegrift HS,mens golf,baylor
-223,Ryan Grider,"Lewisville, Texas",iSchool HS,mens golf,baylor
-224,Colin Kober,"Southlake, Texas",Carroll HS,mens golf,baylor
-225,Garrett May,"Hope, Ark.",Texas HS,mens golf,baylor
-226,Travis McInroe,"Plano, Texas",Plano West HS,mens golf,baylor
-227,Matthew Perrine,"Austin, Texas",Westlake HS,mens golf,baylor
-228,Mark Reppe,"Dallas, Texas",Episcopal School of Dallas,mens golf,baylor
-229,Diane Baillieux,"Dongelberg, Belgium",Ecole International le Verseau,womens golf,baylor
-230,Mills Chenot,"Waco, Texas",Vanguard,womens golf,baylor
-231,Laila Hrindova,"Poprad, Slovakia",Doha College Qatar,womens golf,baylor
-232,Gurleen Kaur,"Houston, Texas",Cy Woods HS,womens golf,baylor
-233,Amy Lee,"Orange County, Calif.",Brea Olinda HS,womens golf,baylor
-234,Fiona Liddell,"Warendorf, Germany",Mariengymnasium,womens golf,baylor
-235,Giovana Maymon,"Huixquilucan, Mexico",Colegio Miraflores,womens golf,baylor
-236,Jordan Shackelford,"Austin, Texas",Westlake HS,womens golf,baylor
-237,Maria Vesga,"Piedecueta, Colombia",Colegio Panamericano,womens golf,baylor
-238,Jimmy Bendeck,"Hollywood, Fla.",Family Tree HS,mens tennis,baylor
-239,Constantin Frantzen,"Augsburg, Germany",Stadtische Robert-Bosch Fachoberschule,mens tennis,baylor
-240,Akos Kotorman,"Budapest, Hungary",Diana HS,mens tennis,baylor
-241,Sven Lah,"Ptuj, Slovenia",Gimnazija Ptuj,mens tennis,baylor
-242,Will Little,"Joplin, Mo.",College Heights Christian School,mens tennis,baylor
-243,Bjoern Petersen,"Eckernfoerde, Germany",Internatsgymnasium Louisenlund,mens tennis,baylor
-244,Johannes Schretter,"Graz, Austria",BORG Monsberger,mens tennis,baylor
-245,Roy Smith,"New Haven, Connecticut",Cooperative Arts & Humanities HS,mens tennis,baylor
-246,Matias Soto,"Copiapo, Chile",Colegio Olimpo,mens tennis,baylor
-247,Camilla Abbate,"Bologna, Italy",Liceo Linguistico Laura Bassi,womens tennis,baylor
-248,Jessica Hinojosa,"Guadalajara, Mexico",SEP Mexico,womens tennis,baylor
-249,Livia Kraus,"Nieder-Olm, Germany",Gymnasium Nieder-Olm,womens tennis,baylor
-250,Katelyn Parker,"Rancho Palos Verdes, Calif.",Palos Verdes Peninsula,womens tennis,baylor
-251,Angelina Shakhraichuk,"Kiev, Ukraine",Gymnasium Consul 86,womens tennis,baylor
-252,Kristina Sorokolet,"Moscow, Russia",Moscow School #152,womens tennis,baylor
-253,Dominika Sujova,"Topolcany, Slovakia",Gymnaszium Vincenta de Paul,womens tennis,baylor
-254,Giorgia Testa,"Frosinone, Italy",Instituto Kennedy Frascati,womens tennis,baylor
-255,Theresa Zyl,"Aroab, Namibia",Penn Foster HS,womens tennis,baylor
-256,Eric Anderson,"Nashville, Tenn.",Montgomery Bell Academy,mens track,baylor
-257,Jayson Baldridge,"Houston, Texas",George Ranch HS,mens track,baylor
-258,Ian Braxton,"Highland Village, Texas",Marcus HS,mens track,baylor
-259,Seth Brown,"La Plata, Mo.",La Plata HS,mens track,baylor
-260,Charles Butler II,"Dallas, Texas",DeSoto HS,mens track,baylor
-261,Cody Cunningham,"Plano, Texas",Prestonwood Christian Academy,mens track,baylor
-262,Isaiah Cunningham,"Moreno Valley, Calif.",Rancho Verde HS,mens track,baylor
-263,Caleb Dickson,"Borger, Texas",Borger HS,mens track,baylor
-264,Robert Dutton,"Austin, Texas",Westlake HS,mens track,baylor
-265,Howard Fields III,"Manvel, Texas",Manvel HS,mens track,baylor
-266,Paul Gaschen,"Lubbock, Texas",Trinity Christian,mens track,baylor
-267,Elijah Gifford,"Austin, Texas",St. Michael's Catholic Academy,mens track,baylor
-268,Greyson Gonzalez,"Waco, Texas",Bosqueville HS,mens track,baylor
-269,Cole Hardan,"Valley Center, Calif.",San Pasqual HS,mens track,baylor
-270,Niko Harrell,"Rabun Gap, Ga.",Rabun Gap Nacoochee HS,mens track,baylor
-271,Matt Henderson,"Spring, Texas",The Woodlands HS,mens track,baylor
-272,Henry Huff,"St. Charles, Mo.",Lutheran (St. Charles HS,mens track,baylor
-273,Jeff Kirwin,"Diamond Bar, Calif.",Glendora HS,mens track,baylor
-274,Connor Laktasic,"Albuquerque, N.M.",Eldorado HS,mens track,baylor
-275,Danny Leland,"Dallas, Texas",Highland Park HS,mens track,baylor
-276,Blaine Listach,"Elm Mott, Texas",Rapoport Academy,mens track,baylor
-277,Luke Littlefield,"Temple, Texas",Central Texas Christian School,mens track,baylor
-278,Wil London,"Waco, Texas",Waco HS,mens track,baylor
-279,Sean McCullough,"Northville, Mich.",Northville HS,mens track,baylor
-280,Jeremy Meadows,"Monument, Colo.",Palmer Ridge HS,mens track,baylor
-281,Devin Meyrer,"Wildwood, Mo.",Lafayette HS,mens track,baylor
-282,Antwuan Musgrove,"Miami, Fla.",Hallandale HS,mens track,baylor
-283,Matt Parham,"Richmond, Texas",Fort Bend Christian Academy,mens track,baylor
-284,Chris Platt,"Willis, Texas",Willis HS,mens track,baylor
-285,Blake Rawls,"Oklahoma City, Okla.",Casady HS,mens track,baylor
-286,Riley Richards,"China Spring, Texas",China Spring HS,mens track,baylor
-287,Sam Sahli,"Evergreen, Colo.",Evergreen HS,mens track,baylor
-288,Ricky Sanchez,"Wichita, Kan.",Bishop Carroll Catholic HS,mens track,baylor
-289,J.B. Sandlund,"St. Charles, Ill.",St. Charles East H.S.,mens track,baylor
-290,Jalen Seals,"Ft. Worth, Texas",Boswell HS,mens track,baylor
-291,TJ Sugg,"Springdale, Ark.",Har-Ber HS,mens track,baylor
-292,Raleigh Texada,"Frisco, Texas",Centennial HS,mens track,baylor
-293,Cameron Turner,"Houston, Texas",Langham Creek HS,mens track,baylor
-294,Jackson Vicary,"Plano, Texas",Plano West Senior HS,mens track,baylor
-295,Jordan West,"Wildwood, Mo.",Lafayette HS,mens track,baylor
-296,Maxwell Willis,"Upper Marlboro, Md.",Archbishop Carroll HS,mens track,baylor
-297,Malik Wilson,"Brenham, Texas",Brenham HS,mens track,baylor
-298,Ryan Womack,"Denton, Texas",Denton Ryan HS,mens track,baylor
-299,Alison Andrews-Paul,"Masterton, New Zealand",Wairarapa College,womens track,baylor
-300,Sarah Antrich,"Houston, Texas",Kingwood HS,womens track,baylor
-301,Elizabeth Armstrong,"Seattle, Wash.",Bishop Blanchet HS,womens track,baylor
-302,Anatalia Ashcroft,"Brookfield, Wis.",Brookfield East HS,womens track,baylor
-303,Kennedy Bailey,"Cypress, Texas",Cypress Woods HS,womens track,baylor
-304,Emma Bakke,"Puyallup, Wash.",Sumner HS,womens track,baylor
-305,Taylor Bennett,"Spring, Texas",Klein Collins HS,womens track,baylor
-306,Lindsey Bradley,"Richland, Wash.",Richland HS,womens track,baylor
-307,Brianna Brown,"Katy, Texas",Seven Lakes HS,womens track,baylor
-308,Demitra Carter,"Kansas City, Kan.",Sumner Academy of Arts and Sciences,womens track,baylor
-309,Laura Casadonte,"Frederick, Md.",Governor Thomas Johnson HS,womens track,baylor
-310,Emily Curran,"Oldsmar, Fla.",Calvary Christian HS,womens track,baylor
-311,Payton Czupil,"Latham, New York",Shaker HS,womens track,baylor
-312,Amanda Dillon,"Springdale, Ark.",Har-Ber HS,womens track,baylor
-313,Amani Dotson,"Houston, Texas",Memorial HS,womens track,baylor
-314,Haley Everroad,"Scottsdale, Ariz.",Scottsdale Prep,womens track,baylor
-315,Jacinta Fisher,"North Sydney, Australia",Monte Sant' Angelo Mercy College,womens track,baylor
-316,Micaela Freeman,"Columbia, Tenn.",Columbia Central HS,womens track,baylor
-317,Sydney Gandy,"Katy, Texas",Seven Lakes HS,womens track,baylor
-318,Brooke Gilmore,"Belton, Texas",Belton HS,womens track,baylor
-319,Raven Grant,"Conway, S.C.",Burke HS,womens track,baylor
-320,Kiana Hawn,"Forney, Texas",Forney HS,womens track,baylor
-321,Kiana Horton,"San Antonio, Texas",Judson HS,womens track,baylor
-322,Venae Jessurun,"Houston, Texas",Second Baptist HS,womens track,baylor
-323,Madelaine Johnston,"Wichita Falls, Texas",Burkburnett H.S.,womens track,baylor
-324,Jhane' King,"Fort Worth, Texas",Timbercreek HS,womens track,baylor
-325,Kasey Kinzel,"Quito, Ecuador",Alliance Academy International,womens track,baylor
-326,Isabella Lackner,"Raleigh, N.C.",Saint Thomas More Academy,womens track,baylor
-327,Kaitlynn Lindsey,"The Woodlands, Texas",The Woodlands HS,womens track,baylor
-328,Alex Lord,"League City, Texas",Bay Area Christian School,womens track,baylor
-329,Alex Madlock,"Bangs, Texas",Brownwood HS,womens track,baylor
-330,Juanita Mainoo,"Little Elm, Texas",Frisco Lone Star HS,womens track,baylor
-331,Hana Marsheck,"Palo Alto, Calif.",Woodside Priory,womens track,baylor
-332,Aaliyah Miller,"McKinney, Texas",McKinney Boyd HS,womens track,baylor
-333,Eva Morrison,"Fort Collins, Colo.",Liberty Common HS,womens track,baylor
-334,Abena Ofori,"Spring, Texas",Klein Oak HS,womens track,baylor
-335,Katy Parsons,"Hotchkiss, Colo.",Hotchkiss HS,womens track,baylor
-336,Tiffani Peacock,"Lorena, Texas",Lorena HS,womens track,baylor
-337,Tamar Perkins,"Houston, Texas",Cypress Falls H.S.,womens track,baylor
-338,Caira Pettway,"Sunnyvale, Texas",Sunnyvale HS,womens track,baylor
-339,Victoria Powell,"Atlanta, Ga.",The Lovett School,womens track,baylor
-340,Leila Rohde,"Fallbrook, Calif.",Linfield HS,womens track,baylor
-341,Megan Rule,"Stamford, Connecticut",Stamford HS,womens track,baylor
-342,TT Sanders,"Waco, Texas",Connally HS,womens track,baylor
-343,Gabby Satterlee,"Visalia, Calif.",Central Valley Christian HS,womens track,baylor
-344,Megan SaxvanderWeyden,"Pennsville, N.J.",Pennsville Memorial HS,womens track,baylor
-345,Xianni Simmons,"Riviera Beach, Fla.",Suncoast HS,womens track,baylor
-346,Leticia Souza,"Sao Paulo, Brazil",E.T.E.C. Guaracy Silveira,womens track,baylor
-347,Morgan Stewart,"Houston, Texas",Jersey Village HS,womens track,baylor
-348,Natasha Strump,"Miami, Florida",Westminster Christian School,womens track,baylor
-349,K.C. Sullivan,"Orange, Calif.",Orange Lutheran HS,womens track,baylor
-350,Tuesdi Tidwell,"Early, Texas",Early HS,womens track,baylor
-351,Samone Turner,"DeSoto, Texas",DeSoto HS,womens track,baylor
-352,Lindsay Walton,"Peoria, Ill.",Peoria Christian School,womens track,baylor
-353,Sydney Washington,"Round Rock, Texas",Stony Point HS,womens track,baylor
-354,Anna West,"Wildwood, Mo.",Lafayette HS,womens track,baylor
-355,Sarah Yocum,"Arvada, Colo.",Faith Christian HS,womens track,baylor
-356,Carlee Wallace,"Alpine, Calif.",Valhalla,softball,baylor
-357,Lexi Koltz,"Sioux Falls, S.D.",Roosevelt,softball,baylor
-358,Kyla Walker,"Franklin, Texas",Franklin,softball,baylor
-359,Regan Green,"Hebron, Md.",Laurel,softball,baylor
-360,Caitlin Charlton,"Palmetto Bay, Florida",Westminster Christian,softball,baylor
-361,Madi O'Neal,"Huffman, Texas",Hargrave,softball,baylor
-362,Gia Rodoni,"Los Banos, Calif.",Pacheco,softball,baylor
-363,Hannah Smith,"Nederland, Texas",Nederland,softball,baylor
-364,Taylor Ellis,"Waco, Texas",Midway,softball,baylor
-365,Shelby Friudenberg,"Bruceville, Texas",Bruceville-Eddy,softball,baylor
-366,Hannah Thompson,"Dickinson, Texas",Dickinson,softball,baylor
-367,Jessie Scroggins,"Lakewood, Calif.",Lakewood,softball,baylor
-368,Ashley Marchand,"Haymarket, Va.",Battlefield H.S.,softball,baylor
-369,Alyssa Avalos,"Rancho Cucamonga, Calif.",St. Lucy's Priory,softball,baylor
-370,Nicky Dawson,"Baton Rouge, La.",Parkview Baptist,softball,baylor
-371,Goose McGlaun,"Humble, Texas",Atascocita,softball,baylor
-372,Maddison Kettler,"West, Texas",West,softball,baylor
-373,Tara Wulf,"Burke, Virginia",Lake Braddock Secondary,womens volleyball,baylor
-374,Sydney Sacra,"Needville, Texas",Needville H.S.,womens volleyball,baylor
-375,Emily Van Slate,"Houston, Texas",Cypress Ridge H.S.,womens volleyball,baylor
-376,Shelly Fanning,"Cypress, Texas",Cypress Ranch H.S.,womens volleyball,baylor
-377,Hannah Fluegel,"Visalia, California",Central Valley Christian,womens volleyball,baylor
-378,Aniah Philo,"Rockwall, Texas",Rockwall Heath H.S.,womens volleyball,baylor
-379,Taylor Marburger,"McAllen, Texas",McAllen Memorial H.S.,womens volleyball,baylor
-380,Marieke van der Mark,"Papendrecht, The Netherlands",Granby Memorial H.S.,womens volleyball,baylor
-381,Nicole Thomas,"Richmond, Virginia",James River H.S.,womens volleyball,baylor
-382,Hannah Lockin,"Des Moines, Iowa",Valley H.S.,womens volleyball,baylor
-383,Jaelyn Jackson,"South Chesterfield, Va.",Matoaca H.S.,womens volleyball,baylor
-384,Braya Hunt,"Frisco, Texas",Prestonwood Christian Academy,womens volleyball,baylor
-385,Bri Coleman,"Valencia, Calif.",Valencia H.S.,womens volleyball,baylor
-386,Ashley Fritcher,"Houston, Texas",Stratford H.S.,womens volleyball,baylor
-387,Yossiana Pressley,"Cypress, Texas",Cypress Falls H.S.,womens volleyball,baylor
-388,Shanel Bramschreiber,"Plano, Texas",Lucas Lovejoy H.S.,womens volleyball,baylor
-389,Gia Milana,"Romeo, Mich.",Romeo H.S.,womens volleyball,baylor
-390,Phoebe Alwine,"Delray Beach, Fla.",N/A,womens equestrian,baylor
-391,Brookie Bancroft,"Argyle, Texas",N/A,womens equestrian,baylor
-392,Sage Banta,"Cairo, N.Y.",N/A,womens equestrian,baylor
-393,Nicole Begala,"Houston, Texas",N/A,womens equestrian,baylor
-394,Gabrielle Bendall,"Glenmoore, Penn.",N/A,womens equestrian,baylor
-395,Kammie Berns,"Grosse Pointe Woods, Mich.",N/A,womens equestrian,baylor
-396,Sarah Boral,"Norwood, Mass.",N/A,womens equestrian,baylor
-397,Tyler Bui,"Hopkinton, Mass.",N/A,womens equestrian,baylor
-398,Katherine Cardenas,"Rancho Viejo, Texas",N/A,womens equestrian,baylor
-399,Maddie Chenoweth,"Houston, Texas",N/A,womens equestrian,baylor
-400,Madeleine Crawford,"Colleyville, Texas",N/A,womens equestrian,baylor
-401,Aspen Crew,"Bend, Ore.",N/A,womens equestrian,baylor
-402,Katie Davis,"College Station, Texas",N/A,womens equestrian,baylor
-403,Rachael Davis,"Woodinville, Wash.",N/A,womens equestrian,baylor
-404,Madison Day,"Brick, N.J.",N/A,womens equestrian,baylor
-405,Kaylynn DeBernard,"King George, Va.",N/A,womens equestrian,baylor
-406,Corinne Delius,"Austin, Texas",N/A,womens equestrian,baylor
-407,Abbi Demel,"Hoisington, Kan.",N/A,womens equestrian,baylor
-408,Mackenzie Ennis,"Marshall, Va.",N/A,womens equestrian,baylor
-409,Cayla Fisher,"Ridgefield, Conn.",N/A,womens equestrian,baylor
-410,Elizabeth Forney,"West Des Moines, Iowa",N/A,womens equestrian,baylor
-411,Gia Gulino,"Naperville, Ill.",N/A,womens equestrian,baylor
-412,Shannon Hogue,"West Chester, Pa.",N/A,womens equestrian,baylor
-413,Samantha Howell,"Milton, Vt.",N/A,womens equestrian,baylor
-414,Clara Johnson,"Indianola, Iowa",N/A,womens equestrian,baylor
-415,Michelle Mallett,"Thousand Oaks, Calif.",N/A,womens equestrian,baylor
-416,Sam Matthews,"Laguna Niguel, Calif.",N/A,womens equestrian,baylor
-417,Lauren McLane,"Houston, Texas",N/A,womens equestrian,baylor
-418,Kaylee Mellott,"Wichita, Kan.",N/A,womens equestrian,baylor
-419,Isabella Nunes,"Hilmar, Calif.",N/A,womens equestrian,baylor
-420,Kodi O'Boyle,"St. Louis, Mich.",N/A,womens equestrian,baylor
-421,Julia Rodriguez,"McGregor, Texas",N/A,womens equestrian,baylor
-422,Skylar Rogalny,"Wellington, Fla.",N/A,womens equestrian,baylor
-423,Carly Salter,"Mobile, Ala.",N/A,womens equestrian,baylor
-424,Kacie Scharf,"Gretna, Neb.",N/A,womens equestrian,baylor
-425,Sydney Scheckel,"Richmond, Kan.",N/A,womens equestrian,baylor
-426,Taylor Serrano,"Las Vegas, Nev.",N/A,womens equestrian,baylor
-427,Sarah Sharou,"Thousand Oaks, Calif.",N/A,womens equestrian,baylor
-428,Georgia Smith,"Phoenix, Ariz.",N/A,womens equestrian,baylor
-429,Shyanne Smith,"Whitesboro, Texas",N/A,womens equestrian,baylor
-430,Grace Thiel,"Easton, Kan.",N/A,womens equestrian,baylor
-431,Sarah Walker,"Dallas, Texas",N/A,womens equestrian,baylor
-432,Caroline Weaver,"Raleigh, N.C.",N/A,womens equestrian,baylor
-433,Madison Blackwell,"Plano, Texas",Plano West HS,womens acrobatics,baylor
-434,Toni Bronisevsky,"Pt. Pleasant Beach, N.J.",Howell HS,womens acrobatics,baylor
-435,Hope Bravo,"Dallas, Texas",Penn Foster Homeschool,womens acrobatics,baylor
-436,Kristen Crockett,"Lewisville, Texas",Lewisville HS,womens acrobatics,baylor
-437,Shayla Moore,"Alpharetta, Ga.",Johns Creek HS,womens acrobatics,baylor
-438,Dayandrea Thompson,"Bolingbrook, Ill.",Bolingbrook HS,womens acrobatics,baylor
-439,Kaylee Adams,"China Spring, Texas",China Spring HS,womens acrobatics,baylor
-440,Mary Berdis,"Winter Haven, Fla.",Chain of Lakes HS,womens acrobatics,baylor
-441,Ashley Echelberger,"Georgetown, Texas",Georgetown HS,womens acrobatics,baylor
-442,Jazmine Hall,"Keller, Texas",Byron Nelson HS,womens acrobatics,baylor
-443,Makenah Cotner,"Katy, Texas",Seven Lakes HS,womens acrobatics,baylor
-444,Meredith Aldis,"Cypress, Texas",Cypress Woods HS,womens acrobatics,baylor
-445,Bailey Hollier,"Flower Mound, Texas",Flower Mound HS,womens acrobatics,baylor
-446,Madison Kruse,"Oviedo, Fla.",Oviedo HS,womens acrobatics,baylor
-447,Faith Spivey,"Lakeland, Fla.",McKeel Academy of Technology,womens acrobatics,baylor
-448,Joie Hensley,"Castle Pines, Colo.",Rock Canyon HS,womens acrobatics,baylor
-449,Allie Alaman,"Fontana, Calif.",Etiwanda HS,womens acrobatics,baylor
-450,Emily Hoppie,"Coppell, Texas",Coppell HS,womens acrobatics,baylor
-451,Lauren Sturm,"Frisco, Texas",Lovejoy HS,womens acrobatics,baylor
-452,Molly Gibbons,"High Point, N.C.",Ledford HS,womens acrobatics,baylor
-453,Allie Steele,"Highlands Ranch, Colo.",Mountain Vista HS,womens acrobatics,baylor
-454,Alexsis Amrhein,"Scottsburg, Ind.",Scottsburg HS,womens acrobatics,baylor
-455,Madison Aldis,"Cypress, Texas",Cypress Woods HS,womens acrobatics,baylor
-456,Lauren Blackwell,"Plano, Texas",Plano West HS,womens acrobatics,baylor
-457,Briana Harris,"Cibolo, Texas",Steele HS,womens acrobatics,baylor
-458,Kara Warren,"Hoover, Ala.",Spain Park HS,womens acrobatics,baylor
-459,Jena Fisher,"Fairview, Texas",Lovejoy HS,womens acrobatics,baylor
-460,Elise Manning,"Belton, Texas",Belton HS,womens acrobatics,baylor
-461,Alexis Fowlkes,"Fresno, Calif.",Clovis West HS,womens acrobatics,baylor
-462,Aubrey Simon,"Shreveport, La.",C. E. Byrd HS,womens acrobatics,baylor
-463,Kati Horstmann,"Liberty Hill, Texas",N/A,womens acrobatics,baylor
-464,Brooke Garza,"Mission, Texas",Pioneer HS,womens acrobatics,baylor
-465,Camila Montelongo,"Giddings, Texas",Liberty Hill HS,womens acrobatics,baylor
-466,Gigi Mendoza,"Seal Beach, Calif",Mater Dei HS,womens acrobatics,baylor
-467,Hannah Schumacher,"Monroe, Wash.",Monroe HS,womens acrobatics,baylor
-468,Camryn Bryant,"Suwanee, Ga.",Peachtree Ridge HS,womens acrobatics,baylor
-469,Morgan Celum,"Georgetown, Texas",Georgetown HS,womens acrobatics,baylor
-470,Ceara Gray,"Birmingham, Ala.",Clay-Chalkville HS,womens acrobatics,baylor
+0,Flo Thamba,"Kinshasa, Democratic Rep. of Congo",Mountain Mission [Va.] School,mens basketball,baylor
+1,Darius Allen,"Melbourne, Fla.",Chaminade-Madonna Prep/Palm Beach State,mens basketball,baylor
+2,Devonte Bandoo,"Brampton, Ont.",Faith Baptist HS/Hutchinson [Kan.] CC,mens basketball,baylor
+3,King McClure,"Dallas, Texas",Triple A Academy,mens basketball,baylor
+4,Mario Kegler,"Jackson, Miss.",Oak Hill Academy/Mississippi State,mens basketball,baylor
+5,MaCio Teague,"Cincinnati, Ohio",Walnut Hills [Ohio] HS/UNC Asheville,mens basketball,baylor
+6,Makai Mason,"Greenfield, Mass.",Hotchkiss School/Yale,mens basketball,baylor
+7,Mark Vital,"Lake Charles, La.",Advanced Prep Int'l. [Texas],mens basketball,baylor
+8,Jared Butler,"Reserve, La.",Riverside Academy,mens basketball,baylor
+9,Jackson Moffatt,"Magnolia, Texas",Magnolia HS,mens basketball,baylor
+10,Obim Okeke,"Las Vegas, Nev.",Bishop Gorman HS,mens basketball,baylor
+11,Jake Lindsey,"Houston, Texas",Olympus HS [Utah],mens basketball,baylor
+12,Matthew Mayer,"Austin, Texas",Westlake HS,mens basketball,baylor
+13,Tristan Clark,"San Antonio, Texas",Wagner HS,mens basketball,baylor
+14,Freddie Gillespie,"St. Paul, Minn.",East Ridge HS/Carleton,mens basketball,baylor
+15,Davion Mitchell,"Hinesville, Ga.",Liberty County HS/Auburn,mens basketball,baylor
+16,NaLyssa Smith,"Converse, Texas",East Central HS,womens basketball,baylor
+17,DiDi Richards,"Cypress, Texas",Cypress Ranch HS,womens basketball,baylor
+18,Trinity Oliver,"Euless, Texas",Trinity HS,womens basketball,baylor
+19,Honesty Scott-Grayson,"Brick, N.J.",Riverdale Baptist HS,womens basketball,baylor
+20,Aquira DeCosta,"Sacramento, Calif.",St. Mary's HS,womens basketball,baylor
+21,Moon Ursin,"Destrehan, La.",Destrehan HS,womens basketball,baylor
+22,Lauren Cox,"Flower Mound, Texas",Flower Mound HS,womens basketball,baylor
+23,Juicy Landrum,"Waco, Texas",La Vega HS,womens basketball,baylor
+24,Kalani Brown,"Slidell, La.",Salmen HS,womens basketball,baylor
+25,Chloe Jackson,"Upper Marlboro, Md.",Riverdale Baptist HS,womens basketball,baylor
+26,Queen Egbo,"Houston, Texas",Travis HS,womens basketball,baylor
+27,Caitlin Bickle,"Cave Creek, Ariz.",Cactus Shadows HS,womens basketball,baylor
+28,Cole Haring,"Katy, Texas",Katy HS,baseball,baylor
+29,Nick Loftin,"Corpus Christi, Texas",W.B. Ray HS,baseball,baylor
+30,Tucker Cascadden,"Houston, Texas",San Jacinto JC,baseball,baylor
+31,Levi Gilcrease,"Odessa, Florida",Home School,baseball,baylor
+32,Davion Downey,"Bowling Green, Ky.",Warren East HS,baseball,baylor
+33,Drew Robertson,"Tyler, Texas",The Brook Hill School,baseball,baylor
+34,Tucker Johnson,"China Spring, Texas",McLennan CC,baseball,baylor
+35,Hunter Seay,"Keller, Texas",Keller HS,baseball,baylor
+36,Josh Bissonette,"Anaheim Hills, Calif.",Orange Lutheran HS,baseball,baylor
+37,Kyle Hill,"Corpus Christi, Texas",Calallen HS,baseball,baylor
+38,Joe Heineman,"Southlake, Texas",Carroll HS,baseball,baylor
+39,Cody Bradford,"Aledo, Texas",Aledo HS,baseball,baylor
+40,Ryan Leckich,"Port Neches, Texas",Neches Groves HS,baseball,baylor
+41,T.J. Raguse,"Georgetown, Texas",Georgetown HS,baseball,baylor
+42,Richard Cunningham,"Austin, Texas",Stephen F. Austin HS,baseball,baylor
+43,Jacob Wyeth,"Austin, Texas",Lake Travis HS,baseball,baylor
+44,Shea Langeliers,"Keller, Texas",Keller HS,baseball,baylor
+45,Jimmy Winston,"Houston, Texas",Lamar HS,baseball,baylor
+46,Andy Thomas,"Murrieta, Calif.",Murrieta HS,baseball,baylor
+47,Billy Mote,"Bloomington, Ill.",N/A,baseball,baylor
+48,Hayden Kettler,"Coppell, Texas",Coppell HS,baseball,baylor
+49,Jacob Ashkinos,"Aledo, Texas",Aledo HS,baseball,baylor
+50,Daniel Caruso,"Los Angeles, Calif.",Loyola HS,baseball,baylor
+51,Kyle Harper,"Houston, Texas",Cypress Creek HS,baseball,baylor
+52,Davis Wendzel,"San Clemente, Calif.",Jserra Catholic HS,baseball,baylor
+53,Collin Sharp,"Lorena, Texas",McLennan CC,baseball,baylor
+54,Ryan Bertelsman,"Friendswood, Texas",Friendswood HS,baseball,baylor
+55,Troy Montemayor,"San Antonio, Texas",Reagan HS,baseball,baylor
+56,Chase Wehsener,"San Diego, Calif.",Christian HS,baseball,baylor
+57,Jesse Garcia,"Houston, Texas",Bellaire HS,baseball,baylor
+58,Alex Phillips,"Nacogdoches, Texas",Nacogdoches Central Heights HS,baseball,baylor
+59,Luke Boyd,"Ojai, Calif.",Nordhoff HS,baseball,baylor
+60,Cole Weaver,"Carlsbad, Calif.",Santa Fe Christian HS,baseball,baylor
+61,Tyler Thomas,"Keller, Texas",Keller HS,baseball,baylor
+62,Collin Garrett,"Montgomery, Texas",Montgomery HS,baseball,baylor
+63,Verkedric Vaughns,"Mesquite, Texas",Poteet HS,football,baylor
+64,Chris Miller,"Frisco, Texas",Lone Star HS,football,baylor
+65,Grayland Arnold,"Kountze, Texas",Kountze HS,football,baylor
+66,Jalen Hurd,"Hendersonville, Tenn.",Beech Senior HS,football,baylor
+67,JaMycal Hasty,"Longview, Texas",Longview HS,football,baylor
+68,John Lovett,"Burlington, N.J.",Cherokee HS,football,baylor
+69,Henry Black,"Shreveport, La.",Woodlawn HS,football,baylor
+70,Ira Lewis,"Houston, Texas",Lamar HS,football,baylor
+71,Gerry Bohanon,"Earle, Ark.",Earle HS,football,baylor
+72,Jameson Houston,"Austin, Texas",St. Michael's Academy,football,baylor
+73,Charlie Brewer,"Austin, Texas",Lake Travis HS,football,baylor
+74,R.J. Sneed,"Cypress, Texas",Cypress Ranch HS,football,baylor
+75,Raleigh Texada,"Frisco, Texas",Centennial HS,football,baylor
+76,Brandon Bass,"Addison, Texas",Trinity Christian,football,baylor
+77,Chris Platt,"Willis, Texas",Willis HS,football,baylor
+78,Denzel Mims,"Daingerfield, Texas",Daingerfield HS,football,baylor
+79,Preston Weeks,"Rowlett, Texas",Rowlett HS,football,baylor
+80,Jared Atkinson,"Mesquite, Texas",Horn HS,football,baylor
+81,Preston Heard,"Bellaire, Texas",Episcopal HS,football,baylor
+82,Garret McGuire,"Cedar Hill, Texas",Cedar Hill HS,football,baylor
+83,Pooh Stricklin,"Waco, Texas",Midway HS,football,baylor
+84,Zack Bennema,"Aurora, Ill.",Waubonsie Valley HS,football,baylor
+85,Gavin Holmes,"Justin, Texas",Northwest HS,football,baylor
+86,Jalan McClendon,"Charlotte, N.C.",W. Mecklenburg HS,football,baylor
+87,Craig Williams,"Crosby, Texas",Crosby HS,football,baylor
+88,Josh Fleeks,"Dallas, Texas",Cedar Hill HS,football,baylor
+89,Blake Lynch,"Gilmer, Texas",Gilmer HS,football,baylor
+90,JT Woods,"San Antonio, Texas",Steele HS,football,baylor
+91,Derrek Thomas,"Albany, N.Y.",Bishop Maginn HS,football,baylor
+92,Jalen Pitre,"Stafford, Texas",Stafford HS,football,baylor
+93,Trestan Ebner,"Henderson, Texas",Henderson HS,football,baylor
+94,"Byron Hanspard, Jr.","DeSoto, Texas",DeSoto HS,football,baylor
+95,Terrel Bernard,"La Porte, Texas",La Porte HS,football,baylor
+96,Kalon Barnes,"Silsbee, Texas",Silsbee HS,football,baylor
+97,Abram Smith,"Abilene, Texas",Abilene HS,football,baylor
+98,Christian Morgan,"Houston, Texas",Porter HS,football,baylor
+99,Will Baxter,"Amarillo, Texas",Tascosa HS,football,baylor
+100,Harrison Hand,"Cherry Hill, N.J.",Cherry Hill West HS,football,baylor
+101,Lenoy Jones Jr.,"Waco, Texas",Midway HS,football,baylor
+102,Connor Stanton,"Scottsdale, Ariz.",Notre Dame Prep,football,baylor
+103,Owen Rogers,"Phoenix, Ariz.",Brophy College Prep,football,baylor
+104,Zeke Brown,"Midlothian, Texas",Midlothian HS,football,baylor
+105,Allen Anderson,"East Bernard, Texas",East Bernard HS,football,baylor
+106,Drew Galitz,"Rowlett, Texas",Rowlett HS,football,baylor
+107,Cody George,"Lorena, Texas",Lorena HS,football,baylor
+108,Mark Milton,"Houston, Texas",Clear Brook HS,football,baylor
+109,Koby Bullard,"La Vernia, Texas",La Vernia HS,football,baylor
+110,Jordan Williams,"Paris, Texas",Paris HS,football,baylor
+111,Colby Delashaw,"Frisco, Texas",Wakeland HS,football,baylor
+112,Deonte Williams,"Plano, Texas",Prestonwood Christian Academy,football,baylor
+113,Jake Copeland,"Southlake, Texas",Southlake HS,football,baylor
+114,Jairon McVea,"Richmond, Texas",George Ranch HS,football,baylor
+115,James Lockhart,"Ennis, Texas",Ennis HS,football,baylor
+116,Dru Dixon,"Phoenix, Ariz.",Pinnacle HS,football,baylor
+117,Clay Johnston,"Abilene, Texas",Wylie HS,football,baylor
+118,Bryson Jackson,"Mansfield, Texas",Lake Ridge HS,football,baylor
+119,Ross Matiscik,"McKinney, Texas",McKinney Boyd HS,football,baylor
+120,Kyle Boyd,"Mesquite, Texas",Horn HS,football,baylor
+121,BJ Thompson,"England, Ark.",England HS,football,baylor
+122,Chad Kelly,"Grapevine, Texas",Faith Christian School,football,baylor
+123,Ashton Logan,"Temple, Texas",Temple HS,football,baylor
+124,Chris Lutzel,"Huntersville, N.C.",Southlake Christian Academy,football,baylor
+125,Jackson Shupp,"The Woodlands, Texas",The Woodlands HS,football,baylor
+126,Greg Roberts,"Nacogdoches, Texas",Nacogdoches HS,football,baylor
+127,Sam Tecklenburg,"Plano, Texas",Plano HS,football,baylor
+128,Jason Moore,"Frisco, Texas",Independence HS,football,baylor
+129,Marje Smith,"Marshall, Texas",Marshall HS,football,baylor
+130,Xavier Newman,"Desoto, Texas",Desoto HS,football,baylor
+131,Johncarlo Valentin,"Philadelphia, Pa.",Imhotep Charter,football,baylor
+132,Michael McNair,"Richardson, Texas",Plano East,football,baylor
+133,Ty Smith,"Argyle, Texas",Argyle HS,football,baylor
+134,Khalil Keith,"Alpine, Ala.",Winterboro HS,football,baylor
+135,Dalton Justice,"Thomas, Okla.",Thomas-Fay-Custer HS,football,baylor
+136,Jake Fruhmorgen,"Tampa, Fla.",Plant HS,football,baylor
+137,Ryan Miller,"Southlake, Texas",Carroll HS,football,baylor
+138,Christian Beard,"Waco, Texas",Midway HS,football,baylor
+139,Thor Rodoni,"Los Banos, Calif.",Pacheco HS,football,baylor
+140,Josh Malin,"Cibolo, Texas",Steele HS,football,baylor
+141,Jackson Kimble,"Southlake, Texas",Southlake HS,football,baylor
+142,Jim Threet,"Sunnyvale, Texas",Sunnyvale HS,football,baylor
+143,Blake Blackmar,"Houston, Texas",Clear Lake HS,football,baylor
+144,Prince Pines,"Baton Rouge, La.",Tara HS,football,baylor
+145,Eleasah Anderson,"Houston, Texas",Taylor HS,football,baylor
+146,Brayden Utley,"Huntington Beach, Calif.",Loyola HS,football,baylor
+147,Connor Galvin,"Katy, Texas",Katy HS,football,baylor
+148,Patrick  Lawrence,"Waxahachie, Texas",Waxahachie HS,football,baylor
+149,Henry Klinge III,"Southlake, Texas",Carroll HS,football,baylor
+150,Casey Phillips,"Franklin, Texas",Franklin HS,football,baylor
+151,Jackson Gleeson,"Mansfield, Texas",Mansfield HS,football,baylor
+152,Tyquan Thornton,"Miami, Fla.",Booker T. Washington HS,football,baylor
+153,Tyler Henderson,"Kyle, Texas",Lehman HS,football,baylor
+154,Russell Morrison,"Katy, Texas",Cinco Ranch HS,football,baylor
+155,Marques Jones,"McKinney, Texas",McKinney HS,football,baylor
+156,Ben Sims,"San Antonio, Texas",Clark HS,football,baylor
+157,Jamie Jacobs,"Waco, Texas",Midway HS,football,baylor
+158,Christoph Henle,"Innsbruck, Austria",The Oakridge School,football,baylor
+159,Bralen Taylor,"Cuero, Texas",Cuero HS,football,baylor
+160,Jay Sedwick,"Arlington, Texas",Grace Prep,football,baylor
+161,Trevor White,"Arlington, Texas",Martin HS,football,baylor
+162,Tyrone Hunt,"Arp, Texas",Arp HS,football,baylor
+163,Rob Saulin,"Pennsville, N.J.",Pennsville Memorial HS,football,baylor
+164,James Lynch,"Round Rock, Texas",Round Rock HS,football,baylor
+165,Xavier Jones,"Magnolia, Texas",Magnolia West HS,football,baylor
+166,John Mayers,"Flower Mound, Texas",Marcus HS,football,baylor
+167,Connor Martin,"Frisco, Texas",Centennial HS,football,baylor
+168,Cole Maxwell,"Allen, Texas",Allen HS,football,baylor
+169,Josh Landry,"Houston, Texas",Lamar HS,football,baylor
+170,Issac  Power,"Castle Rock, Colo.",Ponderosa HS,football,baylor
+171,Chidi Ogbonnaya,"Houston, Texas",Langham Creek HS,football,baylor
+172,Bravvion Roy,"Spring, Texas",Spring HS,football,baylor
+173,Kayley Ables,"Waco, Texas",Waco HS,womens soccer,baylor
+174,Maddie Algya,"Highland Village, Texas",Marcus HS,womens soccer,baylor
+175,Sarah Bevington,"Arvada, Colo.",Ralston Valley HS,womens soccer,baylor
+176,Kennedy Brown,"Kingwood, Texas",Kingwood HS,womens soccer,baylor
+177,Zionah Browne,"Spring, Texas",Klein HS,womens soccer,baylor
+178,Emily Bunnell,"Cottage Grove, Minn.",East Ridge HS,womens soccer,baylor
+179,Maggie Burton,"Eagle, Idaho",Eagle HS,womens soccer,baylor
+180,Jackie Crowther,"Temecula, Calif.",Linfield Christian HS,womens soccer,baylor
+181,Giuliana Cunningham,"Highland Park, Ill.",Highland Park HS,womens soccer,baylor
+182,Haley Foster,"Highlands Ranch,  Colo.",Highlands Ranch HS,womens soccer,baylor
+183,Danielle Hayden,"Indianapolis, Ind.",Pike HS,womens soccer,baylor
+184,Ally Henderson,"Wichita, Kan.",Trinity Academy,womens soccer,baylor
+185,Julie James,"Fairview, Texas",McKinney Christian Academy,womens soccer,baylor
+186,Audrey Johnston,"Woodway, Texas",Midway HS,womens soccer,baylor
+187,Sarah King,"Coppell, Texas",Coppell HS,womens soccer,baylor
+188,Ariel Leach,"Flower Mound, Texas",Flower Mound HS,womens soccer,baylor
+189,Taylor Moon,"Highland Village, Texas",Marcus HS,womens soccer,baylor
+190,Sarah Norman,"McKinney, Texas",McKinney Boyd HS,womens soccer,baylor
+191,Raegan Padgett,"Beaumont, Texas",Hardin-Jefferson HS,womens soccer,baylor
+192,Hannah Parrish,"Naperville, Ill.",Neuqua Valley HS,womens soccer,baylor
+193,Lauren Piercy,"Health, Kinesiology & Leisure Studies","Amarillo, Texas",womens soccer,baylor
+194,Elena Reyna,"Flower Mound, Texas",Flower Mound HS,womens soccer,baylor
+195,Kylie Ross,"McKinney, Texas",McKinney Boyd HS,womens soccer,baylor
+196,Halee Sowinski,"Allen, Texas",Allen HS,womens soccer,baylor
+197,Jennifer Wandt,"Brookfield, Wisc.",Brookfield East HS,womens soccer,baylor
+198,Camryn Wendlandt,"Coueur d'Alene, Idaho",Lake City HS,womens soccer,baylor
+199,Alec Atteberry,"Apex, N.C.",Apex Friendship HS,mens cross country,baylor
+200,Seth Brown,"La Plata, Mo.",La Plata HS,mens cross country,baylor
+201,Matt Henderson,"Spring, Texas",The Woodlands HS,mens cross country,baylor
+202,Ryan Hodge,"Mahomet, Ill.",Mahomet-Seymour HS,mens cross country,baylor
+203,Henry Huff,"St. Charles, Mo.",Lutheran (St. Charles HS,mens cross country,baylor
+204,Cal Johnston,"Waco, Texas",Midway HS,mens cross country,baylor
+205,Jeff Kirwin,"Diamond Bar, Calif.",Glendora HS,mens cross country,baylor
+206,Connor Laktasic,"Albuquerque, N.M.",Eldorado HS,mens cross country,baylor
+207,Sean McCullough,"Northville, Mich.",Northville HS,mens cross country,baylor
+208,Jeremy Meadows,"Monument, Colo.",Palmer Ridge HS,mens cross country,baylor
+209,Jake Merrell,"Quitaque, Texas",Valley HS,mens cross country,baylor
+210,J.B. Sandlund,"St. Charles, Ill.",St. Charles East H.S.,mens cross country,baylor
+211,TJ Sugg,"Springdale, Ark.",Har-Ber HS,mens cross country,baylor
+212,Lauren Ammons,"Raleigh, N.C.",Sanderson HS,womens cross country,baylor
+213,Alison Andrews-Paul,"Masterton, New Zealand",Wairarapa College,womens cross country,baylor
+214,Sarah Antrich,"Houston, Texas",Kingwood HS,womens cross country,baylor
+215,Lindsey Bradley,"Richland, Wash.",Richland HS,womens cross country,baylor
+216,Emily Curran,"Oldsmar, Fla.",Calvary Christian HS,womens cross country,baylor
+217,Amanda Dillon,"Springdale, Ark.",Har-Ber HS,womens cross country,baylor
+218,Haley Everroad,"Scottsdale, Ariz.",Scottsdale Prep,womens cross country,baylor
+219,Sydney Gandy,"Katy, Texas",Seven Lakes HS,womens cross country,baylor
+220,Brooke Gilmore,"Belton, Texas",Belton HS,womens cross country,baylor
+221,Celia Holmes,"Waco, Texas",Live Oak Classical School,womens cross country,baylor
+222,Jamie Holodak,"North Augusta, S.C.",Augusta Preparatory Day School,womens cross country,baylor
+223,Madelaine Johnston,"Wichita Falls, Texas",Burkburnett H.S.,womens cross country,baylor
+224,Isabella Lackner,"Raleigh, N.C.",Saint Thomas More Academy,womens cross country,baylor
+225,Mazie Larsen,"Gretna, Neb.",Gretna HS,womens cross country,baylor
+226,Hana Marsheck,"Palo Alto, Calif.",Woodside Priory,womens cross country,baylor
+227,Aaliyah Miller,"McKinney, Texas",McKinney Boyd HS,womens cross country,baylor
+228,Katy Parsons,"Hotchkiss, Colo.",Hotchkiss HS,womens cross country,baylor
+229,Megan Rule,"Stamford, Connecticut",Stamford HS,womens cross country,baylor
+230,Gabby Satterlee,"Visalia, Calif.",Central Valley Christian HS,womens cross country,baylor
+231,Natasha Strump,"Miami, Florida",Westminster Christian School,womens cross country,baylor
+232,Lindsay Walton,"Peoria, Ill.",Peoria Christian School,womens cross country,baylor
+233,Kayla Windemuller,"Hamilton, Mich.",Holland Christian HS,womens cross country,baylor
+234,Braden Bailey,"Groves, Texas",Port Neches-Groves HS,mens golf,baylor
+235,Austin Cotton,"Austin, Texas",Westwood HS,mens golf,baylor
+236,Cooper Dossey,"Austin, Texas",Vandegrift HS,mens golf,baylor
+237,Ryan Grider,"Lewisville, Texas",iSchool HS,mens golf,baylor
+238,Brandon Hoff,"Austin, Texas",Vandegrift HS,mens golf,baylor
+239,Colin Kober,"Southlake, Texas",Carroll HS,mens golf,baylor
+240,Garrett May,"Hope, Ark.",Texas HS,mens golf,baylor
+241,Travis McInroe,"Plano, Texas",Plano West HS,mens golf,baylor
+242,Mark Reppe,"Dallas, Texas",Episcopal School of Dallas,mens golf,baylor
+243,Diane Baillieux,"Dongelberg, Belgium",Ecole International le Verseau,womens golf,baylor
+244,Tuan-Yu Chiang,"Taichung City, Taiwan",Mid-Pacific [Hawaii] Institute,womens golf,baylor
+245,Laila Hrindova,"Poprad, Slovakia",Doha (Qatar) College,womens golf,baylor
+246,Gurleen Kaur,"Houston, Texas",Cy Woods HS,womens golf,baylor
+247,Fiona Liddell,"Warendorf, Germany",Mariengymnasium,womens golf,baylor
+248,Amelia McKee,"Spring, Texas",Klein Oak HS,womens golf,baylor
+249,Jordan Shackelford,"Austin, Texas",Westlake HS,womens golf,baylor
+250,Maria Vesga,"Bucaramanga, Colombia",Colegio Panamericano,womens golf,baylor
+251,Jimmy Bendeck,"Hollywood, Fla.",Family Tree HS,mens tennis,baylor
+252,Constantin Frantzen,"Augsburg, Germany",Stadtische Robert-Bosch Fachoberschule,mens tennis,baylor
+253,Sven Lah,"Ptuj, Slovenia",Gimnazija Ptuj,mens tennis,baylor
+254,Will Little,"Joplin, Mo.",College Heights Christian School,mens tennis,baylor
+255,Bjoern Petersen,"Eckernfoerde, Germany",Internatsgymnasium Louisenlund,mens tennis,baylor
+256,Johannes Schretter,"Graz, Austria",BORG Monsberger,mens tennis,baylor
+257,Roy Smith,"New Haven, Connecticut",Cooperative Arts & Humanities HS,mens tennis,baylor
+258,Matias Soto,"Copiapo, Chile",Colegio Olimpo,mens tennis,baylor
+259,Kyrylo Tsygura,"North Potomac, Md.",IMG Academy,mens tennis,baylor
+260,Jessica Hinojosa,"Guadalajara, Mexico",SEP Mexico,womens tennis,baylor
+261,Livia Kraus,"Nieder-Olm, Germany",Gymnasium Nieder-Olm,womens tennis,baylor
+262,Katelyn Parker,"Rancho Palos Verdes, Calif.",Palos Verdes Peninsula,womens tennis,baylor
+263,Angelina Shakhraichuk,"Kiev, Ukraine",Gymnasium Consul 86,womens tennis,baylor
+264,Kristina Sorokolet,"Moscow, Russia",Moscow School #152,womens tennis,baylor
+265,Dominika Sujova,"Topolcany, Slovakia",Gymnaszium Vincenta de Paul,womens tennis,baylor
+266,William Anderson,N/A,N/A,mens track,baylor
+267,Alec Atteberry,"Apex, N.C.",Apex Friendship HS,mens track,baylor
+268,Dillon Baker,N/A,N/A,mens track,baylor
+269,Jayson Baldridge,"Houston, Texas",George Ranch HS,mens track,baylor
+270,Ian Braxton,"Highland Village, Texas",Marcus HS,mens track,baylor
+271,Seth Brown,"La Plata, Mo.",La Plata HS,mens track,baylor
+272,Cody Cunningham,"Plano, Texas",Prestonwood Christian Academy,mens track,baylor
+273,Isaiah Cunningham,"Moreno Valley, Calif.",Rancho Verde HS,mens track,baylor
+274,Caleb Dickson,"Borger, Texas",Borger HS,mens track,baylor
+275,Howard Fields III,"Manvel, Texas",Manvel HS,mens track,baylor
+276,Elijah Gifford,"Austin, Texas",St. Michael's Catholic Academy,mens track,baylor
+277,Greyson Gonzalez,"Waco, Texas",Bosqueville HS,mens track,baylor
+278,Cole Hardan,"Valley Center, Calif.",San Pasqual HS,mens track,baylor
+279,Niko Harrell,N/A,N/A,mens track,baylor
+280,Matt Henderson,"Spring, Texas",The Woodlands HS,mens track,baylor
+281,Ryan Hodge,"Mahomet, Ill.",Mahomet-Seymour HS,mens track,baylor
+282,Henry Huff,"St. Charles, Mo.",Lutheran (St. Charles HS,mens track,baylor
+283,Cal Johnston,"Waco, Texas",Midway HS,mens track,baylor
+284,Jeff Kirwin,"Diamond Bar, Calif.",Glendora HS,mens track,baylor
+285,Connor Laktasic,"Albuquerque, N.M.",Eldorado HS,mens track,baylor
+286,Danny Leland,"Dallas, Texas",Highland Park HS,mens track,baylor
+287,KC Lightfoot,N/A,N/A,mens track,baylor
+288,Blaine Listach,"Elm Mott, Texas",Rapoport Academy,mens track,baylor
+289,Wil London,"Waco, Texas",Waco HS,mens track,baylor
+290,Sean McCullough,"Northville, Mich.",Northville HS,mens track,baylor
+291,Jeremy Meadows,"Monument, Colo.",Palmer Ridge HS,mens track,baylor
+292,Jake Merrell,"Quitaque, Texas",Valley HS,mens track,baylor
+293,Matthew Moorer,N/A,N/A,mens track,baylor
+294,Antwuan Musgrove,"Miami, Fla.",Hallandale HS,mens track,baylor
+295,Riley Richards,"China Spring, Texas",China Spring HS,mens track,baylor
+296,J.B. Sandlund,"St. Charles, Ill.",St. Charles East H.S.,mens track,baylor
+297,Jalen Seals,"Ft. Worth, Texas",Boswell HS,mens track,baylor
+298,TJ Sugg,"Springdale, Ark.",Har-Ber HS,mens track,baylor
+299,Raleigh Texada,"Frisco, Texas",Centennial HS,mens track,baylor
+300,Cameron Turner,"Houston, Texas",Langham Creek HS,mens track,baylor
+301,Maxwell Willis,"Upper Marlboro, Md.",Archbishop Carroll HS,mens track,baylor
+302,Maddy Agnew,"Mission Viejo, Calif.",Mission Viejo HS,womens track,baylor
+303,Lauren Ammons,"Raleigh, N.C.",Sanderson HS,womens track,baylor
+304,Alison Andrews-Paul,"Masterton, New Zealand",Wairarapa College,womens track,baylor
+305,Sarah Antrich,"Houston, Texas",Kingwood HS,womens track,baylor
+306,Anatalia Ashcroft,"Brookfield, Wis.",Brookfield East HS,womens track,baylor
+307,Julia Aurignac,N/A,N/A,womens track,baylor
+308,Kennedy Bailey,"Cypress, Texas",Cypress Woods HS,womens track,baylor
+309,Emma Bakke,"Puyallup, Wash.",Sumner HS,womens track,baylor
+310,Taylor Bennett,"Spring, Texas",Klein Collins HS,womens track,baylor
+311,Lindsey Bradley,"Richland, Wash.",Richland HS,womens track,baylor
+312,Brianna Brown,"Katy, Texas",Seven Lakes HS,womens track,baylor
+313,Demitra Carter,"Kansas City, Kan.",Sumner Academy of Arts and Sciences,womens track,baylor
+314,Laura Casadonte,"Frederick, Md.",Governor Thomas Johnson HS,womens track,baylor
+315,Tiera Cleveland,N/A,N/A,womens track,baylor
+316,Emily Curran,"Oldsmar, Fla.",Calvary Christian HS,womens track,baylor
+317,Megan Daley,N/A,N/A,womens track,baylor
+318,Leticia De Souza,"Sao Paulo, Brazil",E.T.E.C. Guaracy Silveira,womens track,baylor
+319,Amanda Dillon,"Springdale, Ark.",Har-Ber HS,womens track,baylor
+320,Amani Dotson,"Houston, Texas",Memorial HS,womens track,baylor
+321,Haley Everroad,"Scottsdale, Ariz.",Scottsdale Prep,womens track,baylor
+322,Jacinta Fisher,"North Sydney, Australia",Monte Sant' Angelo Mercy College,womens track,baylor
+323,Sydney Gandy,"Katy, Texas",Seven Lakes HS,womens track,baylor
+324,Brooke Gilmore,"Belton, Texas",Belton HS,womens track,baylor
+325,Raven Grant,"Conway, S.C.",Burke HS,womens track,baylor
+326,Celia Holmes,"Waco, Texas",Live Oak Classical School,womens track,baylor
+327,Jamie Holodak,"North Augusta, S.C.",Augusta Preparatory Day School,womens track,baylor
+328,Kiana Horton,"San Antonio, Texas",Judson HS,womens track,baylor
+329,Venae Jessurun,"Houston, Texas",Second Baptist HS,womens track,baylor
+330,Madelaine Johnston,"Wichita Falls, Texas",Burkburnett H.S.,womens track,baylor
+331,Jhane' King,"Fort Worth, Texas",Timbercreek HS,womens track,baylor
+332,Isabella Lackner,"Raleigh, N.C.",Saint Thomas More Academy,womens track,baylor
+333,Mazie Larsen,"Gretna, Neb.",Gretna HS,womens track,baylor
+334,Moorea Long,N/A,N/A,womens track,baylor
+335,Alex Lord,"League City, Texas",Bay Area Christian School,womens track,baylor
+336,Alex Madlock,"Bangs, Texas",Brownwood HS,womens track,baylor
+337,Hana Marsheck,"Palo Alto, Calif.",Woodside Priory,womens track,baylor
+338,Aaliyah Miller,"McKinney, Texas",McKinney Boyd HS,womens track,baylor
+339,Alyssa Miller,N/A,N/A,womens track,baylor
+340,Eva Morrison,"Fort Collins, Colo.",Liberty Common HS,womens track,baylor
+341,Abena Ofori,"Spring, Texas",Klein Oak HS,womens track,baylor
+342,Katy Parsons,"Hotchkiss, Colo.",Hotchkiss HS,womens track,baylor
+343,Tiffani Peacock,"Lorena, Texas",Lorena HS,womens track,baylor
+344,Tamar Perkins,"Houston, Texas",Cypress Falls H.S.,womens track,baylor
+345,Caira Pettway,"Sunnyvale, Texas",Sunnyvale HS,womens track,baylor
+346,Victoria Powell,"Atlanta, Ga.",The Lovett School,womens track,baylor
+347,Leila Rohde,"Fallbrook, Calif.",Linfield HS,womens track,baylor
+348,Megan Rule,"Stamford, Connecticut",Stamford HS,womens track,baylor
+349,TT Sanders,"Waco, Texas",Connally HS,womens track,baylor
+350,Gabby Satterlee,"Visalia, Calif.",Central Valley Christian HS,womens track,baylor
+351,Megan SaxvanderWeyden,"Pennsville, N.J.",Pennsville Memorial HS,womens track,baylor
+352,Kelli Silcox,N/A,N/A,womens track,baylor
+353,Xianni Simmons,"Riviera Beach, Fla.",Suncoast HS,womens track,baylor
+354,Morgan Stewart,"Houston, Texas",Jersey Village HS,womens track,baylor
+355,Natasha Strump,"Miami, Florida",Westminster Christian School,womens track,baylor
+356,K.C. Sullivan,"Orange, Calif.",Orange Lutheran HS,womens track,baylor
+357,Tuesdi Tidwell,"Early, Texas",Early HS,womens track,baylor
+358,Samone Turner,"DeSoto, Texas",DeSoto HS,womens track,baylor
+359,Lindsay Walton,"Peoria, Ill.",Peoria Christian School,womens track,baylor
+360,Sydney Washington,"Round Rock, Texas",Stony Point HS,womens track,baylor
+361,Kayla Windemuller,"Hamilton, Mich.",Holland Christian HS,womens track,baylor
+362,Sarah Yocum,"Arvada, Colo.",Faith Christian HS,womens track,baylor
+363,Lindsay Zatta,N/A,N/A,womens track,baylor
+364,Lexi Koltz,"Sioux Falls, S.D.",Roosevelt,softball,baylor
+365,Kyla Walker,"Franklin, Texas",Franklin,softball,baylor
+366,Regan Green,"Hebron, Md.",Laurel,softball,baylor
+367,Kassidy Krupit,"Suwanee, Ga.",Lambert,softball,baylor
+368,Madi O'Neal,"Huffman, Texas",Hargrave,softball,baylor
+369,Gia Rodoni,"Los Banos, Calif.",Pacheco,softball,baylor
+370,Hannah Smith,"Nederland, Texas",Nederland,softball,baylor
+371,Lou Gilbert,"Kansas City, Mo.",Staley,softball,baylor
+372,Taylor Ellis,"Waco, Texas",Midway,softball,baylor
+373,Kendall Cross,"Friendswood, Texas",Friendswood,softball,baylor
+374,Hannah Thompson,"Dickinson, Texas",Dickinson,softball,baylor
+375,Sidney Holman,"Belton, Texas",Belton,softball,baylor
+376,Ashley Marchand,"Haymarket, Va.",Battlefield,softball,baylor
+377,Ana Watson,"Hewitt, Texas",Reicher Catholic,softball,baylor
+378,Alyssa Avalos,"Rancho Cucamonga, Calif.",St. Lucy's Priory,softball,baylor
+379,Madison Lindsey,"Kingwood, Texas",Kingwood,softball,baylor
+380,Nicky Dawson,"Baton Rouge, La.",Parkview Baptist,softball,baylor
+381,Casey Shell,"Olathe, Kan.",Olathe South,softball,baylor
+382,Goose McGlaun,"Humble, Texas",Atascocita,softball,baylor
+383,Josie Bower,"Spring, Texas",Northland Christian,softball,baylor
+384,Maddison Kettler,"West, Texas",West,softball,baylor
+385,Tyler Trott,"Norman, Okla.",Little Axe,softball,baylor
+386,Tara Wulf,"Burke, Va.",Lake Braddock Secondary,womens volleyball,baylor
+387,Sydney Sacra,"Needville, Texas",Needville H.S.,womens volleyball,baylor
+388,Emily Van Slate,"Houston, Texas",Cypress Ridge H.S.,womens volleyball,baylor
+389,Shelly Fanning,"Cypress, Texas",Cypress Ranch H.S.,womens volleyball,baylor
+390,Hannah Fluegel,"Visalia, Calif.",Central Valley Christian,womens volleyball,baylor
+391,Aniah Philo,"Rockwall, Texas",Rockwall Heath H.S.,womens volleyball,baylor
+392,Taylor Marburger,"McAllen, Texas",McAllen Memorial H.S.,womens volleyball,baylor
+393,Marieke van der Mark,"Papendrecht, The Netherlands",Granby Memorial H.S.,womens volleyball,baylor
+394,Nicole Thomas,"Richmond, Va.",James River H.S.,womens volleyball,baylor
+395,Hannah Lockin,"Des Moines, Iowa",Valley H.S.,womens volleyball,baylor
+396,Jaelyn Jackson,"South Chesterfield, Va.",Matoaca H.S.,womens volleyball,baylor
+397,Braya Hunt,"Waco, Texas",Prestonwood Christian Academy,womens volleyball,baylor
+398,Bri Coleman,"Valencia, Calif.",Valencia H.S.,womens volleyball,baylor
+399,Ashley Fritcher,"Houston, Texas",Stratford H.S.,womens volleyball,baylor
+400,Yossiana Pressley,"Cypress, Texas",Cypress Falls H.S.,womens volleyball,baylor
+401,Shanel Bramschreiber,"Plano, Texas",Lucas Lovejoy H.S.,womens volleyball,baylor
+402,Gia Milana,"Romeo, Mich.",Romeo H.S.,womens volleyball,baylor
+403,Phoebe Alwine,"Delray Beach, Fla.",N/A,womens equestrian,baylor
+404,Brookie Bancroft,"Argyle, Texas",N/A,womens equestrian,baylor
+405,Sage Banta,"Cairo, N.Y.",N/A,womens equestrian,baylor
+406,Nicole Begala,"Houston, Texas",N/A,womens equestrian,baylor
+407,Gabrielle Bendall,"Glenmoore, Penn.",N/A,womens equestrian,baylor
+408,Kammie Berns,"Grosse Pointe Woods, Mich.",N/A,womens equestrian,baylor
+409,Sarah Bian,"Sammamish, Wash.",Forest Ridge HS,womens equestrian,baylor
+410,Sarah Boral,"Norwood, Mass.",N/A,womens equestrian,baylor
+411,Sarah Boston,"Baltimore, Md.",McDonogh School,womens equestrian,baylor
+412,Tyler Bui,"Hopkinton, Mass.",N/A,womens equestrian,baylor
+413,Madaline Callaway,"Loveland, Colo.",Peak to Peak Charter School,womens equestrian,baylor
+414,Katherine Cardenas,"Rancho Viejo, Texas",N/A,womens equestrian,baylor
+415,Liana Caroccio,"Bakersfield, Calif.",Liberty HS,womens equestrian,baylor
+416,Maddie Chenoweth,"Houston, Texas",Cypress Creek HS,womens equestrian,baylor
+417,Maggie Cincotta,"Vista, Calif.",Mission Vista HS,womens equestrian,baylor
+418,Presley Cortez,"Bakersfield, Calif.",Frontier HS,womens equestrian,baylor
+419,Madeleine Crawford,"Colleyville, Texas",N/A,womens equestrian,baylor
+420,Aspen Crew,"Bend, Ore.",N/A,womens equestrian,baylor
+421,Katie Davis,"College Station, Texas",N/A,womens equestrian,baylor
+422,Rachael Davis,"Woodinville, Wash.",N/A,womens equestrian,baylor
+423,Madison Day,"Brick, N.J.",N/A,womens equestrian,baylor
+424,Kaylynn DeBernard,"King George, Va.",N/A,womens equestrian,baylor
+425,Ashley DeLise,"Pittstown, N.J.",North Hunterdon Regional HS,womens equestrian,baylor
+426,Corinne Delius,"Austin, Texas",N/A,womens equestrian,baylor
+427,Abbi Demel,"Hoisington, Kan.",Hoisington HS,womens equestrian,baylor
+428,Mackenzie Ennis,"Marshall, Va.",Kettle Run HS,womens equestrian,baylor
+429,Caroline Fuller,"Temecula, Calif.",Linfield Christian School,womens equestrian,baylor
+430,Madeline Garner,"Rupert, Idaho",Inspire Connections Academy,womens equestrian,baylor
+431,Sara Greenhaw,"Georgetown, Texas",Georgetown HS,womens equestrian,baylor
+432,Gia Gulino,"Naperville, Ill.",N/A,womens equestrian,baylor
+433,Grace Hall,"Chester Springs, Pa.",Villa Maria Academy,womens equestrian,baylor
+434,Shannon Hogue,"West Chester, Pa.",Archmere Academy,womens equestrian,baylor
+435,Samantha Howell,"Milton, Vt.",Milton HS,womens equestrian,baylor
+436,Clara Johnson,"Indianola, Iowa",N/A,womens equestrian,baylor
+437,Michelle Mallett,"Thousand Oaks, Calif.",N/A,womens equestrian,baylor
+438,Sam Matthews,"Laguna Niguel, Calif.",Dana Hills HS,womens equestrian,baylor
+439,Danielle McIlquham,"Groton, Conn.",Marine Science Magnet HS,womens equestrian,baylor
+440,Lauren McLane,"Houston, Texas",N/A,womens equestrian,baylor
+441,Kaylee Mellott,"Wichita, Kan.",Ecademy,womens equestrian,baylor
+442,Catherine Moorhead,"Austin, Texas",Hyde Park HS,womens equestrian,baylor
+443,Isabella Nunes,"Hilmar, Calif.",N/A,womens equestrian,baylor
+444,Samantha Papageorge,"Dallas, Texas",The Cambridge School of Dallas,womens equestrian,baylor
+445,Rachel Powell,"Chatham, Ill.",Glenwood HS,womens equestrian,baylor
+446,Julia Rodriguez,"McGregor, Texas",N/A,womens equestrian,baylor
+447,Skylar Rogalny,"Wellington, Fla.",N/A,womens equestrian,baylor
+448,Carly Salter,"Mobile, Ala.",N/A,womens equestrian,baylor
+449,Kacie Scharf,"Gretna, Neb.",N/A,womens equestrian,baylor
+450,Sydney Scheckel,"Richmond, Kan.",N/A,womens equestrian,baylor
+451,Ellen Schrotenboer,"Holland, Mich.",Holland Christian HS,womens equestrian,baylor
+452,Taylor Serrano,"Las Vegas, Nev.",N/A,womens equestrian,baylor
+453,Briana Sessa,"Dallas, Texas",Episcopal School of Dallas,womens equestrian,baylor
+454,Sarah Sharou,"Thousand Oaks, Calif.",N/A,womens equestrian,baylor
+455,Georgia Smith,"Phoenix, Ariz.",N/A,womens equestrian,baylor
+456,Isabella Smith,"Littleton, Colo.",Heritage HS,womens equestrian,baylor
+457,Shyanne Smith,"Whitesboro, Texas",N/A,womens equestrian,baylor
+458,Hannah Stokan,"Katy, Texas",Seven Lakes HS,womens equestrian,baylor
+459,Grace Thiel,"Easton, Kan.",N/A,womens equestrian,baylor
+460,Delaney Van Horn,"El Cajon, Calif.",Granite Hills HS,womens equestrian,baylor
+461,Sarah Walker,"Dallas, Texas",N/A,womens equestrian,baylor
+462,Caroline Weaver,"Raleigh, N.C.",N/A,womens equestrian,baylor
+463,Morgan White,"Camarillo, Calif.",Adolfo Camarillo HS,womens equestrian,baylor
+464,Emma Witham,"St. Petersburg, Fla.",Largo HS,womens equestrian,baylor
+465,Megan Wood,"Loomis, Calif.",Del Oro HS,womens equestrian,baylor
+466,Madison Blackwell,"Plano, Texas",Plano West HS,womens acrobatics,baylor
+467,Toni Bronisevsky,"Pt. Pleasant Beach, N.J.",Howell HS,womens acrobatics,baylor
+468,Hope Bravo,"Dallas, Texas",Penn Foster Homeschool,womens acrobatics,baylor
+469,Kristen Crockett,"Lewisville, Texas",Lewisville HS,womens acrobatics,baylor
+470,Shayla Moore,"Alpharetta, Ga.",Johns Creek HS,womens acrobatics,baylor
+471,Dayandrea Thompson,"Bolingbrook, Ill.",Bolingbrook HS,womens acrobatics,baylor
+472,Kaylee Adams,"China Spring, Texas",China Spring HS,womens acrobatics,baylor
+473,Mary Berdis,"Winter Haven, Fla.",Chain of Lakes HS,womens acrobatics,baylor
+474,Ashley Echelberger,"Georgetown, Texas",Georgetown HS,womens acrobatics,baylor
+475,Jazmine Hall,"Keller, Texas",Byron Nelson HS,womens acrobatics,baylor
+476,Makenah Cotner,"Katy, Texas",Seven Lakes HS,womens acrobatics,baylor
+477,Meredith Aldis,"Cypress, Texas",Cypress Woods HS,womens acrobatics,baylor
+478,Bailey Hollier,"Flower Mound, Texas",Flower Mound HS,womens acrobatics,baylor
+479,Madison Kruse,"Oviedo, Fla.",Oviedo HS,womens acrobatics,baylor
+480,Faith Spivey,"Lakeland, Fla.",McKeel Academy of Technology,womens acrobatics,baylor
+481,Joie Hensley,"Castle Pines, Colo.",Rock Canyon HS,womens acrobatics,baylor
+482,Allie Alaman,"Fontana, Calif.",Etiwanda HS,womens acrobatics,baylor
+483,Emily Hoppie,"Coppell, Texas",Coppell HS,womens acrobatics,baylor
+484,Lauren Sturm,"Frisco, Texas",Lovejoy HS,womens acrobatics,baylor
+485,Molly Gibbons,"High Point, N.C.",Ledford HS,womens acrobatics,baylor
+486,Allie Steele,"Highlands Ranch, Colo.",Mountain Vista HS,womens acrobatics,baylor
+487,Alexsis Amrhein,"Scottsburg, Ind.",Scottsburg HS,womens acrobatics,baylor
+488,Madison Aldis,"Cypress, Texas",Cypress Woods HS,womens acrobatics,baylor
+489,Lauren Blackwell,"Plano, Texas",Plano West HS,womens acrobatics,baylor
+490,Briana Harris,"Cibolo, Texas",Steele HS,womens acrobatics,baylor
+491,Kara Warren,"Hoover, Ala.",Spain Park HS,womens acrobatics,baylor
+492,Jena Fisher,"Fairview, Texas",Lovejoy HS,womens acrobatics,baylor
+493,Elise Manning,"Belton, Texas",Belton HS,womens acrobatics,baylor
+494,Alexis Fowlkes,"Fresno, Calif.",Clovis West HS,womens acrobatics,baylor
+495,Aubrey Simon,"Shreveport, La.",C. E. Byrd HS,womens acrobatics,baylor
+496,Kati Horstmann,"Liberty Hill, Texas",N/A,womens acrobatics,baylor
+497,Brooke Garza,"Mission, Texas",Pioneer HS,womens acrobatics,baylor
+498,Camila Montelongo,"Giddings, Texas",Liberty Hill HS,womens acrobatics,baylor
+499,Gigi Mendoza,"Seal Beach, Calif",Mater Dei HS,womens acrobatics,baylor
+500,Hannah Schumacher,"Monroe, Wash.",Monroe HS,womens acrobatics,baylor
+501,Camryn Bryant,"Suwanee, Ga.",Peachtree Ridge HS,womens acrobatics,baylor
+502,Morgan Celum,"Georgetown, Texas",Georgetown HS,womens acrobatics,baylor
+503,Ceara Gray,"Birmingham, Ala.",Clay-Chalkville HS,womens acrobatics,baylor

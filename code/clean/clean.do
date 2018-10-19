@@ -268,9 +268,9 @@ order nonUSmatch, last
 
 // assert no complete duplicates (there is just one for some reason)
 bysort *: gen N = _N
-qui count if N > 1
+count if N > 1
 local x = r(N)
-assert `x' == 2
+assert `x' == 6
 duplicates drop
 drop N
 

@@ -1,432 +1,490 @@
 ,name,hometown,high school?,sport,college
-0,Shamiel Stevenson,"Toronto, Ontario, Canada",Hillcrest Prep [Ariz.],mens basketball,pitt
-1,Malik Ellison,"Voorhees, N.J.",Life Center Academy,mens basketball,pitt
-2,Jared Wilson-Frame,"Hartford, Conn.",Windsor,mens basketball,pitt
-3,Joe Mascaro,"Pittsburgh, Pa.",Bethel Park,mens basketball,pitt
-4,Khameron Davis,"Denver, Colo.",Forest Trail Academy [N.C.],mens basketball,pitt
-5,Kene Chukwuka,"Stockholm, Sweden",Soderslatts Gymnasiet,mens basketball,pitt
-6,Terrell Brown,"Providence, R.I.",Tilton School [N.H.],mens basketball,pitt
-7,Anthony Starzynski,"Pittsburgh, Pa.",Baldwin,mens basketball,pitt
-8,Samson George,"Minna, Nigeria",First Love Christian Academy [Pa.],mens basketball,pitt
-9,Peace Ilegomah,"Benin City, Nigeria",CBD Montverde [Fla.],mens basketball,pitt
-10,"Curtis Aiken, Jr.","Wexford, Pa.",North Allegheny,mens basketball,pitt
-11,Xavier Johnson,"Arlington, Va.",Bishop O'Connell,mens basketball,pitt
-12,Trey McGowens,"Piedmont, S.C.",Hargrave Military Academy [Va.],mens basketball,pitt
-13,Sidy N'Dir,"Cosne, Burgundy, France",West Oaks Academy [Fla.],mens basketball,pitt
-14,Au'Diese Toney,"Huntsville, Ala.",Trinity Christian Academy [N.C.],mens basketball,pitt
-15,Danielle Garven,"Toronto, Ontario",Chipola College,womens basketball,pitt
-16,Aysia Bugg,"Chicago, Ill.",Bolingbrook HS,womens basketball,pitt
-17,Jasmine Whitney,"Centreville, Va.",Paul VI HS,womens basketball,pitt
-18,Kauai Bradley,"Chicago, Ill.",Marian Catholic HS,womens basketball,pitt
-19,Cassidy Walsh,"Pittsburgh, Pa.",Seton-La Salle HS,womens basketball,pitt
-20,Cara Judkins,"Bethesda, Md.",Our Lady of Good Counsel,womens basketball,pitt
-21,Kyla Nelson,"Worthing, England",Oaklands College,womens basketball,pitt
-22,Pika Rodriguez,"Hartford, Conn.",Capital Prep Magnet School,womens basketball,pitt
-23,Jaala Henry,"Riverdale, Md.",National Christian Academy,womens basketball,pitt
-24,Alayna Gribble,"Pittsburgh, Pa.",Norwin HS,womens basketball,pitt
-25,Kalista Walters,"Fleetwood, Pa.",Bethlehem Catholic HS,womens basketball,pitt
-26,Nico Popa,"Pittsburgh, Pa.",Seton-LaSalle,baseball,pitt
-27,Frank Maldonado,"Short Hills, N.J.",Seton Hall Prep,baseball,pitt
-28,Bryce  O'Farrell,"Burlington, Ontario, Canada",Notre Dame,baseball,pitt
-29,Connor Perry,"North Huntingdon, Pa.",Norwin,baseball,pitt
-30,Caleb Parry,"Riverside, Calif.",Norco,baseball,pitt
-31,Danny Alvarez,"Bronx, N.Y.",Fordham Prep,baseball,pitt
-32,Yaya Chentouf,"Ocoee, Florida",Dr. Phillips,baseball,pitt
-33,Liam Sabino,"New York, NY",Blair Academy,baseball,pitt
-34,Chase Smith,"Marietta, Ga.",Pope,baseball,pitt
-35,Michael McManus,"Eldersburg, Md.",Mount Saint Joseph College Prep,baseball,pitt
-36,Alex Amos,"Winchester, Va.",Millbrook,baseball,pitt
-37,Chris Cappas,"Lynbrook, N.Y.",Kellenberg Memorial,baseball,pitt
-38,Dan Hammer,"Philadelphia, Pa.",Father Judge,baseball,pitt
-39,Blair Calvo,"St. Augustine, Fla.",Nease,baseball,pitt
-40,Brian Gerber,"Moorestown, N.J.",Moorestown,baseball,pitt
-41,Kris Navarro,"Miami, Fla.",Florida Christian,baseball,pitt
-42,Ron Washington Jr.,"Houston, Texas",Ridge Point,baseball,pitt
-43,David Yanni,"Pipersville, PA",Central Bucks-East,baseball,pitt
-44,Peyton Reesman,"Lewistown, Pa.",Mifflin County,baseball,pitt
-45,Nick Banman,"Lenexa, Kan.",Shawnee Mission West,baseball,pitt
-46,Nico Samarkos,"Gainesville, Fla.",Gainesville,baseball,pitt
-47,RJ Freure,"Burlington, ON, Canada",Robert                                            Bateman,baseball,pitt
-48,Chris Gomez,"Miami, Fla.",South Dade,baseball,pitt
-49,Jack Hogan,"McMurray, Pa.",The Hill School,baseball,pitt
-50,William Kirwan,"Aldie, Va.",Freedom,baseball,pitt
-51,Matt Pidich,"Aberdeen, N.J.",Christian Brothers                                            Academy,baseball,pitt
-52,Lucas Maldonado,"Hawthorne, N.Y.",Iona Prep,baseball,pitt
-53,Cole MacLaren,"Morell, Prince Edward Island, Canada",Holy Trinity Academy,baseball,pitt
-54,TJ Pagan,"Philadelphia, Pa.",William Penn Charter,baseball,pitt
-55,Derek West,"Orange City, FL",Trinity Christian                                            Academy,baseball,pitt
-56,Kevin Henriksen,"Glen Mills, Pa.",Westtown,baseball,pitt
-57,Maurice Ffrench,"New Brunswick, N.J.",New Brunswick,football,pitt
-58,Damar Hamlin,"McKees Rocks, Pa.",Pittsburgh Central Catholic,football,pitt
-59,Therran Coleman,"Pittsburgh, Pa.",Brashear,football,pitt
-60,Tre Tipton,"Apollo, Pa.",Apollo-Ridge,football,pitt
-61,Aaron Mathews,"Clairton, Pa.",Clairton,football,pitt
-62,Dewayne Hendrix,"O'Fallon, Ill.",O'Fallon Twp.,football,pitt
-63,Kenny  Pickett,"Oakhurst, N.J.",Ocean Township,football,pitt
-64,Michael Smith,"Vero Beach, Fla.",Vero Beach Senior,football,pitt
-65,Keyshon Camp,"Lakeland, Fla.",Lake Gibson,football,pitt
-66,Dane Jackson,"Coraopolis, Pa.",Cornell (Quaker Valley),football,pitt
-67,Taysir Mack,"Brooklyn, N.Y.",Grand Street Campus,football,pitt
-68,Paris Ford,"Pittsburgh, Pa.",Steel Valley,football,pitt
-69,Ricky Town,"Newbury Park, Calif.",St. Bonaventure,football,pitt
-70,Tyler Zelinski,"Medina, Ohio",Highland,football,pitt
-71,Jason  Pinnock,"Winsdor, Conn.",Winsdor,football,pitt
-72,Damarri Mathis,"Lakeland, Fla.",Lakeland,football,pitt
-73,Rashad Weaver,"Fort Lauderdale, Fla.",Cooper City,football,pitt
-74,Shocky Jacques-Louis,"Fort Myers, FL",Dunbar,football,pitt
-75,Jake Zilinskas,"Indiana, Pa.",Indiana,football,pitt
-76,Dennis Briggs,"Wilkinsburg, Pa.",Shady Side Academy,football,pitt
-77,A.J. Davis,"Lakeland, Fla.",Lakeland,football,pitt
-78,Darrin Hall,"Youngstown, Ohio",Austintown Fitch,football,pitt
-79,Kollin Smith,"Upper Marlboro, Md.",Frederick Douglass,football,pitt
-80,Oluwaseun Idowu,"Wexford, Pa.",North Allegheny,football,pitt
-81,Todd Sibley Jr.,"Akron, Ohio",Archbishop Hoban,football,pitt
-82,Phil Campbell III,"Kendall Park, N.J.",South Brunswick,football,pitt
-83,Elijah Zeise,"Pittsburgh, Pa.",North Allegheny,football,pitt
-84,Bricen Garner,"Pittsburgh, Pa.",Pittsburgh Central Catholic,football,pitt
-85,Anthony McKee Jr.,"Columbus, Ohio",Marion-Franklin,football,pitt
-86,Albert Tucker,"Plantation, Fla.",St. Thomas Aquinas,football,pitt
-87,Phillipie Motley,"Columbus, Ohio",Hilliard Davidson,football,pitt
-88,Amir Watts,"Chicago, Ill.",Wendell Phillips Academy,football,pitt
-89,George Aston,"Stephens City, Va.",Sherando,football,pitt
-90,Rob Boatright,"Clairton, Pa.",Clairton,football,pitt
-91,Chase Pine,"Williamsburg, Va.",Lafayette,football,pitt
-92,Qadree Ollison,"Niagara Falls, N.Y.",Canisius H.S.,football,pitt
-93,Cam Bright,"Cleveland, Ohio",Park Crossing (Ala.),football,pitt
-94,Saleem Brightwell,"Paterson, N.J.",Paramus Catholic,football,pitt
-95,Kyle Vreen,"Aliquippa, Pa.",Central Valley,football,pitt
-96,James Folston Jr.,"Cocoa, Fla.",Cocoa,football,pitt
-97,Jazzee Stocker,"Coatesville, Pa.",Coatesville Area,football,pitt
-98,Elias Reynolds,"Brooklyn, N.Y.",Poly Prep Country Day School,football,pitt
-99,Rimoni Dorsey,"Richmond, Va.",Trinity Episcopal School,football,pitt
-100,Michael Vardzel,"Charleston, S.C.",Wando,football,pitt
-101,Kyle  Nunn,"Findlay, Ohio",Findlay,football,pitt
-102,Ryan Sliwoski,"Greensburg, Pa.",Hempfield Area,football,pitt
-103,Peyton Deri,"North Huntingdown, Pa.",Norwin,football,pitt
-104,Kellen McAlone,"Dallas, Texas",Jesuit College Prep,football,pitt
-105,Jim Medure,"New Castle, Pa.",Neshannock,football,pitt
-106,Devon Davis,"Cincinnati, Ohio",Wyoming,football,pitt
-107,Jake Kradel,"Butler, Pa.",Butler Senior,football,pitt
-108,Justin Morgan,"Bronx, N.Y.",Poly Prep Country Day School,football,pitt
-109,Chase Brown,"Ashburn, Va.",Briar Woods,football,pitt
-110,Jaylen Twyman,"Washington, D.C.",H.D. Woodson,football,pitt
-111,Brandon Ford,"Pittsburgh, Pa.",Upper St. Clair,football,pitt
-112,Gabe Houy,N/A,N/A,football,pitt
-113,Quintin Wirginis,"Pittsburgh, Pa.",Fox Chapel,football,pitt
-114,Carson Van Lynn,"Worthington, Ohio","Worthington, Kilbourne",football,pitt
-115,Owen Drexel,"Montclair, N.J.",Montclair,football,pitt
-116,Cal Adomitis,"Pittsburgh, Pa.",Pittsburgh Central Catholic,football,pitt
-117,Mike Herndon,"Greenville, Va.",Riverheads,football,pitt
-118,Jimmy Morrissey,"Huntingdon Valley, Pa.",La Salle College H.S.,football,pitt
-119,Brian Burgess,"Charleroi, Pa.",Charleroi,football,pitt
-120,Kenny Rainey III,"Aliquippa, Pa.",Aliquippa,football,pitt
-121,Bryce Hargrove,"Akron, Ohio",Coventry,football,pitt
-122,Jerry Drake Jr.,"Palm Beach Gardens, Fla.",Palm Beach Gardens,football,pitt
-123,Connor Dintino,"Mashpee, Mass.",Choate Rosemary Hall (Conn.),football,pitt
-124,Carter Warren,"Paterson, N.J.",Passaic Tech,football,pitt
-125,Alex Bookser,"Pittsburgh, Pa.",Mt. Lebanon,football,pitt
-126,Dontavius Butler-Jenkins,"Hollywood, Fla.",American Heritage School,football,pitt
-127,Rafael Araujo-Lopes,"Kissimmee, Fla.",Winter Park,football,pitt
-128,Darian  Street,"Bethlehem, Pa.",Liberty,football,pitt
-129,Garrett Bickhart,"Liberty, Pa.",North Penn-Mansfield,football,pitt
-130,Grant Carrigan,"Las Vegas, Nev.",Pine-Richland (PA),football,pitt
-131,Tyler  Sear,"New Castle, Pa.",Neshannock,football,pitt
-132,Rashad Wheeler,"Pittsburgh, Pa.",Pittsburgh Central Catholic,football,pitt
-133,Patrick Jones II,"Chesapeake, Va.",Grassfield,football,pitt
-134,Jake Scarton,"Hermitage, Pa.",Hickory,football,pitt
-135,Shane Roy,"Reading, Ohio",Reading,football,pitt
-136,Deslin Alexandre,"Pompano Beach, Fla.",Deerfield Beach,football,pitt
-137,Alex Kessman,"Clarkston, Mich.",Clarkston,football,pitt
-138,Kirk Christodoulou,"Melbourne, Australia",Balwyn,football,pitt
-139,Tom Moxham,"Plymouth, England",Heles School,mens soccer,pitt
-140,Joshua Gaspari,"Canberra, ACT, Australia",N/A,mens soccer,pitt
-141,Javi Perez,"Valencia, Spain",N/A,mens soccer,pitt
-142,Fiorre Mane,"Dakar, Senegal",Montverde Academy,mens soccer,pitt
-143,Edward Kizza,"Kampala, Uganda",Montverde Academy,mens soccer,pitt
-144,Marcony Pimentel,"Juiz de Fora, Brazil",N/A,mens soccer,pitt
-145,Alexander Dexter,"Brooklyn, N.Y.",Kaiserslautern (Germany),mens soccer,pitt
-146,Tim Townsend,"Hummelstown, Pa.",Lower Dauphin,mens soccer,pitt
-147,Alex Peperak,"Connellsville, Pa.",Connellsville,mens soccer,pitt
-148,Robby Dambrot,"Akron, Ohio",St. Vincent-St. Mary,mens soccer,pitt
-149,Craig Bair,"Brecksville,                                            Ohio",Brecksville-Broadview Heights,mens soccer,pitt
-150,Chad Stout,"Lewisberry, Pa.",N/A,mens soccer,pitt
-151,Jacob Rooth,"Evanston, Ill.",Creighton,mens soccer,pitt
-152,Mikayla Alcorn,"New York, N.Y.",The Beacon School,womens soccer,pitt
-153,Clare Beahn,"McLean, Va.",McLean,womens soccer,pitt
-154,Alexis Bengel,"Natrona Heights, Pa.",Highlands,womens soccer,pitt
-155,Larissa Caldas,"Belo Horizonte, Brazil",E.E. Alvaro Lavreano Pimentel,womens soccer,pitt
-156,Madison Clayton,"Waynesburg, Pa.",Jefferson Morgan,womens soccer,pitt
-157,Jamie Franks,"Leechburg, Pa.",N/A,womens soccer,pitt
-158,Madeline Gravante,"Staten Island, N.Y.",Notre Dame Academy,womens soccer,pitt
-159,Alli Higgs,"Calvert County, Md.",Calvert,womens soccer,pitt
-160,Claire Hinkle,"Tipp City, Ohio",N/A,womens soccer,pitt
-161,Maddie Hobbs,"Portsmouth, RI",Portsmouth,womens soccer,pitt
-162,Cheyenne Hudson,"Bethany, W.Va.",Brooke,womens soccer,pitt
-163,Vildan Kardesler,"Steinfurt, Germany",Gymnasium Arnoldinum,womens soccer,pitt
-164,Celia Lopez,"Pamplona, Spain",Coop. Ensenanza San Cernin,womens soccer,pitt
-165,Ashley Moreira,"Maple, Ontario",St. Joan of Arc,womens soccer,pitt
-166,Ari Morgan,"Del City, Okla.",N/A,womens soccer,pitt
-167,Kailee O'Connor,"Darien, Ill.",Downers Grove South,womens soccer,pitt
-168,Aideen O'Donoghue,"Canonsburg, Pa.",Canon-McMillan,womens soccer,pitt
-169,Kylie Olexa,"Raleigh, N.C.",North Raleigh Christian                                            Academy,womens soccer,pitt
-170,Ashley Paquet,"Glenn Dale, Md.",Elizabeth Seton,womens soccer,pitt
-171,Amaia Pena,"Portugalete, Spain",Asti-Leku,womens soccer,pitt
-172,Taylor Pryce,"Thornhill, Ontario",Bill Crothers                                            Secondary,womens soccer,pitt
-173,Bethany Rasile,"McDonald, Ohio",Niles McKinley,womens soccer,pitt
-174,Anna Rico,"Bainbridge, Ohio",Walsh Jesuit,womens soccer,pitt
-175,Katherine Robinson,"Placitas, N.M.",La Cueva,womens soccer,pitt
-176,Mikayla Schmidt,"Pueblo West, Colo.",Pueblo West,womens soccer,pitt
-177,Mariona Segales,"Folgueroles, Spain",IES Jaume Callis,womens soccer,pitt
-178,Bel Van Noorden,"Queenstown, New Zealand",Burnside,womens soccer,pitt
-179,Juliana Vazquez,"Youngstown, Ohio",Cardinal Mooney,womens soccer,pitt
-180,Dixon Veltri,"Pittsburgh, Pa.",N/A,womens soccer,pitt
-181,Andrew Burroughs,"Elburn, Ill.",Marmion Academy,mens cross country,pitt
-182,Billy Caldwell,"Downingtown, Pa.",Downingtown East HS,mens cross country,pitt
-183,Sebastian Curtin,"Erie, Pa.",Mercyhurst Prep,mens cross country,pitt
-184,Drew Glick,"Washington, D.C.",Woodrow Wilson HS,mens cross country,pitt
-185,Ryan Hughes,"Ashburn, Va.",Briar Woods HS,mens cross country,pitt
-186,Aaron Lauer,"Lewisberry, Pa.",Red Land HS,mens cross country,pitt
-187,Zach Lefever,"Ephrata, Pa.",Ephrata HS,mens cross country,pitt
-188,Matt McGoey,"Wexford, Pa.",North Allegheny HS,mens cross country,pitt
-189,Jackson Morton,"Ashburn, Va.",Stone Bridge HS,mens cross country,pitt
-190,Nate Sloan,"Pittsburgh, Pa.",Hampton HS,mens cross country,pitt
-191,Brian Spolarich,"Oxford, N.J.",Warren Hills Regional HS,mens cross country,pitt
-192,Nick Wolk,"McMurray, Pa.",Peters Township HS,mens cross country,pitt
-193,Meghan Bartel,"Findlay, Ohio",Liberty-Benton HS,womens cross country,pitt
-194,Olivia Berry,"Doylestown, Pa.",Central Bucks HS                                            West,womens cross country,pitt
-195,Madison Brannon,"Hellertown, Pa.",Wilson Area HS,womens cross country,pitt
-196,Ally Brunton,"Pottstown, Pa.",Owen J. Roberts HS,womens cross country,pitt
-197,Emily Burd,"Havertown, Pa.",Friends' Central School,womens cross country,pitt
-198,Ellen Crook,"Bellwood, Pa.",Bellwood-Antis HS,womens cross country,pitt
-199,Caroline DeFrank,"Pittsburgh, Pa.",Bishop Canevin HS,womens cross country,pitt
-200,Katrina Durrwachter,"Emmaus, Pa.",Emmaus HS,womens cross country,pitt
-201,Sarah Frick,"Carlisle, Pa.",Carlisle HS,womens cross country,pitt
-202,Amanda Graber,"Lititz, Pa.",Warwick,womens cross country,pitt
-203,Kelly Hayes,"Pearl River, N.Y.",N/A,womens cross country,pitt
-204,Natalie Hilton,"McDonald, Pa.",South Fayette HS,womens cross country,pitt
-205,Erin Keelan,"Wexford, Pa.",North Allegheny HS,womens cross country,pitt
-206,Amy Kelly,"Broomall, Pa.",Cardinal O'Hara HS,womens cross country,pitt
-207,Sophie Lane,"Delmar, N.Y.",Bethlehem Central HS,womens cross country,pitt
-208,Stephanie Lednak,"Vandergrift, Pa.",Kiski Area HS,womens cross country,pitt
-209,Emily Loeffelholz,"York, Pa.",Central York HS,womens cross country,pitt
-210,Rachel Mueller,"Lititz, Pa.",Warwick HS,womens cross country,pitt
-211,Erin O'Connell,"Fairless Hills, Pa.",Pennsbury HS,womens cross country,pitt
-212,Rebecca Peters,"Irwin, Pa.",Norwin HS,womens cross country,pitt
-213,Emily Phillips,"Lancaster, Pa.",Conestoga Valley HS,womens cross country,pitt
-214,Miranda Salvo,"Palmyra, Pa.",Palmyra HS,womens cross country,pitt
-215,Gillian Schriever,"Tuckerton, N.J.",Pinelands Regional HS,womens cross country,pitt
-216,Joslin Sellers,"Lancaster, Pa.",Lampeter-Strasburg,womens cross country,pitt
-217,Sam Shields,"Lititz, Pa.",Warwick HS,womens cross country,pitt
-218,Mikaela Vlasic,"Hatfield, Pa.",North Penn HS,womens cross country,pitt
-219,Melanie Vlasic,"Hatfield, Pa.",North Penn HS,womens cross country,pitt
-220,Anja Weiler,"Downingtown, Pa.",Downingtown East HS,womens cross country,pitt
-221,Makenzie Zeh,"Pittsburgh, Pa.",Oakland Catholic HS,womens cross country,pitt
-222,Walker Brooks,"Kissimmee, Fla.",Gateway,mens swimming,pitt
-223,Ellis Cannon,"Pittsburgh, Pa.",Woodland Hills,mens swimming,pitt
-224,Nathan Elzer,"Wyomissing, Pa.",Wyomissing,mens swimming,pitt
-225,John Fauteux,"Waterloo, Ontario",Sir John A. Macdonald,mens swimming,pitt
-226,Judd Fishman,"Deerfield, Ill.",Deerfield,mens swimming,pitt
-227,Samy Helmbacher,"Rosheim, France",Lycee Freppel,mens swimming,pitt
-228,Samuel Jenkins,"Cedarburg, Wis.",Cedarburg,mens swimming,pitt
-229,Kevin Kondrit,"Cheswick, Pa.",Springdale,mens swimming,pitt
-230,Boris Kulizhnikov,"Irkutsk, Russia",St. Petersburg KOR #1,mens swimming,pitt
-231,Cody Lenart,"Midlothian, Va.",James River,mens swimming,pitt
-232,Brian Lovasik,"Pittsburgh, Pa.",North Hills,mens swimming,pitt
-233,Noah Marble,"Fort Wayne, Ind.",Homestead,mens swimming,pitt
-234,Artur Polyak,N/A,N/A,mens swimming,pitt
-235,Brian Ramsey,"Mt. Lebanon, Pa.",Mt. Lebanon,mens swimming,pitt
-236,Armin Remenyi,"Nyiregyhaza, Hungary",Vorosomarty Mihaly,mens swimming,pitt
-237,Jack Robbins,"Charlottesville, Va.",Albemarle,mens swimming,pitt
-238,Ryan Schonbachler,"Gibsonia, Pa.",Pine-Richland,mens swimming,pitt
-239,Aaron Sett,"Lakewood, Colo.",Lakewood,mens swimming,pitt
-240,Luke Smutny,"Cutler Bay, Fla.",Home School,mens swimming,pitt
-241,Bence Szucsik,"Gyongyos, Hungary",Altisz Alapitvanyi,mens swimming,pitt
-242,Blaise Vera,"Clinton, Miss.",Clinton,mens swimming,pitt
-243,Eben Vorster,"Bloemfontein, South Africa",Sentraal,mens swimming,pitt
-244,Jason Young,"Hershey, Pa.",Hershey,mens swimming,pitt
-245,Rachel Brown,"High Point, N.C.",High Point Central,womens swimming,pitt
-246,Hannah Bumgarner,"Mt. Lebanon, Pa.",Mt. Lebanon,womens swimming,pitt
-247,Lisa Coe,"Bridgewater, N.J.",Bridgewater-Raritan,womens swimming,pitt
-248,Colleen Daday,"Allentown, Pa.",Allentown Central Catholic,womens swimming,pitt
-249,Valerie Daigneault,"Mont-Royal, Quebec",Kuper Academy,womens swimming,pitt
-250,Maura Fagan,"Naples, Fla.",Seacrest Country Day School,womens swimming,pitt
-251,Sarah Giamber,"Cary, N.C.",Middle Creek,womens swimming,pitt
-252,Jacqueline Hendrix,"Savannah, Ga.",Savannah Country Day School,womens swimming,pitt
-253,Shan Hochkeppel,"Ellicott City, Md.",Howard,womens swimming,pitt
-254,Sam Howe,N/A,N/A,womens swimming,pitt
-255,Krista Jones,"Greenwood, Ind.",Greenwood Community,womens swimming,pitt
-256,Meghan Joram,"Winston-Salem, N.C.",West Forsyth,womens swimming,pitt
-257,Kathleen Lynch,"Erie, Pa.",Villa Maria Academy,womens swimming,pitt
-258,Shahar Menahem,"Rishon LeZion, Israel",Igal Alon,womens swimming,pitt
-259,Katy Miller,"Charlotte, N.C.",Charlotte Catholic,womens swimming,pitt
-260,Allison Ramirez,"Chesapeake, Va.",Hickory,womens swimming,pitt
-261,Lina Rathsack,"Gorlitz, Germany",Sportgymnasium Dresden,womens swimming,pitt
-262,Amanda Richey,"Boulder, Colo.",Boulder,womens swimming,pitt
-263,Lydia Rosenthall,"Leeds, England",N/A,womens swimming,pitt
-264,Barb Schmele,"Hatboro, Pa.",Hatboro-Horsham,womens swimming,pitt
-265,Madelyn Shaffer,"Springfield, Ohio",Springfield,womens swimming,pitt
-266,Meme Sharp,"Noblesville, Ind.",Noblesville,womens swimming,pitt
-267,Kailyn Swantek,"Birmingham, Mich.",Marian,womens swimming,pitt
-268,Maddy Thomas,"York, Pa.",Dallastown,womens swimming,pitt
-269,Cortnee Williams,"Fishers, Ind.",Fishers,womens swimming,pitt
-270,Claudia Bartolome,"Torredembarra, Spain",N/A,womens tennis,pitt
-271,Callie Frey,"Pittsburgh, Pa.",Mt. Lebanon,womens tennis,pitt
-272,Jovana Knezevic,"Limassol, Cyprus",N/A,womens tennis,pitt
-273,Clara Lucas,"Valencia, Spain",IES Fuente San                                            Luis,womens tennis,pitt
-274,Camila Moreno,"Rosario, Argentina",N/A,womens tennis,pitt
-275,Natsumi Okamoto,N/A,N/A,womens tennis,pitt
-276,Gabriela Rezende,"Curitiba, Brazil",Colegio Positivo,womens tennis,pitt
-277,Luisa Varon,"Valencia, Venezuela",Nuestra Senora de Lourdes,womens tennis,pitt
-278,Ken Brosier,"Willingboro, N.J.",Saint Peter's University,mens track,pitt
-279,Billy Caldwell,"Downingtown, Pa.",Downingtown East HS,mens track,pitt
-280,Noah Cook,"Bowling Green, Ohio",Bowling Green HS,mens track,pitt
-281,Sebastian Curtin,"Erie, Pa.",Mercyhurst Prep,mens track,pitt
-282,Austin Farwell,"Bakersfield, Calif.",University of Houston,mens track,pitt
-283,Lonzell Feagin,"Canal Wincehster, Ohio",Canal Winchester HS,mens track,pitt
-284,Daveon Finley,"Portage, Ind.",Portage HS,mens track,pitt
-285,Drew Glick,"Washington, D.C.",Woodrow Wilson HS,mens track,pitt
-286,James Hare,"Springfield, Pa.",Marple Newton HS,mens track,pitt
-287,Josh Higgins,"Carlisle, Pa.",Cumberland Valley HS,mens track,pitt
-288,Ryan Hughes,"Ashburn, Va.",Briar Woods HS,mens track,pitt
-289,Grant Jones,"Conshohocken, Pa.",La Salle College HS,mens track,pitt
-290,Ade Jones-Roundtree,"Philadelphia, Pa.",Imhotep Charter,mens track,pitt
-291,Greg Lauray,"Nazareth, Pa.",Notre Dame Green Pond HS,mens track,pitt
-292,Zach Lefever,"Ephrata, Pa.",Ephrata HS,mens track,pitt
-293,Matt McGoey,"Wexford, Pa.",North Allegheny HS,mens track,pitt
-294,Jabari Michael-Khensu,"Prince George's County, Md.",Oxon Hill HS,mens track,pitt
-295,Jackson Morton,"Ashburn, Va.",Stone Bridge HS,mens track,pitt
-296,Jamaree Murray,"Raleigh, N.C.",Iowa Western CC,mens track,pitt
-297,Robert Quinby,"New Hope, Pa.",New Hope-Solebury HS,mens track,pitt
-298,Nate Sloan,"Pittsburgh, Pa.",Hampton HS,mens track,pitt
-299,Kollin Smith,"Upper Malrboro, Md.",Frederick Douglass HS,mens track,pitt
-300,Seth Spino,"Jeannette, Pa.",Jeannette Senior HS,mens track,pitt
-301,Brian Spolarich,"Oxford, N.J.",Warren Hills Regional HS,mens track,pitt
-302,Noah Walker,"Wayne, Pa.",La Salle College HS,mens track,pitt
-303,Danté Watson,"Hatfield, Pa.",North Penn HS,mens track,pitt
-304,Cobe Wiggins,"Huntingdon Valley, Pa.",Lower Moreland HS,mens track,pitt
-305,Nick Wolk,"McMurray, Pa.",Peters Township HS,mens track,pitt
-306,Shyheim Wright,"Germantown, Md.",Northwest HS,mens track,pitt
-307,Sydney Alderman,"Lewisberry, Pa.",Red Land HS,womens track,pitt
-308,Jaylyn Aminu,"Bethlehem, Pa.",Liberty HS,womens track,pitt
-309,Nicole Bell,"Uniontown, Pa.",Duquesne University,womens track,pitt
-310,Olivia Berry,"Doylestown, Pa.",Central Bucks HS                                            West,womens track,pitt
-311,Ally Brunton,"Pottstown, Pa.",Owen J. Roberts HS,womens track,pitt
-312,Emily Burd,"Havertown, Pa.",Friends' Central School,womens track,pitt
-313,Kailyn Clancy,"California, Pa.",California Area HS,womens track,pitt
-314,Lauren Corbitt,"York, Pa.",York Catholic HS,womens track,pitt
-315,Nina Crawford,"Upper Marlboro, Md.",Elizabeth Seton HS,womens track,pitt
-316,Ellen Crook,"Bellwood, Pa.",Bellwood-Antis HS,womens track,pitt
-317,Caroline DeFrank,"Pittsburgh, Pa.",Bishop Canevin HS,womens track,pitt
-318,Lydia Dennis,"Mars, Pa.",Mars HS,womens track,pitt
-319,Katrina Durrwachter,"Emmaus, Pa.",Emmaus HS,womens track,pitt
-320,Jordan Fields,"Maplewood, N.J.",Columbia HS,womens track,pitt
-321,Andin Fosam,"Robbinsville, N.J.",Robbinsville HS,womens track,pitt
-322,Sarah Frick,"Carlisle, Pa.",Carlisle HS,womens track,pitt
-323,Desiree Garland,"Duquesne, Pa.",Woodland Hills HS,womens track,pitt
-324,Antoinette Gyles,"Marlboro, N.J.",Marlboro HS,womens track,pitt
-325,Morgan Harvey,"Annadale, N.J.",North Hunterdon HS,womens track,pitt
-326,Kelly Hayes,"Pearl River, N.Y.",High Point University,womens track,pitt
-327,Carolyn Helenski,"King of Prussia, Pa.",Upper Merion Area HS,womens track,pitt
-328,Natalie Hilton,"McDonald, Pa.",South Fayette HS,womens track,pitt
-329,Laila Ismail,"Silver Spring, Md.",Bethesda-Chevy Chase HS,womens track,pitt
-330,Genaya Johnson,"Charlotte, N.C.",Mallard Creek HS,womens track,pitt
-331,Erin Keelan,"Wexford, Pa.",North Allegheny HS,womens track,pitt
-332,Amy Kelly,"Broomall, Pa.",Cardinal O'Hara HS,womens track,pitt
-333,Sophie Lane,"Delmar, N.Y.",Bethlehem Central HS,womens track,pitt
-334,Danielle Leaks,"Lubbock, Texas",Frenship HS,womens track,pitt
-335,Stephanie Lednak,"Vandergrift, Pa.",Kiski Area HS,womens track,pitt
-336,Alexis Leech,"Butler, Pa.",Butler Area HS,womens track,pitt
-337,Emily Loeffelholz,"York, Pa.",Central York HS,womens track,pitt
-338,Whitney Martin,"Wintersville, Ohio",Indian Creek HS,womens track,pitt
-339,Monica McNeil,"Phenix City, Ala.",Central HS,womens track,pitt
-340,Taylor Middleton,"Dayton, Ohio",The Miami Valley School,womens track,pitt
-341,Rianna Miedel,"Greensburg, Pa.",Hempfield Area HS,womens track,pitt
-342,Rachel Mueller,"Lititz, Pa.",Warwick HS,womens track,pitt
-343,Aysha Muhammad,"Mentor, Ohio",Mentor HS,womens track,pitt
-344,Quadaisha Newkirk,"Philadelphia, Pa.",New Mexico Junior                                            College,womens track,pitt
-345,Erin O'Connell,"Fairless Hills, Pa.",Pennsbury HS,womens track,pitt
-346,Rebecca Peters,"Irwin, Pa.",Norwin HS,womens track,pitt
-347,Breanna Phillips,"Fort Wayne, Ind.",Northrop HS,womens track,pitt
-348,Lysaih Rice,"Steubenville, Ohio",Steubenville HS,womens track,pitt
-349,Miranda Salvo,"Palmyra, Pa.",Palmyra HS,womens track,pitt
-350,Nikki Scherer,"Lower Burrell, Pa.",Burrell HS,womens track,pitt
-351,Gillian Schriever,"Tuckerton, N.J.",Pinelands Regional HS,womens track,pitt
-352,Emily Schumacher,"Chicora, Pa.",Karns City HS,womens track,pitt
-353,Joslin Sellers,"Lancaster, Pa.",Lampeter-Strasburg,womens track,pitt
-354,Beth Shenck,"Pittsburgh, Pa.",Avonworth HS,womens track,pitt
-355,Sam Shields,"Lititz, Pa.",Warwick HS,womens track,pitt
-356,Sullena Staton,"Philadelphia, Pa.",California                                            University of Pa,womens track,pitt
-357,Melanie Vlasic,"Hatfield, Pa.",North Penn HS,womens track,pitt
-358,Mikaela Vlasic,"Hatfield, Pa.",North Penn HS,womens track,pitt
-359,Jessie Wallace,"Reading, Pa.",Rider University,womens track,pitt
-360,Dominique Watkins,"Roselle, N.J.",Abraham Clark HS,womens track,pitt
-361,Anja Weiler,"Downingtown, Pa.",Downingtown East HS,womens track,pitt
-362,Makenzie Zeh,"Pittsburgh, Pa.",Oakland Catholic HS,womens track,pitt
-363,Riley Barth,"Doylestown, Pa.",Central Bucks                                            West,wrestling,pitt
-364,LJ Bentley,"Twinsburg, Ohio",St. Edward,wrestling,pitt
-365,Nino Bonaccorsi,"Bethel Park, Pa.",Bethel Park,wrestling,pitt
-366,Zach Bruce,"Seneca, Pa.",Cranberry,wrestling,pitt
-367,Dallas Bulsak,"South Park, Pa.",South Park,wrestling,pitt
-368,Jake Cherry,"Central Dauphin, Pa.",Central Dauphin,wrestling,pitt
-369,David Crawford,N/A,N/A,wrestling,pitt
-370,Curtis Decker,"Spring Mills, Pa.",Penns Valley,wrestling,pitt
-371,Brendon Fenton,"Amherst, Ohio",Elyria,wrestling,pitt
-372,Gregg Harvey,"Boyertown, Pa.",Boyertown Area,wrestling,pitt
-373,Will Kaldes,"Cumberland Valley, Pa.",Cumberland Valley,wrestling,pitt
-374,Luke Kemerer,"Greensburg, Pa.",Helpfield Area,wrestling,pitt
-375,Robert Lee,"Kaukauna, Wis.",Kaukauna,wrestling,pitt
-376,Cole Matthews,N/A,N/A,wrestling,pitt
-377,Alex Murray,"Green Brook, N.J.",Watchung Hills                                            Regional,wrestling,pitt
-378,Louis Newell,"Cranberry Township, Pa.",Seneca Valley,wrestling,pitt
-379,Tommy O'Brien,"Reading, Pa.",Wilson (West Lawn),wrestling,pitt
-380,Micky Phillippi,"Derry, Pa.",Derry Area,wrestling,pitt
-381,Taleb Rahmani,"Marysville, Ohio",Marysville,wrestling,pitt
-382,Kellan Stout,"Pittsburgh, Pa.",Mt. Lebanon,wrestling,pitt
-383,Demetrius Thomas,"Ferguson, Mo.",Mcluer,wrestling,pitt
-384,Jake Wentzel,"South Park, Pa.",South Park,wrestling,pitt
-385,Tanner Zagarino,"Mattituck, N.Y.",Mattituck,wrestling,pitt
-386,Connor McGaffic,"Georgetown, Pa.",South Side Beaver HS,softball,pitt
-387,Sarah Dawson,"Bridgewater, Mass.",Bridgewater-Raynham HS,softball,pitt
-388,Hunter Levesque,"Troy, N.Y.",Troy HS,softball,pitt
-389,Taylor Myers,"San Diego, Calif.",Point Loma HS,softball,pitt
-390,Kaitlyn Kruger,"Calabasas, Calif.",Oaks Christian,softball,pitt
-391,Olivia Gray,"Washington, Pa.",Trinity HS,softball,pitt
-392,Taylor Rahach,"Hudson, Ohio",Walsh Jesuit HS,softball,pitt
-393,Marissa DeMatteo,"New Castle, Pa.",Neshannock HS,softball,pitt
-394,Brie Horrell,"Gibsonia, Pa.",Pine-Richland HS,softball,pitt
-395,Alexis Solak,"Woodridge, Ill.",Naperville North HS,softball,pitt
-396,Morgan Batesole,"Walnut Creek, Calif.",Northgate HS,softball,pitt
-397,Brittany Knight,"Windham, Ohio",Windham HS,softball,pitt
-398,Alexee Haynes,"Charleston, W.Va.",Sissonville HS,softball,pitt
-399,Gabrielle Fredericks,"New Philadelphia, Ohio",Tuscarawas Central Catholic HS,softball,pitt
-400,Hanna Markewycz,"Oak Brook, Ill.",Timothy Christian,womens volleyball,pitt
-401,Kamalani Akeo,"Kapolei, Hawaii",Kamehameha HS,womens volleyball,pitt
-402,Emily Horner,"Mission Viejo, Calif.",Capistrano Valley HS,womens volleyball,pitt
-403,Chinaza Ndee,"Jersey Village, Texas",The Kinkaid School,womens volleyball,pitt
-404,Kylee Levers,"Washington, Pa.",Chartiers- Houston HS,womens volleyball,pitt
-405,Layne Van Buskirk,"Windsor, Ontario",Holy Names Catholic HS,womens volleyball,pitt
-406,Alix Dreier,"Palm Desert, Calif.",Xavier College Prep,womens volleyball,pitt
-407,Zoi Faki,"Athens, Greece",The Moraitis                                            School,womens volleyball,pitt
-408,Sabrina Starks,"Springfield, Neb.",Platteview HS,womens volleyball,pitt
-409,Avery Perosa,"Orefield, Pa.",Parkland HS,womens volleyball,pitt
-410,Stephanie Williams,"Eastlake, Ohio",Notre Dame - Cathedral                                            Latin,womens volleyball,pitt
-411,Chandler Gorman,"Houston, Texas",Stratford HS,womens volleyball,pitt
-412,Angela Seman,"Pittsburgh, Pa.",Seneca Valley,womens volleyball,pitt
-413,Nika Markovic,"Braslovce, Slovenia",Gimnazija                                            Celje-Center,womens volleyball,pitt
-414,Natalie Steibel,"Mason, Ohio",Mount Notre Dame HS,womens volleyball,pitt
-415,Maddie Soboleski,"Edinboro, Pa.",General Mclane HS,womens volleyball,pitt
-416,Kayla Lund,"Pasadena, Calif.",Flintridge Sacred Heart Academy,womens volleyball,pitt
-417,Sophie Bochenek,"Gross Ile, Mich.",Gabriel Richard HS,womens gymnastics,pitt
-418,Haley Brechwald,"Springfield, Va.",Lake Braddock Secondary School,womens gymnastics,pitt
-419,Lucy Brett,"North Somerset, UK",Gordano School,womens gymnastics,pitt
-420,Jordan Ceccarini,"Miller Place, N.Y.",Miller Place HS,womens gymnastics,pitt
-421,Krista Collins,"Weddington, N.C.",Weddington,womens gymnastics,pitt
-422,Rachel Dugan,"Wayne, Ill.",St. Charles East,womens gymnastics,pitt
-423,Deven Herbine,"Glenmoore, Pa.",Downingtown East,womens gymnastics,pitt
-424,Lucy Jones,"East Lansing, Mich.",Haslett,womens gymnastics,pitt
-425,Kensleigh Owens,"Huntersville, N.C.",W.A. Hough,womens gymnastics,pitt
-426,Hallie Peele,"Charlotte, N.C.",Ardrey Keil,womens gymnastics,pitt
-427,Alecia Petrikis,"Grove City, Pa.",Grove City,womens gymnastics,pitt
-428,Charli Spivey,"Enterprise, Ala.",Enterprise,womens gymnastics,pitt
-429,Megan Tripp,"Plano, Texas",Plano West,womens gymnastics,pitt
-430,Brittany West,"Clermont, Fla.",Lake Minneola,womens gymnastics,pitt
+0,Shamiel Stevenson,"Toronto, Ontario, Canada",Hillcrest Prep [AZ],mens basketball,pitt
+1,Xavier Johnson,"Woodbridge, VA",Bishop O'Connell,mens basketball,pitt
+2,Trey McGowens,"Pendleton, SC",Hargrave Military Academy [VA],mens basketball,pitt
+3,Malik Ellison,"Voorhees, NJ",Life Center Academy,mens basketball,pitt
+4,Jared Wilson-Frame,"Hartford, CT",Windsor,mens basketball,pitt
+5,Au'Diese Toney,"Huntsville, AL",Trinity Christian Academy [NC],mens basketball,pitt
+6,Sidy N'Dir,"Cosne, Burgundy, France",West Oaks Academy [FL],mens basketball,pitt
+7,Joe Mascaro,"Pittsburgh, PA",Bethel Park,mens basketball,pitt
+8,Khameron Davis,"Denver, CO",Forest Trail Academy [NC],mens basketball,pitt
+9,"Curtis Aiken, Jr.","Pittsburgh, PA",North Allegheny,mens basketball,pitt
+10,Kene Chukwuka,"Stockholm, Sweden",Soderslatts Gymnasiet,mens basketball,pitt
+11,Terrell Brown,"Providence, RI",Tilton School [NH],mens basketball,pitt
+12,Anthony Starzynski,"Pittsburgh, PA",Baldwin,mens basketball,pitt
+13,Samson George,"Minna, Nigeria",First Love Christian Academy [PA],mens basketball,pitt
+14,Peace Ilegomah,"Benin City, Nigeria",CBD Montverde [FL],mens basketball,pitt
+15,Jahsyni Knight,"Perth Amboy, NJ",Rutgers Prep,womens basketball,pitt
+16,Danielle Garven,"Toronto, ON",Chipola College,womens basketball,pitt
+17,Aysia Bugg,"Chicago, IL",Bolingbrook HS,womens basketball,pitt
+18,Jasmine Whitney,"Centreville, VA",Paul VI HS,womens basketball,pitt
+19,Cassidy Walsh,"Pittsburgh, PA",Seton-La Salle HS,womens basketball,pitt
+20,Ismini Prapa,"Athens, Greece",American Community School of Athens,womens basketball,pitt
+21,Cara Judkins,"Bethesda, MD",Our Lady of Good Counsel,womens basketball,pitt
+22,Tehya Lyons,"Norcross, GA",Norcross HS,womens basketball,pitt
+23,Kyla Nelson,"Worthing, England",Oaklands College,womens basketball,pitt
+24,Kauai Bradley,"Chicago, IL",Marian Catholic HS,womens basketball,pitt
+25,Pika Rodriguez,"Hartford, CT",Capital Prep Magnet School,womens basketball,pitt
+26,Jaala Henry,"Riverdale, MD",National Christian Academy,womens basketball,pitt
+27,Alayna Gribble,"Pittsburgh, PA",Norwin HS,womens basketball,pitt
+28,Kalista Walters,"Fleetwood, PA",Bethlehem Catholic HS,womens basketball,pitt
+29,Nico Popa,"Pittsburgh, PA",Seton-LaSalle,baseball,pitt
+30,Kris Navarro,"Miami, FL",Florida Christian,baseball,pitt
+31,Sky Duff,"Shamog, NJ",Bishop Eustace Prep,baseball,pitt
+32,Bryce  O'Farrell,"Burlington, Ontario, Canada",Notre Dame,baseball,pitt
+33,Connor Perry,"North Huntingdon, PA",Norwin,baseball,pitt
+34,Christian Camacho,"Elk Grove Village, IL",Northwest Florida,baseball,pitt
+35,Brady Devereux,"Glen Mills, PA",Malvern Prep,baseball,pitt
+36,Mason Ronan,"Ashville, PA",Penn Cambria,baseball,pitt
+37,David Moore,"Media, PA",Strath Haven,baseball,pitt
+38,Chase Smith,"Marietta, GA",Pope,baseball,pitt
+39,Andres Antonini,"Hollywood, FL",St. Thomas Aquinas,baseball,pitt
+40,Alex Amos,"Winchester, VA",Millbrook,baseball,pitt
+41,Chris Cappas,"Lynbrook, NY",Kellenberg Memorial,baseball,pitt
+42,Dan Hammer,"Philadelphia, PA",Father Judge,baseball,pitt
+43,Bryce Moskiewicz,"La Grange, IL",Lyons Township,baseball,pitt
+44,Zach Klapak,"Milford, PA",Delaware Valley,baseball,pitt
+45,Kyle Hess,"Mount Joy, PA",Donegal,baseball,pitt
+46,Ron Washington Jr.,"Houston, TX",Ridge Point,baseball,pitt
+47,David Yanni,"Pipersville, PA",Central Bucks-East,baseball,pitt
+48,Gregory Ryan Jr.,"North Chesterfield, VA",Benedictine Prep,baseball,pitt
+49,Andrew Beauvais,"Claremont, CA",Claremont,baseball,pitt
+50,Luca Lotito,"Brooklyn, NY",The Beacon School,baseball,pitt
+51,Zach Mancz,"Harrison City, PA",Penn-Trafford,baseball,pitt
+52,Nico Samarkos,"Gainesville, FL",Gainesville,baseball,pitt
+53,Billy Corcoran,"Ridley, PA",Malvern Prep,baseball,pitt
+54,Kris Soto,"Miami, FL",Archbishop Coleman Carol,baseball,pitt
+55,Chris Gomez,"Miami, FL",South Dade,baseball,pitt
+56,Jack Hogan,"McMurray, PA",The Hill School,baseball,pitt
+57,William Kirwan,"Aldie, VA",Freedom,baseball,pitt
+58,Lucas Maldonado,"Hawthorne, NY",Iona Prep,baseball,pitt
+59,Cole MacLaren,"Morell, Prince Edward Island, Canada",Holy Trinity Academy,baseball,pitt
+60,Danny San Pedro,"Miami, FL",Christopher Columbus,baseball,pitt
+61,JC Mendez,"Miami, FL",Christopher Columbus,baseball,pitt
+62,Derek West,"Orange City, FL",Trinity Christian                                            Academy,baseball,pitt
+63,Kevin Henriksen,"Glen Mills, PA",Westtown,baseball,pitt
+64,Maurice Ffrench,"New Brunswick, NJ",New Brunswick,football,pitt
+65,David Green,"West Mifflin, PA",Pittsburgh Central Catholic,football,pitt
+66,Jeff George Jr.,"Indianapolis, IN",Warren Central,football,pitt
+67,Damar Hamlin,"McKees Rocks, PA",Pittsburgh Central Catholic,football,pitt
+68,Therran Coleman,"Pittsburgh, PA",Brashear,football,pitt
+69,Nick Patti,"Hillsdale, NJ",St. Joseph Regional,football,pitt
+70,Deslin Alexandre,"Pompano Beach, FL",Deerfield Beach,football,pitt
+71,Tre Tipton,"Apollo, PA",Apollo-Ridge,football,pitt
+72,Aaron Mathews,"Clairton, PA",Clairton,football,pitt
+73,John Morgan,"Upper Marlboro, MD",DeMatha Catholic,football,pitt
+74,Mychale Salahuddin,"Washington, D.C.",H.D. Woodson,football,pitt
+75,Jazzee Stocker,"Coatesville, PA",Coatesville Area,football,pitt
+76,Dewayne Hendrix,"O'Fallon, IL",O'Fallon Township,football,pitt
+77,Kenny  Pickett,"Oakhurst, NJ",Ocean Township,football,pitt
+78,Saleem Brightwell,"Paterson, NJ",Paramus Catholic,football,pitt
+79,Michael Smith,"Vero Beach, FL",Vero Beach Senior,football,pitt
+80,Keyshon Camp,"Lakeland, FL",Lake Gibson,football,pitt
+81,Will Gragg,"Dumas, AR",Dumas,football,pitt
+82,Dane Jackson,"Coraopolis, PA",Cornell (Quaker Valley),football,pitt
+83,Taysir Mack,"Brooklyn, NY",Grand Street Campus,football,pitt
+84,Paris Ford,"Pittsburgh, PA",Steel Valley,football,pitt
+85,Ricky Town,"Newbury Park, CA",St. Bonaventure,football,pitt
+86,Marquis Williams,"Pompano Beach, FL",Cardinal Gibbons,football,pitt
+87,Jason  Pinnock,"Winsdor, CT",Winsdor,football,pitt
+88,Justin Sliwoski,"Greensburg, PA",Hempfield Area,football,pitt
+89,Jake Cortes,"McMurray, PA",Peters Township,football,pitt
+90,Damarri Mathis,"Lakeland, FL",Lakeland,football,pitt
+91,Darian  Street,"Bethlehem, PA",Liberty,football,pitt
+92,Rashad Weaver,"Fort Lauderdale, FL",Cooper City,football,pitt
+93,Shocky Jacques-Louis,"Fort Myers, FL",Dunbar,football,pitt
+94,Jake Zilinskas,"Indiana, PA",Indiana,football,pitt
+95,Dennis Briggs,"Wilkinsburg, PA",Shady Side Academy,football,pitt
+96,V'Lique Carter,"West Palm Beach, FL",Oxbridge Academy,football,pitt
+97,A.J. Davis,"Lakeland, FL",Lakeland,football,pitt
+98,Darrin Hall,"Youngstown, OH",Austintown Fitch,football,pitt
+99,Kollin Smith,"Upper Marlboro, MD",Frederick Douglass,football,pitt
+100,Oluwaseun Idowu,"Wexford, PA",North Allegheny,football,pitt
+101,Phil Campbell III,"Kendall Park, NJ",South Brunswick,football,pitt
+102,Elijah Zeise,"Pittsburgh, PA",North Allegheny,football,pitt
+103,Todd Sibley Jr.,"Akron, OH",Archbishop Hoban,football,pitt
+104,Judson Tallandier,"Largo, MD",DeMatha Catholic,football,pitt
+105,Bricen Garner,"Pittsburgh, PA",Pittsburgh Central Catholic,football,pitt
+106,Anthony McKee Jr.,"Columbus, OH",Marion-Franklin,football,pitt
+107,Albert Tucker,"Plantation, FL",St. Thomas Aquinas,football,pitt
+108,Qadree Ollison,"Niagara Falls, NY",Canisius H.S.,football,pitt
+109,Erick Hallett,"Cypress, TX",Cy-Fair,football,pitt
+110,Phillipie Motley,"Columbus, OH",Hilliard Davidson,football,pitt
+111,Jason Edwards,"Bluefield, WV",Bluefield,football,pitt
+112,Amir Watts,"Chicago, IL",Wendell Phillips Academy,football,pitt
+113,George Aston,"Stephens City, VA",Sherando,football,pitt
+114,Chase Villani,"Pittsburgh, PA",Fox Chapel,football,pitt
+115,Chase Pine,"Williamsburg, VA",Lafayette,football,pitt
+116,Cole Blake,"Crescent, PA",Moon Area,football,pitt
+117,Jackson Henry,"Perkasie, PA",Pennridge,football,pitt
+118,Cam Bright,"Cleveland, OH",Park Crossing (AL),football,pitt
+119,Wendell Davis,"Richmond, VA",Benedictine College Prep,football,pitt
+120,Kyle Vreen,"Aliquippa, PA",Central Valley,football,pitt
+121,Charles Chustckie,"Staten Island, NY",Tottenville,football,pitt
+122,James Folston Jr.,"Cocoa, FL",Cocoa,football,pitt
+123,Colin Jonov,"Murrysville, PA",Franklin Regional,football,pitt
+124,Elias Reynolds,"Brooklyn, NY",Poly Prep Country Day School,football,pitt
+125,Noah Palmer,"Jefferson Hills, PA",Thomas Jefferson,football,pitt
+126,Rimoni Dorsey,"Richmond, VA",Trinity Episcopal School,football,pitt
+127,Michael Vardzel,"Charleston, SC",Wando,football,pitt
+128,Kyle  Nunn,"Findlay, OH",Findlay,football,pitt
+129,Ryan Sliwoski,"Greensburg, PA",Hempfield Area,football,pitt
+130,Peyton Deri,"North Huntingdon, PA",Norwin,football,pitt
+131,Kellen McAlone,"Dallas, TX",Jesuit College Prep,football,pitt
+132,Alex Capstick,"Lincolnshire, IL",Adlai E. Stevenson,football,pitt
+133,Jake Scarton,"Hermitage, PA",Hickory,football,pitt
+134,Tyler Bentley,"West Chester, OH",Lakota West,football,pitt
+135,Grey Brancifort,"Pickerington, OH",Pickerington Central,football,pitt
+136,Jack Hansberry,"Pittsburgh, PA",Upper St. Clair,football,pitt
+137,Jake Kradel,"Butler, PA",Butler Senior,football,pitt
+138,Chase Brown,"Ashburn, VA",Briar Woods,football,pitt
+139,Jaylen Twyman,"Washington, D.C.",H.D. Woodson,football,pitt
+140,Brandon Ford,"Pittsburgh, PA",Upper St. Clair,football,pitt
+141,Gabe Houy,"Pittsburgh, PA",Upper St. Clair,football,pitt
+142,Quintin Wirginis,"Pittsburgh, PA",Fox Chapel,football,pitt
+143,Carson Van Lynn,"Worthington, OH",Worthington Kilbourne,football,pitt
+144,Owen Drexel,"Montclair, NJ",Montclair,football,pitt
+145,Nick Stazer,"Butler, PA",Butler Senior,football,pitt
+146,Mike Herndon,"Greenville, VA",Riverheads,football,pitt
+147,Jimmy Morrissey,"Huntingdon Valley, PA",La Salle College H.S.,football,pitt
+148,Brian Burgess,"Charleroi, PA",Charleroi,football,pitt
+149,Blake Zubovic,"Belle Vernon, PA",Belle Vernon Area,football,pitt
+150,Kenny Rainey III,"Aliquippa, PA",Aliquippa,football,pitt
+151,Stefano Millin,"Massillon, OH",Perry,football,pitt
+152,Bryce Hargrove,"Akron, OH",Coventry,football,pitt
+153,Jerry Drake Jr.,"Palm Beach Gardens, FL",Palm Beach Gardens,football,pitt
+154,Connor Dintino,"Mashpee, MA",Choate Rosemary Hall (CT),football,pitt
+155,Carter Warren,"Paterson, NJ",Passaic Tech,football,pitt
+156,Alex Bookser,"Pittsburgh, PA",Mt. Lebanon,football,pitt
+157,Cameron O'Neil,"Phenix City, AL",Glenwood School,football,pitt
+158,Jim Medure,"New Castle, PA",Neshannock,football,pitt
+159,Rafael Araujo-Lopes,"Kissimmee, FL",Winter Park,football,pitt
+160,John Vardzel,"Wexford, PA",North Allegheny,football,pitt
+161,Grant Carrigan,"Las Vegas, NV",Pine-Richland (PA),football,pitt
+162,Garrett Bickhart,"Liberty, PA",North Penn-Mansfield,football,pitt
+163,Habakkuk Baldonado,"Rome, Italy",Clearwater Academy International (FL),football,pitt
+164,Dontavius Butler-Jenkins,"Hollywood, FL",American Heritage School,football,pitt
+165,Rashad Wheeler,"Pittsburgh, PA",Pittsburgh Central Catholic,football,pitt
+166,Patrick Jones II,"Chesapeake, VA",Grassfield,football,pitt
+167,Shane Roy,"Reading, OH",Reading,football,pitt
+168,Cal Adomitis,"Pittsburgh, PA",Pittsburgh Central Catholic,football,pitt
+169,Devin Danielson,"Pittsburgh, PA",Thomas Jefferson,football,pitt
+170,Chris Maloney,"Fort Washington, PA",La Salle College H.S.,football,pitt
+171,Alex Kessman,"Clarkston, MI",Clarkston,football,pitt
+172,Ethan Van Buskirk,"Harrisburg, PA",Central Dauphin,football,pitt
+173,Kirk Christodoulou,"Melbourne, Australia",Balwyn,football,pitt
+174,Will Connelly,"Beaver, PA",Beaver Area,football,pitt
+175,Kaymar Mimes,"Long Branch, NJ",Long Branch,football,pitt
+176,Johan Penaranda,"Long Island, NY",Long Beach,mens soccer,pitt
+177,Alexander Steinbach,"Wolfach, Germany",International School Frankfurt,mens soccer,pitt
+178,Peter  Prescott,"Vancouver, WA",Mountain View,mens soccer,pitt
+179,Tom Moxham,"Plymouth, England",Heles School,mens soccer,pitt
+180,Shane Wiedt,"Akron, OH",Archbishop Hoban,mens soccer,pitt
+181,Joshua Gaspari,"Canberra, Australia",Daramalan College,mens soccer,pitt
+182,Javi Perez,"Valencia, Spain",Cambridge House CC,mens soccer,pitt
+183,Fiorre Mane,"Dakar, Senegal",Montverde Academy,mens soccer,pitt
+184,Edward Kizza,"Kampala, Uganda",Montverde Academy,mens soccer,pitt
+185,Marcony Pimentel,"Juiz de Fora, Brazil",Max Weber Schule,mens soccer,pitt
+186,Rodrigo Almeida,"Salvador, Brazil",Montverde Academy,mens soccer,pitt
+187,Facundo Costantini,"Curitiba, Brazil",Montverde Academy,mens soccer,pitt
+188,Alexander Dexter,"Brooklyn, NY",Kaiserslautern (Germany),mens soccer,pitt
+189,Jose Luis  Sena Arbona,"Valencia, Spain",UPV,mens soccer,pitt
+190,Nyk  Sessock,"Philadelphia, PA",YSC Academy,mens soccer,pitt
+191,Alec  Townsend,"Woodbridge, VA",Forest Park,mens soccer,pitt
+192,Tim Townsend,"Hummelstown, PA",Lower Dauphin,mens soccer,pitt
+193,Chandler Vaughn,"Woodbridge, VA",Forest Park,mens soccer,pitt
+194,Alex Peperak,"Connellsville, PA",Connellsville,mens soccer,pitt
+195,Robby Dambrot,"Akron, OH",St. Vincent-St. Mary,mens soccer,pitt
+196,Craig Bair,"Brecksville, OH",Brecksville-Broadview Heights,mens soccer,pitt
+197,Jackson Walti,"Vevey, Switzerland",Montverde Academy,mens soccer,pitt
+198,Chad Stout,"Lewisberry, PA",Red Land,mens soccer,pitt
+199,Anthony Harding,"North Huntingdon, PA",Norwin,mens soccer,pitt
+200,Jacob Rooth,"Evanston, IL",Lake Forest Academy,mens soccer,pitt
+201,Katherine Robinson,"Placitas, N.M.",La Cueva,womens soccer,pitt
+202,Amaia Pena,"Portugalete, Spain",Asti-Leku,womens soccer,pitt
+203,Jamie Frank,"Leechburg, Pa.",N/A,womens soccer,pitt
+204,Madison Clayton,"Waynesburg, Pa.",Jefferson Morgan,womens soccer,pitt
+205,Mikayla Schmidt,"Pueblo West, Colo.",Pueblo West,womens soccer,pitt
+206,Taylor Pryce,"Thornhill, Ontario",Bill Crothers                                            Secondary,womens soccer,pitt
+207,Alexis Bengel,"Natrona Heights, Pa.",Highlands,womens soccer,pitt
+208,Juliana Vazquez,"Youngstown, Ohio",Cardinal Mooney,womens soccer,pitt
+209,Alli Higgs,"Calvert County, Md.",Calvert,womens soccer,pitt
+210,Anna Rico,"Bainbridge, Ohio",Walsh Jesuit,womens soccer,pitt
+211,Cheyenne Hudson,"Bethany, W.Va.",Brooke,womens soccer,pitt
+212,Mikayla Alcorn,"New York, N.Y.",The Beacon School,womens soccer,pitt
+213,Bel van Noorden,"Queenstown, New Zealand",Burnside,womens soccer,pitt
+214,Larissa Caldas,"Belo Horizonte, Brazil",E.E. Alvaro Lavreano Pimentel,womens soccer,pitt
+215,Mariona Segales,"Folgueroles, Spain",IES Jaume Callis,womens soccer,pitt
+216,Clare Beahn,"McLean, Va.",McLean,womens soccer,pitt
+217,Kailee O'Connor,"Darien, Ill.",Downers Grove South,womens soccer,pitt
+218,Vildan Kardesler,"Steinfurt, Germany",Gymnasium Arnoldinum,womens soccer,pitt
+219,Ashley Moreira,"Maple, Ontario",St. Joan of Arc,womens soccer,pitt
+220,Madeline Gravante,"Staten Island, N.Y.",Notre Dame Academy,womens soccer,pitt
+221,Dixon Veltri,"Pittsburgh, Pa.",N/A,womens soccer,pitt
+222,Maddie Hobbs,"Portsmouth, RI",Portsmouth,womens soccer,pitt
+223,Bethany Rasile,"McDonald, Ohio",Niles McKinley,womens soccer,pitt
+224,Ari Morgan,"Del City, Okla.",N/A,womens soccer,pitt
+225,Aideen O'Donoghue,"Canonsburg, Pa.",Canon-McMillan,womens soccer,pitt
+226,Celia Lopez,"Pamplona, Spain",Coop. Ensenanza San Cernin,womens soccer,pitt
+227,Kylie Olexa,"Raleigh, N.C.",North Raleigh Christian                                            Academy,womens soccer,pitt
+228,Claire Hinkle,"Tipp City, Ohio",N/A,womens soccer,pitt
+229,Evan Addison,"Wyndmoor, PA",LaSalle College HS,mens cross country,pitt
+230,Nate Cousino,"Toledo, OH",Whitmer HS,mens cross country,pitt
+231,Drew Glick,"Washington, DC",Woodrow Wilson HS,mens cross country,pitt
+232,Josh Higgins,"Carlisle, PA",Cumberland Valley HS,mens cross country,pitt
+233,Zach Lefever,"Ephrata, PA",Ephrata HS,mens cross country,pitt
+234,Matt McGoey,"Wexford, PA",North Allegheny HS,mens cross country,pitt
+235,Jackson Morton,"Ashburn, VA",Stone Bridge HS,mens cross country,pitt
+236,Tyler Rollins,"Downingtown, PA",Downingtown HS,mens cross country,pitt
+237,Nate Sloan,"Pittsburgh, PA",Hampton HS,mens cross country,pitt
+238,Brian Spolarich,"Oxford, NJ",Warren Hills Regional HS,mens cross country,pitt
+239,Dan Uhranowsky,"Clarks Summit, PA",Abington Heights HS,mens cross country,pitt
+240,Nick Wolk,"McMurray, PA",Peters Township HS,mens cross country,pitt
+241,Olivia Berry,"Doylestown, PA",Central Bucks HS                                            West,womens cross country,pitt
+242,Emily Bonaventure,"Harleysville, PA",Souderton Area HS,womens cross country,pitt
+243,Ally Brunton,"Pottstown, PA",Owen J. Roberts HS,womens cross country,pitt
+244,Emily Burd,"Havertown, PA",Friends' Central School,womens cross country,pitt
+245,Katrina Durrwachter,"Emmaus, PA",Emmaus HS,womens cross country,pitt
+246,Sarah Frick,"Carlisle, PA",Carlisle HS,womens cross country,pitt
+247,Natalie Hilton,"McDonald, PA",South Fayette HS,womens cross country,pitt
+248,Devon Hoernlein,"Allentown, NJ",Allentown HS,womens cross country,pitt
+249,Erin Keelan,"Wexford, PA",North Allegheny HS,womens cross country,pitt
+250,Camille Kukor,"Ann Arbor, MI",Skyline HS,womens cross country,pitt
+251,Sophie Lane,"Delmar, NY",Bethlehem Central HS,womens cross country,pitt
+252,Stephanie Lednak,"Vandergrift, PA",Kiski Area HS,womens cross country,pitt
+253,Mary McMahon,"Williamsport, PA",Willamsport Area HS,womens cross country,pitt
+254,Caelan Miller,"Pittsburgh, PA",Fox Chapel HS,womens cross country,pitt
+255,Megan Nagy,"Pittsburgh, PA",Oakland Catholic HS,womens cross country,pitt
+256,Erin O'Connell,"Fairless Hills, PA",Pennsbury HS,womens cross country,pitt
+257,Miranda Salvo,"Palmyra, PA",Palmyra HS,womens cross country,pitt
+258,Gillian Schriever,"Tuckerton, NJ",Pinelands Regional HS,womens cross country,pitt
+259,Sam Shields,"Lititz, PA",Warwick HS,womens cross country,pitt
+260,Mikaela Vlasic,"Hatfield, PA",North Penn HS,womens cross country,pitt
+261,Makenzie Zeh,"Pittsburgh, PA",Oakland Catholic HS,womens cross country,pitt
+262,Wesley Ahart,"Telford, PA",Souderton,mens swimming,pitt
+263,Jake Bowery,"Salem, VA",Salem,mens swimming,pitt
+264,Walker Brooks,"Kissimmee, Fla.",Gateway,mens swimming,pitt
+265,Ellis Cannon,"Pittsburgh, Pa.",Woodland Hills,mens swimming,pitt
+266,Gabriel Cardenes,"Pouso Alegre, Brazil",N/A,mens swimming,pitt
+267,Jeb Darhower,"Oxford, PA",Oxford,mens swimming,pitt
+268,Nathan Elzer,"Wyomissing, Pa.",Wyomissing,mens swimming,pitt
+269,John Fauteux,"Waterloo, Ontario",Sir John A. Macdonald,mens swimming,pitt
+270,Judd Fishman,"Deerfield, IL",Deerfield,mens swimming,pitt
+271,Nick Garberina,"Mooresville, NC",Pine Lake Prep,mens swimming,pitt
+272,Samy Helmbacher,"Rosheim, France",Lycee Freppel,mens swimming,pitt
+273,Luay Hilmi,"Leesburg, VA",Potomac Falls,mens swimming,pitt
+274,Alec Hoch,"Orchard Park, NY",Orchard Park,mens swimming,pitt
+275,Brian Lovasik,"Pittsburgh, Pa.",North Hills,mens swimming,pitt
+276,Richard Marton,"Budapest, Hungary",N/A,mens swimming,pitt
+277,Josh Parquet,"Indianapolis, IN",North Central,mens swimming,pitt
+278,Quinton Pierce,"Lafayette, CO",Boulder,mens swimming,pitt
+279,Brian Ramsey,"Mt. Lebanon, Pa.",Mt. Lebanon,mens swimming,pitt
+280,Armin Remenyi,"Nyiregyhaza, Hungary",Vorosomarty Mihaly,mens swimming,pitt
+281,Daniel Retana,"San Jose, Costa Rica",St. Jude,mens swimming,pitt
+282,Ryan Schonbachler,"Gibsonia, Pa.",Pine-Richland,mens swimming,pitt
+283,Aaron Sett,"Lakewood, Colo.",Lakewood,mens swimming,pitt
+284,Luke Smutny,"Cutler Bay, Fla.",Home School,mens swimming,pitt
+285,Bence Szucsik,"Gyongyos, Hungary",Altisz Alapitvanyi,mens swimming,pitt
+286,Anton Tamkovitch,"Philadelphia, PA",N/A,mens swimming,pitt
+287,Blaise Vera,"Clinton, Miss.",Clinton,mens swimming,pitt
+288,Eben Vorster,"Bloemfontein, South Africa",Sentraal,mens swimming,pitt
+289,Jason Young,"Hershey, Pa.",Hershey,mens swimming,pitt
+290,Rachel Brown,"High Point, N.C.",High Point Central,womens swimming,pitt
+291,Serena Buchwald,"Winnipeg, Manitoba",Balmoral,womens swimming,pitt
+292,Hannah Bumgarner,"Mt. Lebanon, Pa.",Mt. Lebanon,womens swimming,pitt
+293,Lisa Coe,"Bridgewater, N.J.",Bridgewater-Raritan,womens swimming,pitt
+294,Alyssa Conley,"Carmel, IN",Carmel,womens swimming,pitt
+295,Colleen Daday,"Allentown, Pa.",Allentown Central Catholic,womens swimming,pitt
+296,Valerie Daigneault,"Mont-Royal, Quebec",Kuper Academy,womens swimming,pitt
+297,Dakota Elliott,"Columbus, OH",Upper Arlington,womens swimming,pitt
+298,Maura Fagan,"Naples, Fla.",Seacrest Country Day School,womens swimming,pitt
+299,Camryn Forbes,"Butler, PA",Knoch,womens swimming,pitt
+300,Sarah Giamber,"Cary, N.C.",Middle Creek,womens swimming,pitt
+301,Kendall Goit,"Canton, MI",Mercy Catholic,womens swimming,pitt
+302,Daria Hatter,"Pearland, TX",Glenda Dawson,womens swimming,pitt
+303,Jacqueline Hendrix,"Savannah, Ga.",Savannah Country Day School,womens swimming,pitt
+304,Shan Hochkeppel,"Ellicott City, Md.",Howard,womens swimming,pitt
+305,Sam Howe,N/A,N/A,womens swimming,pitt
+306,Krista Jones,"Greenwood, Ind.",Greenwood Community,womens swimming,pitt
+307,Meghan Joram,"Winston-Salem, N.C.",West Forsyth,womens swimming,pitt
+308,Lauren Kelly,"Egg Harbor City, NJ",Cedar Creek,womens swimming,pitt
+309,Kathleen Lynch,"Erie, Pa.",Villa Maria Academy,womens swimming,pitt
+310,Shahar Menahem,"Rishon LeZion, Israel",Igal Alon,womens swimming,pitt
+311,Katy Miller,"Charlotte, N.C.",Charlotte Catholic,womens swimming,pitt
+312,Madison Nalls,"Wrightsville, PA",Eastern York,womens swimming,pitt
+313,Allison Ramirez,"Chesapeake, Va.",Hickory,womens swimming,pitt
+314,Isabella Ratino,"Cleveland, OH",Gates Mills Hawken,womens swimming,pitt
+315,Amy Read,"Leeds, England",N/A,womens swimming,pitt
+316,Megan Schimansky,"Coral Springs, FL",Coral Glades,womens swimming,pitt
+317,Barb Schmele,"Hatboro, Pa.",Hatboro-Horsham,womens swimming,pitt
+318,Madelyn Shaffer,"Springfield, Ohio",Springfield,womens swimming,pitt
+319,Kailyn Swantek,"Birmingham, Mich.",Marian,womens swimming,pitt
+320,Cortnee Williams,"Fishers, Ind.",Fishers,womens swimming,pitt
+321,Claudia Bartolome,"Torredembarra, Spain",N/A,womens tennis,pitt
+322,Clara Lucas,"Valencia, Spain",IES Fuente San                                            Luis,womens tennis,pitt
+323,Camila Moreno,"Rosario, Argentina",N/A,womens tennis,pitt
+324,Natsumi Okamoto,N/A,N/A,womens tennis,pitt
+325,Mariona Perez Noguera,"Tarragona, Spain",Institut Antoni de Marti i Franques,womens tennis,pitt
+326,Gabriela Rezende,"Curitiba, Brazil",Colegio Positivo,womens tennis,pitt
+327,Luisa Varon,"Valencia, Venezuela",Nuestra Senora de Lourdes,womens tennis,pitt
+328,Evan Addison,"Wyndmoor, PA",LaSalle College HS,mens track,pitt
+329,Joshua Armstrong,"College Park, GA",Woodward Academy,mens track,pitt
+330,Ken Brosier,"Willingboro, N.J.",Saint Peter's University,mens track,pitt
+331,Patrick Cloonan,"Lancaster, PA",Manheim Township HS,mens track,pitt
+332,Noah Cook,"Bowling Green, Ohio",Bowling Green HS,mens track,pitt
+333,Nate Cousino,"Toledo, OH",Whitmer HS,mens track,pitt
+334,Lonzell Feagin,"Canal Wincehster, Ohio",Canal Winchester HS,mens track,pitt
+335,Daveon Finley,"Portage, Ind.",Portage HS,mens track,pitt
+336,Drew Glick,"Washington, DC",Woodrow Wilson HS,mens track,pitt
+337,Josh Higgins,"Carlisle, PA",Cumberland Valley HS,mens track,pitt
+338,Grant Jones,"Conshohocken, Pa.",La Salle College HS,mens track,pitt
+339,Ade Jones-Roundtree,"Philadelphia, Pa.",Imhotep Charter,mens track,pitt
+340,Greg Lauray,"Nazareth, Pa.",Notre Dame Green Pond HS,mens track,pitt
+341,Zach Lefever,"Ephrata, Pa.",Ephrata HS,mens track,pitt
+342,Matt McGoey,"Wexford, PA",North Allegheny HS,mens track,pitt
+343,Jabari Michael-Khensu,"Prince George's County, Md.",Oxon Hill HS,mens track,pitt
+344,Jackson Morton,"Ashburn, VA",Stone Bridge HS,mens track,pitt
+345,Rob Reichenbaugh,"Freeport, PA",Freeport HS,mens track,pitt
+346,Tyler Rollins,"Downingtown, PA",Downingtown HS,mens track,pitt
+347,Alex Scheivert,"Millersville, PA",Penn Manor HS,mens track,pitt
+348,Crockett Schooler,"Pickerington, OH",Pickerington Central HS,mens track,pitt
+349,Tyler Senall,"Penfield, NY",Penfield HS,mens track,pitt
+350,Nate Sloan,"Pittsburgh, PA",Hampton HS,mens track,pitt
+351,Kollin Smith,"Upper Malrboro, Md.",Frederick Douglass HS,mens track,pitt
+352,Seth Spino,"Jeannette, Pa.",Jeannette Senior HS,mens track,pitt
+353,Brian Spolarich,"Oxford, N.J.",Warren Hills Regional HS,mens track,pitt
+354,Dan Uhranowsky,"Clarks Summit, PA",Abington Heights HS,mens track,pitt
+355,Noah Walker,"Wayne, Pa.",La Salle College HS,mens track,pitt
+356,Danté Watson,"Hatfield, Pa.",North Penn HS,mens track,pitt
+357,Cobe Wiggins,"Huntingdon Valley, Pa.",Lower Moreland HS,mens track,pitt
+358,Matt Wilson,"Bristow, VA",Patriot HS,mens track,pitt
+359,Nick Wolk,"McMurray, PA",Peters Township HS,mens track,pitt
+360,Shyheim Wright,"Germantown, Md.",Northwest HS,mens track,pitt
+361,Flora Ahiarakwe,"Sicklerville, NJ",Winslow Township HS,womens track,pitt
+362,Sydney Alderman,"Lewisberry, Pa.",Red Land HS,womens track,pitt
+363,Jaylyn Aminu,"Bethlehem, Pa.",Liberty HS,womens track,pitt
+364,Erica Babusci,"Canal Winchester, OH",Canal Winchester HS,womens track,pitt
+365,Olivia Berry,"Doylestown, PA",Central Bucks HS                                            West,womens track,pitt
+366,Emily Bonaventure,"Harleysville, PA",Souderton Area HS,womens track,pitt
+367,Ally Brunton,"Pottstown, Pa.",Owen J. Roberts HS,womens track,pitt
+368,Emily Burd,"Havertown, Pa.",Friends' Central School,womens track,pitt
+369,Lauren Corbitt,"York, Pa.",York Catholic HS,womens track,pitt
+370,Nina Crawford,"Upper Marlboro, Md.",Elizabeth Seton HS,womens track,pitt
+371,Alyssa Debski,"Bethel Park, PA",Bethel Park HS,womens track,pitt
+372,Rebecca Durham,"Milford, NH",Milford HS,womens track,pitt
+373,Katrina Durrwachter,"Emmaus, Pa.",Emmaus HS,womens track,pitt
+374,Jordan Fields,"Maplewood, N.J.",Columbia HS,womens track,pitt
+375,Sarah Frick,"Carlisle, PA",Carlisle HS,womens track,pitt
+376,Antoinette Gyles,"Marlboro, N.J.",Marlboro HS,womens track,pitt
+377,Kelly Hayes,"Pearl River, N.Y.",High Point University,womens track,pitt
+378,Carolyn Helenski,"King of Prussia, Pa.",Upper Merion Area HS,womens track,pitt
+379,Natalie Hilton,"McDonald, PA",South Fayette HS,womens track,pitt
+380,Devon Hoernlein,"Allentown, NJ",Allentown HS,womens track,pitt
+381,Genaya Johnson,"Charlotte, N.C.",Mallard Creek HS,womens track,pitt
+382,Erin Keelan,"Wexford, PA",North Allegheny HS,womens track,pitt
+383,Camille Kukor,"Ann Arbor, MI",Skyline HS,womens track,pitt
+384,Sophie Lane,"Delmar, N.Y.",Bethlehem Central HS,womens track,pitt
+385,Danielle Leaks,"Lubbock, Texas",Frenship HS,womens track,pitt
+386,Stephanie Lednak,"Vandergrift, PA",Kiski Area HS,womens track,pitt
+387,Alexis Leech,"Butler, Pa.",Butler Area HS,womens track,pitt
+388,Mary McMahon,"Williamsport, PA",Willamsport Area HS,womens track,pitt
+389,Monica McNeil,"Phenix City, Ala.",Central HS,womens track,pitt
+390,Taylor Middleton,"Dayton, Ohio",The Miami Valley School,womens track,pitt
+391,Caelan Miller,"Pittsburgh, PA",Fox Chapel HS,womens track,pitt
+392,Aysha Muhammad,"Mentor, Ohio",Mentor HS,womens track,pitt
+393,Megan Nagy,"Pittsburgh, PA",Oakland Catholic HS,womens track,pitt
+394,Erin O'Connell,"Fairless Hills, PA",Pennsbury HS,womens track,pitt
+395,Eddita Pessima,"Germantown, MD",Northwest HS,womens track,pitt
+396,Breanna Phillips,"Fort Wayne, Ind.",Northrop HS,womens track,pitt
+397,Lysaih Rice,"Steubenville, Ohio",Steubenville HS,womens track,pitt
+398,Miranda Salvo,"Palmyra, PA",Palmyra HS,womens track,pitt
+399,Nikki Scherer,"Lower Burrell, Pa.",Burrell HS,womens track,pitt
+400,Gillian Schriever,"Tuckerton, NJ",Pinelands Regional HS,womens track,pitt
+401,Sam Shields,"Lititz, PA",Warwick HS,womens track,pitt
+402,Camryn Simpson,"Palmyra, PA",Palmyra Area HS,womens track,pitt
+403,Sydni Townsend,"Philadelphia, PA",Neuman Goretti HS,womens track,pitt
+404,Mikaela Vlasic,"Hatfield, Pa.",North Penn HS,womens track,pitt
+405,Makenzie Zeh,"Pittsburgh, PA",Oakland Catholic HS,womens track,pitt
+406,Riley Barth,"Doylestown, Pa.",Central Bucks                                            West,wrestling,pitt
+407,LJ Bentley,"Twinsburg, Ohio",St. Edward,wrestling,pitt
+408,Nino Bonaccorsi,"Bethel Park, Pa.",Bethel Park,wrestling,pitt
+409,Shawn Broadway,"Latrobe, Pa.",Derry,wrestling,pitt
+410,Zach Bruce,"Seneca, Pa.",Cranberry,wrestling,pitt
+411,Dallas Bulsak,"South Park, Pa.",South Park,wrestling,pitt
+412,Jake Cherry,"Harrisburg, Pa.",Central Dauphin,wrestling,pitt
+413,Daniel Contraguerro,"Murrysville, Pa.",Franklin Regional,wrestling,pitt
+414,David Crawford,"Canfield, Ohio",Canfield,wrestling,pitt
+415,Curtis Decker,"Spring Mills, Pa.",Penns Valley,wrestling,pitt
+416,Brendon Fenton,"Amherst, Ohio",Elyria,wrestling,pitt
+417,Gregg Harvey,"Boyertown, Pa.",Boyertown Area,wrestling,pitt
+418,Will Kaldes,"Mechanicsburg, Pa.",Cumberland Valley,wrestling,pitt
+419,Luke Kemerer,"Greensburg, Pa.",Helpfield Area,wrestling,pitt
+420,Hunter Kernan,"Bethel Park, Pa.",Bethel Park,wrestling,pitt
+421,Robert Lee,"Kaukauna, Wis.",Kaukauna,wrestling,pitt
+422,Cole Matthews,"Greenville, Pa.",Reynolds,wrestling,pitt
+423,Matt McGillick,"Harrison City, Pa.",Penn Trafford,wrestling,pitt
+424,Alex Murray,"Green Brook, N.J.",Watchung Hills                                            Regional,wrestling,pitt
+425,Louis Newell,"Cranberry Township, Pa.",Seneca Valley,wrestling,pitt
+426,Cole Nye,"Harrisburg, Pa.",Bishop McDevitt,wrestling,pitt
+427,Tommy O'Brien,"Reading, Pa.",Wilson (West Lawn),wrestling,pitt
+428,Micky Phillippi,"Derry, Pa.",Derry Area,wrestling,pitt
+429,Taleb Rahmani,"Marysville, Ohio",Marysville,wrestling,pitt
+430,Garrett Reinsfelder,"Pittsburgh, Pa.",Shaler,wrestling,pitt
+431,Cole Rickert,"Transfer, Pa.",Reynolds,wrestling,pitt
+432,Kellan Stout,"Pittsburgh, Pa.",Mt. Lebanon,wrestling,pitt
+433,Chase Sumner,"Ada, Ohio",Ada,wrestling,pitt
+434,Meech Thomas,"Ferguson, Mo.",McCluer,wrestling,pitt
+435,Jake Wentzel,"South Park, Pa.",South Park,wrestling,pitt
+436,Connor McGaffic,"Georgetown, Pa.",South Side Beaver HS,softball,pitt
+437,Hannah  Bach,"Smithton, PA.",Yough Senior HS,softball,pitt
+438,Sarah Dawson,"Bridgewater, Mass.",Bridgewater-Raynham HS,softball,pitt
+439,Hunter Levesque,"Troy, N.Y.",Troy HS,softball,pitt
+440,Taylor Myers,"San Diego, Calif.",Point Loma HS,softball,pitt
+441,Kaitlyn Kruger,"Calabasas, Calif.",Oaks Christian,softball,pitt
+442,Olivia Gray,"Washington, Pa.",Trinity HS,softball,pitt
+443,Taylor Rahach,"Hudson, Ohio",Walsh Jesuit HS,softball,pitt
+444,Marissa DeMatteo,"New Castle, Pa.",Neshannock HS,softball,pitt
+445,Brie Horrell,"Gibsonia, Pa.",Pine-Richland HS,softball,pitt
+446,Nava Susi,"Boynton Beach, Fla.",Western HS,softball,pitt
+447,Sarah  Seamans,"New Castle, PA.","Union Area, HS",softball,pitt
+448,Alexis Solak,"Woodridge, Ill.",Naperville North HS,softball,pitt
+449,Abby  Edwards,"Dwight, ILL.",Dwight Township HS,softball,pitt
+450,Morgan Batesole,"Walnut Creek, Calif.",Northgate HS,softball,pitt
+451,Katlyn Pavlick,"South Park, PA.",South Park HS,softball,pitt
+452,Brittany Knight,"Windham, Ohio",Windham HS,softball,pitt
+453,Alexee Haynes,"Charleston, W.Va.",Sissonville HS,softball,pitt
+454,Gabrielle Fredericks,"New Philadelphia, Ohio",Tuscarawas Central Catholic HS,softball,pitt
+455,Hanna Markewycz,"Oak Brook, Ill.",Timothy Christian,womens volleyball,pitt
+456,Kamalani Akeo,"Kapolei, Hawaii",Kamehameha HS,womens volleyball,pitt
+457,Emily Horner,"Mission Viejo, Calif.",Capistrano Valley HS,womens volleyball,pitt
+458,Chinaza Ndee,"Jersey Village, Texas",The Kinkaid School,womens volleyball,pitt
+459,Kylee Levers,"Washington, Pa.",Chartiers- Houston HS,womens volleyball,pitt
+460,Layne Van Buskirk,"Windsor, Ontario",Holy Names Catholic HS,womens volleyball,pitt
+461,Alix Dreier,"Palm Desert, Calif.",Xavier College Prep,womens volleyball,pitt
+462,Zoi Faki,"Athens, Greece",The Moraitis                                            School,womens volleyball,pitt
+463,Sabrina Starks,"Springfield, Neb.",Platteview HS,womens volleyball,pitt
+464,Avery Perosa,"Orefield, Pa.",Parkland HS,womens volleyball,pitt
+465,Stephanie Williams,"Eastlake, Ohio",Notre Dame - Cathedral                                            Latin,womens volleyball,pitt
+466,Chandler Gorman,"Houston, Texas",Stratford HS,womens volleyball,pitt
+467,Angela Seman,"Pittsburgh, Pa.",Seneca Valley,womens volleyball,pitt
+468,Nika Markovic,"Braslovce, Slovenia",Gimnazija                                            Celje-Center,womens volleyball,pitt
+469,Natalie Steibel,"Mason, Ohio",Mount Notre Dame HS,womens volleyball,pitt
+470,Maddie Soboleski,"Edinboro, Pa.",General Mclane HS,womens volleyball,pitt
+471,Kayla Lund,"Pasadena, Calif.",Flintridge Sacred Heart Academy,womens volleyball,pitt
+472,Sophie Bochenek,"Gross Ile, Mich.",Gabriel Richard HS,womens gymnastics,pitt
+473,Haley Brechwald,"Springfield, Va.",Lake Braddock Secondary School,womens gymnastics,pitt
+474,Lucy Brett,"North Somerset, UK",Gordano School,womens gymnastics,pitt
+475,Jordan Ceccarini,"Miller Place, N.Y.",Miller Place HS,womens gymnastics,pitt
+476,Katie  Chamberlain,"Simi Valley, Calif.",Granada Hills Charter HS,womens gymnastics,pitt
+477,Krista Collins,"Weddington, N.C.",Weddington,womens gymnastics,pitt
+478,Rachel Dugan,"Wayne, Ill.",St. Charles East,womens gymnastics,pitt
+479,Deven Herbine,"Glenmoore, Pa.",Downingtown East,womens gymnastics,pitt
+480,Rebekah Jenkins,"Crofton, Md.",Annapolis Area Christian School,womens gymnastics,pitt
+481,Lucy Jones,"East Lansing, Mich.",Haslett,womens gymnastics,pitt
+482,Caitlyn  Kline,"Mountain Top, Pa.",MMI Preparatory School,womens gymnastics,pitt
+483,Olivia Miller,"Monroeville, Pa.",Gateway High School,womens gymnastics,pitt
+484,Alecia Petrikis,"Grove City, Pa.",Grove City,womens gymnastics,pitt
+485,Kiley Robatin,"Sunbury, Pa.",Shikellamy High School,womens gymnastics,pitt
+486,Charli Spivey,"Enterprise, Ala.",Enterprise,womens gymnastics,pitt
+487,Megan Tripp,"Plano, Texas",Plano West,womens gymnastics,pitt
+488,Brittany West,"Clermont, Fla.",Lake Minneola,womens gymnastics,pitt

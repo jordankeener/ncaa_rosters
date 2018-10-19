@@ -12,7 +12,6 @@ outdir = '../output'
 ##### louisville #################
 school = 'louisville'
 url_template = 'http://gocards.com/roster.aspx?path={sporturl}'
-tableid_template = 'ctl00_cplhMainContent_dgrdRoster'
 
 # bring in sports dictionary (sports: empty list)
 sports_dict = lookups.get_sports_dict()
@@ -44,18 +43,15 @@ for (key, value) in sports_dict.copy().items():
 	if value == []:
 		del sports_dict[key]
 
-# change table names where necessary
+# change list number if not first ul of given classname on page
 for (key, value) in sports_dict.items():
-	if key in ['mens cross country', 'mens swimming', 'mens track']:
-		value.append(tableid_template + "_M")
-	elif key in ['womens cross country', 'womens swimming', 'womens track']:
-		value.append(tableid_template + "_F")
+	if key in ['womens cross country', 'womens track', 'womens swimming']:
+		value.append(2)
 	else:
-		value.append(tableid_template)
+		value.append(1)
 
-# collect roster for each sport
-find_cols = ['name', 'hometown', 'high school', 'school']
-rosters = proj.gather_rosters_table(sports_dict, find_cols, url_template)
+# loop through sports collecting rosters
+rosters = proj.gather_rosters_ul(sports_dict, url_template)
 rosters['college'] = school
 csvname = school + '_rosters.csv'
 rosters.to_csv(os.path.join(outdir, csvname))

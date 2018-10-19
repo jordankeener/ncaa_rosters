@@ -1,61 +1,48 @@
 ,name,hometown,high_school,gender,sport,college
-0,Kristian Doolittle,"Edmond, Okla.",Edmond Memorial HS,N/A,mens basketball,oklahoma
-1,Matt Freeman,"Auckland, New Zealand",Westlake Boys HS,N/A,mens basketball,oklahoma
-2,Patrick Geha,"Leawood, Kan.",Rockhurst HS,N/A,mens basketball,oklahoma
-3,Christian James,"Houston, Texas",Bellaire HS,N/A,mens basketball,oklahoma
-4,Ty Lazenby,"Glencoe, Okla.",Northern Oklahoma College Enid,N/A,mens basketball,oklahoma
-5,Brady Manek,"Harrah, Okla.",Harrah HS,N/A,mens basketball,oklahoma
-6,Jamuni McNeace,"Kankakee, Ill.",Allen HS,N/A,mens basketball,oklahoma
-7,Rashard Odomes,"Copperas Cove, Texas",Copperas Cove HS,N/A,mens basketball,oklahoma
-8,Hannes Pöllä,"Lahti, Finland",Helsinki Basketball Academy,N/A,mens basketball,oklahoma
-9,Read Streller,"Edmond, Okla.",Oklahoma Christian School,N/A,mens basketball,oklahoma
-10,Marshall Thorpe,"Tulsa, Okla.",Bishop Kelley HS,N/A,mens basketball,oklahoma
+0,Jamal Bieniemy,"Katy, Texas",Tompkins HS,N/A,mens basketball,oklahoma
+1,Aaron Calixte,"Stoughton, Mass.",Maine,N/A,mens basketball,oklahoma
+2,Kristian Doolittle,"Edmond, Okla.",Edmond Memorial HS,N/A,mens basketball,oklahoma
+3,Matt Freeman,"Auckland, New Zealand",Westlake Boys HS,N/A,mens basketball,oklahoma
+4,Patrick Geha,"Leawood, Kan.",Rockhurst HS,N/A,mens basketball,oklahoma
+5,Christian James,"Houston, Texas",Bellaire HS,N/A,mens basketball,oklahoma
+6,Kur Kuath,"Biemnon, South Sudan",Salt Lake CC,N/A,mens basketball,oklahoma
+7,Ty Lazenby,"Glencoe, Okla.",Northern Oklahoma College Enid,N/A,mens basketball,oklahoma
+8,Brady Manek,"Harrah, Okla.",Harrah HS,N/A,mens basketball,oklahoma
+9,Jamuni McNeace,"Kankakee, Ill.",Allen HS,N/A,mens basketball,oklahoma
+10,Rashard Odomes,"Copperas Cove, Texas",Copperas Cove HS,N/A,mens basketball,oklahoma
+11,Hannes Pöllä,"Lahti, Finland",Helsinki Basketball Academy,N/A,mens basketball,oklahoma
+12,Austin Reaves,"Newark, Ark.",Wichita State,N/A,mens basketball,oklahoma
+13,Miles Reynolds,"Chicago, Ill.",Pacific,N/A,mens basketball,oklahoma
+14,Luke Stephenson,"Lubbock, Texas",Lubbock Trinity H.S.,N/A,mens basketball,oklahoma
+15,Read Streller,"Edmond, Okla.",Oklahoma Christian School,N/A,mens basketball,oklahoma
 0,Jessi Murcer,"Moore, Okla.",Westmoore,N/A,womens basketball,oklahoma
 1,Mandy Simpson,"Boise, Id.",Boise,N/A,womens basketball,oklahoma
-2,Gileysa Penzo,"San Juan, Puerto Rico",Fla.) Academy,N/A,womens basketball,oklahoma
-3,Shaina Pellington,"Pickering, Ontario, Canada",Dunbarton,N/A,womens basketball,oklahoma
-4,Nydia Lampkin,"Palm Bay, Fla.",Heritage,N/A,womens basketball,oklahoma
-5,Ana Llanusa,"Choctaw, Okla.",Choctaw,N/A,womens basketball,oklahoma
-6,Ijeoma Odimgbe,"Savannah, Ga.",Johnson,N/A,womens basketball,oklahoma
-7,Madi Williams,"Fort Worth, Texas",Trinity Valley School,N/A,womens basketball,oklahoma
-8,Taylor Robertson,"McPherson, Kan.",McPherson,N/A,womens basketball,oklahoma
-9,Aspen Williston,"Broken Bow, Okla.",Broken Bow,N/A,womens basketball,oklahoma
-10,Tatum Veitenheimer,"Windthorst, Texas",Windthorst,N/A,womens basketball,oklahoma
-0,Connor Berry,"Sugar Land, Texas",Kempner,N/A,baseball,oklahoma
-1,Blake Brewster,"Moore, Okla.",Moore,N/A,baseball,oklahoma
-2,Aaron Brooks,"Blanchard, Okla.",Blanchard,N/A,baseball,oklahoma
-3,Cade Cavalli,"Bixby, Okla.",Bixby,N/A,baseball,oklahoma
-4,Justin Cooke,"Norman, Okla.",Norman,N/A,baseball,oklahoma
-5,Dylan Criquet-Danielson,"Marshall, Minn.",Marshall,N/A,baseball,oklahoma
-6,Domenic DeRenzo,"Pittsburgh, Pa.",Pittsburgh Central Catholic,N/A,baseball,oklahoma
-7,Braidyn Fink,"Moore, Okla.",Westmoore,N/A,baseball,oklahoma
-8,Dylan Grove,"Moore, Okla.",Moore,N/A,baseball,oklahoma
-9,Austin Hansen,"Lenexa, Kan.",Olathe Northwest,N/A,baseball,oklahoma
-10,Tyler Hardman,"Corona, Calif.",Temescal Canyon,N/A,baseball,oklahoma
-11,Cade Harris,"Leona, Texas",Centerville,N/A,baseball,oklahoma
-12,Brock Henderson,"Chickasha, Okla.",Chickasha,N/A,baseball,oklahoma
-13,Thomas Hughes,"Norman, Okla.",Norman North,N/A,baseball,oklahoma
-14,Jake Irvin,"Bloomington, Minn.",Jefferson,N/A,baseball,oklahoma
-15,Michael Jensen,"Eden Prairie, Minn.",Holy Family Catholic,N/A,baseball,oklahoma
-16,Brady Lindsly,"Keller, Texas",Keller,N/A,baseball,oklahoma
-17,Brett Lorah,"Elgin, Okla.",Elgin,N/A,baseball,oklahoma
-18,Ryan Madden,"Westminster, Colo.",Boulder-Fairview,N/A,baseball,oklahoma
-19,Zack Matthews,"Wellston, Okla.",Wellston,N/A,baseball,oklahoma
-20,Kyle Mendenhall,"Carlsbad, Calif.",Carlsbad,N/A,baseball,oklahoma
-21,Justin Mitchell,"Platte City, Mo.",Platte County,N/A,baseball,oklahoma
-22,Trevor Munsch,"Lawrence, Kan.",Lawrence Free State,N/A,baseball,oklahoma
-23,Kyler Murray,"Allen, Texas",Allen HS,N/A,baseball,oklahoma
-24,Devon Perez,"Ashburn, Va.",Stone Bridge,N/A,baseball,oklahoma
-25,Levi Prater,"Ada, Okla.",Byng,N/A,baseball,oklahoma
-26,Lane Ramsey,"Oklahoma City, Okla.",Putnam City North,N/A,baseball,oklahoma
-27,Anthony Schlass,"West Bend, Wis.",West Bend West,N/A,baseball,oklahoma
-28,Ledgend Smith,"Binger, Okla.",Binger-Oney,N/A,baseball,oklahoma
-29,Jake Terry,"Sand Springs, Okla.",Charles Page,N/A,baseball,oklahoma
-30,Kyle Tyler,"Oklahoma City, Okla.",Westmoore,N/A,baseball,oklahoma
-31,Steele Walker,"Prosper, Texas",Prosper,N/A,baseball,oklahoma
-32,Brylie Ware,"Sedgwick, Kan.",Sedgwick,N/A,baseball,oklahoma
-33,Nathan Wiles,"Overland Park, Kan.",Blue Valley West,N/A,baseball,oklahoma
-34,Brandon Zaragoza,"Moore, Okla.",Westmoore,N/A,baseball,oklahoma
+2,Clary Donica,"Ardmore, Okla.",Dickson,N/A,womens basketball,oklahoma
+3,Gileysa Penzo,"San Juan, Puerto Rico",Fla.) Academy,N/A,womens basketball,oklahoma
+4,Shaina Pellington,"Pickering, Ontario, Canada",Dunbarton,N/A,womens basketball,oklahoma
+5,Nydia Lampkin,"Palm Bay, Fla.",Heritage,N/A,womens basketball,oklahoma
+6,Ana Llanusa,"Choctaw, Okla.",Choctaw,N/A,womens basketball,oklahoma
+7,Ijeoma Odimgbe,"Savannah, Ga.",Johnson,N/A,womens basketball,oklahoma
+8,Madi Williams,"Fort Worth, Texas",Trinity Valley School,N/A,womens basketball,oklahoma
+9,Taylor Robertson,"McPherson, Kan.",McPherson,N/A,womens basketball,oklahoma
+10,Aspen Williston,"Broken Bow, Okla.",Broken Bow,N/A,womens basketball,oklahoma
+11,Tatum Veitenheimer,"Windthorst, Texas",Windthorst,N/A,womens basketball,oklahoma
+0,Blake Brewster,"Moore, Okla.",Moore,N/A,baseball,oklahoma
+1,Aaron Brooks,"Blanchard, Okla.",Blanchard,N/A,baseball,oklahoma
+2,Cade Cavalli,"Bixby, Okla.",Bixby,N/A,baseball,oklahoma
+3,Braidyn Fink,"Moore, Okla.",Westmoore,N/A,baseball,oklahoma
+4,Tyler Hardman,"Corona, Calif.",Temescal Canyon,N/A,baseball,oklahoma
+5,Brady Lindsly,"Keller, Texas",Keller,N/A,baseball,oklahoma
+6,Ryan Madden,"Westminster, Colo.",Boulder-Fairview,N/A,baseball,oklahoma
+7,Zack Matthews,"Wellston, Okla.",Wellston,N/A,baseball,oklahoma
+8,Justin Mitchell,"Platte City, Mo.",Platte County,N/A,baseball,oklahoma
+9,Trevor Munsch,"Lawrence, Kan.",Lawrence Free State,N/A,baseball,oklahoma
+10,Levi Prater,"Ada, Okla.",Byng,N/A,baseball,oklahoma
+11,Ledgend Smith,"Binger, Okla.",Binger-Oney,N/A,baseball,oklahoma
+12,Jake Terry,"Sand Springs, Okla.",Charles Page,N/A,baseball,oklahoma
+13,Brylie Ware,"Sedgwick, Kan.",Sedgwick,N/A,baseball,oklahoma
+14,Nathan Wiles,"Overland Park, Kan.",Blue Valley West,N/A,baseball,oklahoma
+15,Brandon Zaragoza,"Moore, Okla.",Westmoore,N/A,baseball,oklahoma
 0,Jonathan Alvarez,"Mesquite, Texas",Horn HS,N/A,football,oklahoma
 1,Rodney Anderson,"Katy, Texas",Katy HS,N/A,football,oklahoma
 2,Brian Asamoah II,"Columbus, Ohio",St. Francis De Sales HS,N/A,football,oklahoma
@@ -83,221 +70,218 @@
 24,Dillon Faamatau,"Norwalk, Calif.",Norwalk HS,N/A,football,oklahoma
 25,Patrick Fields,"Tulsa, Okla.",Union HS,N/A,football,oklahoma
 26,Cody Ford,"Pineville, La.",Pineville HS,N/A,football,oklahoma
-27,Neville Gallimore,"St. Catherine's, Canada",Canada Prep Football Academy,N/A,football,oklahoma
-28,Addison Gumbs,"Hayward, Calif.",Stellar Preparatory HS,N/A,football,oklahoma
-29,Jeremiah Hall,"Charlotte, N.C.",Zebulon B. Vance HS,N/A,football,oklahoma
-30,Kahlil Haughton,"Waco, Texas",Midway HS,N/A,football,oklahoma
-31,Marquis Hayes,"Maryland Heights, Mo.",Pattonville HS,N/A,football,oklahoma
-32,Creed Humphrey,"Shawnee, Okla.",Shawnee HS,N/A,football,oklahoma
-33,Sam Iheke,"Dallas, Texas",Lake Highlands HS,N/A,football,oklahoma
-34,"Mark Jackson, Jr.","Cibolo, Texas",Byron P. Steele HS,N/A,football,oklahoma
-35,Troy James,"Baton Rouge, La.",Madison Prep Academy,N/A,football,oklahoma
-36,Mykel Jones,"Patterson, La.",Patterson HS,N/A,football,oklahoma
-37,Ryan Jones,"Charlotte, N.C.",Mallard Creek HS,N/A,football,oklahoma
-38,Jordan Kelley,"Tulsa, Okla.",Union HS,N/A,football,oklahoma
-39,Caleb Kelly,"Fresno, Calif.",Clovis West HS,N/A,football,oklahoma
-40,Austin Kendall,"Waxhaw, N.C.",Cuthbertson HS,N/A,football,oklahoma
-41,CeeDee Lamb,"Richmond, Texas",Foster HS,N/A,football,oklahoma
-42,Tyreece Lott,"Ardmore, Okla.",Ardmore HS,N/A,football,oklahoma
-43,Tylon Lynch,"Ashburn, Va.",Stone Bridge HS,N/A,football,oklahoma
-44,Kenneth Mann,"Burleson, Texas",Burleson HS,N/A,football,oklahoma
-45,Arthur McGinnis,"New Orleans, La.",Warren Easton HS,N/A,football,oklahoma
-46,Connor McGinnis,"Oklahoma City, Okla.",Heritage Hall HS,N/A,football,oklahoma
-47,Prentice McKinney,"Dallas, Texas",South Oak Cliff HS,N/A,football,oklahoma
-48,Zacchaeus McKinney,"Weatherford, Texas",Weatherford HS,N/A,football,oklahoma
-49,Bryan Mead,"Owasso, Okla.",Rejoice Christian HS,N/A,football,oklahoma
-50,Carson Meier,"Tulsa, Okla.",Union HS,N/A,football,oklahoma
-51,A.D. Miller,"Dallas, Texas",Bishop Dunne HS,N/A,football,oklahoma
-52,Quinn Mittermeier,"Topeka, Kan.",Washburn Rural HS,N/A,football,oklahoma
-53,Tramonda Moore,"Oklahoma City, Okla.",John Marshall HS,N/A,football,oklahoma
-54,Tanner Mordecai,"Waco, Texas",Midway HS,N/A,football,oklahoma
-55,Lee Morris,"Allen, Texas",Allen HS,N/A,football,oklahoma
-56,Parnell Motley,"Washington, D.C.",HD Woodson HS,N/A,football,oklahoma
-57,Reeves Mundschau,"New Braunfels, Texas",Canyon HS,N/A,football,oklahoma
-58,Kenneth Murray,"Missouri City, Texas",Elkins HS,N/A,football,oklahoma
-59,Kyler Murray,"Allen, Texas",Allen HS,N/A,football,oklahoma
-60,Chase Nevel,"Catoosa, Okla.",Catoosa HS,N/A,football,oklahoma
-61,Tre Norwood,"Fort Smith, Ark.",Northside HS,N/A,football,oklahoma
-62,Marquise Overton,"Tulsa, Okla.",Jenks HS,N/A,football,oklahoma
-63,Jordan Parker,"Pittsburg, Calif.",Pittsburg HS,N/A,football,oklahoma
-64,Ronnie Perkins,"St. Louis, Mo.",Lutheran North HS,N/A,football,oklahoma
-65,T.J. Pledger,"Pacoima, Calif.",Fla.),N/A,football,oklahoma
-66,Ben Powers,"Wichita, Kan.",Kapaun Mt. Carmel HS,N/A,football,oklahoma
-67,Brendan Radley-Hiles,"Brandenton, Fla.",IMG Academy,N/A,football,oklahoma
-68,Charleston Rambo,"Cedar Hill, Texas",Cedar Hill HS,N/A,football,oklahoma
-69,Jalen Redmond,"Midwest City, Okla.",Midwest City HS,N/A,football,oklahoma
-70,Logan Roberson,"Harrah, Okla.",Harrah HS,N/A,football,oklahoma
-71,Jaylon Robinson,"Fort Worth, Texas",All Saints Episcopal HS,N/A,football,oklahoma
-72,Tyrese Robinson,"McKinney, Texas",Boyd HS,N/A,football,oklahoma
-73,Dru Samia,"Sacramento, Calif.",River City HS,N/A,football,oklahoma
-74,Tanner Schafer,"Canadian, Texas",Canadian HS,N/A,football,oklahoma
-75,Austin Seibert,"Belleville, Ill.",Belleville West HS,N/A,football,oklahoma
-76,Trey Sermon,"Marietta, Ga.",Sprayberry HS,N/A,football,oklahoma
-77,Darrell Simpson,"Justin, Texas",Northwest High School,N/A,football,oklahoma
-78,Marcelias Sutton,"La Grange, N.C.",James Kenan HS,N/A,football,oklahoma
-79,David Swaby,"Los Angeles, Calif.",Navarro College,N/A,football,oklahoma
-80,Erik Swenson,"Downers Grove, Ill.",Downers Grove South HS,N/A,football,oklahoma
-81,Chanse Sylvie,"Shreveport, La.",Calvary Academy,N/A,football,oklahoma
-82,Ron Tatum,"Oklahoma City, Okla.",Putnam City HS,N/A,football,oklahoma
-83,Myles Tease,"Tulsa, Okla.",Washington HS,N/A,football,oklahoma
-84,Jon-Michael Terry,"Tulsa, Okla.",Victory Christian School,N/A,football,oklahoma
-85,Isaiah Thomas,"Tulsa, Okla.",Memorial HS,N/A,football,oklahoma
-86,Michael Thompson,"St. Louis, Mo.",Parkway North HS,N/A,football,oklahoma
-87,Delarrin Turner-Yell,"Hempstead, Texas",Hempstead HS,N/A,football,oklahoma
-88,Brey Walker,"Moore, Okla.",Westmoore HS,N/A,football,oklahoma
-89,DaShaun White,"North Richland Hills, Texas",North Richland Hills HS,N/A,football,oklahoma
-90,Brayden Willis,"Arlington, Texas",James Martin HS,N/A,football,oklahoma
-0,Bethany Block,"Phoenix, Ariz.",Desert Mountain H.S.,N/A,womens soccer,oklahoma
-1,McKinley Crone,"Maitland, Fla.",Edgewater H.S.,N/A,womens soccer,oklahoma
-2,Kaylee Dao,"Tulsa, Okla.",Jenks H.S.,N/A,womens soccer,oklahoma
-3,Kyle Escobedo,"Phoenix, Ariz.",Boulder Creek H.S.,N/A,womens soccer,oklahoma
-4,Lauren Haivala,"Edmond, Okla.",Deer Creek H.S.,N/A,womens soccer,oklahoma
-5,Darbey Hargrove,"Houston, Texas",Cypress Creek H.S.,N/A,womens soccer,oklahoma
-6,Jordan Hobart,"Broken Arrow, Okla.",Union H.S.,N/A,womens soccer,oklahoma
-7,Paige Hobart,"Broken Arrow, Okla.",Union H.S.,N/A,womens soccer,oklahoma
-8,Kacie Kinley,"Shawnee, Kan.",Mill Valley H.S.,N/A,womens soccer,oklahoma
-9,Emma Ledbetter,"Edmond, Okla.",Edmond North H.S.,N/A,womens soccer,oklahoma
-10,Marissa McMahand,"Round Rock, Texas",Round Rock H.S.,N/A,womens soccer,oklahoma
-11,Hannah Molone,"Edmond, Okla.",Edmond Memorial H.S.,N/A,womens soccer,oklahoma
-12,Kristina O'Donnell,"El Dorado Hills, Calif.",Oak Ridge H.S.,N/A,womens soccer,oklahoma
-13,Emily Parker,"Tucson, Ariz.",Catalina Foothills H.S.,N/A,womens soccer,oklahoma
-14,Ivanna Rivas,"Edmond, Okla.",Edmond Santa Fe H.S.,N/A,womens soccer,oklahoma
-15,Madison Verge,"Broken Arrow, Okla.",Union H.S.,N/A,womens soccer,oklahoma
-16,Paige Welch,"Austin, Texas",Vandegrift H.S.,N/A,womens soccer,oklahoma
-17,Erika Yost,"Fountain Hills, Ariz.",Fountain Hills H.S.,N/A,womens soccer,oklahoma
+27,Neville Gallimore,"St. Catharines, Ontario",Canada Prep Football Academy,N/A,football,oklahoma
+28,Jeremiah Hall,"Charlotte, N.C.",Zebulon B. Vance HS,N/A,football,oklahoma
+29,Kahlil Haughton,"Waco, Texas",Midway HS,N/A,football,oklahoma
+30,Marquis Hayes,"Maryland Heights, Mo.",Pattonville HS,N/A,football,oklahoma
+31,Creed Humphrey,"Shawnee, Okla.",Shawnee HS,N/A,football,oklahoma
+32,Sam Iheke,"Dallas, Texas",Lake Highlands HS,N/A,football,oklahoma
+33,"Mark Jackson, Jr.","Cibolo, Texas",Byron P. Steele HS,N/A,football,oklahoma
+34,Troy James,"Baton Rouge, La.",Madison Prep Academy,N/A,football,oklahoma
+35,Mykel Jones,"Patterson, La.",Patterson HS,N/A,football,oklahoma
+36,Ryan Jones,"Charlotte, N.C.",Mallard Creek HS,N/A,football,oklahoma
+37,Jordan Kelley,"Tulsa, Okla.",Union HS,N/A,football,oklahoma
+38,Caleb Kelly,"Fresno, Calif.",Clovis West HS,N/A,football,oklahoma
+39,Austin Kendall,"Waxhaw, N.C.",Cuthbertson HS,N/A,football,oklahoma
+40,CeeDee Lamb,"Richmond, Texas",Foster HS,N/A,football,oklahoma
+41,Tyreece Lott,"Ardmore, Okla.",Ardmore HS,N/A,football,oklahoma
+42,Kenneth Mann,"Burleson, Texas",Burleson HS,N/A,football,oklahoma
+43,Arthur McGinnis,"New Orleans, La.",Warren Easton HS,N/A,football,oklahoma
+44,Connor McGinnis,"Oklahoma City, Okla.",Heritage Hall HS,N/A,football,oklahoma
+45,Prentice McKinney,"Dallas, Texas",South Oak Cliff HS,N/A,football,oklahoma
+46,Zacchaeus McKinney,"Weatherford, Texas",Weatherford HS,N/A,football,oklahoma
+47,Bryan Mead,"Owasso, Okla.",Rejoice Christian HS,N/A,football,oklahoma
+48,Carson Meier,"Tulsa, Okla.",Union HS,N/A,football,oklahoma
+49,A.D. Miller,"Dallas, Texas",Bishop Dunne HS,N/A,football,oklahoma
+50,Quinn Mittermeier,"Topeka, Kan.",Washburn Rural HS,N/A,football,oklahoma
+51,Tramonda Moore,"Oklahoma City, Okla.",John Marshall HS,N/A,football,oklahoma
+52,Tanner Mordecai,"Waco, Texas",Midway HS,N/A,football,oklahoma
+53,Lee Morris,"Allen, Texas",Allen HS,N/A,football,oklahoma
+54,Parnell Motley,"Washington, D.C.",HD Woodson HS,N/A,football,oklahoma
+55,Reeves Mundschau,"New Braunfels, Texas",Canyon HS,N/A,football,oklahoma
+56,Kenneth Murray,"Missouri City, Texas",Elkins HS,N/A,football,oklahoma
+57,Kyler Murray,"Allen, Texas",Allen HS,N/A,football,oklahoma
+58,Chase Nevel,"Catoosa, Okla.",Catoosa HS,N/A,football,oklahoma
+59,Tre Norwood,"Fort Smith, Ark.",Northside HS,N/A,football,oklahoma
+60,Marquise Overton,"Tulsa, Okla.",Jenks HS,N/A,football,oklahoma
+61,Jordan Parker,"Pittsburg, Calif.",Pittsburg HS,N/A,football,oklahoma
+62,Ronnie Perkins,"St. Louis, Mo.",Lutheran North HS,N/A,football,oklahoma
+63,T.J. Pledger,"Pacoima, Calif.",Fla.),N/A,football,oklahoma
+64,Ben Powers,"Wichita, Kan.",Kapaun Mt. Carmel HS,N/A,football,oklahoma
+65,Brendan Radley-Hiles,"Inglewood, Calif.",IMG Academy,N/A,football,oklahoma
+66,Charleston Rambo,"Cedar Hill, Texas",Cedar Hill HS,N/A,football,oklahoma
+67,Jalen Redmond,"Midwest City, Okla.",Midwest City HS,N/A,football,oklahoma
+68,Logan Roberson,"Harrah, Okla.",Harrah HS,N/A,football,oklahoma
+69,Jaylon Robinson,"Fort Worth, Texas",All Saints Episcopal HS,N/A,football,oklahoma
+70,Tyrese Robinson,"McKinney, Texas",Boyd HS,N/A,football,oklahoma
+71,Dru Samia,"Sacramento, Calif.",River City HS,N/A,football,oklahoma
+72,Tanner Schafer,"Canadian, Texas",Canadian HS,N/A,football,oklahoma
+73,Austin Seibert,"Belleville, Ill.",Belleville West HS,N/A,football,oklahoma
+74,Trey Sermon,"Marietta, Ga.",Sprayberry HS,N/A,football,oklahoma
+75,Darrell Simpson,"Justin, Texas",Northwest High School,N/A,football,oklahoma
+76,Marcelias Sutton,"La Grange, N.C.",James Kenan HS,N/A,football,oklahoma
+77,David Swaby,"Nassau, Bahamas",Navarro College,N/A,football,oklahoma
+78,Erik Swenson,"Downers Grove, Ill.",Downers Grove South HS,N/A,football,oklahoma
+79,Chanse Sylvie,"Shreveport, La.",Calvary Academy,N/A,football,oklahoma
+80,Ron Tatum,"Oklahoma City, Okla.",Putnam City HS,N/A,football,oklahoma
+81,Myles Tease,"Tulsa, Okla.",Washington HS,N/A,football,oklahoma
+82,Jon-Michael Terry,"Tulsa, Okla.",Victory Christian School,N/A,football,oklahoma
+83,Isaiah Thomas,"Tulsa, Okla.",Memorial HS,N/A,football,oklahoma
+84,Michael Thompson,"St. Louis, Mo.",Parkway North HS,N/A,football,oklahoma
+85,Delarrin Turner-Yell,"Hempstead, Texas",Hempstead HS,N/A,football,oklahoma
+86,Brey Walker,"Moore, Okla.",Westmoore HS,N/A,football,oklahoma
+87,DaShaun White,"North Richland Hills, Texas",North Richland Hills HS,N/A,football,oklahoma
+88,Brayden Willis,"Arlington, Texas",James Martin HS,N/A,football,oklahoma
+0,Abigail Bancroft,"Plano, Texas",Plano Senior H.S.,N/A,womens soccer,oklahoma
+1,Bethany Block,"Scottsdale, Ariz.",Desert Mountain H.S.,N/A,womens soccer,oklahoma
+2,Chloe Bohanon,"Frisco, Texas",Frisco H.S.,N/A,womens soccer,oklahoma
+3,McKinley Crone,"Maitland, Fla.",Edgewater H.S.,N/A,womens soccer,oklahoma
+4,Kaylee Dao,"Tulsa, Okla.",Jenks H.S.,N/A,womens soccer,oklahoma
+5,Hailey Davidson,"Prosper, Texas",Prosper H.S.,N/A,womens soccer,oklahoma
+6,Kyle Escobedo,"Phoenix, Ariz.",Boulder Creek H.S.,N/A,womens soccer,oklahoma
+7,Lauren Haivala,"Edmond, Okla.",Deer Creek H.S.,N/A,womens soccer,oklahoma
+8,Jordan Hobart,"Broken Arrow, Okla.",Union H.S.,N/A,womens soccer,oklahoma
+9,Paige Hobart,"Broken Arrow, Okla.",Union H.S.,N/A,womens soccer,oklahoma
+10,Emma Ledbetter,"Edmond, Okla.",Edmond North H.S.,N/A,womens soccer,oklahoma
+11,Marissa McMahand,"Round Rock, Texas",Round Rock H.S.,N/A,womens soccer,oklahoma
+12,Hannah Molone,"Edmond, Okla.",Edmond Memorial H.S.,N/A,womens soccer,oklahoma
+13,Kristina O'Donnell,"El Dorado Hills, Calif.",Oak Ridge H.S.,N/A,womens soccer,oklahoma
+14,Emily Parker,"Tucson, Ariz.",Catalina Foothills H.S.,N/A,womens soccer,oklahoma
+15,Megan Reilly,"Sugar Land, Texas",Stephen F. Austin H.S.,N/A,womens soccer,oklahoma
+16,Jasmine Richards,"The Woodlands, Texas",The Woodlands H.S.,N/A,womens soccer,oklahoma
+17,Ivanna Rivas,"Edmond, Okla.",Edmond Santa Fe H.S.,N/A,womens soccer,oklahoma
+18,Olivia Smith,"Barking, London, England",Barking Abbey,N/A,womens soccer,oklahoma
+19,Jackie Stacy,"Dallas, Texas",Plano West Senior High School,N/A,womens soccer,oklahoma
+20,Cameron Tharp,"Klein, Texas",Klein H.S.,N/A,womens soccer,oklahoma
+21,Paige Thompson,"Katy, Texas",Katy H.S.,N/A,womens soccer,oklahoma
+22,Lauren Tovy,"McKinney, Texas",McKinney H.S.,N/A,womens soccer,oklahoma
+23,Paige Welch,"Austin, Texas",Vandegrift H.S.,N/A,womens soccer,oklahoma
+24,Erika Yost,"Fountain Hills, Ariz.",Fountain Hills H.S.,N/A,womens soccer,oklahoma
 0,Jackson Bugdalski,"Kings Langley, Australia",Rouse Hill Anglican,N/A,mens golf,oklahoma
 1,Riley Casey,"Abilene, Texas",Abilene Cooper High School,N/A,mens golf,oklahoma
 2,Quade Cummins,"Weatherford, Okla.",Weatherford High School,N/A,mens golf,oklahoma
 3,Brad Dalke,"Norman, Okla.",Edmond Christian Academy,N/A,mens golf,oklahoma
 4,Blaine Hale,"Dallas, Texas",Lake Highlands High School,N/A,mens golf,oklahoma
-5,Grant Hirschman,"Collierville, Tenn.",St. George's Independent School,N/A,mens golf,oklahoma
-6,Thomas Johnson,"Norman, Okla.",Norman North High School,N/A,mens golf,oklahoma
-7,Griffin Pierce,"Edmond, Okla.",Edmond North High School,N/A,mens golf,oklahoma
+5,Thomas Johnson,"Norman, Okla.",Norman North High School,N/A,mens golf,oklahoma
+6,Blake Lorenz,"Peoria, Ariz.",Sun Rise Mountain High School,N/A,mens golf,oklahoma
+7,Logan McAllister,"Oklahoma City, Okla.",Christian Heritage Academy,N/A,mens golf,oklahoma
 8,Garett Reband,"Fort Worth, Texas",Southwest Christian School,N/A,mens golf,oklahoma
-9,Rylee Reinertson,"Gibbon, Neb.",Gibbon High School,N/A,mens golf,oklahoma
+9,Sam Tidd,"Meridian, Idaho",Rocky Mountain High School,N/A,mens golf,oklahoma
 10,Lane Wallace,"Yukon, Okla.","Yukon, Okla.",N/A,mens golf,oklahoma
-0,Karen Arimoto,"Kyoto, Japan",Fla.),N/A,womens golf,oklahoma
-1,Hannah Lee,"Surrey, British Columbia",Lord Tweedsmuir Secondary School,N/A,womens golf,oklahoma
-2,Kaitlin Milligan,"Norman, Okla.",Norman North High School,N/A,womens golf,oklahoma
-3,Julienne Soo,"South Yarra, Australia",Lauriston Girls’ School,N/A,womens golf,oklahoma
-4,Sydney Youngblood,"Durant, Okla.",Durant High School,N/A,womens golf,oklahoma
-0,Aleksandre Bakshi,"Durant, Okla.",Durant High School,N/A,mens tennis,oklahoma
-1,Jochen Bertsch,"Durant, Okla.",Durant High School,N/A,mens tennis,oklahoma
-2,Ferran Calvo,"Valencia, Spain",Tyler Junior College,N/A,mens tennis,oklahoma
-3,Spencer Papa,"Valencia, Spain",Tyler Junior College,N/A,mens tennis,oklahoma
-4,Max Stewart,"Valencia, Spain",Tyler Junior College,N/A,mens tennis,oklahoma
-5,Stefano Tsorotiotis,"Libertyville, Ill.",Libertyville,N/A,mens tennis,oklahoma
-6,Jake Van Emburgh,"Belleair Beach, Fla.",IMG Academy,N/A,mens tennis,oklahoma
+11,Patrick Welch,"Providence, R.I.",Classical High School,N/A,mens golf,oklahoma
+0,Mikhaela Fortuna,"Manila, Philippines",De La Salle Santiago Zobel School,N/A,womens golf,oklahoma
+1,Karen Arimoto,"Kyoto, Japan",Fla.),N/A,womens golf,oklahoma
+2,Hannah Lee,"Surrey, British Columbia",Lord Tweedsmuir Secondary School,N/A,womens golf,oklahoma
+3,Kaitlin Milligan,"Norman, Okla.",Norman North High School,N/A,womens golf,oklahoma
+4,Julienne Soo,"South Yarra, Australia",Lauriston Girls’ School,N/A,womens golf,oklahoma
+5,Libby Winans,"Richardson, Texas",Plano East H.S.,N/A,womens golf,oklahoma
+6,Sydney Youngblood,"Durant, Okla.",Durant High School,N/A,womens golf,oklahoma
+0,Aleksandre Bakshi,"Tbilisi, Georgia",Green School,N/A,mens tennis,oklahoma
+1,Mason Beiler,"New Port Richey, Fla.",NFC Academy Online,N/A,mens tennis,oklahoma
+2,Taine Bernhard,"New Port Richey, Fla.",NFC Academy Online,N/A,mens tennis,oklahoma
+3,Jochen Bertsch,"New Port Richey, Fla.",NFC Academy Online,N/A,mens tennis,oklahoma
+4,Ferran Calvo,"Valencia, Spain",Tyler Junior College,N/A,mens tennis,oklahoma
+5,Spencer Papa,"Valencia, Spain",Tyler Junior College,N/A,mens tennis,oklahoma
+6,Matt Rodriguez,"Valencia, Spain",Tyler Junior College,N/A,mens tennis,oklahoma
+7,Max Stewart,"Valencia, Spain",Tyler Junior College,N/A,mens tennis,oklahoma
+8,Stefano Tsorotiotis,"Libertyville, Ill.",Libertyville,N/A,mens tennis,oklahoma
+9,Jake Van Emburgh,"Belleair Beach, Fla.",IMG Academy,N/A,mens tennis,oklahoma
 0,Jasmine Asghar,"London, England",Tyler Junior College,N/A,womens tennis,oklahoma
-1,Christiana Brigante,"Weston, Fla.",Florida Virtual School,N/A,womens tennis,oklahoma
-2,Martina Capurro,"Buenos Aires, Argentina",El Sistema de Educación a Distancia del Ejército Argentino,N/A,womens tennis,oklahoma
-3,Nina Jabrzemski,"Norman, Okla.",Norman North HS,N/A,womens tennis,oklahoma
-4,Simran Kaur Sethi,"Norman, Okla.",Norman North HS,N/A,womens tennis,oklahoma
+1,Martina Capurro,"Buenos Aires, Argentina",El Sistema de Educación a Distancia del Ejército Argentino,N/A,womens tennis,oklahoma
+2,Ivana Corley,"Albuquerque, N.M.",New Mexico Connections Academy,N/A,womens tennis,oklahoma
+3,Alli Hodges,"Jones, Okla.",University of Central Oklahoma,N/A,womens tennis,oklahoma
+4,Nina Jabrzemski,"Norman, Okla.",Norman North HS,N/A,womens tennis,oklahoma
 5,Oleksandra Korashvili,"Odessa, Ukraine",High School #59,N/A,womens tennis,oklahoma
 6,Skyler Miller,"Norman, Oklahoma",Home School,N/A,womens tennis,oklahoma
-7,Lily Miyazaki,"Tokyo, Japan",Coombe High School,N/A,womens tennis,oklahoma
-8,Camila Romero,"Guayaquil, Ecuador",Unidad Educativa Monte Tabor Nazaret,N/A,womens tennis,oklahoma
-9,Malene Stripp,"Copenhagen, Denmark",Himmelev Gymnasium,N/A,womens tennis,oklahoma
-10,Brooke Withrow,"Wichita, Kan.",Wichita Collegiate School,N/A,womens tennis,oklahoma
+7,Kianah Motosono,"Miami, Fla.",Club Med Academies,N/A,womens tennis,oklahoma
+8,Laura Rico-Garcia,"Miami, Fla.",Club Med Academies,N/A,womens tennis,oklahoma
+9,Camila Romero,"Guayaquil, Ecuador",Unidad Educativa Monte Tabor Nazaret,N/A,womens tennis,oklahoma
 0,Zach Atencio,"Ardmore, Okla.",Plainview HS,N/A,wrestling,oklahoma
-1,Dawaylon Barnes,"Muskogee, Okla.",Muskogee HS,N/A,wrestling,oklahoma
-2,Eli Boulton,"Lowell, Miss.",Lowell HS,N/A,wrestling,oklahoma
-3,Jake Boyd,"Smithville, Mo.",Smithville HS,N/A,wrestling,oklahoma
-4,Dom Demas,"Columbus, Ohio",Dublin Coffman HS,N/A,wrestling,oklahoma
-5,Andrew Dixon,"Edmond, Okla.",Edmond North HS,N/A,wrestling,oklahoma
-6,Hayden Hansen,"Norman, Okla.",Norman North HS,N/A,wrestling,oklahoma
-7,Reece Henry,"Piedmont, Okla.",Piedmont HS,N/A,wrestling,oklahoma
-8,Easton Hudson,"Bixby, Okla.",Bixby HS,N/A,wrestling,oklahoma
-9,Davion Jeffries,"Broken Arrow, Okla.",Broken Arrow HS,N/A,wrestling,oklahoma
-10,Kyle Lawson,"Powell, Ohio",Olentangy Liberty HS,N/A,wrestling,oklahoma
-11,Mike Longo,"Corona, Calif.",Santiago HS,N/A,wrestling,oklahoma
-12,Anthony Mantanona,"Palm Desert, Calif.",Palm Desert HS,N/A,wrestling,oklahoma
-13,Collin McCoy,"McKinney, Texas",McKinney Boyd HS,N/A,wrestling,oklahoma
-14,Yoanse Mejias,"Miami, Fla.",Southwest Miami HS,N/A,wrestling,oklahoma
-15,Christian Moody,"Collinsville, Okla.",Collinsville HS,N/A,wrestling,oklahoma
-16,Jake Rubio,"Amarillo, Texas",Randall HS,N/A,wrestling,oklahoma
-17,Jared Schieber,"Newkirk, Okla.",Newkirk HS,N/A,wrestling,oklahoma
-18,Noah Teaney,"Kansas City, Mo.",Oak Park HS,N/A,wrestling,oklahoma
-19,Jeremy Thomas,"Santa Ana, Calif.",Calvary Chapel HS,N/A,wrestling,oklahoma
-20,Justin Thomas,"Santa Ana, Calif.",Calvary Chapel HS,N/A,wrestling,oklahoma
-21,Clay Vincent,"Southlake, Texas",Southlake Carroll HS,N/A,wrestling,oklahoma
-22,Matthew Waddell,"Ellijay, Ga.",Gilmer HS,N/A,wrestling,oklahoma
-23,Connor Webb,"Davis, Okla.",Davis HS,N/A,wrestling,oklahoma
-24,Jake Woodley,"Pittsburgh, Pa.",North Alleghany HS,N/A,wrestling,oklahoma
+1,Eli Boulton,"Lowell, Mich.",Lowell HS,N/A,wrestling,oklahoma
+2,Jake Boyd,"Smithville, Mo.",Smithville HS,N/A,wrestling,oklahoma
+3,Jacob Butler,"Elgin, Okla.",Elgin High School,N/A,wrestling,oklahoma
+4,Brett Campbell,"Kansas City, Mo.",Summit Christian High School,N/A,wrestling,oklahoma
+5,Niko Chavez,"Willard, Mo.",Willard High School,N/A,wrestling,oklahoma
+6,Jaryn Curry,"Choctaw, Okla.",Choctaw HS,N/A,wrestling,oklahoma
+7,Dom Demas,"Columbus, Ohio",Dublin Coffman HS,N/A,wrestling,oklahoma
+8,Hayden Hansen,"Norman, Okla.",Norman North HS,N/A,wrestling,oklahoma
+9,Reece Henry,"Piedmont, Okla.",Piedmont HS,N/A,wrestling,oklahoma
+10,Tommy Hoskins,"Xenia, Ohio",Legacy Christian Academy,N/A,wrestling,oklahoma
+11,Easton Hudson,"Bixby, Okla.",Bixby HS,N/A,wrestling,oklahoma
+12,Davion Jeffries,"Broken Arrow, Okla.",Broken Arrow HS,N/A,wrestling,oklahoma
+13,Elijah Joseph,"Killeen, Texas",Harker Heights High School,N/A,wrestling,oklahoma
+14,Jose Lao Cooper,"Lancaster, Pa.",Manheim Township High School,N/A,wrestling,oklahoma
+15,Kyle Lawson,"Powell, Ohio",Olentangy Liberty HS,N/A,wrestling,oklahoma
+16,Kayne MacCallum,"Libertyville, Ill.","Libertyville, Ill.",N/A,wrestling,oklahoma
+17,Anthony Madrigal,"Oak Park, Ill.",Oak Park River Forest High School,N/A,wrestling,oklahoma
+18,Anthony Mantanona,"Palm Desert, Calif.",Palm Desert HS,N/A,wrestling,oklahoma
+19,Collin McCoy,"McKinney, Texas",McKinney Boyd HS,N/A,wrestling,oklahoma
+20,Mike McFadden,"Colorado Springs, Colo.",Cheyenne Mountain High School,N/A,wrestling,oklahoma
+21,Christian Moody,"Collinsville, Okla.",Collinsville HS,N/A,wrestling,oklahoma
+22,Bryson Munroe,"Plano, Texas",Plano West High School,N/A,wrestling,oklahoma
+23,Brice O'Hara,"Farmingville, New York",Sachem East High School,N/A,wrestling,oklahoma
+24,Jordan Rosselli,"Powell, Ohio",Olentangy Liberty High School,N/A,wrestling,oklahoma
+25,Jake Rubio,"Amarillo, Texas",Randall HS,N/A,wrestling,oklahoma
+26,Jared Schieber,"Newkirk, Okla.",Newkirk HS,N/A,wrestling,oklahoma
+27,Noah Teaney,"Kansas City, Mo.",Oak Park HS,N/A,wrestling,oklahoma
+28,Jeremy Thomas,"Huntington Beach, Calif.",Calvary Chapel HS,N/A,wrestling,oklahoma
+29,Justin Thomas,"Huntington Beach, Calif.",Calvary Chapel HS,N/A,wrestling,oklahoma
+30,Clay Vincent,"Southlake, Texas",Southlake Carroll HS,N/A,wrestling,oklahoma
+31,Matthew Waddell,"Ellijay, Ga.",Gilmer HS,N/A,wrestling,oklahoma
+32,Connor Webb,"Davis, Okla.",Davis HS,N/A,wrestling,oklahoma
+33,Jake Woodley,"Pittsburgh, Pa.",North Alleghany HS,N/A,wrestling,oklahoma
+34,Zackery Zeamer,"Manheim, Pa.",Manheim Central High School,N/A,wrestling,oklahoma
 0,Mary Anderson,"Edmond, Okla.",Bishop McGuinness High School,N/A,womens rowing,oklahoma
 1,Brooke Baldwin,"Tokoroa, New Zealand",Fraser HS,N/A,womens rowing,oklahoma
-2,Baylee Barnes,"Southlake, Texas",Grapevine Faith Christian School,N/A,womens rowing,oklahoma
-3,Andrea Batchev,"Rockwood, Mich.",Summit Academy HS,N/A,womens rowing,oklahoma
-4,Maxi Baumgart,"Pretzschendorf, Germany",Sportgymnasium Dresden,N/A,womens rowing,oklahoma
-5,Lauren Bishop,"Norman, Okla.",Trinity Catholic High School,N/A,womens rowing,oklahoma
-6,Chloe Campbell,"Piedmont, Okla.",Crossings Christian School,N/A,womens rowing,oklahoma
-7,Imani Campbell,"Washington, D.C.",Benjamin Banneker Academic HS,N/A,womens rowing,oklahoma
-8,Nina Chism,"Edmond, Okla.",Edmond Memorial HS,N/A,womens rowing,oklahoma
-9,Destyne Cinocca,"Broken Arrow, Okla.",Broken Arrow HS,N/A,womens rowing,oklahoma
-10,Emily Coffman,"Southborough, Mass.",Algonquin Regional High School,N/A,womens rowing,oklahoma
-11,Megan Crawford,"Pflugerville, Texas",Brentwood Christian School,N/A,womens rowing,oklahoma
-12,Maia Cruse,"Broken Arrow, Okla.",Broken Arrow HS,N/A,womens rowing,oklahoma
-13,Morgan Danker,"Bridge Creek, Okla.",Bridge Creek HS,N/A,womens rowing,oklahoma
-14,Sarah Davis,"Laverne, Okla.",Laverne HS,N/A,womens rowing,oklahoma
-15,Katherine Denney,"Enid, Okla.",Enid HS,N/A,womens rowing,oklahoma
-16,Te'a Elliott-Fox,"Tishomingo, Okla.",Tishomingo HS,N/A,womens rowing,oklahoma
-17,Sara Fazal,"Norman, Okla.",Norman North HS,N/A,womens rowing,oklahoma
-18,Hannah Hammond,"Sand Springs, Okla.",Charles Page HS,N/A,womens rowing,oklahoma
-19,Rubie Hays,"Austin, Texas",Westlake High School,N/A,womens rowing,oklahoma
-20,Kalie Heffernan,"Vashon Island, Wash.",Vashon Island High School,N/A,womens rowing,oklahoma
-21,Cara Hoelzl,"Wilton, Conn.",Wilton High School,N/A,womens rowing,oklahoma
-22,Robiette Johnson,"McAlester, Okla.",McAlester HS,N/A,womens rowing,oklahoma
-23,Shelby Johnson,"Sacramento, Calif.",Oak Ridge HS,N/A,womens rowing,oklahoma
-24,Anne Kapka,"Enid, Okla.",Enid HS,N/A,womens rowing,oklahoma
-25,Andreja Kekic,"Piran, Slovenia",Gimnazisa Koper,N/A,womens rowing,oklahoma
-26,Katherine Krueger,"Houston, Texas",Clear Lake HS,N/A,womens rowing,oklahoma
-27,Louise Kuehster,"Castle Brock, Colo.",Douglas County HS,N/A,womens rowing,oklahoma
-28,Abby Lange,"Edmond, Okla.",Edmond Santa Fe High School,N/A,womens rowing,oklahoma
-29,Madeleine Lange,"Edmond, Okla.",Edmond Santa Fe High School,N/A,womens rowing,oklahoma
-30,Maya Martin,"Wauwatosa, Wisc.",Wauwatosa East HS,N/A,womens rowing,oklahoma
-31,Breah McKay,"Wauwatosa, Wisc.",Wauwatosa East HS,N/A,womens rowing,oklahoma
-32,Margaret McLenna,"Margate City, N.J.",Holy Spirit HS,N/A,womens rowing,oklahoma
-33,Louisa McNaughton,"Margate City, N.J.",Holy Spirit HS,N/A,womens rowing,oklahoma
-34,Katherine Ognovich,"Greensboro, N.C.",Greensboro Day School,N/A,womens rowing,oklahoma
-35,Amy Pasque,"Norman, Okla.",Norman HS,N/A,womens rowing,oklahoma
-36,Melissa Patten,"San Diego, Calif.",Scripps Ranch High School,N/A,womens rowing,oklahoma
-37,Maria Pergouli,"San Diego, Calif.",Scripps Ranch High School,N/A,womens rowing,oklahoma
-38,Miranda Rauner,"Jenks, Okla.",Bishop Kelley High School,N/A,womens rowing,oklahoma
-39,Emma Reinsch,"Jenks, Okla.",Bishop Kelley High School,N/A,womens rowing,oklahoma
-40,Katie Roberts,"Santa Clarita, Calif.",Saugus HS,N/A,womens rowing,oklahoma
-41,Katja Ruebling,"Dresden, Germany",Sportgymnasium Dresden,N/A,womens rowing,oklahoma
-42,Sophie Salt,"Auckland, New Zealand",Westlake Girls HS,N/A,womens rowing,oklahoma
-43,Allison Schimmoller,"Concord, N.C.",Lake Norman Charter,N/A,womens rowing,oklahoma
-44,Hannah Scholl,"Annapolis, Md.",Home School,N/A,womens rowing,oklahoma
-45,Elena Sloan,"New Haven, Conn.",Shrewsbury High School,N/A,womens rowing,oklahoma
-46,Sydney Stone,"Boulder, Colo.",Boulder HS,N/A,womens rowing,oklahoma
-47,Amelia Tanner,"Irvine, Calif.",Sage Hill HS,N/A,womens rowing,oklahoma
-48,Emily Taylor,"Castle Pines, Colo.",Rock Canyon HS,N/A,womens rowing,oklahoma
-49,Amber Templin,"Enterprise, Ala.",Enterprise HS,N/A,womens rowing,oklahoma
-50,Makayla Williams,"Moore, Okla.",South Moore HS,N/A,womens rowing,oklahoma
-51,Rachel Williams,"DeForest, Wis.",DeForest HS,N/A,womens rowing,oklahoma
-52,Te'a Williams,"Tulsa, Okla.",Union HS,N/A,womens rowing,oklahoma
+2,Andrea Batchev,"Rockwood, Mich.",Summit Academy HS,N/A,womens rowing,oklahoma
+3,Chloe Campbell,"Piedmont, Okla.",Crossings Christian School,N/A,womens rowing,oklahoma
+4,Nina Chism,"Edmond, Okla.",Edmond Memorial HS,N/A,womens rowing,oklahoma
+5,Destyne Cinocca,"Broken Arrow, Okla.",Broken Arrow HS,N/A,womens rowing,oklahoma
+6,Maia Cruse,"Broken Arrow, Okla.",Broken Arrow HS,N/A,womens rowing,oklahoma
+7,Morgan Danker,"Bridge Creek, Okla.",Bridge Creek HS,N/A,womens rowing,oklahoma
+8,Sarah Davis,"Laverne, Okla.",Laverne HS,N/A,womens rowing,oklahoma
+9,Katherine Denney,"Enid, Okla.",Enid HS,N/A,womens rowing,oklahoma
+10,Te'a Elliott-Fox,"Tishomingo, Okla.",Tishomingo HS,N/A,womens rowing,oklahoma
+11,Sara Fazal,"Norman, Okla.",Norman North HS,N/A,womens rowing,oklahoma
+12,Hannah Hammond,"Sand Springs, Okla.",Charles Page HS,N/A,womens rowing,oklahoma
+13,Kalie Heffernan,"Vashon Island, Wash.",Vashon Island High School,N/A,womens rowing,oklahoma
+14,Shelby Johnson,"Sacramento, Calif.",Oak Ridge HS,N/A,womens rowing,oklahoma
+15,Anne Kapka,"Enid, Okla.",Enid HS,N/A,womens rowing,oklahoma
+16,Andreja Kekic,"Piran, Slovenia",Gimnazisa Koper,N/A,womens rowing,oklahoma
+17,Katherine Krueger,"Houston, Texas",Clear Lake HS,N/A,womens rowing,oklahoma
+18,Abby Lange,"Edmond, Okla.",Edmond Santa Fe High School,N/A,womens rowing,oklahoma
+19,Madeleine Lange,"Edmond, Okla.",Edmond Santa Fe High School,N/A,womens rowing,oklahoma
+20,Breah McKay,"Edmond, Okla.",Edmond Santa Fe High School,N/A,womens rowing,oklahoma
+21,Margaret McLenna,"Margate City, N.J.",Holy Spirit HS,N/A,womens rowing,oklahoma
+22,Louisa McNaughton,"Margate City, N.J.",Holy Spirit HS,N/A,womens rowing,oklahoma
+23,Amy Pasque,"Norman, Okla.",Norman HS,N/A,womens rowing,oklahoma
+24,Maria Pergouli,"Norman, Okla.",Norman HS,N/A,womens rowing,oklahoma
+25,Emma Reinsch,"Norman, Okla.",Norman HS,N/A,womens rowing,oklahoma
+26,Sophie Salt,"Auckland, New Zealand",Westlake Girls HS,N/A,womens rowing,oklahoma
+27,Sydney Stone,"Boulder, Colo.",Boulder HS,N/A,womens rowing,oklahoma
+28,Emily Taylor,"Castle Pines, Colo.",Rock Canyon HS,N/A,womens rowing,oklahoma
+29,Amber Templin,"Enterprise, Ala.",Enterprise HS,N/A,womens rowing,oklahoma
+30,Rachel Williams,"DeForest, Wis.",DeForest HS,N/A,womens rowing,oklahoma
 0,Jocelyn Alo,"Hauula, Hawaii",James Campbell HS,N/A,softball,oklahoma
-1,Kelsey Arnold,"Tulsa, Okla.",Holland Hall Prep,N/A,softball,oklahoma
-2,Falepolima Aviu,"Oceanside, Calif.",Rancho Buena Vista HS,N/A,softball,oklahoma
-3,Caleigh Clifton,"Wayne, Okla.",Wayne HS,N/A,softball,oklahoma
-4,Parker Conrad,"Winter Park, Fla.",Winter Park HS,N/A,softball,oklahoma
-5,Lynnsie Elam,"Chickasha, Okla.",Chickasha HS,N/A,softball,oklahoma
+1,Falepolima Aviu,"Oceanside, Calif.",Rancho Buena Vista HS,N/A,softball,oklahoma
+2,Caleigh Clifton,"Wayne, Okla.",Wayne HS,N/A,softball,oklahoma
+3,Parker Conrad,"Winter Park, Fla.",Winter Park HS,N/A,softball,oklahoma
+4,Lynnsie Elam,"Chickasha, Okla.",Chickasha HS,N/A,softball,oklahoma
+5,Berkley Faulkner,"Duncan, Okla.",Duncan HS,N/A,softball,oklahoma
 6,Eliyah Flores,"Colton, Calif.",Grand Terrace HS,N/A,softball,oklahoma
-7,Shay Knighten,"Buena Park, Calif.",Sunny Hills HS,N/A,softball,oklahoma
-8,Mariah Lopez,"Saugus, Calif.",Saugus HS,N/A,softball,oklahoma
-9,Paige Lowary,"Dallas Center, Iowa",Dallas Center-Grimes HS,N/A,softball,oklahoma
-10,Kylie Lundberg,"Lakewood, Calif.",Lakewood HS,N/A,softball,oklahoma
-11,Nicole Mendes,"Houston, Texas",Home School,N/A,softball,oklahoma
-12,Melanie Olmos,"Riverside, Calif.",Grand Terrace HS,N/A,softball,oklahoma
-13,Paige Parker,"Independence, Mo.",Truman HS,N/A,softball,oklahoma
-14,Nicole Pendley,"Rio Rancho, N.M.",Rio Rancho HS,N/A,softball,oklahoma
-15,Raegan Rogers,"Blanchard, Okla.",Bridge Creek HS,N/A,softball,oklahoma
-16,Sydney Romero,"San Diego, Calif.",Vista Murrieta HS,N/A,softball,oklahoma
+7,Grace Green,"Oakdale, Calif.",Oakdale HS,N/A,softball,oklahoma
+8,Shay Knighten,"Buena Park, Calif.",Sunny Hills HS,N/A,softball,oklahoma
+9,Audrie LaValley,"Choctaw, Okla.",Carl Albert HS,N/A,softball,oklahoma
+10,Mariah Lopez,"Saugus, Calif.",Saugus HS,N/A,softball,oklahoma
+11,Kylie Lundberg,"Lakewood, Calif.",Lakewood HS,N/A,softball,oklahoma
+12,Grace Lyons,"Peoria, Ariz.",Sandra Day O'Connor HS,N/A,softball,oklahoma
+13,Nicole Mendes,"Houston, Texas",Home School,N/A,softball,oklahoma
+14,Raegan Rogers,"Blanchard, Okla.",Bridge Creek HS,N/A,softball,oklahoma
+15,Sydney Romero,"San Diego, Calif.",Vista Murrieta HS,N/A,softball,oklahoma
+16,Shannon Saile,"Land O' Lakes, Fla.",Land O' Lakes HS,N/A,softball,oklahoma
 17,Alexa Schultz,"Los Alamitos, Calif.",Los Alamitos HS,N/A,softball,oklahoma
-18,Hannah Sparks,"Thomasville, Ala.",Thomasville HS,N/A,softball,oklahoma
-19,Vanessa Taukeiaho,"Rancho Cucamonga, Calif.",Etiwanda HS,N/A,softball,oklahoma
-20,Lea Wodach,"Coto de Caza, Calif.",Tesoro HS,N/A,softball,oklahoma
+18,Sami Skelly,"Lone Grove, Okla.",Lone Grove HS,N/A,softball,oklahoma
+19,Brooke Vestal,"New Branufels, Texas",Canyon HS,N/A,softball,oklahoma
 0,Audrey Alford,"Norman, Okla.",Norman North,N/A,womens volleyball,oklahoma
 1,Paige Anderson,"McKinney, Texas",McKinney Boyd,N/A,womens volleyball,oklahoma
 2,Madison Drescher,"Southlake, Texas",Southlake Carroll,N/A,womens volleyball,oklahoma
@@ -310,158 +294,165 @@
 9,Kylee McLaughlin,"Carrollton, Texas",Hebron,N/A,womens volleyball,oklahoma
 10,Morgan Miller,"Magnolia, Texas",Magnolia,N/A,womens volleyball,oklahoma
 11,Kira Morikawa,"Honolulu, Hawaii",Punahou School,N/A,womens volleyball,oklahoma
-12,Sarah Sanders,"Plano, Texas",Plano West,N/A,womens volleyball,oklahoma
-13,Sabrina Simms,"Argyle, Texas",Liberty Christian School,N/A,womens volleyball,oklahoma
-14,Valerie Woody,"Rowlett, Texas",Rowlett,N/A,womens volleyball,oklahoma
+12,Haley Sanchez,"Bakersfield, Calif.",Centennial,N/A,womens volleyball,oklahoma
+13,Sarah Sanders,"Plano, Texas",Plano West,N/A,womens volleyball,oklahoma
+14,Sabrina Simms,"Argyle, Texas",Liberty Christian School,N/A,womens volleyball,oklahoma
 15,Olga Zampati,"Athens, Greece",Moraitis,N/A,womens volleyball,oklahoma
 0,Levi Anderson,"Houston, Texas",Cypress Creek High School,N/A,mens gymnastics,oklahoma
 1,Peter Daggett,"East Longmeadow, Mass.",Daggett Gymnastics,N/A,mens gymnastics,oklahoma
 2,Gage Dyer,"Yukon, Okla.",Homeschool,N/A,mens gymnastics,oklahoma
-3,Eric Holley,"Salt Lake City, Utah",USA Gymnastics World,N/A,mens gymnastics,oklahoma
-4,Isamu Ito,"Calgary, Alberta",University of Calgary,N/A,mens gymnastics,oklahoma
-5,Hunter Justus,"Cypress, Texas",Cypress Gymnastics Academy,N/A,mens gymnastics,oklahoma
-6,Tanner Justus,"Cypress, Texas",Cypress Academy,N/A,mens gymnastics,oklahoma
-7,Grant Kell,"Georgetown, Texas",Crenshaw Athletic Club,N/A,mens gymnastics,oklahoma
-8,Collyn Kellogg,"Katy, Texas",Seven Lakes HS,N/A,mens gymnastics,oklahoma
-9,Jake Maloley,"Grand Rapids, Mich.",Grand Rapids Gymnastics,N/A,mens gymnastics,oklahoma
-10,Mason Menser,"Ripley, Okla.",Ripley High School,N/A,mens gymnastics,oklahoma
-11,Yul Moldauer,"Arvada, Colo.",Golden High School,N/A,mens gymnastics,oklahoma
-12,Reese Rickett,"Tomball, Texas",Cypress Gymnastics Academy,N/A,mens gymnastics,oklahoma
+3,Spencer Goodell,"Tigard, Ore.",Tigard HS,N/A,mens gymnastics,oklahoma
+4,Vitaliy Guimaraes,"Arvada, Colo.",Two Roads Charter,N/A,mens gymnastics,oklahoma
+5,Eric Holley,"Salt Lake City, Utah",USA Gymnastics World,N/A,mens gymnastics,oklahoma
+6,Isamu Ito,"Calgary, Alberta",University of Calgary,N/A,mens gymnastics,oklahoma
+7,Tanner Justus,"Cypress, Texas",Cypress Academy,N/A,mens gymnastics,oklahoma
+8,Grant Kell,"Georgetown, Texas",Crenshaw Athletic Club,N/A,mens gymnastics,oklahoma
+9,Collyn Kellogg,"Katy, Texas",Seven Lakes HS,N/A,mens gymnastics,oklahoma
+10,Jake Maloley,"Grand Rapids, Mich.",Grand Rapids Gymnastics,N/A,mens gymnastics,oklahoma
+11,Mason Menser,"Ripley, Okla.",Ripley High School,N/A,mens gymnastics,oklahoma
+12,Yul Moldauer,"Arvada, Colo.",Golden High School,N/A,mens gymnastics,oklahoma
 13,Brian Schibler,"Chesterfield, Mo.",Meyer's Gymnastics,N/A,mens gymnastics,oklahoma
-14,Genki Suzuki,"North Wales, Pa.",Montgomery County Sports Performance Center,N/A,mens gymnastics,oklahoma
-15,Alexei Vernyi,"Cypress, Texas",Cypress Academy of Gymnastics,N/A,mens gymnastics,oklahoma
-16,Matt Wenske,"Houston, Texas",Cypress Academy,N/A,mens gymnastics,oklahoma
-17,Cameron Wright,"Cypress, Texas",Cypress Woods HS,N/A,mens gymnastics,oklahoma
-0,Natalie Brown,"Dallas, Texas",WOGA,N/A,womens gymnastics,oklahoma
-1,Stefani Catour,"Phoenix, Ariz.",Desert Light Gymnastics,N/A,womens gymnastics,oklahoma
-2,Samantha Craus,"Grapevine, Texas",U.S. Gold Gymnastics,N/A,womens gymnastics,oklahoma
-3,Jade Degouveia,"Ft. Lauderdale, Fla.",American Twisters Gymnastics,N/A,womens gymnastics,oklahoma
-4,Brenna Dowell,"Odessa, Mo.",GAGE,N/A,womens gymnastics,oklahoma
-5,Jordan Draper,"Bedford, Texas",Empire Gymnastics,N/A,womens gymnastics,oklahoma
-6,Ashley Hiller,"Houston, Texas",Stars Gymnastics Houston,N/A,womens gymnastics,oklahoma
-7,AJ Jackson,"Belton, Mo.",Eagles Gymnastics,N/A,womens gymnastics,oklahoma
-8,Nicole Lehrmann,"Austin, Texas",Capital Gymnastics,N/A,womens gymnastics,oklahoma
-9,Alex Marks,"Cushing, Okla.",Dynamo Gymnastics,N/A,womens gymnastics,oklahoma
-10,Abigail Matthews,"Virginia Beach, Va.",Cincinnati Gymnastics,N/A,womens gymnastics,oklahoma
-11,Maggie Nichols,"Little Canada, Minn.",Twin City Twisters,N/A,womens gymnastics,oklahoma
-12,Evy Schoepfer,"Ames, Iowa",Triad Gymnastics,N/A,womens gymnastics,oklahoma
-13,Brehanna Showers,"Rockford, Mich.",R-Athletics,N/A,womens gymnastics,oklahoma
-14,Anastasia Webb,"Morton Grove, Ill.",IGI,N/A,womens gymnastics,oklahoma
-15,Carly Woodard,"Overland Park, Kan.",Fuzion Gymnastics,N/A,womens gymnastics,oklahoma
-0,Eric Alldritt,"Bend, Ore.",Summit HS,Men,mixed track,oklahoma
-1,Matthew Arndorfer,"Frisco, Texas",Prince of Peace Christian School,Men,mixed track,oklahoma
-2,Sorre Bah,"Memphis, Tenn.",Houston HS,Men,mixed track,oklahoma
-3,Xavier Brown,"Palmdale, Calif.",Highland HS,Men,mixed track,oklahoma
-4,Cooper Campbell,"Katy, Texas",Katy Seven Lakes HS,Men,mixed track,oklahoma
-5,Thomas Cheval,"Van Nuys, Calif.",Birmingham HS,Men,mixed track,oklahoma
-6,Bradley Daboub,"Humble, Texas",Atascocita HS,Men,mixed track,oklahoma
+14,Morgan Seyler,"Flower Mound, Texas",Flower Mound HS,N/A,mens gymnastics,oklahoma
+15,Genki Suzuki,"North Wales, Pa.",Montgomery County Sports Performance Center,N/A,mens gymnastics,oklahoma
+16,Alexei Vernyi,"Cypress, Texas",Cypress Academy of Gymnastics,N/A,mens gymnastics,oklahoma
+17,Matt Wenske,"Houston, Texas",Cypress Academy,N/A,mens gymnastics,oklahoma
+18,Cameron Wright,"Cypress, Texas",Cypress Woods HS,N/A,mens gymnastics,oklahoma
+0,Jade Degouveia,"Ft. Lauderdale, Fla.",American Twisters Gymnastics,N/A,womens gymnastics,oklahoma
+1,Brenna Dowell,"Odessa, Mo.",GAGE,N/A,womens gymnastics,oklahoma
+2,Jordan Draper,"Bedford, Texas",Empire Gymnastics,N/A,womens gymnastics,oklahoma
+3,Ashley Hiller,"Houston, Texas",Stars Gymnastics Houston,N/A,womens gymnastics,oklahoma
+4,Emma LaPinta,"Frisco, Texas",Rick Reedy High School,N/A,womens gymnastics,oklahoma
+5,Nicole Lehrmann,"Austin, Texas",Capital Gymnastics,N/A,womens gymnastics,oklahoma
+6,Alex Marks,"Cushing, Okla.",Dynamo Gymnastics,N/A,womens gymnastics,oklahoma
+7,Maggie Nichols,"Little Canada, Minn.",Twin City Twisters,N/A,womens gymnastics,oklahoma
+8,Evy Schoepfer,"Ames, Iowa",Triad Gymnastics,N/A,womens gymnastics,oklahoma
+9,Brehanna Showers,"Rockford, Mich.",R-Athletics,N/A,womens gymnastics,oklahoma
+10,Allie Stern,"Charlotte, N.C.",Providence High School,N/A,womens gymnastics,oklahoma
+11,Karrie Thomas,"Coral Springs, Fla.",Marjory Stoneman Douglas,N/A,womens gymnastics,oklahoma
+12,Olivia Trautman,"Champlin, Minnesota",Champlin Park High School,N/A,womens gymnastics,oklahoma
+13,Anastasia Webb,"Morton Grove, Ill.",IGI,N/A,womens gymnastics,oklahoma
+14,Carly Woodard,"Overland Park, Kan.",Fuzion Gymnastics,N/A,womens gymnastics,oklahoma
+0,Sorre Bah,"Memphis, Tenn.",Houston HS,Men,mixed track,oklahoma
+1,Xavier Brown,"Palmdale, Calif.",Highland HS,Men,mixed track,oklahoma
+2,Cooper Campbell,"Katy, Texas",Katy Seven Lakes HS,Men,mixed track,oklahoma
+3,Eric Casarez,"Keller, Texas",Keller Central,Men,mixed track,oklahoma
+4,Ackeen Colley,"Balaclava, Jamaica",Ruseas HS,Men,mixed track,oklahoma
+5,Bradley Daboub,"Humble, Texas",Atascocita HS,Men,mixed track,oklahoma
+6,Jelaani Davis,"Chicago, Ill.","Pearland, Texas)",Men,mixed track,oklahoma
 7,Tucker Desko,"Perkasie, Pa.",Pennridge HS,Men,mixed track,oklahoma
 8,Andrew Doherty,"Taunton, Mass.",Taunton HS,Men,mixed track,oklahoma
 9,Bryce Douglas,"Allen, Texas",Allen HS,Men,mixed track,oklahoma
-10,Josh Foster,"Houston, Texas",Kempner HS,Men,mixed track,oklahoma
-11,Zach Gentry,"Charlottesville, Va.",Albermarie HS,Men,mixed track,oklahoma
-12,Papay Glaywulu,"Kansas City, Mo.",Park Hill HS,Men,mixed track,oklahoma
-13,Trent Hamner,"Hoover, Ala.",Hoover HS,Men,mixed track,oklahoma
-14,Josh Haus,"Manhattan, Kan.",Manhattan HS,Men,mixed track,oklahoma
-15,Shon Howard,"Killeen, Texas",Lampasas HS,Men,mixed track,oklahoma
-16,Steven Jazdyk,"Lampasas, Texas",Lampasas HS,Men,mixed track,oklahoma
-17,Lucas Kelley,"Massillon, Ohio",Perry HS,Men,mixed track,oklahoma
-18,Derek King,"Keller, Texas",Keller HS,Men,mixed track,oklahoma
-19,Isaiah Levingston,"Oklahoma City, Okla.",Casady School,Men,mixed track,oklahoma
-20,Liam Meirow,"Dillon, Colo.",Summit HS,Men,mixed track,oklahoma
-21,Calvin Miller,"Oklahoma City, Okla.",Westmoore HS,Men,mixed track,oklahoma
-22,Marcus Mitchell,"Coppell, Texas",Coppell HS,Men,mixed track,oklahoma
-23,Larry Murray,"Rosharon, Texas",Manvel HS,Men,mixed track,oklahoma
-24,Lawrence Murray,"Rosharon, Texas",Manvel HS,Men,mixed track,oklahoma
-25,Joseph Sheffield,"Garland, Texas",Rowlett HS,Men,mixed track,oklahoma
-26,Chris Staub,"Tulsa, Okla.",Jenks HS,Men,mixed track,oklahoma
-27,Brendan Taylor,"Little Rock, Ark.",Catholic HS,Men,mixed track,oklahoma
-28,Ryan Teuscher,"Trophy Club, Texas",Byron Nelson HS,Men,mixed track,oklahoma
-29,Vernon Turner,"Yukon, Okla.",Yukon HS,Men,mixed track,oklahoma
-30,Greg Vann,"Meridian, Miss.",Rio Mesa HS,Men,mixed track,oklahoma
-31,Heath Warren,"Springfield, Ill.",Springfield HS,Men,mixed track,oklahoma
-32,Jackson Webb,"Plano, Texas",Plano West Senior HS,Men,mixed track,oklahoma
-33,Bennie Wesley,"Winter Haven, Fla.",Winter Haven HS,Men,mixed track,oklahoma
-34,Myles Wheeler,"Flower Mound, Texas",Marcus HS,Men,mixed track,oklahoma
-35,Carl Williams,"Aledo, Texas",Aledo HS,Men,mixed track,oklahoma
-36,Garry Williams,"Chesapeake, Va.",Western Branch HS,Men,mixed track,oklahoma
-37,Langdon Williams,"Mansfield, Texas",Mansfield Lake Ridge HS,Men,mixed track,oklahoma
-38,Alexandria Arndorfer,"Frisco, Texas",Prince of Peace Christian School,Women,mixed track,oklahoma
-39,Camri Austin,"Arlington, Texas",Uplift Hampton Prepatory,Women,mixed track,oklahoma
-40,Grace Barber,"Tulsa, Okla.",Jenks HS,Women,mixed track,oklahoma
-41,Alexis Barnes,"Rowlett, Texas",Rowlett HS,Women,mixed track,oklahoma
-42,Abby Bilsbury,"Ardmore, Okla.",Plainview HS,Women,mixed track,oklahoma
-43,Kelsei Bixler,"Palmyra, Pa.",Palmyra Area HS,Women,mixed track,oklahoma
-44,Evette Blanks,"Houston, Texas",Hightower HS,Women,mixed track,oklahoma
-45,Myah Bowen,"McKinney, Texas",McKinney Boyd HS,Women,mixed track,oklahoma
-46,Camilla Broman,"Katy, Texas",Katy Seven Lakes HS,Women,mixed track,oklahoma
-47,Laura Broman,"Katy, Texas",Katy Seven Lakes HS,Women,mixed track,oklahoma
-48,Ashley Bryant,"Newcastle, Okla.",University of Central Oklahoma,Women,mixed track,oklahoma
-49,Leya Buchanan,"Mississauga, Ontario, Canada",Our Lady of Mount Carmel HS,Women,mixed track,oklahoma
-50,Camille Burge,"Oklahoma City, Okla.",Carl Albert HS,Women,mixed track,oklahoma
-51,Danielle Drogosch,"Allen, Texas",Allen HS,Women,mixed track,oklahoma
-52,Sophia Fernald,"Lakewood, Colo.",Wheat Ridge HS,Women,mixed track,oklahoma
-53,Lauren Gibbs,"Lindsay, Texas",Lindsay HS,Women,mixed track,oklahoma
-54,Ja'Leesa Giles,"Mansfield, Texas",Mansfield Legacy HS,Women,mixed track,oklahoma
-55,Meia Gordon,"Houston, Texas",Cypress Creek HS,Women,mixed track,oklahoma
-56,Sarah Graves,"Rockwall, Texas",Rockwall HS,Women,mixed track,oklahoma
-57,Meagan Gray,"Buda, Texas",Hays HS,Women,mixed track,oklahoma
-58,Julia Hanks,"Norman, Okla.",Norman HS,Women,mixed track,oklahoma
-59,Alison Hepp,"San Antonio, Texas",Ronald Reagan HS,Women,mixed track,oklahoma
-60,CeCe Jackson,"Seattle, Wash.",Portland State,Women,mixed track,oklahoma
-61,Lauren Jones,"Garrettsville, Ohio",James A. Garfield HS,Women,mixed track,oklahoma
-62,Gabby Kearney,"Roseburg, Ore.",Roseburg HS,Women,mixed track,oklahoma
-63,Sydney King,"Dalhart, Texas",Dalhart HS,Women,mixed track,oklahoma
-64,Morgan Long,"Keifer, Okla.",Sand Springs HS,Women,mixed track,oklahoma
-65,Sabrina Mason,"Montego Bay, Jamaica",Ruseas HS,Women,mixed track,oklahoma
-66,Allyssa Miller,"Hill City, Kan.",Hill City HS,Women,mixed track,oklahoma
-67,CeCe Moore,"St. Louis, Mo.",Mary Institute and St. Louis Country Day School,Women,mixed track,oklahoma
-68,Nura Muhammad,"Phoenix, Ariz.",Mountain Pointe HS,Women,mixed track,oklahoma
-69,Mia Mukes,"Edmond, Okla.",Edmond Memorial HS,Women,mixed track,oklahoma
-70,Natalie O'Brien,"Flintridge, Calif.",Flintridge Prepatory,Women,mixed track,oklahoma
-71,Hailey Patterson,"Arlington, Texas",Kennedale HS,Women,mixed track,oklahoma
-72,Ama Pipi,"Arlington, Texas",Kennedale HS,Women,mixed track,oklahoma
-73,Khloe Pointer,"Richmond, Va.",Maggie Walker HS,Women,mixed track,oklahoma
-74,Falyn Reaugh,"Dallas, Texas",Highland Park HS,Women,mixed track,oklahoma
-75,Hayley Redwine,"Norman, Okla.",Norman HS,Women,mixed track,oklahoma
-76,Isabella Rose,"Norman, Okla.",Norman North HS,Women,mixed track,oklahoma
-77,Sarah Scott,"Wylie, Texas",Wylie East HS,Women,mixed track,oklahoma
-78,Sierra Sheen,"Oklahoma City, Okla.",Edmond Memorial HS,Women,mixed track,oklahoma
-79,Kenzie Shell,"Port Huron, Mich.",Port Huron Northern HS,Women,mixed track,oklahoma
-80,Medinah Spencer,"Baltimore, Md.",Milford Mill Academy,Women,mixed track,oklahoma
-81,Audrey Springer,"Sanger, Texas",Sanger HS,Women,mixed track,oklahoma
-82,Eryn Stafford,"Norman, Okla.",Norman HS,Women,mixed track,oklahoma
-83,Makayla Stephens,"Atoka, Okla.",Atoka HS,Women,mixed track,oklahoma
-84,Najuana Strickland,"Southaven, Miss.",Desoto Central HS,Women,mixed track,oklahoma
-85,Essence Thomas,"Galveston, Texas",Dickinson HS,Women,mixed track,oklahoma
-86,Amanda Van Buren,"San Diego, Calif.",Vista Murrieta HS,Women,mixed track,oklahoma
-87,Belle Wallace,"Norman, Okla.",Norman North HS,Women,mixed track,oklahoma
-88,Abby Williams,"McKinney, Texas",Prosper H.S.,Women,mixed track,oklahoma
-89,Jess Woodard,"Marlton, N.J.",Cherokee HS,Women,mixed track,oklahoma
-0,Matthew Arndorfer,"Frisco, Texas",Prince of Peace Christian School,Men,mixed cross country,oklahoma
-1,Andrew Doherty,"Taunton, Mass.",Taunton HS,Men,mixed cross country,oklahoma
-2,Zach Gentry,"Charlottesville, Va.",Albermarie HS,Men,mixed cross country,oklahoma
-3,Liam Meirow,"Dillon, Colo.",Summit HS,Men,mixed cross country,oklahoma
-4,Chris Staub,"Tulsa, Okla.",Jenks HS,Men,mixed cross country,oklahoma
-5,Brendan Taylor,"Little Rock, Ark.",Catholic HS,Men,mixed cross country,oklahoma
-6,Ryan Teuscher,"Trophy Club, Texas",Byron Nelson HS,Men,mixed cross country,oklahoma
-7,Heath Warren,"Springfield, Ill.",Springfield HS,Men,mixed cross country,oklahoma
-8,Alexandria Arndorfer,"Frisco, Texas",Prince of Peace Christian School,Women,mixed cross country,oklahoma
-9,Grace Barber,"Tulsa, Okla.",Jenks HS,Women,mixed cross country,oklahoma
-10,Kelsei Bixler,"Palmyra, Pa.",Palmyra Area HS,Women,mixed cross country,oklahoma
-11,Camilla Broman,"Katy, Texas",Katy Seven Lakes HS,Women,mixed cross country,oklahoma
-12,Laura Broman,"Katy, Texas",Katy Seven Lakes HS,Women,mixed cross country,oklahoma
-13,Danielle Drogosch,"Allen, Texas",Allen HS,Women,mixed cross country,oklahoma
-14,Sophia Fernald,"Lakewood, Colo.",Wheat Ridge HS,Women,mixed cross country,oklahoma
-15,Lauren Gibbs,"Lindsay, Texas",Lindsay HS,Women,mixed cross country,oklahoma
-16,Alison Hepp,"San Antonio, Texas",Ronald Reagan HS,Women,mixed cross country,oklahoma
-17,Morgan Long,"Keifer, Okla.",Sand Springs HS,Women,mixed cross country,oklahoma
-18,CeCe Moore,"St. Louis, Mo.",Mary Institute and St. Louis Country Day School,Women,mixed cross country,oklahoma
-19,Natalie O'Brien,"Flintridge, Calif.",Flintridge Prepatory,Women,mixed cross country,oklahoma
-20,Khloe Pointer,"Richmond, Va.",Maggie Walker HS,Women,mixed cross country,oklahoma
-21,Hayley Redwine,"Norman, Okla.",Norman HS,Women,mixed cross country,oklahoma
-22,Isabella Rose,"Norman, Okla.",Norman North HS,Women,mixed cross country,oklahoma
-23,Sarah Scott,"Wylie, Texas",Wylie East HS,Women,mixed cross country,oklahoma
-24,Audrey Springer,"Sanger, Texas",Sanger HS,Women,mixed cross country,oklahoma
-25,Belle Wallace,"Norman, Okla.",Norman North HS,Women,mixed cross country,oklahoma
+10,Golden Eke,"Houston, Texas",Langham Creek,Men,mixed track,oklahoma
+11,Quoi Ellis,"San Diego, Calif.",Mount Carmel High School,Men,mixed track,oklahoma
+12,Zach Gentry,"Charlottesville, Va.",Albermarie HS,Men,mixed track,oklahoma
+13,Luke George,"Issaquah, Wash.",Issaquah HS,Men,mixed track,oklahoma
+14,Papay Glaywulu,"Kansas City, Mo.",Park Hill HS,Men,mixed track,oklahoma
+15,Jordan Gledhill,"Flower Mound, Texas",Liberty,Men,mixed track,oklahoma
+16,Trent Hamner,"Hoover, Ala.",Hoover HS,Men,mixed track,oklahoma
+17,Josh Haus,"Manhattan, Kan.",Manhattan HS,Men,mixed track,oklahoma
+18,Jacob Janzen,"Edmond, Okla.",Jenks,Men,mixed track,oklahoma
+19,Caleb Johnson,"Argyle, Texas","Flower Mound, Texas)",Men,mixed track,oklahoma
+20,Lucas Kelley,"Massillon, Ohio",Perry HS,Men,mixed track,oklahoma
+21,Derek King,"Keller, Texas",Keller HS,Men,mixed track,oklahoma
+22,Will Kubicek,Edmond,Oklahoma Christian School,Men,mixed track,oklahoma
+23,Isaiah Levingston,"Oklahoma City, Okla.",Casady School,Men,mixed track,oklahoma
+24,Zac Martin,"Houston, Texas",FortBend Travis H.S.,Men,mixed track,oklahoma
+25,Calvin Miller,"Oklahoma City, Okla.",Westmoore HS,Men,mixed track,oklahoma
+26,Marcus Mitchell,"Coppell, Texas",Coppell HS,Men,mixed track,oklahoma
+27,Preston Pope,"Stevenson Ranch, Calif.",West Ranch High School,Men,mixed track,oklahoma
+28,Graham Santilli,"Allen, Texas",Allen High School,Men,mixed track,oklahoma
+29,Joseph Sheffield,"Garland, Texas",Rowlett HS,Men,mixed track,oklahoma
+30,Kristo Simulask,"Haapsalu, Estonia","Tallinn, Harjumaa",Men,mixed track,oklahoma
+31,Chris Staub,"Tulsa, Okla.",Jenks HS,Men,mixed track,oklahoma
+32,Brendan Taylor,"Little Rock, Ark.",Catholic HS,Men,mixed track,oklahoma
+33,Zac Tucker,"Norman, Okla.",Norman North H.S.,Men,mixed track,oklahoma
+34,Greg Vann,"Meridian, Miss.",Rio Mesa HS,Men,mixed track,oklahoma
+35,Heath Warren,"Springfield, Ill.",Springfield HS,Men,mixed track,oklahoma
+36,Jackson Webb,"Plano, Texas",Plano West Senior HS,Men,mixed track,oklahoma
+37,Myles Wheeler,"Flower Mound, Texas",Marcus HS,Men,mixed track,oklahoma
+38,Garry Williams,"Chesapeake, Va.",Western Branch HS,Men,mixed track,oklahoma
+39,Langdon Williams,"Mansfield, Texas",Mansfield Lake Ridge HS,Men,mixed track,oklahoma
+40,Zack Williams,"The Woodlands, Texas",College Park H.S.,Men,mixed track,oklahoma
+41,Deja Alexis,"Temecula, Calif.",Great Oak High School,Women,mixed track,oklahoma
+42,Camri Austin,"Arlington, Texas",Uplift Hampton Prepatory,Women,mixed track,oklahoma
+43,Grace Barber,"Tulsa, Okla.",Jenks HS,Women,mixed track,oklahoma
+44,Alexis Barnes,"Rowlett, Texas",Rowlett HS,Women,mixed track,oklahoma
+45,Abby Bilsbury,"Ardmore, Okla.",Plainview HS,Women,mixed track,oklahoma
+46,Kelsei Bixler,"Palmyra, Pa.",Palmyra Area HS,Women,mixed track,oklahoma
+47,Kennedy Blackmon,"Plano, Texas",Plano Senior High,Women,mixed track,oklahoma
+48,Evette Blanks,"Houston, Texas",Hightower HS,Women,mixed track,oklahoma
+49,Elise Boisvert,"San Diego, Calif.",Univ. City,Women,mixed track,oklahoma
+50,Myah Bowen,"McKinney, Texas",McKinney Boyd HS,Women,mixed track,oklahoma
+51,Chandler Branum,"Norman, Okla.",Norman High,Women,mixed track,oklahoma
+52,Camilla Broman,"Katy, Texas",Katy Seven Lakes HS,Women,mixed track,oklahoma
+53,Laura Broman,"Katy, Texas",Katy Seven Lakes HS,Women,mixed track,oklahoma
+54,Camille Burge,"Oklahoma City, Okla.",Carl Albert HS,Women,mixed track,oklahoma
+55,Gabby Carson,"Las Vegas, Nev.",Liberty HS,Women,mixed track,oklahoma
+56,Colleen Clancy,"Bulverde, Texas",Smithson Valley HS,Women,mixed track,oklahoma
+57,Sydney Dillard,"Houston, Texas",Hightower High School,Women,mixed track,oklahoma
+58,Faith Ette,"Mansfield, Texas",Lake Ridge,Women,mixed track,oklahoma
+59,Nicole Ezeoke,"Flower Mound, Texas",Edward S. Marcus HS,Women,mixed track,oklahoma
+60,Kierstin Ferland,"Flower Mound, Texas",Flower Mound HS,Women,mixed track,oklahoma
+61,Sophia Fernald,"Lakewood, Colo.",Wheat Ridge HS,Women,mixed track,oklahoma
+62,Ja'Leesa Giles,"Mansfield, Texas",Mansfield Legacy HS,Women,mixed track,oklahoma
+63,Meia Gordon,"Houston, Texas",Cypress Creek HS,Women,mixed track,oklahoma
+64,Sarah Graves,"Rockwall, Texas",Rockwall HS,Women,mixed track,oklahoma
+65,Meagan Gray,"Buda, Texas",Hays HS,Women,mixed track,oklahoma
+66,Cristen Harrison,"Katy, Texas",St. Agnes Academy,Women,mixed track,oklahoma
+67,Marti Heit,"Parkville,Mo",Park Hill South,Women,mixed track,oklahoma
+68,Alison Hepp,"San Antonio, Texas",Ronald Reagan HS,Women,mixed track,oklahoma
+69,Haley Herberg,"Mission Viejo, Calif.",Capistrano Valley,Women,mixed track,oklahoma
+70,Lauren Jones,"Garrettsville, Ohio",James A. Garfield HS,Women,mixed track,oklahoma
+71,Jordyn Kaplan,"Dallas, Texas",Highland Park,Women,mixed track,oklahoma
+72,Reagan Kappel,"Katy, Texas",Cinco Ranch High School,Women,mixed track,oklahoma
+73,Gabby Kearney,"Roseburg, Ore.",Roseburg HS,Women,mixed track,oklahoma
+74,Sydney King,"Dalhart, Texas",Dalhart HS,Women,mixed track,oklahoma
+75,Madison Langley-Walker,"Philadelphia, Pa.","Fort Washington, Pa.)",Women,mixed track,oklahoma
+76,Allanah Lee,"Castro Valley, Calif.",Castro Valley HS,Women,mixed track,oklahoma
+77,Morgan Long,"Keifer, Okla.",Sand Springs HS,Women,mixed track,oklahoma
+78,Dai'lyn Merriweather,"Vancouver, Wash.",Union HS,Women,mixed track,oklahoma
+79,Jai'lyn Merriweather,"Vancouver, Wash.",Union HS,Women,mixed track,oklahoma
+80,Nura Muhammad,"Phoenix, Ariz.",Mountain Pointe HS,Women,mixed track,oklahoma
+81,Natalie O'Brien,"Flintridge, Calif.",Flintridge Prepatory,Women,mixed track,oklahoma
+82,Hailey Patterson,"Arlington, Texas",Kennedale HS,Women,mixed track,oklahoma
+83,Khloe Pointer,"Richmond, Va.",Maggie Walker HS,Women,mixed track,oklahoma
+84,Falyn Reaugh,"Dallas, Texas",Highland Park HS,Women,mixed track,oklahoma
+85,Hayley Redwine,"Norman, Okla.",Norman HS,Women,mixed track,oklahoma
+86,Abby Russo,Pompton Plains,Pequannock Township HS,Women,mixed track,oklahoma
+87,Sarah Scott,"Wylie, Texas",Wylie East HS,Women,mixed track,oklahoma
+88,Sierra Sheen,"Oklahoma City, Okla.",Edmond Memorial HS,Women,mixed track,oklahoma
+89,Kenzie Shell,"Port Huron, Mich.",Port Huron Northern HS,Women,mixed track,oklahoma
+90,Eryn Stafford,"Norman, Okla.",Norman HS,Women,mixed track,oklahoma
+91,Makayla Stephens,"Atoka, Okla.",Atoka HS,Women,mixed track,oklahoma
+92,Najuana Strickland,"Southaven, Miss.",Desoto Central HS,Women,mixed track,oklahoma
+93,Essence Thomas,"Galveston, Texas",Dickinson HS,Women,mixed track,oklahoma
+94,Amanda Van Buren,"San Diego, Calif.",Vista Murrieta HS,Women,mixed track,oklahoma
+95,Symone Washington,"Round Rock, Texas",Stony Point HS,Women,mixed track,oklahoma
+96,Abby Williams,"McKinney, Texas",Prosper H.S.,Women,mixed track,oklahoma
+0,Eric Casarez,"Keller, Texas",Keller Central,Men,mixed cross country,oklahoma
+1,Ackeen Colley,"Balaclava, Jamaica",Ruseas HS,Men,mixed cross country,oklahoma
+2,Andrew Doherty,"Taunton, Mass.",Taunton HS,Men,mixed cross country,oklahoma
+3,Zach Gentry,"Charlottesville, Va.",Albermarie HS,Men,mixed cross country,oklahoma
+4,Luke George,"Issaquah, Wash.",Issaquah HS,Men,mixed cross country,oklahoma
+5,Jordan Gledhill,"Flower Mound, Texas",Liberty,Men,mixed cross country,oklahoma
+6,Jacob Janzen,"Edmond, Okla.",Jenks,Men,mixed cross country,oklahoma
+7,Derek King,"Keller, Texas",Keller HS,Men,mixed cross country,oklahoma
+8,Calvin Miller,"Oklahoma City, Okla.",Westmoore HS,Men,mixed cross country,oklahoma
+9,Preston Pope,"Stevenson Ranch, Calif.",West Ranch High School,Men,mixed cross country,oklahoma
+10,Brendan Taylor,"Little Rock, Ark.",Catholic HS,Men,mixed cross country,oklahoma
+11,Heath Warren,"Springfield, Ill.",Springfield HS,Men,mixed cross country,oklahoma
+12,Grace Barber,"Tulsa, Okla.",Jenks HS,Women,mixed cross country,oklahoma
+13,Kelsei Bixler,"Palmyra, Pa.",Palmyra Area HS,Women,mixed cross country,oklahoma
+14,Elise Boisvert,"San Diego, Calif.",Univ. City,Women,mixed cross country,oklahoma
+15,Camilla Broman,"Katy, Texas",Katy Seven Lakes HS,Women,mixed cross country,oklahoma
+16,Laura Broman,"Katy, Texas",Katy Seven Lakes HS,Women,mixed cross country,oklahoma
+17,Marti Heit,"Parkville,Mo",Park Hill South,Women,mixed cross country,oklahoma
+18,Alison Hepp,"San Antonio, Texas",Ronald Reagan HS,Women,mixed cross country,oklahoma
+19,Haley Herberg,"Mission Viejo, Calif.",Capistrano Valley,Women,mixed cross country,oklahoma
+20,Jordyn Kaplan,"Dallas, Texas",Highland Park,Women,mixed cross country,oklahoma
+21,Reagan Kappel,"Katy, Texas",Cinco Ranch High School,Women,mixed cross country,oklahoma
+22,Morgan Long,"Keifer, Okla.",Sand Springs HS,Women,mixed cross country,oklahoma
+23,Natalie O'Brien,"Flintridge, Calif.",Flintridge Prep,Women,mixed cross country,oklahoma
+24,Khloe Pointer,"Richmond, Va.",Maggie Walker HS,Women,mixed cross country,oklahoma
+25,Hayley Redwine,"Norman, Okla.",Norman HS,Women,mixed cross country,oklahoma
 26,Abby Williams,"McKinney, Texas",Prosper H.S.,Women,mixed cross country,oklahoma

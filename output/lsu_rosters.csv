@@ -1,18 +1,18 @@
 ,name,hometown,high_school,gender,sport,college
 0,Naz Reid,"Asbury Park, N.J.",Roselle Catholic HS,N/A,mens basketball,lsu
 1,Ja'vonte Smart,"Baton Rouge, La.",Scotlandville Magnet HS,N/A,mens basketball,lsu
-2,Brandon Rachal,"Natchitoches, La.",Natchitoches-Central HS,N/A,mens basketball,lsu
-3,Tremont Waters,"New Haven, Conn.",Notre Dame HS,N/A,mens basketball,lsu
-4,Skylar Mays,"Baton Rouge, La.",Findlay Prep,N/A,mens basketball,lsu
-5,Daryl Edwards,"Fresno, Calif.",Fresno Central HS,N/A,mens basketball,lsu
-6,Noah Thomas,"Cypress, Texas",Cy-Fair HS,N/A,mens basketball,lsu
-7,Kavell Bigby-Williams,"London, England",Harris Academy Beckenham,N/A,mens basketball,lsu
-8,Marshall Graves,"Ponchatoula, La.",University Lab School,N/A,mens basketball,lsu
-9,Marlon Taylor,"Mount Vernon, N.Y.",Mount Vernon HS,N/A,mens basketball,lsu
+2,Tremont Waters,"New Haven, Conn.",Notre Dame HS,N/A,mens basketball,lsu
+3,Skylar Mays,"Baton Rouge, La.",Findlay Prep,N/A,mens basketball,lsu
+4,Daryl Edwards,"Fresno, Calif.",Fresno Central HS,N/A,mens basketball,lsu
+5,Kavell Bigby-Williams,"London, England",Harris Academy Beckenham,N/A,mens basketball,lsu
+6,Marshall Graves,"Ponchatoula, La.",University Lab School,N/A,mens basketball,lsu
+7,Will Reese,"Leesville, La.",Anacoco HS,N/A,mens basketball,lsu
+8,Marlon Taylor,"Mount Vernon, N.Y.",Mount Vernon HS,N/A,mens basketball,lsu
+9,Aundre Hyatt,"Bronx, N.Y.",Miller School,N/A,mens basketball,lsu
 10,Danya Kingsby,"Milwaukee, Wisc.",Arlington Country Day Prep,N/A,mens basketball,lsu
 11,Courtese Cooper,"Elgin, Ill.",Elgin HS,N/A,mens basketball,lsu
 12,Darius Days,"Raleigh, Fla.",IMG Academy,N/A,mens basketball,lsu
-13,Emmitt Williams,"Lehigh Acres, Fla.",Oak Ridge HS,N/A,mens basketball,lsu
+13,Emmitt Williams,"Fort Myers, Fla.",Oak Ridge HS,N/A,mens basketball,lsu
 14,Wayde Sims,"Baton Rouge, La.",University HS,N/A,mens basketball,lsu
 0,Jailin Cherry,"Pascagoula, Miss.",Pascagoula HS,N/A,womens basketball,lsu
 1,Shanice Norton,"London, England",Potter's House Christian Academy,N/A,womens basketball,lsu
@@ -27,146 +27,147 @@
 0,Daniel Cabrera,"Baton Rouge, La.",Parkview Baptist HS,N/A,baseball,lsu
 1,Hal Hughes,"Norman, Okla.",Norman North HS,N/A,baseball,lsu
 2,Josh Smith,"Greenwell Springs, La.",Catholic HS,N/A,baseball,lsu
-3,Jake Slaughter,"Choudrant, La.",Ouachita Christian HS,N/A,baseball,lsu
-4,Hunter Feduccia,"Lake Charles, La.",Barbe HS,N/A,baseball,lsu
-5,Antoine Duplantis,"Lafayette, La.",Lafayette HS,N/A,baseball,lsu
-6,Zach Watson,"Ruston, La.",West Ouachita HS,N/A,baseball,lsu
-7,Eric Walker,"Arlington, Texas",Arlington Martin HS,N/A,baseball,lsu
-8,Nick Coomes,"Baton Rouge, La.",Catholic HS,N/A,baseball,lsu
-9,Brandt Broussard,"Baton Rouge, La.",University HS,N/A,baseball,lsu
-10,Chris Reid,"Baton Rouge, La.",St. Michael HS,N/A,baseball,lsu
-11,Austin Bain,"Geismar, La.",Dutchtown HS,N/A,baseball,lsu
-12,Braden Doughty,"Denham Springs, La.",Denham Springs HS,N/A,baseball,lsu
-13,Nick Storz,"Brooklyn, N.Y.",Poly Prep Country Day HS,N/A,baseball,lsu
-14,Nick Webre,"Youngsville, La.",Teurlings Catholic HS,N/A,baseball,lsu
-15,Beau Jordan,"Lake Charles, La.",Barbe HS,N/A,baseball,lsu
-16,Bryce Jordan,"Lake Charles, La.",Barbe HS,N/A,baseball,lsu
-17,AJ Labas,"Fleming Island, Fla.",Trinity Christian HS,N/A,baseball,lsu
-18,Matthew Beck,"Alexandria, La.",Alexandria HS,N/A,baseball,lsu
-19,Devin Fontenot,"The Woodlands, Texas",The Woodlands HS,N/A,baseball,lsu
-20,Nick Bush,"Leesburg, Ga.",Lee County HS,N/A,baseball,lsu
-21,Trent Vietmeier,"Pittsburgh, Pa.",Montour HS,N/A,baseball,lsu
-22,Taylor Petersen,"Gilbert, Ariz.",Highland HS,N/A,baseball,lsu
-23,Clay Moffitt,"Baton Rouge, La.",Catholic HS,N/A,baseball,lsu
-24,Will Reese,"Leesville, La.",Anacoco HS,N/A,baseball,lsu
+3,Drew Bianco,"Oxford, Miss.",Oxford HS,N/A,baseball,lsu
+4,Gavin Dugas,"Houma, La.",Houma Christian HS,N/A,baseball,lsu
+5,Giovanni DiGiacomo,"Naples, Fla.",Canterbury HS,N/A,baseball,lsu
+6,Antoine Duplantis,"Lafayette, La.",Lafayette HS,N/A,baseball,lsu
+7,Zach Watson,"Ruston, La.",West Ouachita HS,N/A,baseball,lsu
+8,Eric Walker,"Arlington, Texas",Arlington Martin HS,N/A,baseball,lsu
+9,Landon Marceaux,"Destrehan, La.",Destrehan HS,N/A,baseball,lsu
+10,Saul Garza,"Edinburg, Texas",Edinburg North HS,N/A,baseball,lsu
+11,Brandt Broussard,"Baton Rouge, La.",University HS,N/A,baseball,lsu
+12,Cole Henry,"Florence, Ala.",Florence HS,N/A,baseball,lsu
+13,Will Ripoll,"New Orleans, La.",John Curtis HS,N/A,baseball,lsu
+14,Nick Storz,"Brooklyn, N.Y.",Poly Prep Country Day HS,N/A,baseball,lsu
+15,Brock Mathis,"Fairfield, Ohio",Fairfield HS,N/A,baseball,lsu
+16,CJ Willis,"Ruston, La.",Ruston HS,N/A,baseball,lsu
+17,Cade Beloso,"River Ridge, La.",John Curtis HS,N/A,baseball,lsu
+18,AJ Labas,"Fleming Island, Fla.",Trinity Christian HS,N/A,baseball,lsu
+19,Matthew Beck,"Alexandria, La.",Alexandria HS,N/A,baseball,lsu
+20,Devin Fontenot,"The Woodlands, Texas",The Woodlands HS,N/A,baseball,lsu
+21,Chase Costello,"Pompano Beach, Fla.",Pompano Beach HS,N/A,baseball,lsu
+22,Trent Vietmeier,"Pittsburgh, Pa.",Montour HS,N/A,baseball,lsu
+23,Aaron George,"Monroe, La.",Ouachita Christian HS,N/A,baseball,lsu
+24,Clay Moffitt,"Baton Rouge, La.",Catholic HS,N/A,baseball,lsu
 25,Zack Hess,"Forest, Va.",Liberty Christian Academy,N/A,baseball,lsu
-26,John Kodros,"Coppell, Texas",Coppell HS,N/A,baseball,lsu
+26,Riggs Threadgill,"Fredericksburg, Texas",Fredericksburg HS,N/A,baseball,lsu
 27,Caleb Gilbert,"Hoover, Ala.",Hoover HS,N/A,baseball,lsu
 28,Todd Peterson,"Lake Mary, Fla.",Lake Mary HS,N/A,baseball,lsu
-29,Brandon Nowak,"Chicago, Ill.",Notre Dame College Prep,N/A,baseball,lsu
-30,Cam Sanders,"Thibodaux, La.",E.D. White HS,N/A,baseball,lsu
-31,Ma'Khail Hilliard,"Central, La.",Central HS,N/A,baseball,lsu
+29,Jaden Hill,"Ashdown, Ark.",Ashdown HS,N/A,baseball,lsu
+30,Braden Doughty,"Denham Springs, La.",Denham Springs HS,N/A,baseball,lsu
+31,Rye Gunter,"Coppell, Texas",Coppell HS,N/A,baseball,lsu
+32,Michael Kirsch,"Metairie, La.",Brother Martin HS,N/A,baseball,lsu
+33,Ma'Khail Hilliard,"Central, La.",Central HS,N/A,baseball,lsu
+34,Easton McMurray,"Bakersfield, Calif.",Liberty HS,N/A,baseball,lsu
 0,Ja'Marr Chase,"Metairie, La.",Archbishop Rummel HS,N/A,football,lsu
 1,Kelvin Joseph,"Baton Rouge, La.",Scotlandville Magnet HS,N/A,football,lsu
-2,Lowell Narcisse,"St. James, La.",St. James HS,N/A,football,lsu
+2,Justin Jefferson,"Destrehan, La.",Destrehan HS,N/A,football,lsu
 3,JaCoby Stevens,"Murfreesboro, Tenn.",Oakland HS,N/A,football,lsu
 4,Nick Brossette,"Baton Rouge, La.",University HS,N/A,football,lsu
 5,K'Lavon Chaisson,"Houston, Texas",North Shore HS,N/A,football,lsu
 6,Kary Vincent Jr.,"Port Arthur, Texas",Port Arthur Memorial HS,N/A,football,lsu
 7,Terrace Marshall Jr.,"Bossier City, La.",Parkway HS,N/A,football,lsu
 8,Jacob Phillips,"Nashville, Tenn.",East Nashville HS,N/A,football,lsu
-9,Jonathan Giles,"Missouri City, Texas",Elkins HS,N/A,football,lsu
-10,Patrick Queen,"Livonia, La.",Livonia HS,N/A,football,lsu
-11,Joe Burrow,"The Plains, Ohio",Athens HS,N/A,football,lsu
-12,Grant Delpit,"Houston, Texas",IMG Academy,N/A,football,lsu
-13,Stephen Sullivan,"Donaldsonville, La.",Donaldsonville HS,N/A,football,lsu
-14,Terrence Alexander,"New Orleans, La.",John Curtis HS,N/A,football,lsu
-15,Dee Anderson,"DeSoto, Texas",DeSoto HS,N/A,football,lsu
-16,Justin McMillan,"Cedar Hill, Texas",Cedar Hill HS,N/A,football,lsu
-17,Jontre Kirklin,"Lutcher, La.",Lutcher HS,N/A,football,lsu
-18,Andre Sale,"Little Rock, Ark.",Catholic HS for Boys,N/A,football,lsu
-19,Drake Davis,"Baton Rouge, La.",IMG Academy,N/A,football,lsu
-20,Myles Brennan,"Long Beach, Miss.",St. Stanislaus HS,N/A,football,lsu
-21,Tiger Scheyd,"Miramar Beach, Fla.",Fort Walton Beach HS,N/A,football,lsu
-22,Racey McMath,"New Orleans, La.",Edna Karr HS,N/A,football,lsu
-23,Derrick Dillon,"Franklinton, La.",Pine HS,N/A,football,lsu
-24,Ed Paris,"Arlington, Texas",Mansfield Timberview HS,N/A,football,lsu
-25,Clyde Edwards-Helaire,"Baton Rouge, La.",Catholic HS,N/A,football,lsu
-26,Kristian Fulton,"Metairie, La.",Archbishop Rummel HS,N/A,football,lsu
-27,Micah Baskerville,"Shreveport, La.",Evangel Christian Academy,N/A,football,lsu
-28,Colby Brunet,"Metairie, La.",Archbishop Rummel HS,N/A,football,lsu
-29,Chris Curry,"Lehigh Acres, Fla.",Lehigh HS,N/A,football,lsu
-30,Tyler Taylor,"Buford, Ga.",Lanier HS,N/A,football,lsu
-31,Tae Provens,"Gurley, Ala.",Madison County HS,N/A,football,lsu
-32,John Battle,"Hallandale, Fla.",Hallandale HS,N/A,football,lsu
-33,Lanard Fournette,"New Orleans, La.",St. Augustine HS,N/A,football,lsu
-34,Treven Kately,"Lafayette, La.",Lafayette Christian Academy,N/A,football,lsu
-35,Mannie Netherly,"Crosby, Texas",Crosby HS,N/A,football,lsu
-36,Greedy Williams,"Shreveport, La.",Calvary Baptist Academy,N/A,football,lsu
-37,Eric Monroe,"Houston, Texas",North Shore HS,N/A,football,lsu
-38,Michael Ostrom,"Baton Rouge, La.",St. Michael The Archangel HS,N/A,football,lsu
-39,Justin Jones,"Dallas, Texas",St. Mark's School of Texas,N/A,football,lsu
-40,Cameron Lewis,"Monroe, La.",Wossman HS,N/A,football,lsu
-41,Todd Harris Jr.,"Plaquemine, La.",Plaquemine HS,N/A,football,lsu
-42,Connor Culp,"Phoenix, Ariz.",Desert Vista HS,N/A,football,lsu
-43,Zach Sheffer,"Ponte Vedra Beach, Fla.",Nease HS,N/A,football,lsu
-44,Damone Clark,"Baton Rouge, La.",Southern Lab HS,N/A,football,lsu
-45,Wesley McKoy,"Englewood Cliffs, N.J.",Don Bosco Preparatory HS,N/A,football,lsu
-46,Cole Tracy,"Camarillo, Calif.",Newbury Park HS,N/A,football,lsu
-47,Keith Fulton,"Metairie, La.",Rummel HS,N/A,football,lsu
-48,Josh Growden,"Sydney, Australia",Clare HS,N/A,football,lsu
-49,Jack Gonsoulin,"Baton Rouge, La.",Catholic HS,N/A,football,lsu
-50,Devin White,"Springhill, La.",North Webster HS,N/A,football,lsu
-51,David Ducre,"Slidell, La.",Lakeshore HS,N/A,football,lsu
+9,Patrick Queen,"Livonia, La.",Livonia HS,N/A,football,lsu
+10,Joe Burrow,"The Plains, Ohio",Athens HS,N/A,football,lsu
+11,Grant Delpit,"Houston, Texas",IMG Academy,N/A,football,lsu
+12,Stephen Sullivan,"Donaldsonville, La.",Donaldsonville HS,N/A,football,lsu
+13,Terrence Alexander,"New Orleans, La.",John Curtis HS,N/A,football,lsu
+14,Dee Anderson,"DeSoto, Texas",DeSoto HS,N/A,football,lsu
+15,Jonathan Giles,"Missouri City, Texas",Elkins HS,N/A,football,lsu
+16,Jontre Kirklin,"Lutcher, La.",Lutcher HS,N/A,football,lsu
+17,Andre Sale,"Little Rock, Ark.",Catholic HS for Boys,N/A,football,lsu
+18,Myles Brennan,"Long Beach, Miss.",St. Stanislaus HS,N/A,football,lsu
+19,Tiger Scheyd,"Miramar Beach, Fla.",Fort Walton Beach HS,N/A,football,lsu
+20,Racey McMath,"New Orleans, La.",Edna Karr HS,N/A,football,lsu
+21,Foster Moreau,"New Orleans, La.",Jesuit HS,N/A,football,lsu
+22,Derrick Dillon,"Franklinton, La.",Pine HS,N/A,football,lsu
+23,Ed Paris,"Arlington, Texas",Mansfield Timberview HS,N/A,football,lsu
+24,Clyde Edwards-Helaire,"Baton Rouge, La.",Catholic HS,N/A,football,lsu
+25,Kristian Fulton,"Metairie, La.",Archbishop Rummel HS,N/A,football,lsu
+26,Micah Baskerville,"Shreveport, La.",Evangel Christian Academy,N/A,football,lsu
+27,Chris Curry,"Lehigh Acres, Fla.",Lehigh HS,N/A,football,lsu
+28,Tyler Taylor,"Buford, Ga.",Lanier HS,N/A,football,lsu
+29,Tae Provens,"Gurley, Ala.",Madison County HS,N/A,football,lsu
+30,John Battle,"Hallandale, Fla.",Hallandale HS,N/A,football,lsu
+31,Lanard Fournette,"New Orleans, La.",St. Augustine HS,N/A,football,lsu
+32,Treven Kately,"Lafayette, La.",Lafayette Christian Academy,N/A,football,lsu
+33,Mannie Netherly,"Crosby, Texas",Crosby HS,N/A,football,lsu
+34,Greedy Williams,"Shreveport, La.",Calvary Baptist Academy,N/A,football,lsu
+35,Eric Monroe,"Houston, Texas",North Shore HS,N/A,football,lsu
+36,Michael Ostrom,"Baton Rouge, La.",St. Michael The Archangel HS,N/A,football,lsu
+37,Justin Jones,"Dallas, Texas",St. Mark's School of Texas,N/A,football,lsu
+38,Cameron Lewis,"Monroe, La.",Wossman HS,N/A,football,lsu
+39,Avery Atkins,"Auburn, Ala.",Auburn HS,N/A,football,lsu
+40,Todd Harris Jr.,"Plaquemine, La.",Plaquemine HS,N/A,football,lsu
+41,Connor Culp,"Phoenix, Ariz.",Desert Vista HS,N/A,football,lsu
+42,Zach Sheffer,"Ponte Vedra Beach, Fla.",Nease HS,N/A,football,lsu
+43,Damone Clark,"Baton Rouge, La.",Southern Lab HS,N/A,football,lsu
+44,Derian Moore,"Houma, La.",H.L. Bourgeois HS,N/A,football,lsu
+45,Cole Tracy,"Camarillo, Calif.",Newbury Park HS,N/A,football,lsu
+46,Keith Fulton,"Metairie, La.",Rummel HS,N/A,football,lsu
+47,Josh Growden,"Sydney, Australia",Clare HS,N/A,football,lsu
+48,Jack Gonsoulin,"Baton Rouge, La.",Catholic HS,N/A,football,lsu
+49,Devin White,"Springhill, La.",North Webster HS,N/A,football,lsu
+50,David Ducre,"Slidell, La.",Lakeshore HS,N/A,football,lsu
+51,Carlton Smith,"Houston, Texas",Lamar HS,N/A,football,lsu
 52,Aaron Moffitt,"Baton Rouge, La.",Catholic HS,N/A,football,lsu
 53,Matt Brock,"Chattanooga, Tenn.",McCallie School,N/A,football,lsu
 54,Ray Thornton,"Killeen, Texas",Shoemaker HS,N/A,football,lsu
 55,Tory Carter,"Leesburg, Ga.",Lee County HS,N/A,football,lsu
-56,Michael Divinity Jr.,"Marrero, La.",John Ehret HS,N/A,football,lsu
-57,Andre Anthony,"New Orleans, La.",Edna Karr HS,N/A,football,lsu
-58,Zach Von Rosenberg,"Lake Charles, La.",Zachary HS,N/A,football,lsu
-59,Trey Gallman,"Prairieville, La.",Dutchtown HS,N/A,football,lsu
-60,Nelson Jenkins III,"Plaquemine, La.",Plaquemine HS,N/A,football,lsu
-61,Dantrieze Scott,"Ferriday, La.",Ferriday HS,N/A,football,lsu
-62,Carlton Smith,"Houston, Texas",Lamar HS,N/A,football,lsu
-63,Travez Moore,"Bastrop, La.",Bastrop HS,N/A,football,lsu
-64,Blake Ferguson,"Buford, Ga.",Buford HS,N/A,football,lsu
+56,Kody Hall,"Nacogdoches, Texas",Burnet HS,N/A,football,lsu
+57,Michael Divinity Jr.,"Marrero, La.",John Ehret HS,N/A,football,lsu
+58,Andre Anthony,"New Orleans, La.",Edna Karr HS,N/A,football,lsu
+59,Zach Von Rosenberg,"Lake Charles, La.",Zachary HS,N/A,football,lsu
+60,Trey Gallman,"Prairieville, La.",Dutchtown HS,N/A,football,lsu
+61,Nelson Jenkins III,"Plaquemine, La.",Plaquemine HS,N/A,football,lsu
+62,Blake Ferguson,"Buford, Ga.",Buford HS,N/A,football,lsu
+63,Dantrieze Scott,"Ferriday, La.",Ferriday HS,N/A,football,lsu
+64,Travez Moore,"Bastrop, La.",Bastrop HS,N/A,football,lsu
 65,Dare Rosenthal,"Ferriday, La.",Ferriday HS,N/A,football,lsu
-66,Chasen Hines,"Marshall, Texas",Marshall HS,N/A,football,lsu
-67,Davin Cotton,"Shreveport, La.",Evangel Christian Academy,N/A,football,lsu
-68,Rory Luke,"New Orleans, La.",Brother Martin HS,N/A,football,lsu
-69,Jarell Cherry,"Dallas, Texas",Carter HS,N/A,football,lsu
-70,Kody Hall,"Nacogdoches, Texas",Burnet HS,N/A,football,lsu
-71,Jared Small,"Baton Rouge, La.",Catholic HS,N/A,football,lsu
-72,Seth Newsome,"Fredericksburg, Va.",Mountain View HS,N/A,football,lsu
-73,Cameron Wire,"Gonzales, La.",East Ascension HS,N/A,football,lsu
-74,Justin Mikush,"Tomball, Texas",Klein Oak HS,N/A,football,lsu
-75,Jakori Savage,"Bay Minette, Ala.",Baldwin County HS,N/A,football,lsu
-76,Cole Smith,"Pontotoc, Miss.",Pontotoc HS,N/A,football,lsu
-77,Damien Lewis,"Canton, Miss.",Canton HS,N/A,football,lsu
-78,Turner Simmers,"Prairieville, La.",St. Amant HS,N/A,football,lsu
-79,Ed Ingram,"DeSoto, Texas",DeSoto HS,N/A,football,lsu
-80,Donavaughn Campbell,"Ponchatoula, La.",Ponchatoula HS,N/A,football,lsu
-81,Tyler Shelvin,"Lafayette, La.",Notre Dame HS,N/A,football,lsu
-82,Adrian Magee,"Franklinton, La.",Franklinton HS,N/A,football,lsu
-83,Badara Traore,"Hyde Park, Mass.",Matignon HS,N/A,football,lsu
-84,Michael Smith,"Kileen, Texas",Ellison HS,N/A,football,lsu
-85,Austin Deculus,"Cypress, Texas",Cy-Fair HS,N/A,football,lsu
-86,Saahdiq Charles,"Jackson, Miss.",Madison-Ridgeland Academy,N/A,football,lsu
-87,Garrett Brumfield,"Baton Rouge, La.",University HS,N/A,football,lsu
-88,Lloyd Cushenberry III,"Geismar, La.",Dutchtown HS,N/A,football,lsu
-89,Jamal Pettigrew,"New Orleans, La.",Saint Augustine HS,N/A,football,lsu
-90,Thaddeus Moss,"Charleston, W.Va.",Mallard Creek HS,N/A,football,lsu
-91,Kenan Jones,"Berwick, La.",Berwick HS,N/A,football,lsu
-92,Jaray Jenkins,"Jena, La.",Jena HS,N/A,football,lsu
-93,Foster Moreau,"New Orleans, La.",Jesuit HS,N/A,football,lsu
-94,Justin Jefferson,"Destrehan, La.",Destrehan HS,N/A,football,lsu
-95,Jacory Washington,"Westlake, La.",Westlake HS,N/A,football,lsu
-96,Derian Moore,"Houma, La.",H.L. Bourgeois HS,N/A,football,lsu
-97,Rashard Lawrence,"Monroe, La.",Neville HS,N/A,football,lsu
-98,Breiden Fehoko,"Honolulu, Hawaii",Farrington HS,N/A,football,lsu
-99,Neil Farrell Jr.,"Mobile, Ala.",Murphy HS,N/A,football,lsu
-100,Justin Thomas,"Spanish Fort, Ala.",Spanish Fort HS,N/A,football,lsu
-101,Glen Logan,"Destrehan, La.",Destrehan HS,N/A,football,lsu
-102,Dominic Livingston,"Houston, Texas",Davis HS,N/A,football,lsu
-103,Ed Alexander,"Hammond, La.",St. Thomas Aquinas HS,N/A,football,lsu
+66,Davin Cotton,"Shreveport, La.",Evangel Christian Academy,N/A,football,lsu
+67,Rory Luke,"New Orleans, La.",Brother Martin HS,N/A,football,lsu
+68,Jarell Cherry,"Dallas, Texas",Carter HS,N/A,football,lsu
+69,Chasen Hines,"Marshall, Texas",Marshall HS,N/A,football,lsu
+70,Jared Small,"Baton Rouge, La.",Catholic HS,N/A,football,lsu
+71,Seth Newsome,"Fredericksburg, Va.",Mountain View HS,N/A,football,lsu
+72,Cameron Wire,"Gonzales, La.",East Ascension HS,N/A,football,lsu
+73,Justin Mikush,"Tomball, Texas",Klein Oak HS,N/A,football,lsu
+74,Jakori Savage,"Bay Minette, Ala.",Baldwin County HS,N/A,football,lsu
+75,Cole Smith,"Pontotoc, Miss.",Pontotoc HS,N/A,football,lsu
+76,Damien Lewis,"Canton, Miss.",Canton HS,N/A,football,lsu
+77,Turner Simmers,"Prairieville, La.",St. Amant HS,N/A,football,lsu
+78,Ed Ingram,"DeSoto, Texas",DeSoto HS,N/A,football,lsu
+79,Donavaughn Campbell,"Ponchatoula, La.",Ponchatoula HS,N/A,football,lsu
+80,Tyler Shelvin,"Lafayette, La.",Notre Dame HS,N/A,football,lsu
+81,Adrian Magee,"Franklinton, La.",Franklinton HS,N/A,football,lsu
+82,Badara Traore,"Hyde Park, Mass.",Matignon HS,N/A,football,lsu
+83,Michael Smith,"Kileen, Texas",Ellison HS,N/A,football,lsu
+84,Austin Deculus,"Cypress, Texas",Cy-Fair HS,N/A,football,lsu
+85,Saahdiq Charles,"Jackson, Miss.",Madison-Ridgeland Academy,N/A,football,lsu
+86,Garrett Brumfield,"Baton Rouge, La.",University HS,N/A,football,lsu
+87,Lloyd Cushenberry III,"Geismar, La.",Dutchtown HS,N/A,football,lsu
+88,Jamal Pettigrew,"New Orleans, La.",Saint Augustine HS,N/A,football,lsu
+89,Thaddeus Moss,"Charleston, W.Va.",Mallard Creek HS,N/A,football,lsu
+90,Kenan Jones,"Berwick, La.",Berwick HS,N/A,football,lsu
+91,Jaray Jenkins,"Jena, La.",Jena HS,N/A,football,lsu
+92,Wesley McKoy,"Englewood Cliffs, N.J.",Don Bosco Preparatory HS,N/A,football,lsu
+93,Jacory Washington,"Westlake, La.",Westlake HS,N/A,football,lsu
+94,Colby Brunet,"Metairie, La.",Archbishop Rummel HS,N/A,football,lsu
+95,Rashard Lawrence,"Monroe, La.",Neville HS,N/A,football,lsu
+96,Breiden Fehoko,"Honolulu, Hawaii",Farrington HS,N/A,football,lsu
+97,Neil Farrell Jr.,"Mobile, Ala.",Murphy HS,N/A,football,lsu
+98,Justin Thomas,"Spanish Fort, Ala.",Spanish Fort HS,N/A,football,lsu
+99,Glen Logan,"Destrehan, La.",Destrehan HS,N/A,football,lsu
+100,Dominic Livingston,"Houston, Texas",Davis HS,N/A,football,lsu
+101,Ed Alexander,"Hammond, La.",St. Thomas Aquinas HS,N/A,football,lsu
 0,Lily Alfeld,"Christchurch, New Zealand",Lincoln HS,N/A,womens soccer,lsu
 1,Jordane Carvery,"Richmond Hill, Ontario, Canada",Bill Crothers Secondary School,N/A,womens soccer,lsu
 2,Zoe Higgins,"Boring, Ore.",Sandy Union HS,N/A,womens soccer,lsu
 3,Chiara Ritchie-Williams,"London, England",Alexandra Park School,N/A,womens soccer,lsu
 4,Lucy Parker,"Cambridge, England",Coleridge CC,N/A,womens soccer,lsu
-5,Christyna Pitre,"Austin, Texas",Cedar Ridge HS,N/A,womens soccer,lsu
-6,Caitlin Cantrill,"Canberra, Australia",Radford College,N/A,womens soccer,lsu
+5,Chrissy Pitre,"Austin, Texas",Cedar Ridge HS,N/A,womens soccer,lsu
+6,Caitie Cantrill,"Canberra, Australia",Radford College,N/A,womens soccer,lsu
 7,Alex Vandegrift,"Port St. Lucie, Fla.",Mosaic Digital Academy,N/A,womens soccer,lsu
 8,Alex Thomas,"New Orleans, La.",Ben Franklin HS,N/A,womens soccer,lsu
 9,Nicole Howard,"Rolla, Mo.",Rolla HS,N/A,womens soccer,lsu
@@ -194,15 +195,14 @@
 31,Miranda Scotten,"Bossier City, La.",Parkway HS,N/A,womens soccer,lsu
 0,Philip Barbaree,"Shreveport, La.",C.E. Byrd HS,N/A,mens golf,lsu
 1,Garrett Barber,"Stuart, Fla.",The Pine School,N/A,mens golf,lsu
-2,Jacob Bergeron,"Slidell, La.",Homeschooled,N/A,mens golf,lsu
-3,Luis Gagne,"Orlando, Fla.",Orlando Christian Prep,N/A,mens golf,lsu
-4,Drew Gonzales,"Lafayette, La.",St. Thomas More HS,N/A,mens golf,lsu
-5,Nathan Jeansonne,"Keithville, La.",Calvary Baptist Academy,N/A,mens golf,lsu
-6,Michael Sanders,"Davidson, N.C.",Cannon School,N/A,mens golf,lsu
-7,Carter Toms,"Shreveport, La.",C.E. Byrd HS,N/A,mens golf,lsu
-8,Hayden White,"Benton, La.",Benton HS,N/A,mens golf,lsu
-9,Trey Winstead,"Baton Rouge, La.",University HS,N/A,mens golf,lsu
-10,Chris Woollam,"Hilton, KZN, South Africa",Hilton College,N/A,mens golf,lsu
+2,Luis Gagne,"Orlando, Fla.",Orlando Christian Prep,N/A,mens golf,lsu
+3,Drew Gonzales,"Lafayette, La.",St. Thomas More HS,N/A,mens golf,lsu
+4,Nathan Jeansonne,"Keithville, La.",Calvary Baptist Academy,N/A,mens golf,lsu
+5,Michael Sanders,"Davidson, N.C.",Cannon School,N/A,mens golf,lsu
+6,Carter Toms,"Shreveport, La.",C.E. Byrd HS,N/A,mens golf,lsu
+7,Hayden White,"Benton, La.",Benton HS,N/A,mens golf,lsu
+8,Trey Winstead,"Baton Rouge, La.",University HS,N/A,mens golf,lsu
+9,Chris Woollam,"Hilton, KZN, South Africa",Hilton College,N/A,mens golf,lsu
 0,Presley Baggett,"Canton, Miss.",Germantown HS,N/A,womens golf,lsu
 1,Mary Frances Chauvin,"Hammond, La.",Hammond Magnet HS,N/A,womens golf,lsu
 2,Monica Dibildox,"Saltillo, Coahuila, Mexico",Instituto De Ensenanza Abierta,N/A,womens golf,lsu
@@ -210,45 +210,49 @@
 4,Kendall Griffin,"Sebring, Fla.",Home School),N/A,womens golf,lsu
 5,Marina Hedlund,"Leksand, Sweden",Filborn Skolan,N/A,womens golf,lsu
 6,Page Morehead,"Spartanburg, S.C.",Spartanburg HS,N/A,womens golf,lsu
-7,Aoife O'Donovan,"Monroe, La.",Neville HS,N/A,womens golf,lsu
-8,Rivani Sihotang,"Depok, Indonesia",Open Senior HS 4 of Depok,N/A,womens golf,lsu
-9,Alden Wallace,"Shreveport, La.",Loyola Prep,N/A,womens golf,lsu
-0,Stewart Block,"Bradenton, Fla.",Laurel Springs HS,N/A,mens tennis,lsu
-1,Gabor Csonka,"Nyiregyhaza, Hungary",Zrinyi Ilona,N/A,mens tennis,lsu
-2,Shane Monroe,"Ventnor City, N.J.",Laurel Springs HS,N/A,mens tennis,lsu
-3,Agie Moreno,"Wesley Chapel, Fla.",Laurel Springs HS,N/A,mens tennis,lsu
-4,Julian Saborio,"San Jose, Costa Rica",Educational Prep and Learning,N/A,mens tennis,lsu
+7,Rivani Sihotang,"Depok, Indonesia",Open Senior HS 4 of Depok,N/A,womens golf,lsu
+8,Alden Wallace,"Shreveport, La.",Loyola Prep,N/A,womens golf,lsu
+0,Malik Bhatnagar,"Ottawa, Canada",Robert Bateman HS,N/A,mens tennis,lsu
+1,Stewart Block,"Bradenton, Fla.",Laurel Springs HS,N/A,mens tennis,lsu
+2,Boris Kozlov,"Pembroke Pines, Fla.",Florida Virtual School,N/A,mens tennis,lsu
+3,Shane Monroe,"Ventnor City, N.J.",Laurel Springs HS,N/A,mens tennis,lsu
+4,Agie Moreno,"Wesley Chapel, Fla.",Laurel Springs HS,N/A,mens tennis,lsu
 5,Nikola Samardzic,"New York City, N.Y.",Edison Academics,N/A,mens tennis,lsu
-6,Rafael Wagner,"Basilia, Brazil",Anglo-Americano Unbarra,N/A,mens tennis,lsu
-0,Usue Arconada,"Buenos Aires, Argentina",Ogburn School,N/A,womens tennis,lsu
-1,Ryann Foster,"Wayne, N.J.",Broward Virtual School,N/A,womens tennis,lsu
+6,Joey Thomas,"Canton, Ohio",Jackson HS,N/A,mens tennis,lsu
+7,Rafael Wagner,"Basilia, Brazil",Anglo-Americano Unbarra,N/A,mens tennis,lsu
+8,Nick Watson,"Baton Rouge, La.",Catholic HS,N/A,mens tennis,lsu
+0,Taylor Bridges,"Mesa, Ariz.",Arizona Connections Academy,N/A,womens tennis,lsu
+1,Paris Corley,"Grants, N.M.",Grants HS,N/A,womens tennis,lsu
 2,Jessica Golovin,"New York, N.Y.",John McEnroe Tennis Academy,N/A,womens tennis,lsu
-3,Elizabeth Hotard,"New Orleans, La.",Academy of the Sacred Heart,N/A,womens tennis,lsu
+3,Marina Hermanny de Figueiredo,"New York, N.Y.",John McEnroe Tennis Academy,N/A,womens tennis,lsu
 4,Kennan Johnson,"Baton Rouge, La.",Ascension Christian HS,N/A,womens tennis,lsu
-5,Ashton Rabalais,"Metairie, La.",Academy of the Sacred Heart,N/A,womens tennis,lsu
-6,Eden Richardson,"Bath, England",Ralph Allen School,N/A,womens tennis,lsu
-7,Luba Vasilyuk,"Dallas, Texas",Laurel Springs HS,N/A,womens tennis,lsu
+5,Anna Loughlan,"Cambridge, England",Loughborough College,N/A,womens tennis,lsu
+6,Ashton Rabalais,"Metairie, La.",Academy of the Sacred Heart,N/A,womens tennis,lsu
+7,Eden Richardson,"Bath, England",Ralph Allen School,N/A,womens tennis,lsu
+8,Luba Vasilyuk,"Dallas, Texas",Laurel Springs HS,N/A,womens tennis,lsu
 0,Akiya Thymes,"Brusly, La.",Brusly HS,N/A,softball,lsu
 1,Michaela Schlattman,"Plainfield, Ill.",Plainfield HS,N/A,softball,lsu
-2,Aliyah Andrews,"Oldsmar, Fla.",East Lake HS,N/A,softball,lsu
-3,Kara Goff,"Ruston, La.",Northridge HS,N/A,softball,lsu
-4,Maribeth Gorsuch,"Lewisville, Texas",Lewisville HS,N/A,softball,lsu
-5,Becca Schulte,"Andover, Kansas",Andover HS,N/A,softball,lsu
-6,Emily Griggs,"Wichita, Kan.",Maize HS,N/A,softball,lsu
-7,Elyse Thornhill,"Baton Rouge, La.",St. Joseph's Academy,N/A,softball,lsu
-8,Sydney Bourg,"Slidell, La.",Northshore HS,N/A,softball,lsu
-9,River Glenn,"Seekonk, Mass.",La Salle Academy,N/A,softball,lsu
-10,Sydney Loupe,"Slidell, La.",Pope John Paul II Catholic HS,N/A,softball,lsu
-11,Sydney Springfield,"Flower Mound, Texas",Flower Mound HS,N/A,softball,lsu
+2,Ali Kilponen,"Highlands Ranch, Colo.",Valor Christian HS,N/A,softball,lsu
+3,Taylor Tidwell,"Gonzales, La.",St. Amant HS,N/A,softball,lsu
+4,Aliyah Andrews,"Oldsmar, Fla.",East Lake HS,N/A,softball,lsu
+5,Kara Goff,"Ruston, La.",Northridge HS,N/A,softball,lsu
+6,Maribeth Gorsuch,"Lewisville, Texas",Lewisville HS,N/A,softball,lsu
+7,Becca Schulte,"Andover, Kansas",Andover HS,N/A,softball,lsu
+8,Savannah Stewart,"Marietta, Ga.",Hillgrove HS,N/A,softball,lsu
+9,Elyse Thornhill,"Baton Rouge, La.",St. Joseph's Academy,N/A,softball,lsu
+10,Sydney Bourg,"Slidell, La.",Northshore HS,N/A,softball,lsu
+11,Shelby Wickersham,"Metairie, La.",Mount Carmel Academy,N/A,softball,lsu
 12,Taryn Antoine,"Alexandria, La.",Alexandria HS,N/A,softball,lsu
 13,Amber Serrett,"Spring, Texas",Oak Ridge HS,N/A,softball,lsu
-14,Carley Hoover,"Clemson, S.C.",D. W. Daniel HS,N/A,softball,lsu
-15,Amanda Doyle,"Santa Clarita, Calif.",Canyon HS,N/A,softball,lsu
-16,Shemiah Sanchez,"Newnan, Ga.",East Coweta HS,N/A,softball,lsu
-17,Claire Weinberger,"Prairieville, La.",East Ascension HS,N/A,softball,lsu
-18,Allie Walljasper,"Manteca, Calif.",Sierra HS,N/A,softball,lsu
-19,Shelbi Sunseri,"Santa Fe, Texas",Santa Fe HS,N/A,softball,lsu
-20,CC Caccamise,"San Diego, Calif.",Patrick Henry HS,N/A,softball,lsu
+14,Jordyn Perkins,"Metairie, La.",Mount Carmel Academy,N/A,softball,lsu
+15,Amanda Sanchez,"West Covina, Calif.",Bishop Amat HS,N/A,softball,lsu
+16,Amanda Doyle,"Santa Clarita, Calif.",Canyon HS,N/A,softball,lsu
+17,Shemiah Sanchez,"Newnan, Ga.",East Coweta HS,N/A,softball,lsu
+18,Claire Weinberger,"Prairieville, La.",East Ascension HS,N/A,softball,lsu
+19,Georgia Clark,"Houston, Texas",Stratford HS,N/A,softball,lsu
+20,Morgan Cummins,"Sarasota, Fla.",Lakewood Ranch HS,N/A,softball,lsu
+21,Shelbi Sunseri,"Santa Fe, Texas",Santa Fe HS,N/A,softball,lsu
+22,Karrington Houshmandzadeh,"Cerritos, Calif.",Los Alamitas HS,N/A,softball,lsu
 0,Khourtni Fears,"Houston, Texas",Bellaire HS,N/A,womens volleyball,lsu
 1,Anna Zwiebel,"Louisville, Ky.",Sacred Heart Academy,N/A,womens volleyball,lsu
 2,Nicole Decker,"Coral Springs, Fla.",Calvary Christian Academy,N/A,womens volleyball,lsu
@@ -280,126 +284,138 @@
 12,Ashlyn Kirby,"Claremont, N.C.",Shooting Stars,N/A,womens gymnastics,lsu
 13,Lexie Priessman,"Cincinnati, Ohio",Cincinnati Gymnastics Academy/Perfection,N/A,womens gymnastics,lsu
 0,Jace Attuso,"Baton Rouge, La.",Catholic HS,Men,mixed track,lsu
-1,Da'Quan Bellard,"Opelousas, La.",Opelousas HS,Men,mixed track,lsu
-2,JuVaughn Blake,"Huntsville, Ala.",Columbia HS,Men,mixed track,lsu
+1,Blake Baldassaro,"Belle Chase, La.",Holy Cross HS,Men,mixed track,lsu
+2,Da'Quan Bellard,"Opelousas, La.",Opelousas HS,Men,mixed track,lsu
 3,Christian Boyd,"Keatchie, La.",North Desoto HS/Hinds CC,Men,mixed track,lsu
-4,Dajour Braxton,"Las Vegas, Nev.",Centennial HS,Men,mixed track,lsu
-5,Tommy Brocato,"Hammond, La.",St. Thomas Aquinas HS,Men,mixed track,lsu
-6,Chadd Burns,"Baton Rouge, La.",Catholic HS,Men,mixed track,lsu
-7,Cameron Cooper,"Detroit, Mich.",Oak Park HS,Men,mixed track,lsu
-8,Eric Coston,"Covington, La.",St. Paul's School,Men,mixed track,lsu
-9,Jaron Flournoy,"Detroit, Mich.",Westland John Glenn HS,Men,mixed track,lsu
-10,Andre Girouard,"Abbeville, La.",Vermillion Catholic HS,Men,mixed track,lsu
-11,Rayvon Grey,"Beacon, N.Y.",Beacon HS,Men,mixed track,lsu
+4,Chadd Burns,"Baton Rouge, La.",Catholic HS,Men,mixed track,lsu
+5,Eric Coston,"Covington, La.",St. Paul's School,Men,mixed track,lsu
+6,Hayden Courrege',"Metairie, La.",Brother Martin HS,Men,mixed track,lsu
+7,Mondo Duplantis,"Lafayette, La.",Lafayette HS,Men,mixed track,lsu
+8,Jaron Flournoy,"Detroit, Mich.",Westland John Glenn HS,Men,mixed track,lsu
+9,Andre Girouard,"Abbeville, La.",Vermillion Catholic HS,Men,mixed track,lsu
+10,Rayvon Grey,"Beacon, N.Y.",Beacon HS,Men,mixed track,lsu
+11,JuVaughn Harrison,"Huntsville, Ala.",Columbia HS,Men,mixed track,lsu
 12,Luke Hebert,"Baton Rouge, La.",St. Michael The Archangel HS,Men,mixed track,lsu
 13,Akanni Hislop,"Sou Sou Lands, Tobago",Bishop's HS,Men,mixed track,lsu
-14,Renard Howell,"Bensalem, Pa.",Trenton Central HS,Men,mixed track,lsu
-15,Chris Lewis,"Heflin, La.",Lakeside HS,Men,mixed track,lsu
-16,DC Lipani,"Mandeville, La.",St. Paul's School,Men,mixed track,lsu
-17,Harrison Martingayle,"Virginia Beach, Va.",Princess Anne HS,Men,mixed track,lsu
-18,Christian Miller,"Monroe, La.",Northside HS,Men,mixed track,lsu
-19,Correion Mosby,"Natchitoches, La.",Natchitoches Central HS/Hinds CC,Men,mixed track,lsu
-20,Xavier Mulugata,"Barataria, Trinidad &amp; Tobago",Fatima College,Men,mixed track,lsu
-21,Jonathan Nelsen,"Mandeville, La.",Mandeville HS,Men,mixed track,lsu
-22,Jake Norris,"Windsor, Berkshire, England",Desborough College,Men,mixed track,lsu
-23,Arthur Price,"Baton Rouge, La.",Catholic HS,Men,mixed track,lsu
-24,Matthew Rhorer,"Baton Rouge, La.",Catholic HS,Men,mixed track,lsu
-25,Bryan Stamey,"Baton Rouge, La.",Episcopal HS,Men,mixed track,lsu
-26,Daniel Tanner,"Shreveport, La.",C. E. Byrd HS,Men,mixed track,lsu
-27,Damion Thomas,"Sunrise, Fla.",Northeast HS,Men,mixed track,lsu
-28,Jahnoy Thompson,"White Hill District, Jamaica",Manchester HS/SUNO,Men,mixed track,lsu
-29,Jacob Thornton,"Baton Rouge, La.",Catholic HS,Men,mixed track,lsu
-30,Kary Vincent Jr.,"Port Arthur, Texas",Port Arthur Memorial HS,Men,mixed track,lsu
-31,Jack Wilkes,"Bossier City, La.",Airline HS,Men,mixed track,lsu
-32,Noel Baker,"Franklin, La.",Hanson Memorial HS,Women,mixed track,lsu
-33,Hannah Bourque,"Youngsville, La.",St. Thomas More HS,Women,mixed track,lsu
-34,Mikiah Brisco,"Baton Rouge, La.",Baton Rouge Magnet HS,Women,mixed track,lsu
-35,Heather Cizek,"Downers Grove, Ill.",James B. Conant HS,Women,mixed track,lsu
-36,Madison Danna,"Baton Rouge, La.",Baton Rouge Magnet HS,Women,mixed track,lsu
-37,Kristin Delgado,"The Woodlands, Texas",The Woodlands HS,Women,mixed track,lsu
-38,Zakiya Denoon,"Belle Garden, Tobago",Speyside HS/Monroe College,Women,mixed track,lsu
-39,Amber Desselle,"Baton Rouge, La.",Parkview Baptist HS,Women,mixed track,lsu
-40,Bria Druilhet,"Sugar Land, Texas",Stephen F. Austin HS,Women,mixed track,lsu
-41,Ersula Farrow,"Detroit, Mich.",Oak Park HS,Women,mixed track,lsu
-42,Monica Guillot,"Covington, La.",St. Scholastica Academy,Women,mixed track,lsu
-43,Dominique Hailey,"Zachary, La.",Musselman HS,Women,mixed track,lsu
-44,Cassondra Hall,"Eastman, Ga.",Warner Robins HS,Women,mixed track,lsu
-45,Keterra Harris,"Marrero, La.",St. Mary's Academy,Women,mixed track,lsu
-46,Isabella Hemb,"New Orleans, La.",Mount Carmel Academy,Women,mixed track,lsu
-47,Aleia Hobbs,"New Orleans, La.",McMain HS,Women,mixed track,lsu
-48,Brittley Humphrey,"Hoover, Ala.",Hoover HS,Women,mixed track,lsu
-49,Kortnei Johnson,"Italy, Texas",Italy HS,Women,mixed track,lsu
-50,Annie Jung,"Brusly, La.",St. Scholastica Academy,Women,mixed track,lsu
-51,Briana Kelly,"Clarksville, Tenn.",Northeast HS,Women,mixed track,lsu
-52,Brittany Kelly,"Clarksville, Tenn.",Northeast HS,Women,mixed track,lsu
-53,Oksana Lawrence,"Dayton, Ohio",Meadowdale HS,Women,mixed track,lsu
-54,Erika Lewis,"West Des Moines, Iowa",Waukee HS,Women,mixed track,lsu
-55,Rebecca Little,"Austin, Texas",Westlake HS,Women,mixed track,lsu
-56,Tonea Marshall,"Arlington, Texas",Juan Seguin HS,Women,mixed track,lsu
-57,Kyndal McKnight,"Denton, Texas",Marcus HS,Women,mixed track,lsu
-58,Rachel Misher,"Baton Rouge, La.",Episcopal HS,Women,mixed track,lsu
-59,Cori Mitchell,"Denham Springs, La.",Denham Springs HS,Women,mixed track,lsu
-60,Abby O'Donoghue,"Denham Springs, La.",Denham Springs HS,Women,mixed track,lsu
-61,Hollie Parker,"Cambridge, England",Kings School,Women,mixed track,lsu
-62,Kymber Payne,"Compton, Calif.",Long Beach Poly HS,Women,mixed track,lsu
-63,Danielle Phillips,"Cocoa, Fla.",Rockledge Senior HS,Women,mixed track,lsu
-64,Allyson Seals,"Mandeville, La.",St. Scholastica Academy,Women,mixed track,lsu
-65,Savannah Sledd,"Highland Park, Ill.",Highland Park HS,Women,mixed track,lsu
-66,Alicia Stamey,"Baton Rouge, La.",Episcopal HS,Women,mixed track,lsu
-67,Amy Stelly,"Washington, La.",Opelousas Catholic HS,Women,mixed track,lsu
-68,Courtney Tapocik,"DeRidder, La.",DeRidder HS,Women,mixed track,lsu
-69,Marvalyn Vernon,"Hammond, La.",Ponchatoula HS,Women,mixed track,lsu
-70,Kaitlyn Walker,"Gonzales, La.",Episcopal HS,Women,mixed track,lsu
-71,Ashley Welborn,"Knoxville, Tenn.",Knoxville Catholic HS,Women,mixed track,lsu
-72,Amelie Whitehurst,"Baton Rouge, La.",Episcopal HS,Women,mixed track,lsu
-73,Jurnee Woodward,"Vacaville, Calif.",Vacaville HS,Women,mixed track,lsu
-74,Shayna Yon,"Denver, Colo.",Cherokee Trail HS,Women,mixed track,lsu
-75,Milan Young,"Houston, Texas",Mirabeau B. Lamar Senior HS,Women,mixed track,lsu
+14,DC Lipani,"Mandeville, La.",St. Paul's School,Men,mixed track,lsu
+15,Harrison Martingayle,"Virginia Beach, Va.",Princess Anne HS,Men,mixed track,lsu
+16,Christian Miller,"Monroe, La.",Northside HS,Men,mixed track,lsu
+17,Correion Mosby,"Natchitoches, La.",Natchitoches Central HS/Hinds CC,Men,mixed track,lsu
+18,Xavier Mulugata,"Barataria, Trinidad &amp; Tobago",Fatima College,Men,mixed track,lsu
+19,Jake Norris,"Windsor, Berkshire, England",Desborough College,Men,mixed track,lsu
+20,Arthur Price,"Baton Rouge, La.",Catholic HS,Men,mixed track,lsu
+21,Damion Thomas,"Sunrise, Fla.",Northeast HS,Men,mixed track,lsu
+22,Jahnoy Thompson,"White Hill District, Jamaica",Manchester HS/SUNO,Men,mixed track,lsu
+23,Jacob Thornton,"Baton Rouge, La.",Catholic HS,Men,mixed track,lsu
+24,Kary Vincent Jr.,"Port Arthur, Texas",Port Arthur Memorial HS,Men,mixed track,lsu
+25,Ariyonna Augustine,"Paramount, Calif.",Long Beach Poly HS,Women,mixed track,lsu
+26,Noel Baker,"Franklin, La.",Hanson Memorial HS,Women,mixed track,lsu
+27,Hannah Bourque,"Youngsville, La.",St. Thomas More HS,Women,mixed track,lsu
+28,Heather Cizek,"Downers Grove, Ill.",James B. Conant HS,Women,mixed track,lsu
+29,Kristin Delgado,"The Woodlands, Texas",The Woodlands HS,Women,mixed track,lsu
+30,Zakiya Denoon,"Belle Garden, Tobago",Speyside HS/Monroe College,Women,mixed track,lsu
+31,Amber Desselle,"Baton Rouge, La.",Parkview Baptist HS,Women,mixed track,lsu
+32,Ersula Farrow,"Detroit, Mich.",Oak Park HS,Women,mixed track,lsu
+33,Cassondra Hall,"Eastman, Ga.",Warner Robins HS,Women,mixed track,lsu
+34,Keterra Harris,"Marrero, La.",St. Mary's Academy,Women,mixed track,lsu
+35,Brittley Humphrey,"Hoover, Ala.",Hoover HS,Women,mixed track,lsu
+36,Kortnei Johnson,"Italy, Texas",Italy HS,Women,mixed track,lsu
+37,Annie Jung,"Brusly, La.",St. Scholastica Academy,Women,mixed track,lsu
+38,Erika Lewis,"West Des Moines, Iowa",Waukee HS,Women,mixed track,lsu
+39,Tonea Marshall,"Arlington, Texas",Juan Seguin HS,Women,mixed track,lsu
+40,Katy-Ann McDonald,"London, England",Putney HS,Women,mixed track,lsu
+41,Kyndal McKnight,"Denton, Texas",Marcus HS,Women,mixed track,lsu
+42,Rachel Misher,"Baton Rouge, La.",Episcopal HS,Women,mixed track,lsu
+43,Cori Mitchell,"New Orleans, La.",Denham Springs HS,Women,mixed track,lsu
+44,Abby O'Donoghue,"Denham Springs, La.",Denham Springs HS,Women,mixed track,lsu
+45,Kiya Oviosun,"Greensboro, N.C.",Southeast Guilford Senior HS,Women,mixed track,lsu
+46,Hollie Parker,"Cambridge, England",Kings School,Women,mixed track,lsu
+47,Angelle Primeaux,"Lafayette, La.",Lafayette HS,Women,mixed track,lsu
+48,Sha'Carri Richardson,"Dallas, Texas",Carter HS,Women,mixed track,lsu
+49,Allyson Seals,"Mandeville, La.",St. Scholastica Academy,Women,mixed track,lsu
+50,Savannah Sledd,"Highland Park, Ill.",Highland Park HS,Women,mixed track,lsu
+51,Alicia Stamey,"Baton Rouge, La.",Episcopal HS,Women,mixed track,lsu
+52,Amy Stelly,"Washington, La.",Opelousas Catholic HS,Women,mixed track,lsu
+53,Courtney Tapocik,"DeRidder, La.",DeRidder HS,Women,mixed track,lsu
+54,Kaitlyn Walker,"Gonzales, La.",Episcopal HS,Women,mixed track,lsu
+55,Amelie Whitehurst,"Baton Rouge, La.",Episcopal HS,Women,mixed track,lsu
+56,Jurnee Woodward,"Vacaville, Calif.",Vacaville HS,Women,mixed track,lsu
+57,Shayna Yon,"Denver, Colo.",Cherokee Trail HS,Women,mixed track,lsu
+58,Milan Young,"Houston, Texas",Mirabeau B. Lamar Senior HS,Women,mixed track,lsu
 0,Eric Coston,"Covington, La.",St. Paul's School,Men,mixed cross country,lsu
-1,Harrison Martingayle,"Virginia Beach, Va.",Princess Anne HS,Men,mixed cross country,lsu
-2,Josef Schuster,"Marietta, Ga.",Alan C. Pope HS,Men,mixed cross country,lsu
-3,Hannah Bourque,"Youngsville, La.",St. Thomas More HS,Women,mixed cross country,lsu
-4,Heather Cizek,"Downers Grove, Ill.",James B. Conant HS,Women,mixed cross country,lsu
-5,Kristin Delgado,"The Woodlands, Texas",The Woodlands HS,Women,mixed cross country,lsu
-6,Ersula Farrow,"Detroit, Mich.",Oak Park HS,Women,mixed cross country,lsu
-7,Monica Guillot,"Covington, La.",St. Scholastica Academy,Women,mixed cross country,lsu
-8,Keterra Harris,"Marrero, La.",St. Mary's Academy,Women,mixed cross country,lsu
-9,Annie Jung,"Brusly, La.",St. Scholastica Academy,Women,mixed cross country,lsu
-10,Erika Lewis,"West Des Moines, Iowa",Waukee HS,Women,mixed cross country,lsu
-11,Kailyn McCarley,"Vicksburg, Miss.",Warren Central HS,Women,mixed cross country,lsu
-12,Hollie Parker,"Cambridge, England",Kings School,Women,mixed cross country,lsu
-13,Allyson Seals,"Mandeville, La.",St. Scholastica Academy,Women,mixed cross country,lsu
-14,Alicia Stamey,"Baton Rouge, La.",Episcopal HS,Women,mixed cross country,lsu
-15,Courtney Tapocik,"DeRidder, La.",DeRidder HS,Women,mixed cross country,lsu
-0,Harry Ackland,"Plymouth, England",Plymouth College,Men,mixed swimming,lsu
-1,Will Arthur,"Knoxville, Tenn.",Hardin Valley Academy,Men,mixed swimming,lsu
-2,Juan Celaya-Hernandez,"San Nicolas de los Garza, Mexico",Preparatoria 16 Uanl,Men,mixed swimming,lsu
-3,Lewis Clough,"Manchester, England",Fred Longworth HS,Men,mixed swimming,lsu
-4,Tyler Harper,"Marietta, Ga.",Marietta HS,Men,mixed swimming,lsu
-5,Dakota Hurbis,"Ann Arbor, Mich.",Saline HS,Men,mixed swimming,lsu
+1,Hayden Courrege',"Metairie, La.",Brother Martin HS,Men,mixed cross country,lsu
+2,Garrett Hamilton,"Chesapeake, Va.",Grassfield HS,Men,mixed cross country,lsu
+3,Thomas Laville Jr.,"Baton Rouge, La.",Catholic HS,Men,mixed cross country,lsu
+4,Michael Lee III,"Baton Rouge, La.",Episcopal HS,Men,mixed cross country,lsu
+5,Harrison Martingayle,"Virginia Beach, Va.",Princess Anne HS,Men,mixed cross country,lsu
+6,Kyle Montgomery,"Metairie, La.",Haynes Academy for Advanced Studies,Men,mixed cross country,lsu
+7,Stephen Schlottman,"Madisonville, La.",St. Paul's HS,Men,mixed cross country,lsu
+8,Josef Schuster,"Marietta, Ga.",Alan C. Pope HS,Men,mixed cross country,lsu
+9,Adam Wise,"Abita Springs, La.",Fontainebleau HS,Men,mixed cross country,lsu
+10,Jennifer Bennett,"Baton Rouge, La.",St. Joseph's Academy,Women,mixed cross country,lsu
+11,Hannah Bourque,"Youngsville, La.",St. Thomas More HS,Women,mixed cross country,lsu
+12,Heather Cizek,"Downers Grove, Ill.",James B. Conant HS,Women,mixed cross country,lsu
+13,Kristin Delgado,"The Woodlands, Texas",The Woodlands HS,Women,mixed cross country,lsu
+14,Amber Desselle,"Baton Rouge, La.",Parkview Baptist HS,Women,mixed cross country,lsu
+15,Ersula Farrow,"Detroit, Mich.",Oak Park HS,Women,mixed cross country,lsu
+16,Sara Funderburk,"Bossier City, La.",Parkway HS,Women,mixed cross country,lsu
+17,Monica Guillot,"Covington, La.",St. Scholastica Academy,Women,mixed cross country,lsu
+18,Keterra Harris,"Marrero, La.",St. Mary's Academy,Women,mixed cross country,lsu
+19,Annie Jung,"Brusly, La.",St. Scholastica Academy,Women,mixed cross country,lsu
+20,Erika Lewis,"West Des Moines, Iowa",Waukee HS,Women,mixed cross country,lsu
+21,Katy-Ann McDonald,"London, England",Putney HS,Women,mixed cross country,lsu
+22,Molly McHale,"Covington, La.",St. Scholastica Academy,Women,mixed cross country,lsu
+23,Cori Mitchell,"New Orleans, La.",Denham Springs HS,Women,mixed cross country,lsu
+24,Julia Palin,"Norton, Mass.",Norton HS,Women,mixed cross country,lsu
+25,Hollie Parker,"Cambridge, England",Kings School,Women,mixed cross country,lsu
+26,Angelle Primeaux,"Lafayette, La.",Lafayette HS,Women,mixed cross country,lsu
+27,Caroline Saucier,"Baton Rouge, La.",St. Michael HS,Women,mixed cross country,lsu
+28,Allyson Seals,"Mandeville, La.",St. Scholastica Academy,Women,mixed cross country,lsu
+29,Alicia Stamey,"Baton Rouge, La.",Episcopal HS,Women,mixed cross country,lsu
+30,Courtney Tapocik,"DeRidder, La.",DeRidder HS,Women,mixed cross country,lsu
+31,Amelie Whitehurst,"Baton Rouge, La.",Episcopal HS,Women,mixed cross country,lsu
+0,Maddie Ligon,"Bedford, Texas",Trinity HS,N/A,womens beach volleyball,lsu
+1,Kahlee York,"Bradenton, Fla.",Lakewood Ranch HS,N/A,womens beach volleyball,lsu
+2,Hunter Domanski,"New Braunfels, Texas",New Braunfels HS,N/A,womens beach volleyball,lsu
+3,Ashley Allmer,"Sarasota, Fla.",Riverview HS,N/A,womens beach volleyball,lsu
+4,Kristen Nuss,"New Orleans, La.",Mount Carmel Academy,N/A,womens beach volleyball,lsu
+5,Claire Coppola,"Scottsdale, Ariz.",Xavier College Preparatory,N/A,womens beach volleyball,lsu
+6,Tatum Ballard,"Mandeville, La.",Archbishop Hannan HS,N/A,womens beach volleyball,lsu
+7,Nicole Decker,"Coral Springs, Fla.",Calvary Christian Academy,N/A,womens beach volleyball,lsu
+8,Savannah Wininger,"Baton Rouge, La.",St. Michael HS,N/A,womens beach volleyball,lsu
+9,Olivia Powers,"Merrit Island, Fla.",Merritt Island Christian School,N/A,womens beach volleyball,lsu
+10,Megan Davenport,"Metairie, La.",Mount Carmel Academy,N/A,womens beach volleyball,lsu
+11,Jeni Clark,"Carlsbad, Calif.",Cathedral Catholic HS,N/A,womens beach volleyball,lsu
+12,Caitlin Broadwell,"Lawrence, Kanasa",Lawrence HS,N/A,womens beach volleyball,lsu
+0,Will Arthur,"Knoxville, Tenn.",Hardin Valley Academy,Men,mixed swimming,lsu
+1,Juan Celaya-Hernandez,"San Nicolas de los Garza, Mexico",Preparatoria 16 Uanl,Men,mixed swimming,lsu
+2,Lewis Clough,"Manchester, England",Fred Longworth HS,Men,mixed swimming,lsu
+3,Tyler Harper,"Marietta, Ga.",Marietta HS,Men,mixed swimming,lsu
+4,Dakota Hurbis,"Ann Arbor, Mich.",Saline HS,Men,mixed swimming,lsu
+5,Jack Jannasch,"Frisco, Texas",Frisco HS,Men,mixed swimming,lsu
 6,Harrison Jones,"Bryan, Texas",Bryan HS,Men,mixed swimming,lsu
 7,Cameron Karkoska,"Laguna Beach, Calif.",Laguna Beach HS,Men,mixed swimming,lsu
 8,Matt Klotz,"Cameron Park, Calif.",Vista Del Lago HS,Men,mixed swimming,lsu
 9,Alarii Levreault-Lopez,"Canton, Ga.",Woodstock HS,Men,mixed swimming,lsu
-10,Jackson Lucas,"Ashburn, Va.",Briar Woods HS,Men,mixed swimming,lsu
-11,Karl Luht,"Tallinn, Estonia",Viimsi HS,Men,mixed swimming,lsu
-12,Jake Markham,"Denver, Colo.",Cherry Creek HS,Men,mixed swimming,lsu
-13,Matt McClellan,"Cypress, Texas",Cypress Woods HS,Men,mixed swimming,lsu
-14,Brian McGroarty,"Linwood, N.J.",Mainland Regional HS,Men,mixed swimming,lsu
-15,Joao Mescolote,"Sao Paulo, Brazil",Colegio Auango,Men,mixed swimming,lsu
-16,Braden Nyboer,"Baton Rouge, La.",Catholic HS,Men,mixed swimming,lsu
-17,Mitchell Petras,"Augusta, Ga.",Evans HS,Men,mixed swimming,lsu
-18,Luca Pfyffer,"Obernau, Switzerland",Limmat Sharks Zurich,Men,mixed swimming,lsu
-19,Matthew Phillip,"Frisco, Texas",Liberty HS,Men,mixed swimming,lsu
+10,Karl Luht,"Tallinn, Estonia",Viimsi HS,Men,mixed swimming,lsu
+11,Matt McClellan,"Cypress, Texas",Cypress Woods HS,Men,mixed swimming,lsu
+12,Brian McGroarty,"Linwood, N.J.",Mainland Regional HS,Men,mixed swimming,lsu
+13,Braden Nyboer,"Baton Rouge, La.",Catholic HS,Men,mixed swimming,lsu
+14,Davis Payne,"Raleigh, N.C.",Millbrook HS,Men,mixed swimming,lsu
+15,Mitchell Petras,"Augusta, Ga.",Evans HS,Men,mixed swimming,lsu
+16,Michael Petro,"Arlington Heights, Ill.",John Hersey HS,Men,mixed swimming,lsu
+17,Luca Pfyffer,"Obernau, Switzerland",Limmat Sharks Zurich,Men,mixed swimming,lsu
+18,Matthew Phillip,"Frisco, Texas",Liberty HS,Men,mixed swimming,lsu
+19,Thomas Roark,"Boise, Idaho",Bishop Kelly HS,Men,mixed swimming,lsu
 20,Sven Saemundsson,"Rijeka, Croatia",Prirodoslovna skola Vladimira Preloga,Men,mixed swimming,lsu
 21,Trent Schachter,"Arroyo Grande, Calif.",Arroyo Grande HS,Men,mixed swimming,lsu
 22,Thomas Smith,"Huntington Beach, Calif.",Edison High School,Men,mixed swimming,lsu
 23,Jeffrey Snoddy,"Scottsdale, Ariz.",Tempe Preparatory Academy,Men,mixed swimming,lsu
-24,Taylor Anderson,"Odessa, Fla.",J.W. Mitchell HS,Women,mixed swimming,lsu
-25,Ellie Baldwin,"Derby, England",Lees Brook Community School,Women,mixed swimming,lsu
-26,Raleigh Bentz,"Atlanta, Ga.",Providence Christian Academy,Women,mixed swimming,lsu
-27,Sophia Bisch,"Lake Elmo, Minn.",Stillwater Area HS,Women,mixed swimming,lsu
-28,Clayton Black,"Baton Rouge, La.",St. Joseph's Academy,Women,mixed swimming,lsu
+24,Miguel Velasquez,"Austin, Texas",Westlake HS,Men,mixed swimming,lsu
+25,Taylor Anderson,"Odessa, Fla.",J.W. Mitchell HS,Women,mixed swimming,lsu
+26,Ellie Baldwin,"Derby, England",Lees Brook Community School,Women,mixed swimming,lsu
+27,Raleigh Bentz,"Atlanta, Ga.",Providence Christian Academy,Women,mixed swimming,lsu
+28,Isabella Butacci,"Lafayette, La.",Episcopal School of Acadiana,Women,mixed swimming,lsu
 29,Leyre Casarin,"Villorba, Italy",Liceo Linguistico,Women,mixed swimming,lsu
 30,Lizzie Cui,"Auckland, New Zealand",Auckland Diving Club,Women,mixed swimming,lsu
 31,Lexi Daniels,"Chesterfield, Mo.",Marquette HS,Women,mixed swimming,lsu
@@ -413,16 +429,14 @@
 39,Cassie Kalisz,"Bel Air, Md.",Fallston HS,Women,mixed swimming,lsu
 40,Haylee Knight,"Hanover, Mass.",Hanover HS,Women,mixed swimming,lsu
 41,Rileigh Knox,"Windermere, Fla.",West Orange HS,Women,mixed swimming,lsu
-42,Megan Loop,"Mandeville, La.",Mandeville HS,Women,mixed swimming,lsu
-43,Catherine Lowengrub,"Irvine, Calif.",JSerra Catholic HS,Women,mixed swimming,lsu
-44,Jane MacDougall,"Winnipeg, Manitoba, Canada",Vincent Massey Collegiate,Women,mixed swimming,lsu
-45,Lauren McIntosh,"Palm Harbor, Fla.",Palm Harbor University HS,Women,mixed swimming,lsu
-46,Miranda Nichols,"Baton Rouge, La.",Shepherd?s Staff Academy,Women,mixed swimming,lsu
-47,Olivia Paskulin,"Beaconsfield, Quebec, Canada",John Abbott College,Women,mixed swimming,lsu
-48,Gabrielle Pick,"Milton, Ga.",Milton HS,Women,mixed swimming,lsu
-49,Makayla Robillard,"Orlando, Fla.",Olympia HS,Women,mixed swimming,lsu
-50,Nicole Rozier,"Coeur d'Alene, Idaho",Coeur d'Alene HS,Women,mixed swimming,lsu
-51,Katie Smith,"Kensington, Md.",Chevy Chase HS,Women,mixed swimming,lsu
-52,Summer Spradley,"Granite Bay, Calif.",Granite Bay HS,Women,mixed swimming,lsu
-53,Lauren Thompson,"Austin, Texas",Westwood HS,Women,mixed swimming,lsu
-54,Kate Zimmer,"Missoula, Mont.",Big Sky HS,Women,mixed swimming,lsu
+42,Natalie Kucsan,"New Market, Md.",Linganore HS,Women,mixed swimming,lsu
+43,Allie McDaid,"East Windsor, N.J.",Hightstown HS,Women,mixed swimming,lsu
+44,Lauren McIntosh,"Palm Harbor, Fla.",Palm Harbor University HS,Women,mixed swimming,lsu
+45,Olivia Paskulin,"Beaconsfield, Quebec, Canada",John Abbott College,Women,mixed swimming,lsu
+46,Gabrielle Pick,"Milton, Ga.",Milton HS,Women,mixed swimming,lsu
+47,Nicole Rozier,"Coeur d'Alene, Idaho",Coeur d'Alene HS,Women,mixed swimming,lsu
+48,Katie Smith,"Kensington, Md.",Chevy Chase HS,Women,mixed swimming,lsu
+49,Summer Spradley,"Granite Bay, Calif.",Granite Bay HS,Women,mixed swimming,lsu
+50,Brittany Thompson,"Austin, Texas",Westwood HS,Women,mixed swimming,lsu
+51,Lauren Thompson,"Austin, Texas",Westwood HS,Women,mixed swimming,lsu
+52,Kate Zimmer,"Missoula, Mont.",Big Sky HS,Women,mixed swimming,lsu

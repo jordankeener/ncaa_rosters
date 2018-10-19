@@ -2,7 +2,7 @@
 0,Isaiah Wade,"Minneapolis, Minn.",East HS,mens basketball,washington_state
 1,Jervae Robinson,"Aurora, Colo.",Overland HS,mens basketball,washington_state
 2,CJ Elleby,"Seattle, Wash.",Cleveland HS,mens basketball,washington_state
-3,Robert Franks,"Vancouver, Wash.",Evergreen HS,mens basketball,washington_state
+3,"Robert Franks, Jr.","Vancouver, Wash.",Evergreen HS,mens basketball,washington_state
 4,Aljaž Kunc,"Ljubljana, Slovenia",Impact Academy-Fla.,mens basketball,washington_state
 5,Marvin Cannon,"Richmond, Va.",The Steward School,mens basketball,washington_state
 6,Jeff Pollard,"Bountiful, Utah",Impact Academy-Nev.,mens basketball,washington_state
@@ -23,387 +23,430 @@
 21,Cherilyn  Molina,"Kailua Kona, Hawaii",Konawaena HS,womens basketball,washington_state
 22,Jovana Subasic,"Sabac, Serbia",N/A,womens basketball,washington_state
 23,Borislava Hristova,"Varna, Bulgaria",Georgi Benkovski,womens basketball,washington_state
-24,Derek Chapman,"Issaquah, Wash.",Issaquah HS,baseball,washington_state
+24,Koby Blunt,"Clarkston, Wash.",Clarkston HS,baseball,washington_state
 25,Danny  Sinatro,"Sammamish, Wash.",Skyline,baseball,washington_state
 26,Andres Alvarez,"San Diego, Calif.",San Ysidro,baseball,washington_state
-27,JJ Hancock,"Kennewick, Wash.",Kennewick HS,baseball,washington_state
-28,Justin Harrer,"Sisters, Ore.",Sisters HS,baseball,washington_state
-29,Mason De La Cruz,"Auburn, Wash.",Thomas Jefferson HS,baseball,washington_state
-30,Cory Meyer,"Pocatello, Idaho",Highland,baseball,washington_state
-31,Ryan Ramsower,"Tucson, Ariz.",Salpointe Catholic,baseball,washington_state
-32,James Rudkin,"Plano, Texas",Plano East,baseball,washington_state
+27,Trent Sellers,"Kennewick, Wash.",Kennewick HS,baseball,washington_state
+28,Abel Carter,"Carson City, Nev.",Carson HS,baseball,washington_state
+29,Kyle Manzardo,N/A,N/A,baseball,washington_state
+30,Garrett Gouldsmith,N/A,N/A,baseball,washington_state
+31,Brandon Lees,"Pullman, Wash.",Pullman HS,baseball,washington_state
+32,Grant DeLappe,"Maple Valley, Wash.",Tahoma HS,baseball,washington_state
 33,Dillon Plew,"Kennewick, Wash.",Kennewick,baseball,washington_state
 34,Jack Smith,"Mercer Island, Wash.",Mercer Island HS,baseball,washington_state
-35,Nick Strange,"Astoria, Ore.",Astoria,baseball,washington_state
-36,Blake Clanton,"Clinton, Okla.",Clinton,baseball,washington_state
-37,Cal Waterman,"Bend, Ore.",Summit,baseball,washington_state
-38,A.J.  Block,"Bellevue, Wash.",Newport,baseball,washington_state
-39,Conner Nantkes,"Aurora, Colo.",Cherokee Trail HS,baseball,washington_state
-40,Robert Teel,"Tustin, Calif.",Mater Dei HS,baseball,washington_state
-41,Scotty Sunitsch,"Federal Way, Wash.",Todd Beamer HS,baseball,washington_state
-42,Hayden Rosenkrantz,"West Jordan, Utah",Cottonwood HS,baseball,washington_state
+35,Sam Lauderdale,"Vancouver, Wash.",King's Way HS,baseball,washington_state
+36,Cal Waterman,"Bend, Ore.",Summit,baseball,washington_state
+37,A.J.  Block,"Bellevue, Wash.",Newport,baseball,washington_state
+38,Zane Mills,"Portland, Ore.",Lincoln HS,baseball,washington_state
+39,Robert Teel,"Tustin, Calif.",Mater Dei HS,baseball,washington_state
+40,Kodie Kolden,"Post Falls, Idaho",Lake City HS,baseball,washington_state
+41,Hayden Rosenkrantz,"West Jordan, Utah",Cottonwood HS,baseball,washington_state
+42,Brandon White,"Chehalis, Wash.",W.F. West HS,baseball,washington_state
 43,Michael Newstrom,"Puyallup, Wash.",Puyallup HS,baseball,washington_state
 44,Collin Montez,"Marysville, Wash.",Marysville-Getchell HS,baseball,washington_state
-45,Ryan Walker,"Arlington, Wash.",Arlington HS,baseball,washington_state
-46,Matthew Ellis,"Troutdale, Ore.",Sam Barlow,baseball,washington_state
-47,Cody Anderson,"Marysville, Wash.",Marysville-Pilchuck,baseball,washington_state
-48,Parker McFadden,"Yelm, Wash.",Yelm HS,baseball,washington_state
-49,Collin Maier,"Billings, Mont.",Billings West,baseball,washington_state
-50,Brody Barnum,"Vancouver, Wash.",Skyview HS,baseball,washington_state
-51,Isaac Mullins,"North Bend, Wash.",Mount Si HS,baseball,washington_state
-52,Davis Baillie,"Woodinville, Wash.",Woodinville HS,baseball,washington_state
-53,Dylan Orlando,"Las Vegas, Nev.",Palo Verde HS,baseball,washington_state
-54,Dustin Yates,"Selah, Wash.",Selah HS,baseball,washington_state
-55,Bryce Moyle,"Carson City, Nev.",Carson HS,baseball,washington_state
-56,Will Heward,"Ogden, Utah",Bonneville HS,baseball,washington_state
-57,Wyatt Segle,"Snohomish, Wash.",Monroe HS,baseball,washington_state
-58,Davontavean Martin,"Houma, La.",Ellender Memorial,football,washington_state
-59,Cammon Cooper,"Lehi, Utah",Lehi,football,washington_state
-60,Darrien Molton,"San Diego, Calif.",Chaparral,football,washington_state
-61,Marcus Strong,"Rialto, Calif.",Carter,football,washington_state
-62,Travell Harris,"Tampa, Fla.",Jesuit,football,washington_state
-63,Jamire Calvin,"Pasadena, Calif.",Cathedral,football,washington_state
-64,Trey Tinsley,"Lake Forest, Calif.",El Toro,football,washington_state
-65,John Bledsoe,"Bend, Ore.",Bend HS,football,washington_state
-66,Dezmon Patmon,"San Diego, Calif.",Patrick Henry,football,washington_state
-67,Connor Neville,"Beaverton, Ore.",Wilsonville,football,washington_state
-68,Jahad Woods,"San Diego, Calif.",Helix,football,washington_state
-69,Robert Lewis,"Watts, Calif.",South East,football,washington_state
-70,Kyle Sweet,"Rancho Santa Margarita, Calif.",Santa Margarita,football,washington_state
-71,Anthony Gordon,"Pacifica, Calif.",Terra Nova HS ‘15,football,washington_state
-72,Brandon Arconado,"Chino Hills, Calif.",Bishop Amat HS,football,washington_state
-73,Casey Brink,"Bainbridge Island, Wash.",Bainbridge HS,football,washington_state
-74,Dominick Silvels,"San Diego, Calif.",Patrick Henry,football,washington_state
-75,Max Borghi,"Arvada, Colo.",Pomona,football,washington_state
-76,Deion Singleton,"Tallahassee, Fla.","Chiawana (Pasco, Wash.)",football,washington_state
-77,Keith Harrington,"St. Petersburg, Fla.",Northeast,football,washington_state
-78,Hunter Dale,"New Orleans, La.",John Curtis Christian,football,washington_state
-79,Sean Harper Jr.,"Hartwell, Ga.",Hartwell County,football,washington_state
-80,Austin Regis,"Issaquah, Wash.",Liberty,football,washington_state
-81,Skyler Thomas,"Riverside, Calif.",Citrus Hill,football,washington_state
-82,Isaiah Love,"West Covina, Calif.",West Covina,football,washington_state
-83,Nnamdi Oguayo,"Beltsville, Md.",High Point,football,washington_state
-84,Dylan Axelson,"Woodinville, Wash.",Woodinville HS,football,washington_state
-85,James Williams,"Burbank, Calif.",Burbank,football,washington_state
-86,Alex Flood,"Scottsdale, Ariz.",Pinnacle,football,washington_state
-87,Jalen Thompson,"Downey, Calif.",Downey,football,washington_state
-88,Armani Marsh,"Spokane, Wash.",Gonzaga Prep,football,washington_state
-89,Solomon Cooper,"Urbandale, Iowa",Urbandale,football,washington_state
-90,George Hicks III,"San Bernardo, Calilf.",Cajon,football,washington_state
-91,Caleb Perry,"Seattle, Wash.",King's,football,washington_state
-92,Justus Rogers,"Bellevue, Wash.",Bellevue,football,washington_state
-93,Hayden Schmidt,"Mount Vernon, Wash.",Mount Vernon HS,football,washington_state
-94,Damion Lee,"Palm Springs, Calif.",Palm Springs,football,washington_state
-95,Clay Markoff,"Olympia, Wash.",Olympia HS,football,washington_state
-96,Blake Mazza,"Plano, Texas",Plano,football,washington_state
-97,Chima Onyeukwu,"Pittsburg, Calif.",Pittsburg,football,washington_state
-98,Dillon Sherman,"Mission Viejo, Calif.",El Toro,football,washington_state
-99,Jack Crane,"Sammamish, Wash.",Skyline,football,washington_state
-100,Ryan Henderson,"Everett, Wash.",Archbishop Murphy,football,washington_state
-101,Tristan Brock,"Mount Vernon, Wash.",Mount Vernon,football,washington_state
-102,Logan Tago,"Fagasa, American Samoa",Samoana,football,washington_state
-103,Levi  Hansen,"Anchorage, Alaska",Robert Service,football,washington_state
-104,Mason Vinyard,"El Cajon, Calif.",Helix,football,washington_state
-105,Peyton Pelluer,"Sammamish, Wash.",Skyline,football,washington_state
-106,Erik Glueck,"Gig Harbor, Wash.",Bellarmine Prep,football,washington_state
-107,Kingston Fernandez,"Kapolei, Hawaii",Kapolei,football,washington_state
-108,Anthony  Castillo,"Kent, Wash.",Meridian,football,washington_state
-109,Kendrick Catis,"Pompano Beach, Fla.",Deerfield Beach,football,washington_state
-110,Derek Moore,N/A,N/A,football,washington_state
-111,Noah Osur-Myers,"Walnut Creek, Calif.",Las Lomas,football,washington_state
-112,Taylor Comfort,"Sultan, Wash.",Sultan,football,washington_state
-113,Willie Taylor III,"Cochran, Ga.",Bleckley County,football,washington_state
-114,Fa'avae Fa'avae,"Carson, Calif.",Mater Dei,football,washington_state
-115,Cole Dubots,"Murrieta, Callif.",Vista Murrieta,football,washington_state
-116,Brian Greene,"Yakima, Wash.",Eisenhower,football,washington_state
-117,Andre Dillard,"Woodinville, Wash.",Woodinville,football,washington_state
-118,Karson Block,"Mission Viejo, Calif.",Atascadero,football,washington_state
-119,Liam Ryan,"Chino Hills, Calif.",Damien,football,washington_state
-120,Mark Meynisse,"Aberdeen, Md.",Aberdeen/College of Sequioas,football,washington_state
-121,Josh Watson,"Everett, Wash.",Cascade,football,washington_state
-122,Seth Yost,"Coeur d'Alene, Idaho",Lake City,football,washington_state
-123,Matthew Allen,"Redmond, Ore.",Redmond,football,washington_state
-124,Frederick Mauigoa,"Iliili, American Samoa",Tafuna,football,washington_state
-125,Christian Haangana,"Milpitas, Calif.",Milpitas,football,washington_state
-126,Keenan Forbes,"Miami, Fla.",Everglades,football,washington_state
-127,Kyle Celli,"Seattle, Wash.",Bishop Blanchet,football,washington_state
-128,Vaughnden Handel,"Spokane, Wash.",Lewis-Clark,football,washington_state
-129,Robert Valencia,"Daly City, Calif.",Riordan,football,washington_state
-130,Abraham Lucas,"Everett, Wash.",Archbishop Murphy,football,washington_state
-131,Hayden Harvey,"Boise, Idaho",Patriot HS,football,washington_state
-132,Renard Bell,"Los Angeles, Calif.",Cathedral,football,washington_state
-133,Jonny Neville,"Beaverton, Ore.",Wilsonville,football,washington_state
-134,Jesus Echevarria,"Everett, Wash.",Archbishop Murphy,football,washington_state
-135,Easop Winston,"San Francisco, Calilf.",Serra,football,washington_state
-136,Kainoa Wilson,"Nanakuli, Hawaii",Mililani,football,washington_state
-137,Marcus Wyke,"Lakewood, Wash.",Lakes,football,washington_state
-138,Rodrick Fisher,"Spokane Valley, Wash.",East Valley,football,washington_state
-139,Nick Begg,"Rancho Santa Margarita, Calif.",Santa Margarita,football,washington_state
-140,Will Rodgers III,"Saginaw, Mich.",Valor Christian (Colo.),football,washington_state
-141,Christian Mejia,"Kailua, Hawaii",Kailua,football,washington_state
-142,Preston Hendry,"Rancho Santa Margarita, Calif.",Tesoro,football,washington_state
-143,Johan Zetterberg,"Danville, Calif.",San Ramon Valley,football,washington_state
-144,Hunter Mattox,"Calabasas, Calif.",Sierra Canyon,football,washington_state
-145,Dallas Hobbs,"Cedar Rapids, Iowa",Washington,football,washington_state
-146,Jonathan  Lolohea,"Lahaina, Hawaii",Maui,football,washington_state
-147,Ella Dederick,"Camarillo, Calif.",Newbury Park HS,womens soccer,washington_state
-148,Emma Dahline,"Mill Creek, Wash.",Jackson HS,womens soccer,washington_state
-149,Marin Auth,"Medina, Ohio",Medina HS,womens soccer,washington_state
-150,Makamae Gomera-Stevens,"Kapolei, HI",Kamehameha Kapalama HS,womens soccer,washington_state
-151,Ebony Clarke,"Richmond, British Columbia",RC Palmer Secondary School,womens soccer,washington_state
-152,Jamie Rita,"Burien, Wash.",Highline HS,womens soccer,washington_state
-153,Morgan Weaver,"University Place, Wash.",Curtis HS,womens soccer,washington_state
-154,Elaily Hernandez-Repreze,"Huntington Park, Calif.",Los Angeles Center for Enriched Studies,womens soccer,washington_state
-155,Gracie Armstrong,"Broomfield, Colo.",Legacy HS,womens soccer,washington_state
-156,Sydney Pulver,"Parker, Colo.",Regis Jesuit HS,womens soccer,washington_state
-157,Brianna Alger,"Monument, Colo.",Lewis-Palmer HS,womens soccer,washington_state
-158,Shanya Dhindsa,"Surrey, British Columbia",Panorama Ridge Secondary,womens soccer,washington_state
-159,Katie Jones,"Corona, Calif.",Santiago HS,womens soccer,washington_state
-160,Elyse Bennett,"De Pere, Wis.",De Pere HS,womens soccer,washington_state
-161,Molly Myers,"Oceanside, Calif.",Rancho Buena Vista HS,womens soccer,washington_state
-162,Courtney Worstell,"Moorpark, Calif.",Moorpark HS,womens soccer,washington_state
-163,Grace Hancock,"Boise, Idaho",Boise HS,womens soccer,washington_state
-164,Hailey Smith,"San Jose, Calif.",Archbishop Mitty HS,womens soccer,washington_state
-165,Sarah Davidson,"Camas, Wash.",Camas HS,womens soccer,washington_state
-166,Maddy Haro,"Corona, Calif.",Santiago HS,womens soccer,washington_state
-167,Aaqila McLyn,"Long Beach, Calif.",Long Beach Poly,womens soccer,washington_state
-168,Hanna Goff,"Glendora, Calif.",Glendora HS,womens soccer,washington_state
-169,Shayna Whieldon,"Norco, Calif.",Upland HS,womens soccer,washington_state
-170,Mykiaa Minniss,"Colorado Springs, Colo.",Doherty HS,womens soccer,washington_state
-171,Maegan O'Neill,"Spokane, Wash.",Ferris HS,womens soccer,washington_state
-172,Rachel Thompson,"Nikiski, AK",Nikiski HS,womens soccer,washington_state
-173,Gabriella Crenshaw,"Marysville, Wash.",Marysville Pilchuck HS,womens soccer,washington_state
-174,Alysha Overland,"Moses Lake, Wash.",Moses Lake HS,womens soccer,washington_state
-175,Kelis Barton,"Renton, Wash.",Renton HS,womens soccer,washington_state
-176,Andrew Cooper,"Issaquah, Wash.",Liberty HS,mens cross country,washington_state
-177,Cameron Dean,"Spokane, Wash.",Mead HS,mens cross country,washington_state
-178,Jake Finney,"Post Falls, Idaho",Lake City HS,mens cross country,washington_state
-179,Justin Janke,"Spokane, Wash.",North Central HS,mens cross country,washington_state
-180,Zak Kindl,"Spokane, Washingon",Lewis & Clark HS,mens cross country,washington_state
-181,Sam Levora,"Sandpoint, Idaho",Sandpoint HS,mens cross country,washington_state
-182,Kyler Little,"Coeur d'Alene, Idaho",Lake City HS,mens cross country,washington_state
-183,Reid Muller,"Pitt Meadows, B.C., Canada",Pitt Meadows Secondary,mens cross country,washington_state
-184,Jacob Nicholson,"Spokane Valley, Washinton",West Valley HS,mens cross country,washington_state
-185,Paul Ryan,"Moscow, Idaho",Logos HS,mens cross country,washington_state
-186,Luke Schilter,"Lacey, Washington",Northwest Christian HS,mens cross country,washington_state
-187,Kennan Schrag,"Issaquah, Wash.",Issaquah HS,mens cross country,washington_state
-188,Zach Stallings,"Reno, Nevada",McQueen HS,mens cross country,washington_state
-189,Nathan Tadesse,"Surrey, B.C., Canada",North Surrey Senior,mens cross country,washington_state
-190,Chandler Teigen,"Anatone, Wash.",Asotin HS,mens cross country,washington_state
-191,Isaac Wadhwani,"Maple Ridge, B.C., Canada",Terry Fox Secondary,mens cross country,washington_state
-192,Nathan Wadhwani,"Maple Ridge, B.C., Canada",Terry Fox Secondary,mens cross country,washington_state
-193,Matthew Watkins,"Mill Creek, Washington",Jackson HS,mens cross country,washington_state
-194,Michael Williams,"Richland, Wash.",Richland HS,mens cross country,washington_state
-195,Kiyena Beatty,"Temecula, California",Great Oak HS,womens cross country,washington_state
-196,Devon Bortfeld,"Sammamish, Wash.",Eastlake HS,womens cross country,washington_state
-197,Josie Brown,"Coeur d'Alene, Idaho","Coeur d'Alene, Idaho",womens cross country,washington_state
-198,Katherine Dittmann,"Snohomish, Wash.",Glacier Peak HS,womens cross country,washington_state
-199,Marie Gaudin,"Arlington, Wash.",Arlington HS,womens cross country,washington_state
-200,Melissa Hruska,"Snoqualmie, Wash.",Mount Si HS,womens cross country,washington_state
-201,Samantha King-Shaw,"Sparks, Nevada",Reed HS,womens cross country,washington_state
-202,Vallery Korir,"Iten, Kenya",N/A,womens cross country,washington_state
-203,Morgan Lash,"Anchorage, Alaska",South Anchorage HS,womens cross country,washington_state
-204,Tracy Myers,"Beamsville, Ontario, Canada",Grimsby Secondary School,womens cross country,washington_state
-205,Jenaya Pynn,"Nanaimo, B.C. Canada",Wellington Secondary,womens cross country,washington_state
-206,Alexis Redfield,"Zillah, Wash.",Zillah HS,womens cross country,washington_state
-207,Pia Richards,"Sammamish, Washington",Eastlake HS,womens cross country,washington_state
-208,Desi Stinger,"Temecula, Calif.",Great Oak HS,womens cross country,washington_state
-209,AJ Armstrong,"St. Albert, Alberta",St. Albert Catholic HS,mens golf,washington_state
-210,Nicklaus Chiam,N/A,N/A,mens golf,washington_state
-211,Grant Cole,"Redmond, Wash.",Interlake HS,mens golf,washington_state
-212,Daniel Kolar,"Syndey, Australia",Champagnat Catholic College Pagewood,mens golf,washington_state
-213,Khan Lee,"Langley, B.C",Clayton Heights Secondary School,mens golf,washington_state
-214,Ryan Maine,"Spokane, Wash.",Freeman HS,mens golf,washington_state
-215,Scott Redelsperger,"Phoenix, Ariz.",Thunderbird HS,mens golf,washington_state
-216,Emily Baumgart,"Walla Walla, Wash.",DeSales Catholic School,womens golf,washington_state
-217,Elodie  Bridenne,"Rennes Cedex, France",CNED Institut  de Rennes,womens golf,washington_state
-218,Alivia Brown,"Gig Harbor, Wash.",Bellarmine Prep,womens golf,washington_state
-219,Marie Lund-Hansen,"Aabenraa, Denmark",Aabenraa Statsskole,womens golf,washington_state
-220,Madison Odiorne,"Bend, Ore.",Summit HS,womens golf,washington_state
-221,Bree Wanderscheid,"Goldendale, Wash.",Goldendale HS,womens golf,washington_state
-222,Luciana (Luci) Brock,"Edmonds, Wash.",Woodway HS,womens swimming,washington_state
-223,Anna Brolin,"Gilroy, Calif.",Gilroy HS,womens swimming,washington_state
-224,Emily Cook,"Portland, Ore.",Jesuit HS,womens swimming,washington_state
-225,Mackenzie Duarte,"Walnut Creek, Calif.",Alhambra HS,womens swimming,washington_state
-226,Ryan Falk,"Portland, Ore.",Jesuit HS,womens swimming,washington_state
-227,Alba Forés,"Lund, Sweden",Procivitas,womens swimming,washington_state
-228,Sam Howell,"Austin, Texas",Lake Travis HS,womens swimming,washington_state
-229,Ciera Kelly,"Juneau, Alaska",Juneau-Douglass HS,womens swimming,washington_state
-230,Chloe Larson,"Rapid City, S.D.",St. Thomas More HS,womens swimming,washington_state
-231,Linnea Lindberg,"Stockholm, Sweden",N/A,womens swimming,washington_state
-232,Jasmine Margetts,"Torrance, Calif.",North HS,womens swimming,washington_state
-233,Taylor McCoy,"Pullman, Wash.",Pullman HS,womens swimming,washington_state
-234,Kelly Morgan,"Edmonds, Wash.",Meadowdale HS,womens swimming,washington_state
-235,Penny Nichols,"Phoenix, Ariz.",Desert Vista HS,womens swimming,washington_state
-236,Clothilde Peseux,"Besancon, France",Lycee Ledoux,womens swimming,washington_state
-237,Maia Petrides,"Honolulu, Hawaii",Mid-Pacific Institute,womens swimming,washington_state
-238,Rachel Thompson,"Santa Ana, Calif.",Foothill HS,womens swimming,washington_state
-239,Talisa Wibmer,"Renton, Wash.",Hazen HS,womens swimming,washington_state
-240,Melisa Ates,"Antalya, Turkey",N/A,womens tennis,washington_state
-241,Michaela Bayerlova,"Krumbach, Germany",N/A,womens tennis,washington_state
-242,Barbora Michalkova,"As, Czech Republic",N/A,womens tennis,washington_state
-243,Aneta Miksovska,"Stramberk, Czech Republic",N/A,womens tennis,washington_state
-244,Tiffany Mylonas,"Brussels, Belgium",N/A,womens tennis,washington_state
-245,Ege Tomey,"Izmir, Turkey",N/A,womens tennis,washington_state
-246,Guzal Yusupova,"Karshi, Uzbekistan",N/A,womens tennis,washington_state
-247,Amir Ado,"Spokane, Wash.",Ferris HS,mens track,washington_state
-248,Corey Allen,"Allyn, Wash.",North Mason HS,mens track,washington_state
-249,Brandon Bains,"Mountain View, Calif.",St. Francis HS,mens track,washington_state
-250,Sam Brixey,"Boise, Idaho",Capital HS,mens track,washington_state
-251,Amani Brown,"Seattle, Wash.",Mt. Rainier HS,mens track,washington_state
-252,Trevor Bushman,"Union, Wash.",Union HS,mens track,washington_state
-253,Ja'Maun Charles,"Pleasanton, Calif.",Amador Valley HS,mens track,washington_state
-254,Alex Cielo,"Maple Valley, Wash.",Tahoma HS,mens track,washington_state
-255,Josh Colbert,"Sammamish, Wash.",Eastlake HS,mens track,washington_state
-256,Andrew Cooper,"Issaquah, Wash.",Liberty HIS,mens track,washington_state
-257,Cameron Dean,"Spokane, Wash.",Mead HS,mens track,washington_state
-258,Brock Eager,"Renton, Wash.",Tahoma Senior HS,mens track,washington_state
-259,Max English,"Kingston, Wash.",Kingston HS,mens track,washington_state
-260,Alex Escalara,"Newport Coast, Calif.",Sage Hill HS,mens track,washington_state
-261,Jake Finney,"Post Falls, Idaho",Lake City HS,mens track,washington_state
-262,Robby Flores,"El Paso,Texas",N/A,mens track,washington_state
-263,Peyton Fredrickson,"Vancouver, Wash.",Skyview HS,mens track,washington_state
-264,Ethan Gardner,"Walla Walla, Wash.",Walla Walla HS,mens track,washington_state
-265,Troy Gingerich,"Sparks, Nev.",Reed HS,mens track,washington_state
-266,Christapherson Grant,"Lynnwood, Wash.",Meadowdale HS,mens track,washington_state
-267,Brian Greene,"Yakima, Wash.",Eisenhower HS,mens track,washington_state
-268,Keelan Halligan,"Bothell, Wash.",Bothell HS,mens track,washington_state
-269,Dallas Hobbs,"Cedar Rapids, Iowa",Washington HS,mens track,washington_state
-270,Tyler Jackson,"Richland, Wash.",Richland HS,mens track,washington_state
-271,Mitch Jacobson,"Walla Walla, Wash.",Walla Walla HS,mens track,washington_state
-272,Justin Janke,"Spokane, Wash.",North Central HS,mens track,washington_state
-273,Colton Johnsen,"Bellingham, Wash.",Sehome HS,mens track,washington_state
-274,Nick Johnson,"Spokane, Wash.",Gonzaga Prep,mens track,washington_state
-275,Abu Kamara,"Kent, Wash.",Kent-Meridian HS,mens track,washington_state
-276,Zak Kindl,"Spokane, Wash.",Lewis & Clark HS,mens track,washington_state
-277,Cody Kjarmo,"Richland, Wash.",Richland HS,mens track,washington_state
-278,Alec Kuzmack,"Eagle, Idaho",Eagle HS,mens track,washington_state
-279,Kyler Little,"Coeur d'Alene, Idaho",Lake City HS,mens track,washington_state
-280,Ray Littles,"issaquah, Wash.",Issaquah HS,mens track,washington_state
-281,Trey Lopes,"Pullman, Wash.",Pullman HS,mens track,washington_state
-282,Wyatt Meyring,"Edmonds, Wash.",Edmonds-Woodway HS,mens track,washington_state
-283,Tucker Mjelde,"Maple Valley, Wash.",Tahoma Senior HS,mens track,washington_state
-284,Martin Moldau,"Rakvere, Estonia",N/A,mens track,washington_state
-285,Sander Moldau,"Rakvere, Estonia",N/A,mens track,washington_state
-286,Reid Muller,"Pitt Meadows, B.C., Canada",Pitt Meadows Secondary,mens track,washington_state
-287,Jacob  Nicholson,"Spokane Valley, Wash.",West Valley HS,mens track,washington_state
-288,Jake Nienhuis,"Issaquah, Wash.",Issaquah HS,mens track,washington_state
-289,Drew Norvell,"Bellingham, Wash.",Sehome HS,mens track,washington_state
-290,Paul Ryan,"Moscow, Idaho",Logos HS,mens track,washington_state
-291,Luke Schilter,"Lacey, Wash.",Northwest Christian HS,mens track,washington_state
-292,Kennan  Schrag,"Issaquah, Wash.",Issaquah HS,mens track,washington_state
-293,Beau Sheeran,"Beaverton, Ore.",Beaverton HS,mens track,washington_state
-294,Ross Sherrer,"Lacey, Wash.",North Thurston HS,mens track,washington_state
-295,Cole Smith,"Hoquiam, Wash.",Hoquiam HS,mens track,washington_state
-296,Zach Smith,"Bremerton, Wash.",Olympic HS,mens track,washington_state
-297,Zach Stallings,"Reno, Nev.",McQueen HS,mens track,washington_state
-298,Brad Stevens,"Snoqualmie, Wash.",Mount Si HS,mens track,washington_state
-299,Jeremiah Stone,N/A,N/A,mens track,washington_state
-300,Nathan Tadesse,"Surrey, B.C., Canada",North Surrey Senior,mens track,washington_state
-301,Chandler Teigen,"Anatone, Wash.",Asotin HS,mens track,washington_state
-302,Jake Ulrich,"East Wenatchee, Wash.",Eastmont HS,mens track,washington_state
-303,Nathan Wadhwani,"Maple Ridge, B.C., Canada",Terry Fox Secondary,mens track,washington_state
-304,Matthew Watkins,"Mill Creek, Wash.",Jackson HS,mens track,washington_state
-305,John Whelan,"Etna, Calif.",Etna HS,mens track,washington_state
-306,Michael Williams,"Richland, Wash.",Richland HS,mens track,washington_state
-307,Natalie Ackerley,"Bainbridge, Wash.",Bainbridge HS,womens track,washington_state
-308,Oyinlola  Akinlosotu,"Federal Way, Wash.",Federal Way HS,womens track,washington_state
-309,Greer Alsop,"Invercargill, New Zealand",Southland HS,womens track,washington_state
-310,Kiyena Beatty,"Temecula, Calif.",Great Oak HS,womens track,washington_state
-311,Stacia Bell,"White Salmon, Wash.",Columbia HS,womens track,washington_state
-312,Devon Bortfeld,"Sammamish, Wash.",Eastlake HS,womens track,washington_state
-313,Adreonia Bradley,"Tacoma, Washington",Curtis HS,womens track,washington_state
-314,Alissa Brooks-Johnson,"Doty, Washington",Pe Ell HS,womens track,washington_state
-315,Chrisshnay Brown,"Lompoc, Calif.",Lompoc HS,womens track,washington_state
-316,Josie Brown,"Coeur d'Alene, Idaho",Coeur d'Alene HS,womens track,washington_state
-317,Stephanie Cho,"Vancouver, B.C. Canada",Churchill Secondary,womens track,washington_state
-318,Emily Coombs,"Santa Ana, Calif.",Orange Lutheran HS,womens track,washington_state
-319,Calahan Crawford,"Sherwood, Ore.",Sherwood HS,womens track,washington_state
-320,Katherine Dittmann,"Snohomish, Wash.",Glacier Peak HS,womens track,washington_state
-321,Macee  Erickson,"Akron, Ohio",Perry HS,womens track,washington_state
-322,Lita Forse,"Caldwell, Idaho",Caldwell HS,womens track,washington_state
-323,Katelyn Frost,"Corvallis, Mont.",Corvallis HS,womens track,washington_state
-324,Regyn Gaffney,"Chehalis, Wash.",Adna HS,womens track,washington_state
-325,Marie Gaudin,"Arlington, Wash.",Arlington HS,womens track,washington_state
-326,Jelena Grujic,"Novi Sad, Serbia",N/A,womens track,washington_state
-327,Zorana Grujic,"Novi Sad, Serbia",N/A,womens track,washington_state
-328,Melissa  Hruska,"Snoqualmie, Wash.",Mount Si HS,womens track,washington_state
-329,Atina Kamasi,"Novi Sad, Serbia",N/A,womens track,washington_state
-330,Kaili Keefe,"Yakima, Wash.",West Valley HS,womens track,washington_state
-331,Kelsey Kehl,"Baldwin City, Kan.",Baldwin HS,womens track,washington_state
-332,Samantha King-Shaw,"Sparks, Nev.",Reed HS,womens track,washington_state
-333,Vallery Korir,"Iten, Kenya",N/A,womens track,washington_state
-334,Kaitlin Krouse,"Chewelah, Wash.",Jenkins HS,womens track,washington_state
-335,Morgan Lash,"Anchorage, Alaska",South Anchorage HS,womens track,washington_state
-336,Aoife Martin,"Seattle, Wash.",Holy Names Academy,womens track,washington_state
-337,Kristen McDonnell,N/A,N/A,womens track,washington_state
-338,Imani Moronkola,"Seattle, Wash.",Garfield HS,womens track,washington_state
-339,Tracy Myers,"Beamsville, Ontario, Canada",Grimsby Secondary School,womens track,washington_state
-340,Lauren  Newman,"Yakima, Wash.",LaSalle HS,womens track,washington_state
-341,Cordelia Olson,"Walnut Creek, Calif.",Las Lomas HS,womens track,washington_state
-342,Jenaya Pynn,"Nanaimo, B.C. Canada",Wellington Secondary,womens track,washington_state
-343,Alexis Redfield,"Zillah, Wash.",Zillah HS,womens track,washington_state
-344,Pia Richards,"Sammamish, Wash.",Eastlake HS,womens track,washington_state
-345,Molly Scharmann,"Rancho Santa Margarita, Calif.",Tesoro HS,womens track,washington_state
-346,Lindsey Schauble,"Kennewick, Wash.",Kamiakin HS,womens track,washington_state
-347,Marlow Schulz,"Whitefish, Mont.",Whitefish HS,womens track,washington_state
-348,Tierney Silliman,"Yakima, Wash.",West Valley HS,womens track,washington_state
-349,Madelyn Sirmon,"Walla Walla, Wash.",Walla Walla HS,womens track,washington_state
-350,Desi Stinger,"Temecula, Calif.",Great Oak HS,womens track,washington_state
-351,Jordyn Tucker,"Monrovia, Calif.",Monrovia HS,womens track,washington_state
-352,Lovely Tukuafu,"Bountiful, Utah",Bountiful HS,womens track,washington_state
-353,Grace Victor,"Wakerley, Australia",N/A,womens track,washington_state
-354,Brittni Williams,"Auburn, Wash.",Auburn-Riverside HS,womens track,washington_state
-355,Breya Wynne,"Compton, Calif.",Redondo Union HS,womens track,washington_state
-356,Miranda Armstrong,"Eagle, Idaho",Eagle HS,womens rowing,washington_state
-357,Grace Arnis,"Olympia, Wash.",Olympia HS,womens rowing,washington_state
-358,Emma Barrett,"Vienna, Va.",James Madison HS,womens rowing,washington_state
-359,Madeleine  Bingham,"Richland, Wash.",Hanford HS,womens rowing,washington_state
-360,Jasmine Brake,"Auckland, New Zealand",Glendowie College,womens rowing,washington_state
-361,Sara Brevick,"Fall City, Wash.",Mount Si HS,womens rowing,washington_state
-362,Jess Brougham,"Wanganui, New Zealand",St. Peter's School,womens rowing,washington_state
-363,Jordyn Brounstein,"Petaluma, Calif.",Casa Grande HS,womens rowing,washington_state
-364,Ellie Burg,"Bellevue, Wash.",Bellevue HS,womens rowing,washington_state
-365,Rachael Christman,"Kennewick, Wash.",Southridge HS,womens rowing,washington_state
-366,Ella Cowan de Wolf,"Fairfield, Conn.",Miss Porter's School,womens rowing,washington_state
-367,Paige  Danielson,"St. Cloud, Minn.",Cathedral HS,womens rowing,washington_state
-368,Linnea Davison,"Aberdeen, Wash.",Aberdeen HS,womens rowing,washington_state
-369,Colombe de Rouvroy,"Auckland, New Zealand",Glendowie College,womens rowing,washington_state
-370,Ivy Elling Quaintance,"Sidney, British Columbia",Stellys HS,womens rowing,washington_state
-371,Emma Gribbon,"Victoria, British Columbia",Claremont Secondary School,womens rowing,washington_state
-372,Frances Guetlich,"Sammamish, Wash.",Eastlake HS,womens rowing,washington_state
-373,Lisa  Gutfleisch,"Heidelberg, Germany",Heidelberg College,womens rowing,washington_state
-374,Mahal Johnson,"Seattle, Wash.",Holy Names Academy,womens rowing,washington_state
-375,Renee Kemp,"Te Awamutu, New Zealand",Te Awamutu HS,womens rowing,washington_state
-376,Jenna Kennedy,"Vancouver, Wash.",Evergreen HS,womens rowing,washington_state
-377,Kateryna Maistrenko,"Kiev, Ukraine",Piddubny Olympic College,womens rowing,washington_state
-378,Jenna Mangiagli,"Hermosa Beach, Calif.",Mira Costa HS,womens rowing,washington_state
-379,Emily Morrow,"Regina, Saskatchewan",Campbell Collegiate,womens rowing,washington_state
-380,Jessica Norris,"Havelock, New Zealand",Woodford House,womens rowing,washington_state
-381,Kamila Ondrackova,"Prague, Czech Republic",Gymnázium Na Zatlance,womens rowing,washington_state
-382,Juliet Perry,"Black Diamond, Wash.",Holy Names Academy,womens rowing,washington_state
-383,Sophia Rogers,"Spokane, Wash.",Gonzaga Preparatory School,womens rowing,washington_state
-384,Codi Swenson,"Lander, Wyo.",Lander Valley HS,womens rowing,washington_state
-385,Taija Thompson,"Victoria, British Columbia",Stelly's Secondary School,womens rowing,washington_state
-386,Emily Thomson,"St. Catharines, Ontario",Sir Winston Churchill Secondary School,womens rowing,washington_state
-387,Kristel Tohu,"Tartu, Estonia",Tartu Jaan Poska Gümnaasium,womens rowing,washington_state
-388,Rosalina Torcivia,"Ithaca, N.Y.",Ithaca HS,womens rowing,washington_state
-389,Emily Weible,"St. Louis, Mo.",St. Joseph’s Academy,womens rowing,washington_state
-390,Lucie Weissova,"Prague, Czech Republic",Hotelova skola Radlicka,womens rowing,washington_state
-391,Hannah Welzbacker,"Seaback, Wash.",Klahowya Secondary School,womens rowing,washington_state
-392,Chloe White,"North Saanich, British Columbia",Saint Michaels University School,womens rowing,washington_state
-393,Sue Yu,"Orlando, Fla.",Winter Park HS,womens rowing,washington_state
-394,Penny Tusa,"Long Beach, Calif.",Long Beach Poly HS,womens volleyball,washington_state
-395,Kalyah Williams,"Long Beach, Calif.",Long Beach  Poly,womens volleyball,washington_state
-396,Alexis Dirige,"San Francisco, Calif.",Sacred Heart Cathedral Prep,womens volleyball,washington_state
-397,McKenna Woodford,"Chandler, Ariz.",Hamilton HS,womens volleyball,washington_state
-398,Jocelyn Urias,"Tijuana, Mexico",Jose Vasconcelos,womens volleyball,washington_state
-399,Charity Bradley,"St. George, Utah",Desert Hills HS,womens volleyball,washington_state
-400,Hannah Pukis,"Tacoma, Wash.",Bellarmine Prep,womens volleyball,washington_state
-401,Taylor Mims,"Billings, Mont.",Billings Senior HS,womens volleyball,washington_state
-402,Claire Martin,"Bremerton, Wash.",Bellarmine Prep,womens volleyball,washington_state
-403,Olivia Coale,"Vancouver, Wash.",Skyview HS,womens volleyball,washington_state
-404,Kelii Aria McComber,"Kapolei, Hawai'i",Punahou School,womens volleyball,washington_state
-405,Abby Phillips,"Central City, Iowa",Marion HS,womens volleyball,washington_state
-406,Ella Lajos,"San Jose, Calif.",Valley Christian HS,womens volleyball,washington_state
-407,Ashley Brown,"Prosper, Texas",Prosper HS,womens volleyball,washington_state
+45,Owen Leonard,"Seattle, Wash.",Ballard HS,baseball,washington_state
+46,Payton Flynn,"Kennewick, Wash.",Kamiakin HS,baseball,washington_state
+47,Matthew Ellis,"Troutdale, Ore.",Sam Barlow,baseball,washington_state
+48,Connor Barison,"Redmond, Wash.",Redmond,baseball,washington_state
+49,Dylan Steen,"Spokane, Wash.",West Valley HS,baseball,washington_state
+50,Ky Bush,"West Haven, Utah",Fremont HS,baseball,washington_state
+51,Trevor Ichimura,"Mililani, Hawaii",Iolani HS,baseball,washington_state
+52,Brody Barnum,"Vancouver, Wash.",Skyview HS,baseball,washington_state
+53,Isaac Mullins,"North Bend, Wash.",Mount Si HS,baseball,washington_state
+54,Davis Baillie,"Woodinville, Wash.",Woodinville HS,baseball,washington_state
+55,Jared Thurber,"Burien, Wash.",Kennedy Catholic / Montana,baseball,washington_state
+56,Bryce Moyle,"Carson City, Nev.",Carson HS,baseball,washington_state
+57,Tyson Guerrero,"Chehalis, Wash.",W.F. West HS,baseball,washington_state
+58,Anthony Notaro,"Anacortes, Wash.",Anacortes HS,baseball,washington_state
+59,Bradley Polinsky,"San Diego, Calif.",Cathedral Catholic HS,baseball,washington_state
+60,Davontavean Martin,"Houma, La.",Ellender Memorial,football,washington_state
+61,Tyrese Ross,"Jacksonville, Fla.",Westlake HS (Ga.),football,washington_state
+62,Cammon Cooper,"Lehi, Utah",Lehi,football,washington_state
+63,Sean Harper Jr.,"Hartwell, Ga.",Hartwell County,football,washington_state
+64,Darrien Molton,"San Diego, Calif.",Chaparral,football,washington_state
+65,Marcus Strong,"Rialto, Calif.",Carter,football,washington_state
+66,Travell Harris,"Tampa, Fla.",Jesuit,football,washington_state
+67,Jamire Calvin,"Pasadena, Calif.",Cathedral,football,washington_state
+68,D'Angelo McKenzie,"San Jose, Calif.",Valley Christian,football,washington_state
+69,Easop Winston Jr.,"San Francisco, Calilf.",Serra,football,washington_state
+70,Drue Jackson,"Dallas, Texas",Sachse,football,washington_state
+71,Lamonte McDougle,"Pompano Beach, Fla.",Deerfield Beach,football,washington_state
+72,Ron Stone Jr.,"San Jose, Calif.",Valley Christian,football,washington_state
+73,Trey Tinsley,"Lake Forest, Calif.",El Toro,football,washington_state
+74,John Bledsoe,"Bend, Ore.",Summit HS,football,washington_state
+75,Dezmon Patmon,"San Diego, Calif.",Patrick Henry,football,washington_state
+76,Connor Neville,"Beaverton, Ore.",Wilsonville,football,washington_state
+77,Jahad Woods,"San Diego, Calif.",Helix,football,washington_state
+78,Robert Lewis,"Watts, Calif.",South East,football,washington_state
+79,Gardner Minshew II,"Brandon, Miss.",Brandon,football,washington_state
+80,Kyle Sweet,"Rancho Santa Margarita, Calif.",Santa Margarita,football,washington_state
+81,Anthony Gordon,"Pacifica, Calif.",Terra Nova HS ‘15,football,washington_state
+82,George Hicks III,"San Bernardo, Calilf.",Cajon,football,washington_state
+83,Brandon Arconado,"Chino Hills, Calif.",Bishop Amat HS,football,washington_state
+84,Casey Brink,"Bainbridge Island, Wash.",Bainbridge HS,football,washington_state
+85,Dominick Silvels,"San Diego, Calif.",Patrick Henry,football,washington_state
+86,Max Borghi,"Arvada, Colo.",Pomona,football,washington_state
+87,William Overstreet,"Pleasant Grove, Utah",Lehi,football,washington_state
+88,Deion Singleton,"Tallahassee, Fla.","Chiawana (Pasco, Wash.)",football,washington_state
+89,Keith Harrington,"St. Petersburg, Fla.",Northeast,football,washington_state
+90,Skyler Thomas,"Riverside, Calif.",Citrus Hill,football,washington_state
+91,Hunter Dale,"New Orleans, La.",John Curtis Christian,football,washington_state
+92,Logan Prescott,"La Quinta, Calif.",La Quinta,football,washington_state
+93,Willie Taylor III,"Cochran, Ga.",Bleckley County,football,washington_state
+94,Chad Davis Jr.,"Daytona, Fla.",Mainland,football,washington_state
+95,Drew Kobayashi,"Honolulu, Hawaii",Saint Louis,football,washington_state
+96,Makiah Gilmer,"Seattle, Wash.",Juanita,football,washington_state
+97,Isaiah Love,"West Covina, Calif.",West Covina,football,washington_state
+98,Nnamdi Oguayo,"Beltsville, Md.",High Point,football,washington_state
+99,Myles Green-Richards,"Eugene, Ore.",Churchill,football,washington_state
+100,Patrick Nunn,"San Mateo, Calif.",Junipero Serra,football,washington_state
+101,James Williams,"Burbank, Calif.",Burbank,football,washington_state
+102,Jack Crane,"Sammamish, Wash.",Skyline,football,washington_state
+103,Alex Flood,"Scottsdale, Ariz.",Pinnacle,football,washington_state
+104,Jalen Thompson,"Downey, Calif.",Downey,football,washington_state
+105,Armani Marsh,"Spokane, Wash.",Gonzaga Prep,football,washington_state
+106,Solomon Cooper,"Urbandale, Iowa",Urbandale,football,washington_state
+107,Kedron Williams,"Bellflower, Calif.",St. John Bosco,football,washington_state
+108,Caleb Perry,"Seattle, Wash.",King's,football,washington_state
+109,Justus Rogers,"Bellevue, Wash.",Bellevue,football,washington_state
+110,Hayden Schmidt,"Mount Vernon, Wash.",Mount Vernon HS,football,washington_state
+111,Damion Lee,"Palm Springs, Calif.",Palm Springs,football,washington_state
+112,Clay Markoff,"Olympia, Wash.",Olympia HS,football,washington_state
+113,Blake Mazza,"Plano, Texas",Plano,football,washington_state
+114,Chima Onyeukwu,"Pittsburg, Calif.",Pittsburg,football,washington_state
+115,Dillon Sherman,"Mission Viejo, Calif.",El Toro,football,washington_state
+116,Halid Djibril,"Los Angeles, Calif",Cathedral,football,washington_state
+117,Tristan Brock,"Mount Vernon, Wash.",Mount Vernon,football,washington_state
+118,Logan Tago,"Fagasa, American Samoa",Samoana,football,washington_state
+119,Kyle Celli,"Seattle, Wash.",Bishop Blanchet,football,washington_state
+120,Mason Vinyard,"El Cajon, Calif.",Helix,football,washington_state
+121,Peyton Pelluer,"Sammamish, Wash.",Skyline,football,washington_state
+122,Oliver Graybar,"Reno, Nev.",Reno,football,washington_state
+123,Isaiah Henderson-Brazie,"Portland, Ore.",Jesuit,football,washington_state
+124,Karson Block,"Mission Viejo, Calif.",Atascadero,football,washington_state
+125,Hank Pladson,"Sammamish, Wash.",Eastlake,football,washington_state
+126,Kingston Fernandez,"Kapolei, Hawaii",Kapolei,football,washington_state
+127,Derek Moore,N/A,N/A,football,washington_state
+128,Noah Osur-Myers,"Walnut Creek, Calif.",Las Lomas,football,washington_state
+129,Taylor Comfort,"Sultan, Wash.",Sultan,football,washington_state
+130,Fa'avae Fa'avae,"Carson, Calif.",Mater Dei,football,washington_state
+131,Cole Dubots,"Murrieta, Callif.",Vista Murrieta,football,washington_state
+132,Brian Greene,"Yakima, Wash.",Eisenhower,football,washington_state
+133,Andre Dillard,"Woodinville, Wash.",Woodinville,football,washington_state
+134,Hunter Mayginnes,"Chandler, Ariz.",Hamilton,football,washington_state
+135,Carson Shuman,"Helena, Mont.",Capital,football,washington_state
+136,Liam Ryan,"Chino Hills, Calif.",Damien,football,washington_state
+137,Michael Van Beek,"Arlington, Wash.",Arlington,football,washington_state
+138,Josh Watson,"Everett, Wash.",Cascade,football,washington_state
+139,Jarrett Kingston,"Anderson, Calif.",Anderson,football,washington_state
+140,Seth Yost,"Coeur d'Alene, Idaho",Lake City,football,washington_state
+141,Frederick Mauigoa,"Iliili, American Samoa",Tafuna,football,washington_state
+142,Christian Haangana,"Milpitas, Calif.",Milpitas,football,washington_state
+143,Abraham Lucas,"Everett, Wash.",Archbishop Murphy,football,washington_state
+144,Robert Valencia,"Daly City, Calif.",Riordan,football,washington_state
+145,Cade Beresford,"Woodinville, Wash.",Woodinville,football,washington_state
+146,Tyler Williams,"Los Gatos, Calif.",Los Gatos,football,washington_state
+147,Beau Braden,"Vancouver, Wash.",Columbia River,football,washington_state
+148,Syr Riley,"Los Angeles, Calif.",Pacific Palisades,football,washington_state
+149,Blake McDonald,"Danville, Calif.",San Ramon Valley,football,washington_state
+150,Hayden Harvey,"Boise, Idaho",Patriot HS,football,washington_state
+151,Renard Bell,"Los Angeles, Calif.",Cathedral,football,washington_state
+152,Lucas Bacon,"Spokane, Wash.",Mead,football,washington_state
+153,Brandon Gray,"Detroit, Mich.",Cass Tech,football,washington_state
+154,Jesus Echevarria,"Everett, Wash.",Archbishop Murphy,football,washington_state
+155,Kassidy Woods,"Addison, Texas",Greenhill,football,washington_state
+156,Calvin Jackson Jr.,"Pompano Beach, Fla.",Coral Spring Charter,football,washington_state
+157,Kainoa Wilson,"Nanakuli, Hawaii",Mililani,football,washington_state
+158,Rodrick Fisher,"Spokane Valley, Wash.",East Valley,football,washington_state
+159,Nick Begg,"Rancho Santa Margarita, Calif.",Santa Margarita,football,washington_state
+160,Mitchell Quinn,"Honolulu, Hawaii",Saint Louis,football,washington_state
+161,Misiona Aiolupotea-Pei,"Gold Coast, Australia","Porirua College (Wellington, N.Z.)",football,washington_state
+162,Will Rodgers III,"Saginaw, Mich.",Valor Christian (Colo.),football,washington_state
+163,Christian Mejia,"Kailua, Hawaii",Kailua,football,washington_state
+164,Oscar Draguicevich III,"Hutto, Texas",Hutto,football,washington_state
+165,Brennan Jackson,"Temecula, Calif.",Great Oak,football,washington_state
+166,Ahmir Crowder,"Los Angeles, Calif.",Crenshaw,football,washington_state
+167,Preston Hendry,"Rancho Santa Margarita, Calif.",Tesoro,football,washington_state
+168,Johan Zetterberg,"Danville, Calif.",San Ramon Valley,football,washington_state
+169,Hunter Mattox,"Calabasas, Calif.",Sierra Canyon,football,washington_state
+170,Dallas Hobbs,"Cedar Rapids, Iowa",Washington,football,washington_state
+171,Ella Dederick,"Camarillo, Calif.",Newbury Park HS,womens soccer,washington_state
+172,Emma Dahline,"Mill Creek, Wash.",Jackson HS,womens soccer,washington_state
+173,Marin Auth,"Medina, Ohio",Medina HS,womens soccer,washington_state
+174,Makamae Gomera-Stevens,"Kapolei, HI",Kamehameha Kapalama HS,womens soccer,washington_state
+175,Ebony Clarke,"Richmond, British Columbia",RC Palmer Secondary School,womens soccer,washington_state
+176,Jamie Rita,"Burien, Wash.",Highline HS,womens soccer,washington_state
+177,Morgan Weaver,"University Place, Wash.",Curtis HS,womens soccer,washington_state
+178,Elaily Hernandez-Repreza,"Huntington Park, Calif.",Los Angeles Center for Enriched Studies,womens soccer,washington_state
+179,Gracie Armstrong,"Broomfield, Colo.",Legacy HS,womens soccer,washington_state
+180,Sydney Pulver,"Parker, Colo.",Regis Jesuit HS,womens soccer,washington_state
+181,Brianna Alger,"Monument, Colo.",Lewis-Palmer HS,womens soccer,washington_state
+182,Shanya Dhindsa,"Surrey, British Columbia",Panorama Ridge Secondary,womens soccer,washington_state
+183,Katie Jones,"Corona, Calif.",Santiago HS,womens soccer,washington_state
+184,Elyse Bennett,"De Pere, Wis.",De Pere HS,womens soccer,washington_state
+185,Molly Myers,"Oceanside, Calif.",Rancho Buena Vista HS,womens soccer,washington_state
+186,Courtney Worstell,"Moorpark, Calif.",Moorpark HS,womens soccer,washington_state
+187,Grace Hancock,"Boise, Idaho",Boise HS,womens soccer,washington_state
+188,Hailey Smith,"San Jose, Calif.",Archbishop Mitty HS,womens soccer,washington_state
+189,Sarah Davidson,"Camas, Wash.",Camas HS,womens soccer,washington_state
+190,Maddy Haro,"Corona, Calif.",Santiago HS,womens soccer,washington_state
+191,Aaqila McLyn,"Long Beach, Calif.",Long Beach Poly,womens soccer,washington_state
+192,Hanna Goff,"Glendora, Calif.",Glendora HS,womens soccer,washington_state
+193,Shayna Whieldon,"Norco, Calif.",Upland HS,womens soccer,washington_state
+194,Mykiaa Minniss,"Colorado Springs, Colo.",Doherty HS,womens soccer,washington_state
+195,Maegan O'Neill,"Spokane, Wash.",Ferris HS,womens soccer,washington_state
+196,Rachel Thompson,"Nikiski, AK",Nikiski HS,womens soccer,washington_state
+197,Mariah Rojas,"Yakima, Wash.",East Valley HS,womens soccer,washington_state
+198,Gabriella Crenshaw,"Marysville, Wash.",Marysville Pilchuck HS,womens soccer,washington_state
+199,Alysha Overland,"Moses Lake, Wash.",Moses Lake HS,womens soccer,washington_state
+200,Kelis Barton,"Renton, Wash.",Renton HS,womens soccer,washington_state
+201,Amir Ado,"Spokane, Wash.",Ferris HS,mens cross country,washington_state
+202,Andrew Cooper,"Issaquah, Wash.",Liberty HS,mens cross country,washington_state
+203,Cameron Dean,"Spokane, Wash.",Mead HS,mens cross country,washington_state
+204,Justin Janke,"Spokane, Wash.",North Central HS,mens cross country,washington_state
+205,Colton Johnsen,"Bellingham, Wash.",Sehome HS,mens cross country,washington_state
+206,Zak Kindl,"Spokane, Washingon",Lewis & Clark HS,mens cross country,washington_state
+207,Kyler Little,"Coeur d'Alene, Idaho",Lake City HS,mens cross country,washington_state
+208,Reid Muller,"Pitt Meadows, B.C., Canada",Pitt Meadows Secondary,mens cross country,washington_state
+209,Jacob Nicholson,"Spokane Valley, Washinton",West Valley HS,mens cross country,washington_state
+210,Nate Pendleton,"Sammamish, Wash.",Eastlake HS,mens cross country,washington_state
+211,Paul Ryan,"Moscow, Idaho",Logos HS,mens cross country,washington_state
+212,Luke Schilter,"Lacey, Washington",Northwest Christian HS,mens cross country,washington_state
+213,Kennan Schrag,"Issaquah, Wash.",Issaquah HS,mens cross country,washington_state
+214,Zach Stallings,"Reno, Nevada",McQueen HS,mens cross country,washington_state
+215,Chandler Teigen,"Anatone, Wash.",Asotin HS,mens cross country,washington_state
+216,Nathan Wadhwani,"Maple Ridge, B.C., Canada",Terry Fox Secondary,mens cross country,washington_state
+217,Noah Wallace,"Lake Stevens, Wash.",Concordia,mens cross country,washington_state
+218,Matthew Watkins,"Mill Creek, Washington",Jackson HS,mens cross country,washington_state
+219,Kiyena Beatty,"Temecula, California",Great Oak HS,womens cross country,washington_state
+220,Josie Brown,"Coeur d'Alene, Idaho","Coeur d'Alene, Idaho",womens cross country,washington_state
+221,Marie Gaudin,"Arlington, Wash.",Arlington HS,womens cross country,washington_state
+222,Zorana Grujic,"Novi Sad, Serbia",N/A,womens cross country,washington_state
+223,Melissa Hruska,"Snoqualmie, Wash.",Mount Si HS,womens cross country,washington_state
+224,Emma Jenkins,"Camas, Wash.",Camas HS,womens cross country,washington_state
+225,Kaili Keefe,"Yakima, Wash.",West Valley HS,womens cross country,washington_state
+226,Samantha King-Shaw,"Sparks, Nevada",Reed HS,womens cross country,washington_state
+227,Vallery Korir,"Iten, Kenya",Murray State,womens cross country,washington_state
+228,Jenaya Pynn,"Nanaimo, B.C. Canada",Wellington Secondary,womens cross country,washington_state
+229,Alexis Redfield,"Zillah, Wash.",Zillah HS,womens cross country,washington_state
+230,Pia Richards,"Sammamish, Washington",Eastlake HS,womens cross country,washington_state
+231,Geneva Schlepp,"Sammamish, Wash.",Skyline HS,womens cross country,washington_state
+232,Desi Stinger,"Temecula, Calif.",Great Oak HS,womens cross country,washington_state
+233,Kelsey Takeuchi,"Renton, Wash.",Liberty HS,womens cross country,washington_state
+234,Elena Willems,"Snohomish, Wash.",Glacier Peak HS,womens cross country,washington_state
+235,AJ Armstrong,"St. Albert, Alberta",St. Albert Catholic HS,mens golf,washington_state
+236,Nicklaus Chiam,N/A,N/A,mens golf,washington_state
+237,Grant Cole,"Redmond, Wash.",Interlake HS,mens golf,washington_state
+238,Daniel Kolar,"Syndey, Australia",Champagnat Catholic College Pagewood,mens golf,washington_state
+239,Khan Lee,"Langley, B.C",Clayton Heights Secondary School,mens golf,washington_state
+240,Ryan Maine,"Spokane, Wash.",Freeman HS,mens golf,washington_state
+241,Daisuke Nakano,"Tokyo, Japan",Morningside Academy,mens golf,washington_state
+242,Scott Redelsperger,"Phoenix, Ariz.",Thunderbird HS,mens golf,washington_state
+243,Emily Baumgart,"Walla Walla, Wash.",DeSales Catholic School,womens golf,washington_state
+244,Elodie  Bridenne,"Rennes Cedex, France",CNED Institut  de Rennes,womens golf,washington_state
+245,Amy  Chu,"Sydney, Australia",N/A,womens golf,washington_state
+246,Marie Lund-Hansen,"Aabenraa, Denmark",Aabenraa Statsskole,womens golf,washington_state
+247,Cameron  March,"Los Angeles, CA",Marlborough School,womens golf,washington_state
+248,Madison Odiorne,"Bend, Ore.",Summit HS,womens golf,washington_state
+249,Sophia Balmaceda,"Fremont, Calif.",American High School,womens swimming,washington_state
+250,Emily Barrier,"Fort Collins, Colo.",Rocky Mountain High SChool,womens swimming,washington_state
+251,Payton Bokowy,"Sandpoint, Idaho",Sandpoint High School,womens swimming,washington_state
+252,Luciana (Luci) Brock,"Edmonds, Wash.",Woodway HS,womens swimming,washington_state
+253,Lauren Burckel,"Albuquerque, N.M.",Eldorado High School,womens swimming,washington_state
+254,Mackenzie Duarte,"Walnut Creek, Calif.",Alhambra HS,womens swimming,washington_state
+255,Ryan Falk,"Portland, Ore.",Jesuit HS,womens swimming,washington_state
+256,Keiana Fountaine,"Tracy, Calif.",John C. Kimball High School,womens swimming,washington_state
+257,Paige Gardner,"Walla Walla, Wash.",Walla Walla High School,womens swimming,washington_state
+258,Samantha Howell,"Austin, Texas",Lake Travis HS,womens swimming,washington_state
+259,Hailey Hyde,"Bend, Ore.",Bend Senior High,womens swimming,washington_state
+260,Ciera Kelly,"Juneau, Alaska",Juneau-Douglass HS,womens swimming,washington_state
+261,Chloe Larson,"Rapid City, S.D.",St. Thomas More HS,womens swimming,washington_state
+262,Linnea Lindberg,"Stockholm, Sweden",Klara Sodra,womens swimming,washington_state
+263,Jasmine Margetts,"Torrance, Calif.",North HS,womens swimming,washington_state
+264,Taylor McCoy,"Pullman, Wash.",Pullman HS,womens swimming,washington_state
+265,Kelly Morgan,"Edmonds, Wash.",Meadowdale HS,womens swimming,washington_state
+266,Clothilde Peseux,"Besancon, France",Lycee Ledoux,womens swimming,washington_state
+267,Maia Petrides,"Honolulu, Hawaii",Mid-Pacific Institute,womens swimming,washington_state
+268,Olivia Tungate,"Oak Harbor, Wash.",Oak Harbor High School,womens swimming,washington_state
+269,Melisa Ates,"Antalya, Turkey",N/A,womens tennis,washington_state
+270,Michaela Bayerlova,"Krumbach, Germany",N/A,womens tennis,washington_state
+271,Jovana Knezevic,"Limassol, Cyprus",N/A,womens tennis,washington_state
+272,Yang Lee,"Taichung, Taiwan",N/A,womens tennis,washington_state
+273,Aneta Miksovska,"Stramberk, Czech Republic",N/A,womens tennis,washington_state
+274,Tiffany Mylonas,"Brussels, Belgium",N/A,womens tennis,washington_state
+275,Hikaru Sato,"Tokyo, Japan",N/A,womens tennis,washington_state
+276,Ege Tomey,"Izmir, Turkey",N/A,womens tennis,washington_state
+277,Amir Ado,"Spokane, Wash.",Ferris HS,mens track,washington_state
+278,Corey Allen,"Allyn, Wash.",North Mason HS,mens track,washington_state
+279,Brandon Bains,"Mountain View, Calif.",St. Francis HS,mens track,washington_state
+280,Sam Brixey,"Boise, Idaho",Capital HS,mens track,washington_state
+281,Amani Brown,"Seattle, Wash.",Mt. Rainier HS,mens track,washington_state
+282,Trevor Bushman,"Union, Wash.",Union HS,mens track,washington_state
+283,Ja'Maun Charles,"Pleasanton, Calif.",Amador Valley HS,mens track,washington_state
+284,Alex Cielo,"Maple Valley, Wash.",Tahoma HS,mens track,washington_state
+285,Josh Colbert,"Sammamish, Wash.",Eastlake HS,mens track,washington_state
+286,Andrew Cooper,"Issaquah, Wash.",Liberty HIS,mens track,washington_state
+287,Cameron Dean,"Spokane, Wash.",Mead HS,mens track,washington_state
+288,Brock Eager,"Renton, Wash.",Tahoma Senior HS,mens track,washington_state
+289,Max English,"Kingston, Wash.",Kingston HS,mens track,washington_state
+290,Alex Escalara,"Newport Coast, Calif.",Sage Hill HS,mens track,washington_state
+291,Jake Finney,"Post Falls, Idaho",Lake City HS,mens track,washington_state
+292,Robby Flores,"El Paso,Texas",N/A,mens track,washington_state
+293,Peyton Fredrickson,"Vancouver, Wash.",Skyview HS,mens track,washington_state
+294,Ethan Gardner,"Walla Walla, Wash.",Walla Walla HS,mens track,washington_state
+295,Troy Gingerich,"Sparks, Nev.",Reed HS,mens track,washington_state
+296,Christapherson Grant,"Lynnwood, Wash.",Meadowdale HS,mens track,washington_state
+297,Brian Greene,"Yakima, Wash.",Eisenhower HS,mens track,washington_state
+298,Keelan Halligan,"Bothell, Wash.",Bothell HS,mens track,washington_state
+299,Dallas Hobbs,"Cedar Rapids, Iowa",Washington HS,mens track,washington_state
+300,Tyler Jackson,"Richland, Wash.",Richland HS,mens track,washington_state
+301,Mitch Jacobson,"Walla Walla, Wash.",Walla Walla HS,mens track,washington_state
+302,Justin Janke,"Spokane, Wash.",North Central HS,mens track,washington_state
+303,Colton Johnsen,"Bellingham, Wash.",Sehome HS,mens track,washington_state
+304,Nick Johnson,"Spokane, Wash.",Gonzaga Prep,mens track,washington_state
+305,Abu Kamara,"Kent, Wash.",Kent-Meridian HS,mens track,washington_state
+306,Zak Kindl,"Spokane, Wash.",Lewis & Clark HS,mens track,washington_state
+307,Cody Kjarmo,"Richland, Wash.",Richland HS,mens track,washington_state
+308,Alec Kuzmack,"Eagle, Idaho",Eagle HS,mens track,washington_state
+309,Kyler Little,"Coeur d'Alene, Idaho",Lake City HS,mens track,washington_state
+310,Ray Littles,"issaquah, Wash.",Issaquah HS,mens track,washington_state
+311,Trey Lopes,"Pullman, Wash.",Pullman HS,mens track,washington_state
+312,Wyatt Meyring,"Edmonds, Wash.",Edmonds-Woodway HS,mens track,washington_state
+313,Tucker Mjelde,"Maple Valley, Wash.",Tahoma Senior HS,mens track,washington_state
+314,Martin Moldau,"Rakvere, Estonia",N/A,mens track,washington_state
+315,Sander Moldau,"Rakvere, Estonia",N/A,mens track,washington_state
+316,Reid Muller,"Pitt Meadows, B.C., Canada",Pitt Meadows Secondary,mens track,washington_state
+317,Jacob  Nicholson,"Spokane Valley, Wash.",West Valley HS,mens track,washington_state
+318,Jake Nienhuis,"Issaquah, Wash.",Issaquah HS,mens track,washington_state
+319,Drew Norvell,"Bellingham, Wash.",Sehome HS,mens track,washington_state
+320,Paul Ryan,"Moscow, Idaho",Logos HS,mens track,washington_state
+321,Luke Schilter,"Lacey, Wash.",Northwest Christian HS,mens track,washington_state
+322,Kennan  Schrag,"Issaquah, Wash.",Issaquah HS,mens track,washington_state
+323,Beau Sheeran,"Beaverton, Ore.",Beaverton HS,mens track,washington_state
+324,Ross Sherrer,"Lacey, Wash.",North Thurston HS,mens track,washington_state
+325,Cole Smith,"Hoquiam, Wash.",Hoquiam HS,mens track,washington_state
+326,Zach Smith,"Bremerton, Wash.",Olympic HS,mens track,washington_state
+327,Zach Stallings,"Reno, Nev.",McQueen HS,mens track,washington_state
+328,Brad Stevens,"Snoqualmie, Wash.",Mount Si HS,mens track,washington_state
+329,Jeremiah Stone,N/A,N/A,mens track,washington_state
+330,Nathan Tadesse,"Surrey, B.C., Canada",North Surrey Senior,mens track,washington_state
+331,Chandler Teigen,"Anatone, Wash.",Asotin HS,mens track,washington_state
+332,Jake Ulrich,"East Wenatchee, Wash.",Eastmont HS,mens track,washington_state
+333,Nathan Wadhwani,"Maple Ridge, B.C., Canada",Terry Fox Secondary,mens track,washington_state
+334,Matthew Watkins,"Mill Creek, Wash.",Jackson HS,mens track,washington_state
+335,John Whelan,"Etna, Calif.",Etna HS,mens track,washington_state
+336,Michael Williams,"Richland, Wash.",Richland HS,mens track,washington_state
+337,Natalie Ackerley,"Bainbridge, Wash.",Bainbridge HS,womens track,washington_state
+338,Oyinlola  Akinlosotu,"Federal Way, Wash.",Federal Way HS,womens track,washington_state
+339,Greer Alsop,"Invercargill, New Zealand",Southland HS,womens track,washington_state
+340,Kiyena Beatty,"Temecula, Calif.",Great Oak HS,womens track,washington_state
+341,Stacia Bell,"White Salmon, Wash.",Columbia HS,womens track,washington_state
+342,Devon Bortfeld,"Sammamish, Wash.",Eastlake HS,womens track,washington_state
+343,Adreonia Bradley,"Tacoma, Washington",Curtis HS,womens track,washington_state
+344,Alissa Brooks-Johnson,"Doty, Washington",Pe Ell HS,womens track,washington_state
+345,Chrisshnay Brown,"Lompoc, Calif.",Lompoc HS,womens track,washington_state
+346,Josie Brown,"Coeur d'Alene, Idaho",Coeur d'Alene HS,womens track,washington_state
+347,Stephanie Cho,"Vancouver, B.C. Canada",Churchill Secondary,womens track,washington_state
+348,Emily Coombs,"Santa Ana, Calif.",Orange Lutheran HS,womens track,washington_state
+349,Calahan Crawford,"Sherwood, Ore.",Sherwood HS,womens track,washington_state
+350,Katherine Dittmann,"Snohomish, Wash.",Glacier Peak HS,womens track,washington_state
+351,Macee  Erickson,"Akron, Ohio",Perry HS,womens track,washington_state
+352,Lita Forse,"Caldwell, Idaho",Caldwell HS,womens track,washington_state
+353,Katelyn Frost,"Corvallis, Mont.",Corvallis HS,womens track,washington_state
+354,Regyn Gaffney,"Chehalis, Wash.",Adna HS,womens track,washington_state
+355,Marie Gaudin,"Arlington, Wash.",Arlington HS,womens track,washington_state
+356,Jelena Grujic,"Novi Sad, Serbia",N/A,womens track,washington_state
+357,Zorana Grujic,"Novi Sad, Serbia",N/A,womens track,washington_state
+358,Melissa  Hruska,"Snoqualmie, Wash.",Mount Si HS,womens track,washington_state
+359,Atina Kamasi,"Novi Sad, Serbia",N/A,womens track,washington_state
+360,Kaili Keefe,"Yakima, Wash.",West Valley HS,womens track,washington_state
+361,Kelsey Kehl,"Baldwin City, Kan.",Baldwin HS,womens track,washington_state
+362,Samantha King-Shaw,"Sparks, Nev.",Reed HS,womens track,washington_state
+363,Vallery Korir,"Iten, Kenya",N/A,womens track,washington_state
+364,Kaitlin Krouse,"Chewelah, Wash.",Jenkins HS,womens track,washington_state
+365,Morgan Lash,"Anchorage, Alaska",South Anchorage HS,womens track,washington_state
+366,Aoife Martin,"Seattle, Wash.",Holy Names Academy,womens track,washington_state
+367,Kristen McDonnell,N/A,N/A,womens track,washington_state
+368,Imani Moronkola,"Seattle, Wash.",Garfield HS,womens track,washington_state
+369,Tracy Myers,"Beamsville, Ontario, Canada",Grimsby Secondary School,womens track,washington_state
+370,Lauren  Newman,"Yakima, Wash.",LaSalle HS,womens track,washington_state
+371,Cordelia Olson,"Walnut Creek, Calif.",Las Lomas HS,womens track,washington_state
+372,Jenaya Pynn,"Nanaimo, B.C. Canada",Wellington Secondary,womens track,washington_state
+373,Alexis Redfield,"Zillah, Wash.",Zillah HS,womens track,washington_state
+374,Pia Richards,"Sammamish, Wash.",Eastlake HS,womens track,washington_state
+375,Molly Scharmann,"Rancho Santa Margarita, Calif.",Tesoro HS,womens track,washington_state
+376,Lindsey Schauble,"Kennewick, Wash.",Kamiakin HS,womens track,washington_state
+377,Marlow Schulz,"Whitefish, Mont.",Whitefish HS,womens track,washington_state
+378,Tierney Silliman,"Yakima, Wash.",West Valley HS,womens track,washington_state
+379,Madelyn Sirmon,"Walla Walla, Wash.",Walla Walla HS,womens track,washington_state
+380,Desi Stinger,"Temecula, Calif.",Great Oak HS,womens track,washington_state
+381,Jordyn Tucker,"Monrovia, Calif.",Monrovia HS,womens track,washington_state
+382,Lovely Tukuafu,"Bountiful, Utah",Bountiful HS,womens track,washington_state
+383,Grace Victor,"Wakerley, Australia",N/A,womens track,washington_state
+384,Brittni Williams,"Auburn, Wash.",Auburn-Riverside HS,womens track,washington_state
+385,Breya Wynne,"Compton, Calif.",Redondo Union HS,womens track,washington_state
+386,Grace Arnis,"Olympia, Wash.",Olympia HS,womens rowing,washington_state
+387,Emily Austin,"Seattle, Wash.",Holy Names Academy,womens rowing,washington_state
+388,Emma Barrett,"Vienna, Va.",James Madison HS,womens rowing,washington_state
+389,Madeleine  Bingham,"Richland, Wash.",Hanford HS,womens rowing,washington_state
+390,Taylor Blevins,"Edmonds, Wash.",Edmonds-Woodway HS,womens rowing,washington_state
+391,Jasmine Brake,"Auckland, New Zealand",Glendowie College,womens rowing,washington_state
+392,Sara Brevick,"Fall City, Wash.",Mount Si HS,womens rowing,washington_state
+393,Jess Brougham,"Wanganui, New Zealand",St. Peter's School,womens rowing,washington_state
+394,Ony Chigozie,"West Richland, Wash.",Hanford HS,womens rowing,washington_state
+395,Rachael Christman,"Kennewick, Wash.",Southridge HS,womens rowing,washington_state
+396,Emma Conaty,"Edmonds, Wash.",Seattle Prep,womens rowing,washington_state
+397,Ella Cowan de Wolf,"Fairfield, Conn.",Miss Porter's School,womens rowing,washington_state
+398,Isabella Cristelli,"Elma, Wash.",Elma HS,womens rowing,washington_state
+399,Miranda Dahmen,"Clackamas, Ore.",Clackamas HS,womens rowing,washington_state
+400,Paige  Danielson,"St. Cloud, Minn.",Cathedral HS,womens rowing,washington_state
+401,Linnea Davison,"Aberdeen, Wash.",Aberdeen HS,womens rowing,washington_state
+402,Colombe de Rouvroy,"Auckland, New Zealand",Glendowie College,womens rowing,washington_state
+403,Emma Dockray,"Grimsby, Ontario",N/A,womens rowing,washington_state
+404,Megan  Duthart,"London, England",N/A,womens rowing,washington_state
+405,Ivy Elling Quaintance,"Sidney, British Columbia",Stellys HS,womens rowing,washington_state
+406,Emma Gribbon,"Victoria, British Columbia",Claremont Secondary School,womens rowing,washington_state
+407,Lisa  Gutfleisch,"Heidelberg, Germany",Heidelberg College,womens rowing,washington_state
+408,Gabby Hannen,"Nelson, New Zealand",Nelson College for Girls,womens rowing,washington_state
+409,Nora Hefte,"Pullman, Wash.",Pullman HS,womens rowing,washington_state
+410,Ellie  Higgins,"Danville, Calif.",San Ramon Valley HS,womens rowing,washington_state
+411,Leena Kattel,"Tartu, Estonia",N/A,womens rowing,washington_state
+412,Renee Kemp,"Te Awamutu, New Zealand",Te Awamutu HS,womens rowing,washington_state
+413,Soleil Lakin,"Mill Creek, Wash.",Jackson HS,womens rowing,washington_state
+414,Kateryna Maistrenko,"Kiev, Ukraine",Piddubny Olympic College,womens rowing,washington_state
+415,Ciara McCall,"Olympia, Wash.",N/A,womens rowing,washington_state
+416,McKenna  Menner,"Spokane, Wash.",Mead HS,womens rowing,washington_state
+417,Meg Montgomery,"Lantzville, British Columbia",St. Michaels University School,womens rowing,washington_state
+418,Jessica Norris,"Havelock, New Zealand",Woodford House,womens rowing,washington_state
+419,Olivia Olmstead,"West Linn, Ore.",West Linn HS,womens rowing,washington_state
+420,Kamila Ondrackova,"Prague, Czech Republic",Gymnázium Na Zatlance,womens rowing,washington_state
+421,Juliet Perry,"Black Diamond, Wash.",Holy Names Academy,womens rowing,washington_state
+422,Sophia Rogers,"Spokane, Wash.",Gonzaga Preparatory School,womens rowing,washington_state
+423,Chloe  Strupulis,"Anchorage, Alaska",Grace Christian School,womens rowing,washington_state
+424,Taija Thompson,"Victoria, British Columbia",Stelly's Secondary School,womens rowing,washington_state
+425,Cassidy Thompson,"Missoula, Mont.",Hellgate HS,womens rowing,washington_state
+426,Rosalina Torcivia,"Ithaca, N.Y.",Ithaca HS,womens rowing,washington_state
+427,Aneesa Turner-Rahman,"Pullman, Wash.",Pullman HS,womens rowing,washington_state
+428,Katelyn  Ware,"Mount Vernon, Wash.",Mount Vernon HS,womens rowing,washington_state
+429,Emily Weible,"St. Louis, Mo.",St. Joseph's Academy,womens rowing,washington_state
+430,Hannah Welzbacker,"Seaback, Wash.",Klahowya Secondary School,womens rowing,washington_state
+431,Chloe White,"North Saanich, British Columbia",Saint Michaels University School,womens rowing,washington_state
+432,Kailee Williams,"Tacoma, Wash.",Spanaway Lake HS,womens rowing,washington_state
+433,Madison Williams,"Fair Oaks, Calif.",Bella Vista HS,womens rowing,washington_state
+434,Sue Yu,"Orlando, Fla.",Winter Park HS,womens rowing,washington_state
+435,Penny Tusa,"Long Beach, Calif.",Long Beach Poly HS,womens volleyball,washington_state
+436,Kalyah Williams,"Long Beach, Calif.",Long Beach  Poly,womens volleyball,washington_state
+437,Lida Kastanou,"Athens, Greece",Moraitis School,womens volleyball,washington_state
+438,Alexis Dirige,"San Francisco, Calif.",Sacred Heart Cathedral Prep,womens volleyball,washington_state
+439,McKenna Woodford,"Chandler, Ariz.",Hamilton HS,womens volleyball,washington_state
+440,Jocelyn Urias,"Tijuana, Mexico",Jose Vasconcelos,womens volleyball,washington_state
+441,Charity Bradley,"St. George, Utah",Desert Hills HS,womens volleyball,washington_state
+442,Hannah Pukis,"Tacoma, Wash.",Bellarmine Prep,womens volleyball,washington_state
+443,Taylor Mims,"Billings, Mont.",Billings Senior HS,womens volleyball,washington_state
+444,Claire Martin,"Bremerton, Wash.",Bellarmine Prep,womens volleyball,washington_state
+445,Olivia Coale,"Vancouver, Wash.",Skyview HS,womens volleyball,washington_state
+446,Aria McComber,"Kapolei, Hawai'i",Punahou School,womens volleyball,washington_state
+447,Abby Phillips,"Central City, Iowa",Marion HS,womens volleyball,washington_state
+448,Gabbie Heller,"Los Gatos, Calif.",St. Francis HS,womens volleyball,washington_state
+449,Ella Lajos,"San Jose, Calif.",Valley Christian HS,womens volleyball,washington_state
+450,Ashley Brown,"Prosper, Texas",Prosper HS,womens volleyball,washington_state
