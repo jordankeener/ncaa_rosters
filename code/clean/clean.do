@@ -4,18 +4,22 @@ cap log close
 
 
 global homedir "~/Documents/GitHub/ncaa_rosters"
+
+
 global indata ${homedir}/output
 global outdata ${homedir}/output/cleaned
 global code ${homedir}/code/clean
 
-log using "${code}/clean.log", text replace
+cd "${code}"
 
-run ${code}/ancillary_data/state_abbrevs.do
-cd ${code}
+log using clean.log", text replace
+
+
+run ancillary_data/state_abbrevs.do
 run _clean_functions.do
 
-// cleans raw roster data
 
+// clean raw roster data
 ******************************************************************************
 // build local with schools and make schools dataset
 import excel using ${homedir}/notes/schools.xlsx, clear firstrow
